@@ -1,7 +1,7 @@
 ---
 title: How Do You Remove Restricted Mode on iPhone 13 mini | Dr.fone
-date: 2024-04-01T07:04:38.069Z
-updated: 2024-04-02T07:04:38.069Z
+date: 2024-04-01T13:04:43.452Z
+updated: 2024-04-02T13:04:43.452Z
 tags: 
   - unlock
   - remove screen lock

@@ -1,7 +1,7 @@
 ---
 title: In 2024, 3 Ways to Erase Apple iPhone 13 mini When Its Locked Within Seconds | Dr.fone
-date: 2024-04-01T07:04:38.106Z
-updated: 2024-04-02T07:04:38.106Z
+date: 2024-04-01T13:04:43.487Z
+updated: 2024-04-02T13:04:43.487Z
 tags: 
   - unlock
   - remove screen lock

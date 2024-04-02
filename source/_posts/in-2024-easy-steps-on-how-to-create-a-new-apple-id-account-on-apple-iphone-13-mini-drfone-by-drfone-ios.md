@@ -1,7 +1,7 @@
 ---
 title: In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 13 mini | Dr.fone
-date: 2024-04-01T07:04:38.119Z
-updated: 2024-04-02T07:04:38.119Z
+date: 2024-04-01T13:04:43.501Z
+updated: 2024-04-02T13:04:43.501Z
 tags: 
   - unlock
   - remove screen lock

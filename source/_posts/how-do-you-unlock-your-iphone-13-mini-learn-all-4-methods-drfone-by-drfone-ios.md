@@ -1,7 +1,7 @@
 ---
 title: How Do You Unlock your iPhone 13 mini? Learn All 4 Methods | Dr.fone
-date: 2024-04-01T07:04:38.070Z
-updated: 2024-04-02T07:04:38.070Z
+date: 2024-04-01T13:04:43.453Z
+updated: 2024-04-02T13:04:43.453Z
 tags: 
   - unlock
   - remove screen lock

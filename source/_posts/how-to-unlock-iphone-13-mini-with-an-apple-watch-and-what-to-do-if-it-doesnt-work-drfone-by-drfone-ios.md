@@ -1,7 +1,7 @@
 ---
 title: How to Unlock iPhone 13 mini With an Apple Watch & What to Do if It Doesnt Work | Dr.fone
-date: 2024-04-01T07:04:38.086Z
-updated: 2024-04-02T07:04:38.086Z
+date: 2024-04-01T13:04:43.467Z
+updated: 2024-04-02T13:04:43.467Z
 tags: 
   - unlock
   - remove screen lock

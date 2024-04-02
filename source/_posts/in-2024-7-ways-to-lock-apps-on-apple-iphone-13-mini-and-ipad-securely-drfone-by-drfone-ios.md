@@ -1,7 +1,7 @@
 ---
 title: In 2024, 7 Ways to Lock Apps on Apple iPhone 13 mini and iPad Securely | Dr.fone
-date: 2024-04-01T07:04:38.092Z
-updated: 2024-04-02T07:04:38.092Z
+date: 2024-04-01T13:04:43.473Z
+updated: 2024-04-02T13:04:43.473Z
 tags: 
   - unlock
   - remove screen lock

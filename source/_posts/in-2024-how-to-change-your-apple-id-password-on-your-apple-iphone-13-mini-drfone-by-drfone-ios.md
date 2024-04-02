@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Change Your Apple ID Password On your Apple iPhone 13 mini | Dr.fone
-date: 2024-04-01T07:04:38.101Z
-updated: 2024-04-02T07:04:38.101Z
+date: 2024-04-01T13:04:43.482Z
+updated: 2024-04-02T13:04:43.482Z
 tags: 
   - unlock
   - remove screen lock

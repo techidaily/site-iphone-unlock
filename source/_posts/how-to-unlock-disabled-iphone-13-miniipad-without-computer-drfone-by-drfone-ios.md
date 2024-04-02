@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Disabled iPhone 13 mini/iPad Without Computer | Dr.fone
-date: 2024-04-01T07:04:38.073Z
-updated: 2024-04-02T07:04:38.073Z
+date: 2024-04-01T13:04:43.456Z
+updated: 2024-04-02T13:04:43.456Z
 tags: 
   - unlock
   - remove screen lock

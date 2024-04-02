@@ -1,7 +1,7 @@
 ---
 title: Reset iTunes Backup Password Of iPhone 13 mini Prevention & Solution | Dr.fone
-date: 2024-04-01T07:04:38.057Z
-updated: 2024-04-02T07:04:38.057Z
+date: 2024-04-01T13:04:43.434Z
+updated: 2024-04-02T13:04:43.434Z
 tags: 
   - unlock
   - remove screen lock

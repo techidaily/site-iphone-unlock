@@ -1,7 +1,7 @@
 ---
 title: In 2024, Locked Out of Apple iPhone 13 mini? 5 Ways to get into a Locked Apple iPhone 13 mini | Dr.fone
-date: 2024-04-01T07:04:38.116Z
-updated: 2024-04-02T07:04:38.116Z
+date: 2024-04-01T13:04:43.498Z
+updated: 2024-04-02T13:04:43.498Z
 tags: 
   - unlock
   - remove screen lock

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Can You Unlock Apple iPhone 13 mini After Forgetting the Passcode? | Dr.fone
-date: 2024-04-01T07:04:38.114Z
-updated: 2024-04-02T07:04:38.114Z
+date: 2024-04-01T13:04:43.497Z
+updated: 2024-04-02T13:04:43.497Z
 tags: 
   - unlock
   - remove screen lock

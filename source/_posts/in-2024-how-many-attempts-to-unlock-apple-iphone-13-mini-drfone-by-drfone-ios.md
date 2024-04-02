@@ -1,7 +1,7 @@
 ---
 title: In 2024, How Many Attempts To Unlock Apple iPhone 13 mini | Dr.fone
-date: 2024-04-01T07:04:38.118Z
-updated: 2024-04-02T07:04:38.118Z
+date: 2024-04-01T13:04:43.500Z
+updated: 2024-04-02T13:04:43.500Z
 tags: 
   - unlock
   - remove screen lock

@@ -1,7 +1,7 @@
 ---
 title: How to Unlock iPhone 13 mini Passcode without iTunes without Knowing Passcode? | Dr.fone
-date: 2024-04-01T07:04:38.079Z
-updated: 2024-04-02T07:04:38.079Z
+date: 2024-04-01T13:04:43.461Z
+updated: 2024-04-02T13:04:43.461Z
 tags: 
   - unlock
   - remove screen lock

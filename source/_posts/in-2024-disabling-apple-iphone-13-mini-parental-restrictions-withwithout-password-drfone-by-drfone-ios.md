@@ -1,7 +1,7 @@
 ---
 title: In 2024, Disabling Apple iPhone 13 mini Parental Restrictions With/Without Password | Dr.fone
-date: 2024-04-01T07:04:38.103Z
-updated: 2024-04-02T07:04:38.103Z
+date: 2024-04-01T13:04:43.485Z
+updated: 2024-04-02T13:04:43.485Z
 tags: 
   - unlock
   - remove screen lock

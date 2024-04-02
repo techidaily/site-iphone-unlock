@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Turn Off Find My Apple iPhone 13 mini when Phone is Broken? | Dr.fone
-date: 2024-04-01T07:04:38.123Z
-updated: 2024-04-02T07:04:38.123Z
+date: 2024-04-01T13:04:43.505Z
+updated: 2024-04-02T13:04:43.505Z
 tags: 
   - unlock
   - remove screen lock
