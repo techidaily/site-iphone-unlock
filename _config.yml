@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: TechiDaily
+title: iPhone Unlock
 subtitle: 'Enjoy life easier but more creative!'
-description: 'TechiDaily is the largest, most trusted online solution for everyone to learn, share​ ​their ​knowledge, and help other people.'
-keywords: 'Tools, File explorer, Convert, Repair tools, data recovery'
-author: TechiDaily
+description: 'iPhone Unlock is the largest, most trusted online solution for everyone to learn, share​ ​their ​knowledge, and help other people.'
+keywords: 'iphone unlock tool, iphone unlock, ios unlock, ios unlock tool,Tools, File explorer, Convert, Repair tools, data recovery'
+author: Amelia
 language: en
 timezone: ''
 
@@ -102,6 +102,7 @@ theme: redefine
 sitemap:
   path: 
     - sitemap.txt
+    - sitemap.xml
   rel: false
   tags: false
   categories: false
