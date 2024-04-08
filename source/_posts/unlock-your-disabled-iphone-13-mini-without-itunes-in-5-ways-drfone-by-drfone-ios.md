@@ -1,7 +1,7 @@
 ---
 title: Unlock Your Disabled iPhone 13 mini Without iTunes in 5 Ways | Dr.fone
-date: 2024-04-01T13:04:43.457Z
-updated: 2024-04-02T13:04:43.457Z
+date: 2024-04-02T07:10:18.426Z
+updated: 2024-04-03T07:10:18.426Z
 tags: 
   - unlock
   - remove screen lock

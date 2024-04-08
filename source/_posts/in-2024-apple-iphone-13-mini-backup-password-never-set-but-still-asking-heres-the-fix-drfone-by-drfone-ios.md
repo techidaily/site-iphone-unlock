@@ -1,7 +1,7 @@
 ---
 title: In 2024, Apple iPhone 13 mini Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone
-date: 2024-04-01T13:04:43.489Z
-updated: 2024-04-02T13:04:43.489Z
+date: 2024-04-02T07:10:18.472Z
+updated: 2024-04-03T07:10:18.472Z
 tags: 
   - unlock
   - remove screen lock

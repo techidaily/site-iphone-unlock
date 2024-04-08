@@ -1,7 +1,7 @@
 ---
 title: In 2024, How Can I Unlock My Apple iPhone 13 mini After Forgetting my PIN Code? | Dr.fone
-date: 2024-04-01T13:04:43.493Z
-updated: 2024-04-02T13:04:43.493Z
+date: 2024-04-02T07:10:18.476Z
+updated: 2024-04-03T07:10:18.476Z
 tags: 
   - unlock
   - remove screen lock

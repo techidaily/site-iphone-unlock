@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone 13 mini | Dr.fone
-date: 2024-04-01T13:04:43.476Z
-updated: 2024-04-02T13:04:43.476Z
+date: 2024-04-02T07:10:18.459Z
+updated: 2024-04-03T07:10:18.459Z
 tags: 
   - unlock
   - remove screen lock

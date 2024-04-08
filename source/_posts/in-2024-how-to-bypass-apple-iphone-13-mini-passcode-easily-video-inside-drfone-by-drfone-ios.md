@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Bypass Apple iPhone 13 mini Passcode Easily Video Inside | Dr.fone
-date: 2024-04-01T13:04:43.478Z
-updated: 2024-04-02T13:04:43.478Z
+date: 2024-04-02T07:10:18.462Z
+updated: 2024-04-03T07:10:18.462Z
 tags: 
   - unlock
   - remove screen lock

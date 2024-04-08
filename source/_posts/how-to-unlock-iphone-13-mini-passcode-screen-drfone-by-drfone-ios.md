@@ -1,7 +1,7 @@
 ---
 title: How to Unlock iPhone 13 mini Passcode Screen? | Dr.fone
-date: 2024-04-01T13:04:43.466Z
-updated: 2024-04-02T13:04:43.466Z
+date: 2024-04-02T07:10:18.435Z
+updated: 2024-04-03T07:10:18.435Z
 tags: 
   - unlock
   - remove screen lock

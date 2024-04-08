@@ -1,7 +1,7 @@
 ---
 title: How To Remove Flashlight From iPhone 13 mini Lock Screen | Dr.fone
-date: 2024-04-01T13:04:43.431Z
-updated: 2024-04-02T13:04:43.431Z
+date: 2024-04-02T07:10:18.412Z
+updated: 2024-04-03T07:10:18.412Z
 tags: 
   - unlock
   - remove screen lock

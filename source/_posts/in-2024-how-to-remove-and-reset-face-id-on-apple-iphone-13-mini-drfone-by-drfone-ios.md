@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Remove and Reset Face ID on Apple iPhone 13 mini | Dr.fone
-date: 2024-04-01T13:04:43.502Z
-updated: 2024-04-02T13:04:43.502Z
+date: 2024-04-02T07:10:18.486Z
+updated: 2024-04-03T07:10:18.486Z
 tags: 
   - unlock
   - remove screen lock

@@ -1,7 +1,7 @@
 ---
 title: In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 13 mini | Dr.fone
-date: 2024-04-01T13:04:43.475Z
-updated: 2024-04-02T13:04:43.475Z
+date: 2024-04-02T07:10:18.457Z
+updated: 2024-04-03T07:10:18.457Z
 tags: 
   - unlock
   - remove screen lock

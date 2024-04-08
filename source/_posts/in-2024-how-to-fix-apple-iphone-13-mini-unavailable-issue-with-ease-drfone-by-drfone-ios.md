@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Apple iPhone 13 mini Unavailable Issue With Ease | Dr.fone
-date: 2024-04-01T13:04:43.492Z
-updated: 2024-04-02T13:04:43.492Z
+date: 2024-04-02T07:10:18.475Z
+updated: 2024-04-03T07:10:18.475Z
 tags: 
   - unlock
   - remove screen lock

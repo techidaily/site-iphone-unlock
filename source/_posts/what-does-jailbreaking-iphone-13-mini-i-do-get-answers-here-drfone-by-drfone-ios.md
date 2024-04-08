@@ -1,7 +1,7 @@
 ---
 title: What Does Jailbreaking iPhone 13 mini i Do? Get Answers here | Dr.fone
-date: 2024-04-01T13:04:43.472Z
-updated: 2024-04-02T13:04:43.472Z
+date: 2024-04-02T07:10:18.455Z
+updated: 2024-04-03T07:10:18.455Z
 tags: 
   - unlock
   - remove screen lock

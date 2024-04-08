@@ -1,7 +1,7 @@
 ---
 title: In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone 13 mini Without iTunes | Dr.fone
-date: 2024-04-01T13:04:43.488Z
-updated: 2024-04-02T13:04:43.488Z
+date: 2024-04-02T07:10:18.471Z
+updated: 2024-04-03T07:10:18.471Z
 tags: 
   - unlock
   - remove screen lock

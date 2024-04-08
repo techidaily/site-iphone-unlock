@@ -1,7 +1,7 @@
 ---
 title: How To Unlock iPhone 13 mini Without Swiping Up? 6 Ways | Dr.fone
-date: 2024-04-01T13:04:43.437Z
-updated: 2024-04-02T13:04:43.437Z
+date: 2024-04-02T07:10:18.418Z
+updated: 2024-04-03T07:10:18.418Z
 tags: 
   - unlock
   - remove screen lock

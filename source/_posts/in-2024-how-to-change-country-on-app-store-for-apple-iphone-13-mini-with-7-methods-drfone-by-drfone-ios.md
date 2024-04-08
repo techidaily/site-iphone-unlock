@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Change Country on App Store for Apple iPhone 13 mini With 7 Methods | Dr.fone
-date: 2024-04-01T13:04:43.484Z
-updated: 2024-04-02T13:04:43.484Z
+date: 2024-04-02T07:10:18.466Z
+updated: 2024-04-03T07:10:18.466Z
 tags: 
   - unlock
   - remove screen lock

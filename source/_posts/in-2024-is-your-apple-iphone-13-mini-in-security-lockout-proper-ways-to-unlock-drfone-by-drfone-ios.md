@@ -1,7 +1,7 @@
 ---
 title: In 2024, Is Your Apple iPhone 13 mini in Security Lockout? Proper Ways To Unlock | Dr.fone
-date: 2024-04-01T13:04:43.499Z
-updated: 2024-04-02T13:04:43.499Z
+date: 2024-04-02T07:10:18.482Z
+updated: 2024-04-03T07:10:18.482Z
 tags: 
   - unlock
   - remove screen lock

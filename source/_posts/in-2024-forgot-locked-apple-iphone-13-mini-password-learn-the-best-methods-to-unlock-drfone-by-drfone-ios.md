@@ -1,7 +1,7 @@
 ---
 title: In 2024, Forgot Locked Apple iPhone 13 mini Password? Learn the Best Methods To Unlock | Dr.fone
-date: 2024-04-01T13:04:43.494Z
-updated: 2024-04-02T13:04:43.494Z
+date: 2024-04-02T07:10:18.477Z
+updated: 2024-04-03T07:10:18.477Z
 tags: 
   - unlock
   - remove screen lock

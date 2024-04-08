@@ -1,7 +1,7 @@
 ---
 title: In 2024, Unlocking Apple iPhone 13 mini Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone
-date: 2024-04-01T13:04:43.477Z
-updated: 2024-04-02T13:04:43.477Z
+date: 2024-04-02T07:10:18.460Z
+updated: 2024-04-03T07:10:18.460Z
 tags: 
   - unlock
   - remove screen lock

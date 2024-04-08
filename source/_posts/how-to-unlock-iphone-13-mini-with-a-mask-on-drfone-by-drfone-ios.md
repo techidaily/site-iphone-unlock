@@ -1,7 +1,7 @@
 ---
 title: How to Unlock iPhone 13 mini with a Mask On | Dr.fone
-date: 2024-04-01T13:04:43.463Z
-updated: 2024-04-02T13:04:43.463Z
+date: 2024-04-02T07:10:18.431Z
+updated: 2024-04-03T07:10:18.431Z
 tags: 
   - unlock
   - remove screen lock

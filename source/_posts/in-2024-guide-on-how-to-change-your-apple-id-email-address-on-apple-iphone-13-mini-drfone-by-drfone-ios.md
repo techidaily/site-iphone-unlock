@@ -1,7 +1,7 @@
 ---
 title: In 2024, Guide on How To Change Your Apple ID Email Address On Apple iPhone 13 mini | Dr.fone
-date: 2024-04-01T13:04:43.480Z
-updated: 2024-04-02T13:04:43.480Z
+date: 2024-04-02T07:10:18.463Z
+updated: 2024-04-03T07:10:18.463Z
 tags: 
   - unlock
   - remove screen lock

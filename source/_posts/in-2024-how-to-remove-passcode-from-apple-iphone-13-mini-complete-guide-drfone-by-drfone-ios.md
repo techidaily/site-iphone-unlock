@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Remove Passcode From Apple iPhone 13 mini? Complete Guide | Dr.fone
-date: 2024-04-01T13:04:43.504Z
-updated: 2024-04-02T13:04:43.504Z
+date: 2024-04-02T07:10:18.487Z
+updated: 2024-04-03T07:10:18.487Z
 tags: 
   - unlock
   - remove screen lock
