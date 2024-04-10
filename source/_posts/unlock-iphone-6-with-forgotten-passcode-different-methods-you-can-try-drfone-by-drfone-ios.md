@@ -1,7 +1,7 @@
 ---
 title: Unlock iPhone 6 With Forgotten Passcode Different Methods You Can Try | Dr.fone
-date: 2024-04-07T21:18:06.671Z
-updated: 2024-04-08T21:18:06.671Z
+date: 2024-04-09T00:38:20.294Z
+updated: 2024-04-10T00:38:20.294Z
 tags: 
   - unlock
   - remove screen lock

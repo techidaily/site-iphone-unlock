@@ -1,7 +1,7 @@
 ---
 title: Forgot Apple iPhone 6 Backup Password? Heres What to Do | Dr.fone
-date: 2024-04-07T21:18:06.590Z
-updated: 2024-04-08T21:18:06.590Z
+date: 2024-04-09T00:38:20.216Z
+updated: 2024-04-10T00:38:20.216Z
 tags: 
   - unlock
   - remove screen lock

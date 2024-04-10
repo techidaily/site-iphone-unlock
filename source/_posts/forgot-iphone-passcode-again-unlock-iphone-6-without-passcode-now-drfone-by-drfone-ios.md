@@ -1,7 +1,7 @@
 ---
 title: Forgot iPhone Passcode Again? Unlock iPhone 6 Without Passcode Now | Dr.fone
-date: 2024-04-07T21:18:06.707Z
-updated: 2024-04-08T21:18:06.707Z
+date: 2024-04-09T00:38:20.316Z
+updated: 2024-04-10T00:38:20.316Z
 tags: 
   - unlock
   - remove screen lock

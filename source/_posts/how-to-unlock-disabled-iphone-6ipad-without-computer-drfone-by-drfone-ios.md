@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Disabled iPhone 6/iPad Without Computer | Dr.fone
-date: 2024-04-07T21:18:06.744Z
-updated: 2024-04-08T21:18:06.744Z
+date: 2024-04-09T00:38:20.361Z
+updated: 2024-04-10T00:38:20.361Z
 tags: 
   - unlock
   - remove screen lock

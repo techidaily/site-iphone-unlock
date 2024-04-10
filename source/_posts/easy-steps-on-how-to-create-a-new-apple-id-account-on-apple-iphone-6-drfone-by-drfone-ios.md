@@ -1,7 +1,7 @@
 ---
 title: Easy Steps on How To Create a New Apple ID Account On Apple iPhone 6 | Dr.fone
-date: 2024-04-07T21:18:06.574Z
-updated: 2024-04-08T21:18:06.574Z
+date: 2024-04-09T00:38:20.188Z
+updated: 2024-04-10T00:38:20.188Z
 tags: 
   - unlock
   - remove screen lock

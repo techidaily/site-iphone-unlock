@@ -1,7 +1,7 @@
 ---
 title: iPhone 6 Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone
-date: 2024-04-07T21:18:06.724Z
-updated: 2024-04-08T21:18:06.724Z
+date: 2024-04-09T00:38:20.330Z
+updated: 2024-04-10T00:38:20.330Z
 tags: 
   - unlock
   - remove screen lock

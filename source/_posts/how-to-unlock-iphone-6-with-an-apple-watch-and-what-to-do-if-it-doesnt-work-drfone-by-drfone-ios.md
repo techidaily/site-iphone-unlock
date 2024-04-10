@@ -1,7 +1,7 @@
 ---
 title: How to Unlock iPhone 6 With an Apple Watch & What to Do if It Doesnt Work | Dr.fone
-date: 2024-04-07T21:18:06.763Z
-updated: 2024-04-08T21:18:06.763Z
+date: 2024-04-09T00:38:20.370Z
+updated: 2024-04-10T00:38:20.370Z
 tags: 
   - unlock
   - remove screen lock

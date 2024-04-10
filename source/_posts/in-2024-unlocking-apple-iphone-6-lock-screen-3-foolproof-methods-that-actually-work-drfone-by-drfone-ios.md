@@ -1,7 +1,7 @@
 ---
 title: In 2024, Unlocking Apple iPhone 6 Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone
-date: 2024-04-07T21:18:06.774Z
-updated: 2024-04-08T21:18:06.774Z
+date: 2024-04-09T00:38:20.379Z
+updated: 2024-04-10T00:38:20.379Z
 tags: 
   - unlock
   - remove screen lock

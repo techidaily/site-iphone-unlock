@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Apple iPhone 6 Passcode without iTunes without Knowing Passcode? | Dr.fone
-date: 2024-04-07T21:18:06.638Z
-updated: 2024-04-08T21:18:06.638Z
+date: 2024-04-09T00:38:20.248Z
+updated: 2024-04-10T00:38:20.248Z
 tags: 
   - unlock
   - remove screen lock

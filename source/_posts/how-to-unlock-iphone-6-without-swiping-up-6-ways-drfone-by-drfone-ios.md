@@ -1,7 +1,7 @@
 ---
 title: How To Unlock iPhone 6 Without Swiping Up? 6 Ways | Dr.fone
-date: 2024-04-07T21:18:06.737Z
-updated: 2024-04-08T21:18:06.737Z
+date: 2024-04-09T00:38:20.355Z
+updated: 2024-04-10T00:38:20.355Z
 tags: 
   - unlock
   - remove screen lock

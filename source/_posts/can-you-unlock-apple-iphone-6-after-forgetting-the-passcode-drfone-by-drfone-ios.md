@@ -1,7 +1,7 @@
 ---
 title: Can You Unlock Apple iPhone 6 After Forgetting the Passcode? | Dr.fone
-date: 2024-04-07T21:18:06.563Z
-updated: 2024-04-08T21:18:06.563Z
+date: 2024-04-09T00:38:20.182Z
+updated: 2024-04-10T00:38:20.182Z
 tags: 
   - unlock
   - remove screen lock

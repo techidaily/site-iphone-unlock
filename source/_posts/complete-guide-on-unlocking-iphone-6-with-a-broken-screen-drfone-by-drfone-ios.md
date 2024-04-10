@@ -1,7 +1,7 @@
 ---
 title: Complete Guide on Unlocking iPhone 6 with a Broken Screen? | Dr.fone
-date: 2024-04-07T21:18:06.703Z
-updated: 2024-04-08T21:18:06.703Z
+date: 2024-04-09T00:38:20.313Z
+updated: 2024-04-10T00:38:20.313Z
 tags: 
   - unlock
   - remove screen lock

@@ -1,7 +1,7 @@
 ---
 title: How To Open Your iPhone 6 Without a Home Button | Dr.fone
-date: 2024-04-07T21:18:06.730Z
-updated: 2024-04-08T21:18:06.730Z
+date: 2024-04-09T00:38:20.334Z
+updated: 2024-04-10T00:38:20.334Z
 tags: 
   - unlock
   - remove screen lock

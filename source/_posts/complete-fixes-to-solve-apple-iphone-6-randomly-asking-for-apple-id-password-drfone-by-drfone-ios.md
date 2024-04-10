@@ -1,7 +1,7 @@
 ---
 title: Complete Fixes To Solve Apple iPhone 6 Randomly Asking for Apple ID Password | Dr.fone
-date: 2024-04-07T21:18:06.618Z
-updated: 2024-04-08T21:18:06.618Z
+date: 2024-04-09T00:38:20.235Z
+updated: 2024-04-10T00:38:20.235Z
 tags: 
   - unlock
   - remove screen lock

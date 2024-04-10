@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Find My Apple iPhone 6 when Phone is Broken? | Dr.fone
-date: 2024-04-07T21:18:06.576Z
-updated: 2024-04-08T21:18:06.576Z
+date: 2024-04-09T00:38:20.190Z
+updated: 2024-04-10T00:38:20.190Z
 tags: 
   - unlock
   - remove screen lock

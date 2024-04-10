@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Change Your Apple ID on Apple iPhone 6 With or Without Password | Dr.fone
-date: 2024-04-07T21:18:06.777Z
-updated: 2024-04-08T21:18:06.777Z
+date: 2024-04-09T00:38:20.383Z
+updated: 2024-04-10T00:38:20.383Z
 tags: 
   - unlock
   - remove screen lock

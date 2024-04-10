@@ -1,7 +1,7 @@
 ---
 title: Forgot Locked iPhone 6 Password? Learn the Best Methods To Unlock | Dr.fone
-date: 2024-04-07T21:18:06.670Z
-updated: 2024-04-08T21:18:06.670Z
+date: 2024-04-09T00:38:20.292Z
+updated: 2024-04-10T00:38:20.292Z
 tags: 
   - unlock
   - remove screen lock

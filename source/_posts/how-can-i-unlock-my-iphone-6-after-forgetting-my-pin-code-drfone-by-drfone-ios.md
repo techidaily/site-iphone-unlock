@@ -1,7 +1,7 @@
 ---
 title: How Can I Unlock My iPhone 6 After Forgetting my PIN Code? | Dr.fone
-date: 2024-04-07T21:18:06.669Z
-updated: 2024-04-08T21:18:06.669Z
+date: 2024-04-09T00:38:20.291Z
+updated: 2024-04-10T00:38:20.291Z
 tags: 
   - unlock
   - remove screen lock

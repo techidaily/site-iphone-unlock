@@ -1,7 +1,7 @@
 ---
 title: Did Your iPhone 6 Passcode Change Itself? Unlock It Now | Dr.fone
-date: 2024-04-07T21:18:06.723Z
-updated: 2024-04-08T21:18:06.723Z
+date: 2024-04-09T00:38:20.328Z
+updated: 2024-04-10T00:38:20.328Z
 tags: 
   - unlock
   - remove screen lock

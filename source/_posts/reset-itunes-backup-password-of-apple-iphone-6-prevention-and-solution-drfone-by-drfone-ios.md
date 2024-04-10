@@ -1,7 +1,7 @@
 ---
 title: Reset iTunes Backup Password Of Apple iPhone 6 Prevention & Solution | Dr.fone
-date: 2024-04-07T21:18:06.616Z
-updated: 2024-04-08T21:18:06.616Z
+date: 2024-04-09T00:38:20.234Z
+updated: 2024-04-10T00:38:20.234Z
 tags: 
   - unlock
   - remove screen lock

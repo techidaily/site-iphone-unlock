@@ -1,7 +1,7 @@
 ---
 title: How to Unlock iPhone 6 without Passcode or Face ID | Dr.fone
-date: 2024-04-07T21:18:06.706Z
-updated: 2024-04-08T21:18:06.706Z
+date: 2024-04-09T00:38:20.315Z
+updated: 2024-04-10T00:38:20.315Z
 tags: 
   - unlock
   - remove screen lock

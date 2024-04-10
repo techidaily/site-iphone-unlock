@@ -1,7 +1,7 @@
 ---
 title: How to Unlock iPhone 6 Passcode Screen? | Dr.fone
-date: 2024-04-07T21:18:06.762Z
-updated: 2024-04-08T21:18:06.762Z
+date: 2024-04-09T00:38:20.369Z
+updated: 2024-04-10T00:38:20.369Z
 tags: 
   - unlock
   - remove screen lock

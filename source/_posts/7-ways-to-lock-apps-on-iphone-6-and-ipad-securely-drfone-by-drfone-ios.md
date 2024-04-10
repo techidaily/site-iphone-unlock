@@ -1,7 +1,7 @@
 ---
 title: 7 Ways to Lock Apps on iPhone 6 and iPad Securely | Dr.fone
-date: 2024-04-07T21:18:06.650Z
-updated: 2024-04-08T21:18:06.650Z
+date: 2024-04-09T00:38:20.267Z
+updated: 2024-04-10T00:38:20.267Z
 tags: 
   - unlock
   - remove screen lock

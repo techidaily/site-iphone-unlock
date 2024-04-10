@@ -1,7 +1,7 @@
 ---
 title: Locked Out of Apple iPhone 6? 5 Ways to get into a Locked Apple iPhone 6 | Dr.fone
-date: 2024-04-07T21:18:06.565Z
-updated: 2024-04-08T21:18:06.565Z
+date: 2024-04-09T00:38:20.183Z
+updated: 2024-04-10T00:38:20.183Z
 tags: 
   - unlock
   - remove screen lock

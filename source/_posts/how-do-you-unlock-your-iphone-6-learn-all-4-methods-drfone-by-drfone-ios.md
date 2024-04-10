@@ -1,7 +1,7 @@
 ---
 title: How Do You Unlock your iPhone 6? Learn All 4 Methods | Dr.fone
-date: 2024-04-07T21:18:06.741Z
-updated: 2024-04-08T21:18:06.741Z
+date: 2024-04-09T00:38:20.358Z
+updated: 2024-04-10T00:38:20.358Z
 tags: 
   - unlock
   - remove screen lock

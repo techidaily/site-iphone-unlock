@@ -1,7 +1,7 @@
 ---
 title: iPhone 6 Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone
-date: 2024-04-07T21:18:06.665Z
-updated: 2024-04-08T21:18:06.665Z
+date: 2024-04-09T00:38:20.287Z
+updated: 2024-04-10T00:38:20.287Z
 tags: 
   - unlock
   - remove screen lock

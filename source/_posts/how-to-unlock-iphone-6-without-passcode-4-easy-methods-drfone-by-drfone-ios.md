@@ -1,7 +1,7 @@
 ---
 title: How To Unlock iPhone 6 Without Passcode? 4 Easy Methods | Dr.fone
-date: 2024-04-07T21:18:06.753Z
-updated: 2024-04-08T21:18:06.753Z
+date: 2024-04-09T00:38:20.363Z
+updated: 2024-04-10T00:38:20.363Z
 tags: 
   - unlock
   - remove screen lock
