@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on iPhone 6 Plus | Dr.fone
-date: 2024-04-12T00:14:38.286Z
-updated: 2024-04-13T00:14:38.286Z
+date: 2024-04-30T17:39:36.724Z
+updated: 2024-05-01T17:39:36.724Z
 tags: 
   - unlock
   - remove screen lock
@@ -566,3 +566,4 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 <li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-vivo-t2x-5g-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Vivo T2x 5G Phone Network-Ready</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-y100a-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo Y100A to Laptop Without USB | Dr.fone</u></a></li>
 </ul></div>
+

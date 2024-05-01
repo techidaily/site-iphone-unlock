@@ -1,7 +1,7 @@
 ---
 title: Forgot Apple iPhone 6s Backup Password? Heres What to Do | Dr.fone
-date: 2024-04-12T00:15:17.107Z
-updated: 2024-04-13T00:15:17.107Z
+date: 2024-04-30T17:39:37.277Z
+updated: 2024-05-01T17:39:37.277Z
 tags: 
   - unlock
   - remove screen lock
@@ -557,3 +557,4 @@ When you know how to unlock Apple iPhone 6s without the passcode, you can easily
 <li><a href="https://review-topics.techidaily.com/motorola-wont-play-hevc-h265-media-how-to-fix-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Motorola won’t play HEVC H.265 media, how to fix?</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-poco-c55-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Poco C55? | Dr.fone</u></a></li>
 </ul></div>
+

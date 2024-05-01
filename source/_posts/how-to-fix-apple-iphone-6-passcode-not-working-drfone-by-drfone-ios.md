@@ -1,7 +1,7 @@
 ---
 title: How to Fix Apple iPhone 6 Passcode not Working? | Dr.fone
-date: 2024-04-12T00:13:52.479Z
-updated: 2024-04-13T00:13:52.479Z
+date: 2024-04-30T17:39:36.033Z
+updated: 2024-05-01T17:39:36.033Z
 tags: 
   - unlock
   - remove screen lock
@@ -463,3 +463,4 @@ Luckily, we’re here to provide a series of dependable and secure solutions tha
 <li><a href="https://iphone-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-7-drfone-by-drfone-ios/" ><u>How Many Attempts To Unlock Apple iPhone 7 | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-7-passcode-not-working-drfone-by-drfone-ios/" ><u>How to Fix iPhone 7 Passcode not Working? | Dr.fone</u></a></li>
 </ul></div>
+

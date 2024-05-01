@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Unlock iPhone 6 without Passcode or Face ID | Dr.fone
-date: 2024-04-12T00:13:54.084Z
-updated: 2024-04-13T00:13:54.084Z
+date: 2024-04-30T17:39:36.241Z
+updated: 2024-05-01T17:39:36.241Z
 tags: 
   - unlock
   - remove screen lock
@@ -483,3 +483,4 @@ Now you know what to do the next time you forget your passcode. Using the simple
 <li><a href="https://techidaily.com/undelete-lost-messages-from-infinix-smart-7-hd-by-fonelab-android-recover-messages/" ><u>Undelete lost messages from Infinix Smart 7 HD</u></a></li>
 <li><a href="https://review-topics.techidaily.com/play-mov-movies-on-motorola-defy-2-is-it-possible-by-aiseesoft-video-converter-play-mov-on-android/" ><u>Play MOV movies on Motorola Defy 2, is it possible?</u></a></li>
 </ul></div>
+

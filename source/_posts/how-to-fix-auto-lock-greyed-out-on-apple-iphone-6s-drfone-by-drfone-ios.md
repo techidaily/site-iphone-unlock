@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on Apple iPhone 6s | Dr.fone
-date: 2024-04-12T00:15:16.947Z
-updated: 2024-04-13T00:15:16.947Z
+date: 2024-04-30T17:39:37.275Z
+updated: 2024-05-01T17:39:37.275Z
 tags: 
   - unlock
   - remove screen lock
@@ -587,3 +587,4 @@ Dr.Fone-Screen Unlock is one of the most effective ways can help you to unlock a
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-poco-m6-5g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Poco M6 5G Screen to PC with Chromecast | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-tecno-pova-5-pro-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Tecno Pova 5 Pro FRP Without Computer</u></a></li>
 </ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Forgot iPhone 6 Backup Password? Heres What to Do | Dr.fone
-date: 2024-04-12T00:14:13.309Z
-updated: 2024-04-13T00:14:13.309Z
+date: 2024-04-30T17:39:36.478Z
+updated: 2024-05-01T17:39:36.478Z
 tags: 
   - unlock
   - remove screen lock
@@ -495,3 +495,4 @@ Now, in case you know the Apple iPhone 6 restrictions passcode and just wish to 
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-samsung-galaxy-s23-tactical-edition-phone-by-drfone-android/"><u>How to Unlock a Network Locked Samsung Galaxy S23 Tactical Edition Phone?</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Vivo S17e? | Dr.fone</u></a></li>
 </ul></div>
+

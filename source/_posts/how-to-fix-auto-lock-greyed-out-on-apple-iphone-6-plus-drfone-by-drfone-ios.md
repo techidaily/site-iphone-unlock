@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on Apple iPhone 6 Plus | Dr.fone
-date: 2024-04-12T00:14:26.028Z
-updated: 2024-04-13T00:14:26.028Z
+date: 2024-04-30T17:39:36.598Z
+updated: 2024-05-01T17:39:36.598Z
 tags: 
   - unlock
   - remove screen lock
@@ -501,3 +501,4 @@ When **changing the App Store country on your Apple iPhone 6 Plus**, it's import
 <li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Google Pixel Fold? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
 </ul></div>
+

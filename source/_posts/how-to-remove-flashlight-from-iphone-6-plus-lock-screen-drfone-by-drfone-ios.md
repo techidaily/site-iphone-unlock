@@ -1,7 +1,7 @@
 ---
 title: How To Remove Flashlight From iPhone 6 Plus Lock Screen | Dr.fone
-date: 2024-04-12T00:14:40.754Z
-updated: 2024-04-13T00:14:40.754Z
+date: 2024-04-30T17:39:36.752Z
+updated: 2024-05-01T17:39:36.752Z
 tags: 
   - unlock
   - remove screen lock
@@ -539,3 +539,4 @@ The article has covered a sufficient portion of knowledge for the user regarding
 <li><a href="https://techidaily.com/how-to-upgrade-or-downgrade-apple-iphone-se-2022-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade Apple iPhone SE (2022)? | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-14-pro-with-7-methods-by-drfone-ios/"><u>How To Change Country on App Store for iPhone 14 Pro With 7 Methods</u></a></li>
 </ul></div>
+

@@ -501,3 +501,4 @@ A locked Apple iPhone XR is never a pretty sight. Fortunately, there are a coupl
 <li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-vivo-x100-pro-by-drfone-android/" ><u>Everything You Need to Know about Lock Screen Settings on your Vivo X100 Pro</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-itel-p55t-drfone-by-drfone-android/" ><u>How to Screen Mirroring Itel P55T? | Dr.fone</u></a></li>
 </ul></div>
+

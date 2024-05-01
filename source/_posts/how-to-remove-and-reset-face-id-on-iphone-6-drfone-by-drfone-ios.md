@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on iPhone 6 | Dr.fone
-date: 2024-04-12T00:13:53.480Z
-updated: 2024-04-13T00:13:53.480Z
+date: 2024-04-30T17:39:36.172Z
+updated: 2024-05-01T17:39:36.172Z
 tags: 
   - unlock
   - remove screen lock
@@ -554,3 +554,4 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-samsung-galaxy-a23-5g-easily-by-drfone-android/" ><u>In 2024, How To Unlock a Samsung Galaxy A23 5G Easily?</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-oppo-f25-pro-5g-fingerprint-lock-by-drfone-android/" ><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Oppo F25 Pro 5G Fingerprint Lock</u></a></li>
 </ul></div>
+

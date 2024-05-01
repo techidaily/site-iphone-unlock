@@ -610,3 +610,4 @@ That's all about our take on **how to unlock iPhone without passcode or face ID 
 <li><a href="https://techidaily.com/how-to-factory-reset-xiaomi-redmi-note-12-pro-4g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/" ><u>How to Factory Reset Xiaomi Redmi Note 12 Pro 4G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-samsung-galaxy-a05s-phone-by-drfone-android/" ><u>7 Ways to Unlock a Locked Samsung Galaxy A05s Phone</u></a></li>
 </ul></div>
+

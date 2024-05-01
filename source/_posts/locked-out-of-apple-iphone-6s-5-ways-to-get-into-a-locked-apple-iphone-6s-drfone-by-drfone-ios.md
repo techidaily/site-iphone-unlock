@@ -1,7 +1,7 @@
 ---
 title: Locked Out of Apple iPhone 6s? 5 Ways to get into a Locked Apple iPhone 6s | Dr.fone
-date: 2024-04-12T00:15:13.532Z
-updated: 2024-04-13T00:15:13.532Z
+date: 2024-04-30T17:39:37.215Z
+updated: 2024-05-01T17:39:37.215Z
 tags: 
   - unlock
   - remove screen lock
@@ -563,3 +563,4 @@ We hope we have covered every bit of this article perfectly and you have success
 <li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-12-pro-max-to-ipad-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 12 Pro Max to iPad? | Dr.fone</u></a></li>
 </ul></div>
+

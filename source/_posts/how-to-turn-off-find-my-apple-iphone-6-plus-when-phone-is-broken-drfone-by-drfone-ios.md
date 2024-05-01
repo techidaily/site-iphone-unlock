@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Find My Apple iPhone 6 Plus when Phone is Broken? | Dr.fone
-date: 2024-04-12T00:14:23.640Z
-updated: 2024-04-13T00:14:23.640Z
+date: 2024-04-30T17:39:36.569Z
+updated: 2024-05-01T17:39:36.569Z
 tags: 
   - unlock
   - remove screen lock
@@ -628,3 +628,4 @@ If you have an older version of iOS (version 9 or earlier), then there is a bug 
 <li><a href="https://android-unlock.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-samsung-galaxy-f04-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Samsung Galaxy F04</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-on-your-apple-iphone-14-plus-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled On your Apple iPhone 14 Plus? How to Fix</u></a></li>
 </ul></div>
+

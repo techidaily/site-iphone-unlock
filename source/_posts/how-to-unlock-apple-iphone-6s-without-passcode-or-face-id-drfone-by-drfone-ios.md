@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Apple iPhone 6s without Passcode or Face ID | Dr.fone
-date: 2024-04-12T00:15:15.920Z
-updated: 2024-04-13T00:15:15.920Z
+date: 2024-04-30T17:39:37.252Z
+updated: 2024-05-01T17:39:37.252Z
 tags: 
   - unlock
   - remove screen lock
@@ -495,3 +495,4 @@ A locked Apple iPhone 6s is never a pretty sight. Fortunately, there are a coupl
 <li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-oppo-reno-11f-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your Oppo Reno 11F 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-apple-iphone-13-mini-to-windows-10-drfone-by-drfone-ios/"><u>In 2024, How to Mirror Apple iPhone 13 mini to Windows 10? | Dr.fone</u></a></li>
 </ul></div>
+

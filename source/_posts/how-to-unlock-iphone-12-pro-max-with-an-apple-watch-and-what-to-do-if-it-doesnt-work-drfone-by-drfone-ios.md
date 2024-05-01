@@ -495,3 +495,4 @@ Now you know what to do the next time you forget your passcode. Using the simple
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-iphone-13-when-phone-is-broken-drfone-by-drfone-ios/" ><u>In 2024, How to Turn Off Find My iPhone 13 when Phone is Broken? | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-iphone-12-pro-max-when-you-forget-the-passcode-drfone-by-drfone-ios/" ><u>How to Access Your iPhone 12 Pro Max When You Forget the Passcode? | Dr.fone</u></a></li>
 </ul></div>
+

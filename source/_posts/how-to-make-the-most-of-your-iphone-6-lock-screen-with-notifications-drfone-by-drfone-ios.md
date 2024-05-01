@@ -1,7 +1,7 @@
 ---
 title: How to Make the Most of Your iPhone 6 Lock Screen with Notifications? | Dr.fone
-date: 2024-04-12T00:13:53.716Z
-updated: 2024-04-13T00:13:53.716Z
+date: 2024-04-30T17:39:36.200Z
+updated: 2024-05-01T17:39:36.200Z
 tags: 
   - unlock
   - remove screen lock
@@ -445,3 +445,4 @@ Not all of us have the memory of elephants. With Touch ID and Face ID on our iPh
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y100a-pin-codepattern-lockpassword-by-drfone-android/" ><u>How to Unlock Vivo Y100A PIN Code/Pattern Lock/Password</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-14-official-method-to-unlock-your-apple-iphone-14-by-drfone-ios/" ><u>How To Unlock Apple iPhone 14 Official Method to Unlock Your Apple iPhone 14</u></a></li>
 </ul></div>
+

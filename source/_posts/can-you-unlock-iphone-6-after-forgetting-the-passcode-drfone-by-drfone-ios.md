@@ -1,7 +1,7 @@
 ---
 title: Can You Unlock iPhone 6 After Forgetting the Passcode? | Dr.fone
-date: 2024-04-12T00:13:53.419Z
-updated: 2024-04-13T00:13:53.419Z
+date: 2024-04-30T17:39:36.165Z
+updated: 2024-05-01T17:39:36.165Z
 tags: 
   - unlock
   - remove screen lock
@@ -421,3 +421,4 @@ So, if you have forgotten your Apple iPhone 6 passcode and are looking for how t
 <li><a href="https://ios-location-track.techidaily.com/best-anti-tracker-software-for-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/" ><u>Best Anti Tracker Software For Apple iPhone 13 mini | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-realme-c67-4g-drfone-by-drfone-virtual-android/" ><u>Ways to stop parent tracking your Realme C67 4G | Dr.fone</u></a></li>
 </ul></div>
+

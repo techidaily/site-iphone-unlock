@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Find My iPhone 6 Plus when Phone is Broken? | Dr.fone
-date: 2024-04-12T00:14:35.881Z
-updated: 2024-04-13T00:14:35.881Z
+date: 2024-04-30T17:39:36.703Z
+updated: 2024-05-01T17:39:36.703Z
 tags: 
   - unlock
   - remove screen lock
@@ -485,3 +485,4 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 <li><a href="https://unlock-android.techidaily.com/6-proven-ways-to-unlock-xiaomi-13-ultra-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Xiaomi 13 Ultra Phone When You Forget the Password</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>How to use Pokemon Go Joystick on Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
 </ul></div>
+

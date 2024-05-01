@@ -537,3 +537,4 @@ When you know how to unlock Apple iPhone XR without the passcode, you can easily
 <li><a href="https://iphone-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-8-plus-and-ipad-securely-drfone-by-drfone-ios/" ><u>7 Ways to Lock Apps on Apple iPhone 8 Plus and iPad Securely | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-xs-max-learn-all-4-methods-drfone-by-drfone-ios/" ><u>How Do You Unlock your Apple iPhone XS Max? Learn All 4 Methods | Dr.fone</u></a></li>
 </ul></div>
+
