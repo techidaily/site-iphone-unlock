@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on iPhone XR | Dr.fone
-date: 2024-04-30T17:49:59.385Z
-updated: 2024-05-01T17:49:59.385Z
+date: 2024-05-19T07:27:34.961Z
+updated: 2024-05-20T07:27:34.961Z
 tags: 
   - unlock
   - remove screen lock
@@ -606,4 +606,5 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-nokia-130-music-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Nokia 130 Music Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Samsung Galaxy M14 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

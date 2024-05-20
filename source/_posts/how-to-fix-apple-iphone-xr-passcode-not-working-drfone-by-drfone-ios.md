@@ -1,7 +1,7 @@
 ---
 title: How to Fix Apple iPhone XR Passcode not Working? | Dr.fone
-date: 2024-04-30T17:49:42.033Z
-updated: 2024-05-01T17:49:42.033Z
+date: 2024-05-19T07:27:34.069Z
+updated: 2024-05-20T07:27:34.069Z
 tags: 
   - unlock
   - remove screen lock
@@ -707,4 +707,5 @@ If you have an older version of iOS (version 9 or earlier), then there is a bug 
 <li><a href="https://techidaily.com/repair-damaged-unplayable-video-files-of-13t-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Repair damaged, unplayable video files of 13T on Mac</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-vivo-v27e-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Vivo V27e Device SIM</u></a></li>
 </ul></div>
+
 

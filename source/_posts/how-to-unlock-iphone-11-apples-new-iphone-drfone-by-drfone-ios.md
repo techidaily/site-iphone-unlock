@@ -1,7 +1,7 @@
 ---
 title: How to Unlock iPhone 11, Apples New iPhone | Dr.fone
-date: 2024-04-30T17:50:56.691Z
-updated: 2024-05-01T17:50:56.691Z
+date: 2024-05-19T07:27:38.015Z
+updated: 2024-05-20T07:27:38.015Z
 tags: 
   - unlock
   - remove screen lock
@@ -484,4 +484,5 @@ Indeed, if you **forgot the passcode on the iPhone,** there are a few ways to ge
 <li><a href="https://techidaily.com/simple-ways-to-get-lost-files-back-from-sony-by-fonelab-android-recover-data/"><u>Simple ways to get lost files back from Sony</u></a></li>
 <li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-vivo-y27-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Vivo Y27 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

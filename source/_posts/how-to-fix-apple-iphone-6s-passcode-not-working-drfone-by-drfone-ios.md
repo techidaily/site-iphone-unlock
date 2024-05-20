@@ -1,7 +1,7 @@
 ---
 title: How to Fix Apple iPhone 6s Passcode not Working? | Dr.fone
-date: 2024-04-30T17:39:37.207Z
-updated: 2024-05-01T17:39:37.207Z
+date: 2024-05-19T07:26:59.082Z
+updated: 2024-05-20T07:26:59.082Z
 tags: 
   - unlock
   - remove screen lock
@@ -602,4 +602,5 @@ The article has covered a sufficient portion of knowledge for the user regarding
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-itel-a70-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Itel A70 | Dr.fone</u></a></li>
 </ul></div>
+
 

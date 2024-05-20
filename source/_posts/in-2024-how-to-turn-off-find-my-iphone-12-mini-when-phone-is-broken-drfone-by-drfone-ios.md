@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Turn Off Find My iPhone 12 mini when Phone is Broken? | Dr.fone
-date: 2024-04-30T17:56:14.250Z
-updated: 2024-05-01T17:56:14.250Z
+date: 2024-05-19T07:27:56.619Z
+updated: 2024-05-20T07:27:56.619Z
 tags: 
   - unlock
   - remove screen lock
@@ -517,4 +517,5 @@ We hope that after learning how to get in a locked Apple iPhone 12 mini in diffe
 <li><a href="https://pokemon-go-android.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Realme 11 Pro | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-guide-create-the-perfect-vhs-effect-look-in-premiere-pro/"><u>Updated In 2024, Guide Create The Perfect VHS Effect Look in Premiere Pro</u></a></li>
 </ul></div>
+
 

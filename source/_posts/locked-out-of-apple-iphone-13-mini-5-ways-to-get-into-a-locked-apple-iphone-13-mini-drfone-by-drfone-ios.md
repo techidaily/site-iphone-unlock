@@ -1,7 +1,7 @@
 ---
 title: Locked Out of Apple iPhone 13 mini? 5 Ways to get into a Locked Apple iPhone 13 mini | Dr.fone
-date: 2024-04-30T17:59:27.248Z
-updated: 2024-05-01T17:59:27.248Z
+date: 2024-05-19T07:28:07.345Z
+updated: 2024-05-20T07:28:07.345Z
 tags: 
   - unlock
   - remove screen lock
@@ -447,4 +447,5 @@ We all can relate that unlocking an iPhone on Face ID while wearing a face mask 
 <li><a href="https://screen-mirror.techidaily.com/how-can-you-cast-your-apple-iphone-12-mini-to-windows-pc-with-ease-drfone-by-drfone-ios/"><u>How Can You Cast Your Apple iPhone 12 mini to Windows PC With Ease? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-the-top-free-m4a-editing-programs-for-windows-mac-and-linux-for-2024/"><u>New The Top Free M4A Editing Programs for Windows, Mac, and Linux for 2024</u></a></li>
 </ul></div>
+
 

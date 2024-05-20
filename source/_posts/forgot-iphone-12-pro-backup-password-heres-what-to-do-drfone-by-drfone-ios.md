@@ -1,7 +1,7 @@
 ---
 title: Forgot iPhone 12 Pro Backup Password? Heres What to Do | Dr.fone
-date: 2024-04-30T17:57:45.682Z
-updated: 2024-05-01T17:57:45.682Z
+date: 2024-05-19T07:28:01.612Z
+updated: 2024-05-20T07:28:01.612Z
 tags: 
   - unlock
   - remove screen lock
@@ -551,4 +551,5 @@ Not all of us have the memory of elephants. With Touch ID and Face ID on our iPh
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-xiaomi-civi-3-disney-100th-anniversary-edition-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Xiaomi Civi 3 Disney 100th Anniversary Edition?</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-unleash-your-inner-toon-16-fantastic-cartoonizer-apps-for-2024/"><u>New Unleash Your Inner Toon 16 Fantastic Cartoonizer Apps for 2024</u></a></li>
 </ul></div>
+
 

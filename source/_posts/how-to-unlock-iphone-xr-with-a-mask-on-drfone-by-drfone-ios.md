@@ -1,7 +1,7 @@
 ---
 title: How to Unlock iPhone XR with a Mask On | Dr.fone
-date: 2024-04-30T17:50:07.138Z
-updated: 2024-05-01T17:50:07.138Z
+date: 2024-05-19T07:27:35.310Z
+updated: 2024-05-20T07:27:35.310Z
 tags: 
   - unlock
   - remove screen lock
@@ -400,4 +400,5 @@ Not all of us have the memory of elephants. With Touch ID and Face ID on our iPh
 <li><a href="https://ai-editing-video.techidaily.com/how-to-record-super-slow-motion-videos-on-your-phone-in-2024/"><u>How to Record Super Slow Motion Videos on Your Phone, In 2024</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-ditch-pinnacle-studio-top-mac-video-editing-software-you-need-to-know/"><u>Updated Ditch Pinnacle Studio Top Mac Video Editing Software You Need to Know</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Remove and Reset Face ID on Apple iPhone 13 | Dr.fone
-date: 2024-04-30T17:58:58.390Z
-updated: 2024-05-01T17:58:58.390Z
+date: 2024-05-19T07:28:05.889Z
+updated: 2024-05-20T07:28:05.889Z
 tags: 
   - unlock
   - remove screen lock
@@ -513,4 +513,5 @@ Now we’re done as we’ve provided you the best possible solutions to turn off
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-12-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Realme 12 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/play-store-stuck-on-downloading-of-lava-blaze-2-5g-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Lava Blaze 2 5G? 7 Ways to Resolve | Dr.fone</u></a></li>
 </ul></div>
+
 

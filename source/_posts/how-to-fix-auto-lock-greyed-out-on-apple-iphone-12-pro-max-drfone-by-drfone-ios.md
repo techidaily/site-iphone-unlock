@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on Apple iPhone 12 Pro Max | Dr.fone
-date: 2024-04-30T17:56:31.502Z
-updated: 2024-05-01T17:56:31.502Z
+date: 2024-05-19T07:27:57.464Z
+updated: 2024-05-20T07:27:57.464Z
 tags: 
   - unlock
   - remove screen lock
@@ -608,4 +608,5 @@ While these methods are helpful, there's a software called Wondershare Dr.Fone t
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-tactics-to-make-keynote-slideshow/"><u>2024 Approved Tactics To Make Keynote Slideshow</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-xiaomi-easily-by-drfone-android/"><u>How To Unlock a Xiaomi Easily?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Find My iPhone 12 Pro when Phone is Broken? | Dr.fone
-date: 2024-04-30T17:57:43.259Z
-updated: 2024-05-01T17:57:43.259Z
+date: 2024-05-19T07:28:01.486Z
+updated: 2024-05-20T07:28:01.486Z
 tags: 
   - unlock
   - remove screen lock
@@ -544,4 +544,5 @@ Human beings are clumsy, and they often forget passcodes to their devices. Howev
 <li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-samsung-galaxy-s23-tactical-edition-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Samsung Galaxy S23 Tactical Edition password or pattern lock</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On Realme V30T | Dr.fone</u></a></li>
 </ul></div>
+
 

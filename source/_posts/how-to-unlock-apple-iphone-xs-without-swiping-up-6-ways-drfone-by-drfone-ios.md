@@ -1,7 +1,7 @@
 ---
 title: How To Unlock Apple iPhone XS Without Swiping Up? 6 Ways | Dr.fone
-date: 2024-04-30T17:47:49.782Z
-updated: 2024-05-01T17:47:49.782Z
+date: 2024-05-19T07:27:27.539Z
+updated: 2024-05-20T07:27:27.539Z
 tags: 
   - unlock
   - remove screen lock
@@ -465,4 +465,5 @@ But, when we attempt incorrect passcodes too many times, the Apple iPhone XS get
 <li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Sony Xperia 1 V | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-iphone-12-pro-max-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, iPhone 12 Pro Max iCloud Activation Lock Bypass</u></a></li>
 </ul></div>
+
 

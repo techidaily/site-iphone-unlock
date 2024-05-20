@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on iPhone 6 Plus | Dr.fone
-date: 2024-04-30T17:39:36.700Z
-updated: 2024-05-01T17:39:36.700Z
+date: 2024-05-19T07:26:56.083Z
+updated: 2024-05-20T07:26:56.083Z
 tags: 
   - unlock
   - remove screen lock
@@ -500,4 +500,5 @@ In conclusion, this article addressed methods for **how to recover locked notes 
 <li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-samsung-galaxy-s24plus-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Samsung Galaxy S24+ Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-to-vivo-y100i-power-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Vivo Y100i Power 5G FRP Bypass With Best Methods</u></a></li>
 </ul></div>
+
 

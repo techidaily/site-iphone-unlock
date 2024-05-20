@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on iPhone 12 Pro | Dr.fone
-date: 2024-04-30T17:57:45.473Z
-updated: 2024-05-01T17:57:45.473Z
+date: 2024-05-19T07:28:01.605Z
+updated: 2024-05-20T07:28:01.605Z
 tags: 
   - unlock
   - remove screen lock
@@ -493,4 +493,5 @@ Now, in case you know the Apple iPhone 12 Pro restrictions passcode and just wis
 <li><a href="https://screen-mirror.techidaily.com/best-3-honor-80-pro-straight-screen-edition-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Honor 80 Pro Straight Screen Edition Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-tecno-pova-5-pro-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Tecno Pova 5 Pro Safely | Dr.fone</u></a></li>
 </ul></div>
+
 

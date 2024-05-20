@@ -1,7 +1,7 @@
 ---
 title: Forgot Apple iPhone SE Backup Password? Heres What to Do | Dr.fone
-date: 2024-04-30T17:41:43.469Z
-updated: 2024-05-01T17:41:43.469Z
+date: 2024-05-19T07:27:07.097Z
+updated: 2024-05-20T07:27:07.097Z
 tags: 
   - unlock
   - remove screen lock
@@ -474,4 +474,5 @@ In conclusion, this article addressed methods for **how to recover locked notes 
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-infinix-hot-40-pro-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Infinix Hot 40 Pro to New Android? | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-samsung-galaxy-a05s-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Samsung Galaxy A05s Device</u></a></li>
 </ul></div>
+
 

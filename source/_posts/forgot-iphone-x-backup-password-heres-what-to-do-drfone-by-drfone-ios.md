@@ -1,7 +1,7 @@
 ---
 title: Forgot iPhone X Backup Password? Heres What to Do | Dr.fone
-date: 2024-04-30T17:45:01.144Z
-updated: 2024-05-01T17:45:01.144Z
+date: 2024-05-19T07:27:18.230Z
+updated: 2024-05-20T07:27:18.230Z
 tags: 
   - unlock
   - remove screen lock
@@ -504,4 +504,5 @@ While these methods are helpful, there's a software called Wondershare Dr.Fone t
 <li><a href="https://review-topics.techidaily.com/recover-lost-photos-during-transfer-from-iphone-11-pro-to-pc-or-mac-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>Recover Lost Photos during Transfer from iPhone 11 Pro to PC or Mac | Stellar</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/2024-approved-popular-female-and-male-disney-cartoon-characters/"><u>2024 Approved Popular Female & Male Disney Cartoon Characters</u></a></li>
 </ul></div>
+
 

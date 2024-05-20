@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 6 Plus | Dr.fone
-date: 2024-04-30T17:39:36.926Z
-updated: 2024-05-01T17:39:36.926Z
+date: 2024-05-19T07:26:57.197Z
+updated: 2024-05-20T07:26:57.197Z
 tags: 
   - unlock
   - remove screen lock
@@ -552,4 +552,5 @@ So, if you are looking for a hassle-free solution to fix your lock screen issues
 <li><a href="https://apple-account.techidaily.com/in-2024-protecting-your-privacy-how-to-remove-apple-id-from-iphone-13-mini-by-drfone-ios/"><u>In 2024, Protecting Your Privacy How To Remove Apple ID From iPhone 13 mini</u></a></li>
 <li><a href="https://techidaily.com/hard-resetting-an-realme-11-proplus-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Realme 11 Pro+ Device Made Easy | Dr.fone</u></a></li>
 </ul></div>
+
 

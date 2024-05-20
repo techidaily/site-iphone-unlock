@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on iPhone 11 | Dr.fone
-date: 2024-04-30T17:50:58.355Z
-updated: 2024-05-01T17:50:58.355Z
+date: 2024-05-19T07:27:38.107Z
+updated: 2024-05-20T07:27:38.107Z
 tags: 
   - unlock
   - remove screen lock
@@ -477,4 +477,5 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 <li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-realme-11-5g-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Realme 11 5G Safely | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/8-quick-fixes-unfortunately-snapchat-has-stopped-on-meizu-21-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Quick Fixes Unfortunately, Snapchat has Stopped on Meizu 21 | Dr.fone</u></a></li>
 </ul></div>
+
 

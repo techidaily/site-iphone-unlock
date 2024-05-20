@@ -1,7 +1,7 @@
 ---
 title: Forgot Apple iPhone 8 Plus Backup Password? Heres What to Do | Dr.fone
-date: 2024-04-30T17:45:48.385Z
-updated: 2024-05-01T17:45:48.385Z
+date: 2024-05-19T07:27:20.733Z
+updated: 2024-05-20T07:27:20.733Z
 tags: 
   - unlock
   - remove screen lock
@@ -469,4 +469,5 @@ And there you go, the five key ways you need to know when it comes to removing a
 <li><a href="https://ai-vdieo-software.techidaily.com/new-breaking-down-the-footage-how-to-split-videos-into-smaller-clips-in-windows-live-movie-maker/"><u>New Breaking Down the Footage How to Split Videos Into Smaller Clips in Windows Live Movie Maker</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-oppo-find-x6-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Oppo Find X6 IMEI without Root A Comprehensive Guide</u></a></li>
 </ul></div>
+
 

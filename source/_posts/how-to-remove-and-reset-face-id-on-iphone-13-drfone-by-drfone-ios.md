@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on iPhone 13 | Dr.fone
-date: 2024-04-30T17:58:43.488Z
-updated: 2024-05-01T17:58:43.488Z
+date: 2024-05-19T07:28:05.079Z
+updated: 2024-05-20T07:28:05.079Z
 tags: 
   - unlock
   - remove screen lock
@@ -435,4 +435,5 @@ We hope that after following this guide, you would be able to gain in-depth info
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-cricket-iphone-11-pro-max-for-free-by-drfone-ios/"><u>In 2024, How To Unlock Cricket iPhone 11 Pro Max for Free</u></a></li>
 <li><a href="https://android-frp.techidaily.com/easy-guide-how-to-bypass-samsung-galaxy-a14-5g-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Samsung Galaxy A14 5G FRP Android 10/11/12/13</u></a></li>
 </ul></div>
+
 

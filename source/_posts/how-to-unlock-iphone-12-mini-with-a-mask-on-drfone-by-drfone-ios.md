@@ -1,7 +1,7 @@
 ---
 title: How to Unlock iPhone 12 mini with a Mask On | Dr.fone
-date: 2024-04-30T17:55:52.423Z
-updated: 2024-05-01T17:55:52.423Z
+date: 2024-05-19T07:27:55.430Z
+updated: 2024-05-20T07:27:55.430Z
 tags: 
   - unlock
   - remove screen lock
@@ -479,4 +479,5 @@ If you have an older version of iOS (version 9 or earlier), then there is a bug 
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-itel-s23-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Itel S23 to Another | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-itel-a60-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Itel A60 is off? | Dr.fone</u></a></li>
 </ul></div>
+
 

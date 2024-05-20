@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on iPhone 13 mini | Dr.fone
-date: 2024-04-30T17:59:41.959Z
-updated: 2024-05-01T17:59:41.959Z
+date: 2024-05-19T07:28:08.205Z
+updated: 2024-05-20T07:28:08.205Z
 tags: 
   - unlock
   - remove screen lock
@@ -640,4 +640,5 @@ Now we’re done as we’ve provided you the best possible solutions to turn off
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-xiaomi-civi-3-disney-100th-anniversary-edition-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Xiaomi Civi 3 Disney 100th Anniversary Edition</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-samsung-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Samsung Phone?</u></a></li>
 </ul></div>
+
 

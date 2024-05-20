@@ -1,7 +1,7 @@
 ---
 title: How Do You Remove Restricted Mode on Apple iPhone 6s Plus | Dr.fone
-date: 2024-04-30T17:40:39.161Z
-updated: 2024-05-01T17:40:39.161Z
+date: 2024-05-19T07:27:03.510Z
+updated: 2024-05-20T07:27:03.510Z
 tags: 
   - unlock
   - remove screen lock
@@ -472,4 +472,5 @@ Now when you know how to unlock Apple iPhone 6s Plus passcode without iTunes, yo
 <li><a href="https://techidaily.com/hard-resetting-an-realme-c67-4g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Realme C67 4G Device Made Easy | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-oppo-reno-10-5g-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Oppo Reno 10 5G.</u></a></li>
 </ul></div>
+
 

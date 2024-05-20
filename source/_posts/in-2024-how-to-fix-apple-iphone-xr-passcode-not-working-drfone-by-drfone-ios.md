@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Fix Apple iPhone XR Passcode not Working? | Dr.fone
-date: 2024-04-30T17:50:12.330Z
-updated: 2024-05-01T17:50:12.330Z
+date: 2024-05-19T07:27:35.542Z
+updated: 2024-05-20T07:27:35.542Z
 tags: 
   - unlock
   - remove screen lock
@@ -541,4 +541,5 @@ When you know how to unlock Apple iPhone XR without the passcode, you can easily
 <li><a href="https://android-frp.techidaily.com/latest-guide-how-to-bypass-sony-xperia-5-v-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Sony Xperia 5 V FRP Without Computer</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-15-pro-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 15 Pro Lock Screen with Notifications?</u></a></li>
 </ul></div>
+
 

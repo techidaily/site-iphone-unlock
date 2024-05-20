@@ -1,7 +1,7 @@
 ---
 title: Forgot Apple iPhone SE (2020) Backup Password? Heres What to Do | Dr.fone
-date: 2024-04-30T17:53:35.871Z
-updated: 2024-05-01T17:53:35.871Z
+date: 2024-05-19T07:27:47.564Z
+updated: 2024-05-20T07:27:47.564Z
 tags: 
   - unlock
   - remove screen lock
@@ -478,4 +478,5 @@ The article has covered a sufficient portion of knowledge for the user regarding
 <li><a href="https://ios-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>Where Is the Best Place to Catch Dratini On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-on-apple-iphone-7-plus-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account On Apple iPhone 7 Plus without Password?</u></a></li>
 </ul></div>
+
 

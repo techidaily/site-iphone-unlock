@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on Apple iPhone 8 Plus | Dr.fone
-date: 2024-04-30T17:45:44.193Z
-updated: 2024-05-01T17:45:44.193Z
+date: 2024-05-19T07:27:20.590Z
+updated: 2024-05-20T07:27:20.590Z
 tags: 
   - unlock
   - remove screen lock
@@ -550,4 +550,5 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-vivo-y100a-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Vivo Y100A Mirror Screen to PC? | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-ultimate-guide-on-oppo-find-x7-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Oppo Find X7 FRP Bypass</u></a></li>
 </ul></div>
+
 

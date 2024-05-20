@@ -1,7 +1,7 @@
 ---
 title: How Do You Remove Restricted Mode on iPhone SE | Dr.fone
-date: 2024-04-30T17:42:05.227Z
-updated: 2024-05-01T17:42:05.227Z
+date: 2024-05-19T07:27:08.332Z
+updated: 2024-05-20T07:27:08.332Z
 tags: 
   - unlock
   - remove screen lock
@@ -478,4 +478,5 @@ We all can relate that unlocking an iPhone on Face ID while wearing a face mask 
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-xiaomi-redmi-note-13-pro-5g-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Xiaomi Redmi Note 13 Pro 5G to iPod | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-itel-a60-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Itel A60 Screen Sharing | Dr.fone</u></a></li>
 </ul></div>
+
 

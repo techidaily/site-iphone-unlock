@@ -1,7 +1,7 @@
 ---
 title: How to Access Your Apple iPhone XR When You Forget the Passcode? | Dr.fone
-date: 2024-04-30T17:49:47.630Z
-updated: 2024-05-01T17:49:47.630Z
+date: 2024-05-19T07:27:34.311Z
+updated: 2024-05-20T07:27:34.311Z
 tags: 
   - unlock
   - remove screen lock
@@ -536,4 +536,5 @@ By following these solutions, you would be able to learn how to lock apps on the
 <li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-photos-from-apple-iphone-xs-max-to-other-iphone-without-icloud-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Photos from Apple iPhone XS Max to other iPhone without iCloud | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-motorola-g54-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Motorola G54 5G without Anyone Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

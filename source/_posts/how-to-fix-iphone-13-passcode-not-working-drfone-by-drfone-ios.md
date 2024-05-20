@@ -1,7 +1,7 @@
 ---
 title: How to Fix iPhone 13 Passcode not Working? | Dr.fone
-date: 2024-04-30T17:58:41.300Z
-updated: 2024-05-01T17:58:41.300Z
+date: 2024-05-19T07:28:04.984Z
+updated: 2024-05-20T07:28:04.984Z
 tags: 
   - unlock
   - remove screen lock
@@ -593,4 +593,5 @@ However, no matter how secure your gadget is, password leakage may happen, sendi
 <li><a href="https://easy-unlock-android.techidaily.com/6-proven-ways-to-unlock-oppo-reno-8t-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Oppo Reno 8T Phone When You Forget the Password</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-complete-guide-of-top-video-language-translators-for-2024/"><u>Updated Complete Guide of Top Video Language Translators for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on Apple iPhone 7 | Dr.fone
-date: 2024-04-30T17:42:46.007Z
-updated: 2024-05-01T17:42:46.007Z
+date: 2024-05-19T07:27:10.652Z
+updated: 2024-05-20T07:27:10.652Z
 tags: 
   - unlock
   - remove screen lock
@@ -502,4 +502,5 @@ But, when we attempt incorrect passcodes too many times, the Apple iPhone 7 gets
 <li><a href="https://android-unlock.techidaily.com/how-to-reset-a-locked-vivo-t2x-5g-phone-by-drfone-android/"><u>How to Reset a Locked Vivo T2x 5G Phone</u></a></li>
 <li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-vivo-x100-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Vivo X100 | Dr.fone</u></a></li>
 </ul></div>
+
 

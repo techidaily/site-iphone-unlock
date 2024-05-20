@@ -1,7 +1,7 @@
 ---
 title: How To Change Your Apple ID Password On your iPhone 11 | Dr.fone
-date: 2024-04-30T17:50:52.597Z
-updated: 2024-05-01T17:50:52.597Z
+date: 2024-05-19T07:27:37.782Z
+updated: 2024-05-20T07:27:37.782Z
 tags: 
   - unlock
   - remove screen lock
@@ -552,4 +552,5 @@ Due to one reason or another, you may have **forgotten iPhone PIN.** However, it
 <li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-v30-lite-5g-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of V30 Lite 5G using Video Repair Utility on Windows?</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-the-ultimate-guide-to-picking-a-reliable-youtube-mp4-converter/"><u>Updated 2024 Approved The Ultimate Guide to Picking a Reliable YouTube MP4 Converter</u></a></li>
 </ul></div>
+
 

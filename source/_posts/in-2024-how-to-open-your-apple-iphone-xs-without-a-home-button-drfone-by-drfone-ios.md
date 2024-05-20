@@ -515,3 +515,4 @@ Also, if you're looking for an easy and effective way to unlock your device, we 
 <li><a href="https://unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-vivo-y36i-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Vivo Y36i Phone Now with These Tips</u></a></li>
 </ul></div>
 
+

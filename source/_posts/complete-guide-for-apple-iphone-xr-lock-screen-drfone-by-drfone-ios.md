@@ -1,7 +1,7 @@
 ---
 title: Complete Guide For Apple iPhone XR Lock Screen | Dr.fone
-date: 2024-04-30T17:49:47.427Z
-updated: 2024-05-01T17:49:47.427Z
+date: 2024-05-19T07:27:34.300Z
+updated: 2024-05-20T07:27:34.300Z
 tags: 
   - unlock
   - remove screen lock
@@ -525,4 +525,5 @@ Enabling this option is a straightforward process, and if there’s ever a glitc
 <li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-vivo-y100t-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Vivo Y100t Quickly | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/free-electronic-signature-for-word-2007-by-ldigisigner-sign-a-word-sign-a-word/"><u>Free electronic signature - For Word 2007</u></a></li>
 </ul></div>
+
 

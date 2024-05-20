@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone SE (2020) | Dr.fone
-date: 2024-04-30T17:54:02.358Z
-updated: 2024-05-01T17:54:02.358Z
+date: 2024-05-19T07:27:49.285Z
+updated: 2024-05-20T07:27:49.285Z
 tags: 
   - unlock
   - remove screen lock
@@ -546,4 +546,5 @@ When you know how to unlock Apple iPhone SE (2020) without the passcode, you can
 <li><a href="https://techidaily.com/how-to-repair-apple-iphone-12-pro-system-issues-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 12 Pro System Issues? | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-tecno-spark-10-5g-with-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Tecno Spark 10 5G with Video Repair Utility on Windows?</u></a></li>
 </ul></div>
+
 

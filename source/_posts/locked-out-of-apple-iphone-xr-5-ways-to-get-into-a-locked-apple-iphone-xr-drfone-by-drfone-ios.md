@@ -1,7 +1,7 @@
 ---
 title: Locked Out of Apple iPhone XR? 5 Ways to get into a Locked Apple iPhone XR | Dr.fone
-date: 2024-04-30T17:49:43.591Z
-updated: 2024-05-01T17:49:43.591Z
+date: 2024-05-19T07:27:34.134Z
+updated: 2024-05-20T07:27:34.134Z
 tags: 
   - unlock
   - remove screen lock
@@ -521,4 +521,5 @@ So, if you have forgotten your Apple iPhone XR passcode and are looking for how 
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-realme-gt-3-location-by-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Realme GT 3 Location by Number | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-itel-s23plus-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Itel S23+ to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on Apple iPhone XS | Dr.fone
-date: 2024-04-30T17:47:43.085Z
-updated: 2024-05-01T17:47:43.085Z
+date: 2024-05-19T07:27:27.160Z
+updated: 2024-05-20T07:27:27.160Z
 tags: 
   - unlock
   - remove screen lock
@@ -523,4 +523,5 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 <li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-honor-magic-vs-2-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Honor Magic Vs 2 | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/your-complete-guide-to-reset-samsung-galaxy-s23-fe-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Samsung Galaxy S23 FE | Dr.fone</u></a></li>
 </ul></div>
+
 

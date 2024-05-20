@@ -1,7 +1,7 @@
 ---
 title: How Do You Remove Restricted Mode on Apple iPhone 8 | Dr.fone
-date: 2024-04-30T17:46:50.386Z
-updated: 2024-05-01T17:46:50.386Z
+date: 2024-05-19T07:27:24.374Z
+updated: 2024-05-20T07:27:24.374Z
 tags: 
   - unlock
   - remove screen lock
@@ -539,4 +539,5 @@ We hope we have covered every bit of this article perfectly and you have success
 <li><a href="https://fake-location.techidaily.com/can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Lenovo ThinkPhone? | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-nokia-xr21-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Nokia XR21 To iPhone 15/14/13? | Dr.fone</u></a></li>
 </ul></div>
+
 

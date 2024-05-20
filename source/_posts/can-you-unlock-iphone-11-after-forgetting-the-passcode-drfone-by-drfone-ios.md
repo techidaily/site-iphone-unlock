@@ -1,7 +1,7 @@
 ---
 title: Can You Unlock iPhone 11 After Forgetting the Passcode? | Dr.fone
-date: 2024-04-30T17:50:54.713Z
-updated: 2024-05-01T17:50:54.713Z
+date: 2024-05-19T07:27:37.906Z
+updated: 2024-05-20T07:27:37.906Z
 tags: 
   - unlock
   - remove screen lock
@@ -488,4 +488,5 @@ If you have any other questions or doubts about this process, feel free to ask u
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-narzo-n53-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Narzo N53</u></a></li>
 <li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-nokia-c12-by-drfone-android/"><u>How to Bypass FRP from Nokia C12?</u></a></li>
 </ul></div>
+
 

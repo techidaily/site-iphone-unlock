@@ -1,7 +1,7 @@
 ---
 title: Forgot iPhone 11 Pro Max Backup Password? Heres What to Do | Dr.fone
-date: 2024-04-30T17:51:58.628Z
-updated: 2024-05-01T17:51:58.628Z
+date: 2024-05-19T07:27:41.840Z
+updated: 2024-05-20T07:27:41.840Z
 tags: 
   - unlock
   - remove screen lock
@@ -473,4 +473,5 @@ We hope that after following this guide, you would be able to gain in-depth info
 <li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Tecno Spark 20 Pro+? | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-turn-off-find-my-iphone-12-pro-when-phone-is-broken-by-drfone-ios/"><u>How to Turn Off Find My iPhone 12 Pro when Phone is Broken?</u></a></li>
 </ul></div>
+
 

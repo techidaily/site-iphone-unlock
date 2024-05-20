@@ -1,7 +1,7 @@
 ---
 title: Guide on How To Change Your Apple ID Email Address On Apple iPhone XR | Dr.fone
-date: 2024-04-30T17:49:40.750Z
-updated: 2024-05-01T17:49:40.750Z
+date: 2024-05-19T07:27:33.985Z
+updated: 2024-05-20T07:27:33.985Z
 tags: 
   - unlock
   - remove screen lock
@@ -608,4 +608,5 @@ If you have an older version of iOS (version 9 or earlier), then there is a bug 
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-6s-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone 6s</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-nokia-c110-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Nokia C110 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 

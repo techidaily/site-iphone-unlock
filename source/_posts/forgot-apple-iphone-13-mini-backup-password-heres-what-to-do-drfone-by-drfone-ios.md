@@ -1,7 +1,7 @@
 ---
 title: Forgot Apple iPhone 13 mini Backup Password? Heres What to Do | Dr.fone
-date: 2024-04-30T17:59:31.413Z
-updated: 2024-05-01T17:59:31.413Z
+date: 2024-05-19T07:28:07.532Z
+updated: 2024-05-20T07:28:07.532Z
 tags: 
   - unlock
   - remove screen lock
@@ -550,4 +550,5 @@ After careful evaluation, we recommend Wondershare Dr.Fone as the best choice to
 <li><a href="https://ai-vdieo-software.techidaily.com/discover-your-images-hidden-ratio-with-our-calculator/"><u>Discover Your Images Hidden Ratio with Our Calculator</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Nubia Red Magic 8S Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

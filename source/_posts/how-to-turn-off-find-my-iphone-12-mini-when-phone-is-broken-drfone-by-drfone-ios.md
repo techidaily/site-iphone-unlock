@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Find My iPhone 12 mini when Phone is Broken? | Dr.fone
-date: 2024-04-30T17:55:45.885Z
-updated: 2024-05-01T17:55:45.885Z
+date: 2024-05-19T07:27:55.093Z
+updated: 2024-05-20T07:27:55.093Z
 tags: 
   - unlock
   - remove screen lock
@@ -474,4 +474,5 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 <li><a href="https://techidaily.com/the-way-to-recover-deleted-photos-on-nokia-150-2023-without-backup-by-fonelab-android-recover-photos/"><u>The way to recover deleted photos on Nokia 150 (2023) without backup.</u></a></li>
 <li><a href="https://howto.techidaily.com/9-solutions-to-fix-poco-c50-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Poco C50 System Crash Issue | Dr.fone</u></a></li>
 </ul></div>
+
 

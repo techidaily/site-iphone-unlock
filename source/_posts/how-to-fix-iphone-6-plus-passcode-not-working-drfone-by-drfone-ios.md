@@ -1,7 +1,7 @@
 ---
 title: How to Fix iPhone 6 Plus Passcode not Working? | Dr.fone
-date: 2024-04-30T17:39:36.685Z
-updated: 2024-05-01T17:39:36.685Z
+date: 2024-05-19T07:26:55.966Z
+updated: 2024-05-20T07:26:55.966Z
 tags: 
   - unlock
   - remove screen lock
@@ -567,4 +567,5 @@ If you have any other questions or doubts about this process, feel free to ask u
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-realme-narzo-60-5g-easily-by-drfone-android/"><u>In 2024, How To Unlock a Realme Narzo 60 5G Easily?</u></a></li>
 <li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-oppo-reno-10-5g-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Oppo Reno 10 5G Screen | Dr.fone</u></a></li>
 </ul></div>
+
 

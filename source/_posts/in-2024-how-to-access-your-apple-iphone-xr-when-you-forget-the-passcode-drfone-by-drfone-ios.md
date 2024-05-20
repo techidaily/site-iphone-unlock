@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Access Your Apple iPhone XR When You Forget the Passcode? | Dr.fone
-date: 2024-04-30T17:50:16.801Z
-updated: 2024-05-01T17:50:16.801Z
+date: 2024-05-19T07:27:35.769Z
+updated: 2024-05-20T07:27:35.769Z
 tags: 
   - unlock
   - remove screen lock
@@ -548,4 +548,5 @@ If you have an older version of iOS (version 9 or earlier), then there is a bug 
 <li><a href="https://apple-account.techidaily.com/guide-on-how-to-remove-apple-id-from-iphone-15-pro-by-drfone-ios/"><u>Guide on How To Remove Apple ID From iPhone 15 Pro</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-your-iphone-13-mini-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On your iPhone 13 mini</u></a></li>
 </ul></div>
+
 

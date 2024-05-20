@@ -1,7 +1,7 @@
 ---
 title: How to Unlock iPhone 6s without Passcode or Face ID | Dr.fone
-date: 2024-04-30T17:39:40.647Z
-updated: 2024-05-01T17:39:40.647Z
+date: 2024-05-19T07:27:00.226Z
+updated: 2024-05-20T07:27:00.226Z
 tags: 
   - unlock
   - remove screen lock
@@ -657,4 +657,5 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 <li><a href="https://review-topics.techidaily.com/recover-permanently-deleted-or-erased-excel-2023-files-for-free-by-stellar-guide/"><u>Recover Permanently Deleted or Erased Excel 2023 Files for Free</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-from-iphone-15-plus-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled From iPhone 15 Plus? 7 Mehtods You Cant-Miss</u></a></li>
 </ul></div>
+
 

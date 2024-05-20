@@ -1,7 +1,7 @@
 ---
 title: In 2024, Forgot iPhone XS Backup Password? Heres What to Do | Dr.fone
-date: 2024-04-30T17:48:31.470Z
-updated: 2024-05-01T17:48:31.470Z
+date: 2024-05-19T07:27:30.217Z
+updated: 2024-05-20T07:27:30.217Z
 tags: 
   - unlock
   - remove screen lock
@@ -575,4 +575,5 @@ So, if you are looking for a hassle-free solution to fix your lock screen issues
 <li><a href="https://pokemon-go-android.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-realme-note-50-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Realme Note 50 | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-sync-audio-with-video-with-filmora/"><u>In 2024, Sync Audio With Video With Filmora</u></a></li>
 </ul></div>
+
 

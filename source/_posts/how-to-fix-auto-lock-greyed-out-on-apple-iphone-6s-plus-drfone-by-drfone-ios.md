@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on Apple iPhone 6s Plus | Dr.fone
-date: 2024-04-30T17:40:34.711Z
-updated: 2024-05-01T17:40:34.711Z
+date: 2024-05-19T07:27:03.197Z
+updated: 2024-05-20T07:27:03.197Z
 tags: 
   - unlock
   - remove screen lock
@@ -532,4 +532,5 @@ We hope we have covered every bit of this article perfectly and you have success
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-realme-note-50-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Realme Note 50 to Mac? | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Xiaomi Civi 3 | Dr.fone</u></a></li>
 </ul></div>
+
 

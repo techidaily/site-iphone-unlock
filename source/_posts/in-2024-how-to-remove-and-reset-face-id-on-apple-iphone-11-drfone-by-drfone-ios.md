@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Remove and Reset Face ID on Apple iPhone 11 | Dr.fone
-date: 2024-04-30T17:51:11.118Z
-updated: 2024-05-01T17:51:11.118Z
+date: 2024-05-19T07:27:39.081Z
+updated: 2024-05-20T07:27:39.081Z
 tags: 
   - unlock
   - remove screen lock
@@ -502,4 +502,5 @@ Luckily, we’re here to provide a series of dependable and secure solutions tha
 <li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-vivo-v30-lite-5g-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Vivo V30 Lite 5G without Him Knowing | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-6-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 6 Without Data Loss? | Dr.fone</u></a></li>
 </ul></div>
+
 

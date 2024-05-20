@@ -1,7 +1,7 @@
 ---
 title: How to Unlock iPhone 11 without Passcode or Face ID | Dr.fone
-date: 2024-04-30T17:50:57.515Z
-updated: 2024-05-01T17:50:57.515Z
+date: 2024-05-19T07:27:38.064Z
+updated: 2024-05-20T07:27:38.064Z
 tags: 
   - unlock
   - remove screen lock
@@ -545,4 +545,5 @@ Now you know what to do the next time you forget your passcode. Using the simple
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-a70-phone-without-google-account-by-drfone-android/"><u>In 2024, How to Unlock Itel A70 Phone without Google Account?</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-oppo-find-n3-flip-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Oppo Find N3 Flip Location on Skout | Dr.fone</u></a></li>
 </ul></div>
+
 

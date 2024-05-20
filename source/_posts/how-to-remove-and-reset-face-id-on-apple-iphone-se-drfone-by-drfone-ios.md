@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on Apple iPhone SE | Dr.fone
-date: 2024-04-30T17:41:39.111Z
-updated: 2024-05-01T17:41:39.111Z
+date: 2024-05-19T07:27:06.905Z
+updated: 2024-05-20T07:27:06.905Z
 tags: 
   - unlock
   - remove screen lock
@@ -594,4 +594,5 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 <li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-from-vivo-t2-pro-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock from Vivo T2 Pro 5G Devices</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-lava-storm-5g-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Lava Storm 5G</u></a></li>
 </ul></div>
+
 

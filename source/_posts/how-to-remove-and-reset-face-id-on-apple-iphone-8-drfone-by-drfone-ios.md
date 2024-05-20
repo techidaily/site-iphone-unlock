@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on Apple iPhone 8 | Dr.fone
-date: 2024-04-30T17:46:43.838Z
-updated: 2024-05-01T17:46:43.838Z
+date: 2024-05-19T07:27:23.966Z
+updated: 2024-05-20T07:27:23.966Z
 tags: 
   - unlock
   - remove screen lock
@@ -472,4 +472,5 @@ Now when you know how to unlock Apple iPhone 8 passcode without iTunes, you can 
 <li><a href="https://ios-unlock.techidaily.com/iphone-13-mini-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>iPhone 13 mini Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-splitting-video-in-vsdc-step-by-step-for-2024/"><u>New Splitting Video in VSDC Step by Step for 2024</u></a></li>
 </ul></div>
+
 

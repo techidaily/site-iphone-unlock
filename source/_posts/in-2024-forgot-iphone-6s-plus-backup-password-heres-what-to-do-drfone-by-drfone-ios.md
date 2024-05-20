@@ -1,7 +1,7 @@
 ---
 title: In 2024, Forgot iPhone 6s Plus Backup Password? Heres What to Do | Dr.fone
-date: 2024-04-30T17:41:26.239Z
-updated: 2024-05-01T17:41:26.239Z
+date: 2024-05-19T07:27:06.197Z
+updated: 2024-05-20T07:27:06.197Z
 tags: 
   - unlock
   - remove screen lock
@@ -455,4 +455,5 @@ We hope that after following this guide, you would be able to gain in-depth info
 <li><a href="https://techidaily.com/sign-docx-file-documents-online-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign .docx file Documents Online for Free</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/step-by-step-to-add-border-to-video-using-premiere-pro/"><u>Step by Step to Add Border to Video Using Premiere Pro</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Access Your Apple iPhone X When You Forget the Passcode? | Dr.fone
-date: 2024-04-30T17:44:45.360Z
-updated: 2024-05-01T17:44:45.360Z
+date: 2024-05-19T07:27:17.406Z
+updated: 2024-05-20T07:27:17.406Z
 tags: 
   - unlock
   - remove screen lock
@@ -420,4 +420,5 @@ So, if you have forgotten your Apple iPhone X passcode and are looking for how t
 <li><a href="https://ai-editing-video.techidaily.com/new-m31-lut-teal-and-orange-lut-free-download/"><u>New M31 LUT (Teal and Orange LUT) Free Download</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-motorola-moto-g84-5g-is-unlocked-by-drfone-android/"><u>How To Check if Your Motorola Moto G84 5G Is Unlocked</u></a></li>
 </ul></div>
+
 

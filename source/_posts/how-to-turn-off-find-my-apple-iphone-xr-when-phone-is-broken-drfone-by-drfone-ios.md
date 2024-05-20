@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Find My Apple iPhone XR when Phone is Broken? | Dr.fone
-date: 2024-04-30T17:49:45.094Z
-updated: 2024-05-01T17:49:45.094Z
+date: 2024-05-19T07:27:34.204Z
+updated: 2024-05-20T07:27:34.204Z
 tags: 
   - unlock
   - remove screen lock
@@ -487,4 +487,5 @@ Dr.Fone - Screen Unlock is the easiest method to delete the password from your i
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-the-ultimate-list-best-apps-to-turn-yourself-into-a-cartoon/"><u>New 2024 Approved The Ultimate List Best Apps to Turn Yourself Into a Cartoon</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-itel-p55t-phone-by-drfone-android/"><u>How to Unlock a Network Locked Itel P55T Phone?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on iPhone 13 | Dr.fone
-date: 2024-04-30T17:58:46.577Z
-updated: 2024-05-01T17:58:46.577Z
+date: 2024-05-19T07:28:05.256Z
+updated: 2024-05-20T07:28:05.256Z
 tags: 
   - unlock
   - remove screen lock
@@ -523,4 +523,5 @@ _**Tips:** Are you searching for a powerful iPhone Unlock tool? No worries as [D
 <li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Xiaomi Redmi K70E | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-honor-100-pro-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Honor 100 Pro to New Android Phone? | Dr.fone</u></a></li>
 </ul></div>
+
 

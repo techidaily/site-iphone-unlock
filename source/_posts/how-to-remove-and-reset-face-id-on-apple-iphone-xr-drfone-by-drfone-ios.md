@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on Apple iPhone XR | Dr.fone
-date: 2024-04-30T17:49:44.551Z
-updated: 2024-05-01T17:49:44.551Z
+date: 2024-05-19T07:27:34.178Z
+updated: 2024-05-20T07:27:34.178Z
 tags: 
   - unlock
   - remove screen lock
@@ -477,4 +477,5 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 <li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-vivo-y100-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Vivo Y100 Bricked Devices | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/xiaomi-redmi-note-12t-pro-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi Note 12T Pro Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
 </ul></div>
+
 

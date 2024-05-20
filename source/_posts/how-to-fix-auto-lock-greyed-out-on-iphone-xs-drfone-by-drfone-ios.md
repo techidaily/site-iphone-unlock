@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on iPhone XS | Dr.fone
-date: 2024-04-30T17:48:01.050Z
-updated: 2024-05-01T17:48:01.050Z
+date: 2024-05-19T07:27:28.155Z
+updated: 2024-05-20T07:27:28.155Z
 tags: 
   - unlock
   - remove screen lock
@@ -477,4 +477,5 @@ In conclusion, this article addressed methods for **how to recover locked notes 
 <li><a href="https://howto.techidaily.com/android-screen-stuck-general-oppo-reno-10-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Oppo Reno 10 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-on-apple-iphone-14-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock On Apple iPhone 14 - 4 Easy Ways</u></a></li>
 </ul></div>
+
 

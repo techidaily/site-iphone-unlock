@@ -1,7 +1,7 @@
 ---
 title: In 2024, Locked Out of iPhone XR? 5 Ways to get into a Locked iPhone XR | Dr.fone
-date: 2024-04-30T17:50:27.255Z
-updated: 2024-05-01T17:50:27.255Z
+date: 2024-05-19T07:27:36.340Z
+updated: 2024-05-20T07:27:36.340Z
 tags: 
   - unlock
   - remove screen lock
@@ -510,4 +510,5 @@ Now, in case you know the Apple iPhone XR restrictions passcode and just wish to
 <li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-motorola-moto-g34-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Motorola Moto G34 5G PC | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-oppo-f25-pro-5g-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Oppo F25 Pro 5G Screen Mirroring App | Dr.fone</u></a></li>
 </ul></div>
+
 

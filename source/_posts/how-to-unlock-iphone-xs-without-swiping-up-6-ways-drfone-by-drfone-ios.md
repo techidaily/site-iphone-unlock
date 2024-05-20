@@ -1,7 +1,7 @@
 ---
 title: How To Unlock iPhone XS Without Swiping Up? 6 Ways | Dr.fone
-date: 2024-04-30T17:48:05.091Z
-updated: 2024-05-01T17:48:05.091Z
+date: 2024-05-19T07:27:28.357Z
+updated: 2024-05-20T07:27:28.357Z
 tags: 
   - unlock
   - remove screen lock
@@ -578,4 +578,5 @@ Lastly, trust [Dr.Fone iPhone SIM Unlocker](https://drfone.wondershare.com/iphon
 <li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-vivo-s17-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Vivo S17</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/new-2024-approved-nurturing-the-spirit-through-the-top-10-intellectual-anime-websites/"><u>New 2024 Approved Nurturing the Spirit Through the Top 10 Intellectual Anime Websites</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on Apple iPhone 13 | Dr.fone
-date: 2024-04-30T17:58:32.410Z
-updated: 2024-05-01T17:58:32.410Z
+date: 2024-05-19T07:28:04.449Z
+updated: 2024-05-20T07:28:04.449Z
 tags: 
   - unlock
   - remove screen lock
@@ -519,4 +519,5 @@ Lastly, trust [Dr.Fone iPhone SIM Unlocker](https://drfone.wondershare.com/iphon
 <li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-best-10-hindi-video-translators-with-step-by-step-guidance/"><u>Updated In 2024, Best 10 Hindi Video Translators with Step-by-Step Guidance</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-vegas-pro-how-to-download-install-and-use-it/"><u>Updated In 2024, Vegas Pro - How to Download, Install and Use It?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Forgot iPhone 8 Backup Password? Heres What to Do | Dr.fone
-date: 2024-04-30T17:46:59.862Z
-updated: 2024-05-01T17:46:59.862Z
+date: 2024-05-19T07:27:24.906Z
+updated: 2024-05-20T07:27:24.906Z
 tags: 
   - unlock
   - remove screen lock
@@ -554,4 +554,5 @@ Having an iPhone with a broken screen can make your life hard. It keeps you from
 <li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-vivo-y78t-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Vivo Y78t Phones with/without a PC</u></a></li>
 <li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-samsung-galaxy-m14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Samsung Galaxy M14 4G | Dr.fone</u></a></li>
 </ul></div>
+
 

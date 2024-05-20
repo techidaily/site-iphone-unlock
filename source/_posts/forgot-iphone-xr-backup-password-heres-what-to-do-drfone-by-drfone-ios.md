@@ -1,7 +1,7 @@
 ---
 title: Forgot iPhone XR Backup Password? Heres What to Do | Dr.fone
-date: 2024-04-30T17:50:02.308Z
-updated: 2024-05-01T17:50:02.308Z
+date: 2024-05-19T07:27:35.069Z
+updated: 2024-05-20T07:27:35.069Z
 tags: 
   - unlock
   - remove screen lock
@@ -454,4 +454,5 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 <li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-honor-v-purse-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Honor V Purse? | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-sign-out-of-apple-id-from-apple-iphone-8-plus-without-password-by-drfone-ios/"><u>How to Sign Out of Apple ID From Apple iPhone 8 Plus without Password?</u></a></li>
 </ul></div>
+
 

@@ -515,3 +515,4 @@ So, if you have forgotten your Apple iPhone 8 Plus passcode and are looking for 
 <li><a href="https://unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-itel-a05s-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Itel A05s</u></a></li>
 </ul></div>
 
+

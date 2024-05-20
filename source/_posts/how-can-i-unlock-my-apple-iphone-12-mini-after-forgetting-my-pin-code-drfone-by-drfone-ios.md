@@ -1,7 +1,7 @@
 ---
 title: How Can I Unlock My Apple iPhone 12 mini After Forgetting my PIN Code? | Dr.fone
-date: 2024-04-30T17:55:28.603Z
-updated: 2024-05-01T17:55:28.603Z
+date: 2024-05-19T07:27:54.199Z
+updated: 2024-05-20T07:27:54.199Z
 tags: 
   - unlock
   - remove screen lock
@@ -552,4 +552,5 @@ By following these solutions, you would be able to learn how to lock apps on the
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-itel-p40-phone-without-password-by-drfone-android/"><u>How To Unlock Itel P40 Phone Without Password?</u></a></li>
 <li><a href="https://techidaily.com/hard-reset-lava-yuva-2-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Lava Yuva 2 in 3 Efficient Ways | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Complete Guide For iPhone 12 Pro Lock Screen | Dr.fone
-date: 2024-04-30T17:57:45.050Z
-updated: 2024-05-01T17:57:45.050Z
+date: 2024-05-19T07:28:01.575Z
+updated: 2024-05-20T07:28:01.575Z
 tags: 
   - unlock
   - remove screen lock
@@ -573,4 +573,5 @@ Having an iPhone with a broken screen can make your life hard. It keeps you from
 <li><a href="https://location-social.techidaily.com/set-your-preferred-job-location-on-linkedin-app-of-your-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>Set Your Preferred Job Location on LinkedIn App of your Apple iPhone 15 | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/vivo-v29e-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo V29e Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
 </ul></div>
+
 

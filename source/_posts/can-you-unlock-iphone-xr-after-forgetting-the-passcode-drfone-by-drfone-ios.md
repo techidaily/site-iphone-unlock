@@ -1,7 +1,7 @@
 ---
 title: Can You Unlock iPhone XR After Forgetting the Passcode? | Dr.fone
-date: 2024-04-30T17:49:58.700Z
-updated: 2024-05-01T17:49:58.700Z
+date: 2024-05-19T07:27:34.915Z
+updated: 2024-05-20T07:27:34.915Z
 tags: 
   - unlock
   - remove screen lock
@@ -519,4 +519,5 @@ In conclusion, this article addressed methods for **how to recover locked notes 
 <li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-vivo-s17e-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Vivo S17e Back to Operation | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-get-out-of-recovery-on-apple-iphone-11-pro-max-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
 </ul></div>
+
 

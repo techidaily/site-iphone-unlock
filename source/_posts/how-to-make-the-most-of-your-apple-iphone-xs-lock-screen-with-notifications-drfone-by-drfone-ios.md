@@ -1,7 +1,7 @@
 ---
 title: How to Make the Most of Your Apple iPhone XS Lock Screen with Notifications? | Dr.fone
-date: 2024-04-30T17:47:46.956Z
-updated: 2024-05-01T17:47:46.956Z
+date: 2024-05-19T07:27:27.402Z
+updated: 2024-05-20T07:27:27.402Z
 tags: 
   - unlock
   - remove screen lock
@@ -434,4 +434,5 @@ But what if you're locked out of your iOS device? Don't fret; Dr.Fone - Screen U
 <li><a href="https://unlock-android.techidaily.com/unlock-your-vivo-v30-lite-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Vivo V30 Lite 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-xr-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone XR To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

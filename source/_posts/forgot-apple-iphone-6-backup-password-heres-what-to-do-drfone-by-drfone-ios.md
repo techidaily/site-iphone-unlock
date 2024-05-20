@@ -1,7 +1,7 @@
 ---
 title: Forgot Apple iPhone 6 Backup Password? Heres What to Do | Dr.fone
-date: 2024-04-30T17:39:36.092Z
-updated: 2024-05-01T17:39:36.092Z
+date: 2024-05-19T07:26:51.609Z
+updated: 2024-05-20T07:26:51.609Z
 tags: 
   - unlock
   - remove screen lock
@@ -634,4 +634,5 @@ While these methods are helpful, there's a software called Wondershare Dr.Fone t
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xr-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/" ><u>In 2024, How to Unlock Apple iPhone XR Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-apple-iphone-6s-plus-without-passcode-easily-drfone-by-drfone-ios/" ><u>In 2024, Unlock Apple iPhone 6s Plus Without Passcode Easily | Dr.fone</u></a></li>
 </ul></div>
+
 

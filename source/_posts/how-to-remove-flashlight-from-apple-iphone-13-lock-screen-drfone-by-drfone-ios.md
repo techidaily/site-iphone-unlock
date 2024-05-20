@@ -1,7 +1,7 @@
 ---
 title: How To Remove Flashlight From Apple iPhone 13 Lock Screen | Dr.fone
-date: 2024-04-30T17:58:34.925Z
-updated: 2024-05-01T17:58:34.925Z
+date: 2024-05-19T07:28:04.641Z
+updated: 2024-05-20T07:28:04.641Z
 tags: 
   - unlock
   - remove screen lock
@@ -542,4 +542,5 @@ We all can relate that unlocking an iPhone on Face ID while wearing a face mask 
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-avs-video-editor-2023-an-in-depth-analysis-and-review/"><u>2024 Approved AVS Video Editor 2023 An In-Depth Analysis and Review</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oneplus-11-5g-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on OnePlus 11 5G Devices | Dr.fone</u></a></li>
 </ul></div>
+
 

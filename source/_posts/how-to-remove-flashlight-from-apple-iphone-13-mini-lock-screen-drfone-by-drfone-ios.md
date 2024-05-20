@@ -1,7 +1,7 @@
 ---
 title: How To Remove Flashlight From Apple iPhone 13 mini Lock Screen | Dr.fone
-date: 2024-04-30T17:59:34.396Z
-updated: 2024-05-01T17:59:34.396Z
+date: 2024-05-19T07:28:07.784Z
+updated: 2024-05-20T07:28:07.784Z
 tags: 
   - unlock
   - remove screen lock
@@ -629,4 +629,5 @@ If you have an older version of iOS (version 9 or earlier), then there is a bug 
 <li><a href="https://pokemon-go-android.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-honor-x7b-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Honor X7b | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-infinix-note-30-pro-drfone-by-drfone-virtual-android/"><u>How to Find iSpoofer Pro Activation Key On Infinix Note 30 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

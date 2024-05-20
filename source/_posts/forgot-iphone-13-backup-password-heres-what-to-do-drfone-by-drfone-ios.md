@@ -1,7 +1,7 @@
 ---
 title: Forgot iPhone 13 Backup Password? Heres What to Do | Dr.fone
-date: 2024-04-30T17:58:46.944Z
-updated: 2024-05-01T17:58:46.944Z
+date: 2024-05-19T07:28:05.264Z
+updated: 2024-05-20T07:28:05.264Z
 tags: 
   - unlock
   - remove screen lock
@@ -608,4 +608,5 @@ That's all about our take on **how to unlock iPhone without passcode or face ID 
 <li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-on-apple-iphone-6s-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock On Apple iPhone 6s? How to Fix it?</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Realme C53 | Dr.fone</u></a></li>
 </ul></div>
+
 

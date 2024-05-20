@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on iPhone 6 | Dr.fone
-date: 2024-04-30T17:39:36.195Z
-updated: 2024-05-01T17:39:36.195Z
+date: 2024-05-19T07:26:52.436Z
+updated: 2024-05-20T07:26:52.436Z
 tags: 
   - unlock
   - remove screen lock
@@ -591,4 +591,5 @@ A locked Apple iPhone 6 is never a pretty sight. Fortunately, there are a couple
 <li><a href="https://change-location.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual-android/" ><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-xiaomi-redmi-note-13-pro-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/" ><u>In 2024, A Guide Xiaomi Redmi Note 13 Pro 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
 </ul></div>
+
 

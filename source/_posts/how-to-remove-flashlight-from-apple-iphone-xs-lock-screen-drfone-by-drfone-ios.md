@@ -1,7 +1,7 @@
 ---
 title: How To Remove Flashlight From Apple iPhone XS Lock Screen | Dr.fone
-date: 2024-04-30T17:47:49.009Z
-updated: 2024-05-01T17:47:49.009Z
+date: 2024-05-19T07:27:27.521Z
+updated: 2024-05-20T07:27:27.521Z
 tags: 
   - unlock
   - remove screen lock
@@ -417,4 +417,5 @@ _**Tips:** Are you searching for a powerful iPhone Unlock tool? No worries as [D
 <li><a href="https://ios-unlock.techidaily.com/disabled-iphone-12-pro-max-how-to-unlock-a-disabled-iphone-12-pro-max-by-drfone-ios/"><u>Disabled iPhone 12 Pro Max How to Unlock a Disabled iPhone 12 Pro Max?</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-track-nokia-150-2023-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Nokia 150 (2023) Location by Number | Dr.fone</u></a></li>
 </ul></div>
+
 

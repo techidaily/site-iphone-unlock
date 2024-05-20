@@ -1,7 +1,7 @@
 ---
 title: Learn How To Lock Stolen Your iPhone XR Properly | Dr.fone
-date: 2024-04-30T17:50:04.324Z
-updated: 2024-05-01T17:50:04.324Z
+date: 2024-05-19T07:27:35.193Z
+updated: 2024-05-20T07:27:35.193Z
 tags: 
   - unlock
   - remove screen lock
@@ -615,4 +615,5 @@ If you have an older version of iOS (version 9 or earlier), then there is a bug 
 <li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-pictures-from-tecno-spark-20-by-fonelab-android-recover-pictures/"><u>Possible solutions to restore deleted pictures from Tecno Spark 20.</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/reasons-for-xiaomi-13-ultra-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Xiaomi 13 Ultra Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
 </ul></div>
+
 

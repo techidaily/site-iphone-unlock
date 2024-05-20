@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on iPhone X | Dr.fone
-date: 2024-04-30T17:45:00.938Z
-updated: 2024-05-01T17:45:00.938Z
+date: 2024-05-19T07:27:18.227Z
+updated: 2024-05-20T07:27:18.227Z
 tags: 
   - unlock
   - remove screen lock
@@ -696,4 +696,5 @@ After following these solutions, you can use your Apple iPhone X and surpass its
 <li><a href="https://bypass-frp.techidaily.com/how-to-bypass-tecno-pova-5-pro-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Tecno Pova 5 Pro FRP In 3 Different Ways</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-using-this-article-as-a-reference-the-users-would-create-a-cafe-meal-intro-and-youtube-end-screen-while-knowing-multiple-ways-to-download-cooking-ba/"><u>Updated Using This Article as a Reference, the Users Would Create a Café Meal Intro and YouTube End Screen While Knowing Multiple Ways to Download Cooking Background Music</u></a></li>
 </ul></div>
+
 

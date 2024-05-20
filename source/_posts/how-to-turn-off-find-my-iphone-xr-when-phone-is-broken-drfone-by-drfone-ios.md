@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Find My iPhone XR when Phone is Broken? | Dr.fone
-date: 2024-04-30T17:49:59.711Z
-updated: 2024-05-01T17:49:59.711Z
+date: 2024-05-19T07:27:34.969Z
+updated: 2024-05-20T07:27:34.969Z
 tags: 
   - unlock
   - remove screen lock
@@ -518,4 +518,5 @@ _**Tips:** Are you searching for a powerful iPhone Unlock tool? No worries as [D
 <li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-itel-p55plus-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Itel P55+ Phones with/without a PC</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-nokia-c02-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Nokia C02?</u></a></li>
 </ul></div>
+
 

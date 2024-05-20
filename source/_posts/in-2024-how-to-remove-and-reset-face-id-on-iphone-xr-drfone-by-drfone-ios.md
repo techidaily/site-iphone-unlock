@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Remove and Reset Face ID on iPhone XR | Dr.fone
-date: 2024-04-30T17:50:28.107Z
-updated: 2024-05-01T17:50:28.107Z
+date: 2024-05-19T07:27:36.386Z
+updated: 2024-05-20T07:27:36.386Z
 tags: 
   - unlock
   - remove screen lock
@@ -529,4 +529,5 @@ _**Tips:** Are you searching for a powerful iPhone Unlock tool? No worries as [D
 <li><a href="https://change-location.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Vivo S18e? | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/how-can-i-recover-corrupted-excel-file-2010-by-stellar-guide/"><u>How Can I Recover Corrupted Excel File 2010</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Find My iPhone 8 when Phone is Broken? | Dr.fone
-date: 2024-04-30T17:46:56.948Z
-updated: 2024-05-01T17:46:56.948Z
+date: 2024-05-19T07:27:24.757Z
+updated: 2024-05-20T07:27:24.757Z
 tags: 
   - unlock
   - remove screen lock
@@ -513,4 +513,5 @@ Due to one reason or another, you may have **forgotten iPhone PIN.** However, it
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-f54-5g-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Samsung Galaxy F54 5G Phone without Any Data Loss</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/how-can-i-recover-corrupted-pdf-v16-file-by-stellar-guide/"><u>How Can I Recover Corrupted PDF v1.6 File</u></a></li>
 </ul></div>
+
 

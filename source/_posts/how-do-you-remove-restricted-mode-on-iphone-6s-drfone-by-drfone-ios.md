@@ -1,7 +1,7 @@
 ---
 title: How Do You Remove Restricted Mode on iPhone 6s | Dr.fone
-date: 2024-04-30T17:39:46.231Z
-updated: 2024-05-01T17:39:46.231Z
+date: 2024-05-19T07:27:00.588Z
+updated: 2024-05-20T07:27:00.588Z
 tags: 
   - unlock
   - remove screen lock
@@ -461,4 +461,5 @@ Now when you know how to unlock Apple iPhone 6s passcode without iTunes, you can
 <li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-samsung-galaxy-s24-ultra-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Samsung Galaxy S24 Ultra</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-samsung-galaxy-a05s-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Samsung Galaxy A05s FRP Without Computer</u></a></li>
 </ul></div>
+
 

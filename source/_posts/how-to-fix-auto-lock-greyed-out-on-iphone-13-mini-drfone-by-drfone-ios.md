@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on iPhone 13 mini | Dr.fone
-date: 2024-04-30T17:59:45.264Z
-updated: 2024-05-01T17:59:45.264Z
+date: 2024-05-19T07:28:08.382Z
+updated: 2024-05-20T07:28:08.382Z
 tags: 
   - unlock
   - remove screen lock
@@ -427,4 +427,5 @@ In conclusion, this article addressed methods for **how to recover locked notes 
 <li><a href="https://android-unlock.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-samsung-galaxy-z-flip-5-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Samsung Galaxy Z Flip 5</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>How can I get more stardust in pokemon go On Apple iPhone 15? | Dr.fone</u></a></li>
 </ul></div>
+
 

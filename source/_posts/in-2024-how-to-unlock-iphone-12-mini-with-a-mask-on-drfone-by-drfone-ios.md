@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock iPhone 12 mini with a Mask On | Dr.fone
-date: 2024-04-30T17:56:22.314Z
-updated: 2024-05-01T17:56:22.314Z
+date: 2024-05-19T07:27:57.013Z
+updated: 2024-05-20T07:27:57.013Z
 tags: 
   - unlock
   - remove screen lock
@@ -436,4 +436,5 @@ Not all of us have the memory of elephants. With Touch ID and Face ID on our iPh
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-the-ultimate-list-of-16-free-film-making-tools/"><u>2024 Approved The Ultimate List of 16 Free Film Making Tools</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/3-ways-to-track-apple-iphone-6-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>3 Ways to Track Apple iPhone 6 without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

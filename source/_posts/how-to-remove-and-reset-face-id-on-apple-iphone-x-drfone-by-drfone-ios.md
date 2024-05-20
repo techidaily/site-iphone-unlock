@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on Apple iPhone X | Dr.fone
-date: 2024-04-30T17:44:42.532Z
-updated: 2024-05-01T17:44:42.532Z
+date: 2024-05-19T07:27:17.299Z
+updated: 2024-05-20T07:27:17.299Z
 tags: 
   - unlock
   - remove screen lock
@@ -668,4 +668,5 @@ If you have an older version of iOS (version 9 or earlier), then there is a bug 
 <li><a href="https://easy-unlock-android.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-nokia-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Nokia</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-on-iphone-6-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code On iPhone 6</u></a></li>
 </ul></div>
+
 

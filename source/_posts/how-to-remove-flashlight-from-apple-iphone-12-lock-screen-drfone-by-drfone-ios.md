@@ -1,7 +1,7 @@
 ---
 title: How To Remove Flashlight From Apple iPhone 12 Lock Screen | Dr.fone
-date: 2024-04-30T17:54:35.126Z
-updated: 2024-05-01T17:54:35.126Z
+date: 2024-05-19T07:27:51.046Z
+updated: 2024-05-20T07:27:51.046Z
 tags: 
   - unlock
   - remove screen lock
@@ -502,4 +502,5 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-xs-to-other-iphone-13-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone XS to other iPhone 13 devices? | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Samsung Galaxy F04? | Dr.fone</u></a></li>
 </ul></div>
+
 

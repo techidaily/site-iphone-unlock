@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Apple iPhone XR Passcode Screen? | Dr.fone
-date: 2024-04-30T17:50:22.915Z
-updated: 2024-05-01T17:50:22.915Z
+date: 2024-05-19T07:27:36.075Z
+updated: 2024-05-20T07:27:36.075Z
 tags: 
   - unlock
   - remove screen lock
@@ -620,4 +620,5 @@ In conclusion, this article addressed methods for **how to recover locked notes 
 <li><a href="https://ai-vdieo-software.techidaily.com/top-imovie-replacements-for-windows-11-and-10/"><u>Top iMovie Replacements for Windows 11 and 10</u></a></li>
 <li><a href="https://techidaily.com/use-device-manager-to-identify-some-outdated-drivers-in-windows-11-by-drivereasy-guide/"><u>Use Device Manager to identify some outdated drivers in Windows 11</u></a></li>
 </ul></div>
+
 

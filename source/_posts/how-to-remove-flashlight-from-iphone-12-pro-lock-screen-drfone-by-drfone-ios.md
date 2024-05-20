@@ -1,7 +1,7 @@
 ---
 title: How To Remove Flashlight From iPhone 12 Pro Lock Screen | Dr.fone
-date: 2024-04-30T17:57:48.482Z
-updated: 2024-05-01T17:57:48.482Z
+date: 2024-05-19T07:28:01.797Z
+updated: 2024-05-20T07:28:01.797Z
 tags: 
   - unlock
   - remove screen lock
@@ -513,4 +513,5 @@ In this comprehensive guide, we navigated through **how to unlock Total Wireless
 <li><a href="https://techidaily.com/complete-guide-to-hard-reset-your-vivo-y200e-5g-drfone-by-drfone-reset-android-reset-android/"><u>Complete Guide to Hard Reset Your Vivo Y200e 5G | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/8-best-apps-for-screen-mirroring-itel-a70-pc-drfone-by-drfone-android/"><u>8 Best Apps for Screen Mirroring Itel A70 PC | Dr.fone</u></a></li>
 </ul></div>
+
 

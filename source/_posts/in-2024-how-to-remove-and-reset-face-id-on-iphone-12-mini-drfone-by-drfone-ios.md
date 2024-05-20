@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Remove and Reset Face ID on iPhone 12 mini | Dr.fone
-date: 2024-04-30T17:56:13.803Z
-updated: 2024-05-01T17:56:13.803Z
+date: 2024-05-19T07:27:56.593Z
+updated: 2024-05-20T07:27:56.593Z
 tags: 
   - unlock
   - remove screen lock
@@ -582,4 +582,5 @@ After following this informative guide, you would learn how to wipe a locked iPh
 <li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-from-your-apple-iphone-x-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock from your Apple iPhone X and iPad</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-realme-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Realme</u></a></li>
 </ul></div>
+
 

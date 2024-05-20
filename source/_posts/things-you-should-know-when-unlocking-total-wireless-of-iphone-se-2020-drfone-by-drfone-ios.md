@@ -524,3 +524,4 @@ Not all of us have the memory of elephants. With Touch ID and Face ID on our iPh
 <li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-everything-from-apple-iphone-8-plus-to-iphone-8x11-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Everything from Apple iPhone 8 Plus to iPhone 8/X/11 | Dr.fone</u></a></li>
 </ul></div>
 
+

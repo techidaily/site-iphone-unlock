@@ -681,3 +681,4 @@ Creating a strong Apple ID password is simple: mix letters and numbers, make it 
 <li><a href="https://blog-min.techidaily.com/how-to-put-iphone-12-mini-or-ipad-on-recovery-mode-step-by-step-tutorial-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Put iPhone 12 mini or iPad on Recovery mode? (Step by Step Tutorial) | Stellar</u></a></li>
 </ul></div>
 
+

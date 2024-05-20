@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Fix iPhone 11 Passcode not Working? | Dr.fone
-date: 2024-04-30T17:51:23.417Z
-updated: 2024-05-01T17:51:23.417Z
+date: 2024-05-19T07:27:39.768Z
+updated: 2024-05-20T07:27:39.768Z
 tags: 
   - unlock
   - remove screen lock
@@ -650,4 +650,5 @@ If you're not interested in using a third-party tool, you can try one of the met
 <li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-14-plus-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone 14 Plus</u></a></li>
 <li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-8-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 8 Plus? | Dr.fone</u></a></li>
 </ul></div>
+
 

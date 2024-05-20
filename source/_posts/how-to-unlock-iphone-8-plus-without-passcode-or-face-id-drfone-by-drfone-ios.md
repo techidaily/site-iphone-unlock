@@ -1,7 +1,7 @@
 ---
 title: How to Unlock iPhone 8 Plus without Passcode or Face ID | Dr.fone
-date: 2024-04-30T17:46:01.397Z
-updated: 2024-05-01T17:46:01.397Z
+date: 2024-05-19T07:27:21.373Z
+updated: 2024-05-20T07:27:21.373Z
 tags: 
   - unlock
   - remove screen lock
@@ -501,4 +501,5 @@ Not all of us have the memory of elephants. With Touch ID and Face ID on our iPh
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-pro-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11 Pro Without Passcode?</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-oppo-find-n3-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Oppo Find N3</u></a></li>
 </ul></div>
+
 

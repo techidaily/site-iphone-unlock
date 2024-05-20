@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on iPhone 12 Pro Max | Dr.fone
-date: 2024-04-30T17:57:16.308Z
-updated: 2024-05-01T17:57:16.308Z
+date: 2024-05-19T07:28:00.149Z
+updated: 2024-05-20T07:28:00.150Z
 tags: 
   - unlock
   - remove screen lock
@@ -492,4 +492,5 @@ After following this informative guide, you would learn how to wipe a locked iPh
 <li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-nokia-xr21-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Nokia XR21 | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/app-wont-open-on-your-samsung-galaxy-a25-5g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Samsung Galaxy A25 5G? Here Are All Fixes | Dr.fone</u></a></li>
 </ul></div>
+
 

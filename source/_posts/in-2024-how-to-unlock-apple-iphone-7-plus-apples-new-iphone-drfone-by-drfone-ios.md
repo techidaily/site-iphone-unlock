@@ -488,3 +488,4 @@ The article has covered a sufficient portion of knowledge for the user regarding
 <li><a href="https://change-location.techidaily.com/how-to-deal-with-the-infinix-smart-7-hd-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Infinix Smart 7 HD Screen Black But Still Works? | Dr.fone</u></a></li>
 </ul></div>
 
+

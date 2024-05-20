@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock iPhone XS, Apples New iPhone | Dr.fone
-date: 2024-04-30T17:48:28.540Z
-updated: 2024-05-01T17:48:28.540Z
+date: 2024-05-19T07:27:30.077Z
+updated: 2024-05-20T07:27:30.077Z
 tags: 
   - unlock
   - remove screen lock
@@ -542,4 +542,5 @@ By following these solutions, you would be able to learn how to lock apps on the
 <li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-tecno-phantom-v-fold-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Tecno Phantom V Fold Step-by-Step Solutions | Dr.fone</u></a></li>
 <li><a href="https://iphone-transfer.techidaily.com/5-ways-to-transfer-music-from-apple-iphone-11-pro-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Transfer Music from Apple iPhone 11 Pro Max to Android | Dr.fone</u></a></li>
 </ul></div>
+
 

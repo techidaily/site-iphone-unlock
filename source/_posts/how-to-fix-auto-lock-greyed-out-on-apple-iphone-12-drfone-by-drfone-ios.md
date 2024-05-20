@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on Apple iPhone 12 | Dr.fone
-date: 2024-04-30T17:54:32.327Z
-updated: 2024-05-01T17:54:32.327Z
+date: 2024-05-19T07:27:50.828Z
+updated: 2024-05-20T07:27:50.828Z
 tags: 
   - unlock
   - remove screen lock
@@ -495,4 +495,5 @@ But, when we attempt incorrect passcodes too many times, the Apple iPhone 12 get
 <li><a href="https://change-location.techidaily.com/home-button-not-working-on-vivo-y78plus-here-are-real-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Home Button Not Working on Vivo Y78+? Here Are Real Fixes | Dr.fone</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>A Working Guide For Pachirisu Pokemon Go Map On Apple iPhone 13 | Dr.fone</u></a></li>
 </ul></div>
+
 

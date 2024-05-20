@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 6s Plus | Dr.fone
-date: 2024-04-30T17:41:08.943Z
-updated: 2024-05-01T17:41:08.943Z
+date: 2024-05-19T07:27:05.291Z
+updated: 2024-05-20T07:27:05.291Z
 tags: 
   - unlock
   - remove screen lock
@@ -607,4 +607,5 @@ And if you need to remove your Apple ID without a password, Dr.Fone is a good op
 <li><a href="https://android-pokemon-go.techidaily.com/why-is-ipogo-not-working-on-tecno-phantom-v-fold-fixed-drfone-by-drfone-virtual-android/"><u>Why is iPogo not working On Tecno Phantom V Fold? Fixed | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-camon-30-pro-5g-by-fonelab-android-recover-photos/"><u>How to recover deleted photos from Camon 30 Pro 5G.</u></a></li>
 </ul></div>
+
 

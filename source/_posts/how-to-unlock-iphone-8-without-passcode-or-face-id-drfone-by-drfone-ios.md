@@ -1,7 +1,7 @@
 ---
 title: How to Unlock iPhone 8 without Passcode or Face ID | Dr.fone
-date: 2024-04-30T17:46:58.624Z
-updated: 2024-05-01T17:46:58.624Z
+date: 2024-05-19T07:27:24.827Z
+updated: 2024-05-20T07:27:24.827Z
 tags: 
   - unlock
   - remove screen lock
@@ -636,4 +636,5 @@ Now, in case you know the Apple iPhone 8 restrictions passcode and just wish to 
 <li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-from-apple-iphone-6s-plus-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes From Apple iPhone 6s Plus?</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-heres-everything-you-should-know-about-pokemon-stops-in-detail-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Heres Everything You Should Know About Pokemon Stops in Detail On Apple iPhone 6 Plus | Dr.fone</u></a></li>
 </ul></div>
+
 

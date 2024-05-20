@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on iPhone 6s Plus | Dr.fone
-date: 2024-04-30T17:41:26.036Z
-updated: 2024-05-01T17:41:26.036Z
+date: 2024-05-19T07:27:06.174Z
+updated: 2024-05-20T07:27:06.174Z
 tags: 
   - unlock
   - remove screen lock
@@ -580,4 +580,5 @@ We all can relate that unlocking an iPhone on Face ID while wearing a face mask 
 <li><a href="https://ai-vdieo-software.techidaily.com/why-the-article-about-mp3-converter-windows-deserves-to-read-for-2024/"><u>Why The Article About Mp3 Converter Windows Deserves to Read for 2024</u></a></li>
 <li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-vivo-v30-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Vivo V30 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock iPhone XS with a Mask On | Dr.fone
-date: 2024-04-30T17:48:37.237Z
-updated: 2024-05-01T17:48:37.237Z
+date: 2024-05-19T07:27:30.472Z
+updated: 2024-05-20T07:27:30.472Z
 tags: 
   - unlock
   - remove screen lock
@@ -406,4 +406,5 @@ Now, in case you know the Apple iPhone XS restrictions passcode and just wish to
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-bypass-android-lock-screen-using-emergency-call-on-itel-s23-by-drfone-android/"><u>In 2024, How to Bypass Android Lock Screen Using Emergency Call On Itel S23?</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Apple iPhone 13 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

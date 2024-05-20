@@ -1,7 +1,7 @@
 ---
 title: Complete Guide on Unlocking Apple iPhone 8 with a Broken Screen? | Dr.fone
-date: 2024-04-30T17:46:45.110Z
-updated: 2024-05-01T17:46:45.110Z
+date: 2024-05-19T07:27:24.055Z
+updated: 2024-05-20T07:27:24.055Z
 tags: 
   - unlock
   - remove screen lock
@@ -552,4 +552,5 @@ The article has covered a sufficient portion of knowledge for the user regarding
 <li><a href="https://ios-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-12-pro-max-in-lost-mode-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone 12 Pro Max in Lost Mode</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-honor-100-pro-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Honor 100 Pro</u></a></li>
 </ul></div>
+
 

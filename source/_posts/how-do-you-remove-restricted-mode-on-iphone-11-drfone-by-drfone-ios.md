@@ -1,7 +1,7 @@
 ---
 title: How Do You Remove Restricted Mode on iPhone 11 | Dr.fone
-date: 2024-04-30T17:51:02.530Z
-updated: 2024-05-01T17:51:02.530Z
+date: 2024-05-19T07:27:38.378Z
+updated: 2024-05-20T07:27:38.378Z
 tags: 
   - unlock
   - remove screen lock
@@ -441,4 +441,5 @@ Now, in case you know the Apple iPhone 11 restrictions passcode and just wish to
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-nokia-105-classic-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Nokia 105 Classic to New Phone | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-vivo-t2-pro-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Vivo T2 Pro 5G? Tips, Tricks and Helpful Advice</u></a></li>
 </ul></div>
+
 

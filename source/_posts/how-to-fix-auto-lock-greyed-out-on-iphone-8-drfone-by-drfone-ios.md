@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on iPhone 8 | Dr.fone
-date: 2024-04-30T17:46:59.653Z
-updated: 2024-05-01T17:46:59.653Z
+date: 2024-05-19T07:27:24.894Z
+updated: 2024-05-20T07:27:24.894Z
 tags: 
   - unlock
   - remove screen lock
@@ -591,4 +591,5 @@ And if you need to remove your Apple ID without a password, Dr.Fone is a good op
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-poco-x6-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Poco X6 Pro Without Them Knowing? | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-oneplus-12-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On OnePlus 12 | Dr.fone</u></a></li>
 </ul></div>
+
 

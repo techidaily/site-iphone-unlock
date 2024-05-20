@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on iPhone 12 Pro | Dr.fone
-date: 2024-04-30T17:58:18.237Z
-updated: 2024-05-01T17:58:18.237Z
+date: 2024-05-19T07:28:03.258Z
+updated: 2024-05-20T07:28:03.258Z
 tags: 
   - unlock
   - remove screen lock
@@ -617,4 +617,5 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 <li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Oppo A79 5G | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/2024-approved-create-animated-video-on-canva/"><u>2024 Approved Create Animated Video on Canva</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Unlock iPhone 12 without Passcode or Face ID | Dr.fone
-date: 2024-04-30T17:54:45.782Z
-updated: 2024-05-01T17:54:45.782Z
+date: 2024-05-19T07:27:51.611Z
+updated: 2024-05-20T07:27:51.611Z
 tags: 
   - unlock
   - remove screen lock
@@ -490,4 +490,5 @@ We hope that after following this guide, you would be able to gain in-depth info
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-best-4k-video-editors-expert-reviews-and-comparisons/"><u>In 2024, Best 4K Video Editors Expert Reviews and Comparisons</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/blender-a-video-editor-for-all-professor/"><u>Blender - A Video Editor for All Professor</u></a></li>
 </ul></div>
+
 

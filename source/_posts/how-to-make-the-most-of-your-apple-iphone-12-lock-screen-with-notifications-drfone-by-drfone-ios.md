@@ -1,7 +1,7 @@
 ---
 title: How to Make the Most of Your Apple iPhone 12 Lock Screen with Notifications? | Dr.fone
-date: 2024-04-30T17:54:32.984Z
-updated: 2024-05-01T17:54:32.984Z
+date: 2024-05-19T07:27:50.877Z
+updated: 2024-05-20T07:27:50.877Z
 tags: 
   - unlock
   - remove screen lock
@@ -516,4 +516,5 @@ By following these solutions, you would be able to learn how to lock apps on the
 <li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-how-to-use-adjustment-layer-in-final-cut-pro/"><u>New 2024 Approved How to Use Adjustment Layer in Final Cut Pro</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Lava Blaze Pro 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on Apple iPhone 12 mini | Dr.fone
-date: 2024-04-30T17:55:34.115Z
-updated: 2024-05-01T17:55:34.115Z
+date: 2024-05-19T07:27:54.463Z
+updated: 2024-05-20T07:27:54.463Z
 tags: 
   - unlock
   - remove screen lock
@@ -653,4 +653,5 @@ We've also talked about a helpful tool called Wondershare Dr.Fone. It's made to 
 <li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-honor-play-40c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Honor Play 40C | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-nokia-g22-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Nokia G22 Phone that is Locked?</u></a></li>
 </ul></div>
+
 

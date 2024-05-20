@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Unlock iPhone 8 without Passcode or Face ID | Dr.fone
-date: 2024-04-30T17:47:06.937Z
-updated: 2024-05-01T17:47:06.937Z
+date: 2024-05-19T07:27:25.239Z
+updated: 2024-05-20T07:27:25.239Z
 tags: 
   - unlock
   - remove screen lock
@@ -484,4 +484,5 @@ Now, in case you know the Apple iPhone 8 restrictions passcode and just wish to 
 <li><a href="https://phone-solutions.techidaily.com/can-you-play-mp4-on-redmi-k70-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Can you play MP4 on Redmi K70?</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-lava-blaze-2-5g-by-fonelab-android-recover-video/"><u>How to recover old videos from your Lava Blaze 2 5G</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: Can You Unlock Apple iPhone XS After Forgetting the Passcode? | Dr.fone
-date: 2024-04-30T17:47:41.904Z
-updated: 2024-05-01T17:47:41.904Z
+date: 2024-05-19T07:27:27.103Z
+updated: 2024-05-20T07:27:27.103Z
 tags: 
   - unlock
   - remove screen lock
@@ -488,4 +488,5 @@ We hope that after following this guide, you would be able to gain in-depth info
 <li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-itel-p55plus-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Itel P55+</u></a></li>
 <li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-samsung-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Samsung Phones with/without a PC</u></a></li>
 </ul></div>
+
 

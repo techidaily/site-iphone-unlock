@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Remove and Reset Face ID on Apple iPhone SE | Dr.fone
-date: 2024-04-30T17:42:14.681Z
-updated: 2024-05-01T17:42:14.681Z
+date: 2024-05-19T07:27:09.047Z
+updated: 2024-05-20T07:27:09.047Z
 tags: 
   - unlock
   - remove screen lock
@@ -498,4 +498,5 @@ In conclusion, this article addressed methods for **how to recover locked notes 
 <li><a href="https://techidaily.com/how-to-hard-reset-motorola-moto-g73-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Motorola Moto G73 5G Without Password | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-11-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone 11</u></a></li>
 </ul></div>
+
 

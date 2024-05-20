@@ -1,7 +1,7 @@
 ---
 title: Forgot Apple iPhone XR Backup Password? Heres What to Do | Dr.fone
-date: 2024-04-30T17:49:48.467Z
-updated: 2024-05-01T17:49:48.467Z
+date: 2024-05-19T07:27:34.354Z
+updated: 2024-05-20T07:27:34.354Z
 tags: 
   - unlock
   - remove screen lock
@@ -474,4 +474,5 @@ If you're not interested in using a third-party tool, you can try one of the met
 <li><a href="https://techidaily.com/three-solutions-to-hard-reset-realme-note-50-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Realme Note 50? | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/updated-amazon-live-for-beginners-features-pro-tips-and-future-trends/"><u>Updated Amazon Live for Beginners Features, Pro Tips & Future Trends</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Fix iPhone 12 Passcode not Working? | Dr.fone
-date: 2024-04-30T17:55:13.490Z
-updated: 2024-05-01T17:55:13.490Z
+date: 2024-05-19T07:27:53.222Z
+updated: 2024-05-20T07:27:53.222Z
 tags: 
   - unlock
   - remove screen lock
@@ -501,4 +501,5 @@ Not all of us have the memory of elephants. With Touch ID and Face ID on our iPh
 <li><a href="https://location-social.techidaily.com/does-motorola-edge-2023-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Motorola Edge 2023 Have Find My Friends? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-realme-c67-5g-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Realme C67 5G Phones? | Dr.fone</u></a></li>
 </ul></div>
+
 

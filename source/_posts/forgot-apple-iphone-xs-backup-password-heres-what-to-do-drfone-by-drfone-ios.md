@@ -1,7 +1,7 @@
 ---
 title: Forgot Apple iPhone XS Backup Password? Heres What to Do | Dr.fone
-date: 2024-04-30T17:47:46.526Z
-updated: 2024-05-01T17:47:46.526Z
+date: 2024-05-19T07:27:27.369Z
+updated: 2024-05-20T07:27:27.369Z
 tags: 
   - unlock
   - remove screen lock
@@ -480,4 +480,5 @@ We hope you found out about **how to unlock iPhone with iTunes**. We likewise di
 <li><a href="https://animation-videos.techidaily.com/new-in-2024-how-to-cartoonize-photo-photoshop-in-simple-steps/"><u>New In 2024, How to Cartoonize Photo Photoshop in Simple Steps</u></a></li>
 <li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-12-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone 12 without Losing Data? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Remove and Reset Face ID on Apple iPhone 12 mini | Dr.fone
-date: 2024-04-30T17:55:59.036Z
-updated: 2024-05-01T17:55:59.036Z
+date: 2024-05-19T07:27:55.795Z
+updated: 2024-05-20T07:27:55.795Z
 tags: 
   - unlock
   - remove screen lock
@@ -522,4 +522,5 @@ But, when we attempt incorrect passcodes too many times, the Apple iPhone 12 min
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-10-essential-tools-for-creating-stunning-slow-motion-videos/"><u>In 2024, 10 Essential Tools for Creating Stunning Slow Motion Videos</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-realme-11-pro-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Realme 11 Pro</u></a></li>
 </ul></div>
+
 

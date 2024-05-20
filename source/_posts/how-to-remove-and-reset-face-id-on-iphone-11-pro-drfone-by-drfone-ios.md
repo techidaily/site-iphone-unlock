@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on iPhone 11 Pro | Dr.fone
-date: 2024-04-30T17:52:52.474Z
-updated: 2024-05-01T17:52:52.474Z
+date: 2024-05-19T07:27:45.165Z
+updated: 2024-05-20T07:27:45.165Z
 tags: 
   - unlock
   - remove screen lock
@@ -627,4 +627,5 @@ And there you go, the five key ways you need to know when it comes to removing a
 <li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-honor-100-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Honor 100</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, 4 solution to get rid of pokemon fail to detect location On OnePlus Ace 2 | Dr.fone</u></a></li>
 </ul></div>
+
 

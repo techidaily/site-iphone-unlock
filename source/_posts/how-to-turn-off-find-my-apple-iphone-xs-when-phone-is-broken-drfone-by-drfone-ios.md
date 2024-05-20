@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Find My Apple iPhone XS when Phone is Broken? | Dr.fone
-date: 2024-04-30T17:47:43.512Z
-updated: 2024-05-01T17:47:43.512Z
+date: 2024-05-19T07:27:27.186Z
+updated: 2024-05-20T07:27:27.186Z
 tags: 
   - unlock
   - remove screen lock
@@ -513,4 +513,5 @@ We hope you found out about **how to unlock iPhone with iTunes**. We likewise di
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Lava Blaze 2 Pro | Dr.fone</u></a></li>
 <li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-infinix-smart-8-hd-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Infinix Smart 8 HD | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -596,3 +596,4 @@ If you have an older version of iOS (version 9 or earlier), then there is a bug 
 <li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-lava-blaze-2-5g-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Lava Blaze 2 5G</u></a></li>
 </ul></div>
 
+

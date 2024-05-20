@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Find My Apple iPhone 13 mini when Phone is Broken? | Dr.fone
-date: 2024-04-30T17:59:28.172Z
-updated: 2024-05-01T17:59:28.172Z
+date: 2024-05-19T07:28:07.398Z
+updated: 2024-05-20T07:28:07.398Z
 tags: 
   - unlock
   - remove screen lock
@@ -584,4 +584,5 @@ So, if you have forgotten your Apple iPhone 13 mini passcode and are looking for
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-share-mac-to-apple-iphone-se-drfone-by-drfone-ios/"><u>How to Screen Share Mac to Apple iPhone SE? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-itel-p55-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Itel P55 Device</u></a></li>
 </ul></div>
+
 

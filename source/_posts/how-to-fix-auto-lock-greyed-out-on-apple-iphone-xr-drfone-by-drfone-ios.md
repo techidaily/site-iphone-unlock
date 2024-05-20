@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on Apple iPhone XR | Dr.fone
-date: 2024-04-30T17:49:48.257Z
-updated: 2024-05-01T17:49:48.257Z
+date: 2024-05-19T07:27:34.347Z
+updated: 2024-05-20T07:27:34.347Z
 tags: 
   - unlock
   - remove screen lock
@@ -457,4 +457,5 @@ We all can relate that unlocking an iPhone on Face ID while wearing a face mask 
 <li><a href="https://ai-editing-video.techidaily.com/mp3-cutter-download-for-computer-and-mobile/"><u>MP3 Cutter Download for Computer and Mobile</u></a></li>
 <li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-nokia-c02-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Nokia C02 Phones with/without a PC</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Remove Flashlight From Apple iPhone 12 mini Lock Screen | Dr.fone
-date: 2024-04-30T17:55:37.380Z
-updated: 2024-05-01T17:55:37.380Z
+date: 2024-05-19T07:27:54.680Z
+updated: 2024-05-20T07:27:54.680Z
 tags: 
   - unlock
   - remove screen lock
@@ -459,4 +459,5 @@ Now we’re done as we’ve provided you the best possible solutions to turn off
 <li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-lava-yuva-2-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Lava Yuva 2 Phone Using PC | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/how-to-add-subtitles-in-quicktime-player/"><u>How to Add Subtitles in QuickTime Player?</u></a></li>
 </ul></div>
+
 

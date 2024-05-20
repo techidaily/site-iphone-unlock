@@ -1,7 +1,7 @@
 ---
 title: Trouble with iPhone 12 mini Swipe-Up? Try These 11 Solutions | Dr.fone
-date: 2024-04-30T17:55:49.306Z
-updated: 2024-05-01T17:55:49.306Z
+date: 2024-05-19T07:27:55.271Z
+updated: 2024-05-20T07:27:55.271Z
 tags: 
   - unlock
   - remove screen lock
@@ -683,4 +683,5 @@ Having an iPhone with a broken screen can make your life hard. It keeps you from
 <li><a href="https://sim-unlock.techidaily.com/what-is-a-sim-network-unlock-pin-get-your-lava-storm-5g-phone-network-ready-by-drfone-android/"><u>What Is a SIM Network Unlock PIN? Get Your Lava Storm 5G Phone Network-Ready</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

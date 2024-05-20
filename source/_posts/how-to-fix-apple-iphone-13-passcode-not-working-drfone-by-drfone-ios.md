@@ -1,7 +1,7 @@
 ---
 title: How to Fix Apple iPhone 13 Passcode not Working? | Dr.fone
-date: 2024-04-30T17:58:27.932Z
-updated: 2024-05-01T17:58:27.932Z
+date: 2024-05-19T07:28:04.191Z
+updated: 2024-05-20T07:28:04.191Z
 tags: 
   - unlock
   - remove screen lock
@@ -504,4 +504,5 @@ Dr.Fone-Screen Unlock is one of the most effective ways can help you to unlock a
 <li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-samsung-galaxy-a25-5g-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Samsung Galaxy A25 5G? | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-music-from-google-pixel-7a-by-fonelab-android-recover-music/"><u>Best Android Data Recovery - Undelete Lost Music from Google Pixel 7a</u></a></li>
 </ul></div>
+
 

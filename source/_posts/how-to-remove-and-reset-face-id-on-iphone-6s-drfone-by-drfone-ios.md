@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on iPhone 6s | Dr.fone
-date: 2024-04-30T17:39:38.260Z
-updated: 2024-05-01T17:39:38.260Z
+date: 2024-05-19T07:27:00.117Z
+updated: 2024-05-20T07:27:00.117Z
 tags: 
   - unlock
   - remove screen lock
@@ -546,4 +546,5 @@ But what if you're locked out of your iOS device? Don't fret; Dr.Fone - Screen U
 <li><a href="https://sim-unlock.techidaily.com/in-2024-tips-and-tricks-to-tell-if-your-apple-iphone-7-is-unlocked-by-drfone-ios/"><u>In 2024, Tips And Tricks To Tell if Your Apple iPhone 7 Is Unlocked</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
 </ul></div>
+
 

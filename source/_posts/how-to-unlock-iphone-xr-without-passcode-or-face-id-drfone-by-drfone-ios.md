@@ -1,7 +1,7 @@
 ---
 title: How to Unlock iPhone XR without Passcode or Face ID | Dr.fone
-date: 2024-04-30T17:50:01.352Z
-updated: 2024-05-01T17:50:01.352Z
+date: 2024-05-19T07:27:35.039Z
+updated: 2024-05-20T07:27:35.039Z
 tags: 
   - unlock
   - remove screen lock
@@ -722,4 +722,5 @@ We've also talked about a helpful tool called Wondershare Dr.Fone. It's made to 
 <li><a href="https://ai-video-apps.techidaily.com/updated-reaction-video-essentials-top-mobile-apps-you-need-to-know-for-2024/"><u>Updated Reaction Video Essentials Top Mobile Apps You Need to Know for 2024</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-change-your-vivo-s17-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Vivo S17 Location on Twitter | Dr.fone</u></a></li>
 </ul></div>
+
 

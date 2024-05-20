@@ -1,7 +1,7 @@
 ---
 title: How to Make the Most of Your Apple iPhone 6s Lock Screen with Notifications? | Dr.fone
-date: 2024-04-30T17:39:37.281Z
-updated: 2024-05-01T17:39:37.281Z
+date: 2024-05-19T07:26:59.435Z
+updated: 2024-05-20T07:26:59.435Z
 tags: 
   - unlock
   - remove screen lock
@@ -447,4 +447,5 @@ We all can relate that unlocking an iPhone on Face ID while wearing a face mask 
 <li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-vivo-y02t-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Vivo Y02T</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-100-pro-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor 100 Pro to Outlook | Dr.fone</u></a></li>
 </ul></div>
+
 

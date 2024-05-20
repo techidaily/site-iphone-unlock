@@ -1,7 +1,7 @@
 ---
 title: How To Open Your iPhone 6s Without a Home Button | Dr.fone
-date: 2024-04-30T17:39:44.457Z
-updated: 2024-05-01T17:39:44.457Z
+date: 2024-05-19T07:27:00.501Z
+updated: 2024-05-20T07:27:00.501Z
 tags: 
   - unlock
   - remove screen lock
@@ -468,4 +468,5 @@ If you have any other questions or doubts about this process, feel free to ask u
 <li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-oppo-find-x6-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Oppo Find X6? Fix Now | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-unbrick-a-dead-lava-blaze-curve-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Unbrick a Dead Lava Blaze Curve 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

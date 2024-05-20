@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Remove and Reset Face ID on Apple iPhone 8 | Dr.fone
-date: 2024-04-30T17:47:13.074Z
-updated: 2024-05-01T17:47:13.074Z
+date: 2024-05-19T07:27:25.583Z
+updated: 2024-05-20T07:27:25.583Z
 tags: 
   - unlock
   - remove screen lock
@@ -520,4 +520,5 @@ After careful evaluation, we recommend Wondershare Dr.Fone as the best choice to
 <li><a href="https://ios-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>Additional Tips About Sinnoh Stone For Apple iPhone 12 Pro | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-iphone-se-2022-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot iPhone SE (2022) Backup Password? Heres What to Do</u></a></li>
 </ul></div>
+
 

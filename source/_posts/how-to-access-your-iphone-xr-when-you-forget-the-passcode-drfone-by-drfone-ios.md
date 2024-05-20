@@ -1,7 +1,7 @@
 ---
 title: How to Access Your iPhone XR When You Forget the Passcode? | Dr.fone
-date: 2024-04-30T17:50:01.873Z
-updated: 2024-05-01T17:50:01.873Z
+date: 2024-05-19T07:27:35.059Z
+updated: 2024-05-20T07:27:35.059Z
 tags: 
   - unlock
   - remove screen lock
@@ -458,4 +458,5 @@ Now you know what to do the next time you forget your passcode. Using the simple
 <li><a href="https://howto.techidaily.com/bricked-your-realme-11-5g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Realme 11 5G? Heres A Full Solution | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-xiaomi-redmi-note-13-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Xiaomi Redmi Note 13 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

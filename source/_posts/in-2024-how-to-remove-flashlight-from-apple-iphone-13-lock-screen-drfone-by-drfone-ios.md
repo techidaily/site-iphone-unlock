@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Remove Flashlight From Apple iPhone 13 Lock Screen | Dr.fone
-date: 2024-04-30T17:59:04.356Z
-updated: 2024-05-01T17:59:04.356Z
+date: 2024-05-19T07:28:06.187Z
+updated: 2024-05-20T07:28:06.187Z
 tags: 
   - unlock
   - remove screen lock
@@ -442,4 +442,5 @@ A locked Apple iPhone 13 is never a pretty sight. Fortunately, there are a coupl
 <li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-realme-gt-neo-5-se-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Realme GT Neo 5 SE | Dr.fone</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/updated-fastest-ways-to-adjust-gif-speed-online-and-on-mobile/"><u>Updated Fastest Ways to Adjust GIF Speed Online and on Mobile</u></a></li>
 </ul></div>
+
 

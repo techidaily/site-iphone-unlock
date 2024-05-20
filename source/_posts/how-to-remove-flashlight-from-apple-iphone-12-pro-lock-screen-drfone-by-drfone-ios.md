@@ -1,7 +1,7 @@
 ---
 title: How To Remove Flashlight From Apple iPhone 12 Pro Lock Screen | Dr.fone
-date: 2024-04-30T17:57:34.788Z
-updated: 2024-05-01T17:57:34.788Z
+date: 2024-05-19T07:28:01.073Z
+updated: 2024-05-20T07:28:01.073Z
 tags: 
   - unlock
   - remove screen lock
@@ -596,4 +596,5 @@ And if you need to remove your Apple ID without a password, Dr.Fone is a good op
 <li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-samsung-galaxy-a05s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Samsung Galaxy A05s | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-motorola-moto-g24-phone-by-drfone-android/"><u>How to Reset a Locked Motorola Moto G24 Phone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Remove and Reset Face ID on iPhone XS | Dr.fone
-date: 2024-04-30T17:48:27.758Z
-updated: 2024-05-01T17:48:27.758Z
+date: 2024-05-19T07:27:30.035Z
+updated: 2024-05-20T07:27:30.035Z
 tags: 
   - unlock
   - remove screen lock
@@ -515,4 +515,5 @@ When it comes to unlocking locked iPhones, a cautious and well-informed approach
 <li><a href="https://ai-video-editing.techidaily.com/new-how-to-record-video-in-slow-motion-comprehending-important-points-for-2024/"><u>New How To Record Video in Slow Motion Comprehending Important Points for 2024</u></a></li>
 <li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-poco-x6-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Poco X6 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

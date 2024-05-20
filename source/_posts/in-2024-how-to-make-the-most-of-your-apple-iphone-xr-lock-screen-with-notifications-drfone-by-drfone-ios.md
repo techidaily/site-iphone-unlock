@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Make the Most of Your Apple iPhone XR Lock Screen with Notifications? | Dr.fone
-date: 2024-04-30T17:50:17.472Z
-updated: 2024-05-01T17:50:17.472Z
+date: 2024-05-19T07:27:35.802Z
+updated: 2024-05-20T07:27:35.802Z
 tags: 
   - unlock
   - remove screen lock
@@ -403,4 +403,5 @@ We all can relate that unlocking an iPhone on Face ID while wearing a face mask 
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-samsung-galaxy-m14-4g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Samsung Galaxy M14 4G to iPad | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-x-flip-bootloader-easily-by-drfone-android/"><u>How to Unlock Vivo X Flip Bootloader Easily</u></a></li>
 </ul></div>
+
 

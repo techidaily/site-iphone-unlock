@@ -1,7 +1,7 @@
 ---
 title: How to Make the Most of Your iPhone 6 Plus Lock Screen with Notifications? | Dr.fone
-date: 2024-04-30T17:39:36.730Z
-updated: 2024-05-01T17:39:36.730Z
+date: 2024-05-19T07:26:56.316Z
+updated: 2024-05-20T07:26:56.316Z
 tags: 
   - unlock
   - remove screen lock
@@ -402,4 +402,5 @@ Now you know what to do the next time you forget your passcode. Using the simple
 <li><a href="https://android-unlock.techidaily.com/how-to-reset-a-samsung-galaxy-a15-4g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Samsung Galaxy A15 4G Phone that is Locked?</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-11-pro-max-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 11 Pro Max To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Access Your iPhone 6s When You Forget the Passcode? | Dr.fone
-date: 2024-04-30T17:39:41.348Z
-updated: 2024-05-01T17:39:41.348Z
+date: 2024-05-19T07:27:00.274Z
+updated: 2024-05-20T07:27:00.274Z
 tags: 
   - unlock
   - remove screen lock
@@ -492,4 +492,5 @@ Indeed, if you **forgot the passcode on the iPhone,** there are a few ways to ge
 <li><a href="https://change-location.techidaily.com/guide-how-to-unbrick-a-bricked-vivo-s17t-phone-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Guide How To Unbrick a Bricked Vivo S17t Phone | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/in-2024-top-list-speech-to-speech-voice-cloning/"><u>In 2024, Top List Speech-to-Speech Voice Cloning</u></a></li>
 </ul></div>
+
 

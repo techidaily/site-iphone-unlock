@@ -1,7 +1,7 @@
 ---
 title: Trouble with Apple iPhone 12 mini Swipe-Up? Try These 11 Solutions | Dr.fone
-date: 2024-04-30T17:55:35.997Z
-updated: 2024-05-01T17:55:35.997Z
+date: 2024-05-19T07:27:54.605Z
+updated: 2024-05-20T07:27:54.605Z
 tags: 
   - unlock
   - remove screen lock
@@ -727,4 +727,5 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-pro-max-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11 Pro Max Passcode Screen?</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-how-do-i-sim-unlock-my-iphone-xs-by-drfone-ios/"><u>In 2024, How Do I SIM Unlock My iPhone XS?</u></a></li>
 </ul></div>
+
 

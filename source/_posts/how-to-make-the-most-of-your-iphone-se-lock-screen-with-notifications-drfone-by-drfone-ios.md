@@ -1,7 +1,7 @@
 ---
 title: How to Make the Most of Your iPhone SE Lock Screen with Notifications? | Dr.fone
-date: 2024-04-30T17:42:01.849Z
-updated: 2024-05-01T17:42:01.849Z
+date: 2024-05-19T07:27:08.145Z
+updated: 2024-05-20T07:27:08.145Z
 tags: 
   - unlock
   - remove screen lock
@@ -528,4 +528,5 @@ While these methods are helpful, there's a software called Wondershare Dr.Fone t
 <li><a href="https://ai-video-apps.techidaily.com/new-text-to-speech-made-easy-top-tips-and-tricks-for-mp3-conversion/"><u>New Text to Speech Made Easy Top Tips and Tricks for MP3 Conversion</u></a></li>
 <li><a href="https://howto.techidaily.com/android-screen-stuck-general-xiaomi-redmi-k70e-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Xiaomi Redmi K70E Partly Screen Unresponsive | Dr.fone</u></a></li>
 </ul></div>
+
 

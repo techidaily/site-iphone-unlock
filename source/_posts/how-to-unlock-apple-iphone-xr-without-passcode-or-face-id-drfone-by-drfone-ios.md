@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Apple iPhone XR without Passcode or Face ID | Dr.fone
-date: 2024-04-30T17:49:47.020Z
-updated: 2024-05-01T17:49:47.020Z
+date: 2024-05-19T07:27:34.281Z
+updated: 2024-05-20T07:27:34.281Z
 tags: 
   - unlock
   - remove screen lock
@@ -498,4 +498,5 @@ Now, in case you know the Apple iPhone XR restrictions passcode and just wish to
 <li><a href="https://android-unlock.techidaily.com/how-to-reset-a-vivo-y78-5g-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Vivo Y78 5G Phone that is Locked?</u></a></li>
 <li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-realme-11-pro-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Realme 11 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

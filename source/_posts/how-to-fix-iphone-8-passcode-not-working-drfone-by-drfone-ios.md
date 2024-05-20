@@ -1,7 +1,7 @@
 ---
 title: How to Fix iPhone 8 Passcode not Working? | Dr.fone
-date: 2024-04-30T17:46:55.005Z
-updated: 2024-05-01T17:46:55.005Z
+date: 2024-05-19T07:27:24.633Z
+updated: 2024-05-20T07:27:24.633Z
 tags: 
   - unlock
   - remove screen lock
@@ -526,4 +526,5 @@ We hope that after learning how to get in a locked Apple iPhone 8 in different w
 <li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-huawei-p60-by-drfone-android/"><u>How to Bypass FRP from Huawei P60?</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-gps-location-on-apple-iphone-6s-plus-easily-and-safely-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change GPS Location on Apple iPhone 6s Plus Easily & Safely | Dr.fone</u></a></li>
 </ul></div>
+
 

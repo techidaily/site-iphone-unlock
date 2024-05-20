@@ -1,7 +1,7 @@
 ---
 title: How to Make the Most of Your Apple iPhone XR Lock Screen with Notifications? | Dr.fone
-date: 2024-04-30T17:49:49.138Z
-updated: 2024-05-01T17:49:49.138Z
+date: 2024-05-19T07:27:34.420Z
+updated: 2024-05-20T07:27:34.420Z
 tags: 
   - unlock
   - remove screen lock
@@ -459,4 +459,5 @@ When you know how to unlock Apple iPhone XR without the passcode, you can easily
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-7-lock-screen-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone 7 Lock Screen</u></a></li>
 <li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-motorola-edge-40-neowithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Motorola Edge 40 Neowith/without a PC</u></a></li>
 </ul></div>
+
 

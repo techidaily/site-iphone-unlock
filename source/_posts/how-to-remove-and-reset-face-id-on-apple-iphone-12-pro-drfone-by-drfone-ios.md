@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on Apple iPhone 12 Pro | Dr.fone
-date: 2024-04-30T17:57:28.858Z
-updated: 2024-05-01T17:57:28.858Z
+date: 2024-05-19T07:28:00.776Z
+updated: 2024-05-20T07:28:00.776Z
 tags: 
   - unlock
   - remove screen lock
@@ -483,4 +483,5 @@ So, if you have forgotten your Apple iPhone 12 Pro passcode and are looking for 
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-xiaomi-redmi-a2-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Xiaomi Redmi A2 Screen to PC with Chromecast | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/about-oppo-find-x7-ultra-frp-bypass-by-drfone-android/"><u>About Oppo Find X7 Ultra FRP Bypass</u></a></li>
 </ul></div>
+
 

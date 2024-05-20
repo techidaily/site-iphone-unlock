@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on iPhone XS | Dr.fone
-date: 2024-04-30T17:48:31.265Z
-updated: 2024-05-01T17:48:31.265Z
+date: 2024-05-19T07:27:30.215Z
+updated: 2024-05-20T07:27:30.215Z
 tags: 
   - unlock
   - remove screen lock
@@ -579,4 +579,5 @@ All of the software that was described is accessible for both Mac and Windows op
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-oneplus-ace-2-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For OnePlus Ace 2? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-vivo-y36-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Vivo Y36 to Your PC/Mac | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix iPhone 12 mini Unavailable Issue With Ease | Dr.fone
-date: 2024-04-30T17:55:44.006Z
-updated: 2024-05-01T17:55:44.006Z
+date: 2024-05-19T07:27:54.990Z
+updated: 2024-05-20T07:27:54.990Z
 tags: 
   - unlock
   - remove screen lock
@@ -491,4 +491,5 @@ Due to one reason or another, you may have **forgotten iPhone PIN.** However, it
 <li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-xiaomi-redmi-note-12-4g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Xiaomi Redmi Note 12 4G Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-motorola-moto-g04-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Motorola Moto G04 | Dr.fone</u></a></li>
 </ul></div>
+
 

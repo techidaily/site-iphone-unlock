@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Fix iPhone XS Passcode not Working? | Dr.fone
-date: 2024-04-30T17:48:25.776Z
-updated: 2024-05-01T17:48:25.776Z
+date: 2024-05-19T07:27:29.936Z
+updated: 2024-05-20T07:27:29.936Z
 tags: 
   - unlock
   - remove screen lock
@@ -519,4 +519,5 @@ Now when you know how to unlock Apple iPhone XS passcode without iTunes, you can
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-oneplus-ace-2-pro-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From OnePlus Ace 2 Pro to New Android Phone? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-easily-hard-reset-my-oneplus-nord-n30-se-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my OnePlus Nord N30 SE | Dr.fone</u></a></li>
 </ul></div>
+
 

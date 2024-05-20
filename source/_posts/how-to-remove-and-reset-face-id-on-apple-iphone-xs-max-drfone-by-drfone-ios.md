@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on Apple iPhone XS Max | Dr.fone
-date: 2024-04-30T17:48:43.322Z
-updated: 2024-05-01T17:48:43.322Z
+date: 2024-05-19T07:27:30.745Z
+updated: 2024-05-20T07:27:30.745Z
 tags: 
   - unlock
   - remove screen lock
@@ -567,4 +567,5 @@ This app can help you factory reset your locked iPhone without iTunes in just a 
 <li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-6s-plus-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 6s Plus without Losing Any Content? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/ideas-for-time-lapse-video-for-2024/"><u>Ideas for Time-Lapse Video for 2024</u></a></li>
 </ul></div>
+
 

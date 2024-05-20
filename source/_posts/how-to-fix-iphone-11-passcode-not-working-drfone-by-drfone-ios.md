@@ -1,7 +1,7 @@
 ---
 title: How to Fix iPhone 11 Passcode not Working? | Dr.fone
-date: 2024-04-30T17:50:53.660Z
-updated: 2024-05-01T17:50:53.660Z
+date: 2024-05-19T07:27:37.867Z
+updated: 2024-05-20T07:27:37.867Z
 tags: 
   - unlock
   - remove screen lock
@@ -492,4 +492,5 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 <li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-on-apple-iphone-7-plusipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock on Apple iPhone 7 Plus/iPad/iPod</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-data-from-iphone-15-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Data from iPhone 15? | Dr.fone</u></a></li>
 </ul></div>
+
 

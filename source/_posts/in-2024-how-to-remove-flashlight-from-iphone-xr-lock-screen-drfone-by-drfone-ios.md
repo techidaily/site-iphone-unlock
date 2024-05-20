@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Remove Flashlight From iPhone XR Lock Screen | Dr.fone
-date: 2024-04-30T17:50:33.638Z
-updated: 2024-05-01T17:50:33.638Z
+date: 2024-05-19T07:27:36.650Z
+updated: 2024-05-20T07:27:36.650Z
 tags: 
   - unlock
   - remove screen lock
@@ -557,4 +557,5 @@ Wondershare Dr.Fone's comprehensive toolkit provides a range of options to cater
 <li><a href="https://ai-vdieo-software.techidaily.com/new-best-of-both-worlds-free-and-paid-3d-video-creator-software/"><u>New Best of Both Worlds Free and Paid 3D Video Creator Software</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My OnePlus 11R? | Dr.fone</u></a></li>
 </ul></div>
+
 

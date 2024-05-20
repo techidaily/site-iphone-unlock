@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on iPhone 6 Plus | Dr.fone
-date: 2024-04-30T17:39:37.106Z
-updated: 2024-05-01T17:39:37.106Z
+date: 2024-05-19T07:26:58.205Z
+updated: 2024-05-20T07:26:58.205Z
 tags: 
   - unlock
   - remove screen lock
@@ -533,4 +533,5 @@ Not all of us have the memory of elephants. With Touch ID and Face ID on our iPh
 <li><a href="https://pokemon-go-android.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-realme-12-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Realme 12 5G? | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/apple-iphone-6-plus-backup-password-never-set-but-still-asking-heres-the-fix-by-drfone-ios/"><u>Apple iPhone 6 Plus Backup Password Never Set But Still Asking? Heres the Fix</u></a></li>
 </ul></div>
+
 

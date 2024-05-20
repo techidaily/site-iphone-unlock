@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on iPhone SE | Dr.fone
-date: 2024-04-30T17:41:56.938Z
-updated: 2024-05-01T17:41:56.938Z
+date: 2024-05-19T07:27:07.896Z
+updated: 2024-05-20T07:27:07.896Z
 tags: 
   - unlock
   - remove screen lock
@@ -525,4 +525,5 @@ In conclusion, several helpful methods exist for **how to unlock unavailable iPh
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-itel-p40plus-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Itel P40+ to Other Android Devices? | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-motorola-edge-2023-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Motorola Edge 2023 To iPhone 15/14/13? | Dr.fone</u></a></li>
 </ul></div>
+
 

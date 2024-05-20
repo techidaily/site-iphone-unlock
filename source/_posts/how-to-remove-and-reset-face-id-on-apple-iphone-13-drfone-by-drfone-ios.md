@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on Apple iPhone 13 | Dr.fone
-date: 2024-04-30T17:58:29.396Z
-updated: 2024-05-01T17:58:29.396Z
+date: 2024-05-19T07:28:04.294Z
+updated: 2024-05-20T07:28:04.294Z
 tags: 
   - unlock
   - remove screen lock
@@ -531,4 +531,5 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 <li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-on-your-apple-iphone-xr-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password On your Apple iPhone XR</u></a></li>
 <li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
 </ul></div>
+
 

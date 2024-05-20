@@ -1,7 +1,7 @@
 ---
 title: Forgot iPhone 6 Plus Backup Password? Heres What to Do | Dr.fone
-date: 2024-04-30T17:39:36.726Z
-updated: 2024-05-01T17:39:36.726Z
+date: 2024-05-19T07:26:56.250Z
+updated: 2024-05-20T07:26:56.250Z
 tags: 
   - unlock
   - remove screen lock
@@ -520,4 +520,5 @@ That's all about our take on **how to unlock iPhone without passcode or face ID 
 <li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-samsung-galaxy-a25-5g-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Samsung Galaxy A25 5G Face Lock?</u></a></li>
 <li><a href="https://techidaily.com/update-your-drivers-with-device-manager-in-windows-10-by-drivereasy-guide/"><u>Update your drivers with Device Manager in Windows 10</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on iPhone 11 Pro Max | Dr.fone
-date: 2024-04-30T17:51:55.804Z
-updated: 2024-05-01T17:51:55.804Z
+date: 2024-05-19T07:27:41.657Z
+updated: 2024-05-20T07:27:41.657Z
 tags: 
   - unlock
   - remove screen lock
@@ -514,4 +514,5 @@ Not all of us have the memory of elephants. With Touch ID and Face ID on our iPh
 <li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>10 Best Fake GPS Location Spoofers for Apple iPhone 8 | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-mini-passcode-without-computer-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 mini Passcode without Computer?</u></a></li>
 </ul></div>
+
 

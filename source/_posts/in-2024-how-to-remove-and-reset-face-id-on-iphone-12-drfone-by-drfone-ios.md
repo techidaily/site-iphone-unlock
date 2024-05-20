@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Remove and Reset Face ID on iPhone 12 | Dr.fone
-date: 2024-04-30T17:55:15.441Z
-updated: 2024-05-01T17:55:15.441Z
+date: 2024-05-19T07:27:53.317Z
+updated: 2024-05-20T07:27:53.317Z
 tags: 
   - unlock
   - remove screen lock
@@ -560,4 +560,5 @@ Lastly, trust [Dr.Fone iPhone SIM Unlocker](https://drfone.wondershare.com/iphon
 <li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-sony-xperia-1-v-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of Sony Xperia 1 V? </u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-video-translator-wondershare-virbo-online/"><u>New 2024 Approved Video Translator | Wondershare Virbo Online</u></a></li>
 </ul></div>
+
 

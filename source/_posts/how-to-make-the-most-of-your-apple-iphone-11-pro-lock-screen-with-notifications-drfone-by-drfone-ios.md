@@ -1,7 +1,7 @@
 ---
 title: How to Make the Most of Your Apple iPhone 11 Pro Lock Screen with Notifications? | Dr.fone
-date: 2024-04-30T17:52:43.145Z
-updated: 2024-05-01T17:52:43.145Z
+date: 2024-05-19T07:27:44.567Z
+updated: 2024-05-20T07:27:44.567Z
 tags: 
   - unlock
   - remove screen lock
@@ -559,4 +559,5 @@ After following these solutions, you can use your Apple iPhone 11 Pro and surpas
 <li><a href="https://change-location.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Vivo X Fold 2 | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/5-ways-to-denoise-a-video-for-2024/"><u>5 Ways to Denoise a Video for 2024</u></a></li>
 </ul></div>
+
 

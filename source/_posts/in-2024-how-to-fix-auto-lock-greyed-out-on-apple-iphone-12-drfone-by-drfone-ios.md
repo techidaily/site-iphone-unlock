@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 12 | Dr.fone
-date: 2024-04-30T17:55:02.640Z
-updated: 2024-05-01T17:55:02.640Z
+date: 2024-05-19T07:27:52.623Z
+updated: 2024-05-20T07:27:52.623Z
 tags: 
   - unlock
   - remove screen lock
@@ -596,4 +596,5 @@ If you don't know which strategy will turn out best for you, we suggest utilizin
 <li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-vivo-g2-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Vivo G2</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-xiaomi-redmi-k70-pro-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Xiaomi Redmi K70 Pro without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

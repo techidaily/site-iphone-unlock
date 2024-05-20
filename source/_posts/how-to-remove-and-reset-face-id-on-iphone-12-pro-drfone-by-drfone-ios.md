@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on iPhone 12 Pro | Dr.fone
-date: 2024-04-30T17:57:43.050Z
-updated: 2024-05-01T17:57:43.050Z
+date: 2024-05-19T07:28:01.478Z
+updated: 2024-05-20T07:28:01.478Z
 tags: 
   - unlock
   - remove screen lock
@@ -643,4 +643,5 @@ It is very common to use USB accessories to connect iPhone and computer. Sometim
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-xiaomi-redmi-note-12-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Xiaomi Redmi Note 12 5G Location | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-samsung-galaxy-s23plus-by-phone-number-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Samsung Galaxy S23+ by Phone Number | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix iPhone 6s Plus Passcode not Working? | Dr.fone
-date: 2024-04-30T17:40:45.512Z
-updated: 2024-05-01T17:40:45.512Z
+date: 2024-05-19T07:27:04.044Z
+updated: 2024-05-20T07:27:04.044Z
 tags: 
   - unlock
   - remove screen lock
@@ -494,4 +494,5 @@ Having an iPhone with a broken screen can make your life hard. It keeps you from
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-xiaomi-redmi-note-12t-pro-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Xiaomi Redmi Note 12T Pro</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-huawei-nova-y91-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Huawei Nova Y91 Phone</u></a></li>
 </ul></div>
+
 

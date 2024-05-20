@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on iPhone 12 Pro Max | Dr.fone
-date: 2024-04-30T17:56:42.746Z
-updated: 2024-05-01T17:56:42.746Z
+date: 2024-05-19T07:27:58.111Z
+updated: 2024-05-20T07:27:58.111Z
 tags: 
   - unlock
   - remove screen lock
@@ -495,4 +495,5 @@ A locked Apple iPhone 12 Pro Max is never a pretty sight. Fortunately, there are
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-20-best-video-background-templates/"><u>Updated In 2024, 20 Best Video Background Templates</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-13-ultra-phone-without-any-data-loss-by-drfone-android/"><u>How to Unlock Xiaomi 13 Ultra Phone without Any Data Loss</u></a></li>
 </ul></div>
+
 

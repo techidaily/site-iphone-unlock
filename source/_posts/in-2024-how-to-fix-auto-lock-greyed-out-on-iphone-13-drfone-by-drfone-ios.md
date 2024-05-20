@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on iPhone 13 | Dr.fone
-date: 2024-04-30T17:59:16.591Z
-updated: 2024-05-01T17:59:16.591Z
+date: 2024-05-19T07:28:06.818Z
+updated: 2024-05-20T07:28:06.818Z
 tags: 
   - unlock
   - remove screen lock
@@ -524,4 +524,5 @@ We hope we have covered every bit of this article perfectly and you have success
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Lava Blaze Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/the-5-best-methods-to-track-a-lost-or-stolen-iphone-11-pro-max-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>The 5 Best Methods to Track a Lost or Stolen iPhone 11 Pro Max | Stellar</u></a></li>
 </ul></div>
+
 

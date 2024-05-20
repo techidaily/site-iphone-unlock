@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on Apple iPhone 12 mini | Dr.fone
-date: 2024-04-30T17:55:30.350Z
-updated: 2024-05-01T17:55:30.350Z
+date: 2024-05-19T07:27:54.316Z
+updated: 2024-05-20T07:27:54.316Z
 tags: 
   - unlock
   - remove screen lock
@@ -458,4 +458,5 @@ And there you go, the five key ways you need to know when it comes to removing a
 <li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-sony-xperia-1-v-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Sony Xperia 1 V | Dr.fone</u></a></li>
 </ul></div>
+
 

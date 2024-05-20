@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on Apple iPhone XS | Dr.fone
-date: 2024-04-30T17:47:46.316Z
-updated: 2024-05-01T17:47:46.316Z
+date: 2024-05-19T07:27:27.362Z
+updated: 2024-05-20T07:27:27.362Z
 tags: 
   - unlock
   - remove screen lock
@@ -625,4 +625,5 @@ Also, if you're looking for an easy and effective way to unlock your device, we 
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-realme-gt-5-pro-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Realme GT 5 Pro</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-honor-magic-5-lite-to-mac-drfone-by-drfone-android/"><u>How to Mirror Honor Magic 5 Lite to Mac? | Dr.fone</u></a></li>
 </ul></div>
+
 

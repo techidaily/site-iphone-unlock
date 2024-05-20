@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on iPhone 11 | Dr.fone
-date: 2024-04-30T17:51:28.819Z
-updated: 2024-05-01T17:51:28.819Z
+date: 2024-05-19T07:27:40.060Z
+updated: 2024-05-20T07:27:40.060Z
 tags: 
   - unlock
   - remove screen lock
@@ -563,4 +563,5 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 <li><a href="https://unlock-android.techidaily.com/how-to-change-lock-screen-wallpaper-on-xiaomi-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Xiaomi</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-infinix-by-fonelab-android-recover-music/"><u>How to recover old music from your Infinix</u></a></li>
 </ul></div>
+
 

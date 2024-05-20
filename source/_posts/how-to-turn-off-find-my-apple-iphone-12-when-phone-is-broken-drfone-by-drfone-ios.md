@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Find My Apple iPhone 12 when Phone is Broken? | Dr.fone
-date: 2024-04-30T17:54:29.014Z
-updated: 2024-05-01T17:54:29.014Z
+date: 2024-05-19T07:27:50.661Z
+updated: 2024-05-20T07:27:50.661Z
 tags: 
   - unlock
   - remove screen lock
@@ -580,4 +580,5 @@ But, when we attempt incorrect passcodes too many times, the Apple iPhone 12 get
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-itel-p40plus-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Itel P40+ Phone that is Locked?</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For OnePlus Nord 3 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

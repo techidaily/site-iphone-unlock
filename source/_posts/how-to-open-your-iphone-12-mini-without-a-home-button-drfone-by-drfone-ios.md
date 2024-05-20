@@ -1,7 +1,7 @@
 ---
 title: How To Open Your iPhone 12 mini Without a Home Button | Dr.fone
-date: 2024-04-30T17:55:49.731Z
-updated: 2024-05-01T17:55:49.731Z
+date: 2024-05-19T07:27:55.300Z
+updated: 2024-05-20T07:27:55.300Z
 tags: 
   - unlock
   - remove screen lock
@@ -528,4 +528,5 @@ Having an iPhone with a broken screen can make your life hard. It keeps you from
 <li><a href="https://techidaily.com/how-to-recover-apple-iphone-13-pro-max-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Apple iPhone 13 Pro Max Data From iCloud? | Dr.fone</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-motorola-moto-g23-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Motorola Moto G23 – What Can I Do? | Dr.fone</u></a></li>
 </ul></div>
+
 

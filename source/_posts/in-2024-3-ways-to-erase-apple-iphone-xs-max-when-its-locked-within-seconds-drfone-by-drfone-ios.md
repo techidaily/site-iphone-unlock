@@ -419,3 +419,4 @@ Now you know what to do the next time you forget your passcode. Using the simple
 <li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-apple-iphone-x-without-a-home-button-drfone-by-drfone-ios/" ><u>How To Open Your Apple iPhone X Without a Home Button | Dr.fone</u></a></li>
 </ul></div>
 
+

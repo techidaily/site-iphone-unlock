@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Find My Apple iPhone 12 Pro when Phone is Broken? | Dr.fone
-date: 2024-04-30T17:57:29.292Z
-updated: 2024-05-01T17:57:29.292Z
+date: 2024-05-19T07:28:00.794Z
+updated: 2024-05-20T07:28:00.794Z
 tags: 
   - unlock
   - remove screen lock
@@ -535,4 +535,5 @@ If you have an older version of iOS (version 9 or earlier), then there is a bug 
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-transform-your-video-simple-ratio-changing-techniques/"><u>New In 2024, Transform Your Video Simple Ratio Changing Techniques</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/how-to-fix-icloud-lock-from-your-apple-iphone-se-2020-and-ipad-by-drfone-ios/"><u>How to fix iCloud lock from your Apple iPhone SE (2020) and iPad</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Find My Apple iPhone 12 mini when Phone is Broken? | Dr.fone
-date: 2024-04-30T17:55:30.785Z
-updated: 2024-05-01T17:55:30.785Z
+date: 2024-05-19T07:27:54.327Z
+updated: 2024-05-20T07:27:54.327Z
 tags: 
   - unlock
   - remove screen lock
@@ -502,4 +502,5 @@ The article has covered a sufficient portion of knowledge for the user regarding
 <li><a href="https://techidaily.com/how-to-erase-apple-iphone-15-plus-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase Apple iPhone 15 Plus Data Permanently | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-create-stunning-lyric-videos-with-these-top-online-tools-for-2024/"><u>New Create Stunning Lyric Videos with These Top Online Tools for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How Do You Remove Restricted Mode on Apple iPhone 13 mini | Dr.fone
-date: 2024-04-30T17:59:35.455Z
-updated: 2024-05-01T17:59:35.455Z
+date: 2024-05-19T07:28:07.847Z
+updated: 2024-05-20T07:28:07.847Z
 tags: 
   - unlock
   - remove screen lock
@@ -515,4 +515,5 @@ Dr.Fone-Screen Unlock is one of the most effective ways can help you to unlock a
 <li><a href="https://ai-video-editing.techidaily.com/everything-you-need-to-know-about-color-grading-in-photography/"><u>Everything You Need to Know About Color Grading in Photography</u></a></li>
 <li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-tecno-camon-20-premier-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

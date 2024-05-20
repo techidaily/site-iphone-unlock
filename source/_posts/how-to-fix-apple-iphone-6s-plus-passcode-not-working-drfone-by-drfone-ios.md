@@ -1,7 +1,7 @@
 ---
 title: How to Fix Apple iPhone 6s Plus Passcode not Working? | Dr.fone
-date: 2024-04-30T17:40:28.386Z
-updated: 2024-05-01T17:40:28.386Z
+date: 2024-05-19T07:27:02.866Z
+updated: 2024-05-20T07:27:02.866Z
 tags: 
   - unlock
   - remove screen lock
@@ -516,4 +516,5 @@ By following these solutions, you would be able to learn how to lock apps on the
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-on-your-iphone-14-pro-max-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card on Your iPhone 14 Pro Max Apple ID and Apple Pay</u></a></li>
 <li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Honor Magic 5? | Dr.fone</u></a></li>
 </ul></div>
+
 

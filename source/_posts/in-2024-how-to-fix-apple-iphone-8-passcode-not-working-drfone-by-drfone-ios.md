@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Fix Apple iPhone 8 Passcode not Working? | Dr.fone
-date: 2024-04-30T17:47:10.883Z
-updated: 2024-05-01T17:47:10.883Z
+date: 2024-05-19T07:27:25.457Z
+updated: 2024-05-20T07:27:25.457Z
 tags: 
   - unlock
   - remove screen lock
@@ -525,4 +525,5 @@ Indeed, if you **forgot the passcode on the iPhone,** there are a few ways to ge
 <li><a href="https://apple-account.techidaily.com/in-2024-apple-id-is-greyed-out-from-iphone-se-2022-how-to-bypass-by-drfone-ios/"><u>In 2024, Apple ID is Greyed Out From iPhone SE (2022) How to Bypass?</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-11-pro-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 11 Pro</u></a></li>
 </ul></div>
+
 

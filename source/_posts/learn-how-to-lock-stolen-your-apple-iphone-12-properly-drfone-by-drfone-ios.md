@@ -1,7 +1,7 @@
 ---
 title: Learn How To Lock Stolen Your Apple iPhone 12 Properly | Dr.fone
-date: 2024-04-30T17:54:34.485Z
-updated: 2024-05-01T17:54:34.485Z
+date: 2024-05-19T07:27:50.986Z
+updated: 2024-05-20T07:27:50.986Z
 tags: 
   - unlock
   - remove screen lock
@@ -613,4 +613,5 @@ So, if you have forgotten your Apple iPhone 12 passcode and are looking for how 
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-pro-passcode-screen-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11 Pro Passcode Screen?</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/2024-approved-ways-to-create-an-adobe-collage/"><u>2024 Approved Ways to Create an Adobe Collage</u></a></li>
 </ul></div>
+
 

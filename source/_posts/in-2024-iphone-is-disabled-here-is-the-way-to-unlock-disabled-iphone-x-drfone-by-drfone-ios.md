@@ -470,3 +470,4 @@ Now, in case you know the Apple iPhone X restrictions passcode and just wish to 
 <li><a href="https://review-topics.techidaily.com/how-to-unlock-iphone-14-without-face-id-by-drfone-ios-unlock-ios-unlock/"><u>How to Unlock iPhone 14 without Face ID</u></a></li>
 </ul></div>
 
+

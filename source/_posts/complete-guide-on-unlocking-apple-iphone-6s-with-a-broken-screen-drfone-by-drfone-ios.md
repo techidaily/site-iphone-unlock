@@ -1,7 +1,7 @@
 ---
 title: Complete Guide on Unlocking Apple iPhone 6s with a Broken Screen? | Dr.fone
-date: 2024-04-30T17:39:37.249Z
-updated: 2024-05-01T17:39:37.249Z
+date: 2024-05-19T07:26:59.274Z
+updated: 2024-05-20T07:26:59.274Z
 tags: 
   - unlock
   - remove screen lock
@@ -653,4 +653,5 @@ Human beings are clumsy, and they often forget passcodes to their devices. Howev
 <li><a href="https://techidaily.com/how-to-exit-recovery-mode-on-apple-iphone-11-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Exit Recovery Mode on Apple iPhone 11 Pro? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-vivo-y100t-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Vivo Y100t to Other Android devices | Dr.fone</u></a></li>
 </ul></div>
+
 

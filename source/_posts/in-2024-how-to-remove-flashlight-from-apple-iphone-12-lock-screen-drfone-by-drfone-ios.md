@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Remove Flashlight From Apple iPhone 12 Lock Screen | Dr.fone
-date: 2024-04-30T17:55:05.640Z
-updated: 2024-05-01T17:55:05.640Z
+date: 2024-05-19T07:27:52.783Z
+updated: 2024-05-20T07:27:52.783Z
 tags: 
   - unlock
   - remove screen lock
@@ -490,4 +490,5 @@ We hope we have covered every bit of this article perfectly and you have success
 <li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-zte-axon-40-lite-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My ZTE Axon 40 Lite? | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/what-to-do-if-your-realme-note-50-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Realme Note 50 Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
+
 

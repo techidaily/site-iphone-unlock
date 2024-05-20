@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on iPhone 11 Pro | Dr.fone
-date: 2024-04-30T17:52:55.604Z
-updated: 2024-05-01T17:52:55.604Z
+date: 2024-05-19T07:27:45.376Z
+updated: 2024-05-20T07:27:45.376Z
 tags: 
   - unlock
   - remove screen lock
@@ -521,4 +521,5 @@ _**Tips:** Are you searching for a powerful iPhone Unlock tool? No worries as [D
 <li><a href="https://easy-unlock-android.techidaily.com/top-apps-and-online-tools-to-track-realme-c67-5g-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Realme C67 5G Phone With/Without IMEI Number</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/7-ways-to-unlock-a-locked-motorola-moto-g84-5g-phone-by-drfone-android/"><u>7 Ways to Unlock a Locked Motorola Moto G84 5G Phone</u></a></li>
 </ul></div>
+
 

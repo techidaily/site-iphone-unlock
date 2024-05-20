@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Find My iPhone 8 Plus when Phone is Broken? | Dr.fone
-date: 2024-04-30T17:45:59.770Z
-updated: 2024-05-01T17:45:59.770Z
+date: 2024-05-19T07:27:21.314Z
+updated: 2024-05-20T07:27:21.314Z
 tags: 
   - unlock
   - remove screen lock
@@ -472,4 +472,5 @@ Should you encounter any challenges while managing your Apple ID, such as removi
 <li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-oneplus-nord-ce-3-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset OnePlus Nord CE 3 5G Phone Using PC | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-huawei-nova-y91-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Huawei Nova Y91 Without PUK Codes</u></a></li>
 </ul></div>
+
 

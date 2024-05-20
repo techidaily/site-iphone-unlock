@@ -1,7 +1,7 @@
 ---
 title: How To Remove Flashlight From iPhone 8 Lock Screen | Dr.fone
-date: 2024-04-30T17:47:01.973Z
-updated: 2024-05-01T17:47:01.973Z
+date: 2024-05-19T07:27:25.036Z
+updated: 2024-05-20T07:27:25.036Z
 tags: 
   - unlock
   - remove screen lock
@@ -578,4 +578,5 @@ Not all of us have the memory of elephants. With Touch ID and Face ID on our iPh
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-xcover-6-pro-tactical-edition-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy XCover 6 Pro Tactical Edition Phone with Broken Screen</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-t2x-5g-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Vivo T2x 5G</u></a></li>
 </ul></div>
+
 

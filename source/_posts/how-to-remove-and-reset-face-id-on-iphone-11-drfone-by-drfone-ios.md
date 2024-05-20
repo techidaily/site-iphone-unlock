@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on iPhone 11 | Dr.fone
-date: 2024-04-30T17:50:55.841Z
-updated: 2024-05-01T17:50:55.841Z
+date: 2024-05-19T07:27:37.963Z
+updated: 2024-05-20T07:27:37.963Z
 tags: 
   - unlock
   - remove screen lock
@@ -589,4 +589,5 @@ And there you go, the five key ways you need to know when it comes to removing a
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-infinix-gt-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Infinix GT 10 Pro | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/4-ways-to-extract-data-from-corrupt-excel-2019-file-by-stellar-guide/"><u>4 Ways to extract data from corrupt Excel 2019 file</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on iPhone X | Dr.fone
-date: 2024-04-30T17:45:32.503Z
-updated: 2024-05-01T17:45:32.503Z
+date: 2024-05-19T07:27:20.054Z
+updated: 2024-05-20T07:27:20.054Z
 tags: 
   - unlock
   - remove screen lock
@@ -553,4 +553,5 @@ Enabling this option is a straightforward process, and if there’s ever a glitc
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some Pro Tips for Pokemon Go PvP Battles On Oppo Find X7 | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-vivo-y17s-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Vivo Y17s to Other Android devices | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on iPhone SE (2020) | Dr.fone
-date: 2024-04-30T17:54:16.793Z
-updated: 2024-05-01T17:54:16.793Z
+date: 2024-05-19T07:27:50.044Z
+updated: 2024-05-20T07:27:50.044Z
 tags: 
   - unlock
   - remove screen lock
@@ -451,4 +451,5 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 <li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-google-pixel-7a-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Google Pixel 7a Quickly | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/asus-rog-phone-8-pro-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Asus ROG Phone 8 Pro Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
 </ul></div>
+
 

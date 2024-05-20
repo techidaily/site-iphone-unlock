@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on Apple iPhone 11 Pro | Dr.fone
-date: 2024-04-30T17:52:38.473Z
-updated: 2024-05-01T17:52:38.473Z
+date: 2024-05-19T07:27:44.322Z
+updated: 2024-05-20T07:27:44.322Z
 tags: 
   - unlock
   - remove screen lock
@@ -546,4 +546,5 @@ The article aimed to provide users with maximum information and knowledge about 
 <li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-samsung-galaxy-a25-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Samsung Galaxy A25 5G IMEI without Root A Comprehensive Guide</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-color-grading-in-final-cut-pro/"><u>New How to Color Grading in Final Cut Pro</u></a></li>
 </ul></div>
+
 

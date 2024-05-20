@@ -1,7 +1,7 @@
 ---
 title: How To Remove Flashlight From iPhone 12 mini Lock Screen | Dr.fone
-date: 2024-04-30T17:55:49.941Z
-updated: 2024-05-01T17:55:49.941Z
+date: 2024-05-19T07:27:55.312Z
+updated: 2024-05-20T07:27:55.312Z
 tags: 
   - unlock
   - remove screen lock
@@ -471,4 +471,5 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 <li><a href="https://fake-location.techidaily.com/how-to-fix-apple-iphone-12-pro-find-my-friends-no-location-found-drfone-by-drfone-virtual-ios/"><u>How to Fix Apple iPhone 12 Pro Find My Friends No Location Found? | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/updated-all-about-3d-medical-animation-and-its-uses/"><u>Updated All About 3D Medical Animation And Its Uses</u></a></li>
 </ul></div>
+
 

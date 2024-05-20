@@ -1,7 +1,7 @@
 ---
 title: Trouble with iPhone X Swipe-Up? Try These 11 Solutions | Dr.fone
-date: 2024-04-30T17:45:02.262Z
-updated: 2024-05-01T17:45:02.262Z
+date: 2024-05-19T07:27:18.310Z
+updated: 2024-05-20T07:27:18.310Z
 tags: 
   - unlock
   - remove screen lock
@@ -592,4 +592,5 @@ We hope that after following this guide, you would be able to gain in-depth info
 <li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Oppo Find N3 Flip? | Dr.fone</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-realme-v30t-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Realme V30T</u></a></li>
 </ul></div>
+
 

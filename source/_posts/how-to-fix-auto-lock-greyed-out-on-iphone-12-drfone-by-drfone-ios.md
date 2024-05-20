@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on iPhone 12 | Dr.fone
-date: 2024-04-30T17:54:47.161Z
-updated: 2024-05-01T17:54:47.161Z
+date: 2024-05-19T07:27:51.694Z
+updated: 2024-05-20T07:27:51.694Z
 tags: 
   - unlock
   - remove screen lock
@@ -648,4 +648,5 @@ Enabling this option is a straightforward process, and if there’s ever a glitc
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-phone-number-from-your-apple-id-from-your-iphone-13-by-drfone-ios/"><u>In 2024, How To Remove Phone Number From Your Apple ID from Your iPhone 13?</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/1713949291235-do-you-need-more-time-to-explain-a-particular-screen-or-moment-in-your-recording-using-an-extended-freeze-frame-learn-how-to-use-camtasia-freeze-frame-to-ex/"><u>Do You Need More Time to Explain a Particular Screen or Moment in Your Recording Using an Extended Freeze-Frame? Learn How to Use Camtasia Freeze-Frame to Extend Parts of a Video Effectively for 2024</u></a></li>
 </ul></div>
+
 

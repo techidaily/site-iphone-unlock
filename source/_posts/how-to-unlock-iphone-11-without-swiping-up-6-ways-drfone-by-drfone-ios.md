@@ -1,7 +1,7 @@
 ---
 title: How To Unlock iPhone 11 Without Swiping Up? 6 Ways | Dr.fone
-date: 2024-04-30T17:51:02.098Z
-updated: 2024-05-01T17:51:02.098Z
+date: 2024-05-19T07:27:38.352Z
+updated: 2024-05-20T07:27:38.352Z
 tags: 
   - unlock
   - remove screen lock
@@ -615,4 +615,5 @@ So, if you are looking for a hassle-free solution to fix your lock screen issues
 <li><a href="https://change-location.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-xiaomi-mix-fold-3-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Xiaomi Mix Fold 3</u></a></li>
 </ul></div>
+
 

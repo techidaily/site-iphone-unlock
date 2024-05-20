@@ -1,7 +1,7 @@
 ---
 title: Complete Guide For Apple iPhone 12 Lock Screen | Dr.fone
-date: 2024-04-30T17:54:31.345Z
-updated: 2024-05-01T17:54:31.345Z
+date: 2024-05-19T07:27:50.786Z
+updated: 2024-05-20T07:27:50.786Z
 tags: 
   - unlock
   - remove screen lock
@@ -542,4 +542,5 @@ Not all of us have the memory of elephants. With Touch ID and Face ID on our iPh
 <li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-oppo-reno-11f-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Oppo Reno 11F 5G | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-xiaomi-redmi-note-12-4g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Xiaomi Redmi Note 12 4G Device</u></a></li>
 </ul></div>
+
 

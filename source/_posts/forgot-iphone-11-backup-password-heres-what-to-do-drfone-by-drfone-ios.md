@@ -1,7 +1,7 @@
 ---
 title: Forgot iPhone 11 Backup Password? Heres What to Do | Dr.fone
-date: 2024-04-30T17:50:58.565Z
-updated: 2024-05-01T17:50:58.565Z
+date: 2024-05-19T07:27:38.114Z
+updated: 2024-05-20T07:27:38.114Z
 tags: 
   - unlock
   - remove screen lock
@@ -555,4 +555,5 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 <li><a href="https://ai-video-editing.techidaily.com/new-in-2024-how-to-make-an-instant-slideshow-on-mac/"><u>New In 2024, How to Make an Instant Slideshow on Mac</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-honor-x50-gt-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Honor X50 GT</u></a></li>
 </ul></div>
+
 

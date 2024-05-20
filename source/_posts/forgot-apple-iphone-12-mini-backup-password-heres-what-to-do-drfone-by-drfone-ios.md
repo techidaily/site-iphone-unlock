@@ -1,7 +1,7 @@
 ---
 title: Forgot Apple iPhone 12 mini Backup Password? Heres What to Do | Dr.fone
-date: 2024-04-30T17:55:34.322Z
-updated: 2024-05-01T17:55:34.322Z
+date: 2024-05-19T07:27:54.473Z
+updated: 2024-05-20T07:27:54.473Z
 tags: 
   - unlock
   - remove screen lock
@@ -516,4 +516,5 @@ Not all of us have the memory of elephants. With Touch ID and Face ID on our iPh
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-11-5g-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme 11 5G Without Volume Buttons | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-nokia-g22-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Nokia G22 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 

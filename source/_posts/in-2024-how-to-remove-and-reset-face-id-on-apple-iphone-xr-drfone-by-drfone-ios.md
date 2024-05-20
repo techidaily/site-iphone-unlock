@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Remove and Reset Face ID on Apple iPhone XR | Dr.fone
-date: 2024-04-30T17:50:14.070Z
-updated: 2024-05-01T17:50:14.070Z
+date: 2024-05-19T07:27:35.662Z
+updated: 2024-05-20T07:27:35.662Z
 tags: 
   - unlock
   - remove screen lock
@@ -587,4 +587,5 @@ While these methods are helpful, there's a software called Wondershare Dr.Fone t
 <li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-poco-x6-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Poco X6 | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-soft-reset-realme-v30-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Realme V30 phone? | Dr.fone</u></a></li>
 </ul></div>
+
 

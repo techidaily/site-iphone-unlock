@@ -1,7 +1,7 @@
 ---
 title: How To Unlock Apple iPhone XR Without Swiping Up? 6 Ways | Dr.fone
-date: 2024-04-30T17:49:52.408Z
-updated: 2024-05-01T17:49:52.408Z
+date: 2024-05-19T07:27:34.566Z
+updated: 2024-05-20T07:27:34.566Z
 tags: 
   - unlock
   - remove screen lock
@@ -544,4 +544,5 @@ Not all of us have the memory of elephants. With Touch ID and Face ID on our iPh
 <li><a href="https://phone-solutions.techidaily.com/cannot-play-mkv-files-on-motorola-g54-5g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Cannot play MKV files on Motorola G54 5G</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-apple-iphone-xr-by-drfone-ios/"><u>In 2024, Top 11 Free Apps to Check IMEI on Apple iPhone XR</u></a></li>
 </ul></div>
+
 

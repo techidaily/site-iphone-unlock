@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on Apple iPhone 11 | Dr.fone
-date: 2024-04-30T17:50:42.241Z
-updated: 2024-05-01T17:50:42.241Z
+date: 2024-05-19T07:27:37.128Z
+updated: 2024-05-20T07:27:37.128Z
 tags: 
   - unlock
   - remove screen lock
@@ -555,4 +555,5 @@ Lastly, Dr.Fone-Screen Unlock is a program that can help you bypass the passcode
 <li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-xiaomi-redmi-a2plus-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Xiaomi Redmi A2+ Phone</u></a></li>
 </ul></div>
+
 

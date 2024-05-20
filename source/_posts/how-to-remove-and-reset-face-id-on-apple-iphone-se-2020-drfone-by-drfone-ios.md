@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on Apple iPhone SE (2020) | Dr.fone
-date: 2024-04-30T17:53:32.555Z
-updated: 2024-05-01T17:53:32.555Z
+date: 2024-05-19T07:27:47.405Z
+updated: 2024-05-20T07:27:47.405Z
 tags: 
   - unlock
   - remove screen lock
@@ -531,4 +531,5 @@ The article aimed to provide users with maximum information and knowledge about 
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-add-motion-blur-effect-to-photos-in-gimp/"><u>Updated How To Add Motion Blur Effect To Photos in GIMP</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-nokia-c12-plus-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Nokia C12 Plus</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How Do You Remove Restricted Mode on iPhone 12 mini | Dr.fone
-date: 2024-04-30T17:56:20.920Z
-updated: 2024-05-01T17:56:20.920Z
+date: 2024-05-19T07:27:56.964Z
+updated: 2024-05-20T07:27:56.965Z
 tags: 
   - unlock
   - remove screen lock
@@ -453,4 +453,5 @@ In conclusion, this article addressed methods for **how to recover locked notes 
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirror-your-apple-iphone-6s-display-drfone-by-drfone-ios/"><u>In 2024, How to Screen Mirror your Apple iPhone 6s Display? | Dr.fone</u></a></li>
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-poco-x5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Poco X5 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

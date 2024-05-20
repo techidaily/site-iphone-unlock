@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on iPhone 12 mini | Dr.fone
-date: 2024-04-30T17:55:47.823Z
-updated: 2024-05-01T17:55:47.823Z
+date: 2024-05-19T07:27:55.170Z
+updated: 2024-05-20T07:27:55.170Z
 tags: 
   - unlock
   - remove screen lock
@@ -569,4 +569,5 @@ Enabling this option is a straightforward process, and if there’s ever a glitc
 <li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Oppo Find X6 Pro | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-ispoofer-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on OnePlus Nord CE 3 Lite 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

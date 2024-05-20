@@ -1,7 +1,7 @@
 ---
 title: Forgot iPhone 12 mini Backup Password? Heres What to Do | Dr.fone
-date: 2024-04-30T17:55:48.042Z
-updated: 2024-05-01T17:55:48.042Z
+date: 2024-05-19T07:27:55.177Z
+updated: 2024-05-20T07:27:55.177Z
 tags: 
   - unlock
   - remove screen lock
@@ -640,4 +640,5 @@ We've also talked about a helpful tool called Wondershare Dr.Fone. It's made to 
 <li><a href="https://meme-emoji.techidaily.com/new-how-to-add-emojis-to-discord-on-desktop-computer-and-mobile-for-2024/"><u>New How to Add Emojis To Discord on Desktop Computer and Mobile for 2024</u></a></li>
 <li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>Best 10 Mock Location Apps Worth Trying On Oppo A1x 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

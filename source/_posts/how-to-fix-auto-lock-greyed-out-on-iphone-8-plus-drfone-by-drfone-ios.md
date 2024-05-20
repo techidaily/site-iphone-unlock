@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on iPhone 8 Plus | Dr.fone
-date: 2024-04-30T17:46:02.700Z
-updated: 2024-05-01T17:46:02.700Z
+date: 2024-05-19T07:27:21.419Z
+updated: 2024-05-20T07:27:21.419Z
 tags: 
   - unlock
   - remove screen lock
@@ -431,4 +431,5 @@ You can follow either of these solutions to learn how to unlock iPhone 5 passcod
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Oppo Find X7? | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-15-best-video-editing-courses-online-with-certificate-free-paid/"><u>Updated In 2024, 15 Best Video Editing Courses Online with Certificate Free $ Paid</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on iPhone 6s Plus | Dr.fone
-date: 2024-04-30T17:40:47.815Z
-updated: 2024-05-01T17:40:47.815Z
+date: 2024-05-19T07:27:04.169Z
+updated: 2024-05-20T07:27:04.169Z
 tags: 
   - unlock
   - remove screen lock
@@ -692,4 +692,5 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-on-realme-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos on Realme</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-zte-blade-a73-5g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your ZTE Blade A73 5G to Other Android devices | Dr.fone</u></a></li>
 </ul></div>
+
 

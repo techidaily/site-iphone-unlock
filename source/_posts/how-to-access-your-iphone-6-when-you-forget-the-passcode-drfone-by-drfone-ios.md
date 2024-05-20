@@ -1,7 +1,7 @@
 ---
 title: How to Access Your iPhone 6 When You Forget the Passcode? | Dr.fone
-date: 2024-04-30T17:39:36.190Z
-updated: 2024-05-01T17:39:36.190Z
+date: 2024-05-19T07:26:52.405Z
+updated: 2024-05-20T07:26:52.405Z
 tags: 
   - unlock
   - remove screen lock
@@ -428,4 +428,5 @@ This app can help you factory reset your locked iPhone without iTunes in just a 
 <li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-honor-by-stellar-video-repair-mobile-video-repair/" ><u>Video File Repair - How to Fix Corrupted video files of Honor ?</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-motorola-razr-40-device-by-drfone-android/" ><u>The 6 Best SIM Unlock Services That Actually Work On Your Motorola Razr 40 Device</u></a></li>
 </ul></div>
+
 

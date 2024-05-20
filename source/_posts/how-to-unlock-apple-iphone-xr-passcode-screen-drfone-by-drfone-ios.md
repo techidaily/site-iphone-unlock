@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Apple iPhone XR Passcode Screen? | Dr.fone
-date: 2024-04-30T17:49:54.528Z
-updated: 2024-05-01T17:49:54.528Z
+date: 2024-05-19T07:27:34.680Z
+updated: 2024-05-20T07:27:34.680Z
 tags: 
   - unlock
   - remove screen lock
@@ -591,4 +591,5 @@ A locked Apple iPhone XR is never a pretty sight. Fortunately, there are a coupl
 <li><a href="https://blog-min.techidaily.com/how-to-fix-corrupt-video-files-of-apple-using-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Fix corrupt video files of Apple using Video Repair Utility on Windows?</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-10-matching-color-combination-that-works-together/"><u>Updated 2024 Approved 10 Matching Color Combination That Works Together</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How To Remove Flashlight From iPhone 8 Plus Lock Screen | Dr.fone
-date: 2024-04-30T17:46:04.978Z
-updated: 2024-05-01T17:46:04.978Z
+date: 2024-05-19T07:27:21.578Z
+updated: 2024-05-20T07:27:21.578Z
 tags: 
   - unlock
   - remove screen lock
@@ -636,4 +636,5 @@ Not all of us have the memory of elephants. With Touch ID and Face ID on our iPh
 <li><a href="https://ios-unlock.techidaily.com/is-your-iphone-14-in-security-lockout-proper-ways-to-unlock-by-drfone-ios/"><u>Is Your iPhone 14 in Security Lockout? Proper Ways To Unlock</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-7-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone 7</u></a></li>
 </ul></div>
+
 

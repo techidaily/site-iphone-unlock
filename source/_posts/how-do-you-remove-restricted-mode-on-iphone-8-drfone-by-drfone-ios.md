@@ -1,7 +1,7 @@
 ---
 title: How Do You Remove Restricted Mode on iPhone 8 | Dr.fone
-date: 2024-04-30T17:47:03.928Z
-updated: 2024-05-01T17:47:03.928Z
+date: 2024-05-19T07:27:25.094Z
+updated: 2024-05-20T07:27:25.094Z
 tags: 
   - unlock
   - remove screen lock
@@ -539,4 +539,5 @@ We hope that after learning how to get in a locked Apple iPhone 8 in different w
 <li><a href="https://techidaily.com/factory-reset-on-apple-iphone-12-mini-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on Apple iPhone 12 mini | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-on-iphone-7-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock on iPhone 7</u></a></li>
 </ul></div>
+
 

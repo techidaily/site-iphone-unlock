@@ -1,7 +1,7 @@
 ---
 title: Is Your iPhone XR in Security Lockout? Proper Ways To Unlock | Dr.fone
-date: 2024-04-30T17:49:58.946Z
-updated: 2024-05-01T17:49:58.946Z
+date: 2024-05-19T07:27:34.930Z
+updated: 2024-05-20T07:27:34.930Z
 tags: 
   - unlock
   - remove screen lock
@@ -500,4 +500,5 @@ Wondershare Dr.Fone's comprehensive toolkit provides a range of options to cater
 <li><a href="https://phone-solutions.techidaily.com/failed-to-play-hevc-files-on-samsung-galaxy-f14-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Failed to play HEVC files on Samsung Galaxy F14 5G</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-make-discord-gif-pfp/"><u>Updated In 2024, How to Make Discord GIF PFP</u></a></li>
 </ul></div>
+
 

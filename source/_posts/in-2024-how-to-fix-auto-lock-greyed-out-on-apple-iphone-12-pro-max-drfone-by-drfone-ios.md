@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 12 Pro Max | Dr.fone
-date: 2024-04-30T17:57:00.663Z
-updated: 2024-05-01T17:57:00.663Z
+date: 2024-05-19T07:27:59.350Z
+updated: 2024-05-20T07:27:59.350Z
 tags: 
   - unlock
   - remove screen lock
@@ -690,4 +690,5 @@ Creating a strong Apple ID password is simple: mix letters and numbers, make it 
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-xiaomi-14-pro-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Xiaomi 14 Pro | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-track-imei-number-of-infinix-hot-30-5g-through-google-earth-by-drfone-android/"><u>How To Track IMEI Number Of Infinix Hot 30 5G Through Google Earth?</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: How to Make the Most of Your iPhone XR Lock Screen with Notifications? | Dr.fone
-date: 2024-04-30T17:50:02.955Z
-updated: 2024-05-01T17:50:02.955Z
+date: 2024-05-19T07:27:35.119Z
+updated: 2024-05-20T07:27:35.119Z
 tags: 
   - unlock
   - remove screen lock
@@ -407,4 +407,5 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 <li><a href="https://change-location.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-samsung-galaxy-a14-4g-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Samsung Galaxy A14 4G | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>How to Change Location On Facebook Dating for your Apple iPhone 13 mini | Dr.fone</u></a></li>
 </ul></div>
+
 

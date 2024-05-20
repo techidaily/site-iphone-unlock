@@ -1,7 +1,7 @@
 ---
 title: In 2024, Learn How To Lock Stolen Your iPhone 12 Properly | Dr.fone
-date: 2024-04-30T17:55:21.517Z
-updated: 2024-05-01T17:55:21.517Z
+date: 2024-05-19T07:27:53.654Z
+updated: 2024-05-20T07:27:53.654Z
 tags: 
   - unlock
   - remove screen lock
@@ -557,4 +557,5 @@ In conclusion, this article addressed methods for **how to recover locked notes 
 <li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-honor-magic5-ultimate-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Honor Magic5 Ultimate</u></a></li>
 <li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-from-iphone-15-pro-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons From iPhone 15 Pro? Find the Best Solution Here</u></a></li>
 </ul></div>
+
 

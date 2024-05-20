@@ -1,7 +1,7 @@
 ---
 title: How to Fix Apple iPhone 13 mini Passcode not Working? | Dr.fone
-date: 2024-04-30T17:59:26.169Z
-updated: 2024-05-01T17:59:26.169Z
+date: 2024-05-19T07:28:07.283Z
+updated: 2024-05-20T07:28:07.283Z
 tags: 
   - unlock
   - remove screen lock
@@ -501,4 +501,5 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 <li><a href="https://ai-video-apps.techidaily.com/updated-from-clips-to-masterpiece-pro-tips-for-home-movie-editing-for-2024/"><u>Updated From Clips to Masterpiece Pro Tips for Home Movie Editing for 2024</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/2024-approved-ways-to-create-animated-clipart-in-powerpoint/"><u>2024 Approved Ways to Create Animated Clipart in PowerPoint</u></a></li>
 </ul></div>
+
 

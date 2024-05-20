@@ -1,7 +1,7 @@
 ---
 title: How to Unlock iPhone XR, Apples New iPhone | Dr.fone
-date: 2024-04-30T17:50:00.170Z
-updated: 2024-05-01T17:50:00.170Z
+date: 2024-05-19T07:27:34.985Z
+updated: 2024-05-20T07:27:34.985Z
 tags: 
   - unlock
   - remove screen lock
@@ -434,4 +434,5 @@ Now you know what to do the next time you forget your passcode. Using the simple
 <li><a href="https://ai-video-editing.techidaily.com/updated-imovie-review-is-it-the-best-video-editor-for-mac-users/"><u>Updated IMovie Review – Is It The Best Video Editor for Mac Users?</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-vivo-g2-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Vivo G2</u></a></li>
 </ul></div>
+
 

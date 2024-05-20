@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 6 | Dr.fone
-date: 2024-04-30T17:39:36.321Z
-updated: 2024-05-01T17:39:36.321Z
+date: 2024-05-19T07:26:53.421Z
+updated: 2024-05-20T07:26:53.421Z
 tags: 
   - unlock
   - remove screen lock
@@ -470,4 +470,5 @@ So, if you have forgotten your Apple iPhone 6 passcode and are looking for how t
 <li><a href="https://techidaily.com/hard-resetting-an-infinix-note-30-vip-racing-edition-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Infinix Note 30 VIP Racing Edition Device Made Easy | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-redmi-note-13-pro-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Xiaomi Redmi Note 13 Pro 5G to Laptop Without USB | Dr.fone</u></a></li>
 </ul></div>
+
 

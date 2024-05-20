@@ -1,7 +1,7 @@
 ---
 title: How To Unlock Apple iPhone 6s Without Swiping Up? 6 Ways | Dr.fone
-date: 2024-04-30T17:39:37.303Z
-updated: 2024-05-01T17:39:37.303Z
+date: 2024-05-19T07:26:59.631Z
+updated: 2024-05-20T07:26:59.631Z
 tags: 
   - unlock
   - remove screen lock
@@ -561,4 +561,5 @@ Indeed, if you **forgot the passcode on the iPhone,** there are a few ways to ge
 <li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-on-your-iphone-xs-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID On your iPhone XS?</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-motorola-moto-g73-5g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Motorola Moto G73 5G to Other Android devices | Dr.fone</u></a></li>
 </ul></div>
+
 

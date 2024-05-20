@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 12 mini | Dr.fone
-date: 2024-04-30T17:56:01.936Z
-updated: 2024-05-01T17:56:01.936Z
+date: 2024-05-19T07:27:55.932Z
+updated: 2024-05-20T07:27:55.932Z
 tags: 
   - unlock
   - remove screen lock
@@ -550,4 +550,5 @@ That's all about our take on **how to unlock iPhone without passcode or face ID 
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-nokia-c12-pro-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Nokia C12 Pro?</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-nubia-red-magic-9-proplus-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
 </ul></div>
+
 

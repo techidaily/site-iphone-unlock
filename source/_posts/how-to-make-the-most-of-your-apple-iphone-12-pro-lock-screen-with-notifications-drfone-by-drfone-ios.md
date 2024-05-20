@@ -1,7 +1,7 @@
 ---
 title: How to Make the Most of Your Apple iPhone 12 Pro Lock Screen with Notifications? | Dr.fone
-date: 2024-04-30T17:57:33.030Z
-updated: 2024-05-01T17:57:33.030Z
+date: 2024-05-19T07:28:00.955Z
+updated: 2024-05-20T07:28:00.955Z
 tags: 
   - unlock
   - remove screen lock
@@ -541,4 +541,5 @@ When **changing the App Store country on your Apple iPhone 12 Pro**, it's import
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-unleash-cinematic-quality-top-1080p-video-editing-software-for-creators/"><u>2024 Approved Unleash Cinematic Quality Top 1080P Video Editing Software for Creators</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-customize-powerpoint-slideshow-icon-in-simple-ways/"><u>Updated Customize PowerPoint Slideshow Icon in Simple Ways</u></a></li>
 </ul></div>
+
 

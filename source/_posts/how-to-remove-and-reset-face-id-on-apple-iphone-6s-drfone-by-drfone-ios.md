@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on Apple iPhone 6s | Dr.fone
-date: 2024-04-30T17:39:37.221Z
-updated: 2024-05-01T17:39:37.221Z
+date: 2024-05-19T07:26:59.199Z
+updated: 2024-05-20T07:26:59.199Z
 tags: 
   - unlock
   - remove screen lock
@@ -502,4 +502,5 @@ Dr.Fone - Screen Unlock is the easiest method to delete the password from your i
 <li><a href="https://techidaily.com/undelete-lost-music-from-x6-by-fonelab-android-recover-music/"><u>Undelete lost music from X6</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-motorola-moto-g04withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Motorola Moto G04with/without a PC</u></a></li>
 </ul></div>
+
 

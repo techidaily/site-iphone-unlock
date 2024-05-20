@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on iPhone 12 mini | Dr.fone
-date: 2024-04-30T17:56:17.437Z
-updated: 2024-05-01T17:56:17.437Z
+date: 2024-05-19T07:27:56.781Z
+updated: 2024-05-20T07:27:56.781Z
 tags: 
   - unlock
   - remove screen lock
@@ -550,4 +550,5 @@ Having an iPhone with a broken screen can make your life hard. It keeps you from
 <li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Nokia 105 Classic | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-oneplus-ace-2v-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your OnePlus Ace 2V to Your PC/Mac | Dr.fone</u></a></li>
 </ul></div>
+
 

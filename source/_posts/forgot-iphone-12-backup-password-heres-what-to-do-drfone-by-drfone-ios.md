@@ -1,7 +1,7 @@
 ---
 title: Forgot iPhone 12 Backup Password? Heres What to Do | Dr.fone
-date: 2024-04-30T17:54:47.387Z
-updated: 2024-05-01T17:54:47.387Z
+date: 2024-05-19T07:27:51.702Z
+updated: 2024-05-20T07:27:51.702Z
 tags: 
   - unlock
   - remove screen lock
@@ -650,4 +650,5 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 <li><a href="https://phone-solutions.techidaily.com/best-video-repair-tool-to-fix-and-repair-corrupted-video-files-of-y36-by-stellar-video-repair-mobile-video-repair/"><u>Best Video Repair tool to Fix and Repair Corrupted video files of Y36</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Xiaomi 13 Ultra | Dr.fone</u></a></li>
 </ul></div>
+
 

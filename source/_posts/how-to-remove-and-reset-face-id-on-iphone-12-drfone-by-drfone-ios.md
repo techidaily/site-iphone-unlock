@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on iPhone 12 | Dr.fone
-date: 2024-04-30T17:54:43.172Z
-updated: 2024-05-01T17:54:43.172Z
+date: 2024-05-19T07:27:51.500Z
+updated: 2024-05-20T07:27:51.500Z
 tags: 
   - unlock
   - remove screen lock
@@ -577,4 +577,5 @@ Not all of us have the memory of elephants. With Touch ID and Face ID on our iPh
 <li><a href="https://ai-vdieo-software.techidaily.com/extracting-crystal-clear-audio-from-videos-a-step-by-step-guide/"><u>Extracting Crystal-Clear Audio From Videos A Step-by-Step Guide</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-download-kinemaster-for-macstep-by-step-guide/"><u>2024 Approved Download KineMaster for MacStep-by-Step Guide</u></a></li>
 </ul></div>
+
 

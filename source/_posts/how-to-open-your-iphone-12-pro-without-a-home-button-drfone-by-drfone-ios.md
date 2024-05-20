@@ -1,7 +1,7 @@
 ---
 title: How To Open Your iPhone 12 Pro Without a Home Button | Dr.fone
-date: 2024-04-30T17:57:48.056Z
-updated: 2024-05-01T17:57:48.056Z
+date: 2024-05-19T07:28:01.777Z
+updated: 2024-05-20T07:28:01.777Z
 tags: 
   - unlock
   - remove screen lock
@@ -460,4 +460,5 @@ A locked Apple iPhone 12 Pro is never a pretty sight. Fortunately, there are a c
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-honor-magic-6-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Honor Magic 6 Pro Lock Screen Password?</u></a></li>
 <li><a href="https://iphone-location.techidaily.com/does-pokegoplusplus-still-work-on-apple-iphone-xsipad-drfone-by-drfone-virtual-ios/"><u>Does PokeGo++ still work on Apple iPhone XS/iPad? | Dr.fone</u></a></li>
 </ul></div>
+
 

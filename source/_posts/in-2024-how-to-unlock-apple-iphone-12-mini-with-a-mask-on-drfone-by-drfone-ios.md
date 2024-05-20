@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Apple iPhone 12 mini with a Mask On | Dr.fone
-date: 2024-04-30T17:56:07.063Z
-updated: 2024-05-01T17:56:07.063Z
+date: 2024-05-19T07:27:56.194Z
+updated: 2024-05-20T07:27:56.194Z
 tags: 
   - unlock
   - remove screen lock
@@ -552,4 +552,5 @@ After following these solutions, you can use your Apple iPhone 12 mini and surpa
 <li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-infinix-smart-8-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Infinix Smart 8 Pro | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-oppo-a78-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Oppo A78 | Dr.fone</u></a></li>
 </ul></div>
+
 

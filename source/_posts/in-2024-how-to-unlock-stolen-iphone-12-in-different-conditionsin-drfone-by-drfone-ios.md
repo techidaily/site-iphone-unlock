@@ -519,3 +519,4 @@ If you're not interested in using a third-party tool, you can try one of the met
 <li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-motorola-g24-power-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Motorola G24 Power on Windows?</u></a></li>
 </ul></div>
 
+
