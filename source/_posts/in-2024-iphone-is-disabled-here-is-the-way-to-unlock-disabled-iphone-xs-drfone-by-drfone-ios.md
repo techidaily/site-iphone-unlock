@@ -1,7 +1,7 @@
 ---
 title: In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone XS | Dr.fone
-date: 2024-05-19T07:27:30.243Z
-updated: 2024-05-20T07:27:30.243Z
+date: 2024-06-08T08:04:05.600Z
+updated: 2024-06-09T08:04:05.600Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone XS
 excerpt: This article describes iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone XS
 keywords: how to turn off find my iphone when phone is broken,how to remove passcode from iphone,unlock iphone with apple watch,iphone auto lock greyed out,get out of security lockout,iphone x iphone xr lock screen,iphone is disabled,unlock iphone screen passcode,forgot passcode on iphone
-thumbnail: https://www.lifewire.com/thmb/QSOkVMBCO__10c9yExi2xlfXUGg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-626970032-497800518dac4d6cafa0dc19b953f1ff.jpg
+thumbnail: https://thmb.techidaily.com/5996397f505d52b0f60ffe77c36fd8859621590a57dd0707f44eeaa06c560dbc.jpg
 ---
 
 ## iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone XS

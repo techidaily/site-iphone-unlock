@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Turn Off Find My Apple iPhone 6s Plus when Phone is Broken? | Dr.fone
-date: 2024-05-19T07:27:05.113Z
-updated: 2024-05-20T07:27:05.113Z
+date: 2024-06-08T08:04:28.796Z
+updated: 2024-06-09T08:04:28.796Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Turn Off Find My Apple iPhone 6s Plus when Phone is Broken?
 excerpt: This article describes How to Turn Off Find My Apple iPhone 6s Plus when Phone is Broken?
 keywords: bypass ios 14 lock screen,remove flashlight from iphone lock screen,how to unlock iphone 12,how to unlock iphone to use usb accessories,iphone backup password,how to unlock a found iphone
-thumbnail: https://www.lifewire.com/thmb/CUKW3XFY7liGlZzhBQy-nvEFMFg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/frenchopen-4d320297828b413f84f9940d5bd258f9.jpg
+thumbnail: https://thmb.techidaily.com/a9fb2f2e749603e5c7deed59a3dccc2eb82bb973e6c7211350802c91feadcdaf.jpg
 ---
 
 ## How to Turn Off Find My Apple iPhone 6s Plus when Phone is Broken?

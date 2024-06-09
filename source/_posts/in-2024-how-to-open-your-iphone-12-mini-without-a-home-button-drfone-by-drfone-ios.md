@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Open Your iPhone 12 mini Without a Home Button | Dr.fone
-date: 2024-05-19T07:27:56.892Z
-updated: 2024-05-20T07:27:56.892Z
+date: 2024-06-08T08:05:14.024Z
+updated: 2024-06-09T08:05:14.024Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Open Your iPhone 12 mini Without a Home Button
 excerpt: This article describes How To Open Your iPhone 12 mini Without a Home Button
 keywords: fix iphone backup password never set but still asking,how to unlock iphone 12,how to remove passcode from iphone,iphone locked to owner,lock stolen iphone,iphone passcode changed itself,unlock iphone 5 passcode without itunes,apple id not active
-thumbnail: https://www.lifewire.com/thmb/ru-jVd0Cvv8tkOSsngOh3taWsHA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/laptop-2443739-5b55bc7c46e0fb00378df55b.jpg
+thumbnail: https://thmb.techidaily.com/390e6108c338c717535ae5268513a4f027783679d87088006ba977c8519d5351.jpg
 ---
 
 ## How To Open Your Apple iPhone 12 mini Without a Home Button

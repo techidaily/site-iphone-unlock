@@ -1,7 +1,7 @@
 ---
 title: In 2024, Forgot Apple iPhone 6s Plus Backup Password? Heres What to Do | Dr.fone
-date: 2024-05-19T07:27:05.307Z
-updated: 2024-05-20T07:27:05.307Z
+date: 2024-06-08T08:03:53.671Z
+updated: 2024-06-09T08:03:53.671Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Forgot Apple iPhone 6s Plus Backup Password? Heres What to Do
 excerpt: This article describes Forgot Apple iPhone 6s Plus Backup Password? Heres What to Do
 keywords: iphone swipe up not working,remove iphone from blacklist,forgot iphone pin,unlock disabled iphone without itunes,unlock disabled iphone without computer,how many attempts to unlock iphone,unlock apple watch
-thumbnail: https://www.lifewire.com/thmb/efwW06nbzdIi0kzLWEWTbso7lT8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-instagram-captions-4171697-ae21b04e6866470c80a50c9bef1cc26e.png
+thumbnail: https://thmb.techidaily.com/ac86b0aa564fee722115c20830e542db073002bfbdd584be2acd66419238b8a6.png
 ---
 
 ## Forgot Apple iPhone 6s Plus Backup Password? Here's What to Do

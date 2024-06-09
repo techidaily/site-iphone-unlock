@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Remove and Reset Face ID on Apple iPhone 6s | Dr.fone
-date: 2024-05-19T07:27:01.102Z
-updated: 2024-05-20T07:27:01.102Z
+date: 2024-06-08T08:04:48.583Z
+updated: 2024-06-09T08:04:48.583Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Remove and Reset Face ID on Apple iPhone 6s
 excerpt: This article describes How to Remove and Reset Face ID on Apple iPhone 6s
 keywords: get into locked iphone,apple id not active,disable parental control,how to remove face id on iphone 13,unlock iphone face id wearing mask,unlock iphone 11 12 13 without passcode,iphone passcode not working after update ios 13,change apple id on ipad,iphone backup unlocker,unlock iphone screen passcode
-thumbnail: https://www.lifewire.com/thmb/X0NLJA7wZWOmsgBrRlyzzPD7H5A=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1065028028-8e770c58918e4cf8b0852e81cff60ed6.jpg
+thumbnail: https://thmb.techidaily.com/a65a2d3fb958e05df694286812a1e2454a9d6c6ff463421241eb49561be7ce4c.jpg
 ---
 
 ## How to Remove and Reset Face ID on Apple iPhone 6s

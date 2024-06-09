@@ -1,7 +1,7 @@
 ---
 title: Can You Unlock Apple iPhone 8 After Forgetting the Passcode? | Dr.fone
-date: 2024-05-19T07:27:23.676Z
-updated: 2024-05-20T07:27:23.676Z
+date: 2024-06-08T08:04:36.924Z
+updated: 2024-06-09T08:04:36.924Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Can You Unlock Apple iPhone 8 After Forgetting the Passcode?
 excerpt: This article describes Can You Unlock Apple iPhone 8 After Forgetting the Passcode?
 keywords: how to unlock a found iphone,iphone auto lock greyed out,how to unlock iphone with itunes,remove flashlight from iphone lock screen,unlock iphone xs without passcode,iphone 11 passcode bypass
-thumbnail: https://www.lifewire.com/thmb/RZ6a_Dm3h0STkAi4OwMdfZPBurY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DTS-Virtual-X-logo-w-illustration-xxbb-59403d7b3df78c537b1ef6b2.jpg
+thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f2d60ec5b3831dd32989cbba.jpg
 ---
 
 ## Can You Unlock Apple iPhone 8 After Forgetting the Passcode?

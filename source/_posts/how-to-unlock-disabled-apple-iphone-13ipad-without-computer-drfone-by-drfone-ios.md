@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Disabled Apple iPhone 13/iPad Without Computer | Dr.fone
-date: 2024-05-19T07:28:04.703Z
-updated: 2024-05-20T07:28:04.703Z
+date: 2024-06-08T08:03:50.819Z
+updated: 2024-06-09T08:03:50.819Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Unlock Disabled Apple iPhone 13/iPad Without Computer
 excerpt: This article describes How to Unlock Disabled Apple iPhone 13/iPad Without Computer
 keywords: get into locked iphone,factory reset locked iphone without itunes,iphone is disabled,bypass ios 14 lock screen,ios 17 lock screen,erase iphone when locked,turn off restricted mode,unlock disabled iphone without computer,how to turn off find my iphone when phone is broken
-thumbnail: https://www.lifewire.com/thmb/mQGqL0eWRfBieVMGM5ZlJAtwh3c=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-a-mobile-boarding-pass-eb61458058f44011ad7ed012566127e4.jpg
+thumbnail: https://thmb.techidaily.com/aefba9f0ac6f593076f657b0dfeebc66593ffd1b9ade996e1956601a5424d0a8.jpg
 ---
 
 ## How to Unlock Disabled Apple iPhone 13/iPad Without Computer

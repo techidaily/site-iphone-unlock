@@ -1,7 +1,7 @@
 ---
 title: In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 6s Without iTunes | Dr.fone
-date: 2024-05-19T07:27:01.902Z
-updated: 2024-05-20T07:27:01.902Z
+date: 2024-06-08T08:05:12.740Z
+updated: 2024-06-09T08:05:12.740Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes 3 Easy Ways to Factory Reset a Locked iPhone 6s Without iTunes
 excerpt: This article describes 3 Easy Ways to Factory Reset a Locked iPhone 6s Without iTunes
 keywords: change apple id on ipad,unlock iphone without passcode,unlock iphone passcode,how to unlock an iphone 13,turn off restricted mode,app lock iphone,solve iphone randomly asking for apple id,erase iphone when locked,unlock iphone xs without passcode,fix iphone unavailability,bypass ios 14 lock screen
-thumbnail: https://www.lifewire.com/thmb/KQEPD1j8h_qKr2PB3tJ6qZQQ508=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-104626001-5c34f065c9e77c00010b8cd5.jpg
+thumbnail: https://thmb.techidaily.com/ffa6265ad1a6a848473605e7aedcfa3ec46ffbe39326ff49e8d4fafd11fa0e00.jpg
 ---
 
 ## 3 Easy Ways to Factory Reset a Locked Apple iPhone 6s Without iTunes

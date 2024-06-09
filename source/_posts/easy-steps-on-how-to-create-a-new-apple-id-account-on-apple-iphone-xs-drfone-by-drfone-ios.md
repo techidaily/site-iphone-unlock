@@ -1,7 +1,7 @@
 ---
 title: Easy Steps on How To Create a New Apple ID Account On Apple iPhone XS | Dr.fone
-date: 2024-05-19T07:27:27.150Z
-updated: 2024-05-20T07:27:27.150Z
+date: 2024-06-08T08:04:09.853Z
+updated: 2024-06-09T08:04:09.853Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Easy Steps on How To Create a New Apple ID Account On Apple iPhone XS
 excerpt: This article describes Easy Steps on How To Create a New Apple ID Account On Apple iPhone XS
 keywords: what can jailbreak iphone do,how to unlock a found iphone,how much does unlock a phone cost,how to create new apple id,iphone locked to owner,bypass ios 14 lock screen
-thumbnail: https://www.lifewire.com/thmb/UCCJI6MO1FwbR0mTqx5aB-FS3_0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-add-tiktok-filters-and-effects-f3c195b2fe1449cb8b2906eea3305b22.jpg
+thumbnail: https://thmb.techidaily.com/b35a9a46671dd373ee6fb76f2e7c8c289a52fdab2f2b7f6dd74a2f0921700773.jpg
 ---
 
 ## Easy Steps on How To Create a New Apple ID Account On Apple iPhone XS

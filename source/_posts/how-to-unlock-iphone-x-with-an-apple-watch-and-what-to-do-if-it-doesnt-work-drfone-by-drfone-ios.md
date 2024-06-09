@@ -1,7 +1,7 @@
 ---
 title: How to Unlock iPhone X With an Apple Watch & What to Do if It Doesnt Work | Dr.fone
-date: 2024-05-19T07:27:18.514Z
-updated: 2024-05-20T07:27:18.514Z
+date: 2024-06-08T08:04:34.606Z
+updated: 2024-06-09T08:04:34.606Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Unlock iPhone X With an Apple Watch & What to Do if It Doesnt Work
 excerpt: This article describes How to Unlock iPhone X With an Apple Watch & What to Do if It Doesnt Work
 keywords: iphone 11 passcode bypass,remove flashlight from iphone lock screen,unlock iphone screen passcode,iphone auto lock greyed out,app lock iphone,unlock iphone 5 passcode without itunes,iphone x iphone xr lock screen
-thumbnail: https://www.lifewire.com/thmb/iQjRSYdl3d8RlM-9oprGSEgt6gU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-667603173-fac0b8f4b1d9453c866d332dc73821f8.jpg
+thumbnail: https://thmb.techidaily.com/f47c079fa1fce90a8221b9c2c003a393b4231e2fbb42dbd4e99eb8971ba63ab6.jpg
 ---
 
 ## How to Unlock Apple iPhone X With an Apple Watch & What to Do if It Doesn't Work

@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on iPhone 12 | Dr.fone
-date: 2024-05-19T07:27:51.500Z
-updated: 2024-05-20T07:27:51.500Z
+date: 2024-06-08T08:04:50.698Z
+updated: 2024-06-09T08:04:50.698Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Remove and Reset Face ID on iPhone 12
 excerpt: This article describes How to Remove and Reset Face ID on iPhone 12
 keywords: change apple id on ipad,change apple id password,how to unlock iphone without passcode or face id,disable parental control,how to unlock iphone 12,get into locked iphone,remove device supervision from iphone,erase iphone when locked,how to unlock iphone with broken screen
-thumbnail: https://www.lifewire.com/thmb/sujrBq1SN6zkmNgqHTSAbFbTvKk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/18-Hidden-Snapchat-Features-efa75dca521e4cf6bb321dc960276deb.jpg
+thumbnail: https://thmb.techidaily.com/f1294d51d8e0560c6776b360116bd819890055c0bb65c23b15603692f6dffac9.jpg
 ---
 
 ## How to Remove and Reset Face ID on Apple iPhone 12

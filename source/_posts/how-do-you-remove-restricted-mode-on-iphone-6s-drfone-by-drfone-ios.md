@@ -1,7 +1,7 @@
 ---
 title: How Do You Remove Restricted Mode on iPhone 6s | Dr.fone
-date: 2024-05-19T07:27:00.588Z
-updated: 2024-05-20T07:27:00.588Z
+date: 2024-06-08T08:04:18.428Z
+updated: 2024-06-09T08:04:18.428Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How Do You Remove Restricted Mode on iPhone 6s
 excerpt: This article describes How Do You Remove Restricted Mode on iPhone 6s
 keywords: bypass apple store verification,unlock iphone face id wearing mask,change apple id password,get out of security lockout,change apple id on ipad,disable parental control,unlock disabled iphone without computer,iphone auto lock greyed out
-thumbnail: https://www.lifewire.com/thmb/-_m0G8vbbxxIlkvVQDjlQ1eCN-4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-541916248-593842a43df78c537be2cf44.jpg
+thumbnail: https://thmb.techidaily.com/69a1f779573ffb1d9703aa1f0c2a82407b77bc35052e19faef90f3eeabcd3dc4.jpg
 ---
 
 ## How Do You Remove Restricted Mode on Apple iPhone 6s

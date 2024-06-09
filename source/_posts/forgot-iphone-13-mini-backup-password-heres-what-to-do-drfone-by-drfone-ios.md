@@ -1,7 +1,7 @@
 ---
 title: Forgot iPhone 13 mini Backup Password? Heres What to Do | Dr.fone
-date: 2024-05-19T07:28:08.389Z
-updated: 2024-05-20T07:28:08.389Z
+date: 2024-06-08T08:03:58.568Z
+updated: 2024-06-09T08:03:58.568Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Forgot iPhone 13 mini Backup Password? Heres What to Do
 excerpt: This article describes Forgot iPhone 13 mini Backup Password? Heres What to Do
 keywords: iphone is disabled,how to turn off find my iphone when phone is broken,iphone backup unlocker,unlock disabled iphone without computer,lock stolen iphone,iphone auto lock greyed out,solve iphone randomly asking for apple id,how many attempts to unlock iphone,factory reset locked iphone without itunes,unlock iphone 14,get out of security lockout
-thumbnail: https://www.lifewire.com/thmb/hfQflvBCf7d-XN3Ks-apahbRORg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-audible-worth-it-00616437e29b4d108264ba36057bbdde.jpg
+thumbnail: https://thmb.techidaily.com/99bd3a8517ed5c451f9f836179e6586efe05dbc59db5ea292ed9c7e8afff15a8.jpg
 ---
 
 ## Forgot Apple iPhone 13 mini Backup Password? Here's What to Do

@@ -1,7 +1,7 @@
 ---
 title: Learn How To Lock Stolen Your iPhone 6 Plus Properly | Dr.fone
-date: 2024-05-19T07:26:56.431Z
-updated: 2024-05-20T07:26:56.431Z
+date: 2024-06-08T08:05:10.692Z
+updated: 2024-06-09T08:05:10.692Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Learn How To Lock Stolen Your iPhone 6 Plus Properly
 excerpt: This article describes Learn How To Lock Stolen Your iPhone 6 Plus Properly
 keywords: change apple id on ipad,iphone x iphone xr lock screen,reset iphone backup password,how to create new apple id,forgot locked note password,erase iphone when locked,remove device supervision from iphone,how to unlock iphone without passcode or face id,how to unlock iphone passcode without computer,iphone passcode not working after update ios 13
-thumbnail: https://www.lifewire.com/thmb/dKnfJfS-2dMUMRX_ekaA971sdhs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-664800650-4349941504c24712b81975694798236b.jpg
+thumbnail: https://thmb.techidaily.com/f02c60ec75f846fa2b4ccaf9e1cd79d7d6223ca424f0cd6791d36a2f65c9d0a1.jpg
 ---
 
 ## Learn How To Lock Stolen Your Apple iPhone 6 Plus Properly

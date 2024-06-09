@@ -1,7 +1,7 @@
 ---
 title: Apple iPhone 12 Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone
-date: 2024-05-19T07:27:50.495Z
-updated: 2024-05-20T07:27:50.495Z
+date: 2024-06-08T08:04:04.370Z
+updated: 2024-06-09T08:04:04.370Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes iPhone 12 Backup Password Never Set But Still Asking? Heres the Fix
 excerpt: This article describes iPhone 12 Backup Password Never Set But Still Asking? Heres the Fix
 keywords: open iphone without home button,iphone passcode changed itself,forgot iphone pin,unlock lost phone,how to unlock iphone with broken screen,reset iphone backup password,unlock disabled iphone without itunes,change country on iphone app store,unlock iphone with apple watch
-thumbnail: https://www.lifewire.com/thmb/9P6TB9sqO-6Yq23O2BOj91c-Cvg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-541365354-5c8ad42246e0fb00014a9687.jpg
+thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9fefb2b304db02c765d66484d.jpg
 ---
 
 ## Apple iPhone 12 Backup Password Never Set But Still Asking? Here's the Fix

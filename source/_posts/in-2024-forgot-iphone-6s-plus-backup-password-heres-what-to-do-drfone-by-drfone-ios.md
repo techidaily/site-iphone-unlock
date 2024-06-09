@@ -1,7 +1,7 @@
 ---
 title: In 2024, Forgot iPhone 6s Plus Backup Password? Heres What to Do | Dr.fone
-date: 2024-05-19T07:27:06.197Z
-updated: 2024-05-20T07:27:06.197Z
+date: 2024-06-08T08:04:35.970Z
+updated: 2024-06-09T08:04:35.970Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Forgot iPhone 6s Plus Backup Password? Heres What to Do
 excerpt: This article describes Forgot iPhone 6s Plus Backup Password? Heres What to Do
 keywords: iphone lock screen with notifications,unlock disabled iphone 13,doctorism unlock review,get out of security lockout,iphone asking for outlook password,unlock disabled iphone without computer
-thumbnail: https://www.lifewire.com/thmb/Ieqo8YRlMCtlE-OyiprzvT0zaaY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1139232374-700d343900854115ad26acf3f1dd80b3.jpg
+thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba8907f6c40cdafb2c11a8f5a83.jpg
 ---
 
 ## Forgot Apple iPhone 6s Plus Backup Password? Here's What to Do

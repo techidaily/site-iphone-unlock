@@ -1,7 +1,7 @@
 ---
 title: How to Unlock iPhone SE (2020) without Passcode or Face ID | Dr.fone
-date: 2024-05-19T07:27:48.263Z
-updated: 2024-05-20T07:27:48.263Z
+date: 2024-06-08T08:03:53.629Z
+updated: 2024-06-09T08:03:53.629Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Unlock iPhone SE (2020) without Passcode or Face ID
 excerpt: This article describes How to Unlock iPhone SE (2020) without Passcode or Face ID
 keywords: apple id not active,fix iphone passcode not working,lock stolen iphone,change apple id on ipad,how to unlock iphone without passcode or face id,unlock iphone with apple watch,iphone is disabled,how to remove passcode from iphone,iphone swipe up not working,open iphone without home button,what can jailbreak iphone do,get out of security lockout
-thumbnail: https://www.lifewire.com/thmb/cg-pvlQ-M_jrTyGYcdlhXW_MCvc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/inside-impero-cinema--central-region--asmara--eritrea----1174900385-f49e10d112a6451c89a8310bdb0ecc4e.jpg
+thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242da2e6ee8d5c9aeccc24af52d.jpg
 ---
 
 ## How to Unlock Apple iPhone SE (2020) without Passcode or Face ID

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Unlock Apple iPhone XR Without Swiping Up? 6 Ways | Dr.fone
-date: 2024-05-19T07:27:35.946Z
-updated: 2024-05-20T07:27:35.946Z
+date: 2024-06-08T08:04:51.716Z
+updated: 2024-06-09T08:04:51.716Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Unlock Apple iPhone XR Without Swiping Up? 6 Ways
 excerpt: This article describes How To Unlock Apple iPhone XR Without Swiping Up? 6 Ways
 keywords: unlock lost phone,iphone x iphone xr lock screen,how to unlock iphone 12,fix iphone passcode not working,apple id not active,how to remove face id on iphone 13,how to unlock iphone with itunes,unlock iphone xs without passcode,unlock iphone 11 12 13 without passcode,how to unlock iphone without passcode
-thumbnail: https://www.lifewire.com/thmb/T-vk6tcRBceJKhDueci3J9FGWK4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-454939687-56cac7b03df78cfb37988474.jpg
+thumbnail: https://thmb.techidaily.com/662c307b916403e88dc997e74395824da6bd2c6533fd74096afaf9205f685325.jpg
 ---
 
 ## How To Unlock Apple iPhone XR Without Swiping Up? 6 Ways

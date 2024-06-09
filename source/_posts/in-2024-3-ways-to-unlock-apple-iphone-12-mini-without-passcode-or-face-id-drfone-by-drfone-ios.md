@@ -1,7 +1,7 @@
 ---
 title: In 2024, 3 Ways to Unlock Apple iPhone 12 mini without Passcode or Face ID | Dr.fone
-date: 2024-05-19T07:27:56.239Z
-updated: 2024-05-20T07:27:56.239Z
+date: 2024-06-08T08:04:39.032Z
+updated: 2024-06-09T08:04:39.032Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes 3 Ways to Unlock Apple iPhone 12 mini without Passcode or Face ID
 excerpt: This article describes 3 Ways to Unlock Apple iPhone 12 mini without Passcode or Face ID
 keywords: unlock iphone face id wearing mask,change apple id password,reset iphone backup password,erase iphone when locked,forgot locked note password,iphone 11 passcode bypass,how to turn off find my iphone when phone is broken,how to unlock a found iphone,forgot iphone pin
-thumbnail: https://www.lifewire.com/thmb/A1hfnW-9b0eVXXkLwD_6ei9mr2I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AE-lock-572ece975f9b58c34c0a2492.jpg
+thumbnail: https://thmb.techidaily.com/e086106512b2e9d753e081998408f58f33739fa1f0e7070951ebc50a7e45bfdb.jpg
 ---
 
 ## 3 Ways to Unlock Apple iPhone 12 mini without Passcode or Face ID

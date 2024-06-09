@@ -1,7 +1,7 @@
 ---
 title: How to Unlock iPhone 8 With an Apple Watch & What to Do if It Doesnt Work | Dr.fone
-date: 2024-05-19T07:27:25.208Z
-updated: 2024-05-20T07:27:25.208Z
+date: 2024-06-08T08:04:48.439Z
+updated: 2024-06-09T08:04:48.439Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Unlock iPhone 8 With an Apple Watch & What to Do if It Doesnt Work
 excerpt: This article describes How to Unlock iPhone 8 With an Apple Watch & What to Do if It Doesnt Work
 keywords: how to unlock iphone 7 without passcode,bypass apple store verification,forgot iphone pin,disable parental control,swipe up to unlock iphone,unlock iphone passcode,turn off restricted mode,unlock iphone without passcode,change apple id password,unlock apple watch,unlock disabled iphone 13,how to create new apple id
-thumbnail: https://www.lifewire.com/thmb/xo05oNjxuGAf4v7-INYwiifcGHo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-best-instagram-filters-for-2018-4177148-1-5bc5e4b6c9e77c00517f198d.jpg
+thumbnail: https://thmb.techidaily.com/230adad01721806c33e8b8bec3c60db44af37ad2338e40c998d0c7dc6ff96d9a.jpg
 ---
 
 ## How to Unlock Apple iPhone 8 With an Apple Watch & What to Do if It Doesn't Work

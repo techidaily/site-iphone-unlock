@@ -1,7 +1,7 @@
 ---
 title: Forgot Apple iPhone SE (2020) Backup Password? Heres What to Do | Dr.fone
-date: 2024-05-19T07:27:47.564Z
-updated: 2024-05-20T07:27:47.564Z
+date: 2024-06-08T08:03:56.540Z
+updated: 2024-06-09T08:03:56.540Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Forgot Apple iPhone SE (2020) Backup Password? Heres What to Do
 excerpt: This article describes Forgot Apple iPhone SE (2020) Backup Password? Heres What to Do
 keywords: lock stolen iphone,unlock iphone without passcode,ios 17 lock screen,erase iphone when locked,how to unlock an iphone 13,swipe up to unlock iphone,change apple id email address,forgot iphone pin
-thumbnail: https://www.lifewire.com/thmb/LQMb1e3-Mg4L1lN_8a1V_-CacMg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-155096051-5b1bf60d43a1030036cfac94.jpg
+thumbnail: https://thmb.techidaily.com/667c07bdb92da3d0cfc85ccd305dbbf14b3797ec47ad22d2523d6d2404f16cd1.jpg
 ---
 
 ## Forgot Apple iPhone SE (2020) Backup Password? Here's What to Do

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Remove and Reset Face ID on Apple iPhone 11 Pro | Dr.fone
-date: 2024-05-19T07:27:46.008Z
-updated: 2024-05-20T07:27:46.008Z
+date: 2024-06-08T08:05:06.182Z
+updated: 2024-06-09T08:05:06.182Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Remove and Reset Face ID on Apple iPhone 11 Pro
 excerpt: This article describes How to Remove and Reset Face ID on Apple iPhone 11 Pro
 keywords: unlock iphone with apple watch,iphone lost mode unlock,unlock apple watch,total wireless unlock,remove flashlight from iphone lock screen,forgot passcode on iphone,factory reset locked iphone without itunes
-thumbnail: https://www.lifewire.com/thmb/Y6Usxgxc9PdsrK9dH2LfUO8QJRY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-849896688-6d69f22bcf0a4ff092f444abe6e1c19f.jpg
+thumbnail: https://thmb.techidaily.com/298329c51bf36530c944afd2311460eb93803d5bd2abed16461ddf6c80bb2da9.jpg
 ---
 
 ## How to Remove and Reset Face ID on Apple iPhone 11 Pro

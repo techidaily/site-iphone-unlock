@@ -1,7 +1,7 @@
 ---
 title: How to Unlock iPhone 6s Plus with a Mask On | Dr.fone
-date: 2024-05-19T07:27:04.697Z
-updated: 2024-05-20T07:27:04.697Z
+date: 2024-06-08T08:04:05.541Z
+updated: 2024-06-09T08:04:05.541Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Unlock iPhone 6s Plus with a Mask On
 excerpt: This article describes How to Unlock iPhone 6s Plus with a Mask On
 keywords: apple id not active,app lock iphone,get out of security lockout,iphone swipe up not working,iphone 11 passcode bypass,how to unlock an iphone 13,unlock iphone xs without passcode
-thumbnail: https://www.lifewire.com/thmb/ODtsQJBMUj58crtQiyrVENYFqnk=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/nintendo-switch-vs-nintendo-switch-lite-01-61592395e9e44fc78403c7e99105de84.jpg
+thumbnail: https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962afe3131815c9477f19cbcf4.jpg
 ---
 
 ## How to Unlock Apple iPhone 6s Plus with a Mask On

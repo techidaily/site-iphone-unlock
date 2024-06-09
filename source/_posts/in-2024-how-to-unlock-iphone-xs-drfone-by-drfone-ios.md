@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock iPhone XS? | Dr.fone
-date: 2024-05-19T07:27:30.079Z
-updated: 2024-05-20T07:27:30.079Z
+date: 2024-06-08T08:04:53.712Z
+updated: 2024-06-09T08:04:53.712Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Unlock iPhone XS?
 excerpt: This article describes How to Unlock iPhone XS?
 keywords: iphone auto lock greyed out,iphone lock screen with notifications,how much does unlock a phone cost,unlock iphone xs without passcode,iphone x iphone xr lock screen,disable parental control,unlock iphone face id wearing mask,bypass ios 14 lock screen,bypass apple store verification,iphone backup password
-thumbnail: https://www.lifewire.com/thmb/cgUXvRRGmHncjkXVnnc2mDDxd-k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AnneParkShedloskytvOS-2d4178dd6b7d46a08c34ab8b750fe23e.jpg
+thumbnail: https://thmb.techidaily.com/1a0a225965c2ce4acfd77f7b81b0abb5e4b211b4f6a739d5a50d45eaa5fd443d.jpg
 ---
 
 ## How to Unlock Apple iPhone XS?

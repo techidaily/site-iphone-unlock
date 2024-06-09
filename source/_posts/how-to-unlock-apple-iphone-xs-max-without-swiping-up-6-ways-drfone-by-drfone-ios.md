@@ -1,7 +1,7 @@
 ---
 title: How To Unlock Apple iPhone XS Max Without Swiping Up? 6 Ways | Dr.fone
-date: 2024-05-19T07:27:31.082Z
-updated: 2024-05-20T07:27:31.082Z
+date: 2024-06-08T08:04:49.633Z
+updated: 2024-06-09T08:04:49.633Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Unlock Apple iPhone XS Max Without Swiping Up? 6 Ways
 excerpt: This article describes How To Unlock Apple iPhone XS Max Without Swiping Up? 6 Ways
 keywords: doctorism unlock review,change country on iphone app store,turn off restricted mode,unlock iphone passcode without computer,how to unlock iphone with broken screen,unlock iphone face id wearing mask,iphone passcode changed itself,change apple id password,how to unlock iphone to use usb accessories
-thumbnail: https://www.lifewire.com/thmb/x5hFLtVYVUkR-_nqhbxS_f11j5E=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/netgear-default-password-list-2619154-b581fdcf136848d29e944638cd2ad444.png
+thumbnail: https://thmb.techidaily.com/3b3d53f3a3456319783aa99ca770516fad2e58dbe2bd45f2ec6f3eb305fb3d58.png
 ---
 
 ## How To Unlock Apple iPhone XS Max Without Swiping Up? 6 Ways

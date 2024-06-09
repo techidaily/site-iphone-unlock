@@ -1,7 +1,7 @@
 ---
 title: In 2024, Complete Guide on Unlocking iPhone 12 with a Broken Screen? | Dr.fone
-date: 2024-05-19T07:27:53.405Z
-updated: 2024-05-20T07:27:53.405Z
+date: 2024-06-08T08:05:12.697Z
+updated: 2024-06-09T08:05:12.697Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Complete Guide on Unlocking iPhone 12 with a Broken Screen?
 excerpt: This article describes Complete Guide on Unlocking iPhone 12 with a Broken Screen?
 keywords: how to unlock iphone 12,change apple id password,what can jailbreak iphone do,iphone x iphone xr lock screen,how to remove face id on iphone 13,how to unlock iphone with itunes
-thumbnail: https://www.lifewire.com/thmb/eHGlVdFJN-X634CkMYdDJQQVhoU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-165567842-58e5bd253df78c51625e84ab.jpg
+thumbnail: https://thmb.techidaily.com/dd1b377f0a177d81939c2e9879a9449aa15d2816c9d71de8279c052980247986.jpg
 ---
 
 ## Complete Guide on Unlocking Apple iPhone 12 with a Broken Screen?

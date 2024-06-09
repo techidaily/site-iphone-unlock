@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on iPhone 6 | Dr.fone
-date: 2024-05-19T07:26:52.436Z
-updated: 2024-05-20T07:26:52.436Z
+date: 2024-06-08T08:04:10.810Z
+updated: 2024-06-09T08:04:10.810Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Fix Auto Lock Greyed Out on iPhone 6
 excerpt: This article describes How To Fix Auto Lock Greyed Out on iPhone 6
 keywords: how to unlock iphone with broken screen,iphone 11 passcode bypass,unlock lost phone,how to remove passcode from iphone,unlock iphone 11 12 13 without passcode,how to unlock iphone without passcode or face id,turn off restricted mode,fix iphone passcode not working
-thumbnail: https://www.lifewire.com/thmb/zjPjlWJTSL68ZSlBHgpVNVEF0Y0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/free-disk-partition-software-tools-2624950-fad3ccc557d34ed89d53eff7538f5fdb.png
+thumbnail: https://thmb.techidaily.com/295eacd64272b4b4a8e96856aef38358e19d3e53299073754d2c1fe5d922072f.png
 ---
 
 ## How To Fix Auto Lock Greyed Out on Apple iPhone 6

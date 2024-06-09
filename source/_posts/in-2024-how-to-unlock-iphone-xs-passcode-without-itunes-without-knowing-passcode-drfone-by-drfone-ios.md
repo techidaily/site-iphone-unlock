@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock iPhone XS Passcode without iTunes without Knowing Passcode? | Dr.fone
-date: 2024-05-19T07:27:30.470Z
-updated: 2024-05-20T07:27:30.470Z
+date: 2024-06-08T08:03:53.694Z
+updated: 2024-06-09T08:03:53.694Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Unlock iPhone XS Passcode without iTunes without Knowing Passcode?
 excerpt: This article describes How to Unlock iPhone XS Passcode without iTunes without Knowing Passcode?
 keywords: turn off restricted mode,forgot iphone pin,unlock iphone screen passcode,how to unlock iphone passcode without computer,open iphone without home button,iphone swipe up not working,factory reset locked iphone without itunes,how to unlock iphone with broken screen
-thumbnail: https://www.lifewire.com/thmb/yPXnCagYB7bKT7uol-AGPozLSS0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPad-Air-5-e11857a8d117450e9e09d770e300a872.jpg
+thumbnail: https://thmb.techidaily.com/1b6976e6cb0861a8e856af8d9b91eb1dc370f068cc6322414a1134e31c0876a0.jpg
 ---
 
 ## How to Unlock Apple iPhone XS Passcode without iTunes without Knowing Passcode?

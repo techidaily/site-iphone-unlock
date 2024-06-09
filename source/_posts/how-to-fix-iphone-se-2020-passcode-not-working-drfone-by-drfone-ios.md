@@ -1,7 +1,7 @@
 ---
 title: How to Fix iPhone SE (2020) Passcode not Working? | Dr.fone
-date: 2024-05-19T07:27:48.089Z
-updated: 2024-05-20T07:27:48.089Z
+date: 2024-06-08T08:05:00.093Z
+updated: 2024-06-09T08:05:00.093Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Fix iPhone SE (2020) Passcode not Working?
 excerpt: This article describes How to Fix iPhone SE (2020) Passcode not Working?
 keywords: forgot locked note password,unlock apple watch,unlock iphone 5 passcode without itunes,remove flashlight from iphone lock screen,factory reset locked iphone without itunes,how to unlock iphone without passcode,how to unlock a found iphone,iphone swipe up not working,unlock iphone face id wearing mask
-thumbnail: https://www.lifewire.com/thmb/TYGiT5X9QiOC8P7-lx0tWOT-IQI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/airpodbatterylevelonandroid-15c1db7e9fac43248d130a42540c12a6.jpg
+thumbnail: https://thmb.techidaily.com/98061f90f0702266772c41039bf7505ea26afb88709675b4845f86d9c07123c1.jpg
 ---
 
 ## How to Fix Apple iPhone SE (2020) Passcode not Working?

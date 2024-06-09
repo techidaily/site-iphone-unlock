@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Apple iPhone X With an Apple Watch & What to Do if It Doesnt Work | Dr.fone
-date: 2024-05-19T07:27:17.736Z
-updated: 2024-05-20T07:27:17.736Z
+date: 2024-06-08T08:04:48.539Z
+updated: 2024-06-09T08:04:48.539Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Unlock Apple iPhone X With an Apple Watch & What to Do if It Doesnt Work
 excerpt: This article describes How to Unlock Apple iPhone X With an Apple Watch & What to Do if It Doesnt Work
 keywords: iphone lock screen with notifications,unlock iphone with apple watch,iphone lost mode unlock,unlock disabled iphone without computer,how much does unlock a phone cost,remove iphone from blacklist
-thumbnail: https://www.lifewire.com/thmb/9P6TB9sqO-6Yq23O2BOj91c-Cvg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-541365354-5c8ad42246e0fb00014a9687.jpg
+thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9fefb2b304db02c765d66484d.jpg
 ---
 
 ## How to Unlock Apple iPhone X With an Apple Watch & What to Do if It Doesn't Work

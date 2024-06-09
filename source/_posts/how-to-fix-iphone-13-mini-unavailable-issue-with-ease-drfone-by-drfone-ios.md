@@ -1,7 +1,7 @@
 ---
 title: How To Fix iPhone 13 mini Unavailable Issue With Ease | Dr.fone
-date: 2024-05-19T07:28:08.118Z
-updated: 2024-05-20T07:28:08.118Z
+date: 2024-06-08T08:04:31.639Z
+updated: 2024-06-09T08:04:31.639Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Fix iPhone 13 mini Unavailable Issue With Ease
 excerpt: This article describes How To Fix iPhone 13 mini Unavailable Issue With Ease
 keywords: ios 17 lock screen,unlock apple watch,change apple id email address,iphone locked to owner,bypass apple store verification,what can jailbreak iphone do
-thumbnail: https://www.lifewire.com/thmb/xgo6tGI-HONOfys81EHMpcUqTKU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-970157966-65f3dd434f3e4dc98e28a635b8cacc87.jpg
+thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325d71d7edbcfdaf185bcde8ae.jpg
 ---
 
 ## How To Fix Apple iPhone 13 mini Unavailable Issue With Ease

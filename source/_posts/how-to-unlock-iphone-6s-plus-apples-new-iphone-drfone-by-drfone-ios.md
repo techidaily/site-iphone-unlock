@@ -1,7 +1,7 @@
 ---
 title: How to Unlock iPhone 6s Plus, Apples New iPhone | Dr.fone
-date: 2024-05-19T07:27:04.216Z
-updated: 2024-05-20T07:27:04.216Z
+date: 2024-06-08T08:03:56.647Z
+updated: 2024-06-09T08:03:56.647Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Unlock iPhone 6s Plus, Apples New iPhone
 excerpt: This article describes How to Unlock iPhone 6s Plus, Apples New iPhone
 keywords: iphone swipe up not working,forgot passcode on iphone,app lock iphone,swipe up to unlock iphone,how to remove face id on iphone 13,how to unlock iphone 12,iphone asking for outlook password,change apple id email address,fix iphone unavailability,change country on iphone app store,iphone 11 passcode bypass
-thumbnail: https://www.lifewire.com/thmb/bUgwWBmVwo2R1WJT-qkM52ppdCc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ipad-pro-pencil-56a533763df78cf77286e0e0.png
+thumbnail: https://thmb.techidaily.com/ef69c6cfc05813b51fd415fbeca882846dc473b99199e876bd020898984fe0d1.png
 ---
 
 ## How to Unlock Apple iPhone 6s Plus, Apple's New iPhone

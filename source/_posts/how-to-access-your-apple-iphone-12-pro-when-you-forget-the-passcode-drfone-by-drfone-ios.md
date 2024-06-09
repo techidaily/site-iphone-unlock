@@ -1,7 +1,7 @@
 ---
 title: How to Access Your Apple iPhone 12 Pro When You Forget the Passcode? | Dr.fone
-date: 2024-05-19T07:28:00.852Z
-updated: 2024-05-20T07:28:00.852Z
+date: 2024-06-08T08:04:52.767Z
+updated: 2024-06-09T08:04:52.767Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Access Your Apple iPhone 12 Pro When You Forget the Passcode?
 excerpt: This article describes How to Access Your Apple iPhone 12 Pro When You Forget the Passcode?
 keywords: how to unlock iphone without passcode or face id,unlock iphone xs without passcode,forgot iphone pin,iphone locked to owner,how to unlock iphone with itunes,fix iphone unavailability,iphone 11 passcode bypass,how to turn off find my iphone when phone is broken,forgot locked note password
-thumbnail: https://www.lifewire.com/thmb/CJ67ETb2O4uuEo78S2gUHwX4efQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TheWolfAmongUsBigby-793544cded2749488ae1d20113d8d73a.jpg
+thumbnail: https://thmb.techidaily.com/b50fe0cbd9cbb19ed8809a46e26fef3c1e35eecf8f5029c9276b28fff4f6f7be.jpg
 ---
 
 ## How to Access Your Apple iPhone 12 Pro When You Forget the Passcode?

@@ -1,7 +1,7 @@
 ---
 title: In 2024, iPhone 8 Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone
-date: 2024-05-19T07:27:26.650Z
-updated: 2024-05-20T07:27:26.650Z
+date: 2024-06-08T08:05:12.906Z
+updated: 2024-06-09T08:05:12.906Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes iPhone 8 Asking for Passcode after iOS 17/14 Update, What to Do?
 excerpt: This article describes iPhone 8 Asking for Passcode after iOS 17/14 Update, What to Do?
 keywords: remove flashlight from iphone lock screen,how to unlock iphone 7 without passcode,forgot passcode iphone 6,iphone 11 passcode bypass,disable parental control,iphone locked to owner
-thumbnail: https://www.lifewire.com/thmb/15bm4Bz9ubVpUvwkdmj9lzc-OUM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsung-un65nu7100fxza-aaa-5b3bf3f1c9e77c00370afe54.jpg
+thumbnail: https://thmb.techidaily.com/2ca46c2a129dc1360b713c04a30f75e3e36c2cb0f971400d44a0a7430d69515d.jpg
 ---
 
 ## Apple iPhone 8 Asking for Passcode after iOS 17/14 Update, What to Do?
