@@ -1,7 +1,7 @@
 ---
 title: In 2024, Learn How To Lock Stolen Your iPhone 8 Properly | Dr.fone
-date: 2024-05-19T07:27:26.685Z
-updated: 2024-05-20T07:27:26.685Z
+date: 2024-06-15T18:11:05.642Z
+updated: 2024-06-16T18:11:05.642Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Learn How To Lock Stolen Your iPhone 8 Properly
 excerpt: This article describes Learn How To Lock Stolen Your iPhone 8 Properly
 keywords: forgot passcode on iphone,how to unlock iphone without passcode,change apple id on ipad,disable parental control,fix iphone unavailability,unlock disabled iphone 13,how to remove passcode from iphone,iphone 11 passcode bypass
-thumbnail: https://www.lifewire.com/thmb/_JoO871Fn8djNW5YRDt3xrRs7Kg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-see-who-viewed-your-tiktok-5271090-e2cb663541b8484a8a2e80ffbdd98db3.jpg
+thumbnail: https://thmb.techidaily.com/daed1459b71f2c11118ff363b82166df3949711b8db94af4f668119ff4d60331.jpg
 ---
 
 ## Learn How To Lock Stolen Your Apple iPhone 8 Properly

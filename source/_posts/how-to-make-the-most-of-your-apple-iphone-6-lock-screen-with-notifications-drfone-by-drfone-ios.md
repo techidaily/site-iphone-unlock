@@ -1,7 +1,7 @@
 ---
 title: How to Make the Most of Your Apple iPhone 6 Lock Screen with Notifications? | Dr.fone
-date: 2024-05-19T07:26:51.641Z
-updated: 2024-05-20T07:26:51.641Z
+date: 2024-06-15T18:12:01.239Z
+updated: 2024-06-16T18:12:01.239Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Make the Most of Your Apple iPhone 6 Lock Screen with Notifications?
 excerpt: This article describes How to Make the Most of Your Apple iPhone 6 Lock Screen with Notifications?
 keywords: iphone passcode changed itself,iphone lost mode unlock,iphone is disabled,how to create new apple id,forgot iphone pin,iphone auto lock greyed out,forgot passcode on iphone,apple id not active,iphone 11 passcode bypass
-thumbnail: https://www.lifewire.com/thmb/WOQtH1Yeu3Y77xTI-f6-N4Xb6Kc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SetaLiveWallpaperinWindows11-b8ca3913592d4a5790808131bf8f34e1.jpg
+thumbnail: https://thmb.techidaily.com/dc0976bf992fc8f3795e090c13f66cb1c6f1455915fe3cbbbf65ceba836d3f9e.jpg
 ---
 
 ## How to Make the Most of Your Apple iPhone 6 Lock Screen with Notifications?

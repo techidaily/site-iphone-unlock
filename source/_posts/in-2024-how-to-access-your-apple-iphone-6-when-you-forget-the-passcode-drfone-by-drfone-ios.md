@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Access Your Apple iPhone 6 When You Forget the Passcode? | Dr.fone
-date: 2024-05-19T07:26:53.390Z
-updated: 2024-05-20T07:26:53.390Z
+date: 2024-06-15T18:10:32.664Z
+updated: 2024-06-16T18:10:32.664Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Access Your Apple iPhone 6 When You Forget the Passcode?
 excerpt: This article describes How to Access Your Apple iPhone 6 When You Forget the Passcode?
 keywords: open iphone without home button,unlock iphone 5 passcode without itunes,how to create new apple id,unlock iphone screen passcode,how to unlock iphone to use usb accessories,unlock iphone face id wearing mask,unlock iphone 14,unlock disabled iphone 13,unlock iphone with apple watch
-thumbnail: https://www.lifewire.com/thmb/0ReomQ5wrb7WSffrn0hDnZKzgPU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5-things-to-consider-before-buying-a-gaming-laptop-5235493-145a8c941b9f46e99d9a90bdee387893.jpg
+thumbnail: https://thmb.techidaily.com/058506d9dfd3499ce050a0189a74f361c7f5cd9f1ab1cb47d3f2f93a3bce610c.jpg
 ---
 
 ## How to Access Your Apple iPhone 6 When You Forget the Passcode?

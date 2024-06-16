@@ -1,7 +1,7 @@
 ---
 title: In 2024, Learn How To Lock Stolen Your Apple iPhone 12 mini Properly | Dr.fone
-date: 2024-04-07T21:18:13.152Z
-updated: 2024-04-08T21:18:13.152Z
+date: 2024-06-15T18:13:55.339Z
+updated: 2024-06-16T18:13:55.339Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Learn How To Lock Stolen Your Apple iPhone 12 mini Properly
 excerpt: This article describes Learn How To Lock Stolen Your Apple iPhone 12 mini Properly
 keywords: change apple id password,open iphone without home button,how to unlock iphone 12,how to turn off find my iphone when phone is broken,iphone asking for outlook password,unlock lost phone,doctorism unlock review,change country on iphone app store,remove iphone from blacklist
-thumbnail: https://www.lifewire.com/thmb/2zy8MTQaG4uUA0T7RXXxi-EpxMA=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps5controller-0d702b25f7fa47b482999811cfc7af39.jpg
+thumbnail: https://thmb.techidaily.com/36cb4ddf3fc78c71836e11f4a803426f35040ec4e34c37b6c57cca04ad1d4891.jpg
 ---
 
 ## Learn How To Lock Stolen Your Apple iPhone 12 mini Properly

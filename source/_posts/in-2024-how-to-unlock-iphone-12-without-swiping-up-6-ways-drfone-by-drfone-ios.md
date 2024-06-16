@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Unlock iPhone 12 Without Swiping Up? 6 Ways | Dr.fone
-date: 2024-05-19T07:27:53.736Z
-updated: 2024-05-20T07:27:53.736Z
+date: 2024-06-15T18:11:56.986Z
+updated: 2024-06-16T18:11:56.986Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Unlock iPhone 12 Without Swiping Up? 6 Ways
 excerpt: This article describes How To Unlock iPhone 12 Without Swiping Up? 6 Ways
 keywords: how to remove face id on iphone 13,factory reset locked iphone without itunes,unlock iphone 11 12 13 without passcode,unlock iphone screen passcode,how many attempts to unlock iphone,iphone 11 passcode bypass,how to unlock iphone with itunes,how to turn off find my iphone when phone is broken
-thumbnail: https://www.lifewire.com/thmb/qiktAkdIlSu9VsdFjM1R46-msZU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/editing-5c8a53d446e0fb0001336621.png
+thumbnail: https://thmb.techidaily.com/dfd36bdece1f9de4c3b950ac0cec685d6ee5d1281721c2dd1a2340c4240b4f62.png
 ---
 
 ## How To Unlock Apple iPhone 12 Without Swiping Up? 6 Ways

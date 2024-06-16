@@ -1,7 +1,7 @@
 ---
 title: In 2024, 3 Ways to Unlock Apple iPhone 8 without Passcode or Face ID | Dr.fone
-date: 2024-05-19T07:27:26.096Z
-updated: 2024-05-20T07:27:26.096Z
+date: 2024-06-15T18:11:05.685Z
+updated: 2024-06-16T18:11:05.686Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes 3 Ways to Unlock Apple iPhone 8 without Passcode or Face ID
 excerpt: This article describes 3 Ways to Unlock Apple iPhone 8 without Passcode or Face ID
 keywords: fix iphone passcode not working,iphone backup unlocker,iphone lock screen with notifications,unlock iphone xs without passcode,unlock iphone screen passcode,forgot locked note password,how to unlock iphone without passcode or face id
-thumbnail: https://www.lifewire.com/thmb/UtN0GE8QhLupWXrar0DikfJdamQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/cq5dam.web.1280.1280-3-5c2a5dc746e0fb0001d115f0.jpeg
+thumbnail: https://thmb.techidaily.com/4d13682289fd093707f3e488098e8b68b405e6325695bb2b5c751424b8cb1104.jpeg
 ---
 
 ## 3 Ways to Unlock Apple iPhone 8 without Passcode or Face ID

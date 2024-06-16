@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on Apple iPhone 11 | Dr.fone
-date: 2024-05-19T07:27:37.263Z
-updated: 2024-05-20T07:27:37.263Z
+date: 2024-06-15T18:13:28.961Z
+updated: 2024-06-16T18:13:28.961Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Fix Auto Lock Greyed Out on Apple iPhone 11
 excerpt: This article describes How To Fix Auto Lock Greyed Out on Apple iPhone 11
 keywords: unlock iphone xs without passcode,fix iphone backup password never set but still asking,unlock iphone 11 12 13 without passcode,unlock iphone without passcode,how to unlock iphone to use usb accessories,iphone auto lock greyed out,remove flashlight from iphone lock screen,iphone lock screen with notifications,app lock iphone,unlock iphone 5 passcode without itunes,doctorism unlock review
-thumbnail: https://www.lifewire.com/thmb/oj9f0wuX7XGgnL3sQwetCIX5y6c=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-fix-it-when-pngs-wont-open-in-windows-11-41107f6a55db4318b6c2b64437de5b75.jpg
+thumbnail: https://thmb.techidaily.com/dbcd91d398192e490625be17ab539ce0390575e1cb979a99a698fecfb5d28b74.jpg
 ---
 
 ## How To Fix Auto Lock Greyed Out on Apple iPhone 11

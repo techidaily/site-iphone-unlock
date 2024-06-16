@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Apple iPhone 6 Passcode without iTunes without Knowing Passcode? | Dr.fone
-date: 2024-05-19T07:26:51.919Z
-updated: 2024-05-20T07:26:51.919Z
+date: 2024-06-15T18:11:02.809Z
+updated: 2024-06-16T18:11:02.809Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Unlock Apple iPhone 6 Passcode without iTunes without Knowing Passcode?
 excerpt: This article describes How to Unlock Apple iPhone 6 Passcode without iTunes without Knowing Passcode?
 keywords: forgot passcode iphone 6,turn off restricted mode,ios 17 lock screen,unlock disabled iphone 13,unlock iphone passcode,how to unlock a found iphone,forgot locked note password,iphone lost mode unlock,iphone 11 passcode bypass
-thumbnail: https://www.lifewire.com/thmb/eYqxG8EorGAmKcW0zOiG4PnWFkw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/homeweatherstation-34f9e9a9aaf64446a8f21ff05991c079.jpg
+thumbnail: https://thmb.techidaily.com/9530a6a7ae2d76ba480cbada332a623fd47509bd2903fa4cfebcaa0c3ca3de95.jpg
 ---
 
 ## How to Unlock Apple iPhone 6 Passcode without iTunes without Knowing Passcode?

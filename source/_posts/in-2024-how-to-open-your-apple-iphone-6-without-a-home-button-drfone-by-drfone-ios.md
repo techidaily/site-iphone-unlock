@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Open Your Apple iPhone 6 Without a Home Button | Dr.fone
-date: 2024-05-19T07:26:53.588Z
-updated: 2024-05-20T07:26:53.588Z
+date: 2024-06-15T18:10:46.662Z
+updated: 2024-06-16T18:10:46.662Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Open Your Apple iPhone 6 Without a Home Button
 excerpt: This article describes How To Open Your Apple iPhone 6 Without a Home Button
 keywords: apple id not active,change country on iphone app store,app lock iphone,iphone locked to owner,iphone swipe up not working,bypass iphone passcode,how to unlock an iphone 13,how to unlock iphone without passcode or face id,how to unlock iphone to use usb accessories,forgot passcode iphone 6
-thumbnail: https://www.lifewire.com/thmb/cg-pvlQ-M_jrTyGYcdlhXW_MCvc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/inside-impero-cinema--central-region--asmara--eritrea----1174900385-f49e10d112a6451c89a8310bdb0ecc4e.jpg
+thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242da2e6ee8d5c9aeccc24af52d.jpg
 ---
 
 ## How To Open Your Apple iPhone 6 Without a Home Button

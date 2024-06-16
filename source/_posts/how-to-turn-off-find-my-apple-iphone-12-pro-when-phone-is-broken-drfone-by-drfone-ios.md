@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Find My Apple iPhone 12 Pro when Phone is Broken? | Dr.fone
-date: 2024-05-19T07:28:00.794Z
-updated: 2024-05-20T07:28:00.794Z
+date: 2024-06-15T18:12:53.317Z
+updated: 2024-06-16T18:12:53.317Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Turn Off Find My Apple iPhone 12 Pro when Phone is Broken?
 excerpt: This article describes How to Turn Off Find My Apple iPhone 12 Pro when Phone is Broken?
 keywords: apple id not active,iphone swipe up not working,change apple id on ipad,how to unlock iphone passcode without computer,unlock iphone 11 12 13 without passcode,unlock iphone 5 passcode without itunes,unlock disabled iphone without itunes,unlock iphone passcode without computer,forgot iphone pin,how to unlock iphone with broken screen,how to remove face id on iphone 13,bypass iphone passcode
-thumbnail: https://www.lifewire.com/thmb/M6MEEf2A7TVTzphPjYFZQ34ewjs=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/man-attaching-action-camera-to-chest-664655587-5c8c2559c9e77c0001ac184b.jpg
+thumbnail: https://thmb.techidaily.com/9420d8c67dc649498f45244e433ec706e66933c2bf2f2b4b3c5585601cba7b98.jpg
 ---
 
 ## How to Turn Off Find My Apple iPhone 12 Pro when Phone is Broken?

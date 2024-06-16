@@ -1,7 +1,7 @@
 ---
 title: How To Change Your Apple ID Password On your Apple iPhone 6s | Dr.fone
-date: 2024-05-19T07:26:59.012Z
-updated: 2024-05-20T07:26:59.012Z
+date: 2024-06-15T18:13:11.898Z
+updated: 2024-06-16T18:13:11.898Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Change Your Apple ID Password On your Apple iPhone 6s
 excerpt: This article describes How To Change Your Apple ID Password On your Apple iPhone 6s
 keywords: forgot iphone pin,unlock iphone with apple watch,iphone x iphone xr lock screen,how to create new apple id,unlock lost phone,forgot passcode on iphone,fix iphone passcode not working
-thumbnail: https://www.lifewire.com/thmb/2zy8MTQaG4uUA0T7RXXxi-EpxMA=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps5controller-0d702b25f7fa47b482999811cfc7af39.jpg
+thumbnail: https://thmb.techidaily.com/36cb4ddf3fc78c71836e11f4a803426f35040ec4e34c37b6c57cca04ad1d4891.jpg
 ---
 
 ## How To Change Your Apple ID Password On your Apple iPhone 6s

@@ -1,7 +1,7 @@
 ---
 title: In 2024, 7 Ways to Lock Apps on iPhone XR and iPad Securely | Dr.fone
-date: 2024-05-19T07:27:36.163Z
-updated: 2024-05-20T07:27:36.163Z
+date: 2024-06-15T18:14:02.863Z
+updated: 2024-06-16T18:14:02.863Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes 7 Ways to Lock Apps on iPhone XR and iPad Securely
 excerpt: This article describes 7 Ways to Lock Apps on iPhone XR and iPad Securely
 keywords: how to unlock a found iphone,unlock iphone 14,unlock apple watch,iphone x iphone xr lock screen,fix iphone passcode not working,erase iphone when locked,how to create new apple id
-thumbnail: https://www.lifewire.com/thmb/hXsx55Jq_t9VhBh8GdAq7SriZ7k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-check-ram-in-android-5192499-8e8b91b6d94b4ab98c3bfa9ba41a4f66.jpg
+thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5486b2d51ee08c850ba80fdd.jpg
 ---
 
 ## 7 Ways to Lock Apps on Apple iPhone XR and iPad Securely

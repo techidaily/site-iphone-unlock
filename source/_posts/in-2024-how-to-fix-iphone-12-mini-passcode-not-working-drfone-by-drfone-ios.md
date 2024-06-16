@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Fix iPhone 12 mini Passcode not Working? | Dr.fone
-date: 2024-05-19T07:27:56.456Z
-updated: 2024-05-20T07:27:56.456Z
+date: 2024-06-15T18:14:01.305Z
+updated: 2024-06-16T18:14:01.305Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Fix iPhone 12 mini Passcode not Working?
 excerpt: This article describes How to Fix iPhone 12 mini Passcode not Working?
 keywords: how to turn off find my iphone when phone is broken,factory reset locked iphone without itunes,iphone x iphone xr lock screen,unlock apple watch,iphone passcode not working after update ios 13,forgot passcode on iphone,turn off restricted mode,unlock iphone 11 12 13 without passcode,how to unlock an iphone 13,unlock iphone screen passcode
-thumbnail: https://www.lifewire.com/thmb/z0FcObDyImu70neTKRlkwzqQTeM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-17-best-graphic-design-software-2024-1dd6c15b34124b25b65e4b096e4e6ba4.jpg
+thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a044e30e2240a2331d8bec84.jpg
 ---
 
 ## How to Fix Apple iPhone 12 mini Passcode not Working?

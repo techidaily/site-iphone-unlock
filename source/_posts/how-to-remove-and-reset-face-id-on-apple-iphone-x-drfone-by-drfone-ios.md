@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on Apple iPhone X | Dr.fone
-date: 2024-05-19T07:27:17.299Z
-updated: 2024-05-20T07:27:17.299Z
+date: 2024-06-15T18:14:01.198Z
+updated: 2024-06-16T18:14:01.198Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Remove and Reset Face ID on Apple iPhone X
 excerpt: This article describes How to Remove and Reset Face ID on Apple iPhone X
 keywords: how to remove passcode from iphone,unlock iphone 14,solve iphone randomly asking for apple id,iphone backup unlocker,iphone passcode not working after update ios 13,forgot locked note password
-thumbnail: https://www.lifewire.com/thmb/5dWfE2pdmNCU9qpfDVc7QhYieRw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/X-Logo-on-Phone-35c83db6a3c34b689ab069ff50b96bcc.jpg
+thumbnail: https://thmb.techidaily.com/93e8b8eb6bc88169936766a6461fe23e663eb59793bd9736b13ed221555fa6ea.jpg
 ---
 
 ## How to Remove and Reset Face ID on Apple iPhone X

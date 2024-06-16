@@ -1,7 +1,7 @@
 ---
 title: How to Access Your iPhone 6 When You Forget the Passcode? | Dr.fone
-date: 2024-05-19T07:26:52.405Z
-updated: 2024-05-20T07:26:52.405Z
+date: 2024-06-15T18:13:07.747Z
+updated: 2024-06-16T18:13:07.747Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Access Your iPhone 6 When You Forget the Passcode?
 excerpt: This article describes How to Access Your iPhone 6 When You Forget the Passcode?
 keywords: iphone is disabled,app lock iphone,unlock iphone 14,how to unlock iphone to use usb accessories,unlock iphone xs without passcode,disable parental control,how to unlock an iphone 13,factory reset locked iphone without itunes,total wireless unlock
-thumbnail: https://www.lifewire.com/thmb/zS1KzodK4IykQGo2jxig8PQhqso=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/apps-like-tiktok-the-best-alternatives-in-2020-9f3611f635da4198956585133eaf01cb.jpg
+thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd1b5268a8b5026540ff9ee16.jpg
 ---
 
 ## How to Access Your Apple iPhone 6 When You Forget the Passcode?

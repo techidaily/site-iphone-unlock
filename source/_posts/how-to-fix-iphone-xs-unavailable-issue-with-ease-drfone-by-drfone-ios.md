@@ -1,7 +1,7 @@
 ---
 title: How To Fix iPhone XS Unavailable Issue With Ease | Dr.fone
-date: 2024-05-19T07:27:27.915Z
-updated: 2024-05-20T07:27:27.915Z
+date: 2024-06-15T18:11:28.639Z
+updated: 2024-06-16T18:11:28.639Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Fix iPhone XS Unavailable Issue With Ease
 excerpt: This article describes How To Fix iPhone XS Unavailable Issue With Ease
 keywords: erase iphone when locked,iphone locked to owner,how to remove face id on iphone 13,iphone is disabled,unlock disabled iphone 13,fix iphone backup password never set but still asking,iphone backup password
-thumbnail: https://www.lifewire.com/thmb/BFplsHvF2W-tN_GPJVyxOAwi8YM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/E-reader-57b936e05f9b58cdfd3e07e1.jpg
+thumbnail: https://thmb.techidaily.com/98cce883f8c6d6df0bb852da7eb40767e5514e4304dfa4fcbf005c1298bed966.jpg
 ---
 
 ## How To Fix Apple iPhone XS Unavailable Issue With Ease

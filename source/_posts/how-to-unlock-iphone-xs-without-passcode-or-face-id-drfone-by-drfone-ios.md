@@ -1,7 +1,7 @@
 ---
 title: How to Unlock iPhone XS without Passcode or Face ID | Dr.fone
-date: 2024-05-19T07:27:28.103Z
-updated: 2024-05-20T07:27:28.103Z
+date: 2024-06-15T18:14:04.500Z
+updated: 2024-06-16T18:14:04.500Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Unlock iPhone XS without Passcode or Face ID
 excerpt: This article describes How to Unlock iPhone XS without Passcode or Face ID
 keywords: how to unlock iphone without passcode or face id,swipe up to unlock iphone,get into locked iphone,iphone 15 unlock,iphone passcode not working after update ios 13,unlock lost phone,unlock iphone without passcode,iphone asking for outlook password,how to unlock iphone passcode without computer
-thumbnail: https://www.lifewire.com/thmb/znoWsXihZpXFxhbw3VKHAcQ2O3s=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1443716794-411cf2c5404b4f35b2a1153826e5a280.jpg
+thumbnail: https://thmb.techidaily.com/06c74021872dcc3b0ce900f997f142db31fade534149e5bce6ee9984dd257b98.jpg
 ---
 
 ## How to Unlock Apple iPhone XS without Passcode or Face ID

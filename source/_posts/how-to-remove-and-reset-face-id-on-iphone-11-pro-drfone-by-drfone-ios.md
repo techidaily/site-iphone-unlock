@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on iPhone 11 Pro | Dr.fone
-date: 2024-05-19T07:27:45.165Z
-updated: 2024-05-20T07:27:45.165Z
+date: 2024-06-15T18:13:55.390Z
+updated: 2024-06-16T18:13:55.390Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Remove and Reset Face ID on iPhone 11 Pro
 excerpt: This article describes How to Remove and Reset Face ID on iPhone 11 Pro
 keywords: erase iphone when locked,iphone swipe up not working,bypass apple store verification,get into locked iphone,fix iphone unavailability,change apple id on ipad,how much does unlock a phone cost,unlock iphone with apple watch,change apple id email address,doctorism unlock review,unlock iphone screen passcode
-thumbnail: https://www.lifewire.com/thmb/lwyffvP10dLE4EinuE3HUVO38bo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1342255561-483b636ee00f40a1b3d91d1969b1aaf6.jpg
+thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75aedffe72b83d7d3b1179de6.jpg
 ---
 
 ## How to Remove and Reset Face ID on Apple iPhone 11 Pro

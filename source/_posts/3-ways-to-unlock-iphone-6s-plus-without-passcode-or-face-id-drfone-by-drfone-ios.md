@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Unlock iPhone 6s Plus without Passcode or Face ID | Dr.fone
-date: 2024-05-19T07:27:04.750Z
-updated: 2024-05-20T07:27:04.750Z
+date: 2024-06-15T18:10:35.685Z
+updated: 2024-06-16T18:10:35.685Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes 3 Ways to Unlock iPhone 6s Plus without Passcode or Face ID
 excerpt: This article describes 3 Ways to Unlock iPhone 6s Plus without Passcode or Face ID
 keywords: doctorism unlock review,unlock iphone screen passcode,how to unlock iphone 12,iphone lock screen with notifications,unlock iphone face id wearing mask,iphone passcode changed itself,solve iphone randomly asking for apple id
-thumbnail: https://www.lifewire.com/thmb/Ieqo8YRlMCtlE-OyiprzvT0zaaY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1139232374-700d343900854115ad26acf3f1dd80b3.jpg
+thumbnail: https://thmb.techidaily.com/675815b145dcafd84fe359ee4ac52511e6c57ba8907f6c40cdafb2c11a8f5a83.jpg
 ---
 
 ## 3 Ways to Unlock Apple iPhone 6s Plus without Passcode or Face ID

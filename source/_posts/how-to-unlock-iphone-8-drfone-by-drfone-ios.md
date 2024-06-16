@@ -1,7 +1,7 @@
 ---
 title: How to Unlock iPhone 8? | Dr.fone
-date: 2024-05-19T07:27:24.787Z
-updated: 2024-05-20T07:27:24.787Z
+date: 2024-06-15T18:13:37.681Z
+updated: 2024-06-16T18:13:37.681Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Unlock iPhone 8?
 excerpt: This article describes How to Unlock iPhone 8?
 keywords: iphone is disabled,how many attempts to unlock iphone,get out of security lockout,how to unlock iphone with itunes,iphone backup unlocker,fix iphone unavailability
-thumbnail: https://www.lifewire.com/thmb/jNpQ-FANgbEnW9RjbyV2cn6aRhs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-10-best-password-managers-of-2022-6543213-7650bf3ab2eb41a08dbee8713ce811e3.jpg
+thumbnail: https://thmb.techidaily.com/0f5fc285546b265c973fbaa96cd3591b73387ac3a0f71577bc77fa3f28f478c0.jpg
 ---
 
 ## How to Unlock Apple iPhone 8?

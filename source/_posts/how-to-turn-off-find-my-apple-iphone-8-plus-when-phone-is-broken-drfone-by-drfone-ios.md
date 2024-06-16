@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Find My Apple iPhone 8 Plus when Phone is Broken? | Dr.fone
-date: 2024-05-19T07:27:20.616Z
-updated: 2024-05-20T07:27:20.616Z
+date: 2024-06-15T18:10:38.854Z
+updated: 2024-06-16T18:10:38.854Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Turn Off Find My Apple iPhone 8 Plus when Phone is Broken?
 excerpt: This article describes How to Turn Off Find My Apple iPhone 8 Plus when Phone is Broken?
 keywords: ios 17 lock screen,fix iphone backup password never set but still asking,unlock apple watch,how to unlock iphone with itunes,iphone is disabled,remove flashlight from iphone lock screen
-thumbnail: https://www.lifewire.com/thmb/HNtneePKuJeaZXX7qZjEwvmSz6M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Flora_and_Son-f6517d3de531487e89f5e0e99192d13f.jpg
+thumbnail: https://thmb.techidaily.com/4815bdc4b07f62378c934e8844c6ab3ed5ccd8bb0ecbd12c41105ddecee78795.jpg
 ---
 
 ## How to Turn Off Find My Apple iPhone 8 Plus when Phone is Broken?

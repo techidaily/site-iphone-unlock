@@ -1,7 +1,7 @@
 ---
 title: In 2024, Forgot Apple iPhone 13 Backup Password? Heres What to Do | Dr.fone
-date: 2024-05-19T07:28:06.043Z
-updated: 2024-05-20T07:28:06.043Z
+date: 2024-06-15T18:12:13.486Z
+updated: 2024-06-16T18:12:13.486Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Forgot Apple iPhone 13 Backup Password? Heres What to Do
 excerpt: This article describes Forgot Apple iPhone 13 Backup Password? Heres What to Do
 keywords: iphone auto lock greyed out,disable parental control,how to remove face id on iphone 13,how to unlock iphone passcode without computer,iphone 15 unlock,iphone asking for outlook password,iphone is disabled,reset iphone backup password,unlock disabled iphone without computer
-thumbnail: https://www.lifewire.com/thmb/crqf7aw9F6RC6VSVWVhQdSAcGQg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/duet-c82ee94b39e24788bcfd51d1eea24288.jpg
+thumbnail: https://thmb.techidaily.com/cc4de72d7f182f924611ffcdd9be6d67698446b35913acbf3e4fc8c5af445646.jpg
 ---
 
 ## Forgot Apple iPhone 13 Backup Password? Here's What to Do

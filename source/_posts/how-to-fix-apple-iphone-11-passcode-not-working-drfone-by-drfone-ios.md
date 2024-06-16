@@ -1,7 +1,7 @@
 ---
 title: How to Fix Apple iPhone 11 Passcode not Working? | Dr.fone
-date: 2024-05-19T07:27:37.039Z
-updated: 2024-05-20T07:27:37.039Z
+date: 2024-06-15T18:10:32.578Z
+updated: 2024-06-16T18:10:32.578Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Fix Apple iPhone 11 Passcode not Working?
 excerpt: This article describes How to Fix Apple iPhone 11 Passcode not Working?
 keywords: factory reset locked iphone without itunes,unlock iphone passcode without computer,how to unlock a found iphone,fix iphone passcode not working,open iphone without home button,how to turn off find my iphone when phone is broken,how to unlock an iphone 13
-thumbnail: https://www.lifewire.com/thmb/0FZf3k28kLauMvGO0aGhDI7aaYY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sb10069770n-003-56a104403df78cafdaa7dd48-ba41d70c51114343aaa38409d9cdfc3f.jpg
+thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad25662873342662329d5363509351a52f0.jpg
 ---
 
 ## How to Fix Apple iPhone 11 Passcode not Working?

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Access Your Apple iPhone 12 mini When You Forget the Passcode? | Dr.fone
-date: 2024-05-19T07:27:55.909Z
-updated: 2024-05-20T07:27:55.909Z
+date: 2024-06-15T18:12:43.498Z
+updated: 2024-06-16T18:12:43.498Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Access Your Apple iPhone 12 mini When You Forget the Passcode?
 excerpt: This article describes How to Access Your Apple iPhone 12 mini When You Forget the Passcode?
 keywords: forgot iphone pin,unlock lost phone,how to unlock iphone with itunes,fix iphone backup password never set but still asking,how to unlock iphone to use usb accessories,apple id not active,erase iphone when locked
-thumbnail: https://www.lifewire.com/thmb/9RF2k5zJ8slFGgduRb1qj6IFxoo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-77744394-e5f79596e54a4ba6a914eed31be7efc4.jpg
+thumbnail: https://thmb.techidaily.com/99f8be9be102276bc593db3bcc6b07419f9816f2452ed4f5c2e0bd34aa16b628.jpg
 ---
 
 ## How to Access Your Apple iPhone 12 mini When You Forget the Passcode?

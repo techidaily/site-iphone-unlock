@@ -1,7 +1,7 @@
 ---
 title: How To Unlock Apple iPhone 6s Plus Without Swiping Up? 6 Ways | Dr.fone
-date: 2024-05-19T07:27:03.474Z
-updated: 2024-05-20T07:27:03.474Z
+date: 2024-06-15T18:10:33.827Z
+updated: 2024-06-16T18:10:33.827Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Unlock Apple iPhone 6s Plus Without Swiping Up? 6 Ways
 excerpt: This article describes How To Unlock Apple iPhone 6s Plus Without Swiping Up? 6 Ways
 keywords: unlock iphone 14,app lock iphone,remove flashlight from iphone lock screen,forgot iphone pin,forgot passcode iphone 6,unlock disabled iphone 13,iphone lock screen with notifications,how to unlock iphone without passcode or face id
-thumbnail: https://www.lifewire.com/thmb/lKoxPMpdBOHt8yxn5M8d3rrvNWY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iOS-wwdc-7d655ca37a3b43b99fd9dac09bec13c4.jpg
+thumbnail: https://thmb.techidaily.com/d8f58ce885808b79b129b3a2207409d6b0df7e72b7b5c93436a642cc91c8c39d.jpg
 ---
 
 ## How To Unlock Apple iPhone 6s Plus Without Swiping Up? 6 Ways

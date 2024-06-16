@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Apple iPhone 6s Plus with a Mask On | Dr.fone
-date: 2024-05-19T07:27:05.606Z
-updated: 2024-05-20T07:27:05.606Z
+date: 2024-06-15T18:11:47.467Z
+updated: 2024-06-16T18:11:47.467Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Unlock Apple iPhone 6s Plus with a Mask On
 excerpt: This article describes How to Unlock Apple iPhone 6s Plus with a Mask On
 keywords: what can jailbreak iphone do,bypass ios 14 lock screen,erase iphone when locked,fix iphone backup password never set but still asking,app lock iphone,unlock iphone 11 12 13 without passcode
-thumbnail: https://www.lifewire.com/thmb/lwyffvP10dLE4EinuE3HUVO38bo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1342255561-483b636ee00f40a1b3d91d1969b1aaf6.jpg
+thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75aedffe72b83d7d3b1179de6.jpg
 ---
 
 ## How to Unlock Apple iPhone 6s Plus with a Mask On

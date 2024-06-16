@@ -1,7 +1,7 @@
 ---
 title: How to Unlock iPhone XR with a Mask On | Dr.fone
-date: 2024-05-19T07:27:35.310Z
-updated: 2024-05-20T07:27:35.310Z
+date: 2024-06-15T18:11:16.020Z
+updated: 2024-06-16T18:11:16.020Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Unlock iPhone XR with a Mask On
 excerpt: This article describes How to Unlock iPhone XR with a Mask On
 keywords: doctorism unlock review,bypass ios 14 lock screen,what can jailbreak iphone do,remove device supervision from iphone,unlock iphone xs without passcode,forgot passcode on iphone,unlock apple watch
-thumbnail: https://www.lifewire.com/thmb/oKncwoTVFBBV6ytT92nLRJt-PSI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/social-media-text-588a94263df78caebc620f05.jpg
+thumbnail: https://thmb.techidaily.com/53f3a3394ff2579b0b4baf68462fcda182f1a767bab5dec28fa2cd5b42632e26.jpg
 ---
 
 ## How to Unlock Apple iPhone XR with a Mask On

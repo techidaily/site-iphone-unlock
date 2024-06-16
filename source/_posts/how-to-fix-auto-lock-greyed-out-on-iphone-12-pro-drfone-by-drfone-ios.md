@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on iPhone 12 Pro | Dr.fone
-date: 2024-05-19T07:28:01.605Z
-updated: 2024-05-20T07:28:01.605Z
+date: 2024-06-15T18:13:08.900Z
+updated: 2024-06-16T18:13:08.900Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Fix Auto Lock Greyed Out on iPhone 12 Pro
 excerpt: This article describes How To Fix Auto Lock Greyed Out on iPhone 12 Pro
 keywords: iphone x iphone xr lock screen,app lock iphone,iphone swipe up not working,iphone backup unlocker,how many attempts to unlock iphone,bypass ios 14 lock screen,erase iphone when locked,unlock apple watch,how much does unlock a phone cost,unlock iphone screen passcode,factory reset locked iphone without itunes
-thumbnail: https://www.lifewire.com/thmb/DHxaJkZu-_13cCciVcRs3Mq0nj4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/012_how-to-make-video-call-on-android-bd93ab594aa648c7977f4c1ecf42c85b.jpg
+thumbnail: https://thmb.techidaily.com/502b1cdc938497dc65859bd4dea7388cbc83b5388aae8627911832c708fd7626.jpg
 ---
 
 ## How To Fix Auto Lock Greyed Out on Apple iPhone 12 Pro

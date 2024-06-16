@@ -1,7 +1,7 @@
 ---
 title: How to Fix iPhone 6 Plus Passcode not Working? | Dr.fone
-date: 2024-05-19T07:26:55.966Z
-updated: 2024-05-20T07:26:55.966Z
+date: 2024-06-15T18:12:16.644Z
+updated: 2024-06-16T18:12:16.644Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Fix iPhone 6 Plus Passcode not Working?
 excerpt: This article describes How to Fix iPhone 6 Plus Passcode not Working?
 keywords: how to create new apple id,how to unlock iphone without passcode or face id,total wireless unlock,apple id not active,bypass apple store verification,unlock disabled iphone 13,unlock iphone 14,how much does unlock a phone cost
-thumbnail: https://www.lifewire.com/thmb/8ROImJcMy0nz5unlY1bdTJLi7tk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dns-wordcloud-lifewire-2-0c92c02113cb4832870891ac0e13ccbc.png
+thumbnail: https://thmb.techidaily.com/4824b5bc1ec47ceadb929bb6b68e8c9454196f2de65b71eab7da2ab3371e3a0f.png
 ---
 
 ## How to Fix Apple iPhone 6 Plus Passcode not Working?

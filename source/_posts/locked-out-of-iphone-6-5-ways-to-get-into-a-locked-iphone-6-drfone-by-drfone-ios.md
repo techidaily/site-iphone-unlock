@@ -1,7 +1,7 @@
 ---
 title: Locked Out of iPhone 6? 5 Ways to get into a Locked iPhone 6 | Dr.fone
-date: 2024-05-19T07:26:52.203Z
-updated: 2024-05-20T07:26:52.203Z
+date: 2024-06-15T18:11:47.330Z
+updated: 2024-06-16T18:11:47.330Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Locked Out of iPhone 6? 5 Ways to get into a Locked iPhone 6
 excerpt: This article describes Locked Out of iPhone 6? 5 Ways to get into a Locked iPhone 6
 keywords: change apple id on ipad,how to unlock an iphone 13,unlock iphone without passcode,bypass apple store verification,change country on iphone app store,factory reset locked iphone without itunes
-thumbnail: https://www.lifewire.com/thmb/xgo6tGI-HONOfys81EHMpcUqTKU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-970157966-65f3dd434f3e4dc98e28a635b8cacc87.jpg
+thumbnail: https://thmb.techidaily.com/77006c539bf1ddb2e2b5e84e1f174870218883325d71d7edbcfdaf185bcde8ae.jpg
 ---
 
 ## Locked Out of Apple iPhone 6? 5 Ways to get into a Locked Apple iPhone 6

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on Apple iPhone XR | Dr.fone
-date: 2024-05-19T07:27:34.347Z
-updated: 2024-05-20T07:27:34.347Z
+date: 2024-06-15T18:12:32.973Z
+updated: 2024-06-16T18:12:32.973Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Fix Auto Lock Greyed Out on Apple iPhone XR
 excerpt: This article describes How To Fix Auto Lock Greyed Out on Apple iPhone XR
 keywords: lock stolen iphone,remove iphone from blacklist,how to unlock iphone to use usb accessories,unlock disabled iphone without computer,iphone 11 passcode bypass,open iphone without home button,what can jailbreak iphone do,how much does unlock a phone cost,iphone x iphone xr lock screen,factory reset locked iphone without itunes,forgot locked note password
-thumbnail: https://www.lifewire.com/thmb/INF6SYasZPz8DbBoNXqU2flP540=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/before-you-buy-a-video-projector-1847845-v3-ED-8a08e03f2cfc4835a13872618bd4ad00.png
+thumbnail: https://thmb.techidaily.com/68d72132debc55d7a219d5ad96f3f8ade10f55eb90774e1fcb8b0eea83e6c871.png
 ---
 
 ## How To Fix Auto Lock Greyed Out on Apple iPhone XR

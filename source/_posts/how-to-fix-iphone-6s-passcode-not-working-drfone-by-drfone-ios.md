@@ -1,7 +1,7 @@
 ---
 title: How to Fix iPhone 6s Passcode not Working? | Dr.fone
-date: 2024-05-19T07:26:59.985Z
-updated: 2024-05-20T07:26:59.985Z
+date: 2024-06-15T18:10:33.946Z
+updated: 2024-06-16T18:10:33.946Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Fix iPhone 6s Passcode not Working?
 excerpt: This article describes How to Fix iPhone 6s Passcode not Working?
 keywords: disable parental control,open iphone without home button,iphone passcode changed itself,remove flashlight from iphone lock screen,unlock iphone with apple watch,unlock iphone 11 12 13 without passcode,iphone x iphone xr lock screen
-thumbnail: https://www.lifewire.com/thmb/BzSvFjNWXiwqImdtAjFSSOWv3r4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/audio-books-56a324b93df78cf7727c00f5.jpg
+thumbnail: https://thmb.techidaily.com/f75585e4daf78953dd0ce1cfd0b26209fab1e9c588003fe7de564148a8e3e23c.jpg
 ---
 
 ## How to Fix Apple iPhone 6s Passcode not Working?

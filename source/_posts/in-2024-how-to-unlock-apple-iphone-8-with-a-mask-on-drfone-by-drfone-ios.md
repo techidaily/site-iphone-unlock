@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Apple iPhone 8 with a Mask On | Dr.fone
-date: 2024-05-19T07:27:26.038Z
-updated: 2024-05-20T07:27:26.038Z
+date: 2024-06-15T18:13:26.751Z
+updated: 2024-06-16T18:13:26.751Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Unlock Apple iPhone 8 with a Mask On
 excerpt: This article describes How to Unlock Apple iPhone 8 with a Mask On
 keywords: iphone 15 unlock,how to remove passcode from iphone,how to turn off find my iphone when phone is broken,iphone lost mode unlock,how much does unlock a phone cost,fix iphone unavailability
-thumbnail: https://www.lifewire.com/thmb/Gmap6LeMRtADZthm_PJ2lXNY4cM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/copilot-b197f8dd690845d5bf8ebbc082c89c20.jpg
+thumbnail: https://thmb.techidaily.com/e1a2efe9bf1f732226416442fb362e8363cdb8595c634b883b7def7759d3266e.jpg
 ---
 
 ## How to Unlock Apple iPhone 8 with a Mask On

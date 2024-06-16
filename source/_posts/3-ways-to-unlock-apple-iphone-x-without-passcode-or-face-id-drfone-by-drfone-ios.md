@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Unlock Apple iPhone X without Passcode or Face ID | Dr.fone
-date: 2024-05-19T07:27:17.782Z
-updated: 2024-05-20T07:27:17.782Z
+date: 2024-06-15T18:10:53.165Z
+updated: 2024-06-16T18:10:53.165Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes 3 Ways to Unlock Apple iPhone X without Passcode or Face ID
 excerpt: This article describes 3 Ways to Unlock Apple iPhone X without Passcode or Face ID
 keywords: unlock iphone with apple watch,lock stolen iphone,turn off restricted mode,iphone x iphone xr lock screen,how to unlock a found iphone,erase iphone when locked,factory reset locked iphone without itunes,how to turn off find my iphone when phone is broken
-thumbnail: https://www.lifewire.com/thmb/X0NLJA7wZWOmsgBrRlyzzPD7H5A=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1065028028-8e770c58918e4cf8b0852e81cff60ed6.jpg
+thumbnail: https://thmb.techidaily.com/a65a2d3fb958e05df694286812a1e2454a9d6c6ff463421241eb49561be7ce4c.jpg
 ---
 
 ## 3 Ways to Unlock Apple iPhone X without Passcode or Face ID

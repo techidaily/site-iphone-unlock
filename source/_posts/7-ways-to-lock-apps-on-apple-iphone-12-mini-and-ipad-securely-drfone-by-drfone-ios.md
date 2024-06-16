@@ -1,7 +1,7 @@
 ---
 title: 7 Ways to Lock Apps on Apple iPhone 12 mini and iPad Securely | Dr.fone
-date: 2024-05-19T07:27:54.098Z
-updated: 2024-05-20T07:27:54.098Z
+date: 2024-06-15T18:10:47.854Z
+updated: 2024-06-16T18:10:47.854Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes 7 Ways to Lock Apps on Apple iPhone 12 mini and iPad Securely
 excerpt: This article describes 7 Ways to Lock Apps on Apple iPhone 12 mini and iPad Securely
 keywords: how to remove face id on iphone 13,how to unlock an iphone 13,unlock iphone xs without passcode,forgot passcode on iphone,remove device supervision from iphone,erase iphone when locked
-thumbnail: https://www.lifewire.com/thmb/jkTzGxTQj6GZdoRByOnef64Ubf0=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/windows_search-56aa11bd3df78cf772ac3ea5.jpg
+thumbnail: https://thmb.techidaily.com/650f46c8db195bf984ecb592d4a15814bfd7afa085c1775706e382ffb2952424.jpg
 ---
 
 ## 7 Ways to Lock Apps on Apple iPhone 12 mini and iPad Securely

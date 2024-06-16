@@ -1,7 +1,7 @@
 ---
 title: How to Unlock iPhone 11? | Dr.fone
-date: 2024-04-07T02:18:31.465Z
-updated: 2024-04-08T02:18:31.465Z
+date: 2024-06-15T18:10:40.189Z
+updated: 2024-06-16T18:10:40.189Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Unlock iPhone 11?
 excerpt: This article describes How to Unlock iPhone 11?
 keywords: forgot passcode on iphone,iphone passcode changed itself,unlock iphone 14,turn off restricted mode,bypass apple store verification,what can jailbreak iphone do,unlock iphone face id wearing mask
-thumbnail: https://www.lifewire.com/thmb/zWxNYaUUEWKWwcCxwdQ9gx8_XCw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-safely-use-airport-charging-stations-4690583-01-6085c56e46b34f84b5f5d2d976e20677.jpg
+thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e18215ac7c02404eb389cacb68b2.jpg
 ---
 
 ## How to Unlock Apple iPhone 11?

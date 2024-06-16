@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on Apple iPhone XS | Dr.fone
-date: 2024-05-19T07:27:27.362Z
-updated: 2024-05-20T07:27:27.362Z
+date: 2024-06-15T18:12:29.531Z
+updated: 2024-06-16T18:12:29.531Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Fix Auto Lock Greyed Out on Apple iPhone XS
 excerpt: This article describes How To Fix Auto Lock Greyed Out on Apple iPhone XS
 keywords: forgot iphone pin,fix iphone backup password never set but still asking,remove device supervision from iphone,fix iphone passcode not working,how to unlock iphone without passcode,unlock iphone 11 12 13 without passcode,app lock iphone
-thumbnail: https://www.lifewire.com/thmb/EAqZr-HjkZo5i0jwoEEUqZxRCpc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1437209125-b47ae60035f248e2b01b781f50f919c1.jpg
+thumbnail: https://thmb.techidaily.com/6190a0016cd0db6cebefe5acaadd207d01333c2584c8d35c887e62fae8bb62c7.jpg
 ---
 
 ## How To Fix Auto Lock Greyed Out on Apple iPhone XS

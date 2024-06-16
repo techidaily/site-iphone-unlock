@@ -1,7 +1,7 @@
 ---
 title: How to Unlock iPhone 11 Passcode without Computer? | Dr.fone
-date: 2024-05-19T07:27:38.491Z
-updated: 2024-05-20T07:27:38.491Z
+date: 2024-06-15T18:13:11.835Z
+updated: 2024-06-16T18:13:11.835Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Unlock iPhone 11 Passcode without Computer?
 excerpt: This article describes How to Unlock iPhone 11 Passcode without Computer?
 keywords: how to unlock iphone to use usb accessories,how to turn off find my iphone when phone is broken,iphone locked to owner,iphone swipe up not working,iphone auto lock greyed out,unlock iphone face id wearing mask
-thumbnail: https://www.lifewire.com/thmb/5tD-_gpIrKxGqi4E54Dp4SLyqMY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/On-Line-Job-Search-aa2565e859bd43a2aa34dfa1537dbd50.jpg
+thumbnail: https://thmb.techidaily.com/51dee520b6548ad713de001f9d872ff359ce7157fc9657d20a61cd8374fcc9ae.jpg
 ---
 
 ## How to Unlock Apple iPhone 11 Passcode without Computer?

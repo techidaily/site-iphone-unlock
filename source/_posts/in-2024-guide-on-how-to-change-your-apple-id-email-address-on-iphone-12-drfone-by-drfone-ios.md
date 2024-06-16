@@ -1,7 +1,7 @@
 ---
 title: In 2024, Guide on How To Change Your Apple ID Email Address On iPhone 12 | Dr.fone
-date: 2024-05-19T07:27:53.114Z
-updated: 2024-05-20T07:27:53.114Z
+date: 2024-06-15T18:11:59.223Z
+updated: 2024-06-16T18:11:59.223Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Guide on How To Change Your Apple ID Email Address On iPhone 12
 excerpt: This article describes Guide on How To Change Your Apple ID Email Address On iPhone 12
 keywords: change apple id email address,unlock iphone xs without passcode,factory reset locked iphone without itunes,turn off restricted mode,iphone locked to owner,iphone swipe up not working,total wireless unlock,forgot passcode on iphone
-thumbnail: https://www.lifewire.com/thmb/RZ6a_Dm3h0STkAi4OwMdfZPBurY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DTS-Virtual-X-logo-w-illustration-xxbb-59403d7b3df78c537b1ef6b2.jpg
+thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f2d60ec5b3831dd32989cbba.jpg
 ---
 
 ## Guide on How To Change Your Apple ID Email Address On Apple iPhone 12
