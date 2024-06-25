@@ -1,7 +1,7 @@
 ---
 title: How Do You Remove Restricted Mode on iPhone XR | Dr.fone
-date: 2024-05-19T07:27:35.264Z
-updated: 2024-05-20T07:27:35.264Z
+date: 2024-06-24T01:10:32.474Z
+updated: 2024-06-25T01:10:32.474Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How Do You Remove Restricted Mode on iPhone XR
 excerpt: This article describes How Do You Remove Restricted Mode on iPhone XR
 keywords: erase iphone when locked,iphone backup password,how to unlock an iphone 13,fix iphone unavailability,unlock lost phone,swipe up to unlock iphone,how to unlock a found iphone,how to remove face id on iphone 13,change apple id on ipad,how to remove passcode from iphone,fix iphone passcode not working
-thumbnail: https://www.lifewire.com/thmb/X0NLJA7wZWOmsgBrRlyzzPD7H5A=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1065028028-8e770c58918e4cf8b0852e81cff60ed6.jpg
+thumbnail: https://thmb.techidaily.com/a65a2d3fb958e05df694286812a1e2454a9d6c6ff463421241eb49561be7ce4c.jpg
 ---
 
 ## How Do You Remove Restricted Mode on Apple iPhone XR
@@ -412,7 +412,7 @@ Encountering an unresponsive swipe-up gesture on your Apple iPhone XR can be exa
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - System Repair (iOS)](https://drfone.wondershare.com/ios-system-repair.html)
+### Dr.Fone - System Repair (iOS)
 
 Repair iOS System Errors Without data loss.
 
@@ -567,7 +567,7 @@ Encountering **swipe not working on iPhone** can sometimes lead to difficulties.
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Swiping Up.
 

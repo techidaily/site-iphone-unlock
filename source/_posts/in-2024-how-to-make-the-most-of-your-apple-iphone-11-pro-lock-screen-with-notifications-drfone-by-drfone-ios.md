@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Make the Most of Your Apple iPhone 11 Pro Lock Screen with Notifications? | Dr.fone
-date: 2024-05-19T07:27:46.182Z
-updated: 2024-05-20T07:27:46.182Z
+date: 2024-06-24T01:09:49.157Z
+updated: 2024-06-25T01:09:49.157Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Make the Most of Your Apple iPhone 11 Pro Lock Screen with Notifications?
 excerpt: This article describes How to Make the Most of Your Apple iPhone 11 Pro Lock Screen with Notifications?
 keywords: open iphone without home button,how to remove passcode from iphone,how many attempts to unlock iphone,unlock iphone without passcode,bypass iphone passcode,change apple id password
-thumbnail: https://www.lifewire.com/thmb/lwyffvP10dLE4EinuE3HUVO38bo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1342255561-483b636ee00f40a1b3d91d1969b1aaf6.jpg
+thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75aedffe72b83d7d3b1179de6.jpg
 ---
 
 ## How to Make the Most of Your Apple iPhone 11 Pro Lock Screen with Notifications?

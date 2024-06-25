@@ -1,7 +1,7 @@
 ---
 title: In 2024, Complete Guide on Unlocking Apple iPhone 8 with a Broken Screen? | Dr.fone
-date: 2024-05-19T07:27:25.662Z
-updated: 2024-05-20T07:27:25.662Z
+date: 2024-06-24T01:09:25.482Z
+updated: 2024-06-25T01:09:25.482Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Complete Guide on Unlocking Apple iPhone 8 with a Broken Screen?
 excerpt: This article describes Complete Guide on Unlocking Apple iPhone 8 with a Broken Screen?
 keywords: how to unlock iphone with broken screen,unlock iphone face id wearing mask,unlock iphone passcode without computer,iphone auto lock greyed out,unlock iphone screen passcode,unlock lost phone,fix iphone passcode not working
-thumbnail: https://www.lifewire.com/thmb/FWDwuZy1CDGbqb0qwCy_mcmpESI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-sports-movies-creed-michael-b-jordan-cbca95120e5243edb7eca00403eaa626.jpg
+thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0be7b320fd391a90a34b6fb91.jpg
 ---
 
 ## Complete Guide on Unlocking Apple iPhone 8 with a Broken Screen?

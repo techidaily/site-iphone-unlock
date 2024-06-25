@@ -1,7 +1,7 @@
 ---
 title: Forgot iPhone 7 Plus Backup Password? Heres What to Do | Dr.fone
-date: 2024-05-19T07:27:15.153Z
-updated: 2024-05-20T07:27:15.153Z
+date: 2024-06-24T01:09:57.361Z
+updated: 2024-06-25T01:09:57.361Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Forgot iPhone 7 Plus Backup Password? Heres What to Do
 excerpt: This article describes Forgot iPhone 7 Plus Backup Password? Heres What to Do
 keywords: fix iphone backup password never set but still asking,iphone passcode changed itself,remove flashlight from iphone lock screen,how to unlock iphone with itunes,factory reset locked iphone without itunes,bypass ios 14 lock screen
-thumbnail: https://www.lifewire.com/thmb/tclvUc96-Ait5kPqxaZfBNJHuEo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-choose-your-ideal-phonecase-ca91460721b143b0b0ae61b5baf11b3c.jpg
+thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01cdf2619fb3c06685fc0972f.jpg
 ---
 
 ## Forgot Apple iPhone 7 Plus Backup Password? Here's What to Do

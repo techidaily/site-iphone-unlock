@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock iPhone 12 with a Mask On | Dr.fone
-date: 2024-05-19T07:27:54.021Z
-updated: 2024-05-20T07:27:54.021Z
+date: 2024-06-24T01:11:15.515Z
+updated: 2024-06-25T01:11:15.515Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Unlock iPhone 12 with a Mask On
 excerpt: This article describes How to Unlock iPhone 12 with a Mask On
 keywords: bypass iphone passcode,iphone locked to owner,how to unlock iphone with broken screen,how to create new apple id,iphone 15 unlock,how to unlock an iphone 13,open iphone without home button
-thumbnail: https://www.lifewire.com/thmb/ir-tdkJhetInDNhHCkfbZa8f19M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Flack-6b3c3167132c467db22bae39689c44ef.jpg
+thumbnail: https://thmb.techidaily.com/918ad49eae4bb09e7bbe637c097999923379261d114b5800bdb87d98b552aa6d.jpg
 ---
 
 ## How to Unlock Apple iPhone 12 with a Mask On
@@ -53,7 +53,7 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 **Step** **3:** Now, it's time to scan your face with your Apple iPhone 12 to initiate the setup. Again, you don't have to wear a mask at this stage, as the Apple iPhone 12 device's main focus while scanning would be the eyes. Also, if you wear glasses, you can proceed without taking them off.
 
-![ scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
+![scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
 
 **Step 4:** After scanning your face twice, select "Add Glasses" by tapping on it. You can use your Face ID while wearing your regular glasses. Make sure that you scan your face with every pair of glasses daily.
 
@@ -89,7 +89,7 @@ Are you stuck with your locked iPhone? Don't worry, as [Dr.Fone - Screen Unlock]
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -356,19 +356,19 @@ You are now armed with an inherent understanding of Total Wireless phones. We di
 
 Unlocking a phone to access various carriers involves understanding the unique policies of each carrier. Below are the differing policies of prominent carriers:
 
-#### [AT&T](https://www.att.com/deviceunlock)
+#### AT&T
 
 **Instructions.** Using a browser, open the att.com/deviceunlock website. Here, choose the “Start an unlock request" option and follow the on-screen prompts to complete the process. [AT&T will let you know about the unlock status](https://drfone.wondershare.com/sim-unlock/att-unlock.html) via the provided email.
 
 ![requesting at&t to unlock device](https://images.wondershare.com/drfone/article/2024/01/details-to-discuss-while-unlocking-total-wireless-phone-5.jpg)
 
-#### [T-Mobile](https://drfone.wondershare.com/iphone-unlock/total-wireless-unlock.html#:~:text=Unlock%20your%20device,-If%20you%20didn&text=Log%20into%20your%20T%2DMobile,a%20list%20of%20eligibility%20requirements.)
+#### T-Mobile
 
 **Instructions.** Access the T-Mobile website and navigate to the “Contact US" page. Here, choose a way to contact customer service and request device unlocking. If you meet the basic criteria set by T-Mobile, your device will be unlocked.
 
 ![requesting t mobile to unlock](https://images.wondershare.com/drfone/article/2024/01/details-to-discuss-while-unlocking-total-wireless-phone-6.jpg)
 
-#### [Verizon](https://www.verizon.com/business/support/equipment-devices-services/wireless-devices/unlock-device/)
+#### Verizon
 
 **Instructions.** [Verizon](https://drfone.wondershare.com/iphone-tips/activate-new-iphone-verizon.html) has established a minimum period of 60 days, after which your device will be unlocked. However, it is necessary that you don’t have any outstanding payments. Moreover, your device is not blacklisted is also an essential requirement.
 

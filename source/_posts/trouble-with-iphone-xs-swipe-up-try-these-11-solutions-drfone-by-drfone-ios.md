@@ -1,7 +1,7 @@
 ---
 title: Trouble with iPhone XS Swipe-Up? Try These 11 Solutions | Dr.fone
-date: 2024-05-19T07:27:28.280Z
-updated: 2024-05-20T07:27:28.280Z
+date: 2024-06-24T01:09:54.103Z
+updated: 2024-06-25T01:09:54.103Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Trouble with iPhone XS Swipe-Up? Try These 11 Solutions
 excerpt: This article describes Trouble with iPhone XS Swipe-Up? Try These 11 Solutions
 keywords: apple id not active,unlock iphone 5 passcode without itunes,unlock apple watch,iphone swipe up not working,iphone passcode changed itself,get out of security lockout,unlock iphone screen passcode
-thumbnail: https://www.lifewire.com/thmb/hfQflvBCf7d-XN3Ks-apahbRORg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/is-audible-worth-it-00616437e29b4d108264ba36057bbdde.jpg
+thumbnail: https://thmb.techidaily.com/99bd3a8517ed5c451f9f836179e6586efe05dbc59db5ea292ed9c7e8afff15a8.jpg
 ---
 
 ## Trouble with Apple iPhone XS Swipe-Up? Try These 11 Solutions
@@ -50,7 +50,7 @@ Encountering an unresponsive swipe-up gesture on your Apple iPhone XS can be exa
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - System Repair (iOS)](https://drfone.wondershare.com/ios-system-repair.html)
+### Dr.Fone - System Repair (iOS)
 
 Repair iOS System Errors Without data loss.
 
@@ -205,7 +205,7 @@ Encountering **swipe not working on iPhone** can sometimes lead to difficulties.
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Swiping Up.
 
@@ -269,7 +269,7 @@ You might be anxious if you have locked your Apple iPhone XS and forgotten the p
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone Passcode Screen.
 

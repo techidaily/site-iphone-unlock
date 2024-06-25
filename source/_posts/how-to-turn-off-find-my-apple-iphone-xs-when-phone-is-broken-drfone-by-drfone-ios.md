@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Find My Apple iPhone XS when Phone is Broken? | Dr.fone
-date: 2024-05-19T07:27:27.186Z
-updated: 2024-05-20T07:27:27.186Z
+date: 2024-06-24T01:10:30.268Z
+updated: 2024-06-25T01:10:30.268Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Turn Off Find My Apple iPhone XS when Phone is Broken?
 excerpt: This article describes How to Turn Off Find My Apple iPhone XS when Phone is Broken?
 keywords: how to unlock iphone without passcode,unlock disabled iphone 13,iphone swipe up not working,how many attempts to unlock iphone,how much does unlock a phone cost,unlock iphone screen passcode,unlock lost phone,iphone is disabled,erase iphone when locked,reset iphone backup password,how to unlock iphone without passcode or face id
-thumbnail: https://www.lifewire.com/thmb/eyPEW_zh-5Xw0J7hoJ-kChdCQ1M=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-transfer-data-from-ps4-to-ps5-3392eb400af3482fabad65cabb2a1a91.jpg
+thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc721b43b4dca709d022c56e41.jpg
 ---
 
 ## How to Turn Off Find My Apple iPhone XS when Phone is Broken?
@@ -34,7 +34,7 @@ The best part about this application is that it is free of cost. It usually come
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Turning Off Find My iPhone Within Second.
 

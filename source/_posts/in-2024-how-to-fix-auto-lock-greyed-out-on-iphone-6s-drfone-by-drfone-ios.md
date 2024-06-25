@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on iPhone 6s | Dr.fone
-date: 2024-05-19T07:27:02.231Z
-updated: 2024-05-20T07:27:02.231Z
+date: 2024-06-24T01:10:55.205Z
+updated: 2024-06-25T01:10:55.205Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Fix Auto Lock Greyed Out on iPhone 6s
 excerpt: This article describes How To Fix Auto Lock Greyed Out on iPhone 6s
 keywords: how to unlock iphone 7 without passcode,iphone is disabled,how to unlock iphone without passcode,how many attempts to unlock iphone,iphone swipe up not working,unlock iphone 14,change apple id on ipad,solve iphone randomly asking for apple id,how to unlock a found iphone,iphone passcode not working after update ios 13,how to unlock iphone passcode without computer
-thumbnail: https://www.lifewire.com/thmb/YiNkR1XmMF85fjzS0zFQ4X75o4Q=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/coffeecup-free-html-editor-profile-3467555-8876645f89c444c8b94addcf4307b22d.png
+thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895e91d61d746d246092f66e50.png
 ---
 
 ## How To Fix Auto Lock Greyed Out on Apple iPhone 6s

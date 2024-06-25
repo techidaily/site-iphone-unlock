@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 12 | Dr.fone
-date: 2024-05-19T07:27:52.623Z
-updated: 2024-05-20T07:27:52.623Z
+date: 2024-06-24T01:09:42.611Z
+updated: 2024-06-25T01:09:42.611Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Fix Auto Lock Greyed Out on Apple iPhone 12
 excerpt: This article describes How To Fix Auto Lock Greyed Out on Apple iPhone 12
 keywords: disable parental control,forgot passcode iphone 6,what can jailbreak iphone do,how to turn off find my iphone when phone is broken,swipe up to unlock iphone,forgot locked note password,how to create new apple id,how to unlock a found iphone,iphone swipe up not working,get out of security lockout,bypass iphone passcode,fix iphone unavailability
-thumbnail: https://www.lifewire.com/thmb/orCGFYNFlEan1uKR5h12Vm8mASA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/kids-ipad-580f65635f9b58564cc0fc91-5c5cbb6ac9e77c0001d92aa4.jpg
+thumbnail: https://thmb.techidaily.com/baabb0210a0e9d1dfef8f1a18fa201bad1a8f950b33fad191c1a3f8c1897f172.jpg
 ---
 
 ## How To Fix Auto Lock Greyed Out on Apple iPhone 12
@@ -214,7 +214,7 @@ Dr.Fone - iPhone Unlocker is a powerful software that can help you open your iDe
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Remove iPhone Lock Screen without Hassle.
 

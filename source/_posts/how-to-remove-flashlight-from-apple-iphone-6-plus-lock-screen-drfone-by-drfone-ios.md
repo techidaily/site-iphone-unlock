@@ -1,7 +1,7 @@
 ---
 title: How To Remove Flashlight From Apple iPhone 6 Plus Lock Screen | Dr.fone
-date: 2024-05-19T07:26:55.586Z
-updated: 2024-05-20T07:26:55.586Z
+date: 2024-06-24T01:11:05.809Z
+updated: 2024-06-25T01:11:05.809Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Remove Flashlight From Apple iPhone 6 Plus Lock Screen
 excerpt: This article describes How To Remove Flashlight From Apple iPhone 6 Plus Lock Screen
 keywords: apple id not active,iphone backup unlocker,iphone lost mode unlock,how to unlock iphone 12,bypass iphone passcode,forgot locked note password,change apple id on ipad,how to unlock iphone without passcode,remove iphone from blacklist
-thumbnail: https://www.lifewire.com/thmb/o9Q9WuSk80JXjgUWGQkyTXmmm-M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1088144728-3a9f1bd54e994bfaa4cabea82414202e.jpg
+thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e37202540f48c021987012cc7b2e2e.jpg
 ---
 
 ## How To Remove Flashlight From Apple iPhone 6 Plus Lock Screen

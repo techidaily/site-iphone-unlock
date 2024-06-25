@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on iPhone 6 | Dr.fone
-date: 2024-05-19T07:26:52.257Z
-updated: 2024-05-20T07:26:52.257Z
+date: 2024-06-24T01:09:44.812Z
+updated: 2024-06-25T01:09:44.812Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Remove and Reset Face ID on iPhone 6
 excerpt: This article describes How to Remove and Reset Face ID on iPhone 6
 keywords: iphone passcode changed itself,remove flashlight from iphone lock screen,iphone backup unlocker,iphone lost mode unlock,open iphone without home button,iphone passcode not working after update ios 13,iphone lock screen with notifications
-thumbnail: https://www.lifewire.com/thmb/8JZwZGtr8caBDhoilBDj6iOR2TI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsungappstore-c0194a478ba54e90a798b3bb5ff4f6d5.jpg
+thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5af9f2c94189c8d2595dadf6.jpg
 ---
 
 ## How to Remove and Reset Face ID on Apple iPhone 6
@@ -178,7 +178,7 @@ Face ID is more than a nifty authentication system in iPhones (and iPads) and br
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 

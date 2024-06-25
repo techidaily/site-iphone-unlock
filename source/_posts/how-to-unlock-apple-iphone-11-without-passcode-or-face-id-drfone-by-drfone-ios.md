@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Apple iPhone 11 without Passcode or Face ID | Dr.fone
-date: 2024-05-19T07:27:37.216Z
-updated: 2024-05-20T07:27:37.216Z
+date: 2024-06-24T01:09:42.647Z
+updated: 2024-06-25T01:09:42.647Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Unlock Apple iPhone 11 without Passcode or Face ID
 excerpt: This article describes How to Unlock Apple iPhone 11 without Passcode or Face ID
 keywords: iphone passcode not working after update ios 13,how to unlock iphone 12,forgot passcode iphone 6,unlock apple watch,how many attempts to unlock iphone,unlock disabled iphone 13
-thumbnail: https://www.lifewire.com/thmb/NJLgSOS-_Qq21qgfdWY713OPYzI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-527803604-ad6f389c89ff4be1b953a3c2cdc64c09.jpg
+thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d2518f12f424f4610cd1ffe517b.jpg
 ---
 
 ## How to Unlock Apple iPhone 11 without Passcode or Face ID

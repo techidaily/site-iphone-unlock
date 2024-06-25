@@ -1,7 +1,7 @@
 ---
 title: In 2024, Disabled iPhone 12 mini How to Unlock a Disabled iPhone 12 mini? | Dr.fone
-date: 2024-05-19T07:27:56.992Z
-updated: 2024-05-20T07:27:56.992Z
+date: 2024-06-24T01:11:14.465Z
+updated: 2024-06-25T01:11:14.465Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Disabled iPhone 12 mini How to Unlock a Disabled iPhone 12 mini?
 excerpt: This article describes Disabled iPhone 12 mini How to Unlock a Disabled iPhone 12 mini?
 keywords: erase iphone when locked,how to unlock a found iphone,app lock iphone,unlock disabled iphone without computer,remove flashlight from iphone lock screen,iphone auto lock greyed out,fix iphone passcode not working
-thumbnail: https://www.lifewire.com/thmb/bOmeScOWFc7_QUmHNXKw7Hqwkm0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bestfirestickapps-5bcba08546e0fb005177a983-0591296fac8241ccb8497f9f29901acd.jpg
+thumbnail: https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d6a73268fe3b019a529c7811.jpg
 ---
 
 ## Disabled Apple iPhone 12 mini: How to Unlock a Disabled Apple iPhone 12 mini?
@@ -30,7 +30,7 @@ We know and understand that the word troubleshooting can remind you of long tele
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock Disabled Apple iPhone 12 mini Without iTunes/ iCloud.
 
@@ -107,7 +107,7 @@ There are times you have another iOS device in the family or just lying around, 
 
 Step 1: Open the Find My app on your other iOS device or Mac
 
-![find my on macos ](https://images.wondershare.com/drfone/article/2021/11/unlock-disabled-iphone-13-8.jpg)
+![find my on macos](https://images.wondershare.com/drfone/article/2021/11/unlock-disabled-iphone-13-8.jpg)
 
 Step 2: Select your disabled Apple iPhone 12 mini from the Apple iPhone 12 mini devices from the left pane, click/ tap your disabled Apple iPhone 12 mini and click/ tap Erase This Device
 

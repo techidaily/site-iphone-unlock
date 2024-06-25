@@ -1,7 +1,7 @@
 ---
 title: How To Remove Flashlight From Apple iPhone XS Lock Screen | Dr.fone
-date: 2024-05-19T07:27:27.521Z
-updated: 2024-05-20T07:27:27.521Z
+date: 2024-06-24T01:10:51.821Z
+updated: 2024-06-25T01:10:51.821Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Remove Flashlight From Apple iPhone XS Lock Screen
 excerpt: This article describes How To Remove Flashlight From Apple iPhone XS Lock Screen
 keywords: reset iphone backup password,change apple id on ipad,lock stolen iphone,iphone is disabled,swipe up to unlock iphone,unlock iphone 14,bypass ios 14 lock screen
-thumbnail: https://www.lifewire.com/thmb/sujrBq1SN6zkmNgqHTSAbFbTvKk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/18-Hidden-Snapchat-Features-efa75dca521e4cf6bb321dc960276deb.jpg
+thumbnail: https://thmb.techidaily.com/f1294d51d8e0560c6776b360116bd819890055c0bb65c23b15603692f6dffac9.jpg
 ---
 
 ## How To Remove Flashlight From Apple iPhone XS Lock Screen

@@ -1,7 +1,7 @@
 ---
 title: Forgot iPhone 6 Plus Backup Password? Heres What to Do | Dr.fone
-date: 2024-05-19T07:26:56.250Z
-updated: 2024-05-20T07:26:56.250Z
+date: 2024-06-24T01:10:40.603Z
+updated: 2024-06-25T01:10:40.603Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Forgot iPhone 6 Plus Backup Password? Heres What to Do
 excerpt: This article describes Forgot iPhone 6 Plus Backup Password? Heres What to Do
 keywords: unlock iphone passcode,how to remove face id on iphone 13,change apple id password,doctorism unlock review,how to unlock an iphone 13,solve iphone randomly asking for apple id,fix iphone unavailability,iphone 11 passcode bypass,apple id not active,forgot passcode iphone 6
-thumbnail: https://www.lifewire.com/thmb/7xkPKaI2xi5sTbIeFjMPxaWn7Gc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/apple-tvos_a-star-is-born_060319-b01aea7d8a1949609359d8d96b1a22e0.jpg
+thumbnail: https://thmb.techidaily.com/3a8d29dc752129bc6cecd890184a07ba60927370b95afc8af67003c49b108b72.jpg
 ---
 
 ## Forgot Apple iPhone 6 Plus Backup Password? Here's What to Do

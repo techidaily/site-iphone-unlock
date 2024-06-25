@@ -1,7 +1,7 @@
 ---
 title: Full Guide to Unlock iPhone SE with iTunes | Dr.fone
-date: 2024-06-15T18:13:54.204Z
-updated: 2024-06-16T18:13:54.204Z
+date: 2024-06-24T01:09:58.553Z
+updated: 2024-06-25T01:09:58.553Z
 tags: 
   - unlock
   - remove screen lock
@@ -208,7 +208,7 @@ Afterward, place your iDevice into Recovery Mode by following the on-screen inst
 
 After ensuring the iOS firmware is downloaded and validated, you're ready to proceed. To begin unlocking, click the "Unlock Now" button. This action will trigger a confirmation prompt asking you to enter the necessary code. Once entered, tap "Unlock" to advance to the last stage. Click the "Done" button to complete the process when your device is unlocked.
 
-![ unlock by typing the required code](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
+![unlock by typing the required code](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
 _**Tips:** Are you searching for a powerful iPhone Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
