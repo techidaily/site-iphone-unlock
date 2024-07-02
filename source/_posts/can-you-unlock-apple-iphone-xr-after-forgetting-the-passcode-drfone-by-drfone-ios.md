@@ -1,7 +1,7 @@
 ---
 title: Can You Unlock Apple iPhone XR After Forgetting the Passcode? | Dr.fone
-date: 2024-06-08T08:04:49.661Z
-updated: 2024-06-09T08:04:49.661Z
+date: 2024-07-01T12:20:16.946Z
+updated: 2024-07-02T12:20:16.946Z
 tags: 
   - unlock
   - remove screen lock
@@ -349,7 +349,7 @@ Attention: All your data will be erased while you are unlocking with this tool.
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 6 Plus | Dr.fone
-date: 2024-05-19T07:26:57.197Z
-updated: 2024-05-20T07:26:57.197Z
+date: 2024-07-01T12:20:17.026Z
+updated: 2024-07-02T12:20:17.026Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Fix Auto Lock Greyed Out on Apple iPhone 6 Plus
 excerpt: This article describes How To Fix Auto Lock Greyed Out on Apple iPhone 6 Plus
 keywords: unlock apple watch,factory reset locked iphone without itunes,how to unlock iphone with itunes,forgot passcode iphone 6,ios 17 lock screen,solve iphone randomly asking for apple id,forgot passcode on iphone,bypass ios 14 lock screen,turn off restricted mode,remove flashlight from iphone lock screen
-thumbnail: https://www.lifewire.com/thmb/9RF2k5zJ8slFGgduRb1qj6IFxoo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-77744394-e5f79596e54a4ba6a914eed31be7efc4.jpg
+thumbnail: https://thmb.techidaily.com/99f8be9be102276bc593db3bcc6b07419f9816f2452ed4f5c2e0bd34aa16b628.jpg
 ---
 
 ## How To Fix Auto Lock Greyed Out on Apple iPhone 6 Plus

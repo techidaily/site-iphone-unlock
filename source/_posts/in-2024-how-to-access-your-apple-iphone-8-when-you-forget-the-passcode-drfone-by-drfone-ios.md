@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Access Your Apple iPhone 8 When You Forget the Passcode? | Dr.fone
-date: 2024-06-15T18:13:25.500Z
-updated: 2024-06-16T18:13:25.500Z
+date: 2024-07-01T12:20:49.515Z
+updated: 2024-07-02T12:20:49.515Z
 tags: 
   - unlock
   - remove screen lock
@@ -49,7 +49,7 @@ Once, the software downloads the firmware automatically, you can then proceed to
 
 ![passcode removal](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 2. Restore an iTunes backup for Apple iPhone 8
 
@@ -283,7 +283,7 @@ Face ID is more than a nifty authentication system in iPhones (and iPads) and br
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 

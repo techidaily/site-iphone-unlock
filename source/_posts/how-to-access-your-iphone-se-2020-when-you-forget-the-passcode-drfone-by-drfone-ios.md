@@ -1,7 +1,7 @@
 ---
 title: How to Access Your iPhone SE (2020) When You Forget the Passcode? | Dr.fone
-date: 2024-05-19T07:27:48.286Z
-updated: 2024-05-20T07:27:48.286Z
+date: 2024-07-01T12:21:18.413Z
+updated: 2024-07-02T12:21:18.413Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Access Your iPhone SE (2020) When You Forget the Passcode?
 excerpt: This article describes How to Access Your iPhone SE (2020) When You Forget the Passcode?
 keywords: how to unlock iphone 12,get out of security lockout,fix iphone unavailability,forgot locked note password,unlock iphone with apple watch,forgot iphone pin,erase iphone when locked,swipe up to unlock iphone,unlock iphone passcode without computer,forgot passcode on iphone,change country on iphone app store,remove flashlight from iphone lock screen
-thumbnail: https://www.lifewire.com/thmb/eHGlVdFJN-X634CkMYdDJQQVhoU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-165567842-58e5bd253df78c51625e84ab.jpg
+thumbnail: https://thmb.techidaily.com/dd1b377f0a177d81939c2e9879a9449aa15d2816c9d71de8279c052980247986.jpg
 ---
 
 ## How to Access Your Apple iPhone SE (2020) When You Forget the Passcode?
@@ -49,7 +49,7 @@ Once, the software downloads the firmware automatically, you can then proceed to
 
 ![passcode removal](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 2. Restore an iTunes backup for Apple iPhone SE (2020)
 
@@ -324,7 +324,7 @@ You might be anxious if you have locked your Apple iPhone SE (2020) and forgotte
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone Passcode Screen.
 

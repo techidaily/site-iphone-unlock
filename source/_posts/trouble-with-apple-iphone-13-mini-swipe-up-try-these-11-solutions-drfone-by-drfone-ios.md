@@ -1,7 +1,7 @@
 ---
 title: Trouble with Apple iPhone 13 mini Swipe-Up? Try These 11 Solutions | Dr.fone
-date: 2024-05-19T07:28:07.684Z
-updated: 2024-05-20T07:28:07.684Z
+date: 2024-07-01T12:21:17.299Z
+updated: 2024-07-02T12:21:17.299Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Trouble with Apple iPhone 13 mini Swipe-Up? Try These 11 Solutions
 excerpt: This article describes Trouble with Apple iPhone 13 mini Swipe-Up? Try These 11 Solutions
 keywords: iphone lock screen with notifications,remove device supervision from iphone,change apple id on ipad,unlock iphone 14,how to unlock iphone with itunes,how many attempts to unlock iphone,iphone lost mode unlock,unlock disabled iphone without itunes,how to unlock a found iphone
-thumbnail: https://www.lifewire.com/thmb/TKoUz7zi8lw5cyOA93bOwDLfNYs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the_room-56cc7f225f9b5879cc590941.png
+thumbnail: https://thmb.techidaily.com/468b7a50fb837089e10cec38dd44fa01aaab4078b704b313fd2f69558ac117bb.png
 ---
 
 ## Trouble with Apple iPhone 13 mini Swipe-Up? Try These 11 Solutions
@@ -50,7 +50,7 @@ Encountering an unresponsive swipe-up gesture on your Apple iPhone 13 mini can b
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-### [Dr.Fone - System Repair (iOS)](https://drfone.wondershare.com/ios-system-repair.html)
+### Dr.Fone - System Repair (iOS)
 
 Repair iOS System Errors Without data loss.
 
@@ -205,7 +205,7 @@ Encountering **swipe not working on iPhone** can sometimes lead to difficulties.
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Swiping Up.
 
@@ -263,7 +263,7 @@ One of the best ways to wipe locked iPhone is by using [Dr.Fone - Screen Unlock 
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Erase the data of an iPhone even if it is locked
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on Apple iPhone 12 | Dr.fone
-date: 2024-05-19T07:27:50.828Z
-updated: 2024-05-20T07:27:50.828Z
+date: 2024-07-01T12:20:00.699Z
+updated: 2024-07-02T12:20:00.699Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Fix Auto Lock Greyed Out on Apple iPhone 12
 excerpt: This article describes How To Fix Auto Lock Greyed Out on Apple iPhone 12
 keywords: iphone x iphone xr lock screen,how to unlock iphone with itunes,how to turn off find my iphone when phone is broken,how much does unlock a phone cost,factory reset locked iphone without itunes,how to unlock iphone passcode without computer,how to remove face id on iphone 13
-thumbnail: https://www.lifewire.com/thmb/gzHpHKbSd5o6D_hdSTFod8z3AV8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-769729481-5bd367dcc9e77c007c015257.jpg
+thumbnail: https://thmb.techidaily.com/8ec7f9d19b5395810145f1bf31b1db142a6ba9be6ed8b5f1e4a621d2eef1f390.jpg
 ---
 
 ## How To Fix Auto Lock Greyed Out on Apple iPhone 12
@@ -196,7 +196,7 @@ We understand how frustrating it can be when your newly purchased Apple iPhone 1
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 

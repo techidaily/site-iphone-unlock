@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Open Your Apple iPhone 12 Without a Home Button | Dr.fone
-date: 2024-04-07T12:47:14.729Z
-updated: 2024-04-08T12:47:14.729Z
+date: 2024-07-01T12:20:50.560Z
+updated: 2024-07-02T12:20:50.560Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Open Your Apple iPhone 12 Without a Home Button
 excerpt: This article describes How To Open Your Apple iPhone 12 Without a Home Button
 keywords: ios 17 lock screen,iphone backup password,unlock iphone passcode,unlock iphone 14,what can jailbreak iphone do,iphone swipe up not working,iphone backup unlocker
-thumbnail: https://www.lifewire.com/thmb/znoWsXihZpXFxhbw3VKHAcQ2O3s=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1443716794-411cf2c5404b4f35b2a1153826e5a280.jpg
+thumbnail: https://thmb.techidaily.com/06c74021872dcc3b0ce900f997f142db31fade534149e5bce6ee9984dd257b98.jpg
 ---
 
 ## How To Open Your Apple iPhone 12 Without a Home Button
