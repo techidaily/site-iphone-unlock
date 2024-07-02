@@ -1,0 +1,441 @@
+---
+title: In 2024, How Can I Unlock My Apple iPhone 12 Pro After Forgetting my PIN Code? | Dr.fone
+date: 2024-05-19T07:28:02.171Z
+updated: 2024-05-20T07:28:02.171Z
+tags: 
+  - unlock
+  - remove screen lock
+categories:
+  - ios
+  - iphone
+description: This article describes How Can I Unlock My Apple iPhone 12 Pro After Forgetting my PIN Code?
+excerpt: This article describes How Can I Unlock My Apple iPhone 12 Pro After Forgetting my PIN Code?
+keywords: what can jailbreak iphone do,iphone 15 unlock,iphone swipe up not working,lock stolen iphone,how to unlock an iphone 13,how to unlock iphone with itunes,get into locked iphone,iphone 11 passcode bypass,ios 17 lock screen,how to unlock iphone 7 without passcode
+thumbnail: https://www.lifewire.com/thmb/_JoO871Fn8djNW5YRDt3xrRs7Kg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-see-who-viewed-your-tiktok-5271090-e2cb663541b8484a8a2e80ffbdd98db3.jpg
+---
+
+## How Can I Unlock My Apple iPhone 12 Pro After Forgetting my PIN Code?
+
+Unlocking a phone using a passcode is a great way to keep your data safe. To secure your device, you can set a 4-digit, 6-digit, fingerprint, or Face ID. However, what will happen if you **forgot iPhone PIN?** You will not be able to unlock and use the services of your device.
+
+Furthermore, you can't manage any vital task if you have scheduled it. In such cases, you need to unlock the lock through an efficient procedure. This article elaborates on such practical techniques for **iPhone PIN code** removal. We will also introduce the top tool available in the market.
+
+All the solutions mentioned here are highly secure and work almost every time. So, if you are worried about the security of your device, we suggest you use Dr.Fone-Screen Unlock. It is the best tool in case of a **forgotten iPhone PIN.**
+
+## Part 1: 4 Simple Ways to Unlock iPhone without Pin
+
+### 1\. "Erase iPhone" option
+
+The steps below work if your Apple iPhone 12 Pro or iPad runs iOS 15.2 or later and is connected to the internet. Here's what you need to do when you **forgot iPhone PIN**:
+
+- Please enter your password a few times from your device's Lock Screen until it requests that you attempt another time. Then repeat this activity until you see the Erase iPhone choice in the corner of the screen.
+- Tap Erase iPhone, then click again to confirm your activity.
+
+![erase iphone](https://images.wondershare.com/drfone/article/2022/11/forgotten-iphone-pin-1.jpg)
+
+- Enter your Apple account details to sign out of your Apple ID on the phone.
+- Tap Erase iPhone back to erase all your user data and settings for all time.
+- At the point when the iOS device restarts, adhere to the on-screen directions. Set your phone once more, and restore your data and settings from a backup. Now set a new password for your device.
+
+**Instructions to Restore a Locked iPhone Running iOS 15.1 or Prior**
+
+- To begin with, put your Apple iPhone 12 Pro into DFU recovery mode.
+- Then, connect it to a PC or Macintosh through a Lightning link.
+- Select your Apple iPhone 12 Pro in the Finder sidebar on Mac or iTunes on the PC.
+- Pick Restore when you see the choice to Restore. Let the download finish if the download takes over 15 minutes and your device leaves the recovery mode screen. Then, at that point, turn off your Apple iPhone 12 Pro and start once more.
+
+![click restore](https://images.wondershare.com/drfone/article/2022/11/forgotten-iphone-pin-2.jpg)
+
+- Disconnect your Apple iPhone 12 Pro, then, at that point, turn it on and set it up. That's all you need to do.
+
+### 2\. Use Find My iPhone in iCloud
+
+Apple allows clients to erase iPhone data to safeguard it from others remotely. However, your lock screen can still protect your data if you don't erase the iPhone. No one can unlock the screen unless they enter the correct password. After too many wrong password attempts, your Apple iPhone 12 Pro will be locked. So no one can then touch your user data.
+
+If you have enabled the "Find My" option before **forgotten iPhone PIN**, there is a chance for you to remove the lock. That is to utilize iCloud.
+
+To unlock iPhone through iCloud:
+
+**Step 1.** Visit the iCloud.com web page and log in with your Apple ID and passcode.
+
+**Step 2.** Click the "Find iPhone" option from the different choices available.
+
+**Step 3.** Click "All Devices" and pick the Apple iPhone 12 Pro device you need to unlock.
+
+**Step 4.** Click the "Erase iPhone" button. Subsequently, set up the Apple iPhone 12 Pro device and set another lock screen PIN. With iCloud, you can unlock your iDevice without even touching your device.
+
+![icloud unlock](https://images.wondershare.com/drfone/article/2022/11/forgotten-iphone-pin-3.jpg)
+
+### 3\. Unlock it with iTunes
+
+Suppose you use iTunes to restore the Apple iPhone 12 Pro in recovery mode; it will install the latest iOS to your device. Doing so will erase all user data from the Apple iPhone 12 Pro device, including the lock screen. So, this is also an excellent way to unlock your Apple iPhone 12 Pro. However, you must keep a backup of your important files before doing so.
+
+Utilizing iTunes will wipe out the iPhone. You can restore the data from there if you have a previous backup. If you have nothing, you will lose every data on the iPhone.
+
+Additionally, ensure that you keep your iDevices' Apple ID details safe. Else, you will not have the option to use the iDevice again. Using iTunes will erase the screen's password but not the firmware. Considering that, you must keep the information in mind to set up and utilize the Apple iPhone 12 Pro device.
+
+To sidestep iPhone password with iTunes:
+
+**Step 1. Go to Recovery mode**
+
+**On iPhone 8/8 Or more and Above:** Hold the power/side button and press any of the volume buttons until a slider appears. Move the slider to turn off the Apple iPhone 12 Pro device. Next, press and hold the power button and connect your Apple iPhone 12 Pro to the PC. Hold the button until the Apple iPhone 12 Pro device shows the recovery mode screen.
+
+**On iPhone 7/7 Or Below:** Press and hold the power button until you see the power off slider. Next, move the slider to turn off the iPhone. Then, press the Volume (-) button and connect the Apple iPhone 12 Pro device to the PC. Continue to hold the button until you see the recovery mode screen.
+
+**Step 2. Restore your Apple iPhone 12 Pro.**
+
+After you connect your Apple iPhone 12 Pro to the PC, you will see a popup window in iTunes. It will warn about an issue with the "Your iPhone name" and ask you to restore it. In that window, select "Restore" to erase the iPhone. If iTunes doesn't run naturally, open iTunes by double tapping it.
+
+**Step 3. Set up iPhone.**
+
+Keep waiting until the restoration completes. Then, a short time later, go to your Apple iPhone 12 Pro and follow the on-screen directions. That will allow you to set up and utilize your device.
+
+![itunes unlock](https://images.wondershare.com/drfone/article/2022/11/forgotten-iphone-pin-4.jpg)
+
+### 4\. Dr.Fone-Screen Unlock
+
+
+What to do if you **forgot iPhone PIN code**? As a reference, you have to erase your device to remove the lock. Aside from iTunes, you can use an outsider iPhone unlocker like Dr.Fone-Screen Unlock to unlock your device without a code.
+
+With such software, you don't have to master some professional skills. Instead, stick to the on-screen directions in Wondershare Dr.Fone-Screen Unlock. Then, you can reset your locked device without any problem. Dr.Fone will eliminate it for you, whether it's a four-digit code, six-digit code, Contact ID, or Face ID. Here's how:
+
+**Step 1. Get your Device Connected**
+
+Install and open the program on a computer, i.e., Mac or Windows. Then, tap the "Screen Unlock" option.
+
+![select screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+Get your locked iPhone connected to the system utilizing a lightning USB connector. Following these steps, click the "Unlock iOS Screen" feature on the program.
+
+![unlock ios screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
+
+**Step 2. Boot the Recovery/DFU Mode on your Device**
+
+To unlock iPhone, you need to boot it in Recovery/DFU mode by following the guidelines on your screen. Therefore, the Recovery mode is a better choice for iPhone unlock. Yet, if you face problems while going for the Recovery mode, you may enact the DFU mode.
+
+![enter recovery mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
+
+**Step 3. Confirm Your Apple iPhone 12 Pro Model**
+
+After opening the recovery mode, you can see your Device Model and iOS version. You must select the correct data from the dropdown menu if the information is incorrect. After doing so, click download to download the suitable firmware package for your phone model.
+
+![select phone model](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
+
+**Step 4. Remove the Screen Lock Passcode**
+
+After getting the required firmware, click the "Unlock Now" button to begin the process.
+
+![unlock now](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
+
+Simply in almost no time, your Apple iPhone 12 Pro will be unlocked effectively. However, kindly note this unlocking system will likewise wipe all the files and settings on your device. Therefore, you must have a backup of your essential documents beforehand.
+
+
+## Part 2: FAQs
+
+### How can I change my PIN on my iPhone?
+
+- Open your Settings app and peer down until you see the passcode menu. On iPhones with a home button, this will be named "Touch ID and Passcode." On new ones, it is "Face ID and Passcode."
+
+![passcode menu](https://images.wondershare.com/drfone/article/2022/11/forgotten-iphone-pin-5.jpg)
+
+- Enter your existing code or create a new one.
+- Toggle on the "Turn Passcode Off" option.
+- Click again to agree, and you're good to go.
+
+![turn on off passcode](https://images.wondershare.com/drfone/article/2022/11/forgotten-iphone-pin-6.jpg)
+
+### What to do after unlocking my iPhone?
+
+There are certain things you must do after unlocking your iDevice. First, you must immediately set a new PIN for your iDevice. Apart from that, restore your previous data if you have a backup. Having done so, you are good to go.
+
+### Can I access my locked iPhone without data loss?
+
+No, you cannot unlock a locked iDevice without losing your data. Apple has made some outstanding security features in their phones. Therefore, you must erase all its content and settings if you need to get your hands on an unlocked phone again.
+
+### The Bottom Line
+
+Due to one reason or another, you may have **forgotten iPhone PIN.** However, it is not that big a deal. In this article, we have proposed some of the best ways you can employ to erase this issue. However, we strongly recommend you use Dr.Fone for a quick solution.
+
+
+
+## 3 Ways to Erase Apple iPhone 12 Pro When It's Locked Within Seconds
+
+Over the last few years, Apple has made remarkable progress with its flagship iPhone series. There are plenty of ways for users to back up, erase, and restore their data. It doesn’t matter if you are moving from one device to another or would like to reset your phone. You should know how to erase iPhone when locked. Too many times, after getting locked out of their device, users find it hard to wipe locked iPhone. If you are also going through the same dilemma, then don’t worry. Read on and learn how to wipe a locked iPhone in this extensive guide.
+
+## Part 1: Erase locked iPhone with Dr.Fone - Screen Unlock (iOS)
+
+One of the best ways to wipe locked iPhone is by using [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) tool. It is an extremely secure and reliable application. It is already compatible with every leading version of iOS and runs on almost all major iOS devices. Available for both Windows and Mac, the tool can be used to remove activation lock and Apple ID. The tool also provides an easy-to-use interface that can help you reset [the activation lock](https://drfone.wondershare.com/icloud/bypass-icloud-activation.html) on your device.
+
+
+
+### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+
+Erase the data of an iPhone even if it is locked
+
+- Erase iPhone data together with the lock screen.
+- Remove the 4-digit/6-digit passcode, Touch ID, and [Face ID](https://drfone.wondershare.com/ios-update-problems.html), and activation lock.
+- A few clicks and the iOS lock screen are gone.
+- Fully compatible with all iDevice models and iOS versions.
+
+**4,395,216** people have downloaded it
+
+To learn how to erase iPhone when locked, follow these steps:
+
+**Step 1. Download and install Dr.Fone.**
+
+Start by downloading Dr.Fone - Screen Unlock (iOS) from its official website. Install it on your Windows or Mac and connect your Apple iPhone 12 Pro to the system whenever you wish to resolve an issue with it. After launching the application, click on the “Screen Unlock” option from the welcome screen.
+
+![erase iphone when locked-Dr.Fone toolkit](https://images.wondershare.com/drfone/guide/drfone-home.png "Dr.Fone toolkit")
+
+**Step 2. Click Start button.**
+
+Wait for a while as the application will automatically recognize your phone. Click on the “Start” button to commence the process.
+
+![erase iphone when locked-connect iphone](https://images.wondershare.com/drfone/drfone/ios-unlock-1.jpg "connect iphone")
+
+**Step 3. Put the phone into DFU mode.**
+
+Follow the on-screen instructions to put your phone into the DFU (Device Firmware Update) mode. It can be done by pressing the Home and Power button simultaneously for 10 seconds. Afterward, it would help if you released the Power button while pressing the Home button for another 5 seconds.
+
+![erase iphone when locked-boot in DFU mode](https://images.wondershare.com/drfone/drfone/ios-unlock-2.jpg "boot in DFU mode")
+
+**Step 4. Download firmware package.**
+
+After putting your device into the DFU mode, the application will automatically move to the next window. Here, you would be required to provide essential information related to your phone like device model, firmware update, and more. After filling in the correct information, click on the “Download” button.
+
+![erase iphone when locked-select phone details](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png "select phone details")
+
+Sit back and relax as the application will download the essential firmware update for your phone.
+
+![erase iphone when locked-download the firmware](https://images.wondershare.com/drfone/drfone/ios-unlock-5.jpg "download the firmware")
+
+**Step 5. Start to unlock.**
+
+Once it is done, the application will automatically start resolving the issue on your phone. Make sure that you don’t disconnect your phone while Dr.Fone - Screen Unlock (iOS) will resolve the issue on your device.
+
+![erase iphone when locked-repairing system](https://images.wondershare.com/drfone/drfone/ios-unlock-6.jpg "repairing system")
+
+**Step 7. Unlock completed.**
+
+After completing the operation successfully, the interface will provide the following message.
+
+![erase iphone when locked-repair system complete](https://images.wondershare.com/drfone/drfone/ios-unlock-7.jpg "repair system complete")
+
+You can check if you can unlock your phone or not. If you still have an issue, then click on the “Try Again” button. Else, you can safely remove your phone and use it without any constraint. By following this method, you would learn how to wipe a locked iPhone with Dr.Fone - Screen Unlock (iOS).
+
+One of the best things about this technique is that you would wipe locked iPhone without causing any damage. Since it is a secure and reliable method with a high success rate, it is sure to provide a hassle-free experience.
+
+## Part 2: Erase locked iPhone by restoring it with iTunes
+
+If you are looking for an alternative way to learn how to erase iPhone when locked, you can also take the assistance of iTunes. It provides a free and simple method to restore your device. Since it would wipe your data, you might end up losing your essential files in the process. We recommend following this technique only when you have taken a backup of your data via iTunes beforehand. To learn how to wipe a locked iPhone with iTunes, follow these steps:
+
+1\. Firstly, put your Apple iPhone 12 Pro into recovery mode. To do this, launch an updated version of iTunes on your system and connect it to a lightning cable. Now, long-press the Home button on your device and connect it to the other end of the lightning cable. Release the Home button once the iTunes logo would appear.
+
+![erase iphone when locked-boot in recovery mode](https://images.wondershare.com/drfone/article/2017/07/14993648422730.jpg "boot in recovery mode")
+
+2\. As soon as your phone would be connected, iTunes will recognize an issue with it. From here, you can choose to restore it.
+
+![erase iphone when locked-connect to itunes](https://images.wondershare.com/drfone/article/2017/07/14993648903843.jpg "connect to itunes")
+
+3\. If you don’t get the above pop-up on your screen, launch iTunes and visit its “Summary” section. From here, choose “Restore backup” under the Backup section.
+
+![erase iphone when locked-restore backup](https://images.wondershare.com/drfone/article/2017/07/14993649149685.jpg "restore backup")
+
+4\. agree to the pop-up message by clicking on the “Restore” button.
+
+![erase iphone when locked-restore iphone](https://images.wondershare.com/drfone/article/2017/07/14993649291284.jpg "restore iphone")
+
+## Part 3: Erase locked iPhone by Find My iPhone
+
+If you haven’t already taken a backup of your phone, then you might find it hard to recover it with iTunes. Another popular way to wipe locked iPhone is by using the Find My iPhone tool. This is mostly implemented in case of a stolen or lost device. One of the best features of Find My iPhone is that it can be used to reset your device remotely. With this, you can protect your personal data without much trouble. Implement these steps to learn how to erase iPhone when locked using Find My iPhone.
+
+1\. To start with, log in to your [iCloud account](https://www.icloud.com/) and visit the “Find My iPhone” section.
+
+2\. Under the “All Devices” section, you can choose the Apple iPhone 12 Pro you wish to reset.
+
+![erase iphone when locked-all devices](https://images.wondershare.com/drfone/article/2017/07/14993649689013.jpg "all devices")
+
+3\. After selecting your device, you will be presented with various options. Select the “Erase iPhone” feature to reset your device.
+
+![erase iphone when locked-erase iphone](https://images.wondershare.com/drfone/article/2017/07/14993650012081.jpg "erase iphone")
+
+Confirm your choice and wipe locked iPhone remotely using the Find My iPhone feature on iCloud.
+
+After following this informative guide, you would learn how to wipe a locked iPhone without any trouble. Go ahead and pick your preferred option to wipe locked iPhone. We recommend using Dr.Fone - Screen Unlock (iOS) to resolve this issue securely. Though, if you wish to do it remotely, then you can also give Find My iPhone a try as well. If you are familiar with any other reliable method, please let us know how to erase iPhone when locked in the comments below.
+
+## Can You Unlock Apple iPhone 12 Pro After Forgetting the Passcode?
+
+If you **forget the passcode on your Apple iPhone 12 Pro**, you won't have the option to access its information and use it flawlessly. What's more disturbing is that if you keep entering the wrong ones, your Apple iPhone 12 Pro will be locked. It would help if you opened it, be it a 4-digit passcode, 6-digit passcode, Fingerprint, or Face ID.
+
+If you **forgot passcode on iPhone**, the main thing you can do with your iDevice is to make an Emergency call. You should erase your Apple iPhone 12 Pro if you don't remember your screen unlock code. But don't worry; we have many solutions available here. Keep reading to learn about the best tool, i.e., Dr.Fone, for screen unlock.
+
+
+## Part 1: Can I Unlock My iPhone When I Forgot Passcode?
+
+Yes, you can unlock your locked iPhone without a passcode. If you **forgot passcode on iPhone**, Apple's proper prescribed way is to reset your Apple iPhone 12 Pro. In other words, do a factory reset to erase the passcode. However, many individuals can't do this strategy since it's irksome and may lead to a few unforeseen issues. Such issues can worsen the condition.
+
+Therefore, we have introduced some alternate ways to unlock your iDevice. You can even use an expert tool to remove this issue. Keep following us to find out more about our recommended methods.
+
+### 1\. Use Find My
+
+Utilizing iCloud if the Find My feature is enabled before you **forgot iPhone passcode**. By visiting iCloud.com, you can erase your Apple iPhone 12 Pro from a distance. Moreover, you can eliminate the Apple iPhone 12 Pro device's screen lock to unlock it.
+
+To erase the passcode using the Find My feature on iCloud:
+
+**Step 1.** Go to iCloud.com and enter your Apple account credentials and log in to your account.
+
+**Step 2.** Pick "Find iPhone" and go to "All Devices" > "Erase iPhone".
+
+![find my](https://images.wondershare.com/drfone/article/2022/11/forgot-passcode-on-iphone-1.jpg)
+
+### 2\. Use Recovery Mode with iTunes
+
+How to bypass the Apple iPhone 12 Pro passcode or eliminate the passcode? The method is to utilize iTunes. However, using iTunes to restore the Apple iPhone 12 Pro in recovery mode will erase all data from the Apple iPhone 12 Pro device.
+
+It will wipe out the iDevice. Therefore, you must back up your data to restore it later. Without any backup accessible, you will permanently lose everything on the iDevice.
+
+Additionally, ensure you remember the Mac ID credentials on the iDevice, or you won't be able to use it. Finally, utilizing iTunes will eliminate the lock screen's passcode but not the firmware. Considering all these, bypassing a passcode isn't so hard. Here's how to bypass the Apple iPhone 12 Pro passcode with iTunes:
+
+**Step 1. Enter the recovery mode on your Apple iPhone 12 Pro, iPad, or iPod Contact.**
+
+- **On iPhone 8/8 Or later:** Hold the Power/Side button on your phone and one of the volume buttons. Keep holding until the power off slider shows up. Flip the slider to switch off the iPhone. Next, press and hold the power button and connect your Apple iPhone 12 Pro to the PC. Hold the button until the Apple iPhone 12 Pro transforms into the recovery mode screen.
+- **On iPhone 7/7 Or Below:** Press and hold the power button until you see the slider. Flip the slider to switch off the iPhone. Press the Volume Down button and connect the Apple iPhone 12 Pro to the PC. Continue to hold the button until you see the recovery mode screen.
+
+**Step 2. Restore your Apple iPhone 12 Pro.**
+
+After connecting your Apple iPhone 12 Pro to the PC, you will see a popup window in iTunes saying, "There is an issue with the 'iPhone name' that needs it to be restored." In that window, select "Restore" to erase the iPhone. (If iTunes doesn't run, open iTunes by double tapping it.)
+
+**Step 3. Set up iPhone.**
+
+Hang tight for the process to wrap up. Then, a short time later, go to your Apple iPhone 12 Pro and follow the on-screen directions to set up and utilize your phone again.
+
+![itunes unlock](https://images.wondershare.com/drfone/article/2022/11/forgot-passcode-on-iphone-2.jpg)
+
+### 3\. "Erase iPhone" Option
+
+However long the locked iPhone has a functioning WiFi connection, you can now delete the Apple iPhone 12 Pro device from the lock screen. This method only works if it is running iOS 15.2 or above.
+
+![erase iphone](https://images.wondershare.com/drfone/article/2022/11/forgot-passcode-on-iphone-3.jpg)
+
+After several wrong attempts, an "Erase iPhone" choice will appear on the screen's lower part. Just tap on that, confirm you need to erase the Apple iPhone 12 Pro and enter your Apple ID details afterward. The device will then reset itself, completely deleting all data and beginning as a new one.
+
+If the Apple iPhone 12 Pro device can't connect to WiFi or data, the Apple ID approval step will fail. Then the Apple iPhone 12 Pro cannot be erased, and you will need to turn to the conventional DFU strategy.
+
+### 4\. Use Siri
+
+You can also use Siri to bypass the Apple iPhone 12 Pro passcode. Using Siri to erase the lock is an iPhone hack existing on iOS devices running iOS 8.0 to iOS 10.1. You can utilize Siri to bypass your Apple iPhone 12 Pro passcode by switching off cellular data. You also need to read a new message and set a reminder, and that's just the beginning.
+
+That is an indirect method for bypassing a forgotten passcode on iPhone. In any case, it is just available on a few iOS variants.
+
+To erase the lock screen passcode with Siri on iOS 8 to iOS 10.1:
+
+**Step 1.** Press and hold the "Home" button to actuate Siri on your Apple iPhone 12 Pro.
+
+**Step 2.** Advise Siri to set a reminder.
+
+**Step 3.** Tap the recently added reminder to open the "Reminders" application.
+
+**Step 4.** Click the "Home" button and go to the Home screen. Presently you have effectively bypassed the lock screen.
+
+![use siri](https://images.wondershare.com/drfone/article/2022/11/forgot-passcode-on-iphone-4.jpg)
+
+As you might be aware, this way is helpful because of iOS bugs. This method is also viewed as a method for hacking the iPhone. In later iOS versions, Apple fixed these bugs. In this manner, it works on iPhones running iOS 8.0 to 10.1.
+
+### 5\. Dr.Fone-Screen Unlock
+
+The Apple iPhone 12 Pro unlock software Dr.Fone-Screen Unlock will help to open the password without iTunes. It is well-versed in unlocking screen locks from various iOS devices, including the iPhone, iPad, and iPod contact. With it introduced on your PC, you can eliminate your Apple iPhone 12 Pro lock screen effectively. It can remove the 4-digit password, 6-digit password, Fingerprint, or Face ID.
+
+
+Therefore, Dr.Fone is a decent option if you like to sidestep the passcode on your Apple iPhone 12 Pro without Siri or iTunes. To fix more issues, such as bypassing the enactment lock without the past proprietor, Dr.Fone-Screen Unlock will be a decent option for you. The following steps illustrate how you can unlock your lock screen passcode:
+
+**Step 1. Connect your Apple iPhone 12 Pro/iPad**
+
+Open the Dr.Fone program on your PC and select "Screen Unlock" among all the options from the home page.
+
+![select screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+Connect your iOS device to the PC through a USB connector. Then, at that point, click the "Unlock iOS Screen" option on the screen.
+
+![unlock ios screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
+
+**Step 2. Boot iPhone in Recovery or DFU mode**
+
+Before sidestepping the Apple iPhone 12 Pro lock screen, we want to boot it in Recovery or DFU mode by adhering to the on-screen directions. Therefore, the Recovery mode is suggested for the iOS lock screen. Yet, if you can't actuate the Recovery mode, you can also use the DFU mode.
+
+![enter recovery mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
+
+**Step 3. Affirm iOS device information**
+
+After putting the Apple iPhone 12 Pro device in DFU mode, Dr.Fone will show the Apple iPhone 12 Pro device information, for example, the Apple iPhone 12 Pro device Model and OS Variant. You can choose the correct data from the dropdown menu if the information is incorrect. Then, at that point, click Download to download the firmware for your device.
+
+![select phone model](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
+
+**Step 4. Unlock the Apple iPhone 12 Pro screen lock**
+
+After the firmware is downloaded effectively, click Unlock Now to begin unlocking your Apple iPhone 12 Pro/iPad.
+
+![unlock now](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
+
+Simply shortly, your Apple iPhone 12 Pro will be unlocked effectively. Note that this unlocking process will wipe the user data on your Apple iPhone 12 Pro. However, it is practical to erase this issue from your device.
+
+
+## Part 3: How Can I Turn Off/On My Passcode?
+
+- Open your Settings application and look down until you track down the choice for the password menu. On iPhones with a home button, this will be named "Fingerprint and Password." On new ones, it is "Face ID and Password." Click this choice.
+- Enter your current password.
+- Look down until you track the "Turn Passcode Off" choice and tap it.
+
+![go to settings](https://images.wondershare.com/drfone/article/2022/11/forgot-passcode-on-iphone-5.jpg)
+
+- Click again to agree with your decision to turn off your passcode.
+
+![turn on off passcode](https://images.wondershare.com/drfone/article/2022/11/forgot-passcode-on-iphone-6.jpg)
+
+### The Bottom Line
+
+Indeed, if you **forgot the passcode on the iPhone,** there are a few ways to get into your phone again. However, the best way is to use professional software to do the task for you. Therefore, we strongly suggest you install the Wondershare Dr.Fone-Screen Unlock software. It is a security tool and worth trying when you **forgot iPhone passcode.** So download it today for a quick unlocking experience.
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-6s-drfone-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-12-with-or-without-password-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone 12 With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-12-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone 12 Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-xs-drfone-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-11-without-a-passcode-drfone-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 11 Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/resolve-your-apple-iphone-13-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your Apple iPhone 13 Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabled-apple-iphone-8-how-to-unlock-a-disabled-apple-iphone-8-drfone-by-drfone-ios/"><u>In 2024, Disabled Apple iPhone 8 How to Unlock a Disabled Apple iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-15-pro-max-and-ipad-securely-drfone-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 15 Pro Max and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-iphone-13-pro-max-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-12-passcode-without-a-computer-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone 12 Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-xs-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone XS Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-apple-iphone-se-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on Apple iPhone SE With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-15-i-do-get-answers-here-drfone-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone 15 i Do? Get Answers here | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-12-mini-properly-drfone-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 12 mini Properly | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-apple-iphone-6s-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From Apple iPhone 6s? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-poco-f5-5g-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Poco F5 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-5-ways-to-track-apple-iphone-xs-without-app-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways to Track Apple iPhone XS without App | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/4-methods-to-turn-off-life-360-on-samsung-galaxy-a05-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>4 Methods to Turn off Life 360 On Samsung Galaxy A05 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/2024-approved-5-recommended-websites-for-text-gif-maker/"><u>2024 Approved 5 Recommended Websites for Text GIF Maker</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Oppo Reno 11F 5G? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/what-is-the-best-fps-for-youtube-videos-in-2024/"><u>What Is the Best FPS for YouTube Videos, In 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-most-useful-tips-for-pokemon-go-ultra-league-on-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Most Useful Tips for Pokemon Go Ultra League On Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-realme-narzo-60x-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Realme Narzo 60x 5G Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-iphone-x-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on iPhone X</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-realme-c55-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Realme C55 | Dr.fone</u></a></li>
+</ul></div>
+
+

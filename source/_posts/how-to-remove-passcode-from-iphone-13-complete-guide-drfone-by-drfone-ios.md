@@ -1,0 +1,511 @@
+---
+title: How To Remove Passcode From iPhone 13? Complete Guide | Dr.fone
+date: 2024-05-19T07:28:05.089Z
+updated: 2024-05-20T07:28:05.089Z
+tags: 
+  - unlock
+  - remove screen lock
+categories:
+  - ios
+  - iphone
+description: This article describes How To Remove Passcode From iPhone 13? Complete Guide
+excerpt: This article describes How To Remove Passcode From iPhone 13? Complete Guide
+keywords: unlock disabled iphone without computer,how to unlock an iphone 13,get into locked iphone,how to unlock iphone to use usb accessories,ios 17 lock screen,change apple id on ipad,unlock iphone screen passcode,bypass ios 14 lock screen,how to unlock iphone with itunes,turn off restricted mode,forgot passcode on iphone
+thumbnail: https://www.lifewire.com/thmb/DHxaJkZu-_13cCciVcRs3Mq0nj4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/012_how-to-make-video-call-on-android-bd93ab594aa648c7977f4c1ecf42c85b.jpg
+---
+
+## How To Remove Passcode From Apple iPhone 13? Complete Guide
+
+If you have an iPhone, you've likely set a passcode to protect your device. While this is a great security measure, you may need to remove the passcode. Whether you want to get rid of your code or plan to sell your phone, these instructions will show you how to remove your passcode from your Apple iPhone 13 in just a few steps.
+
+Not just this, we will give you different methods so that you can select the most convenient one for you.
+
+So let's get started.
+
+## 3 Useful Methods to Remove Passcode from iPhone
+
+Following are some of the most effective methods to remove the passcode from iPhones:
+
+### 1\. Tape "Turn Passcode Off" in "Settings"
+
+This is the most common and easy method to remove the passcode from iPhone. You can follow these steps:
+
+![remove passcode from iphone](https://images.wondershare.com/drfone/article/2022/11/how-to-remove-passcode-from-iphone-1.jpg)
+
+1. Go to "Settings" and scroll down to find "Touch ID & Passcode (or Face ID & Passcode)."
+2. Click on "Turn Passcode Off"
+3. Confirm with your current passcode
+
+However, this method can help you only when you know your Passcode. In case you have forgotten it, you can use the following methods.
+
+### 2\. Remove via iTunes (Erase iPhone)
+
+This is another popular method that people use to remove Passcode from iPhones. However, it will delete all your data from the Apple iPhone 13 device. So, if you want this method, make sure you have taken a backup of your data first.
+
+![remove passcode from iphone via itunes](https://images.wondershare.com/drfone/article/2022/11/how-to-remove-passcode-from-iphone-2.jpg)
+
+You can follow these steps:
+
+1. Connect your Apple iPhone 13 to the computer and launch iTunes
+2. Click on "Summary"> "Restore iPhone."
+3. Confirm "Restore" when prompted
+4. iTunes will now start erasing your device, and once it's done, you can set up your device as new.
+
+### 3\. Use the "Find My" feature to remove the Passcode
+
+If you have enabled the "Find My" feature on your device, you can remove the passcode. Here's how:
+
+![how to remove passcode from iphone](https://images.wondershare.com/drfone/article/2022/11/how-to-remove-passcode-from-iphone-3.jpg)
+
+1. Get into iCloud.com from any web browser
+2. Enter your Apple ID and password to log in
+3. Click on "All Devices" at the top of the screen
+4. Select your Apple iPhone 13 from the list
+5. Click on "Erase iPhone" and confirm when prompted
+
+This way will erase all the data on your device, but it will also remove the passcode. Once it's done, you can set up your device as new.
+
+So these are some simple methods that you can use to remove passwords from your Apple iPhone 13. You can use these methods if your Apple iPhone 13 is working fine and there is no software problem.
+
+But if you are facing bugs in your Apple iPhone 13 while erasing the passcode, you might do nothing because nothing will work fine on your Apple iPhone 13. In this case, you can follow the method given above.
+
+## Bonus Tips: Easy App to Remove Passcode from Your Apple iPhone 13
+
+If you want a hassle-free solution to remove the passcode from your Apple iPhone 13, we recommend you use [Wondershare Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). It is a widely used and trusted tool that can help remove any passcode from your device, including 4/6-digit passcodes, Face/Touch IDs, and even commercial codes.
+
+![remove passcode](https://images.wondershare.com/drfone/article/2022/11/how-to-remove-passcode-from-iphone-4.jpg)
+
+Here are some of its key features:
+
+- It can remove all passcodes from your device, including 4/6-digit codes, Touch/Face ID, etc.
+- It can help you bypass the lock screen if you have forgotten your Passcode.
+- It is compatible with all versions of iOS
+- It's not necessary to be a technician to use this tool. Anybody can use it with ease. Anybody can use it with ease.
+
+These features show that this tool is really helpful, and you can use it to remove the passcode from your Apple iPhone 13 without any problem.
+
+So, let's discuss how you can use it to remove the passcode on your Apple iPhone 13.
+
+**Step #1: Installation and Launch**
+
+First, you need to download and install the tool on your computer and launch it. To download, you can follow the link given below.
+
+Download Wondershare Dr.Fone - Screen Unlock [**for Windows**](https://download.wondershare.com/drfone_unlock_full3372.exe) or [**for Mac**](https://download.wondershare.com/drfone_unlock_full3359.dmg)
+
+**Step #2: Set Up the Tool**
+
+Now you need to set up the tool by following the steps given below.
+
+1. Once it's done, select "Screen Unlock" from the main interface.
+2. By going into the Screen Unlock feature, you will see another screen where you have to click on Unlock iOS Screen.
+
+![drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+**Step #3: Connect your Apple iPhone 13 in DFU Mode**
+
+Now you need to connect your Apple iPhone 13 to DFU mode.
+
+Most people don't know how to put their iPhones in DFU mode or recovery mode but don't worry. You will see clear instructions on the screen about putting your Apple iPhone 13 in DFU mode.
+
+![connect iphone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
+
+You can follow those instructions and proceed to the next step.
+
+**Step #4: Download Firmware Package**
+
+After you have put your Apple iPhone 13 in DFU mode, the tool will detect it and show you some information about your device. You need to check that information about your Apple iPhone 13 and Firmware and then click on the "**Download**" button to download the firmware package for your device.
+
+![how to remove a passcode from iphone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
+
+The downloading process might take some time according to your internet connection. So wait patiently until the process is completed.
+
+**Step #5: Unlock your Apple iPhone 13**
+
+Once the firmware package is downloaded, you need to click the "Start to Unlock" button and then confirm the command.
+
+![remove passcode from iphone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
+
+After the unlock process, you can use it without any passcode or restrictions. You can use it as you want and access all the features of your device.
+
+This was the complete process of using the Wondershare Dr.Fone-Screen Unlock feature to remove the passcode from your Apple iPhone 13. You can follow this process if you face any problems while erasing the passcode from your device.
+
+Besides, all the methods discussed in this article work fine with most iPhones, but the ideal method is to remove the Apple iPhone 13 passcode using Dr.Fone-Screen Unlock (iOS). We have tested this method with various iPhones, and it worked perfectly fine. So, if you want a reliable and easy-to-use method, we recommend you use Dr.Fone-Screen Unlock (iOS) without hesitation.
+
+
+## FAQs
+
+We know there might be lots of questions running through your mind about this process. So, we have tried responding to frequently asked questions about this process.
+
+### Can I remove the passcode from my iPhone without data loss?
+
+No, removing the Passcode from iPhone without data loss is impossible. But we recommend you use iTunes. You can connect your Apple iPhone 13 to iTunes and then create a backup of your device. After that, you can restore your device from the backup, and your device will be unlocked without any data loss.
+
+Please remember, if you have already created a backup of your device, it will overwrite the existing backup. So make sure you create a new backup of your device before proceeding.
+
+### Can I remove the passcode via hard restart?
+
+No, you can't remove the passcode from your device via a hard restart. If you try to do it, it will erase all the data from your device, and there is no possibility of accessing it anymore. So, we recommend you not to try it.
+
+Instead, you can try the method in this article to remove the Passcode from your device.
+
+### How to change the passcode on my iPhone?
+
+If you want to change the passcode on your Apple iPhone 13, you can go to Settings-> Touch ID & Passcode (or Face ID & Passcode) and enter your current passcode.
+
+After that, you can enter the new passcode that you want to set for your device.
+
+Besides, there is no way to change the passcode on your device. So, if you forget your passcode, you will have to factory reset your device to access it again.
+
+### How to remove the passcode if I forgot it?
+
+If you forgot the passcode of your device and you want to remove it, then you can follow the steps given in this article. We have explained the complete process of removing the passcode from your device if you forgot it.
+
+### The Bottom Line
+
+That's all about how you can remove the Passcode from your Apple iPhone 13. We have explained the complete process of how you can do it. You can follow those steps and easily remove the Passcode from your device. But remember, by doing this, all the data on your device will be erased. So make sure you create a backup of your device before proceeding.
+
+If you have any other questions or doubts about this process, feel free to ask us. We would be sincerely happy to help you out.
+
+## How Can I Unlock My Apple iPhone 13 After Forgetting my PIN Code?
+
+Unlocking a phone using a passcode is a great way to keep your data safe. To secure your device, you can set a 4-digit, 6-digit, fingerprint, or Face ID. However, what will happen if you **forgot iPhone PIN?** You will not be able to unlock and use the services of your device.
+
+Furthermore, you can't manage any vital task if you have scheduled it. In such cases, you need to unlock the lock through an efficient procedure. This article elaborates on such practical techniques for **iPhone PIN code** removal. We will also introduce the top tool available in the market.
+
+All the solutions mentioned here are highly secure and work almost every time. So, if you are worried about the security of your device, we suggest you use Dr.Fone-Screen Unlock. It is the best tool in case of a **forgotten iPhone PIN.**
+
+## Part 1: 4 Simple Ways to Unlock iPhone without Pin
+
+### 1\. "Erase iPhone" option
+
+The steps below work if your Apple iPhone 13 or iPad runs iOS 15.2 or later and is connected to the internet. Here's what you need to do when you **forgot iPhone PIN**:
+
+- Please enter your password a few times from your device's Lock Screen until it requests that you attempt another time. Then repeat this activity until you see the Erase iPhone choice in the corner of the screen.
+- Tap Erase iPhone, then click again to confirm your activity.
+
+![erase iphone](https://images.wondershare.com/drfone/article/2022/11/forgotten-iphone-pin-1.jpg)
+
+- Enter your Apple account details to sign out of your Apple ID on the phone.
+- Tap Erase iPhone back to erase all your user data and settings for all time.
+- At the point when the iOS device restarts, adhere to the on-screen directions. Set your phone once more, and restore your data and settings from a backup. Now set a new password for your device.
+
+**Instructions to Restore a Locked iPhone Running iOS 15.1 or Prior**
+
+- To begin with, put your Apple iPhone 13 into DFU recovery mode.
+- Then, connect it to a PC or Macintosh through a Lightning link.
+- Select your Apple iPhone 13 in the Finder sidebar on Mac or iTunes on the PC.
+- Pick Restore when you see the choice to Restore. Let the download finish if the download takes over 15 minutes and your device leaves the recovery mode screen. Then, at that point, turn off your Apple iPhone 13 and start once more.
+
+![click restore](https://images.wondershare.com/drfone/article/2022/11/forgotten-iphone-pin-2.jpg)
+
+- Disconnect your Apple iPhone 13, then, at that point, turn it on and set it up. That's all you need to do.
+
+### 2\. Use Find My iPhone in iCloud
+
+Apple allows clients to erase iPhone data to safeguard it from others remotely. However, your lock screen can still protect your data if you don't erase the iPhone. No one can unlock the screen unless they enter the correct password. After too many wrong password attempts, your Apple iPhone 13 will be locked. So no one can then touch your user data.
+
+If you have enabled the "Find My" option before **forgotten iPhone PIN**, there is a chance for you to remove the lock. That is to utilize iCloud.
+
+To unlock iPhone through iCloud:
+
+**Step 1.** Visit the iCloud.com web page and log in with your Apple ID and passcode.
+
+**Step 2.** Click the "Find iPhone" option from the different choices available.
+
+**Step 3.** Click "All Devices" and pick the Apple iPhone 13 device you need to unlock.
+
+**Step 4.** Click the "Erase iPhone" button. Subsequently, set up the Apple iPhone 13 device and set another lock screen PIN. With iCloud, you can unlock your iDevice without even touching your device.
+
+![icloud unlock](https://images.wondershare.com/drfone/article/2022/11/forgotten-iphone-pin-3.jpg)
+
+### 3\. Unlock it with iTunes
+
+Suppose you use iTunes to restore the Apple iPhone 13 in recovery mode; it will install the latest iOS to your device. Doing so will erase all user data from the Apple iPhone 13 device, including the lock screen. So, this is also an excellent way to unlock your Apple iPhone 13. However, you must keep a backup of your important files before doing so.
+
+Utilizing iTunes will wipe out the iPhone. You can restore the data from there if you have a previous backup. If you have nothing, you will lose every data on the iPhone.
+
+Additionally, ensure that you keep your iDevices' Apple ID details safe. Else, you will not have the option to use the iDevice again. Using iTunes will erase the screen's password but not the firmware. Considering that, you must keep the information in mind to set up and utilize the Apple iPhone 13 device.
+
+To sidestep iPhone password with iTunes:
+
+**Step 1. Go to Recovery mode**
+
+**On iPhone 8/8 Or more and Above:** Hold the power/side button and press any of the volume buttons until a slider appears. Move the slider to turn off the Apple iPhone 13 device. Next, press and hold the power button and connect your Apple iPhone 13 to the PC. Hold the button until the Apple iPhone 13 device shows the recovery mode screen.
+
+**On iPhone 7/7 Or Below:** Press and hold the power button until you see the power off slider. Next, move the slider to turn off the iPhone. Then, press the Volume (-) button and connect the Apple iPhone 13 device to the PC. Continue to hold the button until you see the recovery mode screen.
+
+**Step 2. Restore your Apple iPhone 13.**
+
+After you connect your Apple iPhone 13 to the PC, you will see a popup window in iTunes. It will warn about an issue with the "Your iPhone name" and ask you to restore it. In that window, select "Restore" to erase the iPhone. If iTunes doesn't run naturally, open iTunes by double tapping it.
+
+**Step 3. Set up iPhone.**
+
+Keep waiting until the restoration completes. Then, a short time later, go to your Apple iPhone 13 and follow the on-screen directions. That will allow you to set up and utilize your device.
+
+![itunes unlock](https://images.wondershare.com/drfone/article/2022/11/forgotten-iphone-pin-4.jpg)
+
+### 4\. Dr.Fone-Screen Unlock
+
+
+What to do if you **forgot iPhone PIN code**? As a reference, you have to erase your device to remove the lock. Aside from iTunes, you can use an outsider iPhone unlocker like Dr.Fone-Screen Unlock to unlock your device without a code.
+
+With such software, you don't have to master some professional skills. Instead, stick to the on-screen directions in Wondershare Dr.Fone-Screen Unlock. Then, you can reset your locked device without any problem. Dr.Fone will eliminate it for you, whether it's a four-digit code, six-digit code, Contact ID, or Face ID. Here's how:
+
+**Step 1. Get your Device Connected**
+
+Install and open the program on a computer, i.e., Mac or Windows. Then, tap the "Screen Unlock" option.
+
+![select screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+Get your locked iPhone connected to the system utilizing a lightning USB connector. Following these steps, click the "Unlock iOS Screen" feature on the program.
+
+![unlock ios screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
+
+**Step 2. Boot the Recovery/DFU Mode on your Device**
+
+To unlock iPhone, you need to boot it in Recovery/DFU mode by following the guidelines on your screen. Therefore, the Recovery mode is a better choice for iPhone unlock. Yet, if you face problems while going for the Recovery mode, you may enact the DFU mode.
+
+![enter recovery mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
+
+**Step 3. Confirm Your Apple iPhone 13 Model**
+
+After opening the recovery mode, you can see your Device Model and iOS version. You must select the correct data from the dropdown menu if the information is incorrect. After doing so, click download to download the suitable firmware package for your phone model.
+
+![select phone model](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
+
+**Step 4. Remove the Screen Lock Passcode**
+
+After getting the required firmware, click the "Unlock Now" button to begin the process.
+
+![unlock now](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
+
+Simply in almost no time, your Apple iPhone 13 will be unlocked effectively. However, kindly note this unlocking system will likewise wipe all the files and settings on your device. Therefore, you must have a backup of your essential documents beforehand.
+
+
+## Part 2: FAQs
+
+### How can I change my PIN on my iPhone?
+
+- Open your Settings app and peer down until you see the passcode menu. On iPhones with a home button, this will be named "Touch ID and Passcode." On new ones, it is "Face ID and Passcode."
+
+![passcode menu](https://images.wondershare.com/drfone/article/2022/11/forgotten-iphone-pin-5.jpg)
+
+- Enter your existing code or create a new one.
+- Toggle on the "Turn Passcode Off" option.
+- Click again to agree, and you're good to go.
+
+![turn on off passcode](https://images.wondershare.com/drfone/article/2022/11/forgotten-iphone-pin-6.jpg)
+
+### What to do after unlocking my iPhone?
+
+There are certain things you must do after unlocking your iDevice. First, you must immediately set a new PIN for your iDevice. Apart from that, restore your previous data if you have a backup. Having done so, you are good to go.
+
+### Can I access my locked iPhone without data loss?
+
+No, you cannot unlock a locked iDevice without losing your data. Apple has made some outstanding security features in their phones. Therefore, you must erase all its content and settings if you need to get your hands on an unlocked phone again.
+
+### The Bottom Line
+
+Due to one reason or another, you may have **forgotten iPhone PIN.** However, it is not that big a deal. In this article, we have proposed some of the best ways you can employ to erase this issue. However, we strongly recommend you use Dr.Fone for a quick solution.
+
+## How To Fix Apple iPhone 13 Unavailable Issue With Ease
+
+The Apple iPhone 13 stands out as an impressive device that integrates technology and practicality. Nonetheless, even the most cutting-edge devices experience occasional setbacks. Among these, one major problem for iPhone users is the "iPhone Unavailable" message. This problem typically arises when many incorrect passcode attempts have locked the Apple iPhone 13 device. It renders the Apple iPhone 13 device inaccessible, displaying the "iPhone Unavailable" prompt.
+
+Yet, worry not, for reliable methods exist to address this problem efficiently. In this guide, we'll explore the best and proven techniques for **how to fix iPhone unavailable**. We will also walk you through step-by-step solutions and provide clear instructions to resolve your unavailable iPhone.
+
+![fix iphone unavailable](https://images.wondershare.com/drfone/article/2024/01/how-to-fix-iphone-unavailable-issue-1.jpg)
+
+## Part 1. iPhone is Unavailable: Explaining the Basics
+
+The "iPhone Unavailable" issue is a distressing fix encountered by users. It occurs when their **iPhone becomes unavailable with a black screen** and inaccessible due to many incorrect passcode attempts. This problem arises as a security measure implemented by Apple. Its primary aim is to protect the data on the Apple iPhone 13 device and deter unauthorized access.
+
+The iPhone's security mechanism typically activates after six wrong attempts. It starts with making the Apple iPhone 13 unavailable for a specific period. The device becomes permanently locked when the incorrect code is entered consecutively for the 10th time. This lock manifests as the "iPhone Unavailable" message on the screen.
+
+This acts as a shield against potential intruders trying to gain access by guessing or brute-forcing the passcode. However, this protective measure can affect users who forget their passcodes or insert incorrect entries mistakenly. For example, there are cases of children playing with the Apple iPhone 13 device, leading to accidental key presses. All of this makes learning **how to unlock the Apple iPhone 13 unavailable** an essential thing to learn.
+
+## Part 2. \[Top Fix\] Unlock iPhone Unavailable Without Lossing Data By Wondershare Dr.Fone
+
+When faced with the "iPhone Unavailable" issue, the most common cause is forgetfulness. The other major cause is the accidental incorrect entries of the Apple iPhone 13 device's passcode. This predicament leaves users locked out of their iPhones and functionalities. [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) emerges as a leading solution to tackle this frustrating problem.
+
+It is designed to address various iOS-related issues, including unlocking disabled iPhones. Dr.Fone offers a user-friendly approach to regaining access to your device. The tool offers a smooth process that bypasses the locked screen, allowing users to regain entry into their iPhones. It can remove all screen locks like passcode, password, Touch ID, and Face ID.
+
+### Key Highlights of Wondershare Dr.Fone
+
+1. You can [remove the iCloud activation lock](https://drfone.wondershare.com/icloud/bypass-iphone-11-12-icloud-activation-lock.html)swiftly and effortlessly with Dr.Fone's iPhone unlocking function.
+2. It effectively [bypasses the Apple ID lock](https://drfone.wondershare.com/unlock/how-to-get-someones-apple-id-off-iphone-without-password.html)permanently, irrespective of the activation of Find My/Find My iPhone on the Apple iPhone 13 device.
+3. Fone empowers you to [bypass MDM](https://tools.techidaily.com/wondershare/drfone/unlock-android-screen/)restrictions from your device without data loss or the necessity to jailbreak your device.
+
+### Steps To Unlock Your Apple iPhone 13 Unavailable With Wondershare Dr.Fone
+
+With Dr.Fone, even users with no tech prowess can easily unlock their devices. Below is the guide to **iPhone unavailable how to fix** using Wondershare Dr.Fone - Screen Unlock (iOS):
+
+**Here is a video for you to learn how to unlock your Apple iPhone 13 screen:**
+
+- **Step 1. Dr.Fone Installation and iOS Screen Unlock Setup**
+
+After installing Wondershare Dr.Fone onto your computer, launch it. Proceed by accessing "Toolbox," followed by “Screen Unlock.” Now choose "iOS" as the Apple iPhone 13 device type and choose the "Unlock iOS Screen" option. Click "Start" on the next screen to start the unlocking process for your iOS device.
+
+![select unlock ios screen option](https://images.wondershare.com/drfone/guide/unlock-ios-screen-2.png)
+
+
+- **Step 2. iDevice Recovery Mode and Firmware Download**
+
+Afterward, place your iDevice into Recovery Mode by following the on-screen instructions. Then, the platform will detect the “Device Model” and showcase it. If necessary, change the model and choose the “System Version.” Once these adjustments are made, click on "Start "to continue. The next screen will display the download progress of the iOS firmware.
+
+![start unlock process](https://images.wondershare.com/drfone/guide/unlock-ios-screen-5.png)
+
+- **Step 3. iOS Firmware Verification and Unlocking Confirmation**
+
+After ensuring the iOS firmware is downloaded and validated, you're ready to proceed. To begin unlocking, click the "Unlock Now" button. This action will trigger a confirmation prompt asking you to enter the necessary code. Once entered, tap "Unlock" to advance to the last stage. Click the "Done" button to complete the process when your device is unlocked.
+
+![ unlock by typing the required code](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
+
+_**Tips:** Are you searching for a powerful iPhone Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
+
+## Part 3. How To Unlock iPhone Unavailable Using Find My
+
+When encountering the Apple iPhone 13 Unavailable issue, a method to regain access is Apple's Find My feature. This method allows users to erase their device remotely and set it up again. Nevertheless, it's important to emphasize that this procedure will delete all information on the Apple iPhone 13 device while unlocking it. Below is a detailed, step-by-step guide on unlocking your Apple iPhone 13 Unavailable using Find My:
+
+- **Step 1.** Using a web browser, access the [iCloud](https://www.icloud.com/) website and “Sign In” using your Apple ID and password. Once logged in, scroll down and click the "Find My" option on the website.
+
+![access find my on icloud website](https://images.wondershare.com/drfone/article/2024/01/how-to-fix-iphone-unavailable-issue-5.jpg)
+
+- **Step 2.** On the following screen, select the unavailable iPhone from the "All Devices” section on the left side. Once you access the Apple iPhone 13 device options, tap the "Erase this Device" option. Afterward, follow the on-screen prompts to erase the Apple iPhone 13 device completely.
+
+![erase device via icloud website](https://images.wondershare.com/drfone/article/2024/01/how-to-fix-iphone-unavailable-issue-6.jpg)
+
+## Part 4. How To Unlock iPhone Unavailable Using Erase iPhone Feature
+
+One potential solution to resolve the Apple iPhone 13 Unavailable issue is the “Erase iPhone” feature. It is available for users running iOS 15.2 or higher via the Apple iPhone 13 device itself. This method is straightforward but requires you to have your device's Apple ID password. Using this method will result in all data deletion on your Apple iPhone 13. The following is **how to unlock unavailable iPhone** using Erase iPhone:
+
+- **Step 1.** To begin, look for the "Erase iPhone" option in the bottom right corner of your Apple iPhone 13.
+
+![erase iphone after entering wrong passcode](https://images.wondershare.com/drfone/article/2024/01/how-to-fix-iphone-unavailable-issue-7.jpg)
+
+- **Step 2.** A prompt will appear on the screen, warning you about the data loss or trying again in 15 minutes. Here, tap “ Erase iPhone” again, and on the following screen, enter the Apple ID “Password.” This will kickstart the process of erasing your Apple iPhone 13, and it will become available.
+
+![erase start process via apple id](https://images.wondershare.com/drfone/article/2024/01/how-to-fix-iphone-unavailable-issue-8.jpg)
+
+## Part 5. How To Unlock iPhone Unavailable Using Other Device
+
+If another device uses the same Apple ID as your locked device, you can use it to unlock it. You can remotely erase the locked device using the Find My app on this trusted device. It's important to note that this action necessitates your Apple ID credentials.
+
+Moreover, it will result in deleting all data on the locked device. These are the steps to remove the "Unavailable" iPhone from another device:
+
+- **Step 1.** Access the Find My app on your reliable iOS device and log in with your Apple ID details. Within the Find My interface, expand the "Devices" tab from the bottom side of the screen.
+
+![access devices on find my app](https://images.wondershare.com/drfone/article/2024/01/how-to-fix-iphone-unavailable-issue-9.jpg)
+
+- **Step 2.** Within "Devices," locate and select the "Unavailable" iPhone from the list of devices. Once you have selected the Apple iPhone 13 device, choose "Erase This Device" from the available options after scrolling down.
+
+![erase device using find my app](https://images.wondershare.com/drfone/article/2024/01/how-to-fix-iphone-unavailable-issue-10.jpg)
+
+- **Step 3.** Afterward, press the "Continue" button to confirm your choice. On the following screen, "Enter Phone Number" if needed and tap the "Erase" option at the top right corner. Next, write your "Apple ID password for verification purposes and again hit the "Erase" option to erase the Apple iPhone 13 device quickly.
+
+![provide apple id password for erasing](https://images.wondershare.com/drfone/article/2024/01/how-to-fix-iphone-unavailable-issue-11.jpg)
+
+## Part 6. How To Unlock iPhone Unavailable Using iTunes
+
+Consider utilizing iTunes as a solution for the "iPhone Unavailable" issue. It involves the restoration of your device to its factory settings. While effective, note that it leads to complete data loss. Unlocking your Apple iPhone 13 Unavailable via iTunes is detailed in the following step-by-step guide:
+
+- **Step 1.** Make certain your computer has the most recent version of iTunes installed. Afterward, connect your Apple iPhone 13 to it via a USB cable. To place your device into Recovery Mode, refer to the appropriate guide based on your Apple iPhone 13 model.
+- **For iPhone 8 or Later:**Press the Volume Up button momentarily, followed by the Volume Down button similarly. Press the Side button until the recovery mode screen is displayed.
+- **For iPhone 7 and 7 Plus**: Simultaneously press the Volume Down and Sleep/Wake buttons and hold them until the recovery mode screen comes up.
+- **For iPhone 6s and Earlier:**Simultaneously press the Home and Sleep/Wake buttons until the recovery mode screen emerges.
+
+![put iphone into recovery mode](https://images.wondershare.com/drfone/article/2024/01/how-to-fix-iphone-unavailable-issue-12.jpg)
+
+- **Step 2.** In iTunes, a notification will appear, signaling a problem with the Apple iPhone 13 that needs to be updated or restored. Select the "Restore" option to commence the restoration procedure. This action will delete all data and configurations on the Apple iPhone 13 and install the most recent iOS version.
+
+![restore iphone via itunes](https://images.wondershare.com/drfone/article/2024/01/how-to-fix-iphone-unavailable-issue-13.jpg)
+
+## Conclusion
+
+In conclusion, several helpful methods exist for **how to unlock unavailable iPhone**. Various techniques offer solutions, including iTunes, Find My, and other device removal methods. Dr.Fone distinguishes itself as the most effective choice. This is due to its user-friendly interface and capability to bypass the lock, making it the optimal solution.
+
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://iphone-unlock.techidaily.com/passfab-apple-iphone-8-plus-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab Apple iPhone 8 Plus Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-13-pro-max-in-lost-mode-drfone-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone 13 Pro Max in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-iphone-13-5-ways-to-get-into-a-locked-iphone-13-drfone-by-drfone-ios/"><u>In 2024, Locked Out of iPhone 13? 5 Ways to get into a Locked iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/can-you-unlock-iphone-8-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>Can You Unlock iPhone 8 After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-15-pro-max-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock Apple iPhone 15 Pro Max Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-8-plus-with-7-methods-drfone-by-drfone-ios/"><u>How To Change Country on App Store for iPhone 8 Plus With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-11-pro-max-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 11 Pro Max Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-6s-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone 6s Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabling-iphone-xs-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>Disabling iPhone XS Parental Restrictions With/Without Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-apple-iphone-6s-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your Apple iPhone 6s When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-6s-plus-drfone-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-13-mini-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone 13 mini Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/4-ways-to-unlock-iphone-6s-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>4 Ways to Unlock iPhone 6s to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-apple-iphone-15-pro-max-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on Apple iPhone 15 Pro Max With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-12-drfone-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-x-drfone-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone X | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-6s-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone 6s When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabled-iphone-6-plus-how-to-unlock-a-disabled-iphone-6-plus-drfone-by-drfone-ios/"><u>In 2024, Disabled iPhone 6 Plus How to Unlock a Disabled iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-se-2022-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone SE (2022) Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-se-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-14-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-12-pro-max-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot iPhone 12 Pro Max Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-apple-iphone-14-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 14 Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-locked-iphone-6s-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Forgot Locked iPhone 6s Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-6-i-do-get-answers-here-drfone-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone 6 i Do? Get Answers here | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-se-2022-drfone-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-iphone-15-pro-maxipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled iPhone 15 Pro Max/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/apple-iphone-6-plus-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>Apple iPhone 6 Plus Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-11-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-your-disabled-iphone-13-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>Unlock Your Disabled iPhone 13 Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-11-and-ipad-securely-drfone-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 11 and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-stolen-apple-iphone-8-in-different-conditionsin-drfone-by-drfone-ios/"><u>How To Unlock Stolen Apple iPhone 8 In Different Conditionsin | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-pro-max-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Pro Max With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-iphone-7-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>How to Bypass iPhone 7 Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-14-5-ways-to-get-into-a-locked-apple-iphone-14-drfone-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone 14? 5 Ways to get into a Locked Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-15-drfone-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-14-plus-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 14 Plus With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-12-pro-with-7-methods-drfone-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for iPhone 12 Pro With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-apple-iphone-x-in-lost-mode-drfone-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock Apple iPhone X in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/passfab-iphone-15-pro-max-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab iPhone 15 Pro Max Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-14-pro-i-do-get-answers-here-drfone-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone 14 Pro i Do? Get Answers here | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-iphone-13-mini-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab iPhone 13 mini Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-iphone-11-pro-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>In 2024, Unlock iPhone 11 Pro With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-xs-max-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone XS Max with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-xs-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone XS to other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-expert-analysis-top-ogg-converters-and-their-capabilities-for-2024/"><u>Updated Expert Analysis Top OGG Converters and Their Capabilities for 2024</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-realme-12-proplus-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Realme 12 Pro+ 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-tecno-pova-5-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Tecno Pova 5 Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-15-plus-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 15 Plus Without iTunes? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-from-apple-iphone-x-smoothly-by-drfone-ios/"><u>How To Remove iCloud From Apple iPhone X Smoothly</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-high-definition-video-made-easy-a-beginners-guide-to-pixels/"><u>Updated 2024 Approved High-Definition Video Made Easy A Beginners Guide to Pixels</u></a></li>
+<li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-oneplus-ace-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on OnePlus Ace 3 | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-create-viral-memes-with-these-10-top-rated-mobile-apps/"><u>2024 Approved Create Viral Memes with These 10 Top-Rated Mobile Apps</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-a-comprehensive-guide-to-slow-motion-youtube-videos-and-how-to-manage-them-for-2024/"><u>New A Comprehensive Guide to Slow Motion YouTube Videos and How to Manage Them for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-14-plus-to-the-latest-iosipados-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 14 Plus to the Latest iOS/iPadOS Version? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/make-a-splash-with-these-top-10-gaming-intro-generators-for-windows-and-mac-for-2024/"><u>Make a Splash with These Top 10 Gaming Intro Generators for Windows and Mac for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-xs-after-forgetting-my-pin-code-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone XS After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-iphone-xr-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with iPhone XR Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/fixed-microsoft-excel-2023-cannot-access-the-file-error-stellar-by-stellar-guide/"><u>Fixed Microsoft Excel 2023 Cannot Access the File Error | Stellar</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-oppo-f25-pro-5g-by-drfone-android/"><u>How to Bypass FRP on Oppo F25 Pro 5G?</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-top-5-tools-to-convert-text-to-audio-online-for-free-for-2024/"><u>Updated Top 5 Tools to Convert Text to Audio Online for Free for 2024</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/new-2024-approved-5-foolproof-amazing-anime-text-to-speech-tips/"><u>New 2024 Approved 5 Foolproof Amazing Anime Text to Speech Tips</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-poco-x5-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Poco X5 Phone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/unlocking-iphone-14-pro-max-passcode-without-a-computer-by-drfone-ios/"><u>Unlocking iPhone 14 Pro Max Passcode without a Computer</u></a></li>
+</ul></div>
+
+
