@@ -1,7 +1,7 @@
 ---
 title: Complete Guide on Unlocking Apple iPhone 8 with a Broken Screen? | Dr.fone
-date: 2024-05-19T07:27:24.055Z
-updated: 2024-05-20T07:27:24.055Z
+date: 2024-07-08T12:50:26.689Z
+updated: 2024-07-09T12:50:26.689Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Complete Guide on Unlocking Apple iPhone 8 with a Broken Screen?
 excerpt: This article describes Complete Guide on Unlocking Apple iPhone 8 with a Broken Screen?
 keywords: iphone swipe up not working,iphone backup unlocker,change apple id password,unlock iphone 14,solve iphone randomly asking for apple id,change apple id email address,iphone passcode changed itself,how to unlock an iphone 13
-thumbnail: https://www.lifewire.com/thmb/5dWfE2pdmNCU9qpfDVc7QhYieRw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/X-Logo-on-Phone-35c83db6a3c34b689ab069ff50b96bcc.jpg
+thumbnail: https://thmb.techidaily.com/93e8b8eb6bc88169936766a6461fe23e663eb59793bd9736b13ed221555fa6ea.jpg
 ---
 
 ## Complete Guide on Unlocking Apple iPhone 8 with a Broken Screen?

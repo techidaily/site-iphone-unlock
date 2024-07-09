@@ -1,7 +1,7 @@
 ---
 title: Unlocking iPhone SE Passcode without a Computer | Dr.fone
-date: 2024-05-19T07:27:07.964Z
-updated: 2024-05-20T07:27:07.964Z
+date: 2024-07-08T12:50:21.594Z
+updated: 2024-07-09T12:50:21.594Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Unlocking iPhone SE Passcode without a Computer
 excerpt: This article describes Unlocking iPhone SE Passcode without a Computer
 keywords: erase iphone when locked,forgot passcode on iphone,how to unlock iphone without passcode or face id,iphone backup unlocker,unlock iphone 11 12 13 without passcode,unlock disabled iphone without computer
-thumbnail: https://www.lifewire.com/thmb/4J2iVgv99e0e6zd-RILzsk4gPzo=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1134410016-75c4b547097941299e55dceeef4b764c.jpg
+thumbnail: https://thmb.techidaily.com/9b6e560f5ae8bf8946a31c995d6c73a4779b962b2219e90738423fb3fbbee898.jpg
 ---
 
 ## Unlocking Apple iPhone SE Passcode without a Computer

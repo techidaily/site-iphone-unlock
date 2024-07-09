@@ -1,7 +1,7 @@
 ---
 title: How to Unlock iPhone XR with a Mask On | Dr.fone
-date: 2024-06-15T18:11:16.020Z
-updated: 2024-06-16T18:11:16.020Z
+date: 2024-07-08T12:50:21.503Z
+updated: 2024-07-09T12:50:21.503Z
 tags: 
   - unlock
   - remove screen lock
@@ -53,7 +53,7 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 **Step** **3:** Now, it's time to scan your face with your Apple iPhone XR to initiate the setup. Again, you don't have to wear a mask at this stage, as the Apple iPhone XR device's main focus while scanning would be the eyes. Also, if you wear glasses, you can proceed without taking them off.
 
-![ scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
+![scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
 
 **Step 4:** After scanning your face twice, select "Add Glasses" by tapping on it. You can use your Face ID while wearing your regular glasses. Make sure that you scan your face with every pair of glasses daily.
 
@@ -89,7 +89,7 @@ Are you stuck with your locked iPhone? Don't worry, as [Dr.Fone - Screen Unlock]
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -148,17 +148,17 @@ When it does, close iTunes if it automatically opens and clicks the Screen Unloc
 
 **Step 3.** You will now need to put your device in DFU mode, also known as Recovery Mode. Fortunately, this is easy thanks to the on-screen instructions where you will hold down the volume down and power button for a few seconds.
 
-![ ios unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
+![ios unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 **Step 4.** Once Dr.Fone - Screen Unlock (iOS) has detected your device in DFU Mode. You’ll be able to select which device you’re using and what firmware you want to be repaired; in this case, iOS 17/14.
 
-![ ios unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
+![ios unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 **Step 5.** Once everything has been confirmed and you’re happy to continue, press the Unlock option. The program will do its thing, and when it’s done, the software will say you’re able to disconnect your Apple iPhone XR and use it without a lock screen!
 
 That’s how easy Dr.Fone - Screen Unlock (iOS) makes the entire unlock process!
 
-![ drfone advanced unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
+![drfone advanced unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
 ### 2.3 Restore an old backup from iTunes
 
@@ -230,7 +230,7 @@ We know and understand that the word troubleshooting can remind you of long tele
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock Disabled Apple iPhone XR Without iTunes/ iCloud.
 
@@ -263,7 +263,7 @@ Do note that all methods that unlock your Apple iPhone XR will necessarily wipe 
 
 Your Apple iPhone XR will be unlocked in a short span of time. Please note that all data would have been wiped out from the Apple iPhone XR device. When you set the Apple iPhone XR device up again, if you set it to use iCloud, data such as Contacts, iCloud Photos, iCloud Drive data, etc. will be downloaded onto your device again. The apps you had on your Apple iPhone XR prior to it getting disabled can be downloaded again from the App Store. If you did not use iCloud but backed up the data manually, you will have to manually restore that data onto the Apple iPhone XR device again.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 2: Unlock Disabled Apple iPhone XR Using iTunes or macOS Finder
 
@@ -307,7 +307,7 @@ There are times you have another iOS device in the family or just lying around, 
 
 Step 1: Open the Find My app on your other iOS device or Mac
 
-![find my on macos ](https://images.wondershare.com/drfone/article/2021/11/unlock-disabled-iphone-13-8.jpg)
+![find my on macos](https://images.wondershare.com/drfone/article/2021/11/unlock-disabled-iphone-13-8.jpg)
 
 Step 2: Select your disabled Apple iPhone XR from the Apple iPhone XR devices from the left pane, click/ tap your disabled Apple iPhone XR and click/ tap Erase This Device
 
@@ -327,7 +327,7 @@ Using [Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
 
 As you may be aware, using iTunes or macOS Finder allows you to backup and restore data onto your Apple iPhone XR easily, but, the one glaring omission here is that it does not allow you to choose what you want to backup and what you want to restore. This is a much-coveted feature that is glaringly absent from the Apple world so far, and with Dr.Fone's [iOS Phone Backup feature](https://drfone.wondershare.com/iphone-backup-and-restore.html) you can have that choice in your hands, just like you do with Android. Dr.Fone allows you to choose what you want to backup, so, you can back up just your photos, just your text messages, just your files, or any combination thereof, for the matter. And, when it comes to restore, you can restore selectively as well. So, suppose you backed up your entire data using Dr.Fone, now you can restore just the text messages if you so want.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 6: Prevent iPhone From Getting Disabled Again
 
@@ -348,7 +348,7 @@ Along with Passcode comes the option of Face ID on your Apple iPhone XR, so use 
 
 Not all of us have the memory of elephants. With Touch ID and Face ID on our iPhones minimizing the use of passcodes, we may forget them. Another factor in forgetting passcodes is being too smart for our own good and trying to set up such a secure passcode that even we are not able to remember it. If we enter incorrect passcode too many times, the Apple iPhone XR disables itself and we need to restore it to factory settings to unlock it again. There are several ways to do that, depending on the time you are willing to spend on the job and your proficiency level, along with the resources that you have with you right now. For example, if a method requires use of another iOS device and you do not have it, that method is not useful to you right now, pick another. Lastly, when the Apple iPhone XR device is reset, instead of going passcode-less to make sure that you do not forget the passcode again, it is best to set up a passcode that you can somehow remember.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 
 <ins class="adsbygoogle"

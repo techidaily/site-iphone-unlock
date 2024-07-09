@@ -1,7 +1,7 @@
 ---
 title: How to Make the Most of Your Apple iPhone 8 Lock Screen with Notifications? | Dr.fone
-date: 2024-05-19T07:27:24.200Z
-updated: 2024-05-20T07:27:24.200Z
+date: 2024-07-08T12:50:53.863Z
+updated: 2024-07-09T12:50:53.863Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Make the Most of Your Apple iPhone 8 Lock Screen with Notifications?
 excerpt: This article describes How to Make the Most of Your Apple iPhone 8 Lock Screen with Notifications?
 keywords: lock stolen iphone,disable parental control,forgot passcode iphone 6,unlock iphone passcode,unlock iphone 5 passcode without itunes,swipe up to unlock iphone,what can jailbreak iphone do,forgot passcode on iphone,how to unlock iphone with itunes,how to unlock iphone 7 without passcode,iphone lost mode unlock
-thumbnail: https://www.lifewire.com/thmb/dXcXyOjh5f14j9Nzv8d0qtr4jHE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-850120538-4d2af54c23a641c8a5f2e00ef7a9aa37.jpg
+thumbnail: https://thmb.techidaily.com/805432a26a63c24a3ad7f94c306f1a1291a2364beb1c1710fc99d1f9d71ae26e.jpg
 ---
 
 ## How to Make the Most of Your Apple iPhone 8 Lock Screen with Notifications?
@@ -295,7 +295,7 @@ We know and understand that the word troubleshooting can remind you of long tele
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock Disabled Apple iPhone 8 Without iTunes/ iCloud.
 
@@ -328,7 +328,7 @@ Do note that all methods that unlock your Apple iPhone 8 will necessarily wipe y
 
 Your Apple iPhone 8 will be unlocked in a short span of time. Please note that all data would have been wiped out from the Apple iPhone 8 device. When you set the Apple iPhone 8 device up again, if you set it to use iCloud, data such as Contacts, iCloud Photos, iCloud Drive data, etc. will be downloaded onto your device again. The apps you had on your Apple iPhone 8 prior to it getting disabled can be downloaded again from the App Store. If you did not use iCloud but backed up the data manually, you will have to manually restore that data onto the Apple iPhone 8 device again.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 2: Unlock Disabled Apple iPhone 8 Using iTunes or macOS Finder
 
@@ -372,7 +372,7 @@ There are times you have another iOS device in the family or just lying around, 
 
 Step 1: Open the Find My app on your other iOS device or Mac
 
-![find my on macos ](https://images.wondershare.com/drfone/article/2021/11/unlock-disabled-iphone-13-8.jpg)
+![find my on macos](https://images.wondershare.com/drfone/article/2021/11/unlock-disabled-iphone-13-8.jpg)
 
 Step 2: Select your disabled Apple iPhone 8 from the Apple iPhone 8 devices from the left pane, click/ tap your disabled Apple iPhone 8 and click/ tap Erase This Device
 
@@ -392,7 +392,7 @@ Using [Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
 
 As you may be aware, using iTunes or macOS Finder allows you to backup and restore data onto your Apple iPhone 8 easily, but, the one glaring omission here is that it does not allow you to choose what you want to backup and what you want to restore. This is a much-coveted feature that is glaringly absent from the Apple world so far, and with Dr.Fone's [iOS Phone Backup feature](https://drfone.wondershare.com/iphone-backup-and-restore.html) you can have that choice in your hands, just like you do with Android. Dr.Fone allows you to choose what you want to backup, so, you can back up just your photos, just your text messages, just your files, or any combination thereof, for the matter. And, when it comes to restore, you can restore selectively as well. So, suppose you backed up your entire data using Dr.Fone, now you can restore just the text messages if you so want.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 6: Prevent iPhone From Getting Disabled Again
 
@@ -413,7 +413,7 @@ Along with Passcode comes the option of Face ID on your Apple iPhone 8, so use t
 
 Not all of us have the memory of elephants. With Touch ID and Face ID on our iPhones minimizing the use of passcodes, we may forget them. Another factor in forgetting passcodes is being too smart for our own good and trying to set up such a secure passcode that even we are not able to remember it. If we enter incorrect passcode too many times, the Apple iPhone 8 disables itself and we need to restore it to factory settings to unlock it again. There are several ways to do that, depending on the time you are willing to spend on the job and your proficiency level, along with the resources that you have with you right now. For example, if a method requires use of another iOS device and you do not have it, that method is not useful to you right now, pick another. Lastly, when the Apple iPhone 8 device is reset, instead of going passcode-less to make sure that you do not forget the passcode again, it is best to set up a passcode that you can somehow remember.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 
 

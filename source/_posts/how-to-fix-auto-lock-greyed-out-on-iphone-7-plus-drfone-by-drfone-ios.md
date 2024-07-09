@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on iPhone 7 Plus | Dr.fone
-date: 2024-05-19T07:27:15.142Z
-updated: 2024-05-20T07:27:15.142Z
+date: 2024-07-08T12:51:20.946Z
+updated: 2024-07-09T12:51:20.946Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Fix Auto Lock Greyed Out on iPhone 7 Plus
 excerpt: This article describes How To Fix Auto Lock Greyed Out on iPhone 7 Plus
 keywords: disable parental control,iphone 11 passcode bypass,change apple id on ipad,total wireless unlock,erase iphone when locked,unlock apple watch,factory reset locked iphone without itunes,fix iphone passcode not working,get out of security lockout,swipe up to unlock iphone,forgot passcode iphone 6,iphone swipe up not working
-thumbnail: https://www.lifewire.com/thmb/XFPs7ukKGYkDLjHUDiAKej05X4I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Cleaningrobotonlaptop_HuberandStarke_GettyImages-1448733073_EVANCROP-8ed67f08b9c4430db8e47c51fde78feb.jpg
+thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98dc41bc3885e34ece3467540.jpg
 ---
 
 ## How To Fix Auto Lock Greyed Out on Apple iPhone 7 Plus

@@ -1,7 +1,7 @@
 ---
 title: In 2024, 3 Easy Ways to Factory Reset a Locked iPhone X Without iTunes | Dr.fone
-date: 2024-04-07T02:18:35.686Z
-updated: 2024-04-08T02:18:35.686Z
+date: 2024-07-08T12:51:31.079Z
+updated: 2024-07-09T12:51:31.079Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes 3 Easy Ways to Factory Reset a Locked iPhone X Without iTunes
 excerpt: This article describes 3 Easy Ways to Factory Reset a Locked iPhone X Without iTunes
 keywords: fix iphone passcode not working,reset iphone backup password,how to remove passcode from iphone,iphone 15 unlock,unlock iphone 5 passcode without itunes,swipe up to unlock iphone,disable parental control
-thumbnail: https://www.lifewire.com/thmb/SIEabDwKl-JixCOGX637UhqGVC0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/title-b16094ee6f3340328084b9e5cc01426f.jpg
+thumbnail: https://thmb.techidaily.com/d6d8993d1273f8bc00bb7a2e686014c201566f37966420d7b78cb492b551351d.jpg
 ---
 
 ## 3 Easy Ways to Factory Reset a Locked Apple iPhone X Without iTunes
@@ -207,17 +207,17 @@ When it does, close iTunes if it automatically opens and clicks the Screen Unloc
 
 **Step 3.** You will now need to put your device in DFU mode, also known as Recovery Mode. Fortunately, this is easy thanks to the on-screen instructions where you will hold down the volume down and power button for a few seconds.
 
-![ ios unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
+![ios unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 **Step 4.** Once Dr.Fone - Screen Unlock (iOS) has detected your device in DFU Mode. You’ll be able to select which device you’re using and what firmware you want to be repaired; in this case, iOS 17/14.
 
-![ ios unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
+![ios unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 **Step 5.** Once everything has been confirmed and you’re happy to continue, press the Unlock option. The program will do its thing, and when it’s done, the software will say you’re able to disconnect your Apple iPhone X and use it without a lock screen!
 
 That’s how easy Dr.Fone - Screen Unlock (iOS) makes the entire unlock process!
 
-![ drfone advanced unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
+![drfone advanced unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
 ### 2.3 Restore an old backup from iTunes
 
@@ -363,7 +363,7 @@ But this method will not work on newer iPhones 11/12/13 and iPhone 14 because th
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone Without Passcode.
 

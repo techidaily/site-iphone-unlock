@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Find My iPhone 8 when Phone is Broken? | Dr.fone
-date: 2024-05-19T07:27:24.757Z
-updated: 2024-05-20T07:27:24.757Z
+date: 2024-07-08T12:52:24.298Z
+updated: 2024-07-09T12:52:24.298Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Turn Off Find My iPhone 8 when Phone is Broken?
 excerpt: This article describes How to Turn Off Find My iPhone 8 when Phone is Broken?
 keywords: unlock iphone 5 passcode without itunes,how to remove face id on iphone 13,unlock iphone xs without passcode,change apple id password,unlock iphone passcode,change apple id email address,how much does unlock a phone cost,iphone passcode not working after update ios 13,apple id not active
-thumbnail: https://www.lifewire.com/thmb/C5NsJYR6FRT4y8jRGIvlsTKr6LU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/santahatcomputer-5ba0332646e0fb0050e7ae93.jpg
+thumbnail: https://thmb.techidaily.com/20e687e989a89b1dd45743ceb6d6d3c635644bf241cd4154d769e7b945709de7.jpg
 ---
 
 ## How to Turn Off Find My Apple iPhone 8 when Phone is Broken?
@@ -34,7 +34,7 @@ The best part about this application is that it is free of cost. It usually come
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Turning Off Find My iPhone Within Second.
 
@@ -163,7 +163,7 @@ Tips: Backup all your data before unlocking the phone with Dr.Fone - Screen Unlo
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 

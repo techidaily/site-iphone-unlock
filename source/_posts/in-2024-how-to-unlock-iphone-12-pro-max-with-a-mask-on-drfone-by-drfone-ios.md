@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock iPhone 12 Pro Max with a Mask On | Dr.fone
-date: 2024-05-19T07:28:00.465Z
-updated: 2024-05-20T07:28:00.465Z
+date: 2024-07-08T12:50:31.134Z
+updated: 2024-07-09T12:50:31.134Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Unlock iPhone 12 Pro Max with a Mask On
 excerpt: This article describes How to Unlock iPhone 12 Pro Max with a Mask On
 keywords: how to turn off find my iphone when phone is broken,change apple id on ipad,iphone is disabled,unlock iphone face id wearing mask,unlock iphone with apple watch,forgot passcode on iphone,unlock iphone xs without passcode,iphone 11 passcode bypass
-thumbnail: https://www.lifewire.com/thmb/SIEabDwKl-JixCOGX637UhqGVC0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/title-b16094ee6f3340328084b9e5cc01426f.jpg
+thumbnail: https://thmb.techidaily.com/d6d8993d1273f8bc00bb7a2e686014c201566f37966420d7b78cb492b551351d.jpg
 ---
 
 ## How to Unlock Apple iPhone 12 Pro Max with a Mask On
@@ -53,7 +53,7 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 **Step** **3:** Now, it's time to scan your face with your Apple iPhone 12 Pro Max to initiate the setup. Again, you don't have to wear a mask at this stage, as the Apple iPhone 12 Pro Max device's main focus while scanning would be the eyes. Also, if you wear glasses, you can proceed without taking them off.
 
-![ scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
+![scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
 
 **Step 4:** After scanning your face twice, select "Add Glasses" by tapping on it. You can use your Face ID while wearing your regular glasses. Make sure that you scan your face with every pair of glasses daily.
 
@@ -89,7 +89,7 @@ Are you stuck with your locked iPhone? Don't worry, as [Dr.Fone - Screen Unlock]
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -354,7 +354,7 @@ If you've addressed these issues and still can't change your Apple ID, don't wor
 
 However, if you can't **change your Apple ID on your iPad** because you forgot or don't have access to the password, you can use a third-party tool such as Dr.Fone. This tool is easy to use and can help you unlock your iPad and remove the Apple ID in a few clicks.
 
-## Part 4: Using [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) To Remove Apple ID Without Password
+## Part 4: Using <u>Wondershare Dr.Fone</u>
 
 Dr.Fone Screen Unlock (iOS) tool is your go-to solution for unlocking iOS devices without a passcode. The best part? It is easy to use for users of all technical backgrounds. With Dr.Fone, you can unlock iOS screens protected by 4 to 6-digit passcodes, Face ID, Touch ID, and more.
 

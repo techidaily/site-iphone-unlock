@@ -1,7 +1,7 @@
 ---
 title: How to Access Your Apple iPhone XR When You Forget the Passcode? | Dr.fone
-date: 2024-06-24T01:11:11.086Z
-updated: 2024-06-25T01:11:11.086Z
+date: 2024-07-08T12:51:23.103Z
+updated: 2024-07-09T12:51:23.103Z
 tags: 
   - unlock
   - remove screen lock
@@ -49,7 +49,7 @@ Once, the software downloads the firmware automatically, you can then proceed to
 
 ![passcode removal](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 2. Restore an iTunes backup for Apple iPhone XR
 

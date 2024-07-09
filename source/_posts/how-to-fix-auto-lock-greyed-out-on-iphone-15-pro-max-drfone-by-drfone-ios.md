@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on iPhone 15 Pro Max | Dr.fone
-date: 2024-06-08T08:03:47.901Z
-updated: 2024-06-09T08:03:47.901Z
+date: 2024-07-08T12:49:50.369Z
+updated: 2024-07-09T12:49:50.369Z
 tags: 
   - unlock
   - remove screen lock
@@ -529,7 +529,7 @@ Face ID is more than a nifty authentication system in iPhones (and iPads) and br
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
