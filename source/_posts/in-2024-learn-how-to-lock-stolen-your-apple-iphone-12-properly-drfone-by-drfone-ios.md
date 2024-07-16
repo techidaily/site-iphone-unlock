@@ -1,7 +1,7 @@
 ---
 title: In 2024, Learn How To Lock Stolen Your Apple iPhone 12 Properly | Dr.fone
-date: 2024-05-19T07:27:52.760Z
-updated: 2024-05-20T07:27:52.760Z
+date: 2024-07-15T06:23:46.944Z
+updated: 2024-07-16T06:23:46.944Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Learn How To Lock Stolen Your Apple iPhone 12 Properly
 excerpt: This article describes Learn How To Lock Stolen Your Apple iPhone 12 Properly
 keywords: how to unlock iphone with itunes,how to unlock iphone 12,how to remove face id on iphone 13,get out of security lockout,iphone 11 passcode bypass,how much does unlock a phone cost,unlock iphone with apple watch,unlock disabled iphone without computer,change apple id password,remove flashlight from iphone lock screen,get into locked iphone,iphone locked to owner
-thumbnail: https://www.lifewire.com/thmb/NVfSH4Rjse-W0WAejPd1W9V_3ag=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1253176532-e5ce8e507433489f87c8b37818c13a01.jpg
+thumbnail: https://thmb.techidaily.com/bf32c159170edbc355c721b22ee8ee6c67dda36feed408fdb0ec7f3ca8b4ddc2.jpg
 ---
 
 ## Learn How To Lock Stolen Your Apple iPhone 12 Properly
@@ -39,7 +39,7 @@ On learning about **how do I lock my stolen iPhone**, Apple's robust [<u>Find My
 
 Find My can be a source to track stolen iPhones, but certain scenarios are associated with its operations. To know more about these scenarios, this section continues the discussion further below:
 
-1. **iPhone Turned On:**[<u>Find My can provide real-time location tracking</u>](https://drfone.wondershare.com/iphone-problems/full-solutions-to-find-my-iphone-problems.html)when your stolen iPhone is still powered on and connected to the internet.
+1. **iPhone Turned On:**[<u>Find My can provide real-time location tracking</u>](https://drfone.wondershare.com/iphone-problems/full-solutions-to-find-my-iphone-problems.html) when your stolen iPhone is still powered on and connected to the internet.
 2. **iPhone Turned Off or In Airplane Mode:**The last known location before the Apple iPhone 12 device was powered down or put in Airplane Mode is accessible, offering a starting point for recovery efforts.
 3. **Offline Finding with Bluetooth:**The Find My service leverages Bluetooth technology to create a vast network of Apple devices. With these, it can securely help locate your Apple iPhone 12, even offline.
 4. **Activation Lock Integration:**This service is also integrated with Activation Lock, adding an extra layer of security. The Activation Lock remains active if a thief attempts to erase your device.
@@ -128,6 +128,9 @@ After your Apple iPhone 12 is stolen, it becomes essential to bolster the securi
 
 - **Step 1.** Access Settings on an iOS device logged in with the same Apple ID as the lost one. Here, tap on your name on the following screen and scroll down.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![open settings and apple id details](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-16.jpg)
 
 - **Step 2.** Simply select the misplaced device, and in the subsequent interface, press "Remove from Account" to eliminate it from the list of trusted devices.
@@ -148,6 +151,9 @@ After your Apple iPhone 12 is stolen, it becomes essential to bolster the securi
 
 Users can proactively adopt specific measures to reduce the likelihood of such an occurrence. The following essential precautions are recommended while learning **how to block your Apple iPhone 12 when stolen**:
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Precaution #1. Enable Find My on Device
 
 Activating Find My increases the likelihood of recovering your device. Take the following steps to enable the Find My feature on your Apple iPhone 12:
@@ -193,8 +199,8 @@ It provides a hassle-free solution for those locked out of their devices. This p
 ### Key Features of Wondershare Dr.Fone
 
 1. If you are using iTunes for backup but have forgotten the iTunes backup encryption passcode, Dr.Fone can remove it without data loss.
-2. This tool can [<u>remove Apple ID</u>](https://drfone.wondershare.com/unlock/how-to-sign-out-of-apple-id-without-password.html)from your Apple iPhone 12 or iPad if you have forgotten its password.
-3. You can free up your device by [<u>removing MDM</u>](https://drfone.wondershare.com/unlock/mdm-bypass-free.html)and carrier locks using Dr.Fone.
+2. This tool can [<u>remove Apple ID</u>](https://drfone.wondershare.com/unlock/how-to-sign-out-of-apple-id-without-password.html) from your Apple iPhone 12 or iPad if you have forgotten its password.
+3. You can free up your device by [<u>removing MDM</u>](https://drfone.wondershare.com/unlock/mdm-bypass-free.html) and carrier locks using Dr.Fone.
 
 ### Steps To Unlock Your Locked iOS Device Using Wondershare Dr.Fone
 
@@ -433,6 +439,9 @@ Sometimes, the email service provider may force users to change their passwords 
 
 - **Step 1.** Open your preferred web browser and go to the Outlook login page. Sign in to your Outlook account, locate, and click on your profile picture in the upper-right corner. There, click "My Profile," and on the next screen, tap "Change Password" near the upper right corner.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![access my profile outlook web](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-4.jpg)
 
 - **Step 2.** Upon reaching the verification page, provide your password and tap the "Sign In" button. Afterward, you will be asked for other verification methods. Upon verifying, the "Change your password" window will appear. Here, you will need to enter your "Current password," "New password," and re-enter it to proceed. Then, hit the "Save" button, and your password will be changed.
@@ -499,6 +508,9 @@ Outdated iOS versions can contribute to compatibility issues and glitches. This 
 
 ![update ios software for resolving error](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 9. Try Other Alternatives to Outlook
 
 Exploring alternative mail applications may offer a viable workaround. This is especially true if the **iPhone asking for the Outlook password** proves resistant to previous solutions. Consider using other email platforms such as Apple Mail, [<u>Gmail</u>](https://drfone.wondershare.com/factory-reset-protection/bypass-gmail-phone-verification.html), and Yahoo Mail. This solution might not directly resolve the issue with Outlook. Yet, an alternative can provide a temporary workaround until a solution is found.
@@ -559,6 +571,9 @@ In some cases, switching the account type to IMAP during the setup process can h
 
 At last, hit the “Next” button at the top-right side of the screen.
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![set specified imap settings](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-21.jpg)
 
 ### Fix 13. Contact Support of Outlook To Resolve
@@ -627,3 +642,51 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/king-youtube-writers-royalties-with-ad-driven-earnings-cpm/"><u>Unlocking YouTube' Writers' Royalties with Ad-Driven Earnings (CPM)</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/resolve-your-iphone-6s-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your iPhone 6s Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unearthed-30-window-11-insider-strategies-to-boost-performance/"><u>In 2024, Unearthed  30 Window 11 Insider Strategies to Boost Performance</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/did-your-iphone-6s-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your iPhone 6s Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-6s-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-6s-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 6s in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/redefine-your-sonic-world-with-sony-ps4ps5-for-2024/"><u>Redefine Your Sonic World with Sony PS4/PS5 for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-6s-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 6s Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-6s-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/become-a-meme-wizard-with-these-9gag-strategies/"><u>Become a Meme Wizard with These 9GAG Strategies</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-realme-c51-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Realme C51 and Browser | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-breakdown-average-monthly-earning-for-podcasters/"><u>[New] Breakdown  Average Monthly Earning for Podcasters</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-superheroes-clash-black-vs-silver/"><u>[Updated] Superheroes Clash  BLACK vs SILVER</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-spectacular-screen-showdown-sj6-vs-the-4k-innovators-of-xiaomi/"><u>In 2024, Spectacular Screen Showdown  SJ6 Vs. The 4K Innovators of Xiaomi</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-capturing-whatsapp-call-data-a-compreayers-guide/"><u>[New] 2024 Approved  Capturing WhatsApp Call Data  A Compreayer's Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-oppo-reno-11-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Oppo Reno 11 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-iphone-6s-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone 6s with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-6s-passcode-without-a-computer-drfone-by-drfone-ios/"><u>Unlocking iPhone 6s Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-iphone-6s-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock iPhone 6s with iTunes | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/unified-graphics-experience-achieved-nvidiaintel-for-win10/"><u>Unified Graphics Experience Achieved - Nvidia/Intel for Win10</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-6s-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot iPhone 6s Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-gt-5-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from GT 5</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-iphone-6s-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your iPhone 6s When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-iphone-6s-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For iPhone 6s Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-unveil-hidden-watch-visual-artwork/"><u>[Updated] 2024 Approved  Unveil Hidden Watch Visual Artwork</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/passfab-iphone-6s-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab iPhone 6s Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-6s-drfone-by-drfone-ios/"><u>How to Unlock iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-the-compreenas-for-effective-screenshares-on-zoom/"><u>In 2024, The Compreenas for Effective Screenshares on Zoom</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-6s-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock iPhone 6s Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/focus-on-subjects-only-efficient-backdrop-elimination-techniques/"><u>Focus on Subjects Only  Efficient Backdrop Elimination Techniques</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/key-methods-to-capture-and-document-live-youtube-broadcasts/"><u>Key Methods to Capture and Document Live Youtube Broadcasts</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-become-a-pro-at-mac-webcam-video-recording-in-5-steps/"><u>2024 Approved  Become a Pro at Mac Webcam Video Recording in 5 Steps</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-iphone-6s-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From iPhone 6s? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-6s-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock iPhone 6s without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/4-ways-to-unlock-iphone-6s-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>4 Ways to Unlock iPhone 6s to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-realme-c33-2023-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Realme C33 2023?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-6s-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>iPhone 6s Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-6s-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-iphone-6s-drfone-by-drfone-ios/"><u>How To Unlock A Found iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-6s-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your iPhone 6s Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-iphone-6s-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My iPhone 6s when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-6s-drfone-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-6s-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock iPhone 6s, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-from-facebook-to-instagram-a-complete-guide-to-social-media-aspect-ratios/"><u>Updated 2024 Approved From Facebook to Instagram A Complete Guide to Social Media Aspect Ratios</u></a></li>
+</ul></div>

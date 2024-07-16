@@ -1,7 +1,7 @@
 ---
 title: Complete Guide on Unlocking iPhone 12 mini with a Broken Screen? | Dr.fone
-date: 2024-04-03T07:02:43.181Z
-updated: 2024-04-04T07:02:43.181Z
+date: 2024-07-15T08:06:17.202Z
+updated: 2024-07-16T08:06:17.202Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Complete Guide on Unlocking iPhone 12 mini with a Broken Screen?
 excerpt: This article describes Complete Guide on Unlocking iPhone 12 mini with a Broken Screen?
 keywords: unlock apple watch,how to unlock iphone with itunes,how many attempts to unlock iphone,change apple id on ipad,open iphone without home button,change country on iphone app store
-thumbnail: https://www.lifewire.com/thmb/9P6TB9sqO-6Yq23O2BOj91c-Cvg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-541365354-5c8ad42246e0fb00014a9687.jpg
+thumbnail: https://thmb.techidaily.com/bfe8f97d519484170998bced830c25ea7c96c9f9fefb2b304db02c765d66484d.jpg
 ---
 
 ## Complete Guide on Unlocking Apple iPhone 12 mini with a Broken Screen?
@@ -96,6 +96,9 @@ You need to ask Siri, "Siri, what time is it?" or "Siri, what time is it in the 
 
 **Step 2.** Presently, tap on the world clock symbol. Now, tap on the + sign in the upper right corner to add the clock feature to the home screen.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add new clock](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-5.jpg)
 
 **Step 3.** At the point when another clock is added, you will have the choice to share the new clock.
@@ -179,7 +182,7 @@ A problem commonly faced by all iPhone users is that they forget the password, a
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Fix iPhone Lock Screen Password Forgot Issue
 
@@ -216,6 +219,9 @@ Once the application has detected your Apple iPhone 12 mini, you now need to act
 
 A new window will appear now, on which the application will ask for some information regarding your iOS device. Provide the application with asked information and click on the 'Download' button to get the firmware update for your Apple iPhone 12 mini.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ios unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 The user is requested to wait for some time, as the firmware update is being downloaded for your phone. Once that is done, now click on the 'Unlock Now' button to complete the process.
@@ -228,7 +234,10 @@ The application will now ask for the confirmation code. Just provide the on-scre
 
 ![drfone advanced unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## **Part 2. Unlock Locked iPhone 12 by Restoring it to Default Settings – iTunes**
 
@@ -268,7 +277,7 @@ IOS world is different from the Android world, and so, both have different and u
 
 Different methods have been discussed that use different platforms regarding how a user can unlock an iPhone if a passcode is missing. The user might be confused about selecting the appropriate method, so let’s help the users by sharing some advantages and disadvantages of all the methods discussed above. This will help the user to select the best possible method;
 
-### 1\. Using [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### 1\. Using Dr.Fone - Screen Unlock (iOS)
 
 The known and famous application among iPhone users helps them recover data, unlock a phone even if its passcode is missing, and whatnot. Let us now discuss its amazing pros;
 
@@ -284,7 +293,7 @@ The known and famous application among iPhone users helps them recover data, unl
 1. The Apple iPhone 12 mini in use will be updated to the latest iOS version as soon as the unlocking process is completed.
 2. The Apple iPhone 12 mini must be in DFU mode for the process to unlock the screen.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ### 2\. Using iTunes
 
@@ -318,7 +327,7 @@ Another known platform for iPhone users is iCloud, which allows users to unlock 
 
 The article aimed to provide users with maximum information and knowledge about unlock the Apple iPhone 12 mini even if you don’t have the passcode. Several methods have been discussed alongside their pros and cons so that the user can select the best.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Unlocking Apple iPhone 12 mini  Lock Screen: 3 Foolproof Methods that Actually Work
 
@@ -367,6 +376,9 @@ As you will launch the application, the home page will appear from that, and you
 
 The user is now supposed to make the connection between iPhone and the system and let the application automatically detect it. When you are ready to initiate the action, just click on the button 'Unlock iOS Screen.'
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![drfone android ios unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
 **Step 3: Activate DFU Mode**
@@ -416,6 +428,9 @@ The user can easily bypass the lock screen on their iPhone from iCloud only if t
 4. The system will now ask for your Apple ID and password; provide that.
 5. After you have done that, a list of all the Apple iPhone 12 mini devices will appear. You are now supposed to select your device and click on the option of 'Erase iPhone.'
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
     ![ways to bypass Apple iPhone 12 mini  lock screen 2](https://images.wondershare.com/drfone/article/2021/04/ways-to-bypass-ios-14-lock-screen-2.jpg)
 
 6. Doing this will wipe all the data, settings and, also the password.
@@ -460,3 +475,66 @@ The article has covered a sufficient portion of knowledge for the user regarding
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-demystifying-the-instagram-selfie-process/"><u>[New] In 2024, Demystifying the Instagram Selfie Process</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-best-ios-video-streaming-tools-for-iphones-ipads-for-2024/"><u>[Updated] Best iOS Video Streaming Tools for iPhones, iPads for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-14-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-online-alter-ego-artistry-drawing-a-fancy-profile/"><u>[Updated] In 2024, Online Alter-Ego Artistry  Drawing a Fancy Profile</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-14-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-top-rated-vocal-transformer-and-harmonizer-tool-for-performers-for-2024/"><u>Updated Top-Rated Vocal Transformer & Harmonizer Tool for Performers for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-14-drfone-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unlock-creative-potential-top-10-online-banners-tools/"><u>[New] Unlock Creative Potential - Top 10 Online Banners Tools</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-14-without-itunes-drfone-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 14 Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/is-your-iphone-14-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your iPhone 14 in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabling-iphone-14-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>Disabling iPhone 14 Parental Restrictions With/Without Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-iphone-14-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My iPhone 14 After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-who-are-the-kings-of-tiktok-gameplay/"><u>[Updated] 2024 Approved  Who Are the Kings of TikTok Gameplay?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-iphone-14-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone 14 with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-14-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix iPhone 14 Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-iphone-14-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From iPhone 14? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-iphone-14-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For iPhone 14 Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/3-ways-to-unlock-your-apple-iphone-6-for-free-by-drfone-ios/"><u>3 Ways to Unlock Your Apple iPhone 6 for Free</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/12-video-recovery-recover-deleted-videos-from-12-by-fonelab-android-recover-video/"><u>12 Video Recovery - Recover Deleted Videos from 12</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-14-with-7-methods-drfone-by-drfone-ios/"><u>How To Change Country on App Store for iPhone 14 With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-videos-from-find-x6-pro-by-fonelab-android-recover-video/"><u>Possible solutions to restore deleted videos from Find X6 Pro</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-14-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix iPhone 14 Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-freesoundvault-review-unleashing-the-power-of-2024-tech/"><u>[New] FreeSoundVault Review  Unleashing the Power of 2024 Tech</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-frp-on-xiaomi-redmi-12-5g-by-drfone-android/"><u>How to Bypass FRP on Xiaomi Redmi 12 5G?</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/visualization-vanguards-battle-for-2024/"><u>Visualization Vanguard's Battle for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-14-drfone-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/can-you-unlock-iphone-14-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>Can You Unlock iPhone 14 After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-expertise-in-forming-inspiring-collage-photos-for-2024/"><u>[Updated] Expertise in Forming Inspiring Collage Photos for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/seamless-social-media-posts-from-phone-to-instagram-for-2024/"><u>Seamless Social Media Posts  From Phone to Instagram for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-x-recorder-your-pcs-audio-capture-companion/"><u>[Updated] X-Recorder  Your PC's Audio Capture Companion</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-breaking-the-mold-high-fidelity-sound-without-a-microphone/"><u>[New] 2024 Approved  Breaking the Mold  High-Fidelity Sound without a Microphone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-personalize-where-mac-pics-save/"><u>[Updated] Personalize Where Mac Pics Save</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-locked-iphone-14-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>Forgot Locked iPhone 14 Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-iphone-14-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock iPhone 14 with iTunes | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-iphone-14-5-ways-to-get-into-a-locked-iphone-14-drfone-by-drfone-ios/"><u>Locked Out of iPhone 14? 5 Ways to get into a Locked iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-demystifying-ai-game-generators-wondershare-virbo-glossary/"><u>Updated 2024 Approved Demystifying AI Game Generators | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-securesave-professionals-assessment/"><u>In 2024, SecureSave Professionals' Assessment</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/4-ways-to-unlock-iphone-14-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>4 Ways to Unlock iPhone 14 to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-14-drfone-by-drfone-ios/"><u>How to Unlock iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitter-mastery-adding-visuals-to-your-tweet-for-2024/"><u>[New] Twitter Mastery  Adding Visuals to Your Tweet for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oppo-a78-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Oppo A78 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-14-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock iPhone 14, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-iphone-14-drfone-by-drfone-ios/"><u>How To Unlock A Found iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/easy-steps-to-youtubing-prosperity-channel-size-not-a-barrier-for-2024/"><u>Easy Steps to Youtubing Prosperity  Channel Size Not a Barrier for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-14-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>iPhone 14 Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-iphone-14-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My iPhone 14 when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-14-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>Unlock iPhone 14 With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-14-passcode-without-a-computer-drfone-by-drfone-ios/"><u>Unlocking iPhone 14 Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-14-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock iPhone 14 Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How Do I Stop Someone From Tracking My Apple iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-14-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock iPhone 14 without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-erase-iphone-14-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>3 Ways to Erase iPhone 14 When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-mysteries-of-shiny-pokemon-in-scarlet-and-violet-85/"><u>Unveiling Mysteries of Shiny Pokémon in Scarlet and Violet (85)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-starting-an-online-platform-for-consumer-goods-reviews/"><u>2024 Approved  Starting an Online Platform for Consumer Goods Reviews</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-14-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 14 Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/syncopation-spotlight-the-top-video-editing-software-for-pairing-sound-and-visuals/"><u>Syncopation Spotlight The Top Video Editing Software for Pairing Sound and Visuals</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ssential-guide-the-top-10-inexpensive-youtube-channels-for-visual-creators/"><u>[New] Essential Guide  The Top 10 Inexpensive YouTube Channels for Visual Creators</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-advanced-vision-systems-with-green-promise/"><u>[Updated] In 2024, Advanced Vision Systems with Green Promise</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: How to Unlock iPhone 11 without Passcode or Face ID | Dr.fone
-date: 2024-05-19T07:27:38.064Z
-updated: 2024-05-20T07:27:38.064Z
+date: 2024-07-15T06:01:04.728Z
+updated: 2024-07-16T06:01:04.728Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Unlock iPhone 11 without Passcode or Face ID
 excerpt: This article describes How to Unlock iPhone 11 without Passcode or Face ID
 keywords: fix iphone passcode not working,app lock iphone,change apple id on ipad,forgot passcode on iphone,iphone 11 passcode bypass,remove iphone from blacklist
-thumbnail: https://www.lifewire.com/thmb/z0FcObDyImu70neTKRlkwzqQTeM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the-17-best-graphic-design-software-2024-1dd6c15b34124b25b65e4b096e4e6ba4.jpg
+thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a044e30e2240a2331d8bec84.jpg
 ---
 
 ## How to Unlock Apple iPhone 11 without Passcode or Face ID
@@ -82,6 +82,9 @@ If your gadget isn't running macOS Catalina or later, you'll need to involve iTu
 
 When you've effectively connected and chosen your Apple iPhone 11 on a Mac or a PC, tap on the Restore button. And that's **how to unlock iPhone without passcode or face ID.**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. DNS Server
 
 The following steps explain **how to unlock iPhone without face ID or passcode** using a DNS server:
@@ -92,6 +95,9 @@ The following steps explain **how to unlock iPhone without face ID or passcode**
 
 **Step 3.** Disconnect your current network, go to "Network/connection Settings", and click Forget.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dns bypass](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-without-face-id-4.jpg)
 
 **Step 4.** Click the "I" and enter a DNS server IP address to bypass the lock. IP addresses of different regions are given below:
@@ -287,6 +293,9 @@ The software will start downloading the corresponding iOS firmware. If the firmw
 
 Once you download the firmware, it will be verified by the software. Click Unlock Now until a prompt window appears. It will ask you to enter a code to continue. Enter the code and click Unlock to start the process.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Input the code to unlock the Apple ID](https://images.wondershare.com/drfone/guide/remove-apple-id-6.png)
 
 - **Step 9:** Monitor Apple ID Removal Progress
@@ -383,6 +392,9 @@ The first step you need to connect your Apple iPhone 11  to your computer. Launc
 
 After that, select the option of "Unlock iOS Screen" to unlock your Apple iPhone 11 within seconds.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drfone android ios unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
 **Step 2: Boot iPhone in DFU Mode**
@@ -437,6 +449,9 @@ If you wish to change the passcode on Apple iPhone 11 , simply follow the steps 
 1. Go to the "Settings" panel of your Apple iPhone 11.
 2. Scroll down until you see the option “Touch ID & Passcode” and click on it.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
     ![feasible ways to unlock Apple iPhone 11 4](https://images.wondershare.com/drfone/article/2021/04/feasible-ways-to-unlock-iphone-7-and-7-plus-4.jpg)
 
 3. Type in your current passcode to proceed.
@@ -478,3 +493,67 @@ Now you know what to do the next time you forget your passcode. Using the simple
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-app-on-90-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Recover Deleted Photos from Android Gallery App on 90 Pro</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-the-basics-of-telegram-advertising-as-a-novice/"><u>[Updated] Mastering the Basics of Telegram Advertising as a Novice</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/is-your-apple-iphone-6-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your Apple iPhone 6 in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabling-apple-iphone-6-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>Disabling Apple iPhone 6 Parental Restrictions With/Without Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-6-drfone-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-6-drfone-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-unleash-your-creativity-splitting-and-editing-videos-in-windows-live-movie-maker-for-2024/"><u>Updated Unleash Your Creativity Splitting and Editing Videos in Windows Live Movie Maker for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-6-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-apps-and-online-tools-to-track-vivo-s18-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Vivo S18 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-snickerslide-social-media-memes-made-simple/"><u>[New] SnickerSlide  Social Media Memes Made Simple</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-6-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-streamline-your-watching-with-edge-free-youtube-content/"><u>2024 Approved  Streamline Your Watching with Edge-Free YouTube Content</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-zte-blade-a73-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from ZTE Blade A73 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Motorola Edge 2023 | Dr.fone</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-ways-to-make-sure-you-get-the-most-up-to-date-cartoon-character-design-tips/"><u>Updated Ways to Make Sure You Get the Most up to Date Cartoon Character Design Tips</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-6-drfone-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-apple-iphone-6-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix Apple iPhone 6 Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/resolve-your-apple-iphone-6-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your Apple iPhone 6 Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-forging-a-future-in-artistic-expression-and-commerce/"><u>2024 Approved  Forging a Future in Artistic Expression and Commerce</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-apple-iphone-6-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For Apple iPhone 6 Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/4-ways-to-unlock-apple-iphone-6-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>4 Ways to Unlock Apple iPhone 6 to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-apple-iphone-6-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot Apple iPhone 6 Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-quick-tips-for-trending-topic-inquiry-on-instagram-stories/"><u>[Updated] 2024 Approved  Quick Tips for Trending Topic Inquiry on Instagram Stories</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-much-does-it-cost-for-unlocking-iphones-get-answers-drfone-by-drfone-ios/"><u>How Much Does It Cost for Unlocking iPhones? Get Answers | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-6-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-top-rated-dj-templates-free-access-for-music-makers/"><u>2024 Approved  Top-Rated DJ Templates  Free Access for Music Makers</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-6-drfone-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-apple-iphone-6-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock Apple iPhone 6 with iTunes | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-visual-ventures-free-themes-to-elevate-your-channel/"><u>[Updated] Visual Ventures  FREE Themes to Elevate Your Channel</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-apple-iphone-6-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix Apple iPhone 6 Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-6-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 6 without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-discover-the-best-aiff-converter-for-your-needs-a-comprehensive-guide/"><u>2024 Approved Discover the Best AIFF Converter for Your Needs A Comprehensive Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/can-you-unlock-apple-iphone-6-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>Can You Unlock Apple iPhone 6 After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-icloud-from-apple-iphone-8-smoothly-by-drfone-ios/"><u>How To Remove iCloud From Apple iPhone 8 Smoothly</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-6-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone 6 After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-6-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/prime-cutting-edge-cameras-for-sports-and-adventure/"><u>Prime Cutting-Edge Cameras for Sports & Adventure</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-prime-sites-to-explore-glossy-golden-typography-designs/"><u>[New] Prime Sites to Explore Glossy, Golden Typography Designs</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-6-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 6 with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-6-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 6, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-haul-video-crafting-stand-out-in-a-saturated-market/"><u>[Updated] 2024 Approved  Haul Video Crafting  Stand Out in a Saturated Market</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-t2x-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo T2x 5G to New Android? | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/crafting-allure-in-online-visuals-for-beauty/"><u>Crafting Allure in Online Visuals for Beauty</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-crafting-spectacular-time-lapses-with-gopro-hero5-black/"><u>In 2024, Crafting Spectacular Time-Lapses with GoPro Hero5 Black</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-a-network-locked-itel-p55plus-phone-by-drfone-android/"><u>How to Unlock a Network Locked Itel P55+ Phone?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-apple-iphone-6-5-ways-to-get-into-a-locked-apple-iphone-6-drfone-by-drfone-ios/"><u>Locked Out of Apple iPhone 6? 5 Ways to get into a Locked Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-efficient-viewing-the-comprehensive-guide-for-creating-youtube-watch-later-lists/"><u>[Updated] Efficient Viewing  The Comprehensive Guide for Creating YouTube Watch Later Lists</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-6-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone 6 Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-6-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-apple-iphone-6-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your Apple iPhone 6 When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-locked-apple-iphone-6-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>Forgot Locked Apple iPhone 6 Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-6-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 6 Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-6-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock Apple iPhone 6 Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/ultimate-guide-to-discord-screen-capture-tools/"><u>Ultimate Guide to Discord Screen Capture Tools</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-6-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone 6 when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exemplary-episodes-for-auditory-drama-for-2024/"><u>Exemplary Episodes for Auditory Drama for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-lava-agni-2-5g-by-drfone-android/"><u>How to Bypass FRP on Lava Agni 2 5G?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-demystifying-instagram-selfies-a-comprehensive-guide/"><u>[Updated] In 2024, Demystifying Instagram Selfies  A Comprehensive Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-workflow-for-embedding-subtitle-track-in-mp4s-for-2024/"><u>Ultimate Workflow for Embedding Subtitle Track in MP4s for 2024</u></a></li>
+</ul></div>

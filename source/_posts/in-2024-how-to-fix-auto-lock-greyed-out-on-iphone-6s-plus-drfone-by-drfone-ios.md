@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on iPhone 6s Plus | Dr.fone
-date: 2024-05-19T07:27:06.174Z
-updated: 2024-05-20T07:27:06.174Z
+date: 2024-07-15T05:10:39.239Z
+updated: 2024-07-16T05:10:39.239Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Fix Auto Lock Greyed Out on iPhone 6s Plus
 excerpt: This article describes How To Fix Auto Lock Greyed Out on iPhone 6s Plus
 keywords: iphone is disabled,iphone swipe up not working,unlock iphone 14,unlock disabled iphone without computer,iphone x iphone xr lock screen,iphone passcode changed itself,factory reset locked iphone without itunes,how many attempts to unlock iphone
-thumbnail: https://www.lifewire.com/thmb/xq071plgy_1otjoV-WHCm4Y1Nhs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-disney-plus-movies-right-now-4846938-6783e356feb74fb7a09b84953620c5ed.jpg
+thumbnail: https://thmb.techidaily.com/19ce8481b5575ff1faf6716113cc99f8aa092b92d7c87ab230819ca4dc98d6d3.jpg
 ---
 
 ## How To Fix Auto Lock Greyed Out on Apple iPhone 6s Plus
@@ -133,6 +133,9 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 - **Step 5:** If prompted, go to your device's **Settings** > **Apple ID** > **iCloud** and turn off the **Find My** feature. Next, click **OK** to initiate the MDM bypass.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dr.fone guide turn off find my](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-4.png)
 
 - **Step 6:** The software will display the progress of the bypass. Wait for it to complete.
@@ -172,6 +175,14 @@ Here's **how to change Auto-Lock on iPhone** devices:
 
 ![change auto-lock on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-18.jpg)
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 There you have it. This guide has equipped you with the knowledge and solutions to fix the **Auto-Lock greyed out** on your Apple iPhone 6s Plus or iPad devices. From identifying the reasons like Low Power Mode and MDM configurations to implementing actionable fixes, you can now change your screen timeout. So, turn off those restrictions, remove MDM profiles, and head back to Settings.
@@ -204,6 +215,9 @@ To check whether your Apple iPhone 6s Plus is carrier-locked or unlocked from se
 
 ![iphone is carrier locked](https://images.wondershare.com/drfone/article/2024/02/how-much-will-it-cost-to-unlock-an-iphone-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Check iPhone Got Disabled Issue
 
 The “iPhone is Disabled” issue appears when you or anyone else enters the wrong passcode multiple times. In that case, Apple's security restricts you from entering the passcode for a specific time interval. After a while, it might permanently disable your Apple iPhone 6s Plus from being accessed through a passcode or any other direct security unlocking option. However, there is no shortcut to bypassing this issue unless you use a legitimate tool.
@@ -465,6 +479,9 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 **Step** **1:** Navigate to the app "Settings" from the home screen of your Apple iPhone 6s Plus. From the displayed menu, select "Face ID & Passcode." Enter your passcode to give verification.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on face id and passcode](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-1.jpg)
 
 **Step 2:** Tap on the toggle switch of "Use Face ID with a Mask." Afterward, select "Use Face ID with a Mask" to begin with settings.
@@ -473,7 +490,7 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 **Step** **3:** Now, it's time to scan your face with your Apple iPhone 6s Plus to initiate the setup. Again, you don't have to wear a mask at this stage, as the Apple iPhone 6s Plus device's main focus while scanning would be the eyes. Also, if you wear glasses, you can proceed without taking them off.
 
-![ scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
+![scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
 
 **Step 4:** After scanning your face twice, select "Add Glasses" by tapping on it. You can use your Face ID while wearing your regular glasses. Make sure that you scan your face with every pair of glasses daily.
 
@@ -503,13 +520,16 @@ To enable the feature of unlocking the Apple iPhone 6s Plus with an Apple Watch,
 
 After enabling this feature, you can unlock your Apple iPhone 6s Plus with a mask on through your Apple Watch. You need to grab your phone and hold it the same way you would in a normal Face ID scan. The phone will be unlocked, and you will feel a slight vibration on the wrist. Also, a notification will pop up on your watch, indicating that your Apple iPhone 6s Plus has been unlocked.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Bonus Tips: Unlock iPhone Without Any Experience
 
 Are you stuck with your locked iPhone? Don't worry, as [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) can unlock any screen passcode, Face ID, Touch ID, and PINs. You don't need any technical experience to use this tool, as the user interface is pretty simple and understandable. Moreover, it works perfectly well on all iOS devices at the best possible speed.
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -545,3 +565,46 @@ We all can relate that unlocking an iPhone on Face ID while wearing a face mask 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-8-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 8 Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-the-easiest-way-to-edit-flv-files-on-windows-8-expert-tips-and-tools-for-2024/"><u>Updated The Easiest Way to Edit FLV Files on Windows 8 Expert Tips and Tools for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-iphone-8-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From iPhone 8? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-nubia-red-magic-8s-pro-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Nubia Red Magic 8S Pro in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-8-drfone-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-iphone-8-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For iPhone 8 Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-integrating-advanced-zoom-features-on-tiktok/"><u>[Updated] Integrating Advanced Zoom Features on TikTok</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-8-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>Unlock iPhone 8 With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-from-creation-to-calculation-your-guide-to-a-3-step-strategy-for-youtube-revenue-insight/"><u>2024 Approved  From Creation to Calculation  Your Guide to a 3-Step Strategy for YouTube Revenue Insight</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitbook-transforms-best-tweeting-with-gifs-2024-edition/"><u>TwitBook Transforms  Best Tweeting With Gifs, 2024 Edition</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/2024-approved-measure-and-modify-image-proportionality/"><u>2024 Approved Measure and Modify Image Proportionality</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-8-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix iPhone 8 Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Vivo V30? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-8-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock iPhone 8 Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-iphone-8-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock iPhone 8 with iTunes | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-unlock-free-music-anytime-facebook-app/"><u>2024 Approved  Unlock Free Music, Anytime - Facebook App</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-ranking-the-top-8-apps-to-increase-popularity-on-facebook/"><u>In 2024, Ranking the Top 8 Apps to Increase Popularity on Facebook</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-how-to-record-your-favorite-youtube-show-regardless-of-your-gear-for-2024/"><u>[New] How to Record Your Favorite YouTube Show, Regardless of Your Gear for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-step-by-step-screencasting-team-virtual-gatherings/"><u>[New] Step-by-Step  Screencasting Team Virtual Gatherings</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-8-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-8-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock iPhone 8, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-8-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>iPhone 8 Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-8-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock iPhone 8 without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/inside-look-at-instagrams-subtle-yet-powerful-features-for-2024/"><u>Inside Look at Instagram's Subtle Yet Powerful Features for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-iphone-8-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone 8 with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/asy-sound-transformation-ios-tools-to-convert-youtube-songs-to-mp3-files/"><u>[New] Easy Sound Transformation  IOS Tools to Convert YouTube Songs to MP3 Files</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-locked-iphone-8-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>Forgot Locked iPhone 8 Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-iphone-8-5-ways-to-get-into-a-locked-iphone-8-drfone-by-drfone-ios/"><u>Locked Out of iPhone 8? 5 Ways to get into a Locked iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/complete-self-guided-tour-to-host-and-participate-in-google-meet-for-2024/"><u>Complete Self-Guided Tour to Host & Participate in Google Meet for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-iphone-8-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My iPhone 8 when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-saving-instagrams-finest-in-your-photo-gallery/"><u>[New] 2024 Approved  Saving Instagram's Finest in Your Photo Gallery</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-choosing-the-ultimate-action-cam-does-black-gopro-outshine-x1000v/"><u>[New] Choosing the Ultimate Action Cam  Does Black GoPro Outshine X1000V?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-on-apple-iphone-6s-plus-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons On Apple iPhone 6s Plus? Find the Best Solution Here</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-8-drfone-by-drfone-ios/"><u>How to Unlock iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/4-ways-to-unlock-iphone-8-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>4 Ways to Unlock iPhone 8 to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/can-you-unlock-iphone-8-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>Can You Unlock iPhone 8 After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/top-8-audio-capture-tools-for-live-broadcasts-and-recordings-for-2024/"><u>Top 8 Audio Capture Tools for Live Broadcasts and Recordings for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-iphone-8-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My iPhone 8 After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-iphone-8-drfone-by-drfone-ios/"><u>How To Unlock A Found iPhone 8? | Dr.fone</u></a></li>
+</ul></div>

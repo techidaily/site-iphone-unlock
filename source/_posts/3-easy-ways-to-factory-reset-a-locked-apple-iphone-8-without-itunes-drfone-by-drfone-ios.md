@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Ways to Factory Reset a Locked Apple iPhone 8 Without iTunes | Dr.fone
-date: 2024-03-30 20:15:54
-updated: 2024-04-01 17:53:42
+date: 2024-07-15T08:03:06.509Z
+updated: 2024-07-16T08:03:06.509Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes 3 Easy Ways to Factory Reset a Locked Apple iPhone 8 Without iTunes
 excerpt: This article describes 3 Easy Ways to Factory Reset a Locked Apple iPhone 8 Without iTunes
 keywords: ios 17 lock screen,unlock iphone 11 12 13 without passcode,unlock apple watch,change apple id email address,lock stolen iphone,factory reset locked iphone without itunes
-thumbnail: https://www.lifewire.com/thmb/hXsx55Jq_t9VhBh8GdAq7SriZ7k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-check-ram-in-android-5192499-8e8b91b6d94b4ab98c3bfa9ba41a4f66.jpg
+thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5486b2d51ee08c850ba80fdd.jpg
 ---
 
 ## 3 Easy Ways to Factory Reset a Locked Apple iPhone 8 Without iTunes
@@ -39,6 +39,9 @@ First, download Dr.Fone-Screen Unlock on your computer or Mac. Once the software
 
 On the main interface of Dr.Fone, you need to select " Screen Unlock. " You may see many options, but you will have to choose Screen Unlock because it will allow you to remove the passcode from your locked iPhone.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![factory reset without itunes](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step #3: Get your Apple iPhone 8 in Recovery Mode and Make it connected to the Computer:**
@@ -181,7 +184,7 @@ You might be anxious if you have locked your Apple iPhone 8 and forgotten the pa
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone Passcode Screen.
 
@@ -192,6 +195,9 @@ Unlock iPhone Passcode Screen.
 
 **3981454** people have downloaded it
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step-by-Step Guide to Bypass iPhone Lock Screen
 
 If you are unfamiliar with using the Screen Unlock feature to get rid of the problem, allow us to walk you through the procedure.
@@ -407,6 +413,9 @@ It is a must-have software that supports iOS and Android and works on both macOS
 
 **Step 2:** Find Unlock iOS Screen and click it:
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![drfone ios screen unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
 **Step 3:** The provided instructions help you to get the Apple iPhone 8 into Recovery Mode:
@@ -424,6 +433,9 @@ Click Unlock Now and wait until the unlock successful notification pops up.
 ![unlock iphone without passcode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### I.III: Unlock Apple iPhone 8 Without Passcode Through The iCloud Website (Find My iPhone)
 
 If the Apple iPhone 8 had Find My enabled before it got locked, and you have the iCloud credentials that the Apple iPhone 8 is locked to, you can use Find My on the iCloud website to unlock the locked iPhone.
@@ -432,6 +444,9 @@ If the Apple iPhone 8 had Find My enabled before it got locked, and you have the
 
 **Step 2:** Click Find My and select your Apple iPhone 8.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock iphone with icloud find my](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-8-without-passcode-3.jpg)
 
 **Step 3:** Click Erase iPhone and confirm.
@@ -501,3 +516,45 @@ So, if you have forgotten your Apple iPhone 8 passcode and are looking for how t
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://iphone-unlock.techidaily.com/passfab-apple-iphone-11-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab Apple iPhone 11 Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-11-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-resonant-harmony-a-comprehensive-list-of-voice-enhancing-apps-for-all-audiences-and-budgets/"><u>2024 Approved Resonant Harmony A Comprehensive List of Voice-Enhancing Apps for All Audiences and Budgets</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/did-your-apple-iphone-11-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your Apple iPhone 11 Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/how-to-download-youtube-thumbnail-in-3-waysonlinewinmac-for-2024/"><u>How to Download Youtube Thumbnail in 3 Ways[Online/Win/Mac] for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-11-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone 11 in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-unlock-tiktok-secrets-with-top-7-emojis-list/"><u>2024 Approved  Unlock TikTok Secrets with Top 7 Emojis List</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/trouble-with-apple-iphone-11-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with Apple iPhone 11 Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-11-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 11 with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-11-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone 11 when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-deciphering-youtube-monetization-success-codes/"><u>[Updated] Deciphering YouTube Monetization Success Codes</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/resolve-your-apple-iphone-11-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your Apple iPhone 11 Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-11-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock Apple iPhone 11 Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/free-aesthetic-essentials-for-youtube-artistry/"><u>Free Aesthetic Essentials for YouTube Artistry</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-11-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone 11 Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-elevating-your-webinar-footage-with-best-practices/"><u>[New] In 2024, Elevating Your Webinar Footage with Best Practices</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-11-properly-drfone-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone 11 Properly | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/apple-iphone-11-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>Apple iPhone 11 Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/embrace-these-hits-top-10-viral-tiktok-challenges-for-2024/"><u>Embrace These Hits  Top 10 Viral TikTok Challenges for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/unlocking-youtube-melodies-safe-free-extraction-methods/"><u>Unlocking YouTube Melodies  Safe, Free Extraction Methods</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-11-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone 11? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/harnessing-microsoft-teams-power-with-simple-snap-camera-use-for-2024/"><u>Harnessing Microsoft Teams' Power with Simple Snap Camera Use for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-11-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-11-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 11, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-enhancing-instagram-video-performance-desktop/"><u>[Updated] Enhancing Instagram Video Performance (Desktop)</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-sweet-snack-snapshot-review-deep-insight/"><u>[New] In 2024, Sweet Snack Snapshot Review Deep Insight</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-sifting-through-centuries-online-unlicensed-treasures-for-2024/"><u>[Updated] Sifting Through Centuries  Online Unlicensed Treasures for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-apple-iphone-11-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your Apple iPhone 11 When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-apple-iphone-11-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock Apple iPhone 11 with iTunes | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-11-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/2024-approved-are-you-a-video-editor-making-use-of-imovie-do-you-wish-to-read-how-to-change-orientation-in-imovie-youre-in-the-right-place-at-the-end-of-thi/"><u>2024 Approved Are You a Video Editor Making Use of iMovie? Do You Wish to Read How to Change Orientation in iMovie? Youre in the Right Place! At the End of This Guide, Youd Have Learned How to Change Video Orientation in iMovie</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/steady-screen-a-guide-for-pro-7-owners/"><u>Steady Screen: A Guide for Pro 7 Owners</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-apple-iphone-11-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot Apple iPhone 11 Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-create-a-polaroid-collage/"><u>Updated In 2024, How To Create a Polaroid Collage?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-apple-iphone-11-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For Apple iPhone 11 Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-11-passcode-without-a-computer-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone 11 Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-11-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 Without Passcode? | Dr.fone</u></a></li>
+</ul></div>

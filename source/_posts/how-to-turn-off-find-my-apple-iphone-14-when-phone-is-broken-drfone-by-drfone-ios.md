@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Find My Apple iPhone 14 when Phone is Broken? | Dr.fone
-date: 2024-03-31 18:32:10
-updated: 2024-04-01 16:19:22
+date: 2024-07-15T07:31:58.176Z
+updated: 2024-07-16T07:31:58.176Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Turn Off Find My Apple iPhone 14 when Phone is Broken?
 excerpt: This article describes How to Turn Off Find My Apple iPhone 14 when Phone is Broken?
 keywords: unlock iphone 5 passcode without itunes,how to create new apple id,unlock lost phone,bypass ios 14 lock screen,iphone asking for outlook password,iphone auto lock greyed out,unlock apple watch,open iphone without home button,solve iphone randomly asking for apple id,how to unlock iphone with itunes,unlock iphone 11 12 13 without passcode,unlock disabled iphone without itunes
-thumbnail: https://www.lifewire.com/thmb/hlshSPtDf3zsXAhW4UAOkuNWyQM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-Macys-59e6c3699abed500118af858.jpg
+thumbnail: https://thmb.techidaily.com/a6ef7d238dd7bb214a3984e4799089ad86b5e4b6f433cd32ec9f580258b7206c.jpg
 ---
 
 ## How to Turn Off Find My Apple iPhone 14 when Phone is Broken?
@@ -34,7 +34,7 @@ The best part about this application is that it is free of cost. It usually come
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Turning Off Find My iPhone Within Second.
 
@@ -175,6 +175,9 @@ Below are the common scenarios where a new Apple ID might be needed:
 
 **Creating a new Apple ID for free** is a straightforward process. Let's break it down into simple steps:
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### A. Registering a New Apple ID
 
 These are the steps for registering a new Apple ID:
@@ -221,12 +224,15 @@ To finalize the creation process, refer to the steps given below:
 
 Congratulations! You've successfully **created a new Apple ID**. With this account, you can now access Apple's services, including the App Store, iCloud, and more. Remember to keep your login credentials secure and use them to personalize your Apple experience fully.
 
-## Part 3: Effortlessly Remove Your Apple ID Using [<u>Wondershare Dr.Fone - Screen Unlock (iOS)</u>](https://drfone.wondershare.com/guide/ios-unlock.html)
+## Part 3: Effortlessly Remove Your Apple ID Using <u>Wondershare Dr.Fone - Screen Unlock (iOS)</u>
 
 You can embark on an enhanced Apple experience after successfully **creating your new Apple ID**. Removing the previous one is essential when you create it, especially if you've acquired a second-hand device or no longer want the previous user's associated credentials.
 
 This step ensures that your new Apple ID takes center stage, granting you full control over your device and its associated services. But if you encounter difficulties when removing the previous Apple ID from your device, Dr.Fone - Screen Unlock (iOS) is a reliable and user-friendly solution.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drfone unlock ios screen](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
 ### Key Features of Dr.Fone - Screen Unlock (iOS)
@@ -254,6 +260,9 @@ Check out the steps on how to remove an Apple ID account using Dr.Fone below:
 
 - **Step 4:** Before the Apple ID can be unlocked, the next step is for the platform to ask a series of questions. Verify that a screen lock is active on your iOS device. However, please lock your iOS device before proceeding with the **Yes** option.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![set up screen lock](https://images.wondershare.com/drfone/guide/remove-apple-id-3.png)
 
 - **Step 5:** Check if **Two-Factor Authentication** is set up on all your iOS devices. If not, switch it on before confirming your decision to unlock your Apple ID.
@@ -271,6 +280,9 @@ Check out the steps on how to remove an Apple ID account using Dr.Fone below:
 - **Step 8:** The appropriate iOS firmware begins downloading, showing its status on the following screen. Click the **Copy** button to copy the direct URL to [<u>download iOS firmware</u>](https://drfone.wondershare.com/ios-upgrade/how-to-upgrade-with-firmware-files.html) for systems with sluggish firmware download speeds.
 - **Step 9:** The platform checks the downloaded firmware and displays its details on the following screen. To proceed with unlocking your Apple ID, click the **Unlock Now** button. To proceed, you will be prompted to input a code into a confirmation window. Enter the code and then click the **Unlock** button.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![firmware complete](https://images.wondershare.com/drfone/guide/remove-apple-id-6.png)
 
 - **Step 10:** The following screen shows the unlocking status of your Apple ID. Don't let the Apple iPhone 14 device lose its connection under any circumstances. The screen prompts the process of completing the Apple ID once the ID has been unlocked. If the Apple ID has been unlocked, click **Done** to proceed. If that fails, click the **Try Again** button and give it another shot.
@@ -414,6 +426,9 @@ Removing the lock screen requires you to boot your Apple iPhone 14 in Recovery o
 
 Dr.Fone will now show you the phone Model and OS version. You can choose the right information from the dropdown menu if the one on your screen isn't right. Then, at that point, download and install the required firmware for your Apple iPhone 14.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select phone model](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 **Step 4. Unlock the Screen Now**
@@ -444,3 +459,46 @@ Having an iPhone with a broken screen can make your life hard. It keeps you from
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-iphone-6s-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone 6s with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-6s-drfone-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Realme 12 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-6s-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>iPhone 6s Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/4-ways-to-unlock-iphone-6s-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>4 Ways to Unlock iPhone 6s to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-6s-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock iPhone 6s Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-iphone-6s-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your iPhone 6s When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-6s-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock iPhone 6s, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-iphone-6s-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From iPhone 6s? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-lock-your-itel-a60-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Itel A60 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-iphone-6s-drfone-by-drfone-ios/"><u>How To Unlock A Found iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/can-you-unlock-iphone-6s-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>Can You Unlock iPhone 6s After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/which-gopro-model-shines-brighter-max-vs-hero-11/"><u>Which GoPro Model Shines Brighter, Max Vs. Hero 11?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-6s-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 6s Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-the-art-of-crafting-content-for-snapchat-professionals/"><u>In 2024, The Art of Crafting Content for Snapchat Professionals</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/leading-tools-top-6-fb-lite-video-extractors-for-2024/"><u>Leading Tools  TOP 6 FB Lite Video Extractors for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-the-ultimate-guide-to-adjusting-to-new-facebook-ranking-criteria/"><u>2024 Approved  The Ultimate Guide to Adjusting to New Facebook Ranking Criteria</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-oneplus-nord-ce-3-5g-pin-by-drfone-android-unlock-android-unlock/"><u>How to remove OnePlus Nord CE 3 5G PIN</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-6s-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix iPhone 6s Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-6s-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix iPhone 6s Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-enhancing-your-soundtracks-the-dos-and-donts-of-audio-volume-automation-in-adobe-premiere-pro-win/"><u>2024 Approved Enhancing Your Soundtracks The Dos and Donts of Audio Volume Automation in Adobe Premiere Pro (Win)</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-6s-drfone-by-drfone-ios/"><u>How to Unlock iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-iphone-6s-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My iPhone 6s when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-iphone-6s-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock iPhone 6s with iTunes | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-itel-a60-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-locked-iphone-6s-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>Forgot Locked iPhone 6s Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-6s-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>Unlock iPhone 6s With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/is-your-iphone-6s-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your iPhone 6s in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-iphone-6s-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For iPhone 6s Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-essential-skills-for-youtube-gamers/"><u>[Updated] 2024 Approved  Essential Skills for YouTube Gamers</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-6s-drfone-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-6s-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock iPhone 6s without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-nokia-c12-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Nokia C12</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-charting-uncharted-territories-with-jaunt-vr/"><u>In 2024, Charting Uncharted Territories with Jaunt VR</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-iphone-6s-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My iPhone 6s After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-iphone-6s-5-ways-to-get-into-a-locked-iphone-6s-drfone-by-drfone-ios/"><u>Locked Out of iPhone 6s? 5 Ways to get into a Locked iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-6s-passcode-without-a-computer-drfone-by-drfone-ios/"><u>Unlocking iPhone 6s Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-capture-the-oceans-majesty-best-action-cameras-reviewed/"><u>[Updated] 2024 Approved  Capture the Ocean's Majesty  Best Action Cameras Reviewed</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-6s-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone 6s | Dr.fone</u></a></li>
+</ul></div>

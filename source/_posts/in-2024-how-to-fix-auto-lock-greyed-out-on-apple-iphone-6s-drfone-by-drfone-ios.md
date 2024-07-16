@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 6s | Dr.fone
-date: 2024-05-19T07:27:01.306Z
-updated: 2024-05-20T07:27:01.306Z
+date: 2024-07-15T05:02:45.005Z
+updated: 2024-07-16T05:02:45.005Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Fix Auto Lock Greyed Out on Apple iPhone 6s
 excerpt: This article describes How To Fix Auto Lock Greyed Out on Apple iPhone 6s
 keywords: iphone passcode not working after update ios 13,unlock iphone 14,forgot iphone pin,what can jailbreak iphone do,factory reset locked iphone without itunes,unlock iphone with apple watch,how to create new apple id,open iphone without home button,how much does unlock a phone cost
-thumbnail: https://www.lifewire.com/thmb/NVfSH4Rjse-W0WAejPd1W9V_3ag=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1253176532-e5ce8e507433489f87c8b37818c13a01.jpg
+thumbnail: https://thmb.techidaily.com/bf32c159170edbc355c721b22ee8ee6c67dda36feed408fdb0ec7f3ca8b4ddc2.jpg
 ---
 
 ## How To Fix Auto Lock Greyed Out on Apple iPhone 6s
@@ -30,6 +30,9 @@ Low Power Mode
 
 When you activate Low Power Mode on your iOS device, you might notice the screen automatically locking after 30 seconds of inactivity. This quick sleep setting, implemented to minimize power usage, explains why the Auto-Lock option appears greyed out and inaccessible.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![low power mode on iphone enabled](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-02.jpg)
 
 Screen Time Restrictions
@@ -129,6 +132,9 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 - **Step 4:** Please review the message carefully before initiating the MDM bypass process. Once you've read it, click **Start to Bypass** to proceed.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![start to bypass mdm](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-3.png)
 
 - **Step 5:** If prompted, go to your device's **Settings** > **Apple ID** > **iCloud** and turn off the **Find My** feature. Next, click **OK** to initiate the MDM bypass.
@@ -236,6 +242,9 @@ With this method, you can follow the steps below to remove the screen lock passc
 4. By clicking this option, you will be asked about your **Apple ID and Password** that you have used on this iPhone.
 5. So provide them, and you will be able to erase your Apple iPhone 6s, and in the end, your Apple iPhone 6s will be unlocked without needing a passcode or password.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
 ### Method #4: Dr.Fone-Screen Unlock
 
 This is the most effective and easiest way to remove or break your Apple iPhone 6s passcode. You can use this method if all the above methods don't work for you or you don't remember your Apple ID or Password.
@@ -259,6 +268,9 @@ After installing Dr.Fone on your computer, you will need to launch the Software 
 
 Once your Apple iPhone 6s is successfully connected, you must take it to recovery or DFU mode. For this, follow the instructions given below.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![connect iphone to screen unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 **Step #4: Download Firmware**
@@ -308,6 +320,9 @@ Another possibility is that someone tried to break into your phone using an ille
 
 Finally, if you have an Apple iPhone 6s with Face ID, it's possible that your phone was locked because it didn't recognize your face. You ought to enter your passcode to unlock your phone if this is the case.
 
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### The Bottom Line
 
 So, these are some most effective methods to follow and unlock the Apple iPhone 6s XR lock screen without a passcode. All the methods discussed are excellent and working, but the most convenient way is using the Wondershare Dr.Fone-Screen Unlock. It is a perfect tool that can be used to unlock different iPhone lock screens. Moreover, it is very safe and easy to use. So, we recommend you use this tool to unlock your Apple iPhone 6s lock screen without a passcode.
@@ -480,3 +495,75 @@ Remember, Dr.Fone becomes a valuable ally when facing a passcode challenge. Thes
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-x-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix iPhone X Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/top-5-gionee-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>Top 5 Gionee Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-x-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone X | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-iphone-x-5-ways-to-get-into-a-locked-iphone-x-drfone-by-drfone-ios/"><u>Locked Out of iPhone X? 5 Ways to get into a Locked iPhone X | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-iphone-x-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From iPhone X? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-x-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot iPhone X Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-in-2024-the-ultimate-guide-saving-movs-on-windows-10-pro/"><u>[Updated] In 2024, The Ultimate Guide  Saving MOVs on Windows 10 Pro</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-iphone-x-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock iPhone X with iTunes | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-locked-iphone-x-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>Forgot Locked iPhone X Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-how-much-footage-does-instagram-allow/"><u>[Updated] 2024 Approved  How Much Footage Does Instagram Allow?</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-exploring-the-significance-of-pfp-on-tiktok-platform/"><u>[Updated] 2024 Approved  Exploring the Significance of PFP on TikTok Platform</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-game-masters-top-ten-female-gaming-influencers/"><u>In 2024, Game Masters  Top Ten Female Gaming Influencers</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-find-your-perfect-vlog-title-best-free-name-generators-for-2024/"><u>[Updated] Find Your Perfect Vlog Title - Best Free Name Generators for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/most-asked-questions-about-pokemon-go-battle-league-rewards-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>Most Asked Questions about Pokemon Go Battle League Rewards On Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/passfab-iphone-x-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab iPhone X Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-poco-c50-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Poco C50 Phone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-x-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>iPhone X Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-x-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone X | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-birds-eye-view-duel-dji-pro-max-against-gopro-hero6/"><u>[New] Bird's Eye View Duel  DJI Pro Max Against GoPro HERO6</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-smart-shoppers-guide-to-camcorder-choices-in-winter/"><u>The Smart Shopper's Guide to Camcorder Choices in Winter</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-x-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking iPhone X Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-x-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone X | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-how-to-mute-audio-from-video/"><u>Updated In 2024, How to Mute Audio From Video</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-x-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone X | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-x-drfone-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone X | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-oppo-reno-8t-5g-drfone-by-drfone-android/"><u>How to Screen Mirroring Oppo Reno 8T 5G? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-sony-xperia-1-v-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Sony Xperia 1 V Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-x-drfone-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone X | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-iphone-x-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone X with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/addressing-print-service-stopped-issue-on-windows-pc/"><u>Addressing Print Service Stopped Issue on Windows PC</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/mastery-in-motion-in-depth-review-of-video-editing-software-for-2024/"><u>Mastery in Motion  In-Depth Review of Video Editing Software for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/navigating-your-way-through-effective-spotify-promotion-techniques/"><u>Navigating Your Way Through Effective Spotify Promotion Techniques</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-x-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock iPhone X, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-x-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone X Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-x-drfone-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone X | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/digesting-the-public-perspective-on-vllo/"><u>Digesting the Public Perspective on VLLO</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-x-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock iPhone X Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-x-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix iPhone X Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-x-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone X in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-iphone-x-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For iPhone X Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-x-passcode-without-a-computer-drfone-by-drfone-ios/"><u>Unlocking iPhone X Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/pixel-powerhouse-the-ultimate-game-collection/"><u>Pixel Powerhouse  The Ultimate Game Collection</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-ultimate-free-viewer-cam-parties/"><u>In 2024, Ultimate Free Viewer Cam Parties</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-x-drfone-by-drfone-ios/"><u>How to Unlock iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-navigating-virtual-marketing-realms/"><u>In 2024, Navigating Virtual Marketing Realms</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/creative-channel-titling-techniques-for-growth/"><u>Creative Channel Titling Techniques for Growth</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-x-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock iPhone X without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/iron-out-glitches-restore-missing-facebook-watch-icons/"><u>Iron Out Glitches - Restore Missing Facebook Watch Icons</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/simplified-guide-to-saving-instagrams-dynamic-content-for-2024/"><u>Simplified Guide to Saving Instagram's Dynamic Content for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-x-drfone-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone X | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-quick-guide-archiving-your-insta-story-content-for-2024/"><u>[New] Quick Guide  Archiving Your Insta Story Content for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/resolve-your-iphone-x-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your iPhone X Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/4-ways-to-unlock-iphone-x-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>4 Ways to Unlock iPhone X to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/is-your-iphone-x-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your iPhone X in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-capture-cumulative-chronicles-for-2024/"><u>[Updated] Capture Cumulative Chronicles for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-iphone-x-drfone-by-drfone-ios/"><u>How To Unlock A Found iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-iphone-x-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My iPhone X After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/quick-windows-fix-remove-outdated-graphics-cards/"><u>Quick Windows Fix: Remove Outdated Graphics Cards</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Lava Storm 5G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Asus ROG Phone 8? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-latest-guide-how-to-bypass-nokia-g22-frp-without-computer-by-drfone-android/"><u>In 2024, Latest Guide How To Bypass Nokia G22 FRP Without Computer</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-x-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone X With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/imageslice-editor/"><u>ImageSlice Editor</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/the-art-of-selective-obscuration-in-photos/"><u>The Art of Selective Obscuration in Photos</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-direct-path-to-mp3-converting-fb-video-files/"><u>2024 Approved  Direct Path to MP3  Converting FB Video Files</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/can-you-unlock-iphone-x-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>Can You Unlock iPhone X After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/seamless-video-editing-turning-avi-into-easily-shareable-gifs-with-filmora-for-2024/"><u>Seamless Video Editing  Turning AVI Into Easily Shareable GIFs with Filmora for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: How to Make the Most of Your iPhone XR Lock Screen with Notifications? | Dr.fone
-date: 2024-05-19T07:27:35.119Z
-updated: 2024-05-20T07:27:35.119Z
+date: 2024-07-15T05:56:03.247Z
+updated: 2024-07-16T05:56:03.247Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Make the Most of Your iPhone XR Lock Screen with Notifications?
 excerpt: This article describes How to Make the Most of Your iPhone XR Lock Screen with Notifications?
 keywords: remove flashlight from iphone lock screen,bypass apple store verification,iphone auto lock greyed out,iphone 15 unlock,how to remove passcode from iphone,iphone backup password,open iphone without home button,forgot passcode iphone 6,remove iphone from blacklist
-thumbnail: https://www.lifewire.com/thmb/ifJDA6ScbZuUR7Omss65zhVMxok=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-155159821-8881bead1d894a0b95bca3c3e288ff54.jpg
+thumbnail: https://thmb.techidaily.com/3de06be99a3225bd572539cfd46d39535123115f6244e3ee7a3676c38fda1900.jpg
 ---
 
 ## How to Make the Most of Your Apple iPhone XR Lock Screen with Notifications?
@@ -32,6 +32,9 @@ If you aren’t using this iPhone notification lock screen feature, then you are
 
 Not just your messages, you can interact with other apps as well right from the lock screen notifications iPhone. After getting a list of notifications, you can simply tap on the “x” button to close them.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iphone lock screen with notifications-close app notification](https://images.wondershare.com/drfone/article/2017/09/15063938035288.jpg)
 
 Though, if you want to know more, then just long press the notification. For instance, if you have got a notification for an email, then you can get various options just by long pressing it.
@@ -42,6 +45,9 @@ Though, if you want to know more, then just long press the notification. For ins
 
 Besides interacting with widgets and apps, you can also search for something on your device and that too without unlocking it. Simply tap on the search bar to make it work.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![iphone lock screen with notifications-earch for anything](https://images.wondershare.com/drfone/article/2017/09/15063938584150.jpg)
 
 ## Part 2: How to turn off notifications on iPhone lock screen?
@@ -177,6 +183,9 @@ For those using iOS 11 and below, the steps are a bit different:
 
 - **Step 1:** Go to **Settings** > **General**. Scroll down to find the **Restrictions** option.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![turning off restrictions mode ios 11](https://images.wondershare.com/drfone/article/2024/01/disable-restricted-mode-on-iphone-05.jpg)
 
 - **Step 2:** Toggle off the switch next to **Restrictions**. The action turns off Restricted Mode on iOS 11 and below.
@@ -185,6 +194,9 @@ For those using iOS 11 and below, the steps are a bit different:
 
 There may be situations where removing Restricted Mode on your Apple iPhone XR becomes challenging. If you can't unlock your Apple iPhone XR screen time, then you need a specialized tool like [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)<u>.</u> The platform's Unlock Screen Time Passcode feature can assist in its removal in quick and easy steps.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dr.fone main window](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 
@@ -306,6 +318,9 @@ As the respective iOS firmware downloads, wait a few minutes and press the "Unlo
 
 ![iphone unlocked successfully](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2. \[Old Ways\] Using Siri To Unlock Stolen iPhone
 
 It might come as a surprise to you that Siri can be used to unlock a lost iPhone. When you seek the answer to **how to unlock a lost iPhone** with Siri, you need to be aware of a very specific pointer. It is necessary to note that this method only works for devices operating between iOS 8 and 11.
@@ -369,3 +384,39 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-iphone-xripad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled iPhone XR/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-xr-properly-drfone-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone XR Properly | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-mobile-video-editing-showdown-top-apps-for-iphone-and-android/"><u>New In 2024, Mobile Video Editing Showdown Top Apps for iPhone and Android</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/remove-device-supervision-from-your-iphone-xr-drfone-by-drfone-ios/"><u>Remove Device Supervision From your iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-how-to-live-stream-on-twitter/"><u>[Updated] In 2024, How to Live Stream on Twitter</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-xr-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock iPhone XR Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-xr-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone XR Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-iphone-xr-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve iPhone XR Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/top-list-best-livestream-shopping-apps-of/"><u>Top List Best Livestream Shopping Apps Of</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/trouble-with-iphone-xr-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with iPhone XR Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-enable-usb-debugging-on-a-locked-samsung-galaxy-a15-4g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Samsung Galaxy A15 4G Phone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-your-iphone-xr-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>How to Unlock Your iPhone XR Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/reimagined-analysis-new-developments-in-sonys-s6500-bdhd/"><u>Reimagined Analysis  New Developments in Sony's S6500 BD/HD</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-xr-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-idea-to-airwaves-crafting-compelling-podcast-scripts/"><u>[Updated] From Idea to Airwaves  Crafting Compelling Podcast Scripts</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-xr-passcode-without-computer-drfone-by-drfone-ios/"><u>How to Unlock iPhone XR Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-xr-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone XR Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-xr-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-xr-with-a-mask-on-drfone-by-drfone-ios/"><u>How to Unlock iPhone XR with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-your-disabled-iphone-xr-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>Unlock Your Disabled iPhone XR Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-xr-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>iPhone XR Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-mitigate-playback-problems-in-android-and-ios-apps/"><u>[New] Mitigate Playback Problems in Android & iOS Apps</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-iphone-xr-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to iPhone XR Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-step-by-step-livestreaming-to-facebook-from-iphonestablets/"><u>2024 Approved  Step-by-Step  Livestreaming to Facebook From iPhones/Tablets</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-xr-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>How To Unlock iPhone XR Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/did-your-iphone-xr-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your iPhone XR Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-xr-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone XR in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/2024-approved-how-to-guide-secret-shortcut-to-adobe-animate-character-tutorial/"><u>2024 Approved How-To Guide Secret Shortcut to Adobe Animate Character Tutorial</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-oneplus-nord-ce-3-5g-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost OnePlus Nord CE 3 5G for Free? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-apex-creatives-review-studio-25-scrutiny-year-2023/"><u>2024 Approved  Apex Creatives Review  Studio 25 Scrutiny, Year 2023</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabled-iphone-xr-how-to-unlock-a-disabled-iphone-xr-drfone-by-drfone-ios/"><u>Disabled iPhone XR How to Unlock a Disabled iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-infinix-note-30-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Infinix Note 30 5G without Them Knowing | Dr.fone</u></a></li>
+</ul></div>

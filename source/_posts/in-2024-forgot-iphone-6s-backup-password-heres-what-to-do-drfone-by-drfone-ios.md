@@ -1,7 +1,7 @@
 ---
 title: In 2024, Forgot iPhone 6s Backup Password? Heres What to Do | Dr.fone
-date: 2024-05-19T07:27:02.254Z
-updated: 2024-05-20T07:27:02.254Z
+date: 2024-07-15T05:04:28.077Z
+updated: 2024-07-16T05:04:28.077Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Forgot iPhone 6s Backup Password? Heres What to Do
 excerpt: This article describes Forgot iPhone 6s Backup Password? Heres What to Do
 keywords: forgot passcode iphone 6,iphone backup password,iphone lock screen with notifications,unlock iphone face id wearing mask,unlock iphone passcode,get into locked iphone,iphone asking for outlook password,factory reset locked iphone without itunes,change apple id on ipad,solve iphone randomly asking for apple id,iphone is disabled,remove flashlight from iphone lock screen
-thumbnail: https://www.lifewire.com/thmb/ouXJb0p8iu69MptAZaPa-CTAUMg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/relaxing-while-getting-his-studies-done-495857099-5a1ed8c5ec2f640037e369f4.jpg
+thumbnail: https://thmb.techidaily.com/8f59b16f9ed7024a23cc6f18f766904b6f418e4c5b8df6a84d93cf668a943550.jpg
 ---
 
 ## Forgot Apple iPhone 6s Backup Password? Here's What to Do
@@ -86,6 +86,9 @@ You can also get rid of the password for the last backup without deleting any ot
 
 Use a USB cable to link your Apple iPhone 6s to your PC. Look at the small iOS icon in the figure below. Just click on it.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![backup](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-5.jpg)
 
 Proceed to the **Summary Page** and make your selection there for **The Computer.** After selecting **Encrypt Local Backup**, you must create a new password. After you have pressed the **Backup Now** option, wait for iTunes to create a new password for you.
@@ -134,6 +137,9 @@ Before you click **Remove Now**, please carefully read the following three notes
 - Don't open iTunes while doing this.
 - Your device will reboot
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![connected](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-3.png)
 
 **Step 4:** Dr.Fone can check your iTunes backup and delete it by itself. This encryption will be erased when the progress bar reaches 100%. This will take a short time to do.
@@ -234,7 +240,7 @@ If none of the above-mentioned methods works for you, or you don't want to use t
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone Without Passcode
 
@@ -287,13 +293,16 @@ Firstly, you need to download and install Dr.Fone on your computer. Once it's in
 
 Now you will need to connect your Apple iPhone 6s 6 to the computer with a lightning cable and click "Back Up Now" to start backing up your device. Dr.Fone will now start scanning your Apple iPhone 6s for data. Once it's finished, you can move on to the next step.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![backup or restore](https://images.wondershare.com/drfone/guide/ios-backup-and-restore-1.png)
 
 **Step #3: Hit Backup Button**
 
 Once it's finished, you can safely disconnect your Apple iPhone 6s and keep the backup file safe. So that is how you can safely back up your Apple iPhone 6s without losing any data.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## FAQs
 
@@ -313,6 +322,9 @@ You can unlock your Apple iPhone 6s 6 without a passcode by following the steps 
 
 If you cannot unlock your Apple iPhone 6s using iTunes, you can try Dr.Fone-Screen Unlock. This software is extremely easy to use and supports all iOS devices. Plus, it won't erase your data if you have a backup.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 We hope this article helped you reset your Apple iPhone 6s if you forgot the passcode iPhone 6. As you can see, there are several ways to do it; however, any method you follow will result in data loss. So, ensure you have a backup before proceeding.
@@ -334,6 +346,9 @@ Get the tool Dr.Fone - Screen Unlock (iOS) downloaded and installed over your co
 
 Now, launch the tool and then opt for the “Unlock” tile from the main screen.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![launch Dr.Fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2: Boot in Recovery/DFU mode**
@@ -354,7 +369,7 @@ Once, the software downloads the firmware automatically, you can then proceed to
 
 ![passcode removal](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 2. Restore an iTunes backup for Apple iPhone 6s
 
@@ -439,3 +454,49 @@ Now, in case you know the Apple iPhone 6s restrictions passcode and just wish to
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-iphone-se-2020-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your iPhone SE (2020) When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-iphone-se-2020ipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled iPhone SE (2020)/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-easy-steps-for-exporting-videos-from-youtube-to-dailymotion/"><u>[New] 2024 Approved  Easy Steps for Exporting Videos From YouTube to Dailymotion</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-samsung-galaxy-m54-5g-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Samsung Galaxy M54 5G Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-se-2020-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock iPhone SE (2020) Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-iphone-se-2020-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your iPhone SE (2020) Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/remove-device-supervision-from-your-iphone-se-2020-drfone-by-drfone-ios/"><u>Remove Device Supervision From your iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-essential-guide-instagram-optimization-through-final-cut-pro-x-for-2024/"><u>The Essential Guide  Instagram Optimization Through Final Cut Pro X for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-se-2020-drfone-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-se-2020-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/passfab-iphone-se-2020-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab iPhone SE (2020) Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-se-2020-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your iPhone SE (2020) Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/trouble-with-iphone-se-2020-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with iPhone SE (2020) Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-iphone-se-2020-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to iPhone SE (2020) Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-game-on-compile-your-collection-of-the-top-12-pc-clickers/"><u>[New] In 2024, Game On  Compile Your Collection of the Top 12 PC Clickers</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-se-2020-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot iPhone SE (2020) Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-vivo-s17-pro-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Vivo S17 Pro Pattern Lock Screen</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-se-2020-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-iphone-se-2020-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your iPhone SE (2020)? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-meizu-21-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Meizu 21 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/did-your-iphone-se-2020-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your iPhone SE (2020) Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-se-2020-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>iPhone SE (2020) Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-se-2020-lock-screen-drfone-by-drfone-ios/"><u>How To Remove Flashlight From iPhone SE (2020) Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-vivo-v27-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Vivo V27 Phones</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/resolve-your-iphone-se-2020-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your iPhone SE (2020) Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-se-2020-properly-drfone-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone SE (2020) Properly | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-iphone-se-2020-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For iPhone SE (2020) Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-se-2020-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-realme-12-pro-5g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Realme 12 Pro 5G to Your PC/Mac | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-revamping-imagery-leading-insta-edits-explored/"><u>[New] Revamping Imagery  Leading Insta Edits Explored</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-se-2020-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone SE (2020) Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/in-2024-unleash-your-creativity-best-gopro-video-editing-software-beyond-gopro-studio/"><u>In 2024, Unleash Your Creativity Best GoPro Video Editing Software Beyond GoPro Studio</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-itel-p55t-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Itel P55T Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/precision-sound-transmitter-for-casters/"><u>Precision Sound Transmitter for Casters</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-best-7-color-match-paint-apps/"><u>New Best 7 Color Match Paint Apps</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-fix-frozen-mobile-youtube-videos-on-multiple-devices/"><u>[New] In 2024, Fix Frozen Mobile YouTube Videos on Multiple Devices</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-dance-cook-and-eat-the-hottest-food-trends-on-tiktok/"><u>[New] In 2024, Dance, Cook, and Eat  The Hottest Food Trends on TikTok</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-iphone-se-2020-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve iPhone SE (2020) Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-se-2020-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-se-2020-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone SE (2020) in Lost Mode | Dr.fone</u></a></li>
+</ul></div>

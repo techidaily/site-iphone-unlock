@@ -1,7 +1,7 @@
 ---
 title: How To Unlock A Found iPhone 6s? | Dr.fone
-date: 2024-05-19T07:27:00.150Z
-updated: 2024-05-20T07:27:00.150Z
+date: 2024-07-15T05:00:44.470Z
+updated: 2024-07-16T05:00:44.470Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Unlock A Found iPhone 6s?
 excerpt: This article describes How To Unlock A Found iPhone 6s?
 keywords: get into locked iphone,unlock disabled iphone without computer,iphone auto lock greyed out,unlock iphone passcode without computer,unlock iphone passcode,unlock iphone 11 12 13 without passcode,unlock iphone face id wearing mask
-thumbnail: https://www.lifewire.com/thmb/sx5hd7He1vcpR0KajATX8cwq3zM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Twitter-and-X-4c4103f6bc3c42e0b7197b60a50317ca.jpg
+thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f8bcbe092ec793162bb9610d.jpg
 ---
 
 ## How To Unlock A Found Apple iPhone 6s?
@@ -102,6 +102,9 @@ Here are the simple steps that can help you.
 4. Now, put your Apple iPhone 6s in DFU mode or Recovery mode according to your Apple iPhone 6s model.
 5. If you have no idea about it, don't worry. The software will provide on-screen instructions to help you put your Apple iPhone 6s in DFU mode or Recovery mode.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dfu mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 6. Once your Apple iPhone 6s is in DFU mode or Recovery mode, the software will ask you to start downloading the necessary firmware for your device. So, choose an appropriate firmware according to the Apple iPhone 6s model.
@@ -137,6 +140,9 @@ The rightful owner of the Apple iPhone 6s activates lost mode. You can see the l
 
 There is a feature in the Apple iPhone 6s known as medical ID. This feature can help you contact the owner of the found iPhone if they are unavailable.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![contact the owner with the help of emergency medical id](https://images.wondershare.com/drfone/article/2022/11/i-found-an-iphone-how-do-i-unlock-it-7.jpg)
 
 To do this, go to the emergency call screen and tap on the Medical ID option. Here, you can find out the name and phone number of the owner. So, you can use this information to contact the owner and return the iPhone.
@@ -153,6 +159,9 @@ Most people who have lost their iPhones often check their iCloud, and once they 
 
 And that's how you can also communicate with them and ask for contact details so that you can return their phone and be a good citizen.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### The Bottom Line
 
 So, that's how you can unlock a found iPhone and contact its owner. I hope this article will help you find the lost iPhone owner and return it to them.
@@ -256,6 +265,9 @@ Dr.Fone can help you to remove the screen from the disabled Apple iPhone 6s or i
 
 Boot your Apple iPhone 6s into DFU mode.
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![boot device in dfu mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 Select device information on Dr.Fone
@@ -264,6 +276,9 @@ Select device information on Dr.Fone
 
 **Step 4.** Start to Unlock. The phone will be unlocked after that.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![download Apple iPhone 6s firmware](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
 ## Part 4: Tips to protect your Apple iPhone 6s from being unlocked by thieves
@@ -308,7 +323,7 @@ We understand how frustrating it can be when your newly purchased Apple iPhone 6
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -426,3 +441,67 @@ A locked Apple iPhone 6s is never a pretty sight. Fortunately, there are a coupl
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-x-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-apple-iphone-12-mini-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix Apple iPhone 12 mini Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-samsung-galaxy-m14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-iphone-xr-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your iPhone XR Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-apple-iphone-xs-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your Apple iPhone XS Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-11-pro-max-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your iPhone 11 Pro Max Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-13-mini-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-invisible-volume-tapering-a-guide-for-audacity-enthusiasts/"><u>2024 Approved  Invisible Volume Tapering  A Guide for Audacity Enthusiasts</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-8-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your iPhone 8 Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-12-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your iPhone 12 Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-apple-iphone-8-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your Apple iPhone 8 Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-darkened-details-expert-techniques-for-night-photography-success/"><u>In 2024, Darkened Details  Expert Techniques for Night Photography Success</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-11-pro-max-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix iPhone 11 Pro Max Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-x-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your iPhone X Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-apple-iphone-8-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix Apple iPhone 8 Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-12-pro-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix iPhone 12 Pro Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-your-top-10-favorites-on-spotify/"><u>In 2024, Your Top 10 Favorites on Spotify</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-apple-iphone-se-2020-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your Apple iPhone SE (2020) Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-navigating-through-fbs-in-stream-ad-landscape-configuration-and-evaluation-techniques/"><u>[New] 2024 Approved  Navigating Through FB's In-Stream Ad Landscape  Configuration and Evaluation Techniques</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-clear-acoustic-advantages-review-of-the-top-6-stream-ready-mic-models/"><u>[New] Clear Acoustic Advantages  Review of the Top 6 Stream-Ready Mic Models</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-6-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-11-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 11 Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-12-pro-max-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-dissecting-youtubes-features-and-mechanisms-after-uploading-content/"><u>[Updated] Dissecting YouTube’s Features and Mechanisms After Uploading Content</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-7-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-apple-iphone-8-plus-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix Apple iPhone 8 Plus Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-7-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix iPhone 7 Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-13-mini-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-vivo-v30-pro-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Vivo V30 Pro Device</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/in-2024-no-download-no-problem-the-best-speech-to-text-apps-for-mac-you-need-to-try/"><u>In 2024, No Download? No Problem! The Best Speech to Text Apps for Mac You Need to Try</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-game-on-6-efficient-techniques-for-perfect-pc-snapshots/"><u>[New] 2024 Approved  Game On  6 Efficient Techniques for Perfect PC Snapshots</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-xr-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-apple-iphone-12-pro-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your Apple iPhone 12 Pro Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-low-end-pc-maximum-performance-via-obs-for-2024/"><u>[New] Low-End Pc - Maximum Performance via OBS for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-apple-iphone-8-plus-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your Apple iPhone 8 Plus Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-xs-max-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-x-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone X Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-apple-iphone-13-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix Apple iPhone 13 Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-11-pro-max-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-unveiling-the-excellent-tech-for-high-definition-recording-for-2024/"><u>[New] Unveiling the Excellent Tech for High-Definition Recording for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-7-plus-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix iPhone 7 Plus Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-mastering-video-transfer-youtube-to-dailymotion-conversion/"><u>[New] In 2024, Mastering Video Transfer  YouTube to Dailymotion Conversion</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-xr-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix iPhone XR Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-15-plus-without-passcode-now-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone 15 Plus Without Passcode Now</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-13-mini-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix iPhone 13 mini Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-leveraging-secondary-footage-for-visual-impact/"><u>[Updated] Leveraging Secondary Footage for Visual Impact</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-12-prominent-samsung-galaxy-s24plus-fingerprint-not-working-solutions-by-drfone-android/"><u>Top 12 Prominent Samsung Galaxy S24+ Fingerprint Not Working Solutions</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-mp4-to-mp3-fast-and-easy-conversion-with-these-top-tools/"><u>In 2024, MP4 to MP3 Fast and Easy Conversion with These Top Tools</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-12-pro-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-xs-drfone-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-8-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix iPhone 8 Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-codec-battlegrounds-assessing-the-advantages-of-av1-and-vp9/"><u>[New] Codec Battlegrounds  Assessing the Advantages of Av1 and VP9</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-apple-iphone-12-mini-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix Apple iPhone 12 mini Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/unlocking-facebooks-full-potential-4-sharing-techniques-for-2024/"><u>Unlocking Facebook's Full Potential  4 Sharing Techniques for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-cutting-edge-tactics-for-polishing-your-social-media-vids-on-instagram/"><u>[Updated] In 2024, Cutting-Edge Tactics for Polishing Your Social Media Vids on Instagram</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-best-of-the-best-compilation-of-top-10-4k-phone-cameras/"><u>In 2024, Best of the Best  Compilation of Top 10 4K Phone Cameras</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-windows-prime-video-communication-tools-1-8/"><u>[Updated] In 2024, Windows' Prime Video Communication Tools, #1-8</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-is-it-possible-to-use-miracast-with-apple-iphone-se-drfone-by-drfone-ios/"><u>In 2024, Is it Possible to Use Miracast with Apple iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-the-best-ten-spotify-equipment-for-high-quality-recording/"><u>[New] The Best Ten Spotify Equipment for High-Quality Recording</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-12-pro-max-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your iPhone 12 Pro Max Lock Screen with Notifications? | Dr.fone</u></a></li>
+</ul></div>

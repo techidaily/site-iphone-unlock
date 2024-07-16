@@ -1,7 +1,7 @@
 ---
 title: Complete Guide For Apple iPhone 8 Plus Lock Screen | Dr.fone
-date: 2024-06-08T08:04:47.428Z
-updated: 2024-06-09T08:04:47.428Z
+date: 2024-07-15T05:33:39.623Z
+updated: 2024-07-16T05:33:39.623Z
 tags: 
   - unlock
   - remove screen lock
@@ -32,6 +32,9 @@ The first way is to use a pre-made wallpaper from the Apple Wallpaper Gallery.
 
 To do this, go to Settings > Wallpapers & Brightness > Choose a New Wallpaper. Then, select the Apple Wallpaper Gallery and choose the image you want to use.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select favorite wallpaper](https://images.wondershare.com/drfone/article/2022/11/ios-15-lock-screen-2.jpg)
 
 The second way to have a customized lock screen is to use a Live Photo. To do this, go to Settings > Wallpapers & Brightness > Choose a New Wallpaper. Then, select the Live Photo option and choose the image you want to use.
@@ -121,6 +124,9 @@ After downloading the tool, install launch it on your PC.
 
 Once you have installed the tool, launch it and go to its main window. Here, you will see different features. Select the Screen Unlock feature from the list.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![ios 17 passcode bypass](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step #3: Connect your Apple iPhone 8 Plus and Activate DFU Mode**
@@ -168,6 +174,9 @@ If none of these methods work, you can try using a third-party tool like Dr.Fone
 
 There are various ways to unlock a locked iPhone running on iOS 17. You can try the feature of Find My iPhone, or you can also use a third-party tool like Dr.Fone-Screen Unlock.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### How do you fix an unresponsive lock screen on iPhone running on iOS 17?
 
 If your lock screen is unresponsive on iPhone running on iOS 17, you can try force restarting your device. To do this, you need to press and hold the Home button and Sleep/Wake button simultaneously for 10 seconds.
@@ -186,6 +195,9 @@ But if you are still facing problems with your lock screen, then the greatest th
 
 So, if you are looking for a hassle-free solution to fix your lock screen issues, then this is the best one you should never miss.
 
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How To Fix Auto Lock Greyed Out on Apple iPhone 8 Plus
 
 Auto-lock on iOS devices serves multiple purposes - it conserves battery life, secures your data, and more. But have you encountered the **Auto-Lock greyed-out** dilemma, fixed at 30 seconds? When this setting becomes inaccessible, it limits your control over screen timeout.
@@ -194,6 +206,9 @@ Read on if you've encountered a similar problem on your iOS device. In this guid
 
 ![auto lock greyed out on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Why Is Auto-Lock Greyed Out on iOS Device?
 
 There are a few reasons why the Auto-Lock might be greyed out on your Apple iPhone 8 Plus or iPad device, preventing you from adjusting the duration. Here are the most common culprits:
@@ -372,7 +387,7 @@ The best part about this application is that it is free of cost. It usually come
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Turning Off Find My iPhone Within Second.
 
@@ -492,3 +507,49 @@ Now we’re done as we’ve provided you the best possible solutions to turn off
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-from-your-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password From your Apple iPhone 11 Pro Max</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-11-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-mov-files-of-zte-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and MOV files of ZTE using Video Repair Utility on Mac?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-marketing-unboxed-approaches/"><u>[Updated] In 2024, Marketing Unboxed Approaches</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/passfab-iphone-11-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab iPhone 11 Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-view-mkv-movies-content-on-sony-xperia-1-v-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Can’t view MKV movies content on Sony Xperia 1 V</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-valhallas-vanguard-fiery-rebirth/"><u>2024 Approved  Valhalla's Vanguard  Fiery Rebirth</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-revel-in-every-box-with-these-strategies/"><u>2024 Approved  Revel in Every Box with These Strategies</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-crafting-engaging-youtube-videos-using-finalcut-pro-expertise/"><u>[Updated] In 2024, Crafting Engaging YouTube Videos Using FinalCut Pro Expertise</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-11-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 11 Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-iphone-11-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your iPhone 11 Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-iphone-11-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your iPhone 11? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-iphone-11ipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled iPhone 11/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-11-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-this-years-breakthrough-in-vr-gaming-technology/"><u>2024 Approved  This Year's Breakthrough in VR Gaming Technology</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-iphone-11-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve iPhone 11 Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tempo-treasure-hunters-dive-into-free-online-scanners-for-2024/"><u>Tempo Treasure Hunters  Dive Into FREE Online Scanners for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-11-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock iPhone 11 Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-11-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>iPhone 11 Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-11-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock iPhone 11 without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/resolve-your-iphone-11-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your iPhone 11 Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-11-drfone-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-take-your-instagram-videos-to-the-next-level-optimal-dimensions-and-aspect-ratios/"><u>New In 2024, Take Your Instagram Videos to the Next Level Optimal Dimensions and Aspect Ratios</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/did-your-iphone-11-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your iPhone 11 Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-perfecting-the-art-of-interviews-iphone-and-ipad-recording-techniques-for-2024/"><u>[Updated] Perfecting the Art of Interviews  IPhone & iPad Recording Techniques for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-iphone-11-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 11 Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-11-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-top-choices-for-mp3-to-text-transcription-software/"><u>New In 2024, Top Choices for MP3-to-Text Transcription Software</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabled-iphone-11-how-to-unlock-a-disabled-iphone-11-drfone-by-drfone-ios/"><u>Disabled iPhone 11 How to Unlock a Disabled iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-11-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot iPhone 11 Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-charting-the-path-to-previous-imagery-a-facebook-centric-guide/"><u>In 2024, Charting the Path to Previous Imagery  A Facebook-Centric Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-11-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone 11 Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-11-lock-screen-drfone-by-drfone-ios/"><u>How To Remove Flashlight From iPhone 11 Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-11-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your iPhone 11 Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/remove-device-supervision-from-your-iphone-11-drfone-by-drfone-ios/"><u>Remove Device Supervision From your iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-unlocking-the-art-of-reversed-video-experience-on-snapchat-for-2024/"><u>[Updated] Unlocking the Art of Reversed Video Experience on Snapchat for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-11-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/seamless-video-playback-on-demand/"><u>Seamless Video Playback on Demand</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-11-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 11 Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-11-properly-drfone-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 11 Properly | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/trouble-with-iphone-11-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with iPhone 11 Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-iphone-11-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For iPhone 11 Lock Screen | Dr.fone</u></a></li>
+</ul></div>

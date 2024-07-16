@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Change Country on App Store for Apple iPhone XS Max With 7 Methods | Dr.fone
-date: 2024-04-07T03:53:41.068Z
-updated: 2024-04-08T03:53:41.068Z
+date: 2024-07-15T08:15:27.118Z
+updated: 2024-07-16T08:15:27.118Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Change Country on App Store for Apple iPhone XS Max With 7 Methods
 excerpt: This article describes How To Change Country on App Store for Apple iPhone XS Max With 7 Methods
 keywords: reset iphone backup password,unlock iphone 11 12 13 without passcode,iphone 11 passcode bypass,what can jailbreak iphone do,open iphone without home button,change apple id password,how to unlock iphone passcode without computer,unlock disabled iphone 13
-thumbnail: https://www.lifewire.com/thmb/DkM9pHd1hq5V02UbKX94h0TfJkQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/duetinslides-fd2c11f1a91a4d7388cc25f2f4719cca.jpg
+thumbnail: https://thmb.techidaily.com/c097990fd37784ce6293a6224fb832fd4d9a7841c40f79ad9e48ab602a74cd56.jpg
 ---
 
 ## How To Change Country on App Store for Apple iPhone XS Max With 7 Methods
@@ -79,6 +79,9 @@ If you're part of a family sharing group, you need to leave the group before you
 - **Step 1:** Open the **Settings** app on your Apple iPhone XS Max and tap **Family**.
 - **Step 2:** Tap your name and tap **Stop Using Family Sharing**. Once you have left the family sharing group, you can change your App Store country by following the aforementioned manners.
 
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![leave family sharing group](https://images.wondershare.com/drfone/article/2023/10/change-app-store-country-06.jpg)
 
 ### Method 5: Cancel All Subscriptions
@@ -166,6 +169,9 @@ Once enabled, Activation Lock securely stores the Apple iPhone XS Max device's u
 
 If a device with Activation Lock is lost or stolen, the owner can activate Lost Mode using the Find My app or iCloud website. Lost Mode remotely locks the Apple iPhone XS Max device, preventing anyone from accessing the user's data. It also prevents device use without the owner's Apple ID and password.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Device Recovery
 
 In Lost Mode, the owner can provide contact information and display a custom message on the Apple iPhone XS Max device's screen. These can help in facilitating its return. The device remains locked until the owner either unlocks it through iCloud or erases its data remotely.
@@ -204,6 +210,9 @@ To make this procedure work, the owner will need to use the Find My Device featu
 
 - ****Step 2:**** On the following screen, select your Apple iPhone XS Max from "All Devices." Now choose "Erase iPhone" from the available options to erase the Apple iPhone XS Max device and remove the Activation Lock.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![tap on erase iphone](https://images.wondershare.com/drfone/article/2023/06/iphone-locked-to-owner-4.jpg)
 
 ### Method 3: Use the DNS Method To Unlock the Apple iPhone XS Max Locked to Owner
@@ -330,6 +339,9 @@ Enabling Restricted Mode on your Apple iPhone XS Max is prudent, especially for 
 
 If you want to know **how to turn off Restricted Mode on your Apple iPhone XS Max**, here are three efficient methods to do so. Whether on a specific iOS version or facing a forgotten passcode, these provide solutions for every scenario.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1: Turn Off Restricted Mode on iOS 12 and Above
 
 For users on iOS 12 and above, turning off Restricted Mode is straightforward:
@@ -376,6 +388,9 @@ Here's **how to disable Restricted Mode on iPhone without a password** using Dr.
 
 - **Step 2:** Ensure your Apple iPhone XS Max is connected to the computer using a USB cable. Wait for Dr.Fone to detect your Apple iPhone XS Max automatically. Next, click the **Unlock Now** button.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock now button](https://images.wondershare.com/drfone/guide/unlock-ios-screen-time-2.png)
 
 - **Step 3:** Follow the on-screen instructions. Afterward, Dr.Fone will initiate the unlocking process to remove the Restricted Mode passcode. Once removed, click the **Done** button to finish.
@@ -445,3 +460,60 @@ Remember, Dr.Fone becomes a valuable ally when facing a passcode challenge. Thes
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-consolechronicle-critique-for-2024/"><u>[Updated] ConsoleChronicle Critique for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-6-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot iPhone 6 Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-understanding-slug-lines-essentials-and-application-guide/"><u>[New] Understanding Slug Lines  Essentials & Application Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/glowing-android-video-guide-simplified-methods-for-2024/"><u>Glowing Android Video Guide - Simplified Methods for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-iphone-6-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 6 Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-6-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>How to Unlock iPhone 6 With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-6-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock iPhone 6 Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-excellent-choice-7-premium-videos-on-mac/"><u>2024 Approved  Excellent Choice  7 Premium Videos on Mac</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-iphone-6-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-iphone-6ipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled iPhone 6/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-6-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone 6 Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-6-lock-screen-drfone-by-drfone-ios/"><u>How To Remove Flashlight From iPhone 6 Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-utilizing-in-browser-multiframe-pip/"><u>[Updated] In 2024, Utilizing In-Browser Multiframe  PIP</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-6-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 6 Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-iphone-6-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your iPhone 6 Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabled-iphone-6-how-to-unlock-a-disabled-iphone-6-drfone-by-drfone-ios/"><u>Disabled iPhone 6 How to Unlock a Disabled iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-6-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>How To Unlock iPhone 6 Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-your-iphone-6-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>How to Unlock Your iPhone 6 Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-6-drfone-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-6-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-untold-elements-of-instagram-story-engagement/"><u>[Updated] The Untold Elements of Instagram Story Engagement</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-6-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-10-best-nature-sounds-apps-for-ios-and-android/"><u>Updated 10 Best Nature Sounds Apps for iOS and Android</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/first-steps-in-spanish-kids-from-preschoolers-to-fifth-graders/"><u>First Steps in Spanish: Kids From Preschoolers to Fifth Graders</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-6-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>iPhone 6 Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-iphone-6-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your iPhone 6? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/passfab-iphone-6-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab iPhone 6 Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-6-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock iPhone 6 Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-6-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/resolve-your-iphone-6-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your iPhone 6 Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-honor-x9b-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Honor X9b to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/trouble-with-iphone-6-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with iPhone 6 Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-iphone-6-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve iPhone 6 Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-oppo-find-x7-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Oppo Find X7 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-6-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your iPhone 6 Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-capturing-the-essence-of-your-pcs-sound-in-audacity/"><u>Updated Capturing the Essence of Your PCs Sound in Audacity</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/did-your-iphone-6-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your iPhone 6 Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-6-passcode-without-computer-drfone-by-drfone-ios/"><u>How to Unlock iPhone 6 Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-channel-visuals-hub-icon-and-banner-crafting-tips/"><u>[Updated] In 2024, Channel Visuals Hub  Icon & Banner Crafting Tips</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-straightforward-video-recorders-for-win10/"><u>[Updated] In 2024, Straightforward Video Recorders for Win10</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-your-disabled-iphone-6-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>Unlock Your Disabled iPhone 6 Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-vivo-y78t-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Vivo Y78t Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-6-with-a-mask-on-drfone-by-drfone-ios/"><u>How to Unlock iPhone 6 with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-6-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone 6 Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/green-visual-sets-accessibility-to-diy-filmmaking-templates-for-2024/"><u>Green Visual Sets  Accessibility to DIY Filmmaking Templates for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-increase-your-social-media-reach-with-these-top-30-tiktok-nicknames/"><u>In 2024, Increase Your Social Media Reach with These Top 30 TikTok Nicknames</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/remove-device-supervision-from-your-iphone-6-drfone-by-drfone-ios/"><u>Remove Device Supervision From your iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-6-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 6 in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-6-properly-drfone-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 6 Properly | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-6-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-6-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-discover-two-hands-on-approaches-to-personalize-snapchat-audio/"><u>[Updated] Discover Two Hands-On Approaches to Personalize Snapchat Audio</u></a></li>
+</ul></div>

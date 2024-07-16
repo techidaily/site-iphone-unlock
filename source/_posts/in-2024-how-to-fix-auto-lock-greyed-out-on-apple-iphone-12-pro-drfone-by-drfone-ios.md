@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 12 Pro | Dr.fone
-date: 2024-04-07T03:53:43.459Z
-updated: 2024-04-08T03:53:43.459Z
+date: 2024-07-15T08:15:49.974Z
+updated: 2024-07-16T08:15:49.974Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Fix Auto Lock Greyed Out on Apple iPhone 12 Pro
 excerpt: This article describes How To Fix Auto Lock Greyed Out on Apple iPhone 12 Pro
 keywords: how much does unlock a phone cost,iphone auto lock greyed out,iphone 15 unlock,app lock iphone,change country on iphone app store,how to unlock iphone to use usb accessories,swipe up to unlock iphone,how many attempts to unlock iphone,iphone lost mode unlock
-thumbnail: https://www.lifewire.com/thmb/hTKYwh0v7qXo9k56663KdHBIHZ4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-fix-a-critical-process-dies-windows-11-error-952a1ad6325f455aaef36516fb3f7120.jpg
+thumbnail: https://thmb.techidaily.com/94f7e6bb0d500f60edc6e34b363527bd47bbfffa481cdc60b824492075830e06.jpg
 ---
 
 ## How To Fix Auto Lock Greyed Out on Apple iPhone 12 Pro
@@ -42,6 +42,9 @@ MDM Profile Restrictions
 
 If the Auto-Lock is greyed out on your iPad or iPhone and you use it for work or school, a Mobile Device Management (MDM) profile might be the reason. This profile restricts settings, including Auto-Lock. To fix this, contact your IT administrator and ask if they can [<u>adjust the MDM profile settings</u>](https://drfone.wondershare.com/unlock/mdm-bypass-free.html).
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![setup remote management on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-04.jpg)
 
 Alright, you know the possible reasons why the Auto-Lock option is not working on your iOS device. Still, you might be wondering how to fix the Auto-Lock greyed-out issue. Below are several ways to get your iPad or iPhone Auto-Lock working normally again.
@@ -54,6 +57,9 @@ Your **iPhone Auto-Lock greyed out** because Low Power Mode limits background ac
 - **Step 2:** Scroll down and tap **Battery**. It will show you your device's battery usage and available settings.
 - **Step 3:** Turn off the **Low Power Mode**. Now, the greyed-out Auto-Lock option in Settings should be available again.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iphone turn off low power mode](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-05.jpg)
 
 Low Battery Mode can stretch your battery life further. But if you need your screen to stay on longer, like while reading an article or watching a video, you can turn it off. It lets you adjust the screen timeout in ****Settings**** so it stays awake for as long as you like.
@@ -196,6 +202,9 @@ A safety precaution that may be taken to prevent unwanted access to your Apple i
 
 If you forget your password, you will be required to reset it before being able to access your backups again.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### iCloud and iTunes Backup Password
 
 Resetting your password may be done in different methods, depending on whether or not you have an iCloud account. You may reset your iCloud password by visiting the iCloud website and following the steps. This requires that you already have an iCloud account.
@@ -336,7 +345,7 @@ Attention: All your data all be erased after you get into your locked Apple iPho
 
 
 
-### [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock
 
 Get Into Locked Apple iPhone 12 Pro In 5 Minutes!
 
@@ -391,6 +400,9 @@ This is another popular way to resolve the locked out of the Apple iPhone 12 Pro
 - For Apple iPhone 12 Pro 7 and 7 Plus, iPod Touch (7th generation): Press and hold the 'Top' ('Side') and 'Volume Down' buttons simultaneously. Keep holding until it enters the Recovery mode.
 - For iPad with Hom buttons and Apple iPhone 12 Pro 6s and former Apple iPhone 12 Pro: Press and hold the 'Home' and 'Side' ('Top') buttons at the same time. Keep holding both buttons until the iTunes symbol would appear on the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![boot in recovery mode](https://images.wondershare.com/drfone/article/2017/07/14994495356542.jpg "boot in recovery mode")
 
 **Step 3.** Click on the “Restore” button. This would reset your device.
@@ -403,6 +415,9 @@ Apple’s official Find My Apple iPhone 12 Pro is a smart and hassle-free way to
 
 **Step 1.** Log in to [iCloud’s website](https://www.icloud.com/) using your Apple ID and password. Visit the Find My Apple iPhone 12 Pro page and click on the “All Devices” option to view all the iOS devices linked to your Apple ID. Now, select the iOS device that is locked.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![icloud all devices](https://images.wondershare.com/drfone/article/2017/07/14994494968655.jpg "icloud all devices")
 
 **Step 2.** This will provide various tasks that you can perform on the iOS device. Click on the “Erase Apple iPhone 12 Pro” button to reset the Apple iPhone 12 Pro device.
@@ -480,3 +495,70 @@ We hope that after learning how to get in a locked Apple iPhone 12 Pro in differ
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-6s-lock-screen-drfone-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone 6s Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-with-a-mask-on-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 6s with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-6-best-explainer-video-software-for-2024/"><u>Updated 6 Best Explainer Video Software for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone 6s Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-apowersoft-screen-recorder-testimony/"><u>[Updated] 2024 Approved  Apowersoft Screen Recorder Testimony</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-how-can-i-post-a-video-between-twitter-and-tumblr/"><u>[New] 2024 Approved  How Can I Post a Video Between Twitter and Tumblr?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 6s Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/unlocking-opportunities-tiktoks-role-in-business-development-for-2024/"><u>Unlocking Opportunities  TikTok's Role in Business Development for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-6s-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking iPhone 6s Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/essential-w7-11-ie-driver-tutorial/"><u>Essential W7-11 IE Driver Tutorial</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-streamlining-video-submissions-from-imovie-to-vimeo/"><u>[New] 2024 Approved  Streamlining Video Submissions From iMovie to Vimeo</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-6s-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix iPhone 6s Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabling-iphone-6s-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>Disabling iPhone 6s Parental Restrictions With/Without Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-6s-drfone-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-iphone-6s-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>How to Bypass iPhone 6s Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-motorola-razr-40-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Motorola Razr 40 Phone FRP Lock</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-6s-with-7-methods-drfone-by-drfone-ios/"><u>How To Change Country on App Store for iPhone 6s With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-growth-strategy-top-15-secure-and-free-apps-for-social-networking/"><u>[Updated] Instagram Growth Strategy - Top 15 Secure & FREE Apps for Social Networking</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-6s-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-6s-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 6s With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-6s-drfone-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-6sipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 6s/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changefake-your-lava-yuva-3-pro-location-on-viber-drfone-by-drfone-virtual-android/"><u>How to Change/Fake Your Lava Yuva 3 Pro Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-maximize-your-podcasts-potential-with-top-audio-equipment/"><u>[Updated] Maximize Your Podcast's Potential with Top Audio Equipment</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-6s-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/reaching-a-wider-audience-using-video-translation-in-tamil-for-2024/"><u>Reaching a Wider Audience Using Video Translation in Tamil for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-synergy-of-business-and-virtual-experience-design/"><u>[New] The Synergy of Business and Virtual Experience Design</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 6s With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-6s-and-ipad-securely-drfone-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 6s and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-6s-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone 6s Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-iphone-6s-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My iPhone 6s After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-6s-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>iPhone 6s Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-samsung-galaxy-m34-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Samsung Galaxy M34 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-streamline-visuals-integrating-filters-into-videos-pcmobile/"><u>[Updated] Streamline Visuals  Integrating Filters Into Videos (PC/Mobile)</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-color-correction-techniques/"><u>In 2024, Mastering Color Correction Techniques</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-6s-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 6s Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-stolen-apple-iphone-6s-in-different-conditionsin-drfone-by-drfone-ios/"><u>How To Unlock Stolen Apple iPhone 6s In Different Conditionsin | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-share-your-videos-and-photos-posting-to-twitter-no-retweeting/"><u>[New] 2024 Approved  Share Your Videos and Photos  Posting to Twitter - No Retweeting</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-6s-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone 6s? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-6s-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-premium-mac-image-transformer-for-2024/"><u>[New] Premium Mac Image Transformer for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/cutting-the-waves-a-review-of-best-free-and-paid-linux-audio-editors-for-2024/"><u>Cutting the Waves A Review of Best Free & Paid Linux Audio Editors for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-6s-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix iPhone 6s Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-incorporate-no-cost-tunes-to-boost-your-vlogs/"><u>[Updated] Incorporate No-Cost Tunes to Boost Your Vlogs</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-your-disabled-apple-iphone-6s-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone 6s Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-your-apple-iphone-6s-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 6s Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-the-ultimate-how-to-syncing-audio-with-newly-updated-avi-content/"><u>Updated In 2024, The Ultimate How-To Syncing Audio with Newly Updated AVI Content</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-passcode-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 6s Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-unravel-the-mysteries-of-youtube-metrics-for-growth/"><u>[New] Unravel the Mysteries of YouTube Metrics for Growth</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-6s-drfone-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-6s-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 6s Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-excellence-in-mac-video-capturing-top-5-alternatives-to-bandicam/"><u>[New] In 2024, Excellence in Mac Video Capturing  Top 5 Alternatives to Bandicam</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-samsung-galaxy-a15-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Samsung Galaxy A15 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone 6s Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabled-apple-iphone-6s-how-to-unlock-a-disabled-apple-iphone-6s-drfone-by-drfone-ios/"><u>Disabled Apple iPhone 6s How to Unlock a Disabled Apple iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-6s-drfone-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-6s-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone 6s Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-6s-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 6s i Do? Get Answers here | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-iconic-acting-peek-vimeo-for-2024/"><u>[Updated] Iconic Acting Peek - Vimeo for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-6s-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone 6s Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/new-the-10-most-adorable-aesthetic-cartoon-characters-of-all-time/"><u>New The 10 Most Adorable Aesthetic Cartoon Characters of All Time</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-generate-10-official-travel-ready-passport-images-no-money-down/"><u>In 2024, Generate 10 Official Travel-Ready Passport Images, No Money Down</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on Apple iPhone 11 Pro | Dr.fone
-date: 2024-05-19T07:27:44.490Z
-updated: 2024-05-20T07:27:44.490Z
+date: 2024-07-15T06:10:40.729Z
+updated: 2024-07-16T06:10:40.729Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Fix Auto Lock Greyed Out on Apple iPhone 11 Pro
 excerpt: This article describes How To Fix Auto Lock Greyed Out on Apple iPhone 11 Pro
 keywords: unlock iphone 14,how to unlock iphone 7 without passcode,ios 17 lock screen,how to create new apple id,change apple id password,open iphone without home button,change apple id on ipad,forgot iphone pin,how to unlock iphone to use usb accessories
-thumbnail: https://www.lifewire.com/thmb/lwyffvP10dLE4EinuE3HUVO38bo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1342255561-483b636ee00f40a1b3d91d1969b1aaf6.jpg
+thumbnail: https://thmb.techidaily.com/4286d1d9e7f9f222d6b24d7259e18b93ce578dc75aedffe72b83d7d3b1179de6.jpg
 ---
 
 ## How To Fix Auto Lock Greyed Out on Apple iPhone 11 Pro
@@ -172,6 +172,9 @@ Here's **how to change Auto-Lock on iPhone** devices:
 
 ![change auto-lock on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-18.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 There you have it. This guide has equipped you with the knowledge and solutions to fix the **Auto-Lock greyed out** on your Apple iPhone 11 Pro or iPad devices. From identifying the reasons like Low Power Mode and MDM configurations to implementing actionable fixes, you can now change your screen timeout. So, turn off those restrictions, remove MDM profiles, and head back to Settings.
@@ -302,6 +305,9 @@ Here is how to turn off the Tap to Wake feature:
 - **Step 1:** Go to **Settings** or **General** > **Accessibility** on your Apple iPhone 11 Pro device.
 - **Step 2:** Toggle off **Tap to Wake**.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![iphone turn off tap to wake](https://images.wondershare.com/drfone/article/2024/01/remove-flashlight-from-lock-screen-02.jpg)
 
 Quick Fix No. 2: Turn Off Raise To Wake
@@ -313,6 +319,9 @@ Here is **how to remove flashlights from iPhone lock screens** when not needed:
 - **Step 1:** Head to **Settings** > **Display & Brightness** on your iOS device.
 - **Step 2:** Toggle off the **Raise to Wake** option.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![iphone turn off raise to wake](https://images.wondershare.com/drfone/article/2024/01/remove-flashlight-from-lock-screen-03.jpg)
 
 Quick Fix No. 3: Remove the Flashlight From the Control Center
@@ -338,6 +347,9 @@ Although the flashlight icon remains on the lock screen, you won't accidentally 
 
 ![setup iphone back tap to none](https://images.wondershare.com/drfone/article/2024/01/remove-flashlight-from-lock-screen-05.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How To Turn Off the Flashlight on iPhone?
 
 Now, let's address turning off the flashlight on your Apple iPhone 11 Pro. Even if you've applied Part 1's solutions, knowing how to switch off the flashlight is crucial. In this section, you'll learn **how to turn the light off on iPhone** devices.
@@ -375,7 +387,7 @@ This software effortlessly [<u>bypasses any lock screen</u>](https://drfone.wond
 
 - If you've forgotten your phone's password or bought a second-hand device, here's how Dr.Fone can help you:
 - Bypasses various lock screen types like [<u>pattern</u>](https://drfone.wondershare.com/unlock/pattern-lock.html), 4 or 6-digit passcode, Touch ID, and Face ID without the original passcode.
-- [<u>Removes iCloud Activation Lock</u>](https://drfone.wondershare.com/icloud/bypass-iphone-11-12-icloud-activation-lock.html)on a used or lost iPhone/iPad, allowing it to be set up with a new Apple ID.
+- [<u>Removes iCloud Activation Lock</u>](https://drfone.wondershare.com/icloud/bypass-iphone-11-12-icloud-activation-lock.html) on a used or lost iPhone/iPad, allowing it to be set up with a new Apple ID.
 - Offers a simple, intuitive interface with clear instructions.
 
 Forgotten passcodes and iCloud Activation Lock can leave you feeling shut out. To address this issue, here's a step-by-step guide using Dr.Fone Screen Unlock (iOS):
@@ -403,6 +415,9 @@ Forgotten passcodes and iCloud Activation Lock can leave you feeling shut out. T
 
 - **Step 6:** Dr.Fone will download and install the latest iOS firmware on your device. Then, click **Unlock Now** once the firmware is ready. Follow the on-screen instructions to continue unlocking your device.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dr.fone downloading ios firmware](https://images.wondershare.com/drfone/guide/unlock-ios-screen-5.png)
 
 - **Step 7:** Once the process is complete, Dr.Fone will notify you. Your Apple iPhone 11 Pro should be unlocked and ready for you to set it up again with your preferred settings and Apple ID.
@@ -436,3 +451,48 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-ultimate-guide-enjoy-tweets-in-stunning-hd-quality-for-2024/"><u>[New] Ultimate Guide  Enjoy Tweets in Stunning HD Quality for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-xs-max-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>iPhone XS Max Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/unlocking-talkshoplive-pros-and-tips-for-live-shopping-success-for-2024/"><u>Unlocking TalkShopLive Pros and Tips for Live Shopping Success for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-xs-max-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/1715860787589-2024-approved-capture-every-moment-on-mac-free/"><u>2024 Approved  Capture Every Moment on Mac, FREE!</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-how-to-for-harnessing-hd-video-from-facebook-feeds-for-2024/"><u>[New] The How-To for Harnessing HD Video From Facebook Feeds for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/snicker-studio-cybernetic-cackles/"><u>Snicker Studio  Cybernetic Cackles</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/audiovisual-appeal-essential-tips-for-podcast-logos/"><u>Audiovisual Appeal  Essential Tips for Podcast Logos</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-xs-max-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-xs-max-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone XS Max Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-xiaomi-redmi-13cmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Xiaomi Redmi 13CMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-xs-max-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your iPhone XS Max Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/trouble-with-iphone-xs-max-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with iPhone XS Max Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-your-essential-guide-to-new-tiktok-acts-now/"><u>[Updated] 2024 Approved  Your Essential Guide to New TikTok Acts Now</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/remove-device-supervision-from-your-iphone-xs-max-drfone-by-drfone-ios/"><u>Remove Device Supervision From your iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/hot-snapshots-eye-catching-filters-and-lenses-explored-for-2024/"><u>Hot Snapshots  Eye-Catching Filters & Lenses Explored for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-iphone-xs-max-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock iPhone XS Max with iTunes | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-comparing-metaverse-to-multiplemetasa-highlighting-their-variance/"><u>[New] Comparing Metaverse to MultipleMetasa  Highlighting Their Variance</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/resolve-your-iphone-xs-max-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your iPhone XS Max Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-iphone-xs-max-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For iPhone XS Max Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-xs-max-lock-screen-drfone-by-drfone-ios/"><u>How To Remove Flashlight From iPhone XS Max Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-xs-max-properly-drfone-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone XS Max Properly | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-xs-max-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-xs-max-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone XS Max Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-xs-max-drfone-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-iphone-xs-max-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your iPhone XS Max Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/streamline-your-web-experience-with-these-leading-screen-capturers-for-2024/"><u>Streamline Your Web Experience with These Leading Screen Capturers for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-iphone-xs-max-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone XS Max with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-beginners-guide-best-free-video-cutting-and-joining-software/"><u>In 2024, Beginners Guide Best Free Video Cutting and Joining Software</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-a-beginners-guide-to-seo-skyrocket-your-view-count-for-2024/"><u>[Updated] A Beginner’s Guide to SEO  Skyrocket Your View Count for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-image-editors-ultimate-toolkit-review/"><u>[Updated] The Image Editor's Ultimate Toolkit Review</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-art-of-analytics-understanding-metrics-without-fancy-tools/"><u>In 2024, The Art of Analytics  Understanding Metrics Without Fancy Tools</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-windows-11-game-snapshots-top-5-capture-strategies/"><u>In 2024, Windows 11 Game Snapshots  Top 5 Capture Strategies</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-xs-max-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock iPhone XS Max without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/passfab-iphone-xs-max-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab iPhone XS Max Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-iphone-xs-max-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your iPhone XS Max When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-10-common-vlogging-fears-and-how-to-beat-them/"><u>[Updated] 2024 Approved  10 Common Vlogging Fears and How To Beat Them</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-xs-max-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone XS Max in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-xs-max-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot iPhone XS Max Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-vivo-x100-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo X100 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-top-5-cost-effective-video-editing-software-for-gamers/"><u>[Updated] In 2024, Top 5 Cost-Effective Video Editing Software (For Gamers)</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Apple iPhone XR with a Mask On | Dr.fone
-date: 2024-05-19T07:27:36.057Z
-updated: 2024-05-20T07:27:36.057Z
+date: 2024-07-15T05:57:45.256Z
+updated: 2024-07-16T05:57:45.256Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Unlock Apple iPhone XR with a Mask On
 excerpt: This article describes How to Unlock Apple iPhone XR with a Mask On
 keywords: how to remove face id on iphone 13,iphone asking for outlook password,iphone locked to owner,iphone x iphone xr lock screen,how to unlock iphone without passcode or face id,factory reset locked iphone without itunes,iphone lock screen with notifications,fix iphone backup password never set but still asking
-thumbnail: https://www.lifewire.com/thmb/WSLZcqxwmXkq850tQOgpRjODDjE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/football-referee-signaling-touchdown-in-stadium-599944339-5a84cb9e875db900367df025.jpg
+thumbnail: https://thmb.techidaily.com/c72cccdf9cacc0fda207b45b24ab86cf2fde475b85a4b94012ab008856dbcd1d.jpg
 ---
 
 ## How to Unlock Apple iPhone XR with a Mask On
@@ -53,10 +53,13 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 **Step** **3:** Now, it's time to scan your face with your Apple iPhone XR to initiate the setup. Again, you don't have to wear a mask at this stage, as the Apple iPhone XR device's main focus while scanning would be the eyes. Also, if you wear glasses, you can proceed without taking them off.
 
-![ scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
+![scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
 
 **Step 4:** After scanning your face twice, select "Add Glasses" by tapping on it. You can use your Face ID while wearing your regular glasses. Make sure that you scan your face with every pair of glasses daily.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add your glasses for face id](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-4.jpg)
 
 After carefully following the steps mentioned above, you are ready to **unlock your Face ID with a mask**. Remember that Face ID will scan and focus mainly on your eyes and forehead. However, it cannot work in the scenarios if you have completely concealed your look by wearing hats or accessories that can hide your face.
@@ -89,7 +92,7 @@ Are you stuck with your locked iPhone? Don't worry, as [Dr.Fone - Screen Unlock]
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -149,7 +152,7 @@ Now, here comes an amazing App with many benefits to solving the problem for you
 
 ![run the program to bypass iphone lock screen](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
+![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
 **Step 2:** Connect your Apple iPhone XR to the computer with a lightning cable, and choose “Unlock iOS Screen".
 
@@ -245,7 +248,7 @@ If it doesn’t work, please contact customer service of Apple.
 
 It is very common to use USB accessories to connect iPhone and computer. Sometimes, we may forget the password, or cannot unlock the screen due to system failure. There are many ways to unlock Apple iPhone XR to use the accessories in the article. Finally, we recommend everyone to use Dr.Fone - Screen Unlock, a helpful and convenient tool.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 
 
@@ -294,6 +297,9 @@ Do you have a query about **how to get out of security lockout on your Apple iPh
 
 First, run Wondershare Dr.Fone on your computer and connect to your Apple iPhone XR via cable. Open the "Toolbox" and select the “Screen Unlock” option.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![start screen unlock dr fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 
@@ -313,6 +319,9 @@ Your "Device Model" will be recognized automatically in Wondershare Dr.Fone. Sel
 
 Type the code in the confirmation box in the next prompt window and hit the "Unlock" option. After confirmation, a bar shows the Apple iPhone XR device unlocking progress on the next screen. Once the Apple iPhone XR is unlocked successfully, click the “Done” button to terminate the process.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![verify and unlock ios device](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
 ## Part 3. How To Get iPhone out of Security Lockout From iPhone Directly?
@@ -344,6 +353,9 @@ If you have recently changed the iDevice password, you can use your old passcode
 
 ![restore iphone from itunes](https://images.wondershare.com/drfone/article/2024/02/unlock-iphone-in-security-lockout-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 5: How To Get iPhone out of Security Lockout Using iCloud?
 
 iCloud service is another handy method for people having queries about **how to get an iPhone out of the security lockout**. You should know this method removes your device data to access the phone screen again. Also, it requires the Find My option enabled on your Apple iPhone XR, and you need to know your Apple ID and password to proceed. After having these details, follow the given steps below:
@@ -354,6 +366,9 @@ iCloud service is another handy method for people having queries about **how to 
 
 - **Step 2.** On the next screen, choose the Apple iPhone XR you want to get out of the security lockout. Then, confirm the process by clicking the "Erase This Device" option.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![erase iphone device from icloud](https://images.wondershare.com/drfone/article/2024/02/unlock-iphone-in-security-lockout-10.jpg)
 
 ## Conclusion
@@ -379,3 +394,44 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/instant-mac-screen-savior-free/"><u>Instant Mac Screen Savior - Free</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-samsung-galaxy-s23-fe-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Samsung Galaxy S23 FE Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-iphone-13-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 13 When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/in-2024-the-ultimate-guide-to-choosing-an-audio-converter/"><u>In 2024, The Ultimate Guide to Choosing an Audio Converter</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-initiate-google-meet-using-your-gadget-for-2024/"><u>[Updated] Initiate Google Meet Using Your Gadget for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-audio-enhancement-including-tracks-in-vimeo-clips-for-2024/"><u>[Updated] Audio Enhancement  Including Tracks in Vimeo Clips for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-13-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 13 Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-gaming-intro-mastery-top-10-free-and-paid-tools-to-elevate-your-game/"><u>New Gaming Intro Mastery Top 10 Free and Paid Tools to Elevate Your Game</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-13-without-passcode-now-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone 13 Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-13-in-lost-mode-drfone-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone 13 in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-gearing-up-for-youtube-success-cross-platform-strategies/"><u>2024 Approved  Gearing Up for YouTube Success  Cross-Platform Strategies</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-a-comprehensive-guide-to-creating-compelling-fb-reels/"><u>[Updated] A Comprehensive Guide to Creating Compelling FB Reels</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-screenflow-unleashed-a-comprehensive-macos-review-for-2024/"><u>[Updated] ScreenFlow Unleashed  A Comprehensive macOS Review for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-iphone-13-without-passcode-easily-drfone-by-drfone-ios/"><u>In 2024, Unlock iPhone 13 Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-13-drfone-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/comprender-y-tener-conocimiento-del-tiempo-en-espanol/"><u>Comprender Y Tener Conocimiento Del Tiempo en Espaňol</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-full-guide-to-unlock-iphone-13-with-itunes-drfone-by-drfone-ios/"><u>In 2024, Full Guide to Unlock iPhone 13 with iTunes | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-for-iphone-13-lock-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 13 Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-podcast-spotlight-listen-and-like-instantly/"><u>[New] Podcast Spotlight  Listen and Like Instantly</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-online-broadcasting-basics-a-streamers-guide-to-capture/"><u>In 2024, Online Broadcasting Basics  A Streamer’s Guide to Capture</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-did-your-iphone-13-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>In 2024, Did Your iPhone 13 Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-iphone-13-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab iPhone 13 Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-reaper-recording-software-features-reviews-and-tutorial-for-beginners/"><u>Updated 2024 Approved REAPER Recording Software Features, Reviews and Tutorial for Beginners</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-resolve-your-iphone-13-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>In 2024, Resolve Your iPhone 13 Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-essential-browser-tools-enhanced-vimeo-accessibility/"><u>[New] In 2024, Essential Browser Tools  Enhanced Vimeo Accessibility</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-iphone-13-passcode-without-a-computer-drfone-by-drfone-ios/"><u>In 2024, Unlocking iPhone 13 Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-13-drfone-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-apples-new-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-itel-p40plus-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Itel P40+ Phone Pattern Lock</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-13-drfone-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-13-drfone-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Samsung Galaxy F34 5G? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-13-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 13 to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-13-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 13 with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-xs-max-by-drfone-ios/"><u>How to Unlock iPhone XS Max?</u></a></li>
+</ul></div>

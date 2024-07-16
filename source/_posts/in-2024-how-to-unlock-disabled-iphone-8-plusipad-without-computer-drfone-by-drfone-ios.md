@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Disabled iPhone 8 Plus/iPad Without Computer | Dr.fone
-date: 2024-04-07T15:50:40.697Z
-updated: 2024-04-08T15:50:40.697Z
+date: 2024-07-15T08:17:34.877Z
+updated: 2024-07-16T08:17:34.877Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Unlock Disabled iPhone 8 Plus/iPad Without Computer
 excerpt: This article describes How to Unlock Disabled iPhone 8 Plus/iPad Without Computer
 keywords: remove iphone from blacklist,turn off restricted mode,ios 17 lock screen,how to unlock iphone passcode without computer,reset iphone backup password,unlock iphone without passcode,how to unlock iphone with itunes,doctorism unlock review,bypass apple store verification,how to unlock iphone with broken screen,unlock disabled iphone without itunes
-thumbnail: https://www.lifewire.com/thmb/koSaGJ5iVSnQrrvXh53lyy1rSZM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/podcasts-safeforkids-5b2f3dd4eb97de0036d9f87b.jpg
+thumbnail: https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae043dca04e140a16eeec969f.jpg
 ---
 
 ## How to Unlock Disabled Apple iPhone 8 Plus/iPad Without Computer
@@ -48,6 +48,9 @@ Though, before you proceed, you need to know the limitations of this method. Sin
 
 **Step 6.** It will open another interface to draft a new message. Wait for a while and write something in the “To” field. Once you are done, tap on the return button on the keyboard.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![send to](https://images.wondershare.com/drfone/article/2017/07/14994464718727.jpg "send to")
 
 **Step 7.** This will highlight your text in green. Now, tap on the add icon located nearby.
@@ -60,6 +63,9 @@ Though, before you proceed, you need to know the limitations of this method. Sin
 
 **Step 9.** Instead of adding information regarding a new contact, tap on the photo icon, and choose the option of “Add Photo.”
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add photo](https://images.wondershare.com/drfone/article/2017/07/14994465383547.jpg "add photo")
 
 **Step 10.** This will open your device’s gallery. You can browse your photo library from here.
@@ -180,6 +186,9 @@ After installing Wondershare Dr.Fone, launch and navigate to the "Toolbox" secti
 
 From the available features, proceed with "Unlock iOS Screen" and click “Start” to initiate the unlocking process.
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![choose unlock ios screen option](https://images.wondershare.com/drfone/guide/unlock-ios-screen-2.png)
 
 - **Step 3. Put iOS Into Recovery Mode and Specify Details**
@@ -194,6 +203,9 @@ As the respective iOS firmware downloads, wait a few minutes and press the "Unlo
 
 ![iphone unlocked successfully](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
+<!-- affiliate ads begin -->
+
+<!-- affiliate ads end -->
 ## Part 2. \[Old Ways\] Using Siri To Unlock Stolen iPhone
 
 It might come as a surprise to you that Siri can be used to unlock a lost iPhone. When you seek the answer to **how to unlock a lost iPhone** with Siri, you need to be aware of a very specific pointer. It is necessary to note that this method only works for devices operating between iOS 8 and 11.
@@ -276,6 +288,9 @@ Once you have activated the Find My iPhone function, then you can try it to unlo
 
 **Step 6:** Once your device has been erased, you can set it up again and use it without a passcode.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Unlock it with iTunes
 
 Another way to unlock your Apple iPhone 8 Plus without a passcode is by using iTunes. For this method to work, you must have synced your device with iTunes at least once. If you haven't done that, this method won't work. Here's how you can use iTunes to unlock your Apple iPhone 8 Plus:
@@ -332,7 +347,7 @@ But this method will not work on newer iPhones 11/12/13 and iPhone 14 because th
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone Without Passcode.
 
@@ -415,3 +430,40 @@ If you're not interested in using a third-party tool, you can try one of the met
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-xs-max-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>iPhone XS Max Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/trouble-with-iphone-xs-max-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with iPhone XS Max Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-exclude-automatic-recommended-podcasts-in-spotify-feed/"><u>2024 Approved  Exclude Automatic Recommended Podcasts in Spotify Feed</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Vivo Y200e 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-xs-max-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-iphone-xs-max-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your iPhone XS Max Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-bloodthirsty-horror-your-go-to-8-zombie-titles-for-2024/"><u>[New] Bloodthirsty Horror  Your Go-To 8 Zombie Titles for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-odins-last-hope-the-ragnarok-revelation-for-2024/"><u>[Updated] Odin's Last Hope  The Ragnarok Revelation for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-xs-max-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-samurais-shadowed-path-other-epic-warrior-games/"><u>2024 Approved  Samurai's Shadowed Path - Other Epic Warrior Games</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-xs-max-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your iPhone XS Max Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-xs-max-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock iPhone XS Max Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-xs-max-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-xs-max-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone XS Max Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-xs-max-drfone-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-xs-max-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone XS Max in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-avoiding-common-pitfalls-in-pc-based-youtube-video-editing/"><u>[New] 2024 Approved  Avoiding Common Pitfalls in PC-Based YouTube Video Editing</u></a></li>
+<li><a href="https://games-able.techidaily.com/how-to-report-a-player-for-inappropriate-behavior-on-xbox-series-xs/"><u>How to Report a Player for Inappropriate Behavior on Xbox Series X|S</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-toggle-the-past-the-twitch-live-trick/"><u>[Updated] 2024 Approved  Toggle the Past  The Twitch Live Trick</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/passfab-iphone-xs-max-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab iPhone XS Max Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-xs-max-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone XS Max Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-experts-selection-ideal-sierra-dvd-creators/"><u>In 2024, Expert’s Selection  Ideal Sierra DVD Creators</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-xs-max-properly-drfone-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone XS Max Properly | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-xs-max-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/remove-device-supervision-from-your-iphone-xs-max-drfone-by-drfone-ios/"><u>Remove Device Supervision From your iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-xs-max-lock-screen-drfone-by-drfone-ios/"><u>How To Remove Flashlight From iPhone XS Max Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-iphone-xs-max-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to iPhone XS Max Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-iphone-xs-max-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your iPhone XS Max? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-experts-guide-to-utilizing-morphvox-voice-changers/"><u>2024 Approved  Expert's Guide to Utilizing MorphVOX Voice Changers</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/resolve-your-iphone-xs-max-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your iPhone XS Max Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-iphone-xs-max-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve iPhone XS Max Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-crafting-courteous-responses-in-discord-chat/"><u>[Updated] Crafting Courteous Responses in Discord Chat</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-xs-max-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot iPhone XS Max Backup Password? Heres What to Do | Dr.fone</u></a></li>
+</ul></div>

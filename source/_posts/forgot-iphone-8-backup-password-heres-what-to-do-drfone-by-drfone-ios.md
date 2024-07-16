@@ -1,7 +1,7 @@
 ---
 title: Forgot iPhone 8 Backup Password? Heres What to Do | Dr.fone
-date: 2024-05-19T07:27:24.906Z
-updated: 2024-05-20T07:27:24.906Z
+date: 2024-07-15T05:40:20.243Z
+updated: 2024-07-16T05:40:20.243Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Forgot iPhone 8 Backup Password? Heres What to Do
 excerpt: This article describes Forgot iPhone 8 Backup Password? Heres What to Do
 keywords: remove iphone from blacklist,bypass ios 14 lock screen,apple id not active,iphone 15 unlock,iphone passcode not working after update ios 13,change apple id password,unlock disabled iphone without computer,how to unlock iphone to use usb accessories,unlock iphone passcode without computer
-thumbnail: https://www.lifewire.com/thmb/cnbU86cA88gNmLB_6vGsp1ZnxFM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/asian-woman-talking-into-microphone-722208887-5b2a989730371300373a0447.jpg
+thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed3226ebe1d118a70909568e6.jpg
 ---
 
 ## Forgot Apple iPhone 8 Backup Password? Here's What to Do
@@ -86,6 +86,9 @@ You can also get rid of the password for the last backup without deleting any ot
 
 Use a USB cable to link your Apple iPhone 8 to your PC. Look at the small iOS icon in the figure below. Just click on it.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![backup](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-5.jpg)
 
 Proceed to the **Summary Page** and make your selection there for **The Computer.** After selecting **Encrypt Local Backup**, you must create a new password. After you have pressed the **Backup Now** option, wait for iTunes to create a new password for you.
@@ -185,6 +188,9 @@ Before we get started, you should know that there are three ways to have a custo
 
 ![ios 17 lock screen](https://images.wondershare.com/drfone/article/2022/11/ios-15-lock-screen-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. How to select your favorite wallpaper
 
 The first way is to use a pre-made wallpaper from the Apple Wallpaper Gallery.
@@ -229,6 +235,9 @@ But if you have forgotten your passcode, don't worry. The next section will show
 
 Different methods can help you bypass the iOS 17 lock screen passcode. Let's discuss them in detail.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Use Emergency call
 
 The first method to bypass the passcode is to use the emergency call feature.
@@ -374,10 +383,16 @@ Also, if your Apple iPhone 8 screen is broken, you can use this feature to unloc
 
 **Step 3.** After signing in effectively, click on Find My and enter your Apple ID and password. Click on Sign In.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click find my iphone](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-1.jpg)
 
 **Step 4.** Pick your locked phone under the "All Devices" segment.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![all devices](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-2.jpg)
 
 **Step 5.** Click on 'Erase iPhone'. Click on 'Erase' again after the confirmation text.
@@ -508,3 +523,41 @@ Having an iPhone with a broken screen can make your life hard. It keeps you from
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-x-when-phone-is-broken-drfone-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone X when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-x-lock-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone X Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-x-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone X to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-motorola-moto-g34-5g-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Motorola Moto G34 5G</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/1716465509034-fast-track-channel-growth-to-partner-status-aim-for-10000-views/"><u>Fast-Track Channel Growth to Partner Status – Aim for 10,000 Views!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-apple-iphone-x-without-passcode-easily-drfone-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone X Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-is-your-apple-iphone-x-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone X in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-apple-iphone-x-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your Apple iPhone X When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-x-5-ways-to-get-into-a-locked-apple-iphone-x-drfone-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone X? 5 Ways to get into a Locked Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-x-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone X without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-hilarious-highlights-reddit-and-twitters-best-bits/"><u>[New] 2024 Approved  Hilarious Highlights  Reddit and Twitter's Best Bits</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-x-with-itunes-drfone-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone X with iTunes | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-realme-12-proplus-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Realme 12 Pro+ 5G Unlock Without Password</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-samsung-galaxy-f34-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Samsung Galaxy F34 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-x-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-x-apples-new-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone X, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-x-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone X? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-x-drfone-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-insiders-guide-to-crafting-powerful-youtube-banners-for-2024/"><u>The Insider's Guide to Crafting Powerful YouTube Banners for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-fb-messenger-call-history-management-made-easy/"><u>In 2024, FB Messenger Call History Management Made Easy</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-apple-iphone-x-drfone-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-superior-on-screen-moment-documentation/"><u>In 2024, Superior On-Screen Moment Documentation</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-experts-choice-the-finest-10-android-applications-for-high-fidelity-voice-saving/"><u>New Experts Choice The Finest 10 Android Applications for High-Fidelity Voice Saving</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-apple-iphone-x-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From Apple iPhone X? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-photos-from-google-pixel-8-pro-by-fonelab-android-recover-photos/"><u>Possible solutions to restore deleted photos from Google Pixel 8 Pro.</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-quick-guide-capturing-time-lapses-on-samsung-devices/"><u>2024 Approved  Quick Guide  Capturing Time-Lapses on Samsung Devices</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-apple-iphone-x-drfone-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-master-your-creative-process-essential-affects-plugin-guide/"><u>[Updated] Master Your Creative Process  Essential Affects Plugin Guide</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-vivo-v30-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-standout-5-interactive-media-animation-designs/"><u>In 2024, Standout 5 Interactive Media Animation Designs</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-x-without-passcode-now-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone X Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-comprehensive-techniques-pc-and-mobile-recording-meets/"><u>[New] In 2024, Comprehensive Techniques  PC & Mobile Recording Meets</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-apple-iphone-x-passcode-without-a-computer-drfone-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone X Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-x-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone X After Forgetting the Passcode? | Dr.fone</u></a></li>
+</ul></div>

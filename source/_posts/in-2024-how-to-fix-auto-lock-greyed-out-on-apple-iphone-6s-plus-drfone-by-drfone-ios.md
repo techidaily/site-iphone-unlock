@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 6s Plus | Dr.fone
-date: 2024-05-19T07:27:05.291Z
-updated: 2024-05-20T07:27:05.291Z
+date: 2024-07-15T05:09:04.752Z
+updated: 2024-07-16T05:09:04.752Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Fix Auto Lock Greyed Out on Apple iPhone 6s Plus
 excerpt: This article describes How To Fix Auto Lock Greyed Out on Apple iPhone 6s Plus
 keywords: iphone passcode changed itself,forgot iphone pin,how to unlock an iphone 13,iphone is disabled,reset iphone backup password,how to unlock a found iphone,iphone locked to owner
-thumbnail: https://www.lifewire.com/thmb/BzSvFjNWXiwqImdtAjFSSOWv3r4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/audio-books-56a324b93df78cf7727c00f5.jpg
+thumbnail: https://thmb.techidaily.com/f75585e4daf78953dd0ce1cfd0b26209fab1e9c588003fe7de564148a8e3e23c.jpg
 ---
 
 ## How To Fix Auto Lock Greyed Out on Apple iPhone 6s Plus
@@ -42,6 +42,14 @@ MDM Profile Restrictions
 
 If the Auto-Lock is greyed out on your iPad or iPhone and you use it for work or school, a Mobile Device Management (MDM) profile might be the reason. This profile restricts settings, including Auto-Lock. To fix this, contact your IT administrator and ask if they can [<u>adjust the MDM profile settings</u>](https://drfone.wondershare.com/unlock/mdm-bypass-free.html).
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![setup remote management on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-04.jpg)
 
 Alright, you know the possible reasons why the Auto-Lock option is not working on your iOS device. Still, you might be wondering how to fix the Auto-Lock greyed-out issue. Below are several ways to get your iPad or iPhone Auto-Lock working normally again.
@@ -343,6 +351,9 @@ Moving abroad? Your Apple ID may need an update to match your new location. It e
 
 Changing your Apple ID can be smart, ensuring your digital life stays up-to-date, secure, and tailored to your needs. It's not complicated, and it's all about making your Apple experience better suited to you. So, go ahead and learn **how to change your Apple ID on your iPad** in the following sections.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How To Change Apple ID on iPad Without Losing Data?
 
 If you receive a notification from Apple about suspicious account activity, it's time to act. Before you learn **how to change the Apple ID on an iPad** – for yourself or others, here are some common signs of a compromised Apple ID:
@@ -361,6 +372,9 @@ If you are worried about losing data such as purchases and contacts, don't worry
 
 - **Step 1:** Visit the [<u>Apple ID</u>](https://appleid.apple.com/) official website and log in to your account credentials.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![apple id website interface](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-on-ipad-03.jpg)
 
 - **Step 2:** Once logged in, select **Apple ID** in the **Sign-In and Security** section.
@@ -394,6 +408,9 @@ If you're in China mainland or India, and you're using iOS 11 or later, you can 
 
 Even if you can't **change your Apple ID on your iPad** to a mobile phone number, you can still associate it with a phone number on your account page. It means you can [<u>use a different email address or mobile phone number to log in to your Apple ID</u>](https://drfone.wondershare.com/apple-account/how-to-remove-phone-number-from-apple-id.html). See the next sections for more information on the workarounds you can try.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: What To Do if You Cannot Change Your Apple ID on iPad?
 
 **Changing your Apple ID on an iPad** is usually easy. However, there can be setbacks during the process. Now, here's what to do if you find yourself unable to do it and why it might be happening:
@@ -402,6 +419,9 @@ Try Again Later
 
 If you encounter errors during the process, give it a little time and try again. Mayne it is because you **changed your Apple ID on your iPad** to an iCloud email address within 30 days.
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change apple id to icloud email](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-on-ipad-07.jpg)
 
 Check if Apple ID Is Already in Use
@@ -416,7 +436,7 @@ If you've addressed these issues and still can't change your Apple ID, don't wor
 
 However, if you can't **change your Apple ID on your iPad** because you forgot or don't have access to the password, you can use a third-party tool such as Dr.Fone. This tool is easy to use and can help you unlock your iPad and remove the Apple ID in a few clicks.
 
-## Part 4: Using [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) To Remove Apple ID Without Password
+## Part 4: Using <u>Wondershare Dr.Fone</u>
 
 Dr.Fone Screen Unlock (iOS) tool is your go-to solution for unlocking iOS devices without a passcode. The best part? It is easy to use for users of all technical backgrounds. With Dr.Fone, you can unlock iOS screens protected by 4 to 6-digit passcodes, Face ID, Touch ID, and more.
 
@@ -524,3 +544,52 @@ And if you need to remove your Apple ID without a password, Dr.Fone is a good op
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/7-best-vocal-modification-software-on-the-market/"><u>7 Best Vocal Modification Software on the Market</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-tecno-spark-10-5g-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Tecno Spark 10 5G without backup.</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/is-your-iphone-6-plus-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your iPhone 6 Plus in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-on-iphone-13-pro-max-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons On iPhone 13 Pro Max? Find the Best Solution Here</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-unparalleled-editing-experience-vimeo-edition-awaits/"><u>[New] In 2024, Unparalleled Editing Experience  Vimeo Edition Awaits</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/4-ways-to-unlock-iphone-6-plus-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>4 Ways to Unlock iPhone 6 Plus to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-6-plus-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-cutting-edge-strategies-for-youtube-shorts-to-mp4-exportation/"><u>2024 Approved  Cutting-Edge Strategies for YouTube Shorts to MP4 Exportation</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/can-you-unlock-iphone-6-plus-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>Can You Unlock iPhone 6 Plus After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-elevate-your-snaps-mastering-snapchat-zoom-features/"><u>[New] In 2024, Elevate Your Snaps  Mastering Snapchat Zoom Features</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-iphone-6-plus-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My iPhone 6 Plus when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-iphone-6-plus-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My iPhone 6 Plus After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-6-plus-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix iPhone 6 Plus Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-from-novice-to-expert-elevating-screencapture-skills-for-2024/"><u>[Updated] From Novice to Expert  Elevating ScreenCapture Skills for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-unleash-the-cinematic-potential-of-final-cut-pro-x-a-beginners-guide/"><u>2024 Approved Unleash the Cinematic Potential of Final Cut Pro X A Beginners Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-6-plus-drfone-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/filmmaking-secrets-enhancing-your-video-recordings-for-2024/"><u>Filmmaking Secrets  Enhancing Your Video Recordings for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/comprehensive-review-of-zd-soft-capture-tool-for-2024/"><u>Comprehensive Review of ZD Soft Capture Tool for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-6-plus-with-7-methods-drfone-by-drfone-ios/"><u>How To Change Country on App Store for iPhone 6 Plus With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-simple-yet-powerful-video-editors-for-learners/"><u>Updated Simple yet Powerful Video Editors for Learners</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-6-plus-drfone-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-recording-excellence-the-top-screen-recorder-list/"><u>In 2024, Recording Excellence  The Top Screen Recorder List</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-6-plus-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock iPhone 6 Plus, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-6-plus-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>iPhone 6 Plus Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabling-iphone-6-plus-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>Disabling iPhone 6 Plus Parental Restrictions With/Without Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-6-plus-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-iphone-6-plus-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From iPhone 6 Plus? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-iphone-6-plus-5-ways-to-get-into-a-locked-iphone-6-plus-drfone-by-drfone-ios/"><u>Locked Out of iPhone 6 Plus? 5 Ways to get into a Locked iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-6-plus-passcode-without-a-computer-drfone-by-drfone-ios/"><u>Unlocking iPhone 6 Plus Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-6-plus-drfone-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-locked-iphone-6-plus-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>Forgot Locked iPhone 6 Plus Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-harness-the-power-of-instagrams-hidden-features/"><u>[New] 2024 Approved  Harness the Power of Instagram's Hidden Features</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/top-4-sim-location-trackers-to-easily-find-your-lost-vivo-g2-device-by-drfone-android/"><u>Top 4 SIM Location Trackers To Easily Find Your Lost Vivo G2 Device</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-iphone-6-plus-drfone-by-drfone-ios/"><u>How To Unlock A Found iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/steady-panning-for-smooth-cinematography/"><u>Steady Panning for Smooth Cinematography</u></a></li>
+<li><a href="https://windows11.techidaily.com/resolving-geforce-experience-setting-retrieval-failure-on-windows-1111/"><u>Resolving 'GeForce Experience' Setting Retrieval Failure on Windows 11/11</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/recommendation-best-websites-for-downloading-snapchat-ringtone/"><u>Recommendation  Best Websites For Downloading Snapchat Ringtone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/hustle-smart-listen-hard-top-tasks-for-podcast-enthusiasts/"><u>Hustle Smart, Listen Hard  Top Tasks for Podcast Enthusiasts</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-6-plus-drfone-by-drfone-ios/"><u>How to Unlock iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-12-pro-max-official-method-to-unlock-your-apple-iphone-12-pro-max-by-drfone-ios/"><u>How To Unlock Apple iPhone 12 Pro Max Official Method to Unlock Your Apple iPhone 12 Pro Max</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-6-plus-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock iPhone 6 Plus Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-6-plus-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix iPhone 6 Plus Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-6-plus-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>Unlock iPhone 6 Plus With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-unveiling-the-secrets-of-superior-tunefab-recordings/"><u>[Updated] 2024 Approved  Unveiling the Secrets of Superior Tunefab Recordings</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-top-10-music-videos-on-facebook-how-to-make-a-facebook-song-video/"><u>In 2024, Top 10 Music Videos on Facebook | How to Make A Facebook Song Video?</u></a></li>
+</ul></div>

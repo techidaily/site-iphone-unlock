@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 12 | Dr.fone
-date: 2024-06-24T01:09:42.611Z
-updated: 2024-06-25T01:09:42.611Z
+date: 2024-07-15T06:23:34.857Z
+updated: 2024-07-16T06:23:34.857Z
 tags: 
   - unlock
   - remove screen lock
@@ -82,6 +82,9 @@ Since an MDM configuration profile causes limitations, like the greyed-out ****A
 - **Step 2:** Select the configuration profile you need to delete.
 - **Step 3:** Tap **Remove Profile**, enter your device passcode, then tap **Remove**.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![remove configuration profile on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-07.jpg)
 
 Fix No.4: Remove Network Settings Installed by MDM
@@ -202,7 +205,7 @@ Learn about all the solutions to unlock iPhone quickly through the video below:
 
 <iframe allowfullscreen="allowfullscreen" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/RIbBkiqQmdM"></iframe>
 
-![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
+![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
 For more tutorial videos about how to unlock your Apple iPhone 12, you can explore more from [Wondershare Video Community](https://www.wondershare.com/explore/inspiration.html).
 
@@ -369,6 +372,9 @@ Let us go through the steps below to learn about how to unlock iPhone without pa
 
 - **Step 1:** To enable the Siri feature on your Apple iPhone 12 device, press and hold the home button. It will immediately activate Siri on your Apple iPhone 12 device. Once it gets activated, it is ready to respond to your voice. Now, ask Siri to open the clock to rectify how to unlock a disabled iPhone. Once it displays the clock on your iOS screen, just touch it to proceed.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![enable siri](https://images.wondershare.com/drfone/article/2017/10/15090666111442.jpg)
 
 - **Step 2:** The World clock appears with the list of tunes you have to select for the alarm clock.
@@ -377,6 +383,9 @@ Let us go through the steps below to learn about how to unlock iPhone without pa
 
 - **Step 3:** From that option, you will see the tab "buy more tunes" which straight away informs you to reach the iTunes store.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![click buy more tunes](https://images.wondershare.com/drfone/article/2017/10/15090666562470.jpg)
 
 - **Step 4:** Just click on the home button to go to the phone's main screen.
@@ -432,6 +441,9 @@ Dr.Fone-Screen Unlock by Wondershare is an expert tool to remove such issues. It
 
 ## Part 2: 3 Methods to Unlock Disabled iPhone without a computer?
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. "Erase iPhone" Option
 
 You want to use this method when you fail to remember your Apple iPhone 12 PIN. It is the most straightforward method for opening your Apple iPhone 12, assuming you forgot your password.
@@ -487,6 +499,9 @@ There is an issue with Siri that you can use **how to unlock iPhone passcode wit
 - Initiate Siri on your iDevice. You should simply long press the Home button. Then, ask Siri what the time is, "Hello Siri, what time is it?"
 - Siri will then show you the time. There will be a clock symbol bordering it. Tap on the clock, and you can get to the World clock. Click on the "+" sign to add another watch.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![add clock](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-passcode-without-computer-3.jpg)
 
 - You will get a bar where you have to enter a city. First, write anything to make sure you can write. Then, tap on the text and click "Select all" afterward.
@@ -564,3 +579,53 @@ If you don't know which strategy will turn out best for you, we suggest utilizin
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-the-ultimate-guide-to-affordable-stock-photography-insights-from-pexelscom/"><u>Updated 2024 Approved The Ultimate Guide to Affordable Stock Photography Insights From Pexels.com</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-6-plus-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-iphone-6-plus-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your iPhone 6 Plus When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/is-your-iphone-6-plus-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your iPhone 6 Plus in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/comprehensive-list-of-advanced-speech-to-text-apps-for-mobile-devices/"><u>Comprehensive List of Advanced Speech-to-Text Apps for Mobile Devices</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/high-definition-vision-recorder-devices-for-2024/"><u>High Definition Vision Recorder Devices for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-iphone-6-plus-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For iPhone 6 Plus Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-6-plus-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-6-plus-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock iPhone 6 Plus, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/in-2024-the-essential-list-of-leading-guitar-soundtrack-editing-tools/"><u>In 2024, The Essential List of Leading Guitar Soundtrack Editing Tools</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-6-plus-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>Unlock iPhone 6 Plus With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/4-ways-to-unlock-iphone-6-plus-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>4 Ways to Unlock iPhone 6 Plus to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-6-plus-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 6 Plus Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-iphone-6-plus-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From iPhone 6 Plus? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-6-plus-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-latest-idevice-screenshots-capture-hacks/"><u>[New] 2024 Approved  Latest iDevice Screenshots Capture Hacks</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-6-plus-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your iPhone 6 Plus Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-lock-apps-on-nokia-c12-plus-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Nokia C12 Plus to Protect Your Individual Information</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-iphone-6-plus-5-ways-to-get-into-a-locked-iphone-6-plus-drfone-by-drfone-ios/"><u>Locked Out of iPhone 6 Plus? 5 Ways to get into a Locked iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/beyond-spectacle-delving-into-vrs-negatives-for-2024/"><u>Beyond Spectacle  Delving Into VR's Negatives for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-6-plus-passcode-without-a-computer-drfone-by-drfone-ios/"><u>Unlocking iPhone 6 Plus Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-ultimate-tips-for-mobile-content-capture/"><u>[New] In 2024, Ultimate Tips for Mobile Content Capture</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-becoming-an-insta-star-in-a-flash-top-15-insider-tactics-that-work-wonders-for-rapid-fame-growth/"><u>[New] In 2024, Becoming an Insta Star in a Flash  Top 15 Insider Tactics That Work Wonders for Rapid Fame Growth</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-6-plus-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock iPhone 6 Plus Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-hitching-a-ride-in-high-flying-tiktok-live-shows-for-2024/"><u>[New] Hitching a Ride in High-Flying TikTok Live Shows for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-locked-iphone-6-plus-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>Forgot Locked iPhone 6 Plus Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/resolve-your-iphone-6-plus-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your iPhone 6 Plus Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-6-plus-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-6-plus-drfone-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/can-you-unlock-iphone-6-plus-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>Can You Unlock iPhone 6 Plus After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/passfab-iphone-6-plus-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab iPhone 6 Plus Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-amplify-videographic-excellence-choose-from-these-7-audios/"><u>[New] Amplify Videographic Excellence - Choose From These 7 Audios</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-6-plus-drfone-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-6-plus-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot iPhone 6 Plus Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/rapid-rendering-of-epic-battle-royale-tiles/"><u>Rapid Rendering of Epic Battle Royale Tiles</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-iphone-6-plus-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock iPhone 6 Plus with iTunes | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-unlocking-fb-ad-success-no-cost-for-video-creation-tools/"><u>[New] 2024 Approved  Unlocking FB Ad Success  No Cost for Video Creation Tools</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-6-plus-drfone-by-drfone-ios/"><u>How to Unlock iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/vanquish-invisible-launching-in-sims-town/"><u>Vanquish Invisible Launching in Sims Town</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-unveiling-top-tier-screen-capture-tech-in-itop-review-for-2024/"><u>[New] Unveiling Top-Tier Screen Capture Tech in ITop Review for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-iphone-6-plus-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone 6 Plus with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-find-anything-you-want-to-know-about-instagram-video-limit/"><u>[New] In 2024, Find Anything You Want to Know About Instagram Video Limit</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-iphone-6-plus-drfone-by-drfone-ios/"><u>How To Unlock A Found iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-iphone-6-plus-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My iPhone 6 Plus when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-add-a-miniature-effect-on-your-video-for-filmy-looks-to-add-this-effect-read-the-complete-guide-and-make-your-video-cinematic-by-wondersha/"><u>New 2024 Approved Add a Miniature Effect on Your Video for Filmy Looks. To Add This Effect, Read the Complete Guide and Make Your Video Cinematic by Wondershare Filmora</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-6-plus-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock iPhone 6 Plus without Passcode or Face ID | Dr.fone</u></a></li>
+</ul></div>

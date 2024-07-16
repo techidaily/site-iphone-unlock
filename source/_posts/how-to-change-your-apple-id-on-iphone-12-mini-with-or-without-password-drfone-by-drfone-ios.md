@@ -1,7 +1,7 @@
 ---
 title: How To Change Your Apple ID on iPhone 12 mini With or Without Password | Dr.fone
-date: 2024-05-19T07:27:54.901Z
-updated: 2024-05-20T07:27:54.901Z
+date: 2024-07-15T06:27:00.358Z
+updated: 2024-07-16T06:27:00.358Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Change Your Apple ID on iPhone 12 mini With or Without Password
 excerpt: This article describes How To Change Your Apple ID on iPhone 12 mini With or Without Password
 keywords: unlock iphone screen passcode,total wireless unlock,how to unlock iphone 12,how to unlock an iphone 13,remove device supervision from iphone,bypass iphone passcode,unlock iphone 14,reset iphone backup password,get out of security lockout,swipe up to unlock iphone,iphone lost mode unlock
-thumbnail: https://www.lifewire.com/thmb/CRTquSF_UbubOfDqEN31hiqf2eI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/internet-archive-logo-5980e6f0845b340011748640.png
+thumbnail: https://thmb.techidaily.com/b4ed3f08ab6e820bb58ff66c5f5e67696c65d753e22482d093bffe3ae2ca67e1.png
 ---
 
 ## How To Change Your Apple ID on Apple iPhone 12 mini With or Without Password
@@ -87,6 +87,9 @@ If you're in China mainland or India, and you're using iOS 11 or later, you can 
 - **Step 2:** On your iPad, go to **Settings** > **\[your account name\]** > **Sign-in & Security**.
 - **Step 3:** Tap **Edit** next to **Email & Phone Numbers**.
 
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![click edit on iphone](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-on-ipad-06.jpg)
 
 - **Step 4:** Go to the **Delete** icon next to your mobile number and follow the directions given.
@@ -117,7 +120,7 @@ If you've addressed these issues and still can't change your Apple ID, don't wor
 
 However, if you can't **change your Apple ID on your iPad** because you forgot or don't have access to the password, you can use a third-party tool such as Dr.Fone. This tool is easy to use and can help you unlock your iPad and remove the Apple ID in a few clicks.
 
-## Part 4: Using [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) To Remove Apple ID Without Password
+## Part 4: Using <u>Wondershare Dr.Fone</u>
 
 Dr.Fone Screen Unlock (iOS) tool is your go-to solution for unlocking iOS devices without a passcode. The best part? It is easy to use for users of all technical backgrounds. With Dr.Fone, you can unlock iOS screens protected by 4 to 6-digit passcodes, Face ID, Touch ID, and more.
 
@@ -432,6 +435,9 @@ If you're looking for a quick and easy way to update your password on your Apple
 - **Step 1:** Open the **Settings** app, then tap **\[your account name\]**.
 - **Step 2:** Go to **Sign-In & Security** and tap **Change Password**.
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change apple id password on iphone](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-password-04.jpg)
 
 - **Step 3:** Verify your identity with your current password or device passcode. Then input a new password and re-enter it to confirm.
@@ -474,6 +480,9 @@ Did you get a new Apple device or forgot your Apple ID password? No problem! Try
 
 Click **Forgot password** on the Apple ID sign-in page on the web browser. This option is typically found during the setup process for a new Apple device or when you try to sign in to an Apple service on an unsigned-in device.
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![reset apple id password on web](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-password-07.jpg)
 
 **After You Setup Your Device**
@@ -508,6 +517,9 @@ Losing your phone or being unable to access your iOS device can be a major incon
 - **Step 2:** From the **Support Tools** section, select **Reset Password**.
 - **Step 3:** Select **A different Apple ID** and tap **Continue.**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![select different apple id to reset](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-password-10.jpg)
 
 - **Step 4:** Follow the in-app guide to reset your Apple ID password.
@@ -552,6 +564,18 @@ Dr.Fone is easy to use and intuitive, even for users with no technical experienc
 
 - **Step 2:** From the **Toolbox** homepage, select **Screen Unlock** > **iOS**.
 
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![dr.fone select screen unlock from toolbox](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 - **Step 3:** Select **Remove AppleID** and click **Unlock Now** on the next screen.
@@ -606,3 +630,63 @@ Creating a strong Apple ID password is simple: mix letters and numbers, make it 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-support.techidaily.com/in-2024-invisible-volume-tapering-a-guide-for-audacity-enthusiasts/"><u>In 2024, Invisible Volume Tapering  A Guide for Audacity Enthusiasts</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/livestream-lifelines-combatting-common-interruption-issues-on-fb/"><u>Livestream Lifelines  Combatting Common Interruption Issues on FB</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-mastering-the-art-of-fishy-tones-a-guide-to-using-discords-clownfish-vocal-effect/"><u>New Mastering the Art of Fishy Tones A Guide to Using Discords Clownfish Vocal Effect</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-for-iphone-12-pro-max-lock-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 12 Pro Max Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-iphone-12-pro-max-drfone-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-is-your-iphone-12-pro-max-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Is Your iPhone 12 Pro Max in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-vivo-y17s-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Vivo Y17s.</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-dont-miss-out-4-official-ways-to-get-discounted-filmora-plans-for-2024/"><u>New Dont Miss Out! 4 Official Ways to Get Discounted Filmora Plans for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-iphone-12-pro-max-when-phone-is-broken-drfone-by-drfone-ios/"><u>In 2024, How to Turn Off Find My iPhone 12 Pro Max when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-instagram-video-reduction-tips-for-mac-users-for-2024/"><u>[New] Instagram Video Reduction Tips for Mac Users for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-resolve-your-iphone-12-pro-max-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>In 2024, Resolve Your iPhone 12 Pro Max Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-power-of-stories-in-youtube-expansion-for-2024/"><u>The Power of Stories in YouTube Expansion for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-12-pro-max-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone 12 Pro Max? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-screenflow-pros-mac-saga-full-evaluation-report/"><u>[New] ScreenFlow Pro's Mac Saga - Full Evaluation Report</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-iphone-12-pro-max-passcode-without-a-computer-drfone-by-drfone-ios/"><u>In 2024, Unlocking iPhone 12 Pro Max Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-iphone-12-pro-max-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 12 Pro Max When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-12-pro-max-drfone-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-pro-max-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Pro Max without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/beyond-basics-professional-tips-from-vidas-features-for-2024/"><u>Beyond Basics  Professional Tips From Vida's Features for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-iphone-12-pro-max-5-ways-to-get-into-a-locked-iphone-12-pro-max-drfone-by-drfone-ios/"><u>In 2024, Locked Out of iPhone 12 Pro Max? 5 Ways to get into a Locked iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/2024-approved-elevate-your-audio-game-with-the-top-7-android-apps-for-flawless-speech-recording/"><u>2024 Approved Elevate Your Audio Game with the Top 7 Android Apps for Flawless Speech Recording</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/streamlined-method-free-youtube-file-access-for-2024/"><u>Streamlined Method  Free YouTube File Access for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-pro-max-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Samsung Galaxy S23? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-12-pro-max-without-passcode-now-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone 12 Pro Max Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-numerical-leaderboard-spotlight-eighth-in-photo-blender/"><u>2024 Approved  Numerical Leaderboard Spotlight  Eighth in Photo Blender</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-12-pro-max-drfone-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-12-pro-max-drfone-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-snapchat-on-mac-quick-setup-tips/"><u>[New] In 2024, Snapchat on Mac - Quick Setup Tips</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-avoid-being-overwhelmed-by-tiktok-drafts-edits-for-orderliness/"><u>2024 Approved  Avoid Being Overwhelmed by TikTok Drafts  Edits for Orderliness</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-20plus-humorous-metaverse-memes-and-diy-creation-guide/"><u>2024 Approved  20+ Humorous Metaverse Memes & DIY Creation Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-12-pro-max-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>In 2024, iPhone 12 Pro Max Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-iphone-12-pro-max-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>In 2024, Unlock iPhone 12 Pro Max With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-full-guide-to-unlock-iphone-12-pro-max-with-itunes-drfone-by-drfone-ios/"><u>In 2024, Full Guide to Unlock iPhone 12 Pro Max with iTunes | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pillow-talk-with-prodigies-asmr-voices-for-slumber/"><u>[New] Pillow Talk with Prodigies  ASMR Voices for Slumber</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/2024-approved-how-to-make-a-funny-meme-on-macbook/"><u>2024 Approved How to Make a Funny Meme on MacBook</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-12-pro-max-without-itunes-drfone-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 12 Pro Max Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-12-pro-max-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone 12 Pro Max After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-pro-max-apples-new-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Pro Max, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-7-ideas-to-improve-the-unboxing-experience/"><u>[New] 2024 Approved  7 Ideas to Improve the Unboxing Experience</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/live-commerce-next-chapter-can-ai-unlock-its-true-potential/"><u>Live Commerce Next Chapter Can AI Unlock Its True Potential?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-12-pro-max-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone 12 Pro Max When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/essential-8-web-destinations-for-3d-text-psd-sharing/"><u>Essential 8 Web Destinations for 3D Text PSD Sharing</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-discover-tiktoks-leading-7-emoji-charms/"><u>[New] 2024 Approved  Discover TikTok's Leading 7 Emoji Charms</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-in-this-article-you-will-learn-how-to-make-an-engaging-and-creative-youtube-intro-to-give-a-hook-and-recap-information-to-the-audience-by-using-wond/"><u>Updated In This Article, You Will Learn How to Make an Engaging and Creative YouTube Intro to Give a Hook and Recap Information to the Audience by Using Wondershare Filmora</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-locked-iphone-12-pro-max-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Forgot Locked iPhone 12 Pro Max Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-12-pro-max-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-iphone-12-pro-max-passcode-not-working-drfone-by-drfone-ios/"><u>In 2024, How to Fix iPhone 12 Pro Max Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-12-pro-max-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone 12 Pro Max Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-giggle-guild-the-ultimate-list-of-twitter-joke-threads/"><u>[New] In 2024, Giggle Guild  The Ultimate List of Twitter Joke Threads</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-pc-video-editing-made-easy-gopro-quik-and-its-alternatives/"><u>New PC Video Editing Made Easy GoPro Quik and Its Alternatives</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-iphone-12-pro-max-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix iPhone 12 Pro Max Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-iphone-12-pro-max-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 12 Pro Max After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-12-pro-max-drfone-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-samsung-galaxy-s23plus-easily-by-drfone-android/"><u>How To Unlock a Samsung Galaxy S23+ Easily?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-12-pro-max-drfone-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone 12 Pro Max | Dr.fone</u></a></li>
+</ul></div>

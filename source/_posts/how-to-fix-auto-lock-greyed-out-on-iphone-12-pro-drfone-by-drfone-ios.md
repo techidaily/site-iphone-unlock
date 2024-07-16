@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on iPhone 12 Pro | Dr.fone
-date: 2024-06-15T18:13:08.900Z
-updated: 2024-06-16T18:13:08.900Z
+date: 2024-07-15T06:37:39.183Z
+updated: 2024-07-16T06:37:39.183Z
 tags: 
   - unlock
   - remove screen lock
@@ -36,6 +36,9 @@ Screen Time Restrictions
 
 [<u>Screen Time restrictions</u>](https://drfone.wondershare.com/unlock/how-to-turn-off-screen-time-without-passcode.html) can impact Auto-Lock. For instance, if your downtime schedule blocks all apps, the screen locks itself, even if the Auto-Lock timer hasn't run out.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![screen time settings on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-03.jpg)
 
 MDM Profile Restrictions
@@ -188,12 +191,18 @@ Ever since the introduction of Touch ID in iPhone 5s, people have started using 
 
 However, that move also presented an issue. As passcode was only required some of the time, people started forgetting their passcodes. So, if you have an Apple iPhone 12 Pro and want to know how to unlock Apple iPhone 12 Pro without passcode since you have forgotten it, continue reading to find out what to do.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part I: 4 Easy Ways To Unlock iPhone Without Passcode
 
 We present you with three easy ways to unlock iPhone without passcode.
 
 ![forget passcode](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-8-without-passcode-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### I.I: Unlock Apple iPhone 12 Pro Without Passcode Through iTunes/ macOS Finder
 
 If you have access to a computer, be it Windows or macOS, you can quickly use iTunes or macOS Finder to unlock Apple iPhone 12 Pro without passcode. You will need a data cable (preferably original Apple) and an active internet connection.
@@ -286,10 +295,16 @@ If your locked iPhone is not on the list of devices, and you cannot do anything,
 
 Here are helpful frequently asked questions for you.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### FAQ 1: Can I unlock iPhone without data loss?
 
 Unlocking an iPhone requires erasing the Apple iPhone 12 Pro device's contents as the entire device is wiped and the operating system is installed fresh. Therefore, there is no way to unlock iPhone without data loss.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### FAQ 2: Can I use iPhone without passcode?
 
 Yes, you can use the Apple iPhone 12 Pro without a passcode if you fear that you might forget the passcode again. However, this also means exposing your data and device to theft and security risks, not to mention that you will only be able to use Touch ID if you set up a passcode first.
@@ -347,7 +362,7 @@ Once, the software downloads the firmware automatically, you can then proceed to
 
 ![passcode removal](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 2. Restore an iTunes backup for Apple iPhone 12 Pro
 
@@ -432,3 +447,53 @@ Now, in case you know the Apple iPhone 12 Pro restrictions passcode and just wis
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-8-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 8, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-12-pro-passcode-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 Pro Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-backward-play-a-comprehensive-walkthrough/"><u>[New] Instagram Backward Play  A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-7-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 7 Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-the-ultimate-guide-to-creating-viral-whatsapp-status-videos/"><u>New 2024 Approved The Ultimate Guide to Creating Viral WhatsApp Status Videos</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-12-pro-max-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 Pro Max Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-12-mini-with-a-mask-on-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 mini with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-7-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone 7 Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-12-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-iphone-xs-max-drfone-by-drfone-ios/"><u>How To Unlock A Found iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-12-pro-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 Pro Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-the-best-video-editing-software-for-those-new-to-video-production-for-2024/"><u>New The Best Video Editing Software for Those New to Video Production for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-8-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 8 Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-the-top-12-tycoon-games-worthy-of-every-business-strategists-time/"><u>[Updated] In 2024, The Top 12 Tycoon Games Worthy of Every Business Strategist's Time</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-streaming-sports-creating-your-own-mac-based-channel-for-2024/"><u>Start Streaming Sports  Creating Your Own Mac-Based Channel for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-advanced-viewing-techniques-for-tiktok-content/"><u>[New] Advanced Viewing Techniques for TikTok Content</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/audio-wizardry-in-action-techniques-for-professional-video-sound-recording-for-2024/"><u>Audio Wizardry in Action  Techniques for Professional Video Sound-Recording for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-maximize-engagement-on-instagram-using-these-top-25-tags/"><u>[Updated] Maximize Engagement on Instagram Using These Top 25 Tags</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-12-mini-passcode-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 mini Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-7-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 7, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-13-mini-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 mini Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-xs-drfone-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-11-pro-passcode-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 Pro Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-skys-limit-for-your-visual-stories-unlimited-free-options-and-premium-choices/"><u>[Updated] Sky's Limit for Your Visual Stories  Unlimited Free Options and Premium Choices</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-macbook-webcam-recording-tutorial/"><u>[New] MacBook Webcam Recording Tutorial</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-8-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-sneak-peek-into-the-secret-of-silent-videos-in-windows-10-no-additional-software-for-2024/"><u>New Sneak Peek Into the Secret of Silent Videos in Windows 10 (No Additional Software) for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-expert-advice-how-to-share-your-imovie-videos-on-vimeo-for-2024/"><u>[Updated] Expert Advice  How to Share Your iMovie Videos on Vimeo for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-13-mini-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone 13 mini Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-7-plus-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 7 Plus without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-8-plus-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 8 Plus Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/investing-in-your-instagram-presence-5-key-strategies-and-illustrated-outcomes/"><u>Investing in Your Instagram Presence  5 Key Strategies and Illustrated Outcomes</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-11-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-everything-to-know-about-apple-id-password-requirements-for-iphone-15-pro-max-by-drfone-ios/"><u>In 2024, Everything To Know About Apple ID Password Requirements For iPhone 15 Pro Max</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-12-pro-max-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 Pro Max Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-12-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-11-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone 11 Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-7-plus-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 7 Plus? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-12-mini-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 mini Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-12-mini-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone 12 mini Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-expert-free-fb-image-creator-no-fee-for-2024/"><u>[Updated] Expert Free FB Image Creator (No Fee) for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-7-passcode-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 7 Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-11-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-use-adjustment-layer-in-final-cut-pro/"><u>2024 Approved How to Use Adjustment Layer in Final Cut Pro</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-easy-processes-for-downloading-live-conversations-for-2024/"><u>[New] Easy Processes for Downloading Live Conversations for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-step-up-your-gaming-with-advanced-ps4-capture-techniques/"><u>[Updated] Step Up Your Gaming with Advanced PS4 Capture Techniques</u></a></li>
+</ul></div>

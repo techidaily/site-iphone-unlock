@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Turn Off Find My iPhone 12 mini when Phone is Broken? | Dr.fone
-date: 2024-06-24T01:11:19.262Z
-updated: 2024-06-25T01:11:19.262Z
+date: 2024-07-15T06:29:49.981Z
+updated: 2024-07-16T06:29:49.981Z
 tags: 
   - unlock
   - remove screen lock
@@ -103,6 +103,9 @@ Here we have explained to you step by step how to turn off Find My iPhone on bro
 
 **Step 3:** Click on the "All Devices" option from the top. Select your Apple iPhone 12 mini, which you want to remove by clicking on "Remove from account."
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![select your device](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-2.jpg)
 
 **Step 4:** Once your device is removed from the account, a window will pop up asking you to delete the option of that device from your iCloud account. Now you may log in Find My iPhone with your iCloud account on another device.
@@ -151,6 +154,9 @@ The Apple iPhone 12 mini Lock feature permits remotely locking a lost Apple iPho
 
 The Lost Mode menu will ask you to set one if it has no password. Password is obligatory to stop Lost Mode once a device is returned to the owner, as Contact ID or Face ID won't work for this reason.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![lost mode](https://images.wondershare.com/drfone/article/2022/10/iphone-lost-mode-unlock-1.jpg)
 
 **Send a Custom Text Message:** When you sort out your lost iPhone and put it in Lost Mode, another supportive feature accessible to you is a custom message shown on the Lock Screen. You can enter any message to let an individual who found it realize this iPhone is lost. This way, you can demonstrate a phone number for the other person. That will expand opportunities to get your device back.
@@ -167,6 +173,9 @@ The most straightforward method for unlocking the Apple iPhone 12 mini in Lost M
 
 If your device had no password while placing it in Lost Mode and you've entered it into iCloud while placing your Apple iPhone 12 mini into Lost Mode, utilize this password. That will help you **unlock lost iPhone**, and you can start operating your Apple iPhone 12 mini again.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 2\. Remove it from Find My in iCloud
 
 One more method for unlocking the Lost Mode on your Apple iPhone 12 mini is to utilize the Find My iPhone application on the official iCloud site. Follow the steps underneath to do so:
@@ -303,6 +312,9 @@ You can watch the video below about how to unlock your Apple iPhone 12 mini with
 
 **Step 2.** Connect your device with a computer. Afterward, choose the “Unlock iOS Screen”  to get started.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![connect Apple iPhone 12 mini to pc to get into locked Apple iPhone 12 mini](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
 **Step 3.** Then on the next screen, this tool will prompt you to enter the DFU mode to continue.
@@ -349,6 +361,9 @@ Apple’s official Find My Apple iPhone 12 mini is a smart and hassle-free way t
 
 **Step 1.** Log in to [iCloud’s website](https://www.icloud.com/) using your Apple ID and password. Visit the Find My Apple iPhone 12 mini page and click on the “All Devices” option to view all the iOS devices linked to your Apple ID. Now, select the iOS device that is locked.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![icloud all devices](https://images.wondershare.com/drfone/article/2017/07/14994494968655.jpg "icloud all devices")
 
 **Step 2.** This will provide various tasks that you can perform on the iOS device. Click on the “Erase Apple iPhone 12 mini” button to reset the Apple iPhone 12 mini device.
@@ -424,3 +439,59 @@ We hope that after learning how to get in a locked Apple iPhone 12 mini in diffe
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-15-pro-max-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone 15 Pro Max After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-videography-starter-pack-openers-and-more-for-2024/"><u>Free Videography Starter Pack  Openers & More for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-15-pro-max-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 15 Pro Max Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-vivo-v27-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-removing-background-music-and-sounds-from-new-avi-files/"><u>New Removing Background Music and Sounds From New AVI Files</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-15-pro-max-and-ipad-securely-drfone-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 15 Pro Max and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-15-pro-max-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 15 Pro Max Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-saga-scholars-society-premier-picks/"><u>In 2024, Saga Scholars Society - Premier Picks</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-15-pro-max-drfone-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/the-most-effective-ways-to-bypass-iphone-7-activation-lock-by-drfone-ios/"><u>The Most Effective Ways to Bypass iPhone 7 Activation Lock</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabling-apple-iphone-15-pro-max-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone 15 Pro Max Parental Restrictions With/Without Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-15-pro-max-with-7-methods-drfone-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for Apple iPhone 15 Pro Max With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-seamless-iphone-recording-creating-fb-shareable-reels-for-2024/"><u>[Updated] Seamless iPhone Recording  Creating FB Shareable Reels for 2024</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/2024-approved-vegas-pro-for-mac-10-competitors-you-should-consider-free-and-paid/"><u>2024 Approved Vegas Pro for Mac 10 Competitors You Should Consider (Free & Paid)</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-iphone-15-pro-max-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking iPhone 15 Pro Max i Do? Get Answers here | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-15-pro-max-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone 15 Pro Max Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-15-pro-max-drfone-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/30-hot-tiktok-amazon-finds-you-must-know-for-2024/"><u>30 Hot TikTok Amazon Finds You Must Know for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-samsung-galaxy-s24-ultra-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Samsung Galaxy S24 Ultra on Windows??</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-15-pro-max-with-or-without-password-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone 15 Pro Max With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/shrink-your-mpeg2-videos-download-and-use-virtualdub-today-for-2024/"><u>Shrink Your MPEG2 Videos Download and Use VirtualDub Today for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-15-pro-max-passcode-without-computer-drfone-by-drfone-ios/"><u>How to Unlock iPhone 15 Pro Max Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-crafting-dynamic-fb-video-covers-a-step-by-step-guide-for-2024/"><u>[New] Crafting Dynamic FB Video Covers  A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-15-pro-max-drfone-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-15-pro-max-with-a-mask-on-drfone-by-drfone-ios/"><u>How to Unlock iPhone 15 Pro Max with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/free-video-editing-software-10-options-beyond-windows-movie-maker/"><u>Free Video Editing Software 10 Options Beyond Windows Movie Maker</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-stolen-iphone-15-pro-max-in-different-conditionsin-drfone-by-drfone-ios/"><u>How To Unlock Stolen iPhone 15 Pro Max In Different Conditionsin | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-15-pro-max-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-screen-recording-software-without-ads/"><u>[Updated] 2024 Approved  Screen Recording Software Without Ads</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-15-pro-max-passcode-not-working-drfone-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 15 Pro Max Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-apple-iphone-15-pro-max-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 15 Pro Max Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-best-slow-mo-and-fast-mo-video-editors-for-windows-and-mac/"><u>2024 Approved Best Slow-Mo and Fast-Mo Video Editors for Windows and Mac</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-15-pro-max-without-itunes-drfone-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone 15 Pro Max Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-how-to-change-your-tiktok-username-for-2024/"><u>[New] How to Change Your TikTok Username for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-masterclass-conquering-one-device-livestream-challenges-for-2024/"><u>[Updated] Masterclass  Conquering One-Device Livestream Challenges for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-filmmakers-handbook-to-pairing-melodies-and-movement-in-video-editing-through-filmora/"><u>Updated In 2024, Filmmakers Handbook to Pairing Melodies and Movement in Video Editing Through Filmora</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-social-soundtrack-top-10-music-videos-on-facebook/"><u>[New] In 2024, Social Soundtrack  Top 10 Music Videos on Facebook</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-15-pro-max-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone 15 Pro Max Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-15-pro-max-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>How to Unlock iPhone 15 Pro Max With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-fighting-the-frenzy-of-wind-vibration-in-multimedia-capture-across-oses-and-devices/"><u>2024 Approved Fighting the Frenzy of Wind Vibration in Multimedia Capture Across OSes and Devices</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-video-editing-made-easy-top-free-software-for-32-bit-windows/"><u>New 2024 Approved Video Editing Made Easy Top Free Software for 32-Bit Windows</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-your-iphone-15-pro-max-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>How to Unlock Your iPhone 15 Pro Max Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-unlock-iphone-15-pro-max-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>3 Ways to Unlock iPhone 15 Pro Max without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-in-2024-mastering-the-art-of-optimal-audio-format-selection/"><u>New In 2024, Mastering the Art of Optimal Audio Format Selection</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-tecno-camon-20-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Tecno Camon 20 Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-apple-iphone-15-pro-max-drfone-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-15-pro-max-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone 15 Pro Max When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/a-comprehensible-list-of-mac-snippers-ranked/"><u>A Comprehensible List of Mac Snippers Ranked</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/top-servers-for-romance-discord-edition/"><u>Top Servers for Romance  Discord Edition</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-15-pro-max-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock iPhone 15 Pro Max Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/streamline-your-shooting-canons-time-lapse-techniques-for-2024/"><u>Streamline Your Shooting  Canon's Time-Lapse Techniques for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-huawei-p60-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Huawei P60 Location By Mobile Number | Dr.fone</u></a></li>
+</ul></div>

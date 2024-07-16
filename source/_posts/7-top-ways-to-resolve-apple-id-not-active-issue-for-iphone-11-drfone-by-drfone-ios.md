@@ -1,7 +1,7 @@
 ---
 title: 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 11 | Dr.fone
-date: 2024-05-19T07:27:37.718Z
-updated: 2024-05-20T07:27:37.718Z
+date: 2024-07-15T06:00:29.568Z
+updated: 2024-07-16T06:00:29.568Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 11
 excerpt: This article describes 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 11
 keywords: how much does unlock a phone cost,iphone x iphone xr lock screen,unlock iphone without passcode,unlock iphone 5 passcode without itunes,how to remove face id on iphone 13,how to unlock iphone with broken screen,forgot passcode on iphone,change apple id on ipad,fix iphone backup password never set but still asking,unlock disabled iphone without itunes,how to unlock iphone 12,remove flashlight from iphone lock screen
-thumbnail: https://www.lifewire.com/thmb/3tobj7wbVapRfa4KsiobKg3Nu40=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-184415451-9f59b82b64ac421cad0f28540a515b5f.jpg
+thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10f0ed6607a3b7c4f98575dff.jpg
 ---
 
 ## 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 11
@@ -20,6 +20,9 @@ Your Apple ID is the cornerstone of your Apple device experience. It serves as t
 
 Yet, despite its significance, issues can arise, disrupting the active status of your Apple ID. In this article, we'll discuss one common yet frustrating issue: **this Apple ID is not active**. The guide will provide 7 effective methods to restore the functionality of your Apple ID. Additionally, we'll highlight the most efficient approach to swiftly resolve this issue.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![apple id not active on device](https://images.wondershare.com/drfone/article/2024/01/how-to-resolve-apple-id-not-active-issue-1.jpg)
 
 ## Part 1. Reasons Why Apple ID Is Not Active
@@ -99,6 +102,9 @@ An inactive Apple ID issue might sometimes stem from a temporary glitch within t
 
 **Instructions.** Begin by pressing the "Side" button along with any volume button at the same time. It will lead to the appearance of the “Power” slider, which you need to slide right to turn off the Apple iPhone 11 device. Once it is turned off, press and hold the "Side" buttons to turn on your Apple iPhone 11.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![restart your ios device](https://images.wondershare.com/drfone/article/2024/01/how-to-resolve-apple-id-not-active-issue-6.jpg)
 
 ### Way 2. Try Changing Wi-Fi or Mobile Data
@@ -334,8 +340,11 @@ Once, the software downloads the firmware automatically, you can then proceed to
 
 ![passcode removal](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 2. Restore an iTunes backup for Apple iPhone 11
 
 Here we’re going to be familiar with the Apple iPhone 11 passcode reset using the renowned iOS data management tool, iTunes. But be sure that iTunes version installed over your computer is up to date or else unknown errors may crop up in between. Eventually, your all-new Apple iPhone 11 may even get bricked. Think this is it? Well, here’s another problem with iTunes, you need to get your Apple iPhone 11 connected only to a pre-synced or pre-trusted computer. Or else, this tutorial won’t bring any good to you.
@@ -344,6 +353,9 @@ Here we’re going to be familiar with the Apple iPhone 11 passcode reset using 
 
 **Step 2:** Then, hit the “Summary” option from the left panel and then you need to hit the “Restore iPhone” button. Confirm your actions by simply pushing the “Restore” button on the pop-up message and you’re done. Now, just wait for the process to complete.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![iTunes backup restoring](https://images.wondershare.com/drfone/article/2019/09/restore-iphone-itunes.jpg)
 
 ## Part 3. Restore Apple iPhone 11 in recovery mode to remove screen passcode
@@ -354,6 +366,9 @@ If somehow, the above solution fails and you’re just not able to get Apple iPh
 - Next, connect your Apple iPhone 11 and your computer firmly with the help of an authentic cable. Please make sure to press and hold the “Side” button meanwhile.
 - Ensure not to let go the Side button till the recovery mode screen appears over your Apple iPhone 11.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![recovery mode](https://images.wondershare.com/drfone/article/2019/09/iphone11-recovery-mode.jpg)
 
 - Once the Apple iPhone 11 device is booted in recovery mode, iTunes will throw a pop up message that “iTunes has detected an iPhone in recovery mode”. Simply, hit the “OK” button over the message and then push the “Restore iPhone” button followed by confirming your actions.
@@ -419,3 +434,72 @@ Now, in case you know the Apple iPhone 11 restrictions passcode and just wish to
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://sim-unlock.techidaily.com/top-11-free-apps-to-check-imei-on-apple-iphone-7-plus-by-drfone-ios/"><u>Top 11 Free Apps to Check IMEI on Apple iPhone 7 Plus</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-solo-strategies-making-your-podcast-sensational/"><u>[Updated] Solo Strategies  Making Your Podcast Sensational</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-best-solarmovie-alternatives-watch-movies-free-online/"><u>New Best SolarMovie Alternatives-Watch Movies Free Online</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-expert-advice-top-ranked-call-alert-creators-for-2024/"><u>[Updated] Expert Advice  Top-Ranked Call Alert Creators for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/did-your-iphone-7-plus-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your iPhone 7 Plus Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabled-iphone-se-2020-how-to-unlock-a-disabled-iphone-se-2020-drfone-by-drfone-ios/"><u>Disabled iPhone SE (2020) How to Unlock a Disabled iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-hunters-top-picks-best-video-gear-reviewed/"><u>[New] Hunters' Top Picks  Best Video Gear Reviewed</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-precision-and-speed-the-ultimate-guide-to-mac-srt-editing/"><u>[New] Precision and Speed  The Ultimate Guide to Mac Srt Editing</u></a></li>
+<li><a href="https://change-location.techidaily.com/where-is-the-best-place-to-catch-dratini-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-12-mini-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-xr-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone XR with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/did-your-apple-iphone-6-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your Apple iPhone 6 Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-15-plus-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone 15 Plus with a Broken Screen?</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-method-for-seamless-volume-dialing-down-in-audacity/"><u>The Method for Seamless Volume Dialing Down in Audacity</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-vivo-y17s-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Vivo Y17s</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/did-your-iphone-12-mini-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your iPhone 12 mini Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-how-to-snappify-your-macs-viewport/"><u>[Updated] How To Snappify Your Mac's Viewport</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-iphone-xs-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone XS with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-13-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/10-must-hear-tunes-as-your-phones-greeting-melody-for-2024/"><u>10 Must-Hear Tunes as Your Phones Greeting Melody for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-iphone-xr-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-iphone-8-plus-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-at-the-helm-of-augmented-perception-tools/"><u>[New] At the Helm of Augmented Perception Tools</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/hasty-techniques-for-removing-speech-from-audio-files-with-audacity/"><u>Hasty Techniques for Removing Speech From Audio Files with Audacity</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-12-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-apple-iphone-13-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For Apple iPhone 13 Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-7-plus-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone 7 Plus Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-5-best-photo-editor-for-android-phone/"><u>2024 Approved  5 Best Photo Editor for Android Phone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-iphone-7-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For iPhone 7 Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabled-apple-iphone-13-how-to-unlock-a-disabled-apple-iphone-13-drfone-by-drfone-ios/"><u>Disabled Apple iPhone 13 How to Unlock a Disabled Apple iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/ways-to-stop-parent-tracking-your-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>Ways to stop parent tracking your Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/did-your-apple-iphone-8-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your Apple iPhone 8 Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-kickstart-your-webinar-skills-with-easy-to-follow-zoom-steps-for-2024/"><u>[Updated] Kickstart Your Webinar Skills with Easy-to-Follow Zoom Steps for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/did-your-iphone-xs-max-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your iPhone XS Max Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-12-mini-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/compreehing-windows-11-printer-offline-error-causes/"><u>Compreehing Windows 11 Printer Offline Error Causes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Fix Life360 Shows Wrong Location On Apple iPhone 11 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-echoes-of-antiquity-tracing-the-footsteps-of-ancient-scribes/"><u>[Updated] Echoes of Antiquity  Tracing the Footsteps of Ancient Scribes</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-12-pro-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-iphone-se-2020-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone SE (2020) with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-top-video-speed-controllers-for-pc-and-mac-free-and-paid-options-for-2024/"><u>Updated Top Video Speed Controllers for PC and Mac Free & Paid Options for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabled-apple-iphone-8-how-to-unlock-a-disabled-apple-iphone-8-drfone-by-drfone-ios/"><u>Disabled Apple iPhone 8 How to Unlock a Disabled Apple iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-iphone-8-plus-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone 8 Plus with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-top-5-best-terraria-map-viewers-to-find-treasure/"><u>[Updated] In 2024, Top 5 Best Terraria Map Viewers to Find Treasure</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-full-range-virtual-sphere-review/"><u>In 2024, Full Range Virtual Sphere Review</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-say-goodbye-to-boring-photos-addons-for-iphones-and-android-screenshots/"><u>In 2024, Say Goodbye to Boring Photos – Addons for iPhones and Android Screenshots</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/did-your-iphone-12-pro-max-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your iPhone 12 Pro Max Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-12-pro-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 12 Pro with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-iphone-11-pro-max-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone 11 Pro Max with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-iphone-12-pro-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-problem-is-over-your-shorts-show-up-now/"><u>The Problem Is Over  Your Shorts Show Up Now</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-iphone-xr-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For iPhone XR Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-oppo-reno-10-proplus-5g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-iphone-7-plus-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve iPhone 7 Plus Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-apple-iphone-13-mini-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For Apple iPhone 13 mini Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-7-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 7 with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-iphone-12-mini-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone 12 mini with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-screen-recording-made-simple-methodical-guidebook/"><u>In 2024, Screen Recording Made Simple  Methodical Guidebook</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-nokia-g42-5g-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Nokia G42 5G Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/elevate-console-experience-with-personalized-audio-settings/"><u>Elevate Console Experience with Personalized Audio Settings</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-iphone-12-mini-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For iPhone 12 mini Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-apple-iphone-12-pro-max-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For Apple iPhone 12 Pro Max Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-vimeo-basic-vimeo-plus-or-vimeo-pro-which-is-right-for-you/"><u>In 2024, Vimeo Basic, Vimeo Plus or Vimeo Pro  Which Is Right for You?</u></a></li>
+</ul></div>

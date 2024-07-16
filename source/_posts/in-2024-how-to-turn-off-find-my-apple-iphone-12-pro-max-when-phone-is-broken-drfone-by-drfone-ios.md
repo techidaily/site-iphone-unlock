@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Turn Off Find My Apple iPhone 12 Pro Max when Phone is Broken? | Dr.fone
-date: 2024-04-07T12:47:19.049Z
-updated: 2024-04-08T12:47:19.049Z
+date: 2024-07-15T08:16:40.136Z
+updated: 2024-07-16T08:16:40.136Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Turn Off Find My Apple iPhone 12 Pro Max when Phone is Broken?
 excerpt: This article describes How to Turn Off Find My Apple iPhone 12 Pro Max when Phone is Broken?
 keywords: unlock iphone passcode without computer,unlock iphone without passcode,iphone auto lock greyed out,forgot passcode iphone 6,how to unlock iphone 7 without passcode,bypass apple store verification,what can jailbreak iphone do,change apple id password
-thumbnail: https://www.lifewire.com/thmb/3UFOh7_Yk35mO3BSnykTStwc6K4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tclsclass-0185b3ecd41d454589d2a9984629b919.jpg
+thumbnail: https://thmb.techidaily.com/459b794516e41ca817af82c1c22066d193c455f4891dd7a8e040210befb5bf6c.jpg
 ---
 
 ## How to Turn Off Find My Apple iPhone 12 Pro Max when Phone is Broken?
@@ -34,7 +34,7 @@ The best part about this application is that it is free of cost. It usually come
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Turning Off Find My iPhone Within Second.
 
@@ -162,7 +162,7 @@ iTunes is another great way to bypass the activation screen without a SIM card. 
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Remove iPhone Passcode.
 
@@ -201,7 +201,10 @@ Once your Apple iPhone 12 Pro Max is in DFU mode, another window will be display
 
 After downloading the firmware, select “Unlock Now” to unlock your Apple iPhone 12 Pro Max.
 
-![unlock iphone passcode successfully ](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
+![unlock iphone passcode successfully](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
 ## Part 3: Effective Ways to Fix iPhone Password Not Working
 
@@ -225,6 +228,9 @@ Now open iTunes. If it asks for a passcode, try another computer that you've syn
 
 Once your device is synced with iTunes, a "Set Up" window will pop up on the screen displaying two options, "Restore" or "Update." Select "Restore" to proceed further.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![restore iphone with itunes](https://images.wondershare.com/drfone/article/2021/06/iphone-passcode-not-working-1.jpg)
 
 **Step 5: Reset Passcode**
@@ -363,6 +369,9 @@ Here are the steps to recover Apple iPhone 12 Pro Max  via iTunes backup.
 5. Select a suitable backup that you wish to use for the restore.
 6. The last step is to click on "Restore." iTunes will restore your Apple iPhone 12 Pro Max's data and settings.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
     ![feasible ways to unlock Apple iPhone 12 Pro Max 3](https://images.wondershare.com/drfone/article/2021/04/feasible-ways-to-unlock-iphone-7-and-7-plus-3.jpg)
 
 ## **Part 3: How to Change Passcode on Apple iPhone 12 Pro Max?**
@@ -379,6 +388,9 @@ If you wish to change the passcode on Apple iPhone 12 Pro Max , simply follow th
 3. Type in your current passcode to proceed.
 4. Here, click on the option "Change Passcode."
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
     ![feasible ways to unlock Apple iPhone 12 Pro Max 5](https://images.wondershare.com/drfone/article/2021/04/feasible-ways-to-unlock-iphone-7-and-7-plus-5.jpg)
 
 5. Once again, enter your current password.
@@ -388,6 +400,9 @@ If you wish to change the passcode on Apple iPhone 12 Pro Max , simply follow th
 
 7. Select a specific passcode type, enter your new password and click on "Next."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
     ![feasible ways to unlock Apple iPhone 12 Pro Max 7](https://images.wondershare.com/drfone/article/2021/04/feasible-ways-to-unlock-iphone-7-and-7-plus-7.jpg)
 
 8. Enter your new password once again for confirmation and conclude the process by clicking on "Done."
@@ -415,3 +430,43 @@ Now you know what to do the next time you forget your passcode. Using the simple
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-7-plus-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 7 Plus Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-7-plus-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 7 Plus in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/passfab-iphone-7-plus-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab iPhone 7 Plus Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-breaking-the-rt-barrier-sharing-photos-and-vids-on-twitter-for-2024/"><u>[New] Breaking the 'RT' Barrier  Sharing Photos & Vids on Twitter for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-instagram-video-inversion-step-by-step-strategy/"><u>[New] In 2024, Instagram Video Inversion  Step-by-Step Strategy</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-7-plus-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock iPhone 7 Plus without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-7-plus-lock-screen-drfone-by-drfone-ios/"><u>How To Remove Flashlight From iPhone 7 Plus Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlocking-crypto-potential-the-ultimate-list-of-nft-engines-for-2024/"><u>Unlocking Crypto Potential  The Ultimate List of NFT Engines for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-7-plus-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-4-feasible-ways-to-fake-location-on-facebook-for-your-oppo-a56s-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Feasible Ways to Fake Location on Facebook For your Oppo A56s 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/elite-photography-narrative-assembler-kit/"><u>Elite Photography Narrative Assembler Kit</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-7-plus-properly-drfone-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 7 Plus Properly | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-crafting-viral-content-key-tiktok-tools-and-techniques/"><u>[Updated] In 2024, Crafting Viral Content  Key TikTok Tools and Techniques</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-all-about-stardew-valley-on-the-mysterious-ginger-island/"><u>2024 Approved  All About Stardew Valley on the Mysterious Ginger Island</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/trouble-with-iphone-7-plus-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with iPhone 7 Plus Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-effortless-4k-video-editing-top-proxy-editing-apps-for-creators/"><u>New In 2024, Effortless 4K Video Editing Top Proxy Editing Apps for Creators</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-7-plus-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone 7 Plus Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/mastery-in-digital-media-srgb-preference-for-2024/"><u>Mastery in Digital Media  Srgb Preference for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-gentle-request-for-a-greater-genuine-community/"><u>[Updated] 2024 Approved  Gentle Request for a Greater, Genuine Community</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-7-plus-drfone-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-iphone-7-plus-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your iPhone 7 Plus When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-iphone-7-plus-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your iPhone 7 Plus Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-premier-online-calling-apps-all-free-and-user-friendly/"><u>[Updated] In 2024, Premier Online Calling Apps - All Free & User-Friendly</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/remove-device-supervision-from-your-iphone-7-plus-drfone-by-drfone-ios/"><u>Remove Device Supervision From your iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-iphone-7-plus-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 7 Plus Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-7-plus-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-how-to-direct-encouraging-content-for-daily-living-vids/"><u>2024 Approved  How to Direct Encouraging Content for Daily Living Vids</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-audiences-favorite-top-action-recording-tools/"><u>[New] Audience's Favorite  Top Action Recording Tools</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/resolve-your-iphone-7-plus-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your iPhone 7 Plus Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-personal-narratives-for-online-connection-and-growth/"><u>[Updated] Personal Narratives for Online Connection and Growth</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-luminance-hd-evaluation-the-ultimate-decision/"><u>[Updated] 2024 Approved  Luminance-HD Evaluation  The Ultimate Decision?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-iphone-7-plus-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For iPhone 7 Plus Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-7-plus-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your iPhone 7 Plus Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-top-100-earnest-creators-online/"><u>[Updated] Top 100 Earnest Creators Online</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-7-plus-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot iPhone 7 Plus Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-aural-enhancements-with-video-editing-on-win11/"><u>2024 Approved  Aural Enhancements with Video Editing on Win11</u></a></li>
+</ul></div>

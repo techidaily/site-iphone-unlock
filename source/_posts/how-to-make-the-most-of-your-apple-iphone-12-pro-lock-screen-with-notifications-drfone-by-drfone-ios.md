@@ -1,7 +1,7 @@
 ---
 title: How to Make the Most of Your Apple iPhone 12 Pro Lock Screen with Notifications? | Dr.fone
-date: 2024-05-19T07:28:00.955Z
-updated: 2024-05-20T07:28:00.955Z
+date: 2024-07-15T06:36:34.501Z
+updated: 2024-07-16T06:36:34.501Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Make the Most of Your Apple iPhone 12 Pro Lock Screen with Notifications?
 excerpt: This article describes How to Make the Most of Your Apple iPhone 12 Pro Lock Screen with Notifications?
 keywords: iphone is disabled,factory reset locked iphone without itunes,get into locked iphone,get out of security lockout,change apple id on ipad,unlock iphone 14,solve iphone randomly asking for apple id,lock stolen iphone,forgot passcode iphone 6,change country on iphone app store,unlock disabled iphone without itunes
-thumbnail: https://www.lifewire.com/thmb/ADwMZAl5AjJaezwcgc229Y2W9FU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1558254975-0a8ae81a4cd04f3eba064dd56ba8b030.jpg
+thumbnail: https://thmb.techidaily.com/633e4476d735dff824b3250c253c09c234e7613f83678c9c2635006dd72b341f.jpg
 ---
 
 ## How to Make the Most of Your Apple iPhone 12 Pro Lock Screen with Notifications?
@@ -44,6 +44,9 @@ Besides interacting with widgets and apps, you can also search for something on 
 
 ![iphone lock screen with notifications-earch for anything](https://images.wondershare.com/drfone/article/2017/09/15063938584150.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to turn off notifications on iPhone lock screen?
 
 Sometimes, people can access our private information just by looking at our notifications. In this way, they can get read your crucial information and that too without unlocking your device. By simply visiting your device’s settings, you can customize iPhone lock screen with notifications. In this way, you can turn on or off iPhone lock screen notifications for the apps of your choice.
@@ -90,6 +93,9 @@ With the new update of iOS 18, we can see a drastic change in the Apple iPhone 1
 
 Some people find it a little tricky to access the lock screen notifications iPhone after the iOS 18 update. Instead of sliding the screen from the top, you need to swipe it from the middle. By swiping it from the bottom, you might get its control center.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![iphone lock screen with notifications-access iphone notification on ios 18](https://images.wondershare.com/drfone/article/2017/09/15063940632171.jpg)
 
 Simply swipe up from the middle of the screen to get a list of all the notifications. Now, you can slide them to access the old notifications.
@@ -128,7 +134,7 @@ Learn about all the solutions to unlock iPhone quickly through the video below:
 
 <iframe allowfullscreen="allowfullscreen" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/RIbBkiqQmdM"></iframe>
 
-![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
+![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
 For more tutorial videos about how to unlock your Apple iPhone 12 Pro, you can explore more from [Wondershare Video Community](https://www.wondershare.com/explore/inspiration.html).
 
@@ -140,7 +146,7 @@ Dr.Fone - iPhone Unlocker is a powerful software that can help you open your iDe
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Remove iPhone Lock Screen without Hassle.
 
@@ -331,6 +337,9 @@ You can't unlock an iPhone passcode without losing your data, as doing so would 
 
 Once you have backed up your device, you can then restore it using the backup information. That's how to unlock iPhone without passcode.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. How to unlock iPhone using the camera?
 
 If you have an older version of iOS (version 9 or earlier), then there is a bug that allows you to unlock your device using the camera. To do this, simply open the Camera app and make sure it's in selfie mode. Then, hold the Home button until you hear a clicking sound. This will unlock your device without requiring a passcode.
@@ -415,6 +424,9 @@ If you have any subscriptions, you must cancel them before **changing your App S
 
 ![cancel all subscriptions on iphone](https://images.wondershare.com/drfone/article/2023/10/change-app-store-country-07.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 6: Using a VPN
 
 You can also use a VPN to **change your App Store country**. However, this method is not recommended, as it can be unreliable and may result in your account being banned. Here are the steps below.
@@ -455,6 +467,9 @@ Dr.Fone's Screen Unlock tool offers a streamlined solution to get you back into 
 - **Step 1**: Download Dr.Fone - Screen Unlock (iOS) on your computer and install it. Next, launch the app.
 - **Step 2:** Connect your locked Apple iPhone 12 Pro to your computer using a compatible USB cable. Afterward, click **Start** on the program. Follow the on-screen prompts on Dr.Fone. It will tell you to boot differently into DFU mode. Once your device [<u>enters DFU mode</u>](https://drfone.wondershare.com/dfu-mode/tools-for-iphone-to-enter-dfu-mode.html), Dr.Fone will present device details, including phone generation, iOS version, and more.
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![connect your iphone to pc](https://images.wondershare.com/drfone/guide/screen-unlock-2.png)
 
 - **Step 3:** Dr.Fone will download the necessary firmware for your device. Follow the on-screen instructions to finish the unlocking process. Once done, Dr.Fone will [<u>remove the activation lock from your device</u>](https://drfone.wondershare.com/icloud/unlock-icloud-activation.html).
@@ -486,3 +501,45 @@ When **changing the App Store country on your Apple iPhone 12 Pro**, it's import
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/15-best-action-cameras-from-beginners-to-pros/"><u>15 Best Action Cameras - From Beginners to Pros</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/removing-obscured-display-issues-in-recording-for-2024/"><u>Removing Obscured Display Issues in Recording for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/rofit-prospects-analyzing-youtubes-monetization-mechanisms/"><u>[New] Profit Prospects  Analyzing YouTube's Monetization Mechanisms</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Motorola Edge 2023? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-iphone-15-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My iPhone 15 After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-15-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 15 With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-15-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-locked-iphone-15-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>Forgot Locked iPhone 15 Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/is-your-iphone-15-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your iPhone 15 in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-streamline-live-tv-capture-in-windows-free-methods/"><u>[Updated] 2024 Approved  Streamline Live TV Capture in Windows (Free Methods)</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/can-you-unlock-iphone-15-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>Can You Unlock iPhone 15 After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-metaverse-compelling-vr-headsets-recommended/"><u>2024 Approved  Navigating Metaverse  Compelling VR Headsets Recommended</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-unveiling-8-affordable-video-communication-apps-for-pc-and-mac/"><u>2024 Approved  Unveiling 8 Affordable Video Communication Apps for PC and MAC</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-15-and-ipad-securely-drfone-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 15 and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-erase-iphone-15-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>3 Ways to Erase iPhone 15 When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabling-iphone-15-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>Disabling iPhone 15 Parental Restrictions With/Without Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-15-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix iPhone 15 Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-captivating-audience-leading-5-tiktok-font-generators-of-2023/"><u>2024 Approved  Captivating Audience  Leading 5 TikTok Font Generators of 2023</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/masterful-presentations-in-google-meet-with-new-backdrops/"><u>Masterful Presentations in Google Meet with New Backdrops</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-15-without-itunes-drfone-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 15 Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-15-drfone-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-15-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>Unlock iPhone 15 With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-15-drfone-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-15-with-7-methods-drfone-by-drfone-ios/"><u>How To Change Country on App Store for iPhone 15 With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-tiktok-freeze-on-iphone-heres-how-to-resolve-it/"><u>[Updated] 2024 Approved  TikTok Freeze on iPhone? Here's How to Resolve It</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-tap-into-asmrs-potential-for-emotional-balance/"><u>[Updated] Tap Into ASMR’s Potential for Emotional Balance</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-15-drfone-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-15-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix iPhone 15 Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/expert-tips-efficiently-storing-conversations-via-iphone-apps-for-2024/"><u>Expert Tips Efficiently Storing Conversations via iPhone Apps for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-iphone-15-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>How to Bypass iPhone 15 Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-15-drfone-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-15-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking iPhone 15 Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-15-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>iPhone 15 Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-strengthen-your-content-identity-inserting-watermarklogo-in-videos/"><u>2024 Approved  Strengthen Your Content Identity  Inserting Watermark/Logo in Videos</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-final-cut-pro-tutorial-fading-in-and-out-of-audio-like-a-pro/"><u>New In 2024, Final Cut Pro Tutorial Fading In and Out of Audio Like a Pro</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-platform-power-players-will-likeeclipse-the-dominance-of-tiktok/"><u>[New] Platform Power Players  Will LikeEclipse the Dominance of TikTok?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-iphone-15-5-ways-to-get-into-a-locked-iphone-15-drfone-by-drfone-ios/"><u>Locked Out of iPhone 15? 5 Ways to get into a Locked iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-itel-a70frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Itel A70FRP Lock</u></a></li>
+</ul></div>

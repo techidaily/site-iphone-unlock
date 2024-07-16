@@ -1,7 +1,7 @@
 ---
 title: Resolve Your Apple iPhone 12 Keeps Asking for Outlook Password | Dr.fone
-date: 2024-05-19T07:27:50.820Z
-updated: 2024-05-20T07:27:50.820Z
+date: 2024-07-15T06:20:54.879Z
+updated: 2024-07-16T06:20:54.879Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Resolve Your Apple iPhone 12 Keeps Asking for Outlook Password
 excerpt: This article describes Resolve Your Apple iPhone 12 Keeps Asking for Outlook Password
 keywords: forgot passcode iphone 6,iphone 11 passcode bypass,get into locked iphone,forgot locked note password,open iphone without home button,apple id not active,iphone swipe up not working,unlock disabled iphone without computer,iphone asking for outlook password
-thumbnail: https://www.lifewire.com/thmb/TYGiT5X9QiOC8P7-lx0tWOT-IQI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/airpodbatterylevelonandroid-15c1db7e9fac43248d130a42540c12a6.jpg
+thumbnail: https://thmb.techidaily.com/98061f90f0702266772c41039bf7505ea26afb88709675b4845f86d9c07123c1.jpg
 ---
 
 ## Resolve Your Apple iPhone 12 Keeps Asking for Outlook Password
@@ -34,6 +34,9 @@ Users might unknowingly enter the wrong password. They may have changed their Ou
 
 An outdated Outlook mail app on your Apple iPhone 12 may struggle to communicate with its latest security protocols. This can lead to performance issues like the Apple iPhone 12 keeps asking for passwords.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Network Connectivity Issues
 
 Upholding a stable internet connection is necessary for effortless communication. An unreliable or unstable network can disrupt the synchronization process in Outlook.
@@ -50,6 +53,9 @@ Other mail applications installed on the Apple iPhone 12 can also cause an issue
 
 Configuring the Outlook mail app to fetch emails too frequently causes the issue. It can strain the connection with Outlook servers, leading to authentication challenges. That causes issues like the Apple iPhone 12 asking for a password.
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 7\. iOS Software Glitches
 
 The smooth functioning of the Mail app may be disrupted by problems and malfunctions present in the iOS software. Compatibility issues could emerge if your device is not operating on the latest iOS version.
@@ -156,6 +162,9 @@ Certain privacy protection features on your Apple iPhone 12 may interfere with t
 
 **Instructions.** On your Apple iPhone 12, access "Mail" settings through the Settings application. Now, scroll down to find and tap the "Privacy Protection" option in the "Messages" section. Next, you will come across the "Protect Mail Activity" switch. Here, toggle off the switch to check if it is resolved.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![manage privacy protection](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-16.jpg)
 
 ### Fix 11. Reset All Settings of the iPhone
@@ -170,6 +179,9 @@ If the persistent password prompts remain unresolved, resetting all settings on 
 
 ![reset all settings on iphone](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-18.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 12. Add an Account by Switching to IMAP
 
 In some cases, switching the account type to IMAP during the setup process can help resolve issues. For many users, it has worked to resolve issues related to Outlook password prompts. Follow these steps to add your Outlook account using the IMAP protocol:
@@ -350,7 +362,7 @@ Now that you've successfully changed your Apple ID email, it's crucial to ensure
 
 By following these steps, you'll ensure that all your Apple devices are synced with your updated email address, providing a seamless and consistent Apple experience across all your gadgets. Now, with your new Apple ID email, you're ready to explore the Apple ecosystem with renewed convenience and security.
 
-## Part III: Unlock iOS Screen With [<u>Wondershare Dr.Fone - Screen Unlock (iOS)</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
+## Part III: Unlock iOS Screen With <u>Wondershare Dr.Fone - Screen Unlock (iOS)</u>
 
 What if you find yourself in a situation where you want to change your Apple ID email address on your iOS device, but you're locked out? Don't worry; Dr.Fone - Screen Unlock (iOS) can rescue you. This handy tool is designed to help you [<u>unlock your iOS device</u>](https://drfone.wondershare.com/unlock/unlock-iphone-without-passcode.html), allowing you to change your Apple ID email address smoothly.
 
@@ -522,6 +534,9 @@ Click **"Remove Now"**
 
 **Step 4:** Dr.Fone will verify and remove your iTunes backup password when the progress bar reaches 100%
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![checking](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-4.png)
 
 **Step 5:** iTunes backup encryption is removed successfully! You can now reset iTunes backup password without any trouble.
@@ -578,3 +593,69 @@ Dr.Fone - Screen Unlock is the easiest method to delete the password from your i
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-14-pro-max-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 14 Pro Max in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-iphone-14-pro-max-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve iPhone 14 Pro Max Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-14-pro-max-drfone-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-practical-approach-switching-video-orientation-in-vlc-for-2024/"><u>[New] Practical Approach  Switching Video Orientation in VLC for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-14-pro-max-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-motorola-edge-2023-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Motorola Edge 2023? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/new-experience-the-future-of-learning-with-these-channels/"><u>[New] Experience the Future of Learning with These Channels</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-14-pro-max-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone 14 Pro Max Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-animation-mastery-8-elite-software-options-for-mac-and-windows-users-for-2024/"><u>New Animation Mastery 8 Elite Software Options for Mac and Windows Users for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-14-pro-max-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock iPhone 14 Pro Max without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-constructing-youtube-playlists-made-simple/"><u>[Updated] Constructing YouTube Playlists Made Simple</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-14-pro-max-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 14 Pro Max Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-on-apple-iphone-8-by-drfone-ios/"><u>In 2024, Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives On Apple iPhone 8</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-14-pro-max-properly-drfone-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 14 Pro Max Properly | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-14-pro-max-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>iPhone 14 Pro Max Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-iphone-14-pro-maxipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled iPhone 14 Pro Max/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-14-pro-max-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-iphone-14-pro-max-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock iPhone 14 Pro Max with iTunes | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-how-to-get-filmora-for-free-with-the-proceeding-guide-you-can-now-get-the-full-version-of-filmora-for-free-on-your-device-without-crack-al/"><u>New 2024 Approved How to Get Filmora for Free? With the Proceeding Guide, You Can Now Get the Full Version of Filmora for Free on Your Device without Crack. Also, Learn About some Wonderful Features of Filmora that Are a Must-Have</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/resolve-your-iphone-14-pro-max-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your iPhone 14 Pro Max Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-click-worthy-thumbnails-proven-techniques-for-youtube-success/"><u>2024 Approved Click-Worthy Thumbnails Proven Techniques for YouTube Success</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-dji-phantom-3s-superior-flight-control-features/"><u>[New] Unveiling DJI Phantom 3'S Superior Flight Control Features</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-iphone-14-pro-max-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your iPhone 14 Pro Max When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/passfab-iphone-14-pro-max-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab iPhone 14 Pro Max Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/youtube-alternatives-round-up-top-3-contenders-for-2024/"><u>YouTube Alternatives Round-Up  Top 3 Contenders for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/infographic-insight-whats-hot-on-23-social-sphere/"><u>Infographic Insight  What's Hot on '23 Social Sphere</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/trouble-with-iphone-14-pro-max-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with iPhone 14 Pro Max Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-creating-cost-effective-youtube-closure-elements/"><u>2024 Approved  Creating Cost-Effective YouTube Closure Elements</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-14-pro-max-lock-screen-drfone-by-drfone-ios/"><u>How To Remove Flashlight From iPhone 14 Pro Max Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/post-vlc-media-player-landscape-analysis-for-2024/"><u>Post-VLC Media Player Landscape Analysis for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-14-pro-max-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-building-a-strong-visual-narrative-in-youtube-videos/"><u>[Updated] 2024 Approved  Building a Strong Visual Narrative in YouTube Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-ranking-creative-photo-and-video-shows-on-iphones-xr-i/"><u>In 2024, Ranking Creative Photo & Video Shows on iPhones (XR-I)</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/-channels-to-partner-status-in-under-90-days-start-now-in-2024/"><u>Boost Channels to Partner Status in Under 90 Days, Start Now, In 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabled-iphone-14-pro-max-how-to-unlock-a-disabled-iphone-14-pro-max-drfone-by-drfone-ios/"><u>Disabled iPhone 14 Pro Max How to Unlock a Disabled iPhone 14 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-14-pro-max-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-iphone-14-pro-max-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 14 Pro Max Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-14-pro-max-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 14 Pro Max Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-peak-business-sky-storage-for-firms/"><u>In 2024, Peak Business Sky-Storage for Firms</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/in-2024-the-complete-mac-powered-guide-to-ootd-videography/"><u>In 2024, The Complete Mac-Powered Guide to OOTD Videography</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gopro-hero5-black-vs-yi-4k-latest-camera-showdown/"><u>In 2024, GoPro Hero5 Black VS Yi 4K - Latest Camera Showdown</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-top-10-elite-battle-royale-contenders/"><u>[Updated] Top 10 Elite Battle Royale Contenders</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-filmoras-quick-start-approach-for-youtube-trailers/"><u>[New] 2024 Approved  Filmora's Quick-Start Approach for YouTube Trailers</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-14-pro-max-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock iPhone 14 Pro Max Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-the-ultimate-list-of-green-themed-audio-apps-for-smartphones/"><u>Updated 2024 Approved The Ultimate List of Green-Themed Audio Apps for Smartphones</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-14-pro-max-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-camera-for-video-enthusiasts-nikons-j5-review/"><u>[Updated] The Ultimate Camera for Video Enthusiasts - Nikon's J5 Review</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-the-insiders-tale-to-tripling-instagram-traffic/"><u>2024 Approved  The Insider’s Tale to Tripling Instagram Traffic</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-iphone-14-pro-max-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your iPhone 14 Pro Max Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-14-pro-max-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your iPhone 14 Pro Max Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-14-pro-max-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot iPhone 14 Pro Max Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/did-your-iphone-14-pro-max-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your iPhone 14 Pro Max Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-efficient-strategies-to-log-facetime-discussions/"><u>[New] 2024 Approved  Efficient Strategies to Log FaceTime Discussions</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/audiovisual-excellence-the-premier-video-formats-for-youtube-for-2024/"><u>Audiovisual Excellence  The Premier Video Formats for YouTube for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-iphone-14-pro-max-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your iPhone 14 Pro Max? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Motorola Moto G04 | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/how-to-craft-engaging-trailers-that-drive-channels-sales-for-2024/"><u>How to Craft Engaging Trailers that Drive Channels' Sales for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-updated-analysis-of-sony-bdp-s6700/"><u>[New] Updated Analysis of Sony BDP-S6700</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-your-disabled-iphone-14-pro-max-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>Unlock Your Disabled iPhone 14 Pro Max Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-iphone-14-pro-max-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For iPhone 14 Pro Max Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-conquer-podcast-production-with-garageband-skills/"><u>[New] Conquer Podcast Production with GarageBand Skills</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/remove-device-supervision-from-your-iphone-14-pro-max-drfone-by-drfone-ios/"><u>Remove Device Supervision From your iPhone 14 Pro Max | Dr.fone</u></a></li>
+</ul></div>

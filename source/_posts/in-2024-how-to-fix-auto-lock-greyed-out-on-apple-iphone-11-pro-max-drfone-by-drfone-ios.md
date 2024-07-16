@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 11 Pro Max | Dr.fone
-date: 2024-05-19T07:27:42.712Z
-updated: 2024-05-20T07:27:42.712Z
+date: 2024-07-15T06:08:00.118Z
+updated: 2024-07-16T06:08:00.118Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Fix Auto Lock Greyed Out on Apple iPhone 11 Pro Max
 excerpt: This article describes How To Fix Auto Lock Greyed Out on Apple iPhone 11 Pro Max
 keywords: iphone 11 passcode bypass,iphone passcode changed itself,iphone 15 unlock,ios 17 lock screen,how to unlock iphone with itunes,how to remove passcode from iphone,doctorism unlock review,solve iphone randomly asking for apple id,how to unlock iphone without passcode or face id,forgot iphone pin,bypass ios 14 lock screen
-thumbnail: https://www.lifewire.com/thmb/dKnfJfS-2dMUMRX_ekaA971sdhs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-664800650-4349941504c24712b81975694798236b.jpg
+thumbnail: https://thmb.techidaily.com/f02c60ec75f846fa2b4ccaf9e1cd79d7d6223ca424f0cd6791d36a2f65c9d0a1.jpg
 ---
 
 ## How To Fix Auto Lock Greyed Out on Apple iPhone 11 Pro Max
@@ -158,6 +158,9 @@ Here are the steps on **how to change Auto-Lock on iPad** devices:
 
 - **Step 3:** A list of time options will appear, ranging from **2 minutes** to **15 minutes**, as well as **Never**. Select the time you want your iPad to wait before automatically locking the screen after inactivity. If you want the screen to stay on indefinitely, choose **Never**.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change auto lock on ipad](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-17.jpg)
 
 **Step 4:** Once you've selected your preferred auto-lock duration, you can exit the **Settings** app. The change will be applied automatically.
@@ -348,6 +351,9 @@ Beyond unlocking the iPhone, the swipe gesture also allowed for quick navigation
 
 Apple's design philosophy often revolves around clean, intuitive interfaces. The **swipe up to unlock** gesture aligns smoothly with this philosophy. It contributes to a visually appealing and user-friendly experience.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Security and Privacy
 
 The gesture served as a security measure, preventing accidental or unauthorized access to the iPhone. Moreover, users can confidently rely on this unlocking method to safeguard their personal data.
@@ -362,10 +368,16 @@ With the debut of iOS 14, Apple unveiled an innovative feature called Back Tap. 
 
 **Step 1.** To start, access the “Settings” on your iOS device. Once there, scroll down until you locate the “Accessibility” option and tap on it. On the following screen, select “Touch” to access Touch settings under the "Physical and Motor" section.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![access touch in accessibility](https://images.wondershare.com/drfone/article/2023/12/unlock-phone-without-swiping-up-1.jpg)
 
 **Step 2.** On the following screen, scroll down to the bottom and press "Back Tap." Now, either choose "Double Tap" or "Triple Tap" and select "Lock Screen" from the options under the "System" section.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enable back tap to lock screen](https://images.wondershare.com/drfone/article/2023/12/unlock-phone-without-swiping-up-2.jpg)
 
 ### Method 2: Unlock iPhone Without Swiping Up Using iPhone Screen Unlocker: Dr.Fone - Screen Unlock
@@ -374,7 +386,7 @@ If you've forgotten the passcode for your Apple iPhone 11 Pro Max and are unable
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone Without Swiping Up!
 
@@ -501,6 +513,9 @@ Utilizing Switch Control is an excellent accessibility feature on iOS devices. I
 
 **Step 3.** Set "Scanning Style" to "Single Switch Step Scanning" and adjust "Dwell Time" to the shortest duration. Then, turn off the remaining settings under Switch Control.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![reduce dwell time as needed](https://images.wondershare.com/drfone/article/2023/12/unlock-phone-without-swiping-up-10.jpg)
 
 **Step 4.** Save your switch, return to Accessibility Settings, and locate “Accessibility Shortcut.” Now, set triple-clicking the side button to activate “Switch Control.” On the home screen, triple-click the Side button, as previously set, to activate the switch on your Apple iPhone 11 Pro Max. Now, lock the Apple iPhone 11 Pro Max screen and then wake the Apple iPhone 11 Pro Max device without looking at it.
@@ -532,3 +547,68 @@ While these methods are helpful, there's a software called Wondershare Dr.Fone t
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-13-lock-screen-drfone-by-drfone-ios/"><u>How To Remove Flashlight From iPhone 13 Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-peakpixel-optimizer-windows-mac-and-online/"><u>[Updated] PeakPixel Optimizer  Windows, Mac & Online</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-iphone-xs-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From iPhone XS? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-realme-c67-4g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Realme C67 4G to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-huawei-nova-y91-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Huawei Nova Y91 for Parents | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-iphone-xr-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your iPhone XR Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6-plus-to-other-iphone-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6 Plus to other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-8-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone 8 when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unveiling-hottest-fifa-football-content-on-youtube/"><u>2024 Approved  Unveiling Hottest FIFA Football Content on YouTube</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-iphone-11-pro-max-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From iPhone 11 Pro Max? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-8-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your iPhone 8 Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-8-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-iphone-xs-max-drfone-by-drfone-ios/"><u>How To Unlock A Found iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-infinix-note-30-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Infinix Note 30 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-how-to-achieve-crystal-clear-sound-without-background-ruckus-in-audacity/"><u>[Updated] How to Achieve Crystal Clear Sound Without Background Ruckus in Audacity</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-iphone-se-2020-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From iPhone SE (2020)? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/a-complete-overview-about-nero-waveeditor-for-2024/"><u>A Complete Overview About Nero WaveEditor for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-13-mini-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-apple-iphone-12-pro-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your Apple iPhone 12 Pro Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-apple-iphone-xs-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your Apple iPhone XS Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-13-mini-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone 13 mini? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-xs-max-lock-screen-drfone-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone XS Max Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-11-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-xs-max-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-ideal-webcams-elevating-podcast-production/"><u>[Updated] 2024 Approved  Ideal Webcams Elevating Podcast Production</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-11-pro-lock-screen-drfone-by-drfone-ios/"><u>How To Remove Flashlight From iPhone 11 Pro Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-7-plus-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-11-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/pre-upload-best-practices-to-maintain-tiktoks-integrity/"><u>Pre-Upload Best Practices to Maintain TikTok's Integrity</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/stock-strategy-streams-the-most-valuable-online-sources/"><u>Stock Strategy Streams  The Most Valuable Online Sources</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-iphone-12-pro-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From iPhone 12 Pro? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/dramatic-footage-showdown-hero5-against-star/"><u>Dramatic Footage Showdown  Hero5 Against Star</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-infinix-smart-8-plus-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Infinix Smart 8 Plus FRP Bypass Instantly</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-iphone-xr-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From iPhone XR? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-x-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your iPhone X Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-cutting-the-cord-on-costs-select-best-free-yt-title-makers/"><u>[Updated] In 2024, Cutting the Cord on Costs - Select Best-Free YT Title Makers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-cutting-edge-webcam-utilization-at-home/"><u>[Updated] In 2024, Cutting-Edge Webcam Utilization at Home</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-xs-drfone-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-xr-lock-screen-drfone-by-drfone-ios/"><u>How To Remove Flashlight From iPhone XR Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-apple-iphone-8-plus-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your Apple iPhone 8 Plus Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-6-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone 6? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-tailoring-content-to-trends-organic-growth-strategies-for-youtubers/"><u>[New] Tailoring Content to Trends  Organic Growth Strategies for YouTubers</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-11-drfone-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-iphone-se-2020-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My iPhone SE (2020) when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-13-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone 13 when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ative-strategies-for-youtube-video-closures/"><u>Innovative Strategies for YouTube Video Closures</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/how-to-add-music-to-gif-on-win-for-2024/"><u>How To Add Music To Gif On Win for 2024</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-bridging-iphone-and-tiktok-mastering-siri-voice-commands/"><u>[New] In 2024, Bridging iPhone and TikTok  Mastering Siri Voice Commands</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-12-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your iPhone 12 Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-zte-frp-bypass-by-drfone-android/"><u>Ultimate Guide from ZTE FRP Bypass</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-apple-iphone-se-2020-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your Apple iPhone SE (2020) Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-make-a-difference-youtubes-quick-thumbnail-guide/"><u>In 2024, Make a Difference  YouTube's Quick Thumbnail Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-apple-iphone-8-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your Apple iPhone 8 Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-iphone-xs-max-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From iPhone XS Max? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-se-2020-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-12-pro-max-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your iPhone 12 Pro Max Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-12-mini-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/fundamentals-of-designing-high-converting-snap-ads-for-2024/"><u>Fundamentals of Designing High-Converting Snap Ads for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-iphone-x-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My iPhone X when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-unlocking-the-potential-of-edu-vids-strategies-for-captivating-your-viewers-on-youtube/"><u>[New] In 2024, Unlocking the Potential of Edu-Vids  Strategies for Captivating Your Viewers on YouTube</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-z-flip-5-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy Z Flip 5 to Other Android Devices? | Dr.fone</u></a></li>
+</ul></div>

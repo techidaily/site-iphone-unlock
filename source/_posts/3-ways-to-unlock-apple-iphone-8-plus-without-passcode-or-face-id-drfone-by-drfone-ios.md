@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Unlock Apple iPhone 8 Plus without Passcode or Face ID | Dr.fone
-date: 2024-04-02T07:10:18.387Z
-updated: 2024-04-03T07:10:18.387Z
+date: 2024-07-15T08:04:54.856Z
+updated: 2024-07-16T08:04:54.856Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes 3 Ways to Unlock Apple iPhone 8 Plus without Passcode or Face ID
 excerpt: This article describes 3 Ways to Unlock Apple iPhone 8 Plus without Passcode or Face ID
 keywords: iphone backup unlocker,how to unlock iphone to use usb accessories,erase iphone when locked,how to unlock iphone without passcode,unlock lost phone,iphone locked to owner
-thumbnail: https://www.lifewire.com/thmb/KQEPD1j8h_qKr2PB3tJ6qZQQ508=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-104626001-5c34f065c9e77c00010b8cd5.jpg
+thumbnail: https://thmb.techidaily.com/ffa6265ad1a6a848473605e7aedcfa3ec46ffbe39326ff49e8d4fafd11fa0e00.jpg
 ---
 
 ## 3 Ways to Unlock Apple iPhone 8 Plus without Passcode or Face ID
@@ -38,7 +38,7 @@ It is compatible with all the leading iOS devices, including the latest models l
 
 
 
-### [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock
 
 Remove iPhone Lock Screen without Hassle.
 
@@ -83,13 +83,16 @@ After proving the relevant information, click on the “Download” button and w
 
 Once the respective firmware update has been downloaded, you will be notified. To fix your Apple iPhone 8 Plus won’t unlock, click on the “Unlock Now” button.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock iphone xs](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
 Sit back and wait for a while as the application will restart your device. There won’t be any lock on the Apple iPhone 8 Plus device now, and you can access it without any trouble.
 
 In this way, you can learn how to [unlock iPhone without a passcode](https://drfone.wondershare.com/solutions/iphone-lock-screen-password-forgot.html) or Face ID. Though, you should know that the existing data on your phone would be erased. Sadly, there is no solution to unlock an iOS device without deleting its existing data. Therefore, this is a risk you need to take if you wish to unlock your iOS device.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 2: How to unlock Apple iPhone 8 Plus with iTunes?
 
@@ -157,6 +160,9 @@ Just like Find my iPhone, Find my Friends is a native location-sharing feature d
 
 In this way, if your device is stolen, you can track it immediately with the help of your friends.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![unlock iphone xs without passcode](https://images.wondershare.com/drfone/article/2018/unlock-iphone-x-without-passcode-6.jpeg)
 
 **5.3 Enable two-factor authentication**
@@ -173,7 +179,7 @@ Go to Settings > Face ID & Passcode and turn on the “Erase Data” option. Tho
 
 When you know how to unlock Apple iPhone 8 Plus without the passcode, you can easily fulfill your requirements. Out of all the provided options, [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is recommended. This is because using the Dr.Fone toolkit is extremely easy. You won’t face any compatibility issues or need to have the technical experience to use this reliable tool. Try it for free and download it on your system to bypass a locked Apple iPhone 8 Plus right away.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## How to Unlock Apple iPhone 8 Plus Passcode Screen?
 
@@ -189,7 +195,7 @@ You might be anxious if you have locked your Apple iPhone 8 Plus and forgotten t
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone Passcode Screen.
 
@@ -328,6 +334,9 @@ If you do not have any potential source for unlocking your Apple iPhone 8 Plus, 
 
 **Step 4:** Fill out the “To” box with some characters and click on “Return” on your keyboard. You need to press the Home button or swipe up according to your Apple iPhone 8 Plus model. The home page of your Apple iPhone 8 Plus will be accessed successfully.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![return to iphone home page](https://images.wondershare.com/drfone/article/2022/04/unlock-iphone-passcode-screen-13.jpg)
 
 **Pros**
@@ -362,6 +371,9 @@ No, Apple cannot reset the forgotten iPhone passcode. However, they will help yo
 
 Human beings are clumsy, and they often forget passcodes to their devices. However, there is no need to panic as technology has progressed enough to offer loopholes in the situations. The article presented multiple methods to bypass iPhone passcode and steer clear of this mess. Some frequently asked questions were also answered regarding the Apple iPhone 8 Plus screen lock.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How To Unlock Apple iPhone 8 Plus Without Passcode? 4 Easy Methods
 
 The Apple iPhone 8 Plus are high-end smartphones with many features and capabilities. However, if you forget your passcode, these phones are nothing more than a paperweight. So, if you have also forgotten your passcode, you may be wondering how to unlock your Apple iPhone 8 Plus 11/12 or 13 without a passcode.
@@ -454,13 +466,16 @@ But this method will not work on newer iPhones 11/12/13 and iPhone 14 because th
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone Without Passcode.
 
 - Simple, click-through process.
 - Unlock screen passwords from all iPhones and iPad.
 - No tech knowledge is required. Everybody can handle it.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - Supports iPhone 14/13/12/XS (Max) / iPhone XR / iPhone X / 8 (Plus)/ iPhone 7(Plus)/ iPhone6s(Plus), iPhone SE, and the latest iOS version fully!![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 
 **4,395,217** people have downloaded it
@@ -535,3 +550,64 @@ If you're not interested in using a third-party tool, you can try one of the met
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-13-pro-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone 13 Pro when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-vivo-y27s-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Vivo Y27s Location | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-unified-platforms-for-sharing-videos/"><u>[New] In 2024, Unified Platforms for Sharing Videos</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-automate-your-transcriptions-how-to-turn-speech-into-text-for-2024/"><u>New Automate Your Transcriptions How to Turn Speech Into Text for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-13-pro-drfone-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-say-goodbye-to-aspect-ratio-confusion-the-ultimate-facebook-video-guide/"><u>Updated Say Goodbye to Aspect Ratio Confusion The Ultimate Facebook Video Guide</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-digging-through-youtube-conversations/"><u>[Updated] 2024 Approved  Digging Through YouTube Conversations</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-13-pro-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone 13 Pro? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-13-pro-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-speakers-file-extract-and-analysis/"><u>[New] Speaker's File Extract & Analysis</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-13-pro-passcode-without-a-computer-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone 13 Pro Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-lenovo-thinkphone-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Lenovo ThinkPhone Phone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-stepwise-guide-integrating-subtitles-into-your-vimeo-content-for-2024/"><u>[Updated] Stepwise Guide  Integrating Subtitles Into Your Vimeo Content for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabling-apple-iphone-13-pro-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>Disabling Apple iPhone 13 Pro Parental Restrictions With/Without Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-13-pro-without-itunes-drfone-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 13 Pro Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-locked-apple-iphone-13-pro-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>Forgot Locked Apple iPhone 13 Pro Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/apple-iphone-13-pro-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>Apple iPhone 13 Pro Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-samsung-galaxy-s23-tactical-edition-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Samsung Galaxy S23 Tactical Edition for Free? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-nokia-c02-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Nokia C02</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-superior-panzoid-constructs-guide/"><u>[New] In 2024, Superior Panzoid Constructs Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-12-essential-animation-makers-to-elevate-your-video-content-for-2024/"><u>Updated 12 Essential Animation Makers to Elevate Your Video Content for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-list-timely-humor-for-various-gatherings-for-2024/"><u>Ultimate List  Timely Humor for Various Gatherings for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-13-pro-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 13 Pro with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-the-lock-screen-on-my-poco-f5-pro-5g-by-drfone-android-unlock-android-unlock/"><u>How to Unlock the Lock Screen on my Poco F5 Pro 5G</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-13-pro-drfone-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/unveiling-the-reason-why-apple-forgoes-metaverse-quest/"><u>Unveiling the Reason: Why Apple Forgoes Metaverse Quest</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/is-your-apple-iphone-13-pro-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your Apple iPhone 13 Pro in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-apple-iphone-13-pro-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock Apple iPhone 13 Pro with iTunes | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-unfolding-the-future-drones-in-modern-and-next-era/"><u>[Updated] Unfolding the Future  Drones in Modern and Next Era</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-13-pro-with-7-methods-drfone-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone 13 Pro With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/4-ways-to-unlock-apple-iphone-13-pro-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>4 Ways to Unlock Apple iPhone 13 Pro to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-13-pro-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone 13 Pro After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-rewind-and-play-the-quintet-of-best-opposite-direction-melodies-for-2024/"><u>Updated Rewind and Play The Quintet of Best Opposite-Direction Melodies for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-apple-iphone-13-pro-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix Apple iPhone 13 Pro Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/your-account-has-been-disabled-in-the-app-store-and-itunes-on-iphone-se-by-drfone-ios/"><u>Your Account Has Been Disabled in the App Store and iTunes On iPhone SE?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-mastering-fixes-for-stuck-instagram-videos/"><u>[Updated] In 2024, Mastering Fixes for Stuck Instagram Videos</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/can-you-unlock-apple-iphone-13-pro-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>Can You Unlock Apple iPhone 13 Pro After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-apple-iphone-se-2022-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Apple iPhone SE (2022) iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://windows11.techidaily.com/tech-enthusiasts-rejoice-black-friday-offer-for-lifetime-612-windows-11-savings/"><u>Tech Enthusiasts Rejoice - Black Friday Offer for Lifetime $6.12 Windows 11 Savings</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-apple-iphone-13-pro-5-ways-to-get-into-a-locked-apple-iphone-13-pro-drfone-by-drfone-ios/"><u>Locked Out of Apple iPhone 13 Pro? 5 Ways to get into a Locked Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-13-pro-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-text-motion-tracking-expert-approved-software/"><u>Updated Text Motion Tracking Expert-Approved Software</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-13-pro-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 Pro, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-in-2024-optimizing-your-discord-adventure-essentials-to-explore/"><u>[Updated] In 2024, Optimizing Your Discord Adventure  Essentials to Explore</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-navigating-music-production-with-magix-boom-3d/"><u>[Updated] In 2024, Navigating Music Production with Magix Boom 3D</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-20-must-know-adobe-premiere-pro-shortcuts-for-editors/"><u>Updated 2024 Approved 20 Must-Know Adobe Premiere Pro Shortcuts for Editors</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/mastering-autotune-effects-a-guide-for-audacity-users/"><u>Mastering AutoTune Effects A Guide for Audacity Users</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-masterclass-in-muting-and-dismantling-an-instagram-account/"><u>[Updated] In 2024, Masterclass in Muting & Dismantling an Instagram Account</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-13-pro-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock Apple iPhone 13 Pro Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-apple-iphone-13-pro-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on Apple iPhone 13 Pro With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-13-pro-drfone-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-13-pro-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-the-iphone-12-pro-max-sim-lock-4-easy-methods-by-drfone-ios/"><u>In 2024, How To Unlock The iPhone 12 Pro Max SIM Lock 4 Easy Methods</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-apple-iphone-13-pro-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix Apple iPhone 13 Pro Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-13-pro-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>Unlock Apple iPhone 13 Pro With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-erase-apple-iphone-13-pro-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>3 Ways to Erase Apple iPhone 13 Pro When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-13-pro-drfone-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone 13 Pro | Dr.fone</u></a></li>
+</ul></div>

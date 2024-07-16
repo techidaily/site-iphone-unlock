@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Unlock Apple iPhone XS Without Swiping Up? 6 Ways | Dr.fone
-date: 2024-05-19T07:27:29.599Z
-updated: 2024-05-20T07:27:29.599Z
+date: 2024-07-15T05:47:11.521Z
+updated: 2024-07-16T05:47:11.521Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How To Unlock Apple iPhone XS Without Swiping Up? 6 Ways
 excerpt: This article describes How To Unlock Apple iPhone XS Without Swiping Up? 6 Ways
 keywords: doctorism unlock review,iphone asking for outlook password,remove iphone from blacklist,iphone lock screen with notifications,iphone auto lock greyed out,turn off restricted mode,how to unlock iphone 12,iphone x iphone xr lock screen,forgot locked note password
-thumbnail: https://www.lifewire.com/thmb/M6MEEf2A7TVTzphPjYFZQ34ewjs=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/man-attaching-action-camera-to-chest-664655587-5c8c2559c9e77c0001ac184b.jpg
+thumbnail: https://thmb.techidaily.com/9420d8c67dc649498f45244e433ec706e66933c2bf2f2b4b3c5585601cba7b98.jpg
 ---
 
 ## How To Unlock Apple iPhone XS Without Swiping Up? 6 Ways
@@ -42,10 +42,16 @@ Apple's design philosophy often revolves around clean, intuitive interfaces. The
 
 The gesture served as a security measure, preventing accidental or unauthorized access to the iPhone. Moreover, users can confidently rely on this unlocking method to safeguard their personal data.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: 6 Common Ways To Unlock iPhone Without Swiping Up
 
 For an extended period, the primary method to unlock an iPhone involved swiping up. Nonetheless, if you wish to explore alternative methods, it's entirely feasible. Various methods have emerged over time to **open the Apple iPhone XS without swiping up**.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1: Unlock iPhone without Swiping Up with Enable Back Tap
 
 With the debut of iOS 14, Apple unveiled an innovative feature called Back Tap. It provides users with a method to engage with their iPhones by tapping the Apple iPhone XS device's rear surface. This innovative functionality can be configured to perform various actions. It includes **unlocking the phone without a swiping-up** gesture. Follow these steps to set up and use the Back Tap feature for unlocking your Apple iPhone XS:
@@ -64,7 +70,7 @@ If you've forgotten the passcode for your Apple iPhone XS and are unable to acce
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone Without Swiping Up!
 
@@ -103,6 +109,9 @@ After this step, enter Recovery Mode on your iDevice by following the specific o
 
 The screen will showcase the download progress of the iOS firmware on the platform. Once the iOS firmware download is completed, it undergoes verification. Proceed by selecting the "Unlock Now" button to initiate the unlocking process. A prompt window will appear, requesting confirmation for the process. Enter the necessary code and tap on "Unlock" to proceed. Upon successful unlocking of the iDevice, click "Done" to complete the process.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![lock screen removal process completed](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
 
@@ -382,6 +391,18 @@ So, let's get started.
 
 Unlocking an iPhone seems challenging, especially when it's not yours, but it's not impossible. You have various ways to unlock a found iPhone, but most are a waste of time. So, to save time and energy, we have compiled 3 efficient ways to unlock a found iPhone.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![i found an iphone how do i unlock it](https://images.wondershare.com/drfone/article/2022/11/i-found-an-iphone-how-do-i-unlock-it-1.jpg)
 
 These methods will be easy to follow because of the detailed step-by-step guide.
@@ -458,6 +479,9 @@ Here are the simple steps that can help you.
 4. Now, put your Apple iPhone XS in DFU mode or Recovery mode according to your Apple iPhone XS model.
 5. If you have no idea about it, don't worry. The software will provide on-screen instructions to help you put your Apple iPhone XS in DFU mode or Recovery mode.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![dfu mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 6. Once your Apple iPhone XS is in DFU mode or Recovery mode, the software will ask you to start downloading the necessary firmware for your device. So, choose an appropriate firmware according to the Apple iPhone XS model.
@@ -534,3 +558,63 @@ Dr.Fone-Screen Unlock is one of the most effective ways can help you to unlock a
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/including-youtube-playlist-content-a-step-by-step-tutorial/"><u>Including YouTube Playlist Content  A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-se-drfone-by-drfone-ios/"><u>How to Unlock iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premier-podplay-writing-treasures/"><u>[Updated] Premier Podplay Writing Treasures</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-se-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>Unlock iPhone SE With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-game-of-thrones-ringtones-15-best-websites-reviewed-and-ranked/"><u>2024 Approved  Game of Thrones Ringtones  15 Best Websites Reviewed and Ranked</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/resolve-your-iphone-se-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your iPhone SE Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-iphone-se-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For iPhone SE Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-essential-windows-10-audio-handbook/"><u>In 2024, The Essential Windows 10 Audio Handbook</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/1716464690080-autoplay-youtube-on-mobile-no-distractions/"><u>AutoPlay YouTube on Mobile, No Distractions!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-se-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your iPhone SE Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-iphone-se-5-ways-to-get-into-a-locked-iphone-se-drfone-by-drfone-ios/"><u>Locked Out of iPhone SE? 5 Ways to get into a Locked iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-iphone-se-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From iPhone SE? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-se-drfone-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-precision-in-photos-mastering-insta-story-zoom-levels/"><u>[Updated] Precision in Photos  Mastering Insta Story Zoom Levels</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-blend-media-items-for-enhanced-youtube-organization/"><u>[Updated] Blend Media Items for Enhanced YouTube Organization</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/4-ways-to-unlock-iphone-se-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>4 Ways to Unlock iPhone SE to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-pureaiediting-refined-photo-craftsmanship-for-2024/"><u>[New] PureAiEditing  Refined Photo Craftsmanship for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-se-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock iPhone SE without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-best-android-simulator-options-macpc-a-comprehensive-list/"><u>[Updated] Best Android Simulator Options (Mac/PC)  A Comprehensive List</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-se-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock iPhone SE, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-s17-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo S17 to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-iphone-se-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My iPhone SE when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-se-drfone-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/is-your-iphone-se-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your iPhone SE in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-se-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix iPhone SE Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-iphone-se-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone SE with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-se-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-iphone-se-drfone-by-drfone-ios/"><u>How To Unlock A Found iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-iphone-se-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My iPhone SE After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-navigating-the-tech-maze-screen-casting-sessions/"><u>[Updated] In 2024, Navigating the Tech Maze  Screen Casting Sessions</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-se-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot iPhone SE Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-asmr-explained-why-it-might-be-good-for-you/"><u>[New] ASMR Explained  Why It Might Be Good For You</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-embrace-creativity-how-to-attain-filmora-fcc-accreditation/"><u>[Updated] Embrace Creativity  How to Attain Filmora FCC Accreditation</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-the-ultimate-method-for-making-tiktok-audio-your-ringtone/"><u>2024 Approved  The Ultimate Method for Making TikTok Audio Your Ringtone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-se-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-list-of-5-youtube-competitor-editors/"><u>[New] The Ultimate List of 5 YouTube Competitor Editors</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-motorola-moto-g84-5g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Motorola Moto G84 5G FRP Locks</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-srt-mastery-advanced-techniques-for-mac-users/"><u>2024 Approved  SRT Mastery  Advanced Techniques for Mac Users</u></a></li>
+<li><a href="https://video-capture.techidaily.com/top-5-emulators-the-ultimate-guide-for-classic-ps1-games-on-pc/"><u>Top 5 Emulators  The Ultimate Guide for Classic PS1 Games on PC</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-se-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock iPhone SE Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-oppo-a1x-5g-by-fonelab-android-recover-video/"><u>How to recover old videos from your Oppo A1x 5G</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-unleash-the-potential-of-your-gopro-streaming-made-easy-on-facebookperiscope/"><u>In 2024, Unleash the Potential of Your Gopro  Streaming Made Easy on Facebook/Periscope</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/quick-guide-best-ways-to-recognize-sound-in-windows-11-devices-for-2024/"><u>Quick Guide  Best Ways to Recognize Sound in Windows 11 Devices for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-locked-iphone-se-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>Forgot Locked iPhone SE Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Motorola Moto G73 5G? | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-stepwise-guide-to-establishing-a-seamless-skype-discussion-among-multiple-users-in-different-systems/"><u>In 2024, Stepwise Guide to Establishing a Seamless Skype Discussion Among Multiple Users in Different Systems</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-iphone-se-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock iPhone SE with iTunes | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-se-passcode-without-a-computer-drfone-by-drfone-ios/"><u>Unlocking iPhone SE Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-se-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone SE Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-minute-movie-narrative-blueprint/"><u>[Updated] Minute Movie Narrative Blueprint</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-iphone-se-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your iPhone SE When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-se-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/passfab-iphone-se-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab iPhone SE Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/can-you-unlock-iphone-se-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>Can You Unlock iPhone SE After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-se-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-instagram-video-to-mp3-converting-hacks/"><u>[Updated] 2024 Approved  Instagram Video-to-MP3 Converting Hacks</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Turn Off Find My Apple iPhone 12 mini when Phone is Broken? | Dr.fone
-date: 2024-05-19T07:27:55.812Z
-updated: 2024-05-20T07:27:55.812Z
+date: 2024-07-15T06:28:31.056Z
+updated: 2024-07-16T06:28:31.056Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Turn Off Find My Apple iPhone 12 mini when Phone is Broken?
 excerpt: This article describes How to Turn Off Find My Apple iPhone 12 mini when Phone is Broken?
 keywords: iphone passcode not working after update ios 13,iphone swipe up not working,solve iphone randomly asking for apple id,unlock iphone 5 passcode without itunes,unlock iphone passcode,unlock iphone 14,how to unlock iphone without passcode or face id,how to unlock iphone to use usb accessories,get out of security lockout,iphone 11 passcode bypass,bypass apple store verification
-thumbnail: https://www.lifewire.com/thmb/vPFd-AMhh9AKItKjaheXQPgowy4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SDC18_Keynote_OneUI-5be8d33f46e0fb002d108acf.jpg
+thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4e4c1c2d693991f9d3085553.jpg
 ---
 
 ## How to Turn Off Find My Apple iPhone 12 mini when Phone is Broken?
@@ -34,7 +34,7 @@ The best part about this application is that it is free of cost. It usually come
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Turning Off Find My iPhone Within Second.
 
@@ -107,6 +107,9 @@ Here we have explained to you step by step how to turn off Find My iPhone on bro
 
 **Step 4:** Once your device is removed from the account, a window will pop up asking you to delete the option of that device from your iCloud account. Now you may log in Find My iPhone with your iCloud account on another device.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![confirm removal](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-3.jpg)
 
 ## Part 4: Turn off Find My iPhone using Recovery Mode
@@ -139,6 +142,9 @@ Now we’re done as we’ve provided you the best possible solutions to turn off
 
 It has happened to all of us at some point in the other. The chances of it happening are notoriously higher when you just started using it. We are talking of passcodes on iPhones. Apple requires setting up a 6-digit passcode to use some features such as Face ID on your Apple iPhone 12 mini. So, you thought it was a great idea to set up your new Apple iPhone 12 mini with a new passcode, right? The only problem is that the 6 digits you thought are bulletproof and no one will be able to come up with them in relation to you, are not coming to you either. You forgot the newly set passcode, entered the incorrect passcode more times than the software was happy about, and the Apple iPhone 12 mini is locked now. What to do? Read on.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part I: Why Is Your Apple iPhone 12 mini Locked?
 
 There can be a few reasons why your Apple iPhone 12 mini is locked, the primary ones being that you bought a second-hand Apple iPhone 12 mini from someone who set it up with a passcode and decided it wasn't for them and was nonchalant enough to sell it to you without removing the passcode from the Apple iPhone 12 mini, or that you forgot the passcode to your new Apple iPhone 12 mini and entered it incorrectly a few times. In any case, help is at hand.
@@ -149,7 +155,7 @@ We understand how frustrating it can be when your newly purchased Apple iPhone 1
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -200,6 +206,9 @@ Step 2: Under Find My (or Find My iPhone if you are using the iCloud website), s
 
 That's it. You will have wiped and unlocked your Apple iPhone 12 mini and it will start with factory settings. Note that this works only if the Apple iPhone 12 mini was connected to Find My in the first place. If not, then you always have Dr.Fone - Screen Unlock (iOS) to help you out.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### II.III Put The Apple iPhone 12 mini in Recovery Mode
 
 You can unlock your Apple iPhone 12 mini using Recovery Mode, yourself.
@@ -258,6 +267,9 @@ Like most iPhone users, you rely on your lock screen to keep your data safe and 
 
 We'll explain to you how to use the new features, protect your data, and more. So don't waste any time - read on for all the details!
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Have a Customized iOS 17 Lock Screen?
 
 Before we get started, you should know that there are three ways to have a customized lock screen in iOS 17. Let's get to know more about them.
@@ -282,6 +294,9 @@ If you want to manage notifications on the iOS 17 lock screen, there are two way
 
 At first, you can go to Settings > Notifications. Here, you can choose how many notifications you want to see on your lock screen and which apps can send you notifications.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
 ![lock screen notification setting](https://images.wondershare.com/drfone/article/2022/11/ios-15-lock-screen-3.jpg)
 
 The Do Not Disturb feature is the second way to manage notifications. To do this, go to Settings > Do Not Disturb and enable the feature. You can also schedule when Do Not should turn on and off. This feature work like a charm if you want to silence all notifications at night.
@@ -441,3 +456,46 @@ So, if you are looking for a hassle-free solution to fix your lock screen issues
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-14-pro-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>How To Unlock iPhone 14 Pro Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-your-disabled-iphone-14-pro-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>Unlock Your Disabled iPhone 14 Pro Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-dive-into-digital-assets-filmmoras-route-to-profit-on-tiktok-for-2024/"><u>[Updated] Dive Into Digital Assets  Filmmora's Route to Profit on TikTok for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-dissecting-the-language-and-significance-of-pfp-on-tiktok/"><u>[Updated] In 2024, Dissecting the Language and Significance of 'PFP' On TikTok</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabled-iphone-14-pro-how-to-unlock-a-disabled-iphone-14-pro-drfone-by-drfone-ios/"><u>Disabled iPhone 14 Pro How to Unlock a Disabled iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-cutting-edge-techniques-for-captivating-online-advertising/"><u>2024 Approved  Cutting-Edge Techniques for Captivating Online Advertising</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-14-pro-lock-screen-drfone-by-drfone-ios/"><u>How To Remove Flashlight From iPhone 14 Pro Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/breakthrough-social-media-moves-sharing-youtube-videos-to-fb-for-2024/"><u>Breakthrough Social Media Moves  Sharing YouTube Videos to FB for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/did-your-iphone-14-pro-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your iPhone 14 Pro Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enabling-managed-users-and-groups-in-win1110-homes/"><u>Enabling Managed Users and Groups in Win11/10 Homes</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-iphone-14-pro-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your iPhone 14 Pro Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/perfect-video-demos-in-adobe-captivate/"><u>Perfect Video Demos in Adobe Captivate</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-14-pro-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-14-pro-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock iPhone 14 Pro Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-seamless-live-broadcasting-on-facebook-a-simple-guide/"><u>[Updated] Seamless Live Broadcasting on Facebook  A Simple Guide</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/elevate-your-ppt-shows-with-advanced-techniques/"><u>Elevate Your PPT Shows with Advanced Techniques</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-elevate-visual-narratives-on-tiktok-the-top-5-proven-text-techniques/"><u>2024 Approved  Elevate Visual Narratives on TikTok  The Top 5 Proven Text Techniques</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-14-pro-properly-drfone-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 14 Pro Properly | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-iphone-14-pro-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 14 Pro Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-mastering-video-chat-on-snapchat-a-3-step-guide-to-efficiency/"><u>[Updated] 2024 Approved  Mastering Video Chat on Snapchat  A 3-Step Guide to Efficiency</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-mastery-in-saving-lesson-content/"><u>2024 Approved  Mastery in Saving Lesson Content</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/trouble-with-iphone-14-pro-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with iPhone 14 Pro Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-14-pro-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-14-pro-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 14 Pro Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/unveiling-the-button-tap-acoustic-signature/"><u>Unveiling the Button Tap Acoustic Signature</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/remove-device-supervision-from-your-iphone-14-pro-drfone-by-drfone-ios/"><u>Remove Device Supervision From your iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-iphone-14-pro-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your iPhone 14 Pro? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-top-free-avi-video-rotation-software-and-online-tools-compared/"><u>New 2024 Approved Top Free AVI Video Rotation Software and Online Tools Compared</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-master-list-of-male-to-female-voice-change-programs-for-windows-and-macos-enthusiasts-for-2024/"><u>New Master List of Male to Female Voice Change Programs for Windows and macOS Enthusiasts for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-14-pro-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>iPhone 14 Pro Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-can-i-remove-the-apple-watch-activation-lock-by-iphone-12-pro-max-without-the-previous-owner-by-drfone-ios/"><u>In 2024, Can I Remove the Apple Watch Activation Lock By iPhone 12 Pro Max without the Previous Owner?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-a56s-5g-bootloader-easily-by-drfone-android/"><u>How to Unlock Oppo A56s 5G Bootloader Easily</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-samsung-galaxy-a24-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Samsung Galaxy A24 to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-14-pro-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 14 Pro in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-14-pro-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone 14 Pro Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-keep-your-tweets-compliant-with-aspect-ratio-requirements-for-2024/"><u>[New] Keep Your Tweets Compliant with Aspect Ratio Requirements for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-speed-up-your-story-two-easy-ways-to-create-stunning-time-lapse-videos/"><u>Updated Speed Up Your Story Two Easy Ways to Create Stunning Time Lapse Videos</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-iphone-14-pro-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve iPhone 14 Pro Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-iphone-14-proipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled iPhone 14 Pro/iPad Without Computer | Dr.fone</u></a></li>
+</ul></div>

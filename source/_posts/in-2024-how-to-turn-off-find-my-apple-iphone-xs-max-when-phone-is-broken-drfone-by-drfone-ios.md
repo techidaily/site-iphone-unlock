@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Turn Off Find My Apple iPhone XS Max when Phone is Broken? | Dr.fone
-date: 2024-04-07T12:47:19.328Z
-updated: 2024-04-08T12:47:19.328Z
+date: 2024-07-15T08:16:43.057Z
+updated: 2024-07-16T08:16:43.057Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Turn Off Find My Apple iPhone XS Max when Phone is Broken?
 excerpt: This article describes How to Turn Off Find My Apple iPhone XS Max when Phone is Broken?
 keywords: forgot passcode on iphone,erase iphone when locked,iphone auto lock greyed out,change country on iphone app store,get into locked iphone,unlock apple watch
-thumbnail: https://www.lifewire.com/thmb/he26hNDyU2vpo9vDwma05qKk-R8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/espnplus-6d79c347f2df42d7a38cdb0ba9a2472b.jpg
+thumbnail: https://thmb.techidaily.com/1296bc6cf3d8ba602cee83fbaf9d9aae0f41d750526e3d62954932be609de318.jpg
 ---
 
 ## How to Turn Off Find My Apple iPhone XS Max when Phone is Broken?
@@ -34,7 +34,7 @@ The best part about this application is that it is free of cost. It usually come
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Turning Off Find My iPhone Within Second.
 
@@ -85,6 +85,9 @@ Click on “Start Unlock” to proceed. Once the process is started, you have to
 
 As your activation lock is removed, go to the settings and remove your Apple ID. Consequently, Find My iPhone will be disabled.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![activation lock removed](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
 
 ## Part 3: How to Turn Off Find My iPhone on Broken iPhone Using iCloud?
@@ -129,8 +132,14 @@ Once your Apple iPhone XS Max shows the Apple logo, it means the Recovery Mode i
 
 **Step 3:** Now click on “Restore” so iTunes can download software on your Apple iPhone XS Max. Once the process is completed, you can set up your Apple iPhone XS Max as new. This means your previous data will be erased, and Find My iPhone will be disabled automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![tap on restore option](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Conclusion
 
 Now we’re done as we’ve provided you the best possible solutions to turn off Find My iPhone when your Apple iPhone XS Max is broken. It is obvious that it is a quite complicated process, but you have to be patient and follow the steps correctly to disable Find My Apple iPhone XS Max to avoid any inconvenience in the future. We hope this article answers all your queries regarding it.
@@ -152,7 +161,7 @@ The tool provides users with the convenience of checking if their device is blac
 ### Key Features of doctorSIM
 
 1. It allows you to check the SIM lock status and warranty status of your iOS device.
-2. doctorSIM can also help you check the [iCloud Activation Lock](https://drfone.wondershare.com/ios-16/how-to-bypass-icloud-activation-lock-screen-on-ios-16.html)Status and MI Account Activation Status.
+2. doctorSIM can also help you check the [iCloud Activation Lock](https://drfone.wondershare.com/ios-16/how-to-bypass-icloud-activation-lock-screen-on-ios-16.html) Status and MI Account Activation Status.
 3. Along with the old devices, this service is also compatible with the latest models, such as the Apple iPhone XS Max 15 series,
 
 ### Pros
@@ -175,11 +184,14 @@ The tool provides users with the convenience of checking if their device is blac
 
 - **Step 2.** On the following screen, scroll down to choose your smartphone model, followed by your country and network carrier. Next, choose the "Service" you want to use, provide an IMEI number, agree to the terms, and click "Next."
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose country and carrier](https://images.wondershare.com/drfone/article/2024/01/doctor-sim-unlock-reviews-3.jpg)
 
 - **Step 3.** This will take you to the next screen, where you can view the "Summary" of your order. If everything is all right, press “Next” to move to payments to pay the charges via Credit Card or Crypto. Afterward, wait for the process to complete, which can take days.
 
-![review order summary ](https://images.wondershare.com/drfone/article/2024/01/doctor-sim-unlock-reviews-4.jpg)
+![review order summary](https://images.wondershare.com/drfone/article/2024/01/doctor-sim-unlock-reviews-4.jpg)
 
 ## Part 3. Is the Entire doctorSIM System Legit?
 
@@ -193,28 +205,31 @@ Customer **doctorSIM reviews** highlight the platform's reliability, effectiven
 
 It is important to clarify that doctorSIM primarily focuses on IMEI unlocking. This liberates a device from carrier restrictions to enable use with various networks. Amongst all the discussion, it is crucial to differentiate that this service does not offer iCloud Activation Lock removal in any case. Here are some top alternatives specifically that you can consider when using doctorSIM for unlocking purposes:
 
-### 1\. [IMEIDocto](https://imeidoctor.com/en_us)
+### 1\. IMEIDocto
 
 Specializing in unlocking iPhones by IMEI, IMEIDoctor is a trusted service. It offers a dependable solution for users seeking freedom from carrier restrictions. IMEIDoctor stands out further due to its extensive support for various iPhone models and carriers. It solidifies its status as a reliable choice.
 
 ![imeidoctor imei unlocking alternative](https://images.wondershare.com/drfone/article/2024/01/doctor-sim-unlock-reviews-5.jpg)
 
-### 2\. [CellUnlocker](https://www.cellunlocker.net/)
+### 2\. CellUnlocker
 
 CellUnlocker stands out as a reputable IMEI unlocking service, catering to many types of smartphones. Known for its reliability, the service facilitates unlocking for numerous carriers globally. This provides flexibility for users requiring international use of their devices. The user-friendly interface further enhances the overall experience.
 
 ![cellunlocker imei unlocking alternative](https://images.wondershare.com/drfone/article/2024/01/doctor-sim-unlock-reviews-6.jpg)
 
-### 3\. [IMEIUnlockSIM](https://www.imeiunlocksim.com/)
+### 3\. IMEIUnlockSIM
 
 IMEIUnlockSIM is a specialized service focusing on unlocking iPhones through IMEI. Known for its straightforward process, it aims to provide users with a hassle-free experience. This service also offers iCloud unlock and IMEI checks. The service supports a variety of iPhone and Android models and provides timely customer support.
 
 ![imeiunlocksim imei unlocking alternative](https://images.wondershare.com/drfone/article/2024/01/doctor-sim-unlock-reviews-7.jpg)
 
-### 4\. [iUnlockBase](https://www.unlockbase.com/)
+### 4\. iUnlockBase
 
 This IMEI unlocking service is a comprehensive service renowned for its expansive database. It supports a large number of devices and carriers. The platform provides various unlocking services, such as network unlocking and iCloud unlocking. Serving a worldwide audience, iUnlockBase guarantees a seamless unlocking process.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iunlockbase imei unlocking alternative](https://images.wondershare.com/drfone/article/2024/01/doctor-sim-unlock-reviews-8.jpg)
 
 ## Part 5. What To Do When iCloud Activation Lock Active?
@@ -225,7 +240,7 @@ It allows users to circumvent it without needing the Apple ID. This unique capab
 
 ### Notable Characteristics of Wondershare Dr.Fone
 
-1. [Remove MDM](https://drfone.wondershare.com/unlock/mdm-bypass-free.html)or Screen Time passcodes on your device effortlessly, preserving your data.
+1. [Remove MDM](https://drfone.wondershare.com/unlock/mdm-bypass-free.html) or Screen Time passcodes on your device effortlessly, preserving your data.
 2. Wondershare Dr.Fone specializes in bypassing various screen locks, including passcodes and Face IDs.
 3. Fone can remove the iTunes backup encryption lock without any impact on your data.
 
@@ -486,3 +501,56 @@ Enabling this option is a straightforward process, and if there’s ever a glitc
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://windows11.techidaily.com/quick-reference-guide-to-overcoming-winscombvc-issues/"><u>Quick Reference Guide to Overcoming WinScombVc Issues</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-top-tier-free-memes-for-everyday-chuckles/"><u>In 2024, Top-Tier Free Memes for Everyday Chuckles</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-7-plus-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone 7 Plus with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-agrarian-adventures-unplugged-stardews-kin-titles/"><u>[Updated] 2024 Approved  Agrarian Adventures Unplugged  Stardew's Kin Titles</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-7-plus-with-itunes-drfone-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone 7 Plus with iTunes | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-apple-iphone-7-plus-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 7 Plus With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-a-guide-to-risk-management-and-mitigation-strategies-in-market-research/"><u>In 2024, A Guide to Risk Management and Mitigation Strategies in Market Research</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-7-plus-lock-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone 7 Plus Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/the-ultimate-collection-top-10-trends-in-tiktok-reaction-videos/"><u>The Ultimate Collection  Top 10 Trends in TikTok Reaction Videos</u></a></li>
+<li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-zte-nubia-z60-ultra-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For ZTE Nubia Z60 Ultra | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-7-plus-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-crafting-engaging-dialogue-in-screenplays/"><u>2024 Approved  Crafting Engaging Dialogue in Screenplays</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-7-plus-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone 7 Plus Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exploring-windows-memory-landscape-identify-ram-straightforwardly/"><u>Exploring Windows Memory Landscape: Identify RAM Straightforwardly</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-7-plus-with-or-without-password-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone 7 Plus With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/effective-ways-to-gain-access-to-cost-free-imagery/"><u>Effective Ways to Gain Access to Cost-Free Imagery</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-on-iphone-15-plus-5-best-solutions-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover deleted pictures on iPhone 15 Plus? 5 Best Solutions | Stellar</u></a></li>
+<li><a href="https://howto.techidaily.com/my-videos-arent-playing-on-motorola-edge-2023-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Motorola Edge 2023 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-7-plus-without-itunes-drfone-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone 7 Plus Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-from-zero-to-hero-accelerating-your-way-to-a-top-10000-followers-in-no-time-on-insta/"><u>[Updated] From Zero to Hero  Accelerating Your Way to a Top 10,000 Followers in No Time on Insta</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-secure-your-animated-gifs-with-these-winning-recording-software-on-pc/"><u>[Updated] In 2024, Secure Your Animated GIFs with These Winning Recording Software on PC</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-7-plus-drfone-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-7-plus-when-phone-is-broken-drfone-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone 7 Plus when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-apple-iphone-7-plus-drfone-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-7-plus-5-ways-to-get-into-a-locked-apple-iphone-7-plus-drfone-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone 7 Plus? 5 Ways to get into a Locked Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-7-plus-passcode-not-working-drfone-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 7 Plus Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unveiling-the-25-most-followed-insta-prodigies-for-2024/"><u>[Updated] Unveiling the 25 Most-Followed Insta Prodigies for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-7-plus-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone 7 Plus After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-apple-iphone-7-plus-drfone-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-7-plus-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone 7 Plus to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-7-plus-with-7-methods-drfone-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for Apple iPhone 7 Plus With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-apple-iphone-7-plus-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your Apple iPhone 7 Plus When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-apple-iphone-7-plus-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From Apple iPhone 7 Plus? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-7-plus-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 7 Plus Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-apple-iphone-7-plus-without-passcode-easily-drfone-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 7 Plus Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-7-plus-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 7 Plus Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-tech-tips-for-perfect-video-captures/"><u>[Updated] 2024 Approved  Tech Tips for Perfect Video Captures</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-legal-fb-audio-hoarder-lfah/"><u>[Updated] Legal FB Audio Hoarder (LFAH)</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-plus-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 7 Plus? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-7-plus-drfone-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-decoding-facebook-capturing-and-keeping-status-videos/"><u>[Updated] 2024 Approved  Decoding Facebook  Capturing and Keeping Status Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-premier-11-sound-capture-gadgets-for-2024/"><u>[New] Premier 11 Sound Capture Gadgets for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-iphone-photo-burst-how-to-take-burst-images-for-2024/"><u>[Updated] IPhone Photo Burst  How to Take Burst Images for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-is-your-apple-iphone-7-plus-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone 7 Plus in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-samsung-galaxy-f34-5gfrp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Samsung Galaxy F34 5GFRP Lock</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-7-plus-without-passcode-now-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone 7 Plus Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-duality-in-display-rotating-videos-on-instagram-one-click-at-a-time/"><u>[Updated] Duality in Display  Rotating Videos on Instagram, One Click at a Time</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-apple-iphone-7-plus-drfone-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabling-apple-iphone-7-plus-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone 7 Plus Parental Restrictions With/Without Password | Dr.fone</u></a></li>
+</ul></div>

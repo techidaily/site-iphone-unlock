@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Turn Off Find My iPhone 11 when Phone is Broken? | Dr.fone
-date: 2024-04-07T12:47:19.456Z
-updated: 2024-04-08T12:47:19.456Z
+date: 2024-07-15T08:16:44.188Z
+updated: 2024-07-16T08:16:44.188Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes How to Turn Off Find My iPhone 11 when Phone is Broken?
 excerpt: This article describes How to Turn Off Find My iPhone 11 when Phone is Broken?
 keywords: unlock iphone with apple watch,lock stolen iphone,remove iphone from blacklist,remove flashlight from iphone lock screen,how to unlock iphone with broken screen,solve iphone randomly asking for apple id,forgot passcode iphone 6,unlock disabled iphone without computer,unlock disabled iphone 13,factory reset locked iphone without itunes
-thumbnail: https://www.lifewire.com/thmb/J824Ra8KQFbLaWC_ATGxX22EzOA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/trends_MontyRakusen_Getty-5a4aa079482c5200362b0987.jpg
+thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373d5c47d7a53f258bef450907.jpg
 ---
 
 ## How to Turn Off Find My Apple iPhone 11 when Phone is Broken?
@@ -34,7 +34,7 @@ The best part about this application is that it is free of cost. It usually come
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Turning Off Find My iPhone Within Second.
 
@@ -87,6 +87,9 @@ As your activation lock is removed, go to the settings and remove your Apple ID.
 
 ![activation lock removed](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to Turn Off Find My iPhone on Broken iPhone Using iCloud?
 
 iCloud is the most secure storage drive introduced by Apple. It keeps your gallery, your reminders, contacts, and your messages up to date. Moreover, it also organizes and stores your files while keeping them private and secure. iCloud strongly integrates your Apple iPhone 11 with other iOS devices so you can share your data, documents, and location with other iCloud users.
@@ -125,6 +128,9 @@ However, Recovery Mode can also be useful to turn off Find My iPhone on your dev
 
 Once your Apple iPhone 11 shows the Apple logo, it means the Recovery Mode is activated.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![wait for apple logo to appear](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-4.jpg)
 
 **Step 3:** Now click on “Restore” so iTunes can download software on your Apple iPhone 11. Once the process is completed, you can set up your Apple iPhone 11 as new. This means your previous data will be erased, and Find My iPhone will be disabled automatically.
@@ -139,6 +145,9 @@ Now we’re done as we’ve provided you the best possible solutions to turn off
 
 The Apple iPhone 11 lock screen has certainly changed a lot over the last few updates of iOS. Not only it provides an added security to the Apple iPhone 11 device, but with iPhone lock screen notifications, we can also save our time and efforts. With the introduction of iOS 18, we can also see a change in iPhone lock screen with notifications as well. To help you make the most out of lock screen notifications iPhone, we have come up with this ultimate guide. Read on and know all sorts of things you can do with iPhone notification lock screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 1: How to use iPhone lock screen notifications?
 
 When it comes to iPhone lock screen with notifications, there are so many things that you can do. For instance, here are a handful of things you can do with iPhone lock screen notifications.
@@ -147,6 +156,9 @@ When it comes to iPhone lock screen with notifications, there are so many things
 
 If you aren’t using this iPhone notification lock screen feature, then you are certainly missing out on something. You might already know that you can get a preview of messages on your home screen. Simply long press it (or 3D Touch) to interact with it. From here, you can reply to your messages without unlocking your device.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![iphone lock screen with notifications-reply to messages from notification](https://images.wondershare.com/drfone/article/2017/09/15063937846890.jpg)
 
 **Interact with apps without unlocking your phone**
@@ -173,6 +185,9 @@ Sometimes, people can access our private information just by looking at our noti
 
 2\. From here, you can view a list of all the apps that can access notifications.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<!-- affiliate ads end -->
 ![iphone lock screen with notifications-turn off iphone lock screen notification](https://images.wondershare.com/drfone/article/2017/09/15063939102971.jpg)
 
 3\. Simply tap on the app of your choice (Mail, Message, Photos, iTunes, etc).
@@ -379,3 +394,55 @@ Luckily, we’re here to provide a series of dependable and secure solutions tha
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-trouble-with-apple-iphone-7-plus-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>In 2024, Trouble with Apple iPhone 7 Plus Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/simplifying-the-art-of-audiobook-making-a-complete-step-by-step-tutorial-for-aspiring-authors-for-2024/"><u>Simplifying the Art of Audiobook Making A Complete, Step-by-Step Tutorial for Aspiring Authors for 2024</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/updated-tutorials-to-make-animated-images-even-if-youre-just-starting-out-for-2024/"><u>Updated Tutorials to Make Animated Images – Even if Youre Just Starting Out for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/5-best-voice-recorders-for-mac-devices/"><u>5 Best Voice Recorders for Mac Devices</u></a></li>
+<li><a href="https://games-able.techidaily.com/game-on-smartphones-android-vs-iphone-tetris-face-offs/"><u>Game On Smartphones: Android vs iPhone Tetris Face-Offs</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-ultimate-gear-for-gopro-lenses/"><u>2024 Approved  Ultimate Gear for GoPro Lenses</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-7-plus-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 7 Plus Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-7-plus-drfone-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-apple-iphone-7-plus-drfone-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-funny-noise-finder-a-directory-of-humorous-audio-elements/"><u>New In 2024, Funny Noise Finder A Directory of Humorous Audio Elements</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/plotting-precise-promotional-reels-for-2024/"><u>Plotting Precise Promotional Reels for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-the-ultimate-checklist-for-successful-reddit-threads/"><u>[New] The Ultimate Checklist for Successful Reddit Threads</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-plus-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 7 Plus Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-7-plus-learn-all-4-methods-drfone-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone 7 Plus? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-apple-iphone-7-plus-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to Apple iPhone 7 Plus Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-plus-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 7 Plus Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-apple-iphone-7-plus-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone 7 Plus Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-7-plus-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 7 Plus Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-7-plus-without-a-home-button-drfone-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone 7 Plus Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-sound-innovation-at-hand-dive-into-free-easy-voice-overhaul-tools/"><u>[New] Sound Innovation at Hand  Dive Into Free, Easy Voice Overhaul Tools</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My Realme Narzo 60x 5G? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-did-your-apple-iphone-7-plus-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>In 2024, Did Your Apple iPhone 7 Plus Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/uncovering-lately-watched-fb-content/"><u>Uncovering Lately Watched FB Content</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-7-plus-prevention-and-solution-drfone-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone 7 Plus Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-7-plusipad-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone 7 Plus/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-apple-iphone-7-plus-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone 7 Plus Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabled-apple-iphone-7-plus-how-to-unlock-a-disabled-apple-iphone-7-plus-drfone-by-drfone-ios/"><u>In 2024, Disabled Apple iPhone 7 Plus How to Unlock a Disabled Apple iPhone 7 Plus? | Dr.fone</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/new-learn-disney-cartoon-drawing-to-see-more-disney-magic-moments/"><u>New Learn Disney Cartoon Drawing to See More Disney Magic Moments</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-snapchat-strategies-the-guide-to-biz-marketing-mastery/"><u>[Updated] In 2024, Snapchat Strategies  The Guide to Biz Marketing Mastery</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-7-plus-properly-drfone-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 7 Plus Properly | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/next-big-thing-10-games-that-inspire-gta-v-for-2024/"><u>Next Big Thing  10 Games That Inspire GTA V for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-examining-the-efficiency-of-m1-for-editing-software/"><u>[New] Examining the Efficiency of M1 for Editing Software</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-7-plus-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/core-aspects-of-stories-for-2024/"><u>Core Aspects of Stories for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-7-plus-drfone-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/top-30-creative-tiktok-username-concepts-for-viral-success-for-2024/"><u>Top 30 Creative TikTok Username Concepts for Viral Success for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-nokia-105-classic-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Nokia 105 Classic with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-plus-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 7 Plus Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-7-plus-lock-screen-drfone-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone 7 Plus Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-plus-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 7 Plus Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-understanding-the-mechanism-for-personalizing-social-media-visuals-for-2024/"><u>[New] Understanding the Mechanism for Personalizing Social Media Visuals for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-reimagining-communication-advanced-tactics-for-capturing-skype-calls-for-2024/"><u>[Updated] Reimagining Communication  Advanced Tactics for Capturing Skype Calls for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-plus-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 7 Plus with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-2024-approved-best-5-quandale-dingle-voice-generators/"><u>Updated 2024 Approved Best 5 Quandale Dingle Voice Generators</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-text-to-voice-made-easy-top-tips-and-tricks/"><u>Updated In 2024, Text to Voice Made Easy Top Tips and Tricks</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-7-plus-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of Apple iPhone 7 Plus | Dr.fone</u></a></li>
+</ul></div>

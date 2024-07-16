@@ -1,7 +1,7 @@
 ---
 title: Resolve Your iPhone 12 mini Keeps Asking for Outlook Password | Dr.fone
-date: 2024-04-12T00:15:31.147Z
-updated: 2024-04-13T00:15:31.147Z
+date: 2024-07-15T08:21:36.559Z
+updated: 2024-07-16T08:21:36.559Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Resolve Your iPhone 12 mini Keeps Asking for Outlook Password
 excerpt: This article describes Resolve Your iPhone 12 mini Keeps Asking for Outlook Password
 keywords: unlock apple watch,unlock lost phone,how to unlock a found iphone,iphone asking for outlook password,lock stolen iphone,how to unlock iphone without passcode,change apple id password,how many attempts to unlock iphone
-thumbnail: https://www.lifewire.com/thmb/YPMhKL59WGdTUpxCrpaB_OS--cc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-set-up-speech-to-text-on-android-0-928c48ab121248f9aa543a136d971f9a.jpg
+thumbnail: https://thmb.techidaily.com/2e5cadcabaa5bc146e9286cd6ccf5e30c43742afdff538e1080a5add013b39bf.jpg
 ---
 
 ## Resolve Your Apple iPhone 12 mini Keeps Asking for Outlook Password
@@ -46,6 +46,9 @@ A corrupted email account profile on the Apple iPhone 12 mini can cause disrupti
 
 Other mail applications installed on the Apple iPhone 12 mini can also cause an issue. They might interfere with the Outlook app's proper functioning. Identifying and temporarily disabling such apps can help diagnose and resolve the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### 6\. Excessive Email Fetching
 
 Configuring the Outlook mail app to fetch emails too frequently causes the issue. It can strain the connection with Outlook servers, leading to authentication challenges. That causes issues like the Apple iPhone 12 mini asking for a password.
@@ -58,6 +61,9 @@ The smooth functioning of the Mail app may be disrupted by problems and malfunct
 
 Now that we have explored why the **iPad keeps asking for an Outlook password**, it is time for practical solutions. These 13 fixes discussed below are designed to address the root causes comprehensively:
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1. Add Password Once and Let the Prompt Disappear
 
 If your Apple iPhone 12 mini continuously prompts you for the Outlook password, a simple solution is to re-enter the password. Follow these steps to potentially resolve the issue once and for all by accessing the respective settings:
@@ -80,6 +86,9 @@ Sometimes, the email service provider may force users to change their passwords 
 
 - **Step 2.** Upon reaching the verification page, provide your password and tap the "Sign In" button. Afterward, you will be asked for other verification methods. Upon verifying, the "Change your password" window will appear. Here, you will need to enter your "Current password," "New password," and re-enter it to proceed. Then, hit the "Save" button, and your password will be changed.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![enter outlook password and save it](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-5.jpg)
 
 ### Fix 3. Checking the Network Connection
@@ -237,6 +246,9 @@ Once you've launched Dr.Fone on your computer, go to Toolbox. Here, tap "Screen 
 
 Subsequently, you need to place your Apple iPhone 12 mini into Recovery Mode. Adhere to the on-screen instructions corresponding to the model of your iDevice. Afterward, the tool will automatically detect the "Device Model." If necessary, adjust the model and choose the "System Version." Once these steps are completed, click "Start" to initiate the unlocking process.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![choose device model to start](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 - Step 3: Finalizing iOS Device Unlock
@@ -475,6 +487,9 @@ Worry not, because Apple's Find My is your friend. You can use Find My on your o
 
 **Step 1:** Launch Find My app on your iOS device or Mac. Note that the other device should be signed in with the same Apple ID as the disabled iPhone. If not, you may sign out of iCloud on the Apple iPhone 12 mini device and sign in using the other Apple ID (of the disabled iPhone).
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![unlock disabled iphone with find my app](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-disabled-iphone-4.jpg)
 
 **Step 2:** Select the disabled iPhone from the Apple iPhone 12 mini devices in the sidebar, click or tap the Apple iPhone 12 mini device on the map and click or tap Erase This Device.
@@ -534,3 +549,57 @@ But, when we attempt incorrect passcodes too many times, the Apple iPhone 12 min
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-apple-iphone-15-pro-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock Apple iPhone 15 Pro with iTunes | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-15-pro-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock Apple iPhone 15 Pro Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/play-nba-anytime-anywhere-with-these-15-livestream-tips-for-2024/"><u>Play NBA Anytime, Anywhere with These 15 Livestream Tips for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-mastering-motion-control-top-camera-gadgets-for-2024/"><u>[Updated] Mastering Motion Control - Top Camera Gadgets for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-unlocking-screen-recorder-potential-beyond-cyberlink-for-2024/"><u>[New] Unlocking Screen Recorder Potential Beyond Cyberlink for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-bite-size-flavors-top-eating-moments-on-tiktok/"><u>[New] 2024 Approved  Bite-Size Flavors  Top Eating Moments on TikTok</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-15-pro-drfone-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-15-pro-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Pro, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-best-12-youtube-gaming-intro-makers-free-and-paid-for-2024/"><u>[Updated] Best 12 YouTube Gaming Intro Makers - Free and Paid for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>In 2024, What is the best Pokemon for pokemon pvp ranking On Nokia 105 Classic? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/strategizing-domain-users-biometric-use-on-w11/"><u>Strategizing Domain Users' Biometric Use on W11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/rhythmic-entry-points-curating-soundscapes-for-podcasts-for-2024/"><u>Rhythmic Entry Points  Curating Soundscapes for Podcasts for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-audio-purity-unleashed-advanced-noise-reduction-techniques-using-wondershare-filmora-for-2024/"><u>Updated Audio Purity Unleashed Advanced Noise Reduction Techniques Using Wondershare Filmora for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-15-pro-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-15-pro-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-apple-iphone-15-pro-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your Apple iPhone 15 Pro When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-mp3-conversion-made-easy-top-mac-software-solutions/"><u>New MP3 Conversion Made Easy Top Mac Software Solutions</u></a></li>
+<li><a href="https://fox-info.techidaily.com/celebrating-redditenas-top-ten-upvoted-discussions-for-2024/"><u>Celebrating Reddit'enas  Top Ten Upvoted Discussions for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-15-pro-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Pro Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/masterful-social-media-monitoring-expert-selection-of-analytics-software-for-2024/"><u>Masterful Social Media Monitoring  Expert Selection of Analytics Software for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-12-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone 12 Prevention & Solution</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-15-pro-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/passfab-apple-iphone-15-pro-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab Apple iPhone 15 Pro Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-15-pro-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 15 Pro Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-huawei-p60-drfone-by-drfone-virtual-android/"><u>9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Huawei P60 | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-audiovisual-synergy-infusing-music-into-vimeo-creations/"><u>In 2024, Audiovisual Synergy  Infusing Music Into Vimeo Creations</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-disabling-youtube-ads-across-chrome-firefox-android-and-ios-browsers/"><u>[New] In 2024, Disabling YouTube Ads Across Chrome, Firefox, Android & iOS Browsers</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-the-desktop-tiktok-creators-handbook-2023-edition-for-2024/"><u>[Updated] The Desktop TikTok Creator's Handbook 2023 Edition for 2024</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/new-mocking-sponge-bob-meme-generator-for-2024/"><u>New Mocking Sponge Bob Meme Generator for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-less-loved-aspects-of-virtual-worlds/"><u>In 2024, The Less-Loved Aspects of Virtual Worlds</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-stabilized-shots-fighting-instability/"><u>[Updated] In 2024, Stabilized Shots  Fighting Instability</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/4-ways-to-unlock-apple-iphone-15-pro-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>4 Ways to Unlock Apple iPhone 15 Pro to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/innovative-approaches-to-macos-subtitles-editing-for-2024/"><u>Innovative Approaches to macOS Subtitles Editing for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-apple-iphone-15-pro-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For Apple iPhone 15 Pro Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-15-pro-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 15 Pro with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/from-your-vantage-point-to-the-worlds-sharing-immersive-photos-online/"><u>From Your Vantage Point to the World's  Sharing Immersive Photos Online</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-accelerate-content-consumption-tiktoks-fast-forward-tricks/"><u>[Updated] In 2024, Accelerate Content Consumption  TikTok's Fast-Forward Tricks</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/did-your-apple-iphone-15-pro-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your Apple iPhone 15 Pro Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-15-pro-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-15-pro-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone 15 Pro Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-15-pro-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Pro without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-revolutionize-advertising-try-all-50-available-free-youtube-banners/"><u>[Updated] Revolutionize Advertising – Try All 50 Available FREE YouTube Banners</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-15-pro-passcode-without-a-computer-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone 15 Pro Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/apple-iphone-15-pro-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>Apple iPhone 15 Pro Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/trouble-with-apple-iphone-15-pro-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with Apple iPhone 15 Pro Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-15-pro-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone 15 Pro in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/resolve-your-apple-iphone-15-pro-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your Apple iPhone 15 Pro Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-apple-iphone-15-pro-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot Apple iPhone 15 Pro Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-15-pro-drfone-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 15 Pro | Dr.fone</u></a></li>
+</ul></div>

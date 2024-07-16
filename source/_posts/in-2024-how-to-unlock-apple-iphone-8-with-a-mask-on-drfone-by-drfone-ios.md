@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Apple iPhone 8 with a Mask On | Dr.fone
-date: 2024-06-15T18:13:26.751Z
-updated: 2024-06-16T18:13:26.751Z
+date: 2024-07-15T05:42:10.019Z
+updated: 2024-07-16T05:42:10.019Z
 tags: 
   - unlock
   - remove screen lock
@@ -53,7 +53,10 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 **Step** **3:** Now, it's time to scan your face with your Apple iPhone 8 to initiate the setup. Again, you don't have to wear a mask at this stage, as the Apple iPhone 8 device's main focus while scanning would be the eyes. Also, if you wear glasses, you can proceed without taking them off.
 
-![ scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
 
 **Step 4:** After scanning your face twice, select "Add Glasses" by tapping on it. You can use your Face ID while wearing your regular glasses. Make sure that you scan your face with every pair of glasses daily.
 
@@ -89,7 +92,7 @@ Are you stuck with your locked iPhone? Don't worry, as [Dr.Fone - Screen Unlock]
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -120,7 +123,7 @@ Attention: All your data all be erased after you get into your locked Apple iPho
 
 
 
-### [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock
 
 Get Into Locked Apple iPhone 8 In 5 Minutes!
 
@@ -157,6 +160,9 @@ You can watch the video below about how to unlock your Apple iPhone 8 without Pa
 
 **Step 6.** There will be a warning message showing up. Just confirm it by entering the on-screen code.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![confirmation code to get into locked Apple iPhone 8](https://images.wondershare.com/drfone/drfone/ios-unlock-5.jpg)
 
 **Step 7.** Let the application resolve the issue on your phone. Once it is done, you will be notified that your lock screen is removed.
@@ -193,6 +199,9 @@ Apple’s official Find My Apple iPhone 8 is a smart and hassle-free way to loca
 
 ![erase Apple iPhone 8](https://images.wondershare.com/drfone/article/2017/07/14994495147747.jpg "erase Apple iPhone 8")
 
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Part 4: How to get into a locked Apple iPhone 8 with Siri?
 
 If you don’t want to erase your device’s data while resolving this issue, you can use Siri. You should know that this is not an official fix and only works for limited iOS devices (iOS 8.0 to iOS 13). Ideally, it is considered a loophole in iOS, which can be exploited to fix a disabled phone. You can learn how to get in a locked Apple iPhone 8 by implementing the following steps:
@@ -241,6 +250,9 @@ If you don’t want to erase your device’s data while resolving this issue, yo
 
 ![iphone home](https://images.wondershare.com/drfone/article/2017/07/14994493369614.jpg "iphone home")
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 We hope that after learning how to get in a locked Apple iPhone 8 in different ways, you would be able to resolve the issue on your iOS device. Choose the way you prefer and fix the locked out of the Apple iPhone 8 problem. We recommend using Dr.Fone - Screen Unlock to get an easy fix to your issue without much trouble.
@@ -334,6 +346,9 @@ When your Apple iPhone 8 enters into recovery mode, you will see a Start button 
 
 It will download the iOS firmware for your Apple iPhone 8.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![downloading iphone firmware](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 **Step #5: Unlock iPhone X or XR Lock Screen**
@@ -396,3 +411,67 @@ So, these are some most effective methods to follow and unlock the Apple iPhone 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-12-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>How to Unlock iPhone 12 With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-az-video-logger-full-application-scrutiny/"><u>[Updated] 2024 Approved  AZ Video Logger - Full Application Scrutiny</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-the-blueprint-to-hitting-it-big-with-instagram-videos/"><u>[Updated] The Blueprint to Hitting It Big with Instagram Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-premium-audio-capabilities-1-10-free-desktop-tools-for-2024/"><u>[Updated] Premium Audio Capabilities  #1-#10 Free Desktop Tools for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-12-and-ipad-securely-drfone-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 12 and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>How to share/fake gps on Uber for Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-12-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/resolve-your-iphone-12-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your iPhone 12 Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-iphone-12-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your iPhone 12 Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/passfab-iphone-12-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab iPhone 12 Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-12-drfone-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-iphone-12-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve iPhone 12 Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-12-lock-screen-drfone-by-drfone-ios/"><u>How To Remove Flashlight From iPhone 12 Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Nokia C32? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/chortle-checklist-current-stars-of-tiktok-comedy/"><u>Chortle Checklist  Current Stars of TikTok Comedy</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/did-your-iphone-12-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your iPhone 12 Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/trouble-with-iphone-12-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with iPhone 12 Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/shade-portraits-with-orbital-illumination-technique-cs/"><u>Shade Portraits with Orbital Illumination Technique CS</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/low-end-pc-visual-data-harvesters-for-2024/"><u>Low-End PC Visual Data Harvesters for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-12-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-iphone-12-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your iPhone 12? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-12-with-a-mask-on-drfone-by-drfone-ios/"><u>How to Unlock iPhone 12 with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-12-properly-drfone-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 12 Properly | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-through-best-youtube-extractors/"><u>2024 Approved  Navigating Through Best YouTube Extractors</u></a></li>
+<li><a href="https://facebook.techidaily.com/fb-oversight-group-what-it-does-and-how-it-works/"><u>FB Oversight Group: What It Does and How It Works</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-iphone-12-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking iPhone 12 i Do? Get Answers here | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/accelerate-creativity-pro-level-lunapic-techniques-unveiled/"><u>Accelerate Creativity  Pro-Level LunaPic Techniques Unveiled</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/catalog-films-for-streamlined-playback-for-2024/"><u>Catalog Films for Streamlined Playback for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/new-2024-approved-rethinking-tiktok-a-2023-guide-to-alternative-networks/"><u>[New] 2024 Approved  Rethinking TikTok  A 2023 Guide to Alternative Networks</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-iphone-12-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabled-iphone-12-how-to-unlock-a-disabled-iphone-12-drfone-by-drfone-ios/"><u>Disabled iPhone 12 How to Unlock a Disabled iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-12-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone 12 Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-12-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-iphone-12-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 12 Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-insiders-guide-to-professional-vsco-usage/"><u>[Updated] The Insider's Guide to Professional VSCO Usage</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-12-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-12-drfone-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-experience-the-virtual-reality-frontier-on-youtube/"><u>In 2024, Experience the Virtual Reality Frontier on Youtube</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-12-drfone-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/remove-device-supervision-from-your-iphone-12-drfone-by-drfone-ios/"><u>Remove Device Supervision From your iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-unlock-iphone-12-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>3 Ways to Unlock iPhone 12 without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-mitigating-the-risk-of-youtube-sanctions/"><u>In 2024, Mitigating the Risk of YouTube Sanctions</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/from-novice-to-money-maker-on-youtube/"><u>From Novice to Money-Maker on YouTube</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-topping-video-content-on-youtube-for-2024/"><u>Chart-Topping Video Content on YouTube for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-12-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot iPhone 12 Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-iphone-12ipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled iPhone 12/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-iphone-12-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your iPhone 12 When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-12-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>How To Unlock iPhone 12 Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-online-video-editors-compatible-with-chromebooks-2023-review/"><u>New In 2024, Online Video Editors Compatible with Chromebooks 2023 Review</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-8-plus-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 8 Plus To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-nikon-j5-in-4k-the-ultimate-camera-review/"><u>2024 Approved  Nikon J5 in 4K  The Ultimate Camera Review</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-mastering-shades-core-methods-for-photos/"><u>[New] Mastering Shades  Core Methods for PHOTOS</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-become-a-trendsetter-in-snapchat-innovate-with-dynamic-boomers/"><u>In 2024, Become a Trendsetter in SnapChat  Innovate with Dynamic Boomers</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-12-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 12 Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-unhackable-blueprint-for-inserting-your-tiktok-links/"><u>2024 Approved  Unhackable Blueprint for Inserting Your TikTok Links</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-finding-free-music-a-producers-handbook/"><u>[Updated] 2024 Approved  Finding Free Music  A Producer's Handbook</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-xboxs-video-call-potential-with-zoom/"><u>In 2024, Unlocking Xbox's Video Call Potential with Zoom</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-12-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>iPhone 12 Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-the-ipogo-get-you-banned-and-how-to-solve-it-on-oppo-find-n3-drfone-by-drfone-virtual-android/"><u>Will the iPogo Get You Banned and How to Solve It On Oppo Find N3 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-12-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone 12 Without a Passcode | Dr.fone</u></a></li>
+</ul></div>

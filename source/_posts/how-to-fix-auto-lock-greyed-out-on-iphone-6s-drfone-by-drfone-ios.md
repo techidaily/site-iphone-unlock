@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on iPhone 6s | Dr.fone
-date: 2024-06-24T01:09:22.334Z
-updated: 2024-06-25T01:09:22.334Z
+date: 2024-07-15T05:01:03.261Z
+updated: 2024-07-16T05:01:03.261Z
 tags: 
   - unlock
   - remove screen lock
@@ -22,6 +22,9 @@ Read on if you've encountered a similar problem on your iOS device. In this guid
 
 ![auto lock greyed out on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: Why Is Auto-Lock Greyed Out on iOS Device?
 
 There are a few reasons why the Auto-Lock might be greyed out on your Apple iPhone 6s or iPad device, preventing you from adjusting the duration. Here are the most common culprits:
@@ -129,6 +132,9 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 - **Step 4:** Please review the message carefully before initiating the MDM bypass process. Once you've read it, click **Start to Bypass** to proceed.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![start to bypass mdm](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-3.png)
 
 - **Step 5:** If prompted, go to your device's **Settings** > **Apple ID** > **iCloud** and turn off the **Find My** feature. Next, click **OK** to initiate the MDM bypass.
@@ -158,6 +164,9 @@ Here are the steps on **how to change Auto-Lock on iPad** devices:
 
 - **Step 3:** A list of time options will appear, ranging from **2 minutes** to **15 minutes**, as well as **Never**. Select the time you want your iPad to wait before automatically locking the screen after inactivity. If you want the screen to stay on indefinitely, choose **Never**.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![change auto lock on ipad](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-17.jpg)
 
 **Step 4:** Once you've selected your preferred auto-lock duration, you can exit the **Settings** app. The change will be applied automatically.
@@ -172,6 +181,9 @@ Here's **how to change Auto-Lock on iPhone** devices:
 
 ![change auto-lock on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-18.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 There you have it. This guide has equipped you with the knowledge and solutions to fix the **Auto-Lock greyed out** on your Apple iPhone 6s or iPad devices. From identifying the reasons like Low Power Mode and MDM configurations to implementing actionable fixes, you can now change your screen timeout. So, turn off those restrictions, remove MDM profiles, and head back to Settings.
@@ -299,7 +311,7 @@ If you have forgotten the passcode of your Apple iPhone 6s, then don’t worry! 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qxEIOKjeNZE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
-![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
+![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
 Compatible with every leading iOS device, it runs on all major iOS versions. Since Dr.Fone has an easy-to-use interface, it can simply resolve your issues without much trouble. You can restore your phone and perform an Apple iPhone 6s bypass with Dr.Fone - Screen Unlock by following these steps.
 
@@ -344,7 +356,7 @@ Bypass Apple iPhone 6s Passcode at Ease
 
 ![bypassed Apple iPhone 6s passcode with success](https://images.wondershare.com/drfone/drfone/ios-unlock-7.jpg)
 
-![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
+![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
 ## Part 2: How to bypass the Apple iPhone 6s passcode with Siri? (iOS 8.0 – iOS 10.1)
 
@@ -416,6 +428,9 @@ Another popular way to restore your Apple iPhone 6s is by taking the assistance 
 
 ![erase content](https://images.wondershare.com/drfone/article/2017/07/14993665401648.jpg "erase content")
 
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: How to bypass Apple iPhone 6s passcode with Elcomsoft iOS Forensic Toolkit?
 
 This might be new to you, but there are a few forensic toolkits in the market that can help you perform Apple iPhone 6s bypass without much trouble. One of the most reliable options is the Elcomsoft iOS Forensic Toolkit. Though, in order to use it, you need to download [its licensed version](https://www.elcomsoft.com/) from its website right.
@@ -428,7 +443,7 @@ Later, you can simply connect your phone to the system and run the forensic tool
 
 After following these solutions, you would be able to bypass the Apple iPhone 6s lock without any trouble. You can simply choose your preferred option and perform an Apple iPhone 6s bypass. If you are not able to unlock your phone with Siri, then use Dr.Fone - Screen Unlock. It is an extremely safe option to help you bypass the Apple iPhone 6s passcode and overcome various iOS-related problems.
 
-![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
+![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
 
 <ins class="adsbygoogle"
@@ -447,3 +462,51 @@ After following these solutions, you would be able to bypass the Apple iPhone 6s
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xs-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XS With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2020-apples-new-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE (2020), Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/sj6-mastery-showdown-sjcam-vs-xiaomis-yi-pro-4k-for-2024/"><u>SJ6 Mastery Showdown  SJCam Vs. Xiaomi's Yi Pro 4K for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-x-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone X Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/curating-personalized-instagram-stories-overlays/"><u>Curating Personalized Instagram Stories Overlays</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-realme-11-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Realme 11 5G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-stolen-iphone-se-in-different-conditionsin-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Stolen iPhone SE In Different Conditionsin | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/4-methods-to-merge-mp4-and-mp3/"><u>4 Methods to Merge MP4 and MP3</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-your-apple-iphone-12-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Your Apple iPhone 12 Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2020-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone SE (2020) Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-definitive-list-of-video-stabilizer-brands-for-content-makers-for-2024/"><u>The Definitive List of Video Stabilizer Brands for Content Makers for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-oppo-a2-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Oppo A2 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-pro-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 Pro to other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-stolen-apple-iphone-11-pro-in-different-conditionsin-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Stolen Apple iPhone 11 Pro In Different Conditionsin | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/photo-editors-dream-select-your-perfect-backdrop-shift/"><u>Photo Editors' Dream  Select Your Perfect Backdrop Shift</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-without-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 8 Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-x-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone X with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-activation-lock-on-ipod-and-apple-iphone-14-pro-max-the-right-way-by-drfone-ios/"><u>In 2024, How To Bypass iCloud Activation Lock On iPod and Apple iPhone 14 Pro Max The Right Way</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-ultimate-guide-to-video-editing-on-chromebook/"><u>New 2024 Approved The Ultimate Guide to Video Editing on Chromebook</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-stolen-apple-iphone-x-in-different-conditionsin-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Stolen Apple iPhone X In Different Conditionsin | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/top-6-minecraft-modern-house-ideas-for-2024/"><u>Top 6 Minecraft Modern House Ideas for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-macbooks-camera-unleashed-recording-made-simple/"><u>[Updated] MacBook's Camera Unleashed  Recording Made Simple</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-stolen-iphone-xs-in-different-conditionsin-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Stolen iPhone XS In Different Conditionsin | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-premier-templates-for-zooid-introduction/"><u>[Updated] Premier Templates for Zooid Introduction</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-youtube-audible-treasure-trove/"><u>New YouTube Audible Treasure Trove</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-speed-up-your-videos-top-time-lapse-apps-for-mobile-devices-for-2024/"><u>Updated Speed Up Your Videos Top Time-Lapse Apps for Mobile Devices for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xs-without-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XS Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-samsung-galaxy-s24plus-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Samsung Galaxy S24+ | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-essential-knowledge-for-recording-movies-anywhere/"><u>[New] Essential Knowledge for Recording Movies Anywhere</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-stolen-iphone-8-plus-in-different-conditionsin-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Stolen iPhone 8 Plus In Different Conditionsin | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 8 With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-stolen-iphone-12-in-different-conditionsin-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Stolen iPhone 12 In Different Conditionsin | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-realme-narzo-n55-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Realme Narzo N55</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-unlock-the-power-of-visual-storytelling-with-screen-capture-skills/"><u>[New] Unlock the Power of Visual Storytelling with Screen Capture Skills</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-larger-visuals-elevating-your-youtube-footage/"><u>[Updated] Larger Visuals  Elevating Your YouTube Footage</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xs-max-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XS Max with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xr-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone XR Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-oppo-a59-5g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Oppo A59 5G? Here Are All Fixes | Dr.fone</u></a></li>
+</ul></div>

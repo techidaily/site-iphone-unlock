@@ -1,7 +1,7 @@
 ---
 title: In 2024, Forgot Apple iPhone 11 Backup Password? Heres What to Do | Dr.fone
-date: 2024-05-19T07:27:39.240Z
-updated: 2024-05-20T07:27:39.240Z
+date: 2024-07-15T06:02:34.303Z
+updated: 2024-07-16T06:02:34.303Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Forgot Apple iPhone 11 Backup Password? Heres What to Do
 excerpt: This article describes Forgot Apple iPhone 11 Backup Password? Heres What to Do
 keywords: how many attempts to unlock iphone,change apple id on ipad,forgot iphone pin,disable parental control,forgot passcode iphone 6,iphone passcode not working after update ios 13
-thumbnail: https://www.lifewire.com/thmb/2mfMkf9Nh38PrId0xERnppf9iAg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-view-instagram-without-an-account-5271416-505eeceaf0e142ed8674d2ce2244a8be.jpg
+thumbnail: https://thmb.techidaily.com/92459487433dd8191ecb6f79f9b025b7d93038fc1418a5a54e50bbd98af412de.jpg
 ---
 
 ## Forgot Apple iPhone 11 Backup Password? Here's What to Do
@@ -86,6 +86,9 @@ You can also get rid of the password for the last backup without deleting any ot
 
 Use a USB cable to link your Apple iPhone 11 to your PC. Look at the small iOS icon in the figure below. Just click on it.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![backup](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-5.jpg)
 
 Proceed to the **Summary Page** and make your selection there for **The Computer.** After selecting **Encrypt Local Backup**, you must create a new password. After you have pressed the **Backup Now** option, wait for iTunes to create a new password for you.
@@ -167,6 +170,9 @@ If you're finding a simple way to keep all your passwords, try using the Notes a
 
 You can even add a description of the password, so you remember which account it's for.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### The Bottom Line
 
 As a last piece of advice, please safely save your newly created passwords. Rather than writing them down in the iPhone's notepad, you should save the passwords in a secure location.
@@ -228,6 +234,9 @@ The user is now supposed to make the connection between iPhone and the system an
 
 Once the system has detected the phone, the user is advised to activate the DFU mode by turning off the phone and connecting it to the computer.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![ios unlock 2 2](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 **Step 4: Information for Confirmation**
@@ -252,6 +261,9 @@ You will see the option “Save to.” Guide the path, and all taken screenshots
 
 Provide the system with an on-screen confirmation code to continue the process. When that is done, the interface will notify you. By clicking on the 'Try Again' button, you can repeat the process.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![drfone advanced unlock 7](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
 ## **Part 3. Erase iPhone from iCloud \[Apple ID & Password\]**
@@ -385,6 +397,9 @@ An inactive Apple ID issue might sometimes stem from a temporary glitch within t
 
 **Instructions.** Begin by pressing the "Side" button along with any volume button at the same time. It will lead to the appearance of the “Power” slider, which you need to slide right to turn off the Apple iPhone 11 device. Once it is turned off, press and hold the "Side" buttons to turn on your Apple iPhone 11.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![restart your ios device](https://images.wondershare.com/drfone/article/2024/01/how-to-resolve-apple-id-not-active-issue-6.jpg)
 
 ### Way 2. Try Changing Wi-Fi or Mobile Data
@@ -458,3 +473,52 @@ In conclusion, an **Apple ID that is not active** can disrupt access to essentia
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-iphone-x-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve iPhone X Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-camera-editing-showdown-hero-vs-cubes-battle-of-the-screens/"><u>[New] Camera Editing Showdown  Hero Vs. Cube's Battle of the Screens</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-comparing-the-best-of-both-worlds-obs-vs-bandicam/"><u>[New] Comparing the Best of Both Worlds  OBS vs Bandicam</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-x-properly-drfone-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone X Properly | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-quicktime-video-editing-essentials-for-mac-users-for-2024/"><u>Updated QuickTime Video Editing Essentials for Mac Users for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-your-disabled-iphone-x-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>Unlock Your Disabled iPhone X Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-iphone-x-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For iPhone X Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-x-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone X Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-iphone-x-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your iPhone X Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-x-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone X Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-x-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock iPhone X without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-unleash-your-inner-dj-with-top-20-tiktok-hits/"><u>[Updated] 2024 Approved  Unleash Your Inner DJ with Top 20 TikTok Hits</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-x-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone X in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-x-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone X | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-a-visual-treat-discover-these-14-text-animation-delights/"><u>In 2024, A Visual Treat  Discover These 14 Text Animation Delights</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-create-educational-teaching-videos-in-an-outstanding-way/"><u>How to Create Educational Teaching Videos in An Outstanding Way?</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/a-complete-guide-to-audio-logging-for-your-conversations-in-google-voice-for-2024/"><u>A Complete Guide to Audio Logging for Your Conversations in Google Voice for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-capturing-professional-quality-in-zoom-podcasts/"><u>[Updated] 2024 Approved  The Ultimate Guide to Capturing Professional Quality in Zoom Podcasts</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/passfab-iphone-x-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab iPhone X Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-vivo-y36i-device-sim-by-drfone-android/"><u>Easily Unlock Your Vivo Y36i Device SIM</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-x-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone X | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-x-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot iPhone X Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/did-your-iphone-x-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your iPhone X Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-enhancing-mobile-cinematography-the-top-9-accessories-reviewed/"><u>[Updated] 2024 Approved  Enhancing Mobile Cinematography - The Top 9 Accessories Reviewed</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/resolve-your-iphone-x-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your iPhone X Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-breaking-barriers-in-advertising-animating-for-maximum-roi-on-fb/"><u>[New] In 2024, Breaking Barriers in Advertising  Animating for Maximum ROI on FB</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/jollyjingles-top-sites-to-stream-laugh-rich-rhythms/"><u>JollyJingles  Top Sites to Stream Laugh-Rich Rhythms</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/trouble-with-iphone-x-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with iPhone X Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/reactivate-lost-wordle-streak-iosandroid-fixes/"><u>Reactivate Lost Wordle Streak: IOS/Android Fixes</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-x-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock iPhone X Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-x-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone X | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-how-to-add-good-bokeh-effects-in-instagram-stories/"><u>[Updated] How to Add Good Bokeh Effects in Instagram Stories</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-iphone-x-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to iPhone X Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-in-depth-guide-to-video-money-making-across-platforms/"><u>In 2024, In-Depth Guide to Video Money-Making Across Platforms</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-science-of-perfectly-timed-episodes/"><u>2024 Approved  The Science of Perfectly Timed Episodes</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-download-and-install-splice-video-editor-on-your-mac/"><u>2024 Approved Download and Install Splice Video Editor on Your Mac</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-iphone-xipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled iPhone X/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/remove-device-supervision-from-your-iphone-x-drfone-by-drfone-ios/"><u>Remove Device Supervision From your iPhone X | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-x-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone X Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-x-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone X | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-x-lock-screen-drfone-by-drfone-ios/"><u>How To Remove Flashlight From iPhone X Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-optimize-your-videos-mastering-vertical-aspect-ratio-for-social-media/"><u>New 2024 Approved Optimize Your Videos Mastering Vertical Aspect Ratio for Social Media</u></a></li>
+<li><a href="https://extra-information.techidaily.com/speak-with-ease-simple-pubg-sound-tweaks/"><u>Speak with Ease  Simple PUBG Sound Tweaks</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-x-drfone-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone X | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-samsung-galaxy-a54-5g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Samsung Galaxy A54 5G Location on Twitter | Dr.fone</u></a></li>
+</ul></div>

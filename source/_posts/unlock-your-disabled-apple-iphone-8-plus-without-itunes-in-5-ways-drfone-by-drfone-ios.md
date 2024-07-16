@@ -1,7 +1,7 @@
 ---
 title: Unlock Your Disabled Apple iPhone 8 Plus Without iTunes in 5 Ways | Dr.fone
-date: 2024-05-19T07:27:20.951Z
-updated: 2024-05-20T07:27:20.951Z
+date: 2024-07-15T05:34:07.788Z
+updated: 2024-07-16T05:34:07.788Z
 tags: 
   - unlock
   - remove screen lock
@@ -11,7 +11,7 @@ categories:
 description: This article describes Unlock Your Disabled Apple iPhone 8 Plus Without iTunes in 5 Ways
 excerpt: This article describes Unlock Your Disabled Apple iPhone 8 Plus Without iTunes in 5 Ways
 keywords: reset iphone backup password,forgot locked note password,unlock disabled iphone without itunes,iphone passcode changed itself,doctorism unlock review,factory reset locked iphone without itunes,iphone passcode not working after update ios 13,how many attempts to unlock iphone,iphone swipe up not working,turn off restricted mode,change apple id password,unlock iphone face id wearing mask
-thumbnail: https://www.lifewire.com/thmb/BFplsHvF2W-tN_GPJVyxOAwi8YM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/E-reader-57b936e05f9b58cdfd3e07e1.jpg
+thumbnail: https://thmb.techidaily.com/98cce883f8c6d6df0bb852da7eb40767e5514e4304dfa4fcbf005c1298bed966.jpg
 ---
 
 ## Unlock Your Disabled Apple iPhone 8 Plus Without iTunes in 5 Ways
@@ -45,7 +45,7 @@ Not just to get the Apple iPhone 8 Plus disabled unlock without iTunes, it can a
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Fix "iPhone is Disabled Connect to iTunes" Error In 5 Minutes
 
@@ -68,6 +68,9 @@ To unlock your Disabled Apple iPhone 8 Plus or iPad without iTunes or iCloud, la
 
 Before bypassing the Apple iPhone 8 Plus lock screen, you need to boot it into Recovery or DFU mode by following the on-screen instructions. The recommended mode is Recovery mode, but if you cannot activate this mode, you can follow the link to learn how to activate DFU mode.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![boot into dfu mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 **Step 3: Confirm Your iOS Device Information**
@@ -86,7 +89,7 @@ Once the firmware has been downloaded successfully, click "Unlock Now" to start 
 
 <iframe src="https://www.youtube.com/embed/TQnsFr9oUHA" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
+![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
 **Pros**
 
@@ -113,6 +116,9 @@ You can learn **how to unlock a disabled iPhone without iTunes** by implementing
 
 - **Step 2.** From here, you can locate the Apple iPhone 8 Plus device, play a sound on it, lock it, or erase it. To fix a disabled iPhone or iPad without iTunes, you have to erase your device. Click on the "Erase iPhone" option and confirm your selection.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![erase iphone](https://images.wondershare.com/drfone/article/2023/02/unlock-disabled-iphone-without-itunes-1.jpg)
 
 Wait for a while as the "Find My iPhone" feature will remotely erase your iOS device. Needless to say, it will also disable its lock.
@@ -290,7 +296,7 @@ Tips: Backup all your data before unlocking the phone with Dr.Fone - Screen Unlo
 
 
 
-### [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)
+### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
 
@@ -335,6 +341,9 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 
 Now when you know how to unlock iPhone 6 without password, you can disconnect your Apple iPhone 8 Plus and use it as per your needs.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to unlock iPhone passcode without iTunes using iCloud?
 
 If your Apple iPhone 8 Plus is already in sync with iCloud and you have enabled the Find My iPhone feature, then you can easily learn how to unlock iPhone passcode remotely. The service was originally introduced to locate a lost iPhone. Though, it can also erase an iPhone entirely without much trouble. To learn how to unlock iPhone 6 passcode using iCloud, follow these steps:
@@ -427,6 +436,9 @@ The command comes from Apple’s significant privacy safeguard **“USB Restrict
 
 In 2017, a password cracking tool called GrayKey was launched, which can bypass any iPhone screen lock passcode. The FBI, the police, and some government agencies have all become GrayKey customers. To combat hackers including GrayKey and protect iOS users' data security, the USB Restricted Mode feature arrived with iOS 11.4.1 in July 2018 and be improved in iOS12.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to Disable USB Restricted Mode?
 
 If you find this warning annoying or your Apple iPhone 8 Plus not charging when using USB accessories, disabling USB Restricted Mode is an optional solution. However, you have to remember the unlock passcode. All the steps will be presented to you next.
@@ -454,7 +466,7 @@ Now, here comes an amazing App with many benefits to solving the problem for you
 
 ![run the program to bypass iphone lock screen](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-![Safe download](https://mobiletrans.wondershare.com/images/security.svg)safe & secure
+![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
 **Step 2:** Connect your Apple iPhone 8 Plus to the computer with a lightning cable, and choose “Unlock iOS Screen".
 
@@ -500,6 +512,9 @@ There is currently no way to unlock an iPhone without erasing all data. Luckily,
 - **Step 1:** Connect Apple iPhone 8 Plus to a computer with a USB accessory and turn on iTunes. Then iTunes will make a backup for your phone.
 - **Step 2:** Choose “Restore iPhone”.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![itunes-restore](https://images.wondershare.com/drfone/unlock-new/unlock-usb/itunes-restore.jpg)
 
 Wait for a while and you could unlock the screen to use USB accessories. However, in step one, you may need to enter your passcode to get stuck during the process. Therefore, this method is not the most efficient.
@@ -550,7 +565,7 @@ If it doesn’t work, please contact customer service of Apple.
 
 It is very common to use USB accessories to connect iPhone and computer. Sometimes, we may forget the password, or cannot unlock the screen due to system failure. There are many ways to unlock Apple iPhone 8 Plus to use the accessories in the article. Finally, we recommend everyone to use Dr.Fone - Screen Unlock, a helpful and convenient tool.
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 
 <ins class="adsbygoogle"
@@ -569,3 +584,56 @@ It is very common to use USB accessories to connect iPhone and computer. Sometim
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-11-pro-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-the-interpretation-and-significance-of-pfp-on-tiktok-platform/"><u>In 2024, The Interpretation and Significance of 'PFP' On TikTok Platform</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-trouble-with-iphone-11-pro-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>In 2024, Trouble with iPhone 11 Pro Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-2024-approved-silky-smooth-videos-made-easy-best-mobile-stabilizer-apps/"><u>New 2024 Approved Silky Smooth Videos Made Easy Best Mobile Stabilizer Apps</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-the-secret-to-viral-lip-sync-videos-5-must-try-apps/"><u>Updated The Secret to Viral Lip Sync Videos 5 Must-Try Apps</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-iphone-11-pro-when-phone-is-broken-drfone-by-drfone-ios/"><u>In 2024, How to Turn Off Find My iPhone 11 Pro when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-live-stream-perfection-ranking-the-best-recorder-gadgets-in-tech/"><u>2024 Approved  Live Stream Perfection  Ranking the Best Recorder Gadgets in Tech</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-iphone-11-pro-passcode-without-a-computer-drfone-by-drfone-ios/"><u>In 2024, Unlocking iPhone 11 Pro Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-11-pro-in-lost-mode-drfone-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone 11 Pro in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-pro-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11 Pro without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-11-pro-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone 11 Pro Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-11-pro-properly-drfone-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone 11 Pro Properly | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-iphone-11-pro-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab iPhone 11 Pro Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-for-iphone-11-pro-lock-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 11 Pro Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-samsung-galaxy-a05s-lock-screen-pattern-pin-or-password-by-drfone-android-unlock-android-unlock/"><u>How to bypass Samsung Galaxy A05’s lock screen pattern, PIN or password</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-11-pro-without-passcode-now-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone 11 Pro Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-resolve-your-iphone-11-pro-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>In 2024, Resolve Your iPhone 11 Pro Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-pro-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-iphone-11-pro-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 11 Pro When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-final-cut-pro-tutorial-adding-emotional-depth-with-the-ken-burns-effect-updated-2023/"><u>2024 Approved Final Cut Pro Tutorial Adding Emotional Depth with the Ken Burns Effect (Updated 2023)</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unveiling-yourself-instagram-live-basics/"><u>[Updated] 2024 Approved  Unveiling Yourself  Instagram Live Basics</u></a></li>
+<li><a href="https://extra-information.techidaily.com/precision-close-up-techniques-with-kinemaster-software/"><u>Precision Close-Up Techniques with Kinemaster Software</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/updated-the-best-rock-songs-list/"><u>Updated The Best Rock Songs List</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-ultimate-selection-top-video-editors-for-webcams/"><u>[New] 2024 Approved  Ultimate Selection  Top Video Editors for Webcams</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-11-pro-drfone-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-uncovering-snapchats-hidden-symbolism/"><u>2024 Approved  Uncovering Snapchat's Hidden Symbolism</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-pro-without-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11 Pro Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-11-pro-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, iPhone 11 Pro Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/masterclass-in-adding-srt-overlay-on-mp4-file-playback-for-2024/"><u>Masterclass in Adding SRT Overlay on MP4 File Playback for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-pro-apples-new-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11 Pro, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-secretsunlocked-utilizingyoucamforrecording-for-2024/"><u>[New] SecretsUnlocked  UtilizingYouCamForRecording for 2024</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-from-filming-to-sharing-a-youtube-video-edition/"><u>In 2024, From Filming to Sharing  A YouTube Video Edition</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-top-5-free-screen-recorders-on-windows-10-2023-update/"><u>2024 Approved  Top 5 Free Screen Recorders on Windows 10-2023 Update</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/in-2024-video-editing-simplified-the-best-hacks-for-new-creators/"><u>In 2024, Video Editing Simplified  The Best Hacks for New Creators</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/detailed-analysis-of-youtubes-versus-dailymentions-for-2024/"><u>Detailed Analysis of YouTubes Versus DailyMentions for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/video-posting-on-twitter-and-tumblr-connection-for-2024/"><u>Video Posting on Twitter and Tumblr Connection for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-11-pro-drfone-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-11-pro-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 11 Pro to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-11-pro-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone 11 Pro? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-full-guide-to-unlock-iphone-11-pro-with-itunes-drfone-by-drfone-ios/"><u>In 2024, Full Guide to Unlock iPhone 11 Pro with iTunes | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-xiaomi-redmi-k70e-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Xiaomi Redmi K70E</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-iphone-11-pro-without-passcode-easily-drfone-by-drfone-ios/"><u>In 2024, Unlock iPhone 11 Pro Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-11-pro-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 11 Pro Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-game-plan-for-creating-a-hit-youtube-introduction-trailer/"><u>2024 Approved  The Game Plan for Creating a Hit YouTube Introduction Trailer</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-5-best-apps-for-voice-translation-from-english-to-bangla/"><u>New In 2024, 5 Best Apps for Voice Translation From English to Bangla</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-honor-100-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Honor 100? | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-vivo-v29-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-did-your-iphone-11-pro-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>In 2024, Did Your iPhone 11 Pro Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-phones-to-cameras-diy-setup-guide-for-mobile-video-recording-for-2024/"><u>[New] Phones to Cameras  DIY Setup Guide for Mobile Video Recording for 2024</u></a></li>
+</ul></div>
