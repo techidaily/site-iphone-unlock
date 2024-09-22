@@ -1,7 +1,7 @@
 ---
 title: Learn How To Lock Stolen Your iPhone XS Properly | Dr.fone
-date: 2024-09-16T17:40:07.459Z
-updated: 2024-09-17T17:11:42.905Z
+date: 2024-09-17T16:36:01.647Z
+updated: 2024-09-22T16:25:46.498Z
 tags: 
   - unlock
   - remove screen lock
@@ -53,6 +53,13 @@ Find My can be a source to track stolen iPhones, but certain scenarios are assoc
 - **Step 2.** After logging in, select the lost device, and you can see its last recorded location on the map.
 
 ![consider last device location](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3. Using Lost Mode To Lock Stolen iPhone
 
@@ -120,13 +127,6 @@ To qualify for theft or loss coverage, it is necessary for Find My to be enabled
 
 ![insurance in applecare](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-15.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### To Do List #3. Remove iPhone From Trusted Devices (2FA)
 
 After your Apple iPhone XS is stolen, it becomes essential to bolster the security of your online accounts. It is particularly essential for those safeguarded by Two-Factor Authentication (2FA), which needs to be removed:
@@ -151,6 +151,13 @@ After your Apple iPhone XS is stolen, it becomes essential to bolster the securi
 
 ![remove device from browser](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-19.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 6. Precautions To Take for Avoiding Losing iPhone
 
 Users can proactively adopt specific measures to reduce the likelihood of such an occurrence. The following essential precautions are recommended while learning **how to block your Apple iPhone XS when stolen**:
@@ -162,13 +169,6 @@ Activating Find My increases the likelihood of recovering your device. Take the 
 - **Step 1.** On your iOS device, navigate to “Settings” and tap the Apple ID on the top. Now, scroll down and press "Find My" on the following screen.
 
 ![open find my settings](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-20.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 2.** Next, tap "Find My iPhone," on the ensuing window, toggle "Find My iPhone." This will enable the Find My service on your device.
 
@@ -197,13 +197,6 @@ Activating Two-Factor Authentication (2FA) enhances the security of your Apple i
 - **Step 2.** On the following screen, tap "Turn On Two-Factor Authentication." Follow it by tapping "Continue" afterward, and use the on-screen instructions to complete the process.
 
 ![turn on two factor authentication](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-25.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bonus Tip. Find Stolen iPhone Back but Locked? Unlock With Wondershare Dr.Fone
 
@@ -255,19 +248,6 @@ But fear not, for there are ways to **unlock an iPhone without a Home button**. 
 
 ![user pressing iphone Home button](https://images.wondershare.com/drfone/article/2024/01/unlock-iphone-without-home-button-01.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1. 7 Ways To Unlock iPhone Without Home Button
 
 If your Apple iPhone XS's Home button is out of commission, don't worry. There are several ways to regain access to your device. Let's explore seven methods on **how to unlock an iPhone without a Home button.**
@@ -279,19 +259,6 @@ If your device supports Touch ID, you can use your fingerprint to unlock it. Fol
 - **Step 1**: Head to **Settings** > **Touch ID & Passcode**. Next, tap **Add a Fingerprint**.
 
 ![user pressing iphone Home button](https://images.wondershare.com/drfone/article/2024/01/unlock-iphone-without-home-button-02.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983473">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 2**: Follow the on-screen instructions to set up Touch ID.
 
@@ -344,6 +311,19 @@ Dr.Fone - Screen Unlock (iOS) simplifies the process of unlocking your Apple iPh
 
 ![start ios screen unlocking process](https://images.wondershare.com/drfone/guide/unlock-ios-screen-2.png)
 
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 3:** Once the firmware is downloaded, Dr.Fone will verify it. Confirm the details and click **Unlock Now** to begin the unlocking process. Follow the on-screen instructions once more.
 
 ![dr.fone unlock now window](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
@@ -379,6 +359,13 @@ For Mac or Windows users, both Finder and iTunes can **unlock your Apple iPhone 
 If none of the methods work or Dr.Fone is unavailable to you for some reason, then you can use iCloud. To **unlock your Apple iPhone XS without the Home button**, visit iCloud.com and sign in with your Apple ID. Next, go to **Find My iPhone**, select your device, and choose **Erase iPhone** to unlock it remotely.
 
 ![erase iphone on icloud](https://images.wondershare.com/drfone/article/2024/01/unlock-iphone-without-home-button-13.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2. What To Do if Your Home Button Is Broken
 
@@ -539,6 +526,13 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 ![dr.fone bypassing mdm lock](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 7:** You'll see a confirmation message once the bypass is successful. Click **Done** to exit. Your device should now be free from MDM restrictions.
 
 ![successfully bypassed mdm on ios](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-6.png)
@@ -594,17 +588,17 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-toddler-tycoon-ryan-kaji-and-the-wealthy-web-world/"><u>[New] Toddler Tycoon Ryan Kaji and the Wealthy Web World</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-tailoring-textual-terminals/"><u>[Updated] Tailoring Textual Terminals</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/elevate-your-twitter-video-experience-full-hd-edition/"><u>Elevate Your Twitter Video Experience Full HD Edition</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/handling-chatgpts-review-system-failures-techniques-to-ensure-smooth-operation/"><u>Handling ChatGPT's Review System Failures: Techniques to Ensure Smooth Operation</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-iphone-7-plus-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your iPhone 7 Plus Without a Home Button | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-v30-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Vivo V30 Pro PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-your-apple-iphone-13-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 13 Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-apple-iphone-11-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to Apple iPhone 11 Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-apple-iphone-xs-max-drfone-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For Apple iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/master-the-art-of-micro-focusing-in-virtual-gatherings-for-2024/"><u>Master the Art of Micro-Focusing in Virtual Gatherings for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/quick-and-easy-snapchat-image-manipulation-techniques/"><u>Quick and Easy Snapchat Image Manipulation Techniques</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/the-complete-evaluation-of-theta-s-360-vr-camera/"><u>The Complete Evaluation of Theta S 360° VR Camera</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-live-stream-magic-setting-up-logitech-cam-for-videos/"><u>[New] In 2024, Live-Stream Magic Setting Up Logitech Cam for Videos</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-ultimate-drone-marathoners-list-top-10/"><u>2024 Approved The Ultimate Drone Marathoners List (Top 10)</u></a></li>
+<li><a href="https://windows11.techidaily.com/ai-enhanced-microsoft-teams-transforming-your-virtual-background-easily/"><u>AI-Enhanced Microsoft Teams: Transforming Your Virtual Background Easily</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bypassing-directx-errors-expert-tips-for-smooth-playthrough-of-anno-1800/"><u>Bypassing DirectX Errors: Expert Tips for Smooth Playthrough of Anno 1800</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-unlock-iphone-8-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock iPhone 8 without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-apple-iphone-se-2022-drfone-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-15-pro-drfone-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-perfecting-iphone-footage-quick-trimming-sizing-hacks/"><u>In 2024, Perfecting iPhone Footage Quick Trimming, Sizing Hacks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/protective-strategies-and-timings-for-effective-bios-upgrades/"><u>Protective Strategies & Timings for Effective BIOS Upgrades</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-the-missing-steamdll-file-a-comprehensive-guide/"><u>Solving the 'Missing' Steam.dll File: A Comprehensive Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/top-4-android-system-repair-software-for-google-pixel-fold-bricked-devices-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 4 Android System Repair Software for Google Pixel Fold Bricked Devices | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-easiest-way-to-edit-flv-files-on-windows-8-expert-tips-and-tools/"><u>Updated In 2024, The Easiest Way to Edit FLV Files on Windows 8 Expert Tips and Tools</u></a></li>
 </ul></div>
 

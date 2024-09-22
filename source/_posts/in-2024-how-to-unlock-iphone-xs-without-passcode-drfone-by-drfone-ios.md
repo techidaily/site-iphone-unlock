@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock iPhone XS Without Passcode? | Dr.fone
-date: 2024-09-15T16:02:47.367Z
-updated: 2024-09-17T16:45:02.198Z
+date: 2024-09-19T16:32:01.825Z
+updated: 2024-09-22T16:30:22.208Z
 tags: 
   - unlock
   - remove screen lock
@@ -157,6 +157,13 @@ Select the Encrypt Local Backup option in the Backups section directly from eith
 
 ![encryption](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4:** Create a Password
 
 When prompted in the window, create a password for the account. Make it powerful yet that is simple for you to remember. You might also save it somewhere secure to help you recall it later.
@@ -164,13 +171,6 @@ When prompted in the window, create a password for the account. Make it powerful
 After establishing the password, all your previous backups will immediately undergo an automated overwrite and encryption. Make it a priority to ensure that the encryption procedure is finished effectively.
 
 ## Part 2: 5 Fixes When We Forgot iPhone Backup Password
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Try all passwords you used on your Apple iPhone XS
 
@@ -197,6 +197,13 @@ You may now go to **Reset All Settings** and confirm by entering the security pa
 You can also get rid of the password for the last backup without deleting any other apps or data.
 
 ![reset all settings](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Use a USB cable to link your Apple iPhone XS to your PC. Look at the small iOS icon in the figure below. Just click on it.
 
@@ -226,13 +233,6 @@ After successfully signing in with your Apple ID, choose **Backup**.
 
 ![restore from icloud](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 During the time that the system is being restored, it is essential that the Wi-Fi connection remains active.
 
 ### 5\. Dr.Fone-Screen Unlock
@@ -242,13 +242,6 @@ With Dr.Fone - Screen Unlock, it's easy to follow all the steps to get rid of th
 **Step 1:** After installing Dr.Fone, open it and look for the red **Screen Unlock** button.
 
 ![drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 2:** In the Screen Unlock interface, tap **Remove iTunes BackUp Encryption** in the bottom right corner to move forward.
 
@@ -263,6 +256,13 @@ Before you click **Remove Now**, please carefully read the following three notes
 - Your device will reboot
 
 ![connected](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4:** Dr.Fone can check your iTunes backup and delete it by itself. This encryption will be erased when the progress bar reaches 100%. This will take a short time to do.
 
@@ -330,6 +330,13 @@ Step 2: Look at the iPhone.
 
 ![unlocking iphone 13 with face id](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 When the lock symbol changes to the unlocked position, you can swipe up to unlock your Apple iPhone XS using Face ID and get to the Home Screen.
 
 Note that Face ID will not work in landscape mode on an iPhone.
@@ -374,13 +381,6 @@ Face ID also enables what Apple calls Attention Aware features that are convenie
 
 ![attention aware features](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Setting up and using Attention Aware features is easy:
 
 Step 1: Go to Settings > Face ID and passcode.
@@ -407,13 +407,6 @@ Up until now, we saw how Face ID enables productivity features and how convenien
 
 ![animojis and memojis](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Animojis are animated emojis. These are made possible with advanced algorithms enabled by the TrueDepth camera in Face ID. Animated emojis or Animojis can mimic your facial expressions and you can use them in your message conversations in apps.
 
 Here‘s how to send Animojis in conversations on your new iPhone 13/12/11:
@@ -429,6 +422,13 @@ Step 3: Tap the Record button and you now have 30 seconds to do what you want wi
 Step 4: When done, the Record button changes to Send:
 
 ![sending a memoji](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Tap Send to send your first Memoji/ Animoji.
 
@@ -501,17 +501,21 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-playlist-perfection-updated-devices/"><u>[New] Playlist Perfection Updated Devices</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-crafting-captivating-content-the-instagram-reel-way/"><u>[Updated] 2024 Approved Crafting Captivating Content The Instagram Reel Way</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-how-to-safeguard-snapchat-videos-in-devices-and-oses-for-2024/"><u>[Updated] How to Safeguard Snapchat Videos in Devices & OSes for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-tailoring-content-advanced-pc-video-editing-methods-for-youtube/"><u>[Updated] Tailoring Content Advanced PC Video Editing Methods for YouTube</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/additional-tips-about-sinnoh-stone-for-apple-iphone-11-pro-max-drfone-by-drfone-virtual-ios/"><u>Additional Tips About Sinnoh Stone For Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Infinix Hot 30i | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-apple-iphone-11-pro-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix Apple iPhone 11 Pro Passcode not Working? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-11-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone 11 Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-14-plus-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Plus? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-iphone-se-2020-drfone-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On iPhone SE (2020) | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-trouble-with-iphone-15-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>In 2024, Trouble with iPhone 15 Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-enhancing-comments-with-emojis-on-youtube-for-2024/"><u>[New] Enhancing Comments with Emojis on YouTube for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-revolutionize-how-you-interact-with-tech-best-mac-tts-programs-reviewed/"><u>2024 Approved Revolutionize How You Interact with Tech Best Mac TTS Programs Reviewed</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-7-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot iPhone 7 Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722973754979-get-your-hp-photosmart-asteroid-printer-driver-here/"><u>Get Your HP Photosmart Asteroid Printer Driver Here</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-12-with-7-methods-drfone-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone 12 With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-13-with-7-methods-drfone-by-drfone-ios/"><u>How To Change Country on App Store for iPhone 13 With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-6s-plus-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-music-from-xiaomi-redmi-note-13-5g-by-fonelab-android-recover-music/"><u>How to Rescue Lost Music from Xiaomi Redmi Note 13 5G</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-x-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone X Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-14-plus-without-itunes-drfone-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 14 Plus Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-nokia-130-music-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Nokia 130 Music FRP Bypass Instantly</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-6-plus-properly-drfone-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 6 Plus Properly | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/remedying-obs-fullscreen-disruption-for-2024/"><u>Remedying OBS Fullscreen Disruption for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/step-by-step-solutions-for-the-service-registration-missing-problem-on-windows-11/"><u>Step-by-Step Solutions for the 'Service Registration Missing' Problem on Windows 11</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-tutorial-rapid-intel-nuc-driver-setup/"><u>Step-by-Step Tutorial: Rapid Intel NUC Driver Setup</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/windows-friendly-audio-interface-software-download-free-scarlett-solo-by-focusrite/"><u>Windows-Friendly Audio Interface Software - Download Free Scarlett Solo by Focusrite!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: iPhone 12 mini Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone
-date: 2024-09-11T18:05:36.924Z
-updated: 2024-09-17T18:02:57.876Z
+date: 2024-09-18T16:18:48.292Z
+updated: 2024-09-22T17:11:50.088Z
 tags: 
   - unlock
   - remove screen lock
@@ -80,6 +80,13 @@ It’s only possible to do this if you’ve backed up your iOS device in the pas
 
 ![drfone home](https://images.wondershare.com/drfone/restore_itunes_backup.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2.4 Restore in recovery mode
 
 In some cases, restoring your device using just iTunes will not be good enough, and it won’t have the effect you’re looking for; in this case, restoring your device with no lock screen after an iOS 17/14 update.
@@ -91,19 +98,6 @@ Here’s how to do it. (Note, the process will differ slightly depending on whic
 **Step 1.** Press and hold the volume up button for about one second, and then switch and press the Volume Down button for the same amount of time. You can then hold the side button (on devices without a home button), and the following screen should appear after a few seconds.
 
 ![drfone home](https://images.wondershare.com/drfone/itunes-recovery-mode.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 2.** Now connect your Apple iPhone 12 mini to your computer with iTunes and wait for iTunes to open. Make sure you’re running the latest version of iTunes before connecting up your device. Also, make sure you’re using the official USB cable for the most stability.
 
@@ -120,13 +114,6 @@ Of course, this will only work if the Find My iPhone features have been enabled 
 **Step 1.** From your computer, iPad, tablet, or mobile web browser, head over to iCloud.com and log into your iCloud account using the login in button at the top of the screen.
 
 ![find my iphone](https://images.wondershare.com/drfone/find-my-iphone.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 2.** Once signed in, scroll down the menu of features and select the Find iPhone feature. Click on the All Devices option at the top.
 
@@ -211,10 +198,10 @@ Double-click **Show Password**, and choose it from the drop-down menu. The passw
 ![macos keychain](https://images.wondershare.com/drfone/article/2022/12/reset-iphone-backup-password-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bonus Tips: Best App to Remove iTunes Backup Password
@@ -250,6 +237,13 @@ Click **"Remove Now"**
 **Step 4:** Dr.Fone will verify and remove your iTunes backup password when the progress bar reaches 100%
 
 ![checking](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 5:** iTunes backup encryption is removed successfully! You can now reset iTunes backup password without any trouble.
 
@@ -293,19 +287,6 @@ _“How to unlock Apple iPhone 12 mini passcode without computer? I have been lo
 
 Lately, we have got plenty of queries like this from users who have forgotten their iPhone passcode and can’t access it. If you are also going through the same and wish to learn how to bypass iPhone 5 passcode without computer, then you have come to the right place. In this post, we will make you familiar with two different solutions to unlock your Apple iPhone 12 mini and that too without using your computer. In this way, you don’t need to use any third-party tool to learn how to unlock iPhone 5 passcode without computer. We have provided a stepwise solution for the same in the coming sections.
 
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: How to unlock Apple iPhone 12 mini passcode without computer using iCloud?
 
 If you remember your iCloud credentials, then you can easily learn how to unlock Apple iPhone 12 mini passcode without computer. Though, this comes with a catch. Since Apple doesn’t allow a direct way to reset iPhone passcode, you need to erase your device. It will reset your device’s passcode and your data would be lost. Therefore, before we proceed, make sure that you have a backup of your device ready. In this way, you can restore the backup and won’t suffer from any kind of data loss. To learn how to bypass iPhone 5 passcode without computer, follow these steps:
@@ -347,6 +328,13 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 
 <iframe allowfullscreen="allowfullscreen" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/SG-KuuduzaY"></iframe>
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to unlock Apple iPhone 12 mini passcode without computer using Siri bug?
 
 This might surprise you, but there is a loophole in Siri that can be exploited to unlock the Apple iPhone 12 mini device. Even though the solution might not work every time, there is no harm in giving it a try. By following this technique, you would be able to learn how to unlock Apple iPhone 12 mini passcode without computer while experiencing no data loss. Essentially, it works for iOS devices running on iOS 8.0 to iOS 10.1. You would be needed to follow these stepwise instructions to learn how to bypass iPhone 5 passcode without computer.
@@ -377,22 +365,16 @@ This might surprise you, but there is a loophole in Siri that can be exploited t
 
 ![message the text](https://images.wondershare.com/drfone/article/2017/10/15075516929923.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 9\. This will open a new interface from where you can draft a new message. On the “To” field, you can type any text and tap on the return button on your keyboard to continue.
 
 ![add contact](https://images.wondershare.com/drfone/article/2017/10/15075517097160.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 10\. This will make the text go green. As it would be selected, tap on the add icon (“+”) once again.
 
@@ -432,20 +414,16 @@ You can follow either of these solutions to learn how to unlock iPhone 5 passcod
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-addressing-android-and-ios-issues-with-fb-messages-video-transmission-for-2024/"><u>[New] Addressing Android & iOS Issues with FB Messages Video Transmission for 2024</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-world-of-warcraft-was-unable-to-start-up-3d-acceleration/"><u>[Solved] World of Warcraft Was Unable to Start up 3D Acceleration</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-boosting-your-youtube-earnings-strategies-for-monetizing-short-videos/"><u>2024 Approved Boosting Your YouTube Earnings Strategies for Monetizing Short Videos</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-6s-without-itunes-drfone-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 6s Without iTunes | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/a-concierge-guide-for-monitoring-facebook-livestreams-for-2024/"><u>A Concierge Guide for Monitoring Facebook Livestreams for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/achieve-optimal-gaming-experience-overcoming-low-fps-challenges-in-outriders/"><u>Achieve Optimal Gaming Experience - Overcoming Low FPS Challenges in Outriders</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-iphone-xr-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve iPhone XR Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/effortless-asus-bluetooth-driver-downloads-and-upgrades-at-your-fingertsip/"><u>Effortless ASUS Bluetooth Driver Downloads & Upgrades at Your Fingertsip!</u></a></li>
-<li><a href="https://video-capture.techidaily.com/eliminating-frame-discrepancies-in-obs-recordings-for-2024/"><u>Eliminating Frame Discrepancies in OBS Recordings for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-fixes-to-solve-iphone-8-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve iPhone 8 Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabling-iphone-11-pro-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>In 2024, Disabling iPhone 11 Pro Parental Restrictions With/Without Password | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-12-mini-drfone-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone 12 mini | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-8-drfone-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/net-worth-of-kids-celebrity-reaches-new-heights-for-2024/"><u>Net Worth of Kids Celebrity Reaches New Heights for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-layout-layers-elevating-your-youtube-videos/"><u>[Updated] 2024 Approved Layout Layers Elevating Your YouTube Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-premier-4k-recorder-apps-reviewed/"><u>[Updated] In 2024, Premier 4K Recorder Apps Reviewed</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-vivo-y100i-power-5g-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Vivo Y100i Power 5G</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-iphone-6s-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve iPhone 6s Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/get-rid-of-graphics-cards-quickly-on-windows-os/"><u>Get Rid of Graphics Cards Quickly on Windows OS</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-13-pro-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock iPhone 13 Pro without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-13-pro-max-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone 13 Pro Max When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-locked-iphone-15-pro-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Forgot Locked iPhone 15 Pro Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/peculiar-pratfalls-memes-tailored-for-the-perfect-moment-for-2024/"><u>Peculiar Pratfalls Memes Tailored for the Perfect Moment for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/tailoring-content-creating-ideal-instagram-video-experiences/"><u>Tailoring Content Creating Ideal Instagram Video Experiences</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-6-passcode-without-a-computer-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone 6 Passcode without a Computer | Dr.fone</u></a></li>
 </ul></div>
 

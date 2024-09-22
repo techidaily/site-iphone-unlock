@@ -1,7 +1,7 @@
 ---
 title: Trouble with Apple iPhone 12 Pro Max Swipe-Up? Try These 11 Solutions | Dr.fone
-date: 2024-09-16T16:15:15.042Z
-updated: 2024-09-17T17:07:43.290Z
+date: 2024-09-19T16:33:11.059Z
+updated: 2024-09-22T16:35:15.674Z
 tags: 
   - unlock
   - remove screen lock
@@ -92,6 +92,13 @@ After that, you'll reach a window showing different iOS firmware alternatives. P
 
 ![initiate swipe up repair process](https://images.wondershare.com/drfone/guide/ios-system-repair-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2. Force Restart iPhone
 
 Performing a force restart, also known as a hard reset, can troubleshoot minor software glitches. These can cause unresponsive swipe-up issues on your Apple iPhone 12 Pro Max. Here's a guide on how to perform a force restart on various iDevice models to fix the **iPhone won’t swipe up**:
@@ -125,13 +132,6 @@ If your Apple iPhone 12 Pro Max swipe-up gesture isn't working specifically on t
 **Step 1.** On your iOS device, access the “Settings” app and launch it. Now scroll down to find and tap "Face ID & Passcode."
 
 ![access face id and passcode option](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 2.** Head to the "Allow Access When Locked" section, toggle on the "Control Center" switch, then return to the lock screen to verify if the problem has been resolved.
 
@@ -265,10 +265,10 @@ But fear not, for there are ways to **unlock an iPhone without a Home button**. 
 ![user pressing iphone Home button](https://images.wondershare.com/drfone/article/2024/01/unlock-iphone-without-home-button-01.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1. 7 Ways To Unlock iPhone Without Home Button
@@ -338,13 +338,6 @@ Dr.Fone - Screen Unlock (iOS) simplifies the process of unlocking your Apple iPh
 
 ![dr.fone unlock now window](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 4:** The software will remove the lock screen from your Apple iPhone 12 Pro Max. Click **Try again** if your Apple iPhone 12 Pro Max is still locked. Otherwise, click the **Done** button. After successful unlocking, set up your Apple iPhone 12 Pro Max as new. You can now **unlock your Apple iPhone 12 Pro Max without the Home button**.
 
 ![dr.fone successful unlock window](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
@@ -369,7 +362,21 @@ For Mac or Windows users, both Finder and iTunes can **unlock your Apple iPhone 
 
 ![itunes finder iphone recovery mode](https://images.wondershare.com/drfone/article/2024/01/unlock-iphone-without-home-button-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 2**: A window in Finder will prompt you to choose between restoring or updating; click **Restore**. Confirm your action by tapping **Restore** again. Upon completion, your Apple iPhone 12 Pro Max will be unlocked without the Home button.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettifr.pxf.io/c/5597632/2145079/17095" target="_top" id="2145079">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145079" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145079/17095" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 7: Unlock iPhone via iCloud
 
@@ -418,19 +425,6 @@ Forgetting your Apple iPhone 12 Pro Max backup password can be a real pain. Not 
 There are still chances that you could forget your Apple iPhone 12 Pro Max backup password. Fortunately, you have a chance to recover your password. So, if you're having trouble remembering your Apple iPhone 12 Pro Max backup password, don't despair. There are still ways to get it back!
 
 ![forget backup password](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-1.jpg)
-
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1: Overview of iPhone Backup Password
 
@@ -499,13 +493,6 @@ Use a USB cable to link your Apple iPhone 12 Pro Max to your PC. Look at the sma
 ![backup](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-5.jpg)
 
 Proceed to the **Summary Page** and make your selection there for **The Computer.** After selecting **Encrypt Local Backup**, you must create a new password. After you have pressed the **Backup Now** option, wait for iTunes to create a new password for you.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Find your password in the macOS keychain
 
@@ -583,6 +570,13 @@ If you're finding a simple way to keep all your passwords, try using the Notes a
 
 You can even add a description of the password, so you remember which account it's for.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### The Bottom Line
 
 As a last piece of advice, please safely save your newly created passwords. Rather than writing them down in the iPhone's notepad, you should save the passwords in a secure location.
@@ -603,18 +597,15 @@ However, no matter how secure your gadget is, password leakage may happen, sendi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/updated-essential-hashtags-the-must-use-list-for-todays-social-media-success-for-2024/"><u>[Updated] Essential Hashtags The Must-Use List for Today's Social Media Success for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-15-plus-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone 15 Plus without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/best-practices-for-screen-recording-phones-for-2024/"><u>Best Practices for Screen Recording Phones for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/finest-choices-free-streaming-tools-suitable-everywhere-for-2024/"><u>Finest Choices Free Streaming Tools Suitable Everywhere for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-12-pro-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-apple-iphone-15-pro-max-location-on-skout-drfone-by-drfone-virtual-ios/"><u>How to Change Apple iPhone 15 Pro Max Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-12-mini-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone 12 mini when Phone is Broken? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-se-2022-in-lost-mode-drfone-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone SE (2022) in Lost Mode | Dr.fone</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/in-2024-chuckling-chronicles-the-best-tiktok-joke-and-prank-compilation/"><u>In 2024, Chuckling Chronicles The Best TikTok Joke & Prank Compilation</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-guide-to-disable-recommended-podcast-features-in-spotify/"><u>In 2024, Guide to Disable Recommended Podcast Features in Spotify</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-asus-lock-screen-without-password-asus-rog-phone-8-pro-by-drfone-android-unlock-android-unlock/"><u>Remove Asus Lock Screen without Password(Asus ROG Phone 8 Pro)</u></a></li>
-<li><a href="https://win-answers.techidaily.com/ultimate-fix-guide-unstick-your-dota-2-from-the-loading-screen/"><u>Ultimate Fix Guide: Unstick Your Dota 2 From the Loading Screen</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlock-your-disabled-apple-iphone-14-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone 14 Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-binge-watch-with-ease-best-playlist-extractors-reviewed-and-rated-for-2024/"><u>[New] Binge-Watch With Ease Best Playlist Extractors Reviewed & Rated for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-get-rid-of-youtube-distractions-ad-blocking-on-chrome-firefox-and-ios/"><u>[New] Get Rid of YouTube Distractions Ad-Blocking on Chrome, Firefox & iOS</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-prime-video-cameras-that-will-elevate-your-twitch-channel/"><u>[New] In 2024, Prime Video Cameras That Will Elevate Your Twitch Channel</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-revitalizing-urban-areas-with-environmental-vision-and-purpose/"><u>[Updated] 2024 Approved Revitalizing Urban Areas with Environmental Vision and Purpose</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/codec-clash-determining-the-leader-in-video-quality-for-2024/"><u>Codec Clash Determining the Leader in Video Quality for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-13-pro-max-drfone-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-11-pro-max-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone 11 Pro Max? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-stolen-apple-iphone-se-2022-in-different-conditionsin-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Stolen Apple iPhone SE (2022) In Different Conditionsin | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-iphone-se-2022-5-ways-to-get-into-a-locked-iphone-se-2022-drfone-by-drfone-ios/"><u>Locked Out of iPhone SE (2022)? 5 Ways to get into a Locked iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-15-nyare-sonderdelar-i-cutcap-applen-for-djupkat-och-onlinespel-2024/"><u>Top 15 Nyare Sönderdelar I CutCap Äpplen För Djupkat Och Önlinespel 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "CoD Vanguard Error 0X00001338 N for PC: Troubleshooting Steps and Fixes"
-date: 2024-09-10T17:07:48.914Z
-updated: 2024-09-17T16:34:06.148Z
+date: 2024-09-20T16:35:35.939Z
+updated: 2024-09-22T17:07:57.185Z
 tags:
   - win11
   - win10
@@ -112,26 +112,14 @@ To check the specs of your PC:
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
-4. Close DirectX.
-
- If your PC specs have been up to the mark but Call of Duty: Vanguard still crashes, please move on to **Fix 4** , below to begin troubleshooting.
 
 <!-- affiliate ads begin -->
 <a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
@@ -139,6 +127,11 @@ To check the specs of your PC:
 </a>
 <img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
+4. Close DirectX.
+
+ If your PC specs have been up to the mark but Call of Duty: Vanguard still crashes, please move on to **Fix 4** , below to begin troubleshooting.
 
 ### Fix 4: Scan & repair Vanguard game files
 
@@ -148,13 +141,6 @@ To check the specs of your PC:
 2. In the left menu, choose **Call of Duty Vanguard** . Then click **Options**  \> **Scan and Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/scan-and-repair-game-files-1.jpg)
 3. Click **Begin Scan** , then wait a while as the tool scans and repairs your game installation.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Launch Vanguard again and check to see if the crashing issue still occurs.
 
@@ -179,6 +165,19 @@ Cod Vanguard crashing still not resolved? Please try Fix 6, below.
 
 4. Test the gameplay in Vanguard and see if the crashing issue is fixed. If yes, congrats! If it’s still no joy, please move on to**Fix 7** , below.
 
+<!-- affiliate ads begin -->
+<span id="1770544">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 7: Make sure your system is up to date
 
  The game crashing could point to a possible system vulnerability or compatibility issue on your computer. To rule out this as a cause, you can check your system to see if there are any pending updates – if yes, you should let Windows install them all. After that, you can go on to check to see if the crashing issue is put to an end.
@@ -188,6 +187,14 @@ Here are the steps:
 1. On your keyboard, press **the Windows logo key** and type **check for updates** , then click on **Check for updates** as it pops up as a matching result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/checkforupdates.png)
 2. Click **Check for updates** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cc.png)
 3. Wait a while for Windows to check and automatically install the updates for you.
 
@@ -214,16 +221,14 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-unveiling-youtubes-complex-view-count-system/"><u>[New] 2024 Approved Unveiling YouTube's Complex View Count System</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-social-media-savvy-your-guide-to-success/"><u>[New] Social Media Savvy Your Guide to Success</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-passive-watchers-to-profit-youtube-monetization-for-2024/"><u>[Updated] From Passive Watchers To Profit YouTube Monetization for 2024</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-prime-selection-the-best-12-pc-games-for-click-enthusiasts-for-2024/"><u>[Updated] Prime Selection The Best 12 PC Games for Click Enthusiasts for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/decoding-the-battery-report-in-windows-11-insights-and-usage-tips/"><u>Decoding the Battery Report in Windows 11: Insights & Usage Tips</u></a></li>
-<li><a href="https://win-answers.techidaily.com/guide-overcoming-common-phasmophobia-vr-connectivity-problems/"><u>Guide: Overcoming Common Phasmophobia VR Connectivity Problems</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-13-pro-without-passcode-now-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone 13 Pro Without Passcode Now | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-6-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone 6 After Forgetting my PIN Code? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xr-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XR Passcode without Computer? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-trouble-with-apple-iphone-15-pro-max-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>In 2024, Trouble with Apple iPhone 15 Pro Max Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-14-plus-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock Apple iPhone 14 Plus Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-swift-valorant-image-crafting-professionally-done-on-the-fly/"><u>[New] 2024 Approved Swift Valorant Image Crafting Professionally Done on the Fly</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-break-the-monotony-with-these-6-captivating-videos/"><u>[New] Break the Monotony with These 6 Captivating Videos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/expert-advice-on-solving-the-mystery-of-facetime-blackout-screens/"><u>Expert Advice on Solving the Mystery of Facetime Blackout Screens</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-google-frp-on-oppo-k11x-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass Google FRP on Oppo K11x</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-8-plus-drfone-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-apple-iphone-8-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix Apple iPhone 8 Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-12-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone 12 When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-apple-iphone-13-drfone-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/master-the-art-of-blurring-parts-in-digital-pictures/"><u>Master the Art of Blurring Parts in Digital Pictures</u></a></li>
 </ul></div>
 

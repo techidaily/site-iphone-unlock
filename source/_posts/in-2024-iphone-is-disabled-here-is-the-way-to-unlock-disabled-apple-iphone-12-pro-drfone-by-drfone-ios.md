@@ -1,7 +1,7 @@
 ---
 title: In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 12 Pro | Dr.fone
-date: 2024-09-15T16:38:19.491Z
-updated: 2024-09-17T16:50:03.038Z
+date: 2024-09-16T16:39:20.214Z
+updated: 2024-09-22T16:54:48.146Z
 tags: 
   - unlock
   - remove screen lock
@@ -162,13 +162,6 @@ Do you have the passcode and your Apple Watch paired with an iPhone? It makes th
 
 ![confirm reset content and settings choice](https://images.wondershare.com/drfone/article/2024/01/apple-watch-how-to-unlock-guide-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Pro Tip. Make Apple Watch Unlocking Easy With Paired Phone
 
 If you frequently forget the passcode to your Apple Watch, Apple has presented a dedicated option for maintaining control of this problem. It now provides a specific option of automatically unlocking the Apple Watch as soon as it comes near the paired iPhone. To enable this option, follow the simple steps provided as follows:
@@ -176,6 +169,13 @@ If you frequently forget the passcode to your Apple Watch, Apple has presented a
 **Instructions.** Open the "My Watch" app on your Apple iPhone 12 Pro and scroll down to discover the "Passcode" option. Continue next and look for the "Unlock iPhone" option you need to enable.
 
 ![enable unlock from iphone option](https://images.wondershare.com/drfone/article/2024/01/apple-watch-how-to-unlock-guide-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3. Working Methods To Unlock Apple Watch Without Passcode Perfectly
 
@@ -195,19 +195,6 @@ Nevertheless, external services claim to provide solutions for bypassing the Act
 
 ![unlock watch by entering details](https://images.wondershare.com/drfone/article/2024/01/apple-watch-how-to-unlock-guide-7.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1304647">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Way 2. Unlock the Apple Watch Lock by Resetting
 
 If you forget your Apple Watch passcode without a paired device, a method to unlock the watch remains available. In this scenario, performing a reset becomes the answer to the question of **how to unlock Apple Watch without paired phone**. Place your watch onto its charger and keep charging until this process is complete. Follow these steps to reset your Apple Watch and bypass the lock:
@@ -220,6 +207,13 @@ If you forget your Apple Watch passcode without a paired device, a method to unl
 
 ![reset apple watch successfully](https://images.wondershare.com/drfone/article/2024/01/apple-watch-how-to-unlock-guide-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Way 3. Unlocking Apple Watch Activation Lock by Contacting Previous Owner
 
 Losing access to your Apple Watch goes beyond just forgetting the passcode; purchasing a used Apple Watch can also lead to being locked out. In this scenario, you can encounter an Activation Lock. Reaching out to the previous owner is a direct and often effective solution.
@@ -229,6 +223,13 @@ By contacting the previous owner, you can request them to remove the Apple iPhon
 - **Step 1.** Access the [iCloud](https://www.icloud.com/) website via a web browser and sign in using the Apple ID. Click on the grid icon near the top right corner and select "Find My."
 
 ![access find my on icloud website](https://images.wondershare.com/drfone/article/2024/01/apple-watch-how-to-unlock-guide-10.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 2.** Once there, choose your Apple Watch from the "All Devices" list. Opt for "Erase This Device" from the Apple iPhone 12 Pro device's pop-up menu. Finally, adhere to the on-screen instructions to finalize the process.
 
@@ -282,25 +283,11 @@ This app offers a reliable and secure platform for storing personal and confiden
 
 ![unlock forgotten notes password easily](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1. Best Method To Unlock Forgotten Notes Password iPhone: Wondershare Dr.Fone
 
 Apple allows users to create a separate password for notes or use their iPhone passcode. Many users choose the second option to avoid remembering a new password. Forgetting the Apple iPhone 12 Pro device passcode poses a drawback, making your notes inaccessible. [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) stands out as one of the most straightforward solutions for addressing this scenario.
 
 It offers an absolute way to regain access to your notes and device if you **forgot locked Notes password**. However, it's essential to note that this method will remove all data from your Apple iPhone 12 Pro. That allows you to set your device as new and restore the old data using backups. Dr.Fone offers a comprehensive solution with the ability to bypass or remove most of the locks on iOS devices.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Focusing Features of Wondershare Dr.Fone
 
@@ -334,6 +321,13 @@ When the firmware is displayed after verification, press "Unlock Now." Upon trig
 
 _**Tips:** Are you searching for a powerful iPhone Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2. How To Unlock Notes on iPhone Through Settings
 
 If you've locked a note on your Apple iPhone 12 Pro but forgot the password, there is no need to worry. You can unlock the notes through “Settings” on your device as long as you have your Apple ID credentials. The following are the steps for **what to do if you forgot your notes password**:
@@ -358,22 +352,16 @@ Even if you've forgotten the password to your Notes on iPhone, there's an altern
 
 ![unlock notes using face id](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-7.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2.** If you want to save the content of the locked note without re-locking it, select all the content. Now, "Copy" the note's content and paste it on a new note to recover the data from a locked note.
 
 ![copy locked note content](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Bonus Tip. Learn How To Lock Notes on iPhone Easily
 
@@ -405,18 +393,14 @@ In conclusion, this article addressed methods for **how to recover locked notes 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-honor-play-7t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Honor Play 7T | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-kinemaster-focus-mastery-a-filmmakers-guide-to-sharper-images/"><u>2024 Approved Kinemaster Focus Mastery A Filmmaker's Guide to Sharper Images</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/60637816-2024-approved-unleash-potential-access-premium-sound-effects/"><u>2024 Approved Unleash Potential Access Premium Sound Effects!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/assassins-creed-valhalla-pc-performance-issues-resolved-fixed-stuttering-problem/"><u>Assassin's Creed Valhalla PC Performance Issues Resolved: Fixed Stuttering Problem</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/future-forward-entertainment-unveiling-the-lg-bp550-update/"><u>Future-Forward Entertainment Unveiling the LG BP550 Update</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-xs-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone XS? Learn All 4 Methods | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-8-plus-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix iPhone 8 Plus Unavailable Issue With Ease | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-iphone-se-2020-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your iPhone SE (2020) When You Forget the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-13-drfone-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-iphone-6-plus-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab iPhone 6 Plus Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-vivo-s18-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Vivo S18 Device</u></a></li>
-<li><a href="https://os-tips.techidaily.com/maxed-out-memory-on-your-iphone-heres-how-you-can-free-up-space-in-14-ways/"><u>Maxed Out Memory on Your iPhone? Here's How You Can Free Up Space in 14 Ways!</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/transforming-images-with-ease-learn-snapseed-today/"><u>Transforming Images with Ease Learn Snapseed Today</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-nighttime-portrait-etiquette-dos-and-donts/"><u>[Updated] 2024 Approved Nighttime Portrait Etiquette Do's and Don'ts</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exclusive-auditory-selections-for-filmmaking/"><u>[Updated] Exclusive Auditory Selections for Filmmaking</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-14-plus-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone 14 Plus Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-xr-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix iPhone XR Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fine-tuning-focus-a-compreeher-guide-for-videoleap-users/"><u>In 2024, Fine-Tuning Focus A Compreeher Guide for Videoleap Users</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-trouble-with-iphone-12-pro-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>In 2024, Trouble with iPhone 12 Pro Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-download-vn-video-editor-for-mac-or-explore-mac-friendly-alternatives/"><u>New Download VN Video Editor for Mac or Explore Mac-Friendly Alternatives</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/speedy-tutorial-crafting-youtube-image-thumbnails-from-scratch/"><u>Speedy Tutorial Crafting YouTube Image Thumbnails From Scratch</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-12-pro-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of Apple iPhone 12 Pro | Dr.fone</u></a></li>
 </ul></div>
 

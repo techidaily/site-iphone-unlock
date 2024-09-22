@@ -1,7 +1,7 @@
 ---
 title: In 2024, Learn How To Lock Stolen Your iPhone XS Max Properly | Dr.fone
-date: 2024-09-10T16:47:30.858Z
-updated: 2024-09-17T16:25:20.374Z
+date: 2024-09-19T17:24:28.002Z
+updated: 2024-09-22T16:05:21.581Z
 tags: 
   - unlock
   - remove screen lock
@@ -77,6 +77,19 @@ Lost Mode locks the Apple iPhone XS Max device and allows users to showcase a pe
 - **Step 1.** Access the iCloud website via your computer's web browser. Sign in using your Apple ID, continue to click the “Grid” icon in the top right corner, and select “Find My.”
 
 ![sign into icloud account](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-8.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 2.** In Find My, add your Apple ID password again to access "All Devices." Now, choose the lost device from the list of all devices in the top left corner. Then, click "Mark As Lost," and the following pop-up Lost Mode prompt, tap "Next."
 
@@ -160,6 +173,13 @@ Activating Find My increases the likelihood of recovering your device. Take the 
 
 ![turn on find my service](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-21.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Precaution #2. Enable Separation Alerts on iPhone
 
 Enabling “Separation Alerts” assists in preventing the loss of your Apple iPhone XS Max by alerting you when you distance yourself from it. Follow these steps to enable Separation Alerts on your Apple iPhone XS Max:
@@ -172,13 +192,6 @@ Enabling “Separation Alerts” assists in preventing the loss of your Apple iP
 
 ![notify on separation enabled](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-23.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Precaution #3. Enable 2FA on iPhone
 
 Activating Two-Factor Authentication (2FA) enhances the security of your Apple iPhone XS Max. The mandatory secondary verification step makes 2FA crucial in securing your accounts. Follow these steps to enable 2FA on your Apple iPhone XS Max:
@@ -187,23 +200,9 @@ Activating Two-Factor Authentication (2FA) enhances the security of your Apple i
 
 ![open security settings iphone](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-24.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2.** On the following screen, tap "Turn On Two-Factor Authentication." Follow it by tapping "Continue" afterward, and use the on-screen instructions to complete the process.
 
 ![turn on two factor authentication](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-25.jpeg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bonus Tip. Find Stolen iPhone Back but Locked? Unlock With Wondershare Dr.Fone
 
@@ -309,13 +308,6 @@ A Sprint-based iPhone needs to be activated for at least 40 days to unlock. Spri
 
 1. Your Apple iPhone XS Max should not be stolen or lost.
 2. Installment billing and off-lease agreements should be clear.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. T-Mobile
 
@@ -569,6 +561,13 @@ Sometimes, the email service provider may force users to change their passwords 
 
 ![access my profile outlook web](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 2.** Upon reaching the verification page, provide your password and tap the "Sign In" button. Afterward, you will be asked for other verification methods. Upon verifying, the "Change your password" window will appear. Here, you will need to enter your "Current password," "New password," and re-enter it to proceed. Then, hit the "Save" button, and your password will be changed.
 
 ![enter outlook password and save it](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-5.jpg)
@@ -617,6 +616,13 @@ Ensuring that your sync settings align with Outlook's recommended configurations
 
 ![select required schedule for outlook](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 7. Uninstall and Re-Install Outlook App
 
 Is the Outlook app generally showing a lot of glitches on your Apple iPhone XS Max? If yes, uninstalling and then re-installing it can address potential **“**iPhone**/iPad keeps asking for Outlook password”** issues:
@@ -661,13 +667,6 @@ If the persistent password prompts remain unresolved, resetting all settings on 
 
 ![reset all settings on iphone](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-18.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 12. Add an Account by Switching to IMAP
 
 In some cases, switching the account type to IMAP during the setup process can help resolve issues. For many users, it has worked to resolve issues related to Outlook password prompts. Follow these steps to add your Outlook account using the IMAP protocol:
@@ -701,6 +700,19 @@ In some cases, switching the account type to IMAP during the setup process can h
 At last, hit the “Next” button at the top-right side of the screen.
 
 ![set specified imap settings](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-21.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 13. Contact Support of Outlook To Resolve
 
@@ -762,17 +774,16 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-boost-your-home-project-film-quality-fast-and-simple-for-2024/"><u>[New] Boost Your Home Project Film Quality Fast and Simple for 2024</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/new-engaging-audiences-through-text-a-comprehensive-video-guide/"><u>[New] Engaging Audiences Through Text A Comprehensive Video Guide</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-digital-media-seeker/"><u>[New] In 2024, Digital Media Seeker</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-user-friendly-instructions-installing-snapchat-on-macos/"><u>[New] User-Friendly Instructions Installing Snapchat on macOS</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-the-essence-of-a-memorable-video-conclusion-in-vimeo/"><u>[Updated] In 2024, The Essence of a Memorable Video Conclusion in Vimeo</u></a></li>
-<li><a href="https://video-capture.techidaily.com/easy-steps-for-a-seamless-transformation-from-vep-to-mp4-videos/"><u>Easy Steps for a Seamless Transformation From VEP to MP4 Videos</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/enhance-visual-magnification-without-quality-loss/"><u>Enhance Visual Magnification without Quality Loss</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-apple-iphone-8-plus-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your Apple iPhone 8 Plus When You Forget the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-6-plus-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-iphone-se-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your iPhone SE Without a Home Button | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-instructions-removing-videos-from-youtubes-watchlater/"><u>In 2024, Instructions Removing Videos From YouTube's Watchlater</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-12-pro-drfone-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-ultimate-strategy-for-highlight-image-success-in-instagram/"><u>[New] 2024 Approved The Ultimate Strategy for Highlight Image Success in Instagram</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-dive-into-samsung-ue590-high-res-freesync-tv/"><u>[New] Dive Into Samsung UE590 High-Res, FreeSync TV</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-streamlined-teaching-mastering-lecture-capture-on-mac-systems/"><u>[New] In 2024, Streamlined Teaching Mastering Lecture Capture on Mac Systems</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-step-by-step-guide-to-creating-curved-graphics/"><u>[New] Step-by-Step Guide to Creating Curved Graphics</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/audacitymp4/"><u>AudacityによるMP4ファイルなどからオーディオクリップを切り取るための簡単ガイド</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-6s-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>How To Unlock iPhone 6s Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-or-bypass-knox-enrollment-service-on-samsung-galaxy-f54-5g-by-drfone-android/"><u>In 2024, How To Remove or Bypass Knox Enrollment Service On Samsung Galaxy F54 5G</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-apple-iphone-14-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From Apple iPhone 14? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 8 Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-is-your-iphone-8-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Is Your iPhone 8 in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/understanding-and-utilizing-facebooks-live-feature-a-complete-overview-for-2024/"><u>Understanding and Utilizing Facebook's Live Feature A Complete Overview for 2024</u></a></li>
 </ul></div>
 
