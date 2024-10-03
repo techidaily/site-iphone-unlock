@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Apple iPhone 8 Plus Without Passcode? | Dr.fone
-date: 2024-08-16T17:27:01.024Z
-updated: 2024-08-17T17:27:01.024Z
+date: 2024-09-29T16:32:09.117Z
+updated: 2024-10-03T16:12:48.770Z
 tags: 
   - unlock
   - remove screen lock
@@ -80,7 +80,6 @@ Here are some easy steps that you should take.
 
 First, you must go to your computer or MacBook and download the Dr.Fone tool. You can follow the [link to download](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) and install this tool for free.
 
-
 **Step #2: Connect Your Apple iPhone 8 Plus**
 
 After installing Dr.Fone on your computer, you will need to launch the Software and connect your Apple iPhone 8 Plus using the original iPhone's cable.
@@ -110,7 +109,6 @@ Once the downloading is completed, you will need to click on **Unlock Now** butt
 Once the process is completed, you can unlock your Apple iPhone 8 Plus XR lock screen without the passcode.
 
 ![unlock iphone now](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
-
 
 ## FAQs
 
@@ -241,6 +239,13 @@ Web browsers are available on a wider range of devices than iOS devices. If you 
 
 Password updated! You're one step closer to keeping your Apple account safe and secure. However, if you're still having trouble changing your Apple ID password, the next section might help you.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: Can't Change Your Apple ID Password? Here's What You Should Do
 
 It's happened to everyone: you try to change your Apple ID password, but something goes wrong. Maybe you get an error message or can't remember your current password. Whatever the reason, there are a few workarounds to change your Apple account password.
@@ -253,9 +258,6 @@ Did you get a new Apple device or forgot your Apple ID password? No problem! Try
 
 Click **Forgot password** on the Apple ID sign-in page on the web browser. This option is typically found during the setup process for a new Apple device or when you try to sign in to an Apple service on an unsigned-in device.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![reset apple id password on web](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-password-07.jpg)
 
 **After You Setup Your Device**
@@ -309,9 +311,6 @@ Account recovery is a process that can help you regain access to your Apple ID a
 - Confirm the six-digit code sent to your primary email address to prove that you're the account's rightful owner.
 - Provide your credit card details. Apple will send an authorization request to your credit card issuer, which will help verify your identity.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![confirm credit card for account recovery](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-password-12.jpg)
 
 If you need to access iCloud services and Apple ID features faster, a third-party tool like [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) may help.
@@ -324,6 +323,13 @@ If you need to access iCloud services and Apple ID features faster, a third-part
 
 [<u>[2023 Updated] How to Sign Out of Apple ID without Password?</u>](https://drfone.wondershare.com/unlock/how-to-sign-out-of-apple-id-without-password.html)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4: Using Dr.Fone Unlock Tool To Access Your Apple Account Sooner
 
 Dr.Fone Unlock can help you remove your Apple ID from your Apple devices without a password, even with the enabled Find My/Find My iPhone feature. It's compatible with all iOS devices running iOS 17/iPadOS 17 and iPhone 14.
@@ -334,7 +340,6 @@ Dr.Fone is easy to use and intuitive, even for users with no technical experienc
 
 - **Step 1:** Download [<u>Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) from their official website and install it on your computer.
 
-
 - **Step 2:** From the **Toolbox** homepage, select **Screen Unlock** > **iOS**.
 
 ![dr.fone select screen unlock from toolbox](https://images.wondershare.com/drfone/guide/drfone-home.png)
@@ -343,12 +348,29 @@ Dr.Fone is easy to use and intuitive, even for users with no technical experienc
 
 ![dr.fone select remove apple id](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 4:** For the question, "**Have you set up a screen lock on your Phone**?" click **Yes**. Then, on the next screen, click **Yes** again to verify you enabled the two-factor authentication.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![dr.fone confirm screen lock set up](https://images.wondershare.com/drfone/guide/remove-apple-id-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 5:** Follow the in-app instructions to put your iOS device into Recovery Mode.
 
@@ -370,8 +392,14 @@ Dr.Fone is easy to use and intuitive, even for users with no technical experienc
 
 ![dr.fone unlocking apple id](https://images.wondershare.com/drfone/guide/remove-apple-id-7.png)
 
-- **Step 10:** Click **Done** once the process is successful or click **Try again** to repeat.
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
+- **Step 10:** Click **Done** once the process is successful or click **Try again** to repeat.
 
 ## Conclusion
 
@@ -386,8 +414,19 @@ While you can't remove it, figuring out **how to remove flashlight from iPhone l
 ![iphone lock screen](https://images.wondershare.com/drfone/article/2024/01/remove-flashlight-from-lock-screen-01.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: How To Remove Flashlight From iPhone Lock Screens?
 
 You can't remove the shortcuts like the flashlight icon from an iPhone lock screen. These are built-in features, and Apple doesn't currently offer an option to disable them. However, there are some workarounds to make the flashlights less accessible and avoid turning them on accidentally. You can turn off Tap to Wake, Raise to Wake, remove the flashlight icon from the control center, and turn off the Back Tap shortcut.
@@ -417,6 +456,13 @@ Here is **how to remove flashlights from iPhone lock screens** when not needed:
 - **Step 2:** Toggle off the **Raise to Wake** option.
 
 ![iphone turn off raise to wake](https://images.wondershare.com/drfone/article/2024/01/remove-flashlight-from-lock-screen-03.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Quick Fix No. 3: Remove the Flashlight From the Control Center
 
@@ -487,7 +533,6 @@ Forgotten passcodes and iCloud Activation Lock can leave you feeling shut out. T
 
 ![dr.fone homepage desktop interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-
 - **Step 2:** Select **iOS** as the Apple iPhone 8 Plus device type. Then, within the **Screen Unlock** window, select **Unlock iOS Screen** to begin the process.
 
 ![dr.fone screen unlock tools](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
@@ -506,9 +551,6 @@ Forgotten passcodes and iCloud Activation Lock can leave you feeling shut out. T
 
 - **Step 6:** Dr.Fone will download and install the latest iOS firmware on your device. Then, click **Unlock Now** once the firmware is ready. Follow the on-screen instructions to continue unlocking your device.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone downloading ios firmware](https://images.wondershare.com/drfone/guide/unlock-ios-screen-5.png)
 
 - **Step 7:** Once the process is complete, Dr.Fone will notify you. Your Apple iPhone 8 Plus should be unlocked and ready for you to set it up again with your preferred settings and Apple ID.
@@ -525,9 +567,6 @@ And if ever locked out with the flashlight on, consider Dr.Fone Screen Unlock. T
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -540,11 +579,22 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-instagram-archive-mastery-how-and-why/"><u>[New] 2024 Approved Instagram Archive Mastery How and Why?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-pedagogical-pros-ultimate-10-devices-for-lecture-preservation/"><u>[Updated] 2024 Approved Pedagogical Pros Ultimate 10 Devices for Lecture Preservation</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-vivo-s17-pro-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Vivo S17 Pro? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/capturing-sound-on-iphone-voice-memo-basics-for-2024/"><u>Capturing Sound on iPhone Voice Memo Basics for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-12-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone 12 Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/die-besten-kostenlosen-dvd-ripper-fur-windows-10-and-11-eine-vergleichende-analyse-der-top-3-im-jahr-2023/"><u>Die Besten Kostenlosen DVD-Ripper Für Windows 10 & 11: Eine Vergleichende Analyse Der TOP 3 Im Jahr 2023</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/essential-factors-to-evaluate-when-choosing-an-unlocked-mobile-device/"><u>Essential Factors to Evaluate When Choosing an Unlocked Mobile Device</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-iphone-12-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock iPhone 12 with iTunes | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-13-with-itunes-drfone-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone 13 with iTunes | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-se-2020-with-itunes-drfone-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone SE (2020) with iTunes | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-mini-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 mini Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xr-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XR without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-stolen-iphone-xs-max-in-different-conditionsin-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Stolen iPhone XS Max In Different Conditionsin | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/resolve-your-iphone-7-plus-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your iPhone 7 Plus Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-realme-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Realme</u></a></li>
+</ul></div>
 

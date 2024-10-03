@@ -1,7 +1,7 @@
 ---
 title: How to Unlock iPhone 8 Plus Without Passcode? | Dr.fone
-date: 2024-08-16T17:26:04.971Z
-updated: 2024-08-17T17:26:04.971Z
+date: 2024-09-29T17:33:24.877Z
+updated: 2024-10-03T17:08:44.631Z
 tags: 
   - unlock
   - remove screen lock
@@ -34,6 +34,13 @@ Unlocking an iPhone through iTunes is one of the most common ways. If you have f
 
 ![using itunes to unlock iphone](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-x-xr-without-passcode-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Follow the steps to do this.
 
 1. First, connect your Apple iPhone 8 Plus to your computer and launch iTunes. You will have to install it if you don't have it on your computer. For installation, [click here and download](https://support.apple.com/downloads/itunes)
@@ -56,9 +63,6 @@ All you have to do is follow the steps given below.
 5. Confirm it, and your Apple iPhone 8 Plus will be restored to the factory settings, and all your data will be removed.
 6. Once the process is completed, you can unlock your Apple iPhone 8 Plus X lock screen without any passcode.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method #3: Remove Passcode With Tapping Erase Phone (iOS 15.2 only)
 
 If both above-given methods don't work for you, or you don't have access to a computer or MacBook to use those methods, there is a 3rd method for you. But it only works on iPhones with iOS 15.2 versions.
@@ -83,7 +87,6 @@ Here are some easy steps that you should take.
 
 First, you must go to your computer or MacBook and download the Dr.Fone tool. You can follow the [link to download](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) and install this tool for free.
 
-
 **Step #2: Connect Your Apple iPhone 8 Plus**
 
 After installing Dr.Fone on your computer, you will need to launch the Software and connect your Apple iPhone 8 Plus using the original iPhone's cable.
@@ -104,9 +107,6 @@ When your Apple iPhone 8 Plus enters into recovery mode, you will see a Start bu
 
 It will download the iOS firmware for your Apple iPhone 8 Plus.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![downloading iphone firmware](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 **Step #5: Unlock iPhone X or XR Lock Screen**
@@ -116,7 +116,6 @@ Once the downloading is completed, you will need to click on **Unlock Now** butt
 Once the process is completed, you can unlock your Apple iPhone 8 Plus XR lock screen without the passcode.
 
 ![unlock iphone now](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
-
 
 ## FAQs
 
@@ -160,9 +159,6 @@ Only iPhone 12 and the latest models can use Face ID with a mask on, which refle
 
 Once you meet these requirements, you can easily unlock your Apple iPhone 8 Plus while wearing a mask and get further details by reading this article.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to Unlock iPhone Face ID with a Mask on
 
 Are you excited to unlock your Apple iPhone 8 Plus while wearing a face mask? This section will give you detailed steps to unlock your Apple iPhone 8 Plus with a mask on, but before proceeding, make sure that you have updated your phone's model to iPhone 12 or iPhone 13. This iOS 15.4 version feature is only available on:
@@ -200,6 +196,13 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 ![add your glasses for face id](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 After carefully following the steps mentioned above, you are ready to **unlock your Face ID with a mask**. Remember that Face ID will scan and focus mainly on your eyes and forehead. However, it cannot work in the scenarios if you have completely concealed your look by wearing hats or accessories that can hide your face.
 
 ## Part 2: How to Unlock iPhone Face ID Using Apple Watch
@@ -227,8 +230,6 @@ After enabling this feature, you can unlock your Apple iPhone 8 Plus with a mask
 ## Bonus Tips: Unlock iPhone Without Any Experience
 
 Are you stuck with your locked iPhone? Don't worry, as [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) can unlock any screen passcode, Face ID, Touch ID, and PINs. You don't need any technical experience to use this tool, as the user interface is pretty simple and understandable. Moreover, it works perfectly well on all iOS devices at the best possible speed.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -265,9 +266,6 @@ The primary reason Apple requires verification for App Store purchases is to ens
 
 What does this verification usually involve? It could be entering your Apple ID password or using Face ID or [<u>Touch ID</u>](https://drfone.wondershare.com/iphone-11/iphone-11-touch-id-not-working.html) if your device supports these features. These methods are designed to confirm your identity quickly and securely.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![verification required notification](https://images.wondershare.com/drfone/article/2024/01/bypass-appstore-verification-02.jpg)
 
 ### Reasons Why the Verification Required Message Might Appear
@@ -286,6 +284,13 @@ Understanding these reasons is the first step in addressing the ‘Verification 
 
 Having to deal with the ‘Verification Required’ prompt in the App Store can be a bit of a hassle, especially when you’re eager to get your hands on a new app or game. Fortunately, there are several methods you can use to resolve this issue, most of which are pretty straightforward and can be done right from your device. Here’s how to tackle it:
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Update Payment Method
 
 One of the most common reasons for the verification prompt is a problem with your payment method. To fix this, go to your Apple ID settings on your Apple iPhone 8 Plus or iPad. Tap your name at the top of the **Settings app**, then go to **Payment & Shipping**. You can update your payment information or add a new payment method here. Make sure the details are correct and up to date.
@@ -301,6 +306,20 @@ Sometimes, unpaid subscriptions can trigger the verification prompt. Tap the App
 For less frequent purchases, you should change the settings so you don’t always have to enter your password. Go to Settings, then to **Screen Time**. Under **Content & Privacy Restrictions**, select **iTunes & App Store Purchases**. Here, you can change the settings to **Don’t Require** for purchases. However, be cautious with this method as it reduces security.
 
 ![screen time app store purchases](https://images.wondershare.com/drfone/article/2024/01/bypass-appstore-verification-04.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Sign Out of Apple ID and Re-Sign In
 
@@ -322,17 +341,20 @@ Here’s a complete guide on bypassing **the verification required on the App St
 
 - **Step 1:** Install and open Wondershare Dr.Fone on your computer.
 
-
 - **Step 2:** Navigate to **Toolbox** and select **Screen Unlock** followed by **iOS**.
 
 ![dr.fone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 - **Step 3:** In the next window, choose **Remove Apple ID** to proceed.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone screen unlock features](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 4:** A connectivity status will appear on the screen with your iOS device connected to the computer. Click **Unlock Now** to start the process.
 
@@ -341,6 +363,13 @@ Here’s a complete guide on bypassing **the verification required on the App St
 - **Step 5:** Confirm if your iOS device has a screen lock and two-factor authentication enabled. This is crucial for the process to continue smoothly.
 
 ![screen lock verify](https://images.wondershare.com/drfone/guide/remove-apple-id-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 6:** Follow the on-screen instructions to put your iOS device in Recovery Mode. If necessary, you can also opt for [<u>DFU Mode</u>](https://drfone.wondershare.com/dfu-mode/tools-for-iphone-to-enter-dfu-mode.html) by following the provided instructions. Once in Recovery Mode, the tool will recognize your device model. You’ll need to select the correct system version to proceed.
 
@@ -358,6 +387,13 @@ Here’s a complete guide on bypassing **the verification required on the App St
 
 ![dr.fone complete screen unlock](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note:** After Apple ID removal, you must re-enter a new Apple ID to access the App Store. Take note of the password now if you forgot your previous one.
 
 ## Conclusion
@@ -367,9 +403,6 @@ In this article, you’ve learned **how to remove ‘Verification Required’ in
 While it’s an effective solution, always consider it a secondary option to safeguard your data. Additionally, Dr.Fone can be a handy tool for various other phone-related challenges, making it a useful resource for tackling different tech problems.
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -383,11 +416,20 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-unlocking-top-6-free-tools-to-convert-tiktok-videos-into-mp3/"><u>[New] 2024 Approved Unlocking Top 6 Free Tools to Convert TikTok Videos Into MP3</u></a></li>
+<li><a href="https://win11.techidaily.com/advanced-windows-partition-management-tactics/"><u>Advanced Windows Partition Management Tactics</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-iphone-15-pro-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock iPhone 15 Pro with iTunes | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-nubia-red-magic-8s-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-comprehensive-guide-to-rl-streaming-setup/"><u>In 2024, Comprehensive Guide to RL Streaming Setup</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-14-with-7-methods-drfone-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for Apple iPhone 14 With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-apple-iphone-7-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From Apple iPhone 7? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-6-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone 6 Prevention & Solution</u></a></li>
+<li><a href="https://facebook.techidaily.com/revolutionizing-your-marketing-with-engaging-facebook-practices/"><u>Revolutionizing Your Marketing with Engaging Facebook Practices</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solving-common-problems-with-voice-chatting-in-black-ops-cold-war/"><u>Solving Common Problems with Voice Chatting in Black Ops Cold War</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-12-mini-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>Unlock Apple iPhone 12 mini With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-xs-max-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock iPhone XS Max Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-15-pro-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 15 Pro i Do? Get Answers here | Dr.fone</u></a></li>
+</ul></div>
 
