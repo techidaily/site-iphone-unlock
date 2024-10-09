@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Ways to Factory Reset a Locked Apple iPhone 12 Pro Without iTunes | Dr.fone
-date: 2024-08-23T21:57:55.617Z
-updated: 2024-08-24T21:57:55.617Z
+date: 2024-10-06T23:17:09.522Z
+updated: 2024-10-08T17:29:13.767Z
 tags: 
   - unlock
   - remove screen lock
@@ -28,7 +28,6 @@ Let's get started.
 
 If you search for a simple and effective way to factory reset your locked iPhone without iTunes, you should check out Dr.Fone-Screen Unlock. This professional iOS screen unlocks tool can help you erase all kinds of data from your Apple iPhone 12 Pro and help you unlock your device within a few minutes.
 
-
 For this, you will need to follow the steps given below.
 
 **Step #1: Download and Install Dr.Fone-Screen Unlock on a Computer or Mac:**
@@ -53,9 +52,6 @@ Once Dr. Fone detects your device, you will see the following screen.
 
 After your Apple iPhone 12 Pro is in recovery mode, you need to select the appropriate firmware for your device. Once you have selected the firmware, click on the " Download " button to start downloading it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![factory reset locked iphone without itunes](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 **Step #5: Reset your Apple iPhone 12 Pro:**
@@ -138,6 +134,19 @@ No. If you want a factory reset, all your data will be erased, so make a backup 
 
 But if you want your Apple iPhone 12 Pro set to return to the default without losing your data, you can do a "Reset All Settings." This will not touch your data but will return all the default settings.
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. What is the Difference Between a Soft Reset and a Hard Reset?
 
 A soft reset is when you restart your device, and a hard reset is when you factory reset all the settings on your device and start fresh. A factory reset is a type of hard reset without losing the data.
@@ -147,6 +156,13 @@ A soft reset is when you restart your device, and a hard reset is when you facto
 To force your Apple iPhone 12 Pro to factory reset with buttons, you need to follow these steps:
 
 ![hard reset iphone 6 while locked](https://images.wondershare.com/drfone/article/2022/11/factory-reset-locked-iphone-without-itunes-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 1:** Press and hold the " Sleep/Wake " button and the " Home " button simultaneously for about 10 seconds.
 
@@ -158,9 +174,6 @@ To force your Apple iPhone 12 Pro to factory reset with buttons, you need to fol
 
 Your device will now be reset, and you will have a phone like a new one.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. How can I get into a locked iPhone?
 
 If you have lost the passcode of your Apple iPhone 12 Pro, then you can use the Dr.Fone-Screen Unlock tool to factory reset your device. To do this, you need to proceed with the steps given above. They are easy to follow and will help you reset your device without risk.
@@ -203,14 +216,10 @@ After installing Wondershare Dr.Fone, launch and navigate to the "Toolbox" secti
 
 ![proceed with screen unlock feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-
 - **Step 2. Start Unlocking iOS Screen Lock**
 
 From the available features, proceed with "Unlock iOS Screen" and click “Start” to initiate the unlocking process.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![choose unlock ios screen option](https://images.wondershare.com/drfone/guide/unlock-ios-screen-2.png)
 
 - **Step 3. Put iOS Into Recovery Mode and Specify Details**
@@ -218,6 +227,13 @@ From the available features, proceed with "Unlock iOS Screen" and click “Start
 Moving on, you must put your iOS device into Recovery Mode. For this, follow the instructions on the screen based on your Apple iPhone 12 Pro model. Once it is in Recovery Mode successfully, you need to verify the Apple iPhone 12 Pro device details. Verify the “Device Model,” select the specific "System Version," and continue to device unlocking by clicking "Start."
 
 ![select device model and version](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 4. Confirm the Unlocking Process and Successfully Execute**
 
@@ -233,14 +249,18 @@ This later turned out to be an anomaly in Siri that led users to unlock their iO
 
 - **Step 1.** Start by activating the Siri on your iOS device. Ask a simple question about time, like "What time is it?" Once Siri is active, a clock will display on your device screen. Next, access the clock and find the “World Clock” screen on your Apple iPhone 12 Pro. Tap the “+” button at the screen's top right corner. Enter the name of any city in the “Search Bar,” tap Select All, and choose “Share.”
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![access world clocks via siri](https://images.wondershare.com/drfone/article/2024/02/how-to-unlock-stolen-iphone-6.jpg)
 
 - **Step 2.** In the sharing options, look for "Messages." As you access the next screen, type anything in the "To" section and continue to select it by navigating to the "Create a New Contact" option. When providing the contact details, tap the "Add Photo" button. Lead into the Photos app from there and swipe up the screen or press the "Home" button to access the home screen.
 
 ![access photos app to unlock](https://images.wondershare.com/drfone/article/2024/02/how-to-unlock-stolen-iphone-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3. \[All Data Lost\] Trying Recovery Mode for Unlocking Stolen iPhone
 
@@ -253,6 +273,13 @@ Another lifesaver method to unlock stolen iPhones is by utilizing the Recovery M
 - **For iPhone 6 and Earlier:** To activate Recovery Mode, press and hold the "Home" and "Side/Power" buttons until the respective screen displays.
 
 ![putting iphone in recovery mode](https://images.wondershare.com/drfone/article/2024/02/how-to-unlock-stolen-iphone-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 2:** Once your Apple iPhone 12 Pro is in Recovery Mode, iTunes will detect it automatically. A pop-up window will appear within iTunes to detect some problems with the Apple iPhone 12 Pro device. Tap the "Restore" button to start the process and unlock your Apple iPhone 12 Pro by erasing all settings and content.
 
@@ -287,6 +314,13 @@ In most cases, this occurs when the Encrypt Backup option is activated. As an of
 Unfortunately, this capability may also become problematic if you inadvertently take a backup without being able to provide the password. For example, you may have to enter the password for your Apple iPhone 12 Pro backup unlocking never set by you.
 
 But the good news is you have some possible fixes. So, let's talk about them.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: 4 Possible Ways to Fix Asking for iPhone Backup Password
 
@@ -362,6 +396,13 @@ On the other hand, it does make it possible for you to generate a fresh backup i
 
 ![screen unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3:** When brought to this screen, please use a USB cord to connect your iOS device to your personal computer. If Dr.Fone can identify this relationship, the following picture will appear for you to see.
 
 Please read the following three notes carefully before clicking the **"Remove Now"** button:
@@ -378,20 +419,20 @@ Please read the following three notes carefully before clicking the **"Remove No
 
 **Step 5:** The encryption of the iTunes backup has been successfully erased! Your backed-up data may be quickly restored, transferred, wiped clean, and backed up again. Hence, you can enter the password to unlock your Apple iPhone 12 Pro backup never set in the first place!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![removed](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### The Bottom Line
 
 There are four ways to fix the problem if iTunes keeps asking for your Apple iPhone 12 Pro backup password. The first method is to try all the passwords you use on your Apple iPhone 12 Pro. You can try finding the password from Keychain on macOS if this does not work. Another option is to "Reset All Settings" on your Apple iPhone 12 Pro.
 
 Lastly, Dr.Fone-Screen Unlock is a program that can help you bypass the passcode and get into your backups. So, what are you waiting for? It's time to avoid the problem of iTunes backup password never set.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -405,11 +446,22 @@ Lastly, Dr.Fone-Screen Unlock is a program that can help you bypass the passcode
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/new-how-to-verify-your-youtube-account/"><u>[New] How to Verify Your YouTube Account?</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-decoding-the-advanced-features-of-nikon-d7500/"><u>[Updated] Decoding the Advanced Features of Nikon D7500</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-erase-iphone-8-plus-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>3 Ways to Erase iPhone 8 Plus When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/a-step-by-step-guide-clearing-out-empty-and-repeated-data-rows-on-microsoft-excel-sheets/"><u>A Step-by-Step Guide: Clearing Out Empty and Repeated Data Rows on Microsoft Excel Sheets</u></a></li>
+<li><a href="https://fox-ssl.techidaily.com/customizing-your-flipmenus-appearance-shift-the-hue-of-its-base-section/"><u>Customizing Your FlipMenu's Appearance – Shift The Hue Of Its Base Section</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-steps-download-the-most-recent-amd-gpio-driver-today/"><u>Easy Steps: Download the Most Recent AMD GPIO Driver Today</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-silent-gameplay-troubleshooting-your-hearthstone-audio-problems/"><u>Fixing Silent Gameplay: Troubleshooting Your Hearthstone Audio Problems</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-6s-plus-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone 6s Plus Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-honor-x50i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-iphone-12-mini-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>In 2024, How to Bypass iPhone 12 mini Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-apple-iphone-15-plus-drfone-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-13-mini-drfone-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-7-i-do-get-answers-here-drfone-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone 7 i Do? Get Answers here | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-8-plus-drfone-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-rated-portable-game-systems/"><u>Top-Rated Portable Game Systems</u></a></li>
+</ul></div>
 

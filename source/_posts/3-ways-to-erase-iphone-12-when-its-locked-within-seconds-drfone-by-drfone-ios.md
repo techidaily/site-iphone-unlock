@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Erase iPhone 12 When Its Locked Within Seconds | Dr.fone
-date: 2024-08-23T21:56:30.433Z
-updated: 2024-08-24T21:56:30.433Z
+date: 2024-10-03T22:38:06.425Z
+updated: 2024-10-08T23:13:58.444Z
 tags: 
   - unlock
   - remove screen lock
@@ -22,8 +22,6 @@ Over the last few years, Apple has made remarkable progress with its flagship iP
 
 One of the best ways to wipe locked iPhone is by using [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) tool. It is an extremely secure and reliable application. It is already compatible with every leading version of iOS and runs on almost all major iOS devices. Available for both Windows and Mac, the tool can be used to remove activation lock and Apple ID. The tool also provides an easy-to-use interface that can help you reset [the activation lock](https://drfone.wondershare.com/icloud/bypass-icloud-activation.html) on your device.
 
-
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Erase the data of an iPhone even if it is locked
@@ -41,9 +39,6 @@ To learn how to erase iPhone when locked, follow these steps:
 
 Start by downloading Dr.Fone - Screen Unlock (iOS) from its official website. Install it on your Windows or Mac and connect your Apple iPhone 12 to the system whenever you wish to resolve an issue with it. After launching the application, click on the “Screen Unlock” option from the welcome screen.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![erase iphone when locked-Dr.Fone toolkit](https://images.wondershare.com/drfone/guide/drfone-home.png "Dr.Fone toolkit")
 
 **Step 2. Click Start button.**
@@ -72,9 +67,6 @@ Sit back and relax as the application will download the essential firmware updat
 
 Once it is done, the application will automatically start resolving the issue on your phone. Make sure that you don’t disconnect your phone while Dr.Fone - Screen Unlock (iOS) will resolve the issue on your device.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![erase iphone when locked-repairing system](https://images.wondershare.com/drfone/drfone/ios-unlock-6.jpg "repairing system")
 
 **Step 7. Unlock completed.**
@@ -105,9 +97,6 @@ If you are looking for an alternative way to learn how to erase iPhone when lock
 
 4\. agree to the pop-up message by clicking on the “Restore” button.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![erase iphone when locked-restore iphone](https://images.wondershare.com/drfone/article/2017/07/14993649291284.jpg "restore iphone")
 
 ## Part 3: Erase locked iPhone by Find My iPhone
@@ -135,6 +124,13 @@ Is your Apple iPhone 12 screen broken, and you're wondering **how to unlock iPho
 Locking an iPhone with a passcode is a great way to prevent it from getting into the wrong hands. However, some misfortunes can happen, and you might be left with a broken screen. In such cases, you won't be able to get the data inside your phone. So, to get back at your files or to reset your device, you will need to unlock your phone first.
 
 In this detailed guide, we will elaborate on the best possible methods you can employ to **unlock iPhone with broken screen.** Moreover, we will introduce you to the best unlocking tools available for your situation. So stay with us till the end.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1: Use the Feature "Find My iPhone" to Unlock an iPhone with Broken Screen
 
@@ -210,10 +206,14 @@ You need to ask Siri, "Siri, what time is it?" or "Siri, what time is it in the 
 
 **Step 2.** Presently, tap on the world clock symbol. Now, tap on the + sign in the upper right corner to add the clock feature to the home screen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add new clock](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-5.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3.** At the point when another clock is added, you will have the choice to share the new clock.
 
@@ -233,13 +233,16 @@ You need to ask Siri, "Siri, what time is it?" or "Siri, what time is it in the 
 
 Besides, it works for iPhones with iOS 8.0 to 10.1. These bugs are fixed in the later versions of the Apple iPhone 12 and won't assist you with fooling Siri into unlocking your Apple iPhone 12.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## Bonus Tips: Easy Broken iPhone Unlock Tool
 
-### Dr.Fone-Screen Unlock
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
+### Dr.Fone-Screen Unlock
 
 The quickest way to **unlock iPhone with broken screen** is to use an unlocking tool. However, there are tons of tools available in the market, but it is our responsibility to suggest you the best way.
 
@@ -265,6 +268,13 @@ Dr.Fone will now show you the phone Model and OS version. You can choose the rig
 
 ![select phone model](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4. Unlock the Screen Now**
 
 After the firmware is downloaded effectively, click Unlock Now.
@@ -273,6 +283,18 @@ After the firmware is downloaded effectively, click Unlock Now.
 
 In almost no time, the software will unlock your Apple iPhone 12 effectively. However, note that this unlocking will likewise wipe your user data.
 
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### The Bottom Line
 
@@ -283,6 +305,13 @@ Having an iPhone with a broken screen can make your life hard. It keeps you from
 The Apple iPhone 12 are high-end smartphones with many features and capabilities. However, if you forget your passcode, these phones are nothing more than a paperweight. So, if you have also forgotten your passcode, you may be wondering how to unlock your Apple iPhone 12 11/12 or 13 without a passcode.
 
 ![unlock iphone 13 without passcode](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-11-12-13-without-passcode-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 This blog post will discuss several methods to unlock your Apple iPhone 12 without a passcode. So, this article will be very helpful if you have forgotten your Apple iPhone 12's passcode or are just looking for ways to unlock iPhones without a passcode.
 
@@ -368,7 +397,12 @@ But this method will not work on newer iPhones 11/12/13 and iPhone 14 because th
 
 ### Dr.Fone-Screen Unlock
 
-
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -403,12 +437,18 @@ If you are interested in using this tool, then here's how you can do it:
 
 ![how to unlock iphone 11 without password](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You only need to wait for some time as the process may take several minutes. So be patient and don't interrupt the process; otherwise, it may permanently damage your Apple iPhone 12.
 
 Once the process is completed, your Apple iPhone 12 will be unlocked, and you can choose a new passcode.
 
 This is the easiest and most effective way to reset your Apple iPhone 12 passcode. So, if you're looking for a hassle-free solution, this is the one you should choose.
-
 
 ## How Can I Turn On/Off the Passcode on My iPhone?
 
@@ -434,9 +474,6 @@ As you see in the article, there are some ways to reset your Apple iPhone 12 pas
 
 If you're not interested in using a third-party tool, you can try one of the methods mentioned above. But keep in mind that these methods may only work on some iPhones. So, if you need help deciding which way to use it, we recommend going with Dr.Fone-Screen Unlock.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -449,9 +486,21 @@ If you're not interested in using a third-party tool, you can try one of the met
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-bringing-images-to-life-windows-and-mac-text-integration-techniques-for-2024/"><u>[New] Bringing Images to Life Windows & Mac Text Integration Techniques for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-9-powerful-methods-to-make-money-on-your-youtube-shorts/"><u>[New] In 2024, 9 Powerful Methods to Make Money on Your YouTube Shorts</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-transforming-your-photos-on-instagram-green-screen/"><u>[New] In 2024, Transforming Your Photos on Instagram Green Screen</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-unlocking-vidmas-secrets-to-superior-screen-recording/"><u>[New] Unlocking Vidma’s Secrets to Superior Screen Recording</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-12-and-ipad-securely-drfone-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 12 and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/did-your-apple-iphone-8-plus-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your Apple iPhone 8 Plus Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-15-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone 15 Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-did-your-apple-iphone-11-pro-max-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>In 2024, Did Your Apple iPhone 11 Pro Max Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-x-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone X Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-samsung-galaxy-a34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Samsung Galaxy A34 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-text-messages-from-honor-magic-6-pro-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Text Messages from Honor Magic 6 Pro to New Phone | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-next-level-entertainment-exclusive-windows-10-gaming-and-apps/"><u>In 2024, Next-Level Entertainment Exclusive Windows 10 Gaming & Apps</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/scripting-a-powerful-tiktok-outro-statement-for-2024/"><u>Scripting a Powerful TikTok Outro Statement for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Nokia C12 Pro | Dr.fone</u></a></li>
+</ul></div>
 

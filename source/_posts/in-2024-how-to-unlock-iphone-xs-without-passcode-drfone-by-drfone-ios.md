@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock iPhone XS Without Passcode? | Dr.fone
-date: 2024-09-27T17:49:56.750Z
-updated: 2024-10-03T17:15:47.841Z
+date: 2024-10-03T00:42:37.551Z
+updated: 2024-10-08T23:01:55.427Z
 tags: 
   - unlock
   - remove screen lock
@@ -80,6 +80,13 @@ Here are the steps to recover Apple iPhone XS  via iTunes backup.
 
     ![feasible ways to unlock Apple iPhone XS 1](https://images.wondershare.com/drfone/article/2021/04/feasible-ways-to-unlock-iphone-7-and-7-plus-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. From there, look for the “Restore Backup” option and click on it. A confirmation window will pop up. Confirm your action.
 
     ![feasible ways to unlock Apple iPhone XS 2](https://images.wondershare.com/drfone/article/2021/04/feasible-ways-to-unlock-iphone-7-and-7-plus-2.jpg)
@@ -91,10 +98,10 @@ Here are the steps to recover Apple iPhone XS  via iTunes backup.
     ![feasible ways to unlock Apple iPhone XS 3](https://images.wondershare.com/drfone/article/2021/04/feasible-ways-to-unlock-iphone-7-and-7-plus-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Part 3: How to Change Passcode on Apple iPhone XS?**
@@ -113,24 +120,10 @@ If you wish to change the passcode on Apple iPhone XS , simply follow the steps 
 
     ![feasible ways to unlock Apple iPhone XS 5](https://images.wondershare.com/drfone/article/2021/04/feasible-ways-to-unlock-iphone-7-and-7-plus-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Once again, enter your current password.
 6. Now, type in your new password. You can change the type of passcode by clicking on the "Passcode Options." The new passcode type can be a numeric code, alphanumeric code, a 4-digit, or a 6-digit code.
 
     ![feasible ways to unlock Apple iPhone XS 6](https://images.wondershare.com/drfone/article/2021/04/feasible-ways-to-unlock-iphone-7-and-7-plus-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7. Select a specific passcode type, enter your new password and click on "Next."
 
@@ -177,19 +170,6 @@ At this point, a USB cable should be used to connect the Apple iPhone XS device 
 Select the Encrypt Local Backup option in the Backups section directly from either the Summary or General tab of the Backups section.
 
 ![encryption](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-2.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 4:** Create a Password
 
@@ -241,13 +221,6 @@ Proceed to the **Summary Page** and make your selection there for **The Computer
 
 ![keychain](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Select "Back Up Now" via iCloud to remove password
 
 If you already have a backup stored in iCloud, you may use iCloud for recovery.
@@ -259,6 +232,13 @@ Navigate to the **Apps & Data menu** and choose the **Restore from iCloud Backup
 After successfully signing in with your Apple ID, choose **Backup**.
 
 ![restore from icloud](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 During the time that the system is being restored, it is essential that the Wi-Fi connection remains active.
 
@@ -314,6 +294,13 @@ If you're finding a simple way to keep all your passwords, try using the Notes a
 
 You can even add a description of the password, so you remember which account it's for.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### The Bottom Line
 
 As a last piece of advice, please safely save your newly created passwords. Rather than writing them down in the iPhone's notepad, you should save the passwords in a secure location.
@@ -330,6 +317,13 @@ Did you go wrong when you set the Face ID the first time? Or are you tired to pu
 
 ![face id](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If the new Apple iPhone XS is your first-ever iPhone, or if you have neither upgraded your Apple iPhone XS from the 6/7/8 series nor have kept abreast with the happenings in the Apple world, you might wonder what this newfangled thing called Face ID is.
 
 Face ID is an authentication system that came with iPhone X for the first time, and then the Apple iPhone XS 13, the Apple iPhone XS 14, and now the Apple iPhone XS 15. Like Touch ID that uses your fingerprints, Face ID uses your face metrics to authenticate you for everything, the way Touch ID does.
@@ -339,6 +333,13 @@ Face ID is not a new and advanced version of Touch ID, but a completely differen
 ## Part II: What Can You Do with Face ID?
 
 Most of us know that we can unlock iPhone with our face via Face ID instead of a thumbprint or passcode. But actually, Face ID does more than just that. Let us learn more cool things you can do with Face ID, which helps you to make a decision if you still want to disable it. Here‘s what you can do on your Apple iPhone XS 13/12/11 with Face ID:
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### II.I Unlock Your Apple iPhone XS
 
@@ -368,13 +369,6 @@ Step 2: On any of these stores, when you tap on the option to buy some content, 
 
 ![make purchases with face id](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 The instructions are simple: press the side button twice to authenticate yourself using your Face ID and make the purchase.
 
 When done, a satisfying ting and a checkmark will confirm the action.
@@ -394,13 +388,6 @@ Step 4: Look at your Apple iPhone XS to authenticate yourself using your Face ID
 Step 5: When paying at retail outlets, hold your Apple iPhone XS (top being close to the reader) and wait for the checkmark and Done message.
 
 Step 6: To pay using Apple Pay on websites, choose Apple Pay as the payment method, double press the Side Button, look at your Apple iPhone XS, and wait for the Done message and checkmark to finish the process.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### II.III Lowering Ringer and Alarm Volume Automatically
 
@@ -434,6 +421,13 @@ Up until now, we saw how Face ID enables productivity features and how convenien
 
 ![animojis and memojis](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Animojis are animated emojis. These are made possible with advanced algorithms enabled by the TrueDepth camera in Face ID. Animated emojis or Animojis can mimic your facial expressions and you can use them in your message conversations in apps.
 
 Here‘s how to send Animojis in conversations on your new iPhone 13/12/11:
@@ -449,13 +443,6 @@ Step 3: Tap the Record button and you now have 30 seconds to do what you want wi
 Step 4: When done, the Record button changes to Send:
 
 ![sending a memoji](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Tap Send to send your first Memoji/ Animoji.
 
@@ -486,6 +473,13 @@ Step 2: Tap Set Up Face ID to start the process.
 Step 3: Hold your Apple iPhone XS in the portrait orientation at about an arm‘s length away from your face and then tap Get Started.
 
 ![setting up face id](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-10.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 4: Adjust to have your face inside the shown circle and then slowly rotate your head in a smooth motion to complete the circle. This step will be done one more time.
 
@@ -528,18 +522,15 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-expert-tips-to-download-and-save-instagram-media-from-your-computer/"><u>[New] Expert Tips to Download and Save Instagram Media From Your Computer</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-visual-masterpieces-top-10-phones-with-excellent-4k-cameras/"><u>[Updated] In 2024, Visual Masterpieces Top 10 Phones with Excellent 4K Cameras</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-pro-timer-swiftest-time-lapse-device/"><u>[Updated] Pro Timer Swiftest Time-Lapse Device</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/2024-approved-what-you-need-is-user-friendly-ways-to-put-together-film-while-helping-you-add-fancy-creative-effects-and-perfect-for-sharing-well-show-you-3-/"><u>2024 Approved What You Need Is User-Friendly Ways to Put Together Film While Helping You Add Fancy Creative Effects and Perfect for Sharing. Well Show You 3 Easy Steps</u></a></li>
-<li><a href="https://howto.techidaily.com/fix-cant-take-screenshot-due-to-security-policy-on-realme-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Cant Take Screenshot Due to Security Policy on Realme C55 | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-13-miniipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 13 mini/iPad Without Computer | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-12-pro-drfone-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-11-pro-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone 11 Pro Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-12-mini-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone 12 mini | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-mini-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 mini with a Mask On | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-14-pro-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-xiaomi-redmi-12-5g-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Xiaomi Redmi 12 5G Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://games-able.techidaily.com/unlock-better-gaming-with-this-essential-guide-of-8-cpu-cooler-factors/"><u>Unlock Better Gaming with This Essential Guide of 8 CPU Cooler Factors</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-ensuring-compliance-a-guide-to-pre-upload-on-tiktok/"><u>[New] 2024 Approved Ensuring Compliance A Guide to Pre-Upload on TikTok</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-streamline-your-videos-a-guide-to-igtv-posting/"><u>[New] 2024 Approved Streamline Your Videos A Guide to IGTV Posting</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-enhanced-privacy-engage-in-secure-conversations-with-chatgpt-and-beyond-via-duckduckgo/"><u>Discover Enhanced Privacy: Engage in Secure Conversations with ChatGPT & Beyond via DuckDuckGo</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-locked-apple-iphone-15-pro-max-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>Forgot Locked Apple iPhone 15 Pro Max Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-whatsapp-messages-on-honor-x50iplus-without-them-knowing-drfone-by-drfone-virtual-android/"><u>How to Track WhatsApp Messages on Honor X50i+ Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-iphone-14-pro-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Update iPhone 14 Pro without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-x-without-passcode-now-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone X Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-6-plus-i-do-get-answers-here-drfone-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone 6 Plus i Do? Get Answers here | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/synchronized-streaming-overcoming-av-discrepancies-in-youtube-for-chrome-and-firefox-users/"><u>Synchronized Streaming: Overcoming A/V Discrepancies in YouTube for Chrome & Firefox Users</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-15-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 15 i Do? Get Answers here | Dr.fone</u></a></li>
 </ul></div>
 

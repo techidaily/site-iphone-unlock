@@ -1,7 +1,7 @@
 ---
 title: How Can I Unlock My Apple iPhone 11 After Forgetting my PIN Code? | Dr.fone
-date: 2024-08-23T21:53:05.254Z
-updated: 2024-08-24T21:53:05.254Z
+date: 2024-10-03T16:25:34.871Z
+updated: 2024-10-08T19:20:22.356Z
 tags: 
   - unlock
   - remove screen lock
@@ -66,6 +66,13 @@ To unlock iPhone through iCloud:
 
 ![icloud unlock](https://images.wondershare.com/drfone/article/2022/11/forgotten-iphone-pin-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Unlock it with iTunes
 
 Suppose you use iTunes to restore the Apple iPhone 11 in recovery mode; it will install the latest iOS to your device. Doing so will erase all user data from the Apple iPhone 11 device, including the lock screen. So, this is also an excellent way to unlock your Apple iPhone 11. However, you must keep a backup of your important files before doing so.
@@ -94,7 +101,6 @@ Keep waiting until the restoration completes. Then, a short time later, go to yo
 
 ### 4\. Dr.Fone-Screen Unlock
 
-
 What to do if you **forgot iPhone PIN code**? As a reference, you have to erase your device to remove the lock. Aside from iTunes, you can use an outsider iPhone unlocker like Dr.Fone-Screen Unlock to unlock your device without a code.
 
 With such software, you don't have to master some professional skills. Instead, stick to the on-screen directions in Wondershare Dr.Fone-Screen Unlock. Then, you can reset your locked device without any problem. Dr.Fone will eliminate it for you, whether it's a four-digit code, six-digit code, Contact ID, or Face ID. Here's how:
@@ -121,6 +127,13 @@ After opening the recovery mode, you can see your Device Model and iOS version. 
 
 ![select phone model](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997635/19272" target="_top" id="1997635">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997635" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997635/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4. Remove the Screen Lock Passcode**
 
 After getting the required firmware, click the "Unlock Now" button to begin the process.
@@ -128,7 +141,6 @@ After getting the required firmware, click the "Unlock Now" button to begin the 
 ![unlock now](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
 Simply in almost no time, your Apple iPhone 11 will be unlocked effectively. However, kindly note this unlocking system will likewise wipe all the files and settings on your device. Therefore, you must have a backup of your essential documents beforehand.
-
 
 ## Part 2: FAQs
 
@@ -138,13 +150,17 @@ Simply in almost no time, your Apple iPhone 11 will be unlocked effectively. How
 
 ![passcode menu](https://images.wondershare.com/drfone/article/2022/11/forgotten-iphone-pin-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - Enter your existing code or create a new one.
 - Toggle on the "Turn Passcode Off" option.
 - Click again to agree, and you're good to go.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turn on off passcode](https://images.wondershare.com/drfone/article/2022/11/forgotten-iphone-pin-6.jpg)
 
 ### What to do after unlocking my iPhone?
@@ -158,8 +174,6 @@ No, you cannot unlock a locked iDevice without losing your data. Apple has made 
 ### The Bottom Line
 
 Due to one reason or another, you may have **forgotten iPhone PIN.** However, it is not that big a deal. In this article, we have proposed some of the best ways you can employ to erase this issue. However, we strongly recommend you use Dr.Fone for a quick solution.
-
-
 
 ## How To Unlock A Found Apple iPhone 11?
 
@@ -214,8 +228,12 @@ The process of unlocking an iPhone 8 or newer model differs from the older model
 Now, set up your Apple iPhone 11, and you are good to go.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 2\. Unlock it via the DNS server
 
 If the above method doesn't work or iTunes is not detecting that iPhone, you can follow this method.
@@ -237,7 +255,6 @@ If the above method doesn't work or iTunes is not detecting that iPhone, you can
 
 If none of the above methods can be used for you, there is an ultimate method that will surely help you if you want to unlock a found iPhone.
 
-
 Here are the simple steps that can help you.
 
 1. First, connect your Apple iPhone 11 to the computer with a lightning cable and launch Dr.Fone on your computer.
@@ -252,9 +269,6 @@ Here are the simple steps that can help you.
 4. Now, put your Apple iPhone 11 in DFU mode or Recovery mode according to your Apple iPhone 11 model.
 5. If you have no idea about it, don't worry. The software will provide on-screen instructions to help you put your Apple iPhone 11 in DFU mode or Recovery mode.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dfu mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 6. Once your Apple iPhone 11 is in DFU mode or Recovery mode, the software will ask you to start downloading the necessary firmware for your device. So, choose an appropriate firmware according to the Apple iPhone 11 model.
@@ -269,14 +283,27 @@ Here are the simple steps that can help you.
 
 ![unlock ios screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-So that's how you can easily unlock a found iPhone. This method has been tested, and it will surely work for you. So, if you have an iPhone that is locked or disabled, you can use this method to unlock it without any problem.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
+So that's how you can easily unlock a found iPhone. This method has been tested, and it will surely work for you. So, if you have an iPhone that is locked or disabled, you can use this method to unlock it without any problem.
 
 ## What Can I Do to Contact Its Owner?
 
 Once the found iPhone is successfully unlocked, you can contact its owner in many ways.
 
 Following are some of them that work.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Contact the owner with the phone number in lost mode
 
@@ -293,6 +320,13 @@ There is a feature in the Apple iPhone 11 known as medical ID. This feature can 
 ![contact the owner with the help of emergency medical id](https://images.wondershare.com/drfone/article/2022/11/i-found-an-iphone-how-do-i-unlock-it-7.jpg)
 
 To do this, go to the emergency call screen and tap on the Medical ID option. Here, you can find out the name and phone number of the owner. So, you can use this information to contact the owner and return the iPhone.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Take photos to communicate with the owner via iCloud
 
@@ -406,9 +440,6 @@ You need to ask Siri, "Siri, what time is it?" or "Siri, what time is it in the 
 
 **Step 6.** Add Siri to make another contact by tapping on the new or + symbol. Siri will open the New Contact interface with details like adding the name, photo, etc.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![create new contact](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-6.jpg)
 
 **Step 7.** Add the photo from the photo library. Tap on "Add Photo," and it will open the library for you. Tap on Select Photo, and Siri will unlock the Apple iPhone 11 device and let you pick a photo.
@@ -422,7 +453,6 @@ Besides, it works for iPhones with iOS 8.0 to 10.1. These bugs are fixed in the 
 ## Bonus Tips: Easy Broken iPhone Unlock Tool
 
 ### Dr.Fone-Screen Unlock
-
 
 The quickest way to **unlock iPhone with broken screen** is to use an unlocking tool. However, there are tons of tools available in the market, but it is our responsibility to suggest you the best way.
 
@@ -456,14 +486,22 @@ After the firmware is downloaded effectively, click Unlock Now.
 
 In almost no time, the software will unlock your Apple iPhone 11 effectively. However, note that this unlocking will likewise wipe your user data.
 
-
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### The Bottom Line
 
 Having an iPhone with a broken screen can make your life hard. It keeps you from communicating and carrying out important tasks on the phone. But we can make this situation work your way. Therefore, we have furnished the above list to help you **unlock iPhone with broken screen.** Even if none of the methods work, Dr.Fone can still get our phone unlocked.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -477,11 +515,21 @@ Having an iPhone with a broken screen can make your life hard. It keeps you from
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-top-15-latest-innovations-in-tiktok-world/"><u>[New] 2024 Approved Top 15 Latest Innovations in TikTok World</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-unlocking-canvas-potential-10-secrets-for-professionals/"><u>2024 Approved Unlocking Canvas Potential - 10 Secrets for Professionals</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-12-pro-max-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone 12 Pro Max in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/capture-and-share-the-art-of-using-zooms-snaps-for-2024/"><u>Capture & Share The Art of Using Zoom's Snaps for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-15-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your iPhone 15 Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-11-pro-max-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 Pro Max With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-6s-drfone-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-infinix-hot-40-pro-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Infinix Hot 40 Pro Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-samsung-galaxy-a54-5g-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Samsung Galaxy A54 5G Phone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-pro-max-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-inspirational-movies-fuel-for-the-soul-and-spirit/"><u>In 2024, Inspirational Movies Fuel for the Soul and Spirit</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-mastering-4k-videos-with-the-versatile-nikon-1j5/"><u>In 2024, Mastering 4K Videos with the Versatile Nikon 1J5</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-7-plus-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/stay-chill-with-the-latest-from-deepcool-high-performance-coolers-power-supplies-fans-and-rigs-now-in-vibrant-pixel-silicone-variants/"><u>Stay Chill with the Latest From DeepCool: High-Performance Coolers, Power Supplies, Fans & Rigs – Now in Vibrant Pixel Silicone Variants</u></a></li>
+</ul></div>
 

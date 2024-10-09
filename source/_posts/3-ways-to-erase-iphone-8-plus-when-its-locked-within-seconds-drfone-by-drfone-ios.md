@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Erase iPhone 8 Plus When Its Locked Within Seconds | Dr.fone
-date: 2024-08-23T21:56:19.521Z
-updated: 2024-08-24T21:56:19.521Z
+date: 2024-10-01T20:22:01.740Z
+updated: 2024-10-08T18:07:13.747Z
 tags: 
   - unlock
   - remove screen lock
@@ -18,18 +18,10 @@ thumbnail: https://thmb.techidaily.com/72ad6224a96d1332d870ccac31eeed89a25da9895
 
 Over the last few years, Apple has made remarkable progress with its flagship iPhone series. There are plenty of ways for users to back up, erase, and restore their data. It doesn’t matter if you are moving from one device to another or would like to reset your phone. You should know how to erase iPhone when locked. Too many times, after getting locked out of their device, users find it hard to wipe locked iPhone. If you are also going through the same dilemma, then don’t worry. Read on and learn how to wipe a locked iPhone in this extensive guide.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Erase locked iPhone with Dr.Fone - Screen Unlock (iOS)
 
 One of the best ways to wipe locked iPhone is by using [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) tool. It is an extremely secure and reliable application. It is already compatible with every leading version of iOS and runs on almost all major iOS devices. Available for both Windows and Mac, the tool can be used to remove activation lock and Apple ID. The tool also provides an easy-to-use interface that can help you reset [the activation lock](https://drfone.wondershare.com/icloud/bypass-icloud-activation.html) on your device.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone - Screen Unlock (iOS)
 
 Erase the data of an iPhone even if it is locked
@@ -65,9 +57,6 @@ Follow the on-screen instructions to put your phone into the DFU (Device Firmwar
 
 After putting your device into the DFU mode, the application will automatically move to the next window. Here, you would be required to provide essential information related to your phone like device model, firmware update, and more. After filling in the correct information, click on the “Download” button.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![erase iphone when locked-select phone details](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png "select phone details")
 
 Sit back and relax as the application will download the essential firmware update for your phone.
@@ -98,9 +87,23 @@ If you are looking for an alternative way to learn how to erase iPhone when lock
 
 ![erase iphone when locked-boot in recovery mode](https://images.wondershare.com/drfone/article/2017/07/14993648422730.jpg "boot in recovery mode")
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2\. As soon as your phone would be connected, iTunes will recognize an issue with it. From here, you can choose to restore it.
 
 ![erase iphone when locked-connect to itunes](https://images.wondershare.com/drfone/article/2017/07/14993648903843.jpg "connect to itunes")
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3\. If you don’t get the above pop-up on your screen, launch iTunes and visit its “Summary” section. From here, choose “Restore backup” under the Backup section.
 
@@ -118,9 +121,6 @@ If you haven’t already taken a backup of your phone, then you might find it ha
 
 2\. Under the “All Devices” section, you can choose the Apple iPhone 8 Plus you wish to reset.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![erase iphone when locked-all devices](https://images.wondershare.com/drfone/article/2017/07/14993649689013.jpg "all devices")
 
 3\. After selecting your device, you will be presented with various options. Select the “Erase iPhone” feature to reset your device.
@@ -159,6 +159,13 @@ Also, if your Apple iPhone 8 Plus screen is broken, you can use this feature to 
 **Step 3.** After signing in effectively, click on Find My and enter your Apple ID and password. Click on Sign In.
 
 ![click find my iphone](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044582/7443" target="_top" id="2044582">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044582" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044582/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4.** Pick your locked phone under the "All Devices" segment.
 
@@ -215,6 +222,13 @@ You need to ask Siri, "Siri, what time is it?" or "Siri, what time is it in the 
 
 ![add new clock](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3.** At the point when another clock is added, you will have the choice to share the new clock.
 
 **Step 4.** Click on the share button and Pick the Message choice.
@@ -236,7 +250,6 @@ Besides, it works for iPhones with iOS 8.0 to 10.1. These bugs are fixed in the 
 ## Bonus Tips: Easy Broken iPhone Unlock Tool
 
 ### Dr.Fone-Screen Unlock
-
 
 The quickest way to **unlock iPhone with broken screen** is to use an unlocking tool. However, there are tons of tools available in the market, but it is our responsibility to suggest you the best way.
 
@@ -268,14 +281,24 @@ After the firmware is downloaded effectively, click Unlock Now.
 
 ![unlock now](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
-In almost no time, the software will unlock your Apple iPhone 8 Plus effectively. However, note that this unlocking will likewise wipe your user data.
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
+In almost no time, the software will unlock your Apple iPhone 8 Plus effectively. However, note that this unlocking will likewise wipe your user data.
 
 ### The Bottom Line
 
 Having an iPhone with a broken screen can make your life hard. It keeps you from communicating and carrying out important tasks on the phone. But we can make this situation work your way. Therefore, we have furnished the above list to help you **unlock iPhone with broken screen.** Even if none of the methods work, Dr.Fone can still get our phone unlocked.
-
-
 
 ## Resolve Your Apple iPhone 8 Plus Keeps Asking for Outlook Password
 
@@ -300,6 +323,13 @@ An outdated Outlook mail app on your Apple iPhone 8 Plus may struggle to communi
 ### 3\. Network Connectivity Issues
 
 Upholding a stable internet connection is necessary for effortless communication. An unreliable or unstable network can disrupt the synchronization process in Outlook.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Corrupted Email Account Profile
 
@@ -388,6 +418,20 @@ Ensuring that your sync settings align with Outlook's recommended configurations
 - **Step 2.** Confirm that the "Push" or "Fetch" settings are configured to your preference. "Push" enables real-time updates, while "Fetch" allows you to set specific intervals for email updates.
 
 ![select required schedule for outlook](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-12.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7. Uninstall and Re-Install Outlook App
 
@@ -495,7 +539,6 @@ Once you've launched Dr.Fone on your computer, go to Toolbox. Here, tap "Screen 
 
 ![select unlock ios screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-2.png)
 
-
 - Step 2: Initiating iPhone Recovery Mode and Device Identification
 
 Subsequently, you need to place your Apple iPhone 8 Plus into Recovery Mode. Adhere to the on-screen instructions corresponding to the model of your iDevice. Afterward, the tool will automatically detect the "Device Model." If necessary, adjust the model and choose the "System Version." Once these steps are completed, click "Start" to initiate the unlocking process.
@@ -506,9 +549,6 @@ Subsequently, you need to place your Apple iPhone 8 Plus into Recovery Mode. Adh
 
 Monitor the iOS firmware download progress on the screen. After successful download and verification, proceed by selecting "Unlock Now." A confirmation window will appear, prompting you to input the necessary code. Enter the code and tap Unlock to proceed to the outcome. Upon unlocking the iDevice, click the “Done” button to finalize the process.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enter code to unlock device](https://images.wondershare.com/drfone/guide/unlock-ios-screen-7.png)
 
 ## Conclusion
@@ -516,7 +556,6 @@ Monitor the iOS firmware download progress on the screen. After successful downl
 To summarize, resolving **an iPhone asking for an Outlook password** requires a systematic approach. From re-entering passwords to adjusting settings, this guide has covered 13 comprehensive fixes. For those facing the challenge of a locked iPhone, Dr.Fone offers a reliable solution. Users can ensure integration between their iPhones and Outlook by addressing these issues. This will enhance their overall email experience.
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -530,9 +569,26 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-easy-peasy-ffvegior-grab-facebook-video-mp4-files/"><u>[New] 2024 Approved Easy Peasy FFVEGIOR Grab Facebook Video MP4 Files</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-reimagined-sony-bdp-s6700-experience/"><u>[New] The Reimagined Sony BDP-S6700 Experience</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-building-effective-product-sponsor-relationships/"><u>[Updated] Building Effective Product-Sponsor Relationships</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-journey-to-optimal-health-the-top-10-online-yoga-masters/"><u>[Updated] Journey to Optimal Health - The Top 10 Online Yoga Masters</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-telegram-for-newcomers-how-to-make-your-advertising-stand-out-for-2024/"><u>[Updated] Telegram for Newcomers How to Make Your Advertising Stand Out for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-first-time-user-steps-for-effortless-vrecorder-setup/"><u>2024 Approved First-Time User Steps for Effortless VRecorder Setup</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-iphone-13-pro-max-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your iPhone 13 Pro Max</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-vivo-v29e-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Vivo V29e Phone? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-15-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-12-pro-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone 12 Pro Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-pro-max-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 Pro Max without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-pro-max-apples-new-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 15 Pro Max, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6s-without-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6s Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-iphone-12-pro-5-ways-to-get-into-a-locked-iphone-12-pro-drfone-by-drfone-ios/"><u>In 2024, Locked Out of iPhone 12 Pro? 5 Ways to get into a Locked iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-apple-iphone-se-2022-5-ways-to-get-into-a-locked-apple-iphone-se-2022-drfone-by-drfone-ios/"><u>Locked Out of Apple iPhone SE (2022)? 5 Ways to get into a Locked Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/toms-tech-reviews-expert-insights-on-the-latest-computer-components-and-gadgets/"><u>Tom's Tech Reviews: Expert Insights on the Latest Computer Components and Gadgets</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-13-pro-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>Unlock Apple iPhone 13 Pro With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-se-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking iPhone SE Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-face-off-the-best-face-swap-apps-for-iphone-and-android-for-2024/"><u>Updated Face Off The Best Face Swap Apps for iPhone and Android for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on Apple iPhone X | Dr.fone
-date: 2024-08-16T17:28:28.408Z
-updated: 2024-08-17T17:28:28.408Z
+date: 2024-10-06T00:07:42.591Z
+updated: 2024-10-08T17:22:12.471Z
 tags: 
   - unlock
   - remove screen lock
@@ -180,7 +180,12 @@ For an easy solution, use Dr.Fone Screen Unlock to bypass MDM restrictions, givi
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
-
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 7 Ways to Lock Apps on Apple iPhone X and iPad Securely
 
@@ -222,6 +227,13 @@ When activated, it takes you to the lock screen, prompting Face ID, Touch ID, or
 
 ![customize app automation settings](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3.** Proceed forward by tapping "Next" from the top right corner, and on the following screen, tap "New Blank Automation." Then, press "Add Action" and enter "Lock Screen" into the Search field, then choose "Lock Screen" from the search results.
 
 ![search for lock screen option](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-6.jpg)
@@ -250,8 +262,6 @@ By taking the assistance of Apple’s native Restrictions feature, you can app l
 
 It can be a trouble if you forget your Apple iPhone X passcode since there are many restrictions on using iPhone. Also, if you are still unable to verify your Apple ID by using the above ways you may consider removing your Apple ID on your iOS devices. Here is an easy way to help you bypass Apple ID without a password and 100% working, which is to use Dr.Fone - Screen Unlock (iOS). It’s a professional iOS unlocker tool that can help you remove various locks on iPhones and iPads. With only a few steps, you can easily remove your Apple ID.
 
-
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Remove iPhone iPhone-locked screen without Hassle.
@@ -262,7 +272,21 @@ Remove iPhone iPhone-locked screen without Hassle.
 - Works for all models of iPhone, iPad, and iPod touch.
 - Fully compatible with the latest iOS.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4,008,670** people have downloaded it
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 5: How to Lock Apps on iPhone Using Guided Access?
 
@@ -276,13 +300,17 @@ Besides the Restrictions feature, you can also take the assistance of Guided Acc
 
 ![guided access password](https://images.wondershare.com/drfone/article/2017/09/15060135537597.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3.** After selecting the “Set Guided Access Passcode” option, you can set up a passcode to use it as an app lock for iPhone.
 
 **Step 4.** Now, simply launch the app that you want to restrict and tap the Home button three times. This will start the Guided Access mode.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![guided access started](https://images.wondershare.com/drfone/article/2017/09/15060135762800.jpg)
 
 **Step 5.** Your phone would now be restricted to this app. You can further restrict the usage of certain app features as well.
@@ -300,6 +328,13 @@ On the Apple iPhone X 8 Series and iPhone SE, Apple offers Touch ID for security
 ![proceed into touch id settings](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-8.jpg)
 
 ## Part 7: How to Lock Apps on iPhone Using Third-Party Apps?
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Lock Apps onApple iPhone X & iPad via Famisafe
 
@@ -355,6 +390,13 @@ However, if you have a jailbroken device and would like to app lock the iPhone, 
 
 This will let your app lock the Apple iPhone X without any trouble. You can also go to the “Reset Password Phrase” to change the passcode.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Lock Apps onApple iPhone X & iPad using BioProtect
 
 Just like Applocker, BioProtect is another third-party tool that works only on jailbroken devices. It can also be downloaded from Cydia’s repository. Apart from apps, you can also use BioProtect to lock settings, SIM features, folders, and more. It is linked to the Touch ID of the Apple iPhone X device and scans the fingerprint of a user to grant (or deny) access to any app. The app only works on iPhone 5s and later devices, having a Touch ID. However, you can also set a passcode as well if your Touch ID is not working. To use the BioProtect app lock for iPhone, follow these steps:
@@ -393,9 +435,6 @@ With such countless passwords, forgetting passwords on occasion isn't surprising
 
 Losing a passcode is entirely normal and can happen to anyone. So, if you are also among the lot, we will elaborate **on how to unlock iPhone with iTunes.** After thorough research, our experts have laid out some essential unlocking methods for our readers. So, if you need to get things straight, read this detailed guide to go over your issue.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Why Was My iPhone Disabled?
 
 Using a lock screen passcode to secure your iDevice is an excellent way. However, it can become troublesome when you forget the key to your phone. Moreover, you may get stuck even if your screen breaks. On the other hand, someone may take your phone and type a few incorrect passcodes.
@@ -458,9 +497,6 @@ The above bar will show "Extracting software… ". It implies iOS 15.4.1 iTunes 
 
 ## Part 3: Unlocking iPhone without iTunes
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. Unlock it with Find My in iCloud
 
 Find My is a famous element in Apple devices that allows you to find your lost phone through Maps. The component has been updated from that point forward, and presently it can be utilized to erase your Apple iPhone X. Additionally, you can use it to erase your information without a passcode.
@@ -496,10 +532,13 @@ Pick your locked gadget under the "All Devices" area.
 **Step 10.** iPhone will show that it is locked to the owner. You have to sign in with your Apple ID again, enter the password, and tap on Next. You will currently be enabled to make your new passcode.
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-### 2\. Dr.Fone-Screen Unlock
 
+### 2\. Dr.Fone-Screen Unlock
 
 If you are searching for an elective way to unlock your Apple iPhone X with iTunes, you can pick Wondershare Dr.Fone-Screen Unlock.
 
@@ -513,9 +552,6 @@ From the Dr.Fone program on your PC, select "Screen Unlock" the tool.
 
 Then use a USB connector to connect your iOS gadget to the PC. Then, click the "Unlock iOS Screen" option on your screen.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unlock ios screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
 **Step 2. Boot your iDevice in Recovery/DFU Mode**
@@ -542,7 +578,6 @@ Doing so will unlock your Apple iPhone X within no time. However, kindly note th
 
 We hope you found out about **how to unlock iPhone with iTunes**. We likewise discussed what to do when you need an alternate method to iTunes. We know that using iTunes can be somewhat complicated; hence, the other options can help you a ton. However, we strongly suggest Dr.Fone-Screen Unlock for a more refined unlocking process.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -555,9 +590,21 @@ We hope you found out about **how to unlock iPhone with iTunes**. We likewise di
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/2024-approved-laying-foundations-for-understanding-av1-tech/"><u>2024 Approved Laying Foundations for Understanding AV1 Tech</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-lut-techniques-for-professional-color-grading-and-correction/"><u>2024 Approved LUT Techniques for Professional Color Grading and Correction</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-xs-and-ipad-securely-drfone-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone XS and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/bring-back-psp-classics-iphone-style/"><u>Bring Back PSP Classics, iPhone Style</u></a></li>
+<li><a href="https://app-tips.techidaily.com/download-top-20-best-free-android-games-play-the-complete-versions-with-no-cost/"><u>Download Top 20 Best Free Android Games: Play the Complete Versions with No Cost</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-15-pro-max-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-locked-iphone-8-plus-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>Forgot Locked iPhone 8 Plus Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/from-idea-to-impact-solo-podcasts-that-resonate/"><u>From Idea to Impact Solo Podcasts that Resonate</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-xiaomi-redmi-12-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Xiaomi Redmi 12</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-apple-iphone-12-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your Apple iPhone 12 When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-12-5-ways-to-get-into-a-locked-apple-iphone-12-drfone-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone 12? 5 Ways to get into a Locked Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-google-pixel-fold-and-browser-drfone-by-drfone-virtual-android/"><u>In 2024, Prevent Cross-Site Tracking on Google Pixel Fold and Browser | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-poco-c55-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Poco C55 Phone Now with These Tips</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-final-cut-professionals-guide-to-top-10-plug-ins/"><u>The Final Cut Professional's Guide to Top 10 Plug-Ins</u></a></li>
+</ul></div>
 

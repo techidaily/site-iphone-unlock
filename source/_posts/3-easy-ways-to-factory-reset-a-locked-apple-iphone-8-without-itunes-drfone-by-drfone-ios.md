@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Ways to Factory Reset a Locked Apple iPhone 8 Without iTunes | Dr.fone
-date: 2024-08-23T21:57:41.705Z
-updated: 2024-08-24T21:57:41.705Z
+date: 2024-10-01T18:48:30.685Z
+updated: 2024-10-09T00:38:12.390Z
 tags: 
   - unlock
   - remove screen lock
@@ -28,7 +28,6 @@ Let's get started.
 
 If you search for a simple and effective way to factory reset your locked iPhone without iTunes, you should check out Dr.Fone-Screen Unlock. This professional iOS screen unlocks tool can help you erase all kinds of data from your Apple iPhone 8 and help you unlock your device within a few minutes.
 
-
 For this, you will need to follow the steps given below.
 
 **Step #1: Download and Install Dr.Fone-Screen Unlock on a Computer or Mac:**
@@ -39,9 +38,6 @@ First, download Dr.Fone-Screen Unlock on your computer or Mac. Once the software
 
 On the main interface of Dr.Fone, you need to select " Screen Unlock. " You may see many options, but you will have to choose Screen Unlock because it will allow you to remove the passcode from your locked iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![factory reset without itunes](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step #3: Get your Apple iPhone 8 in Recovery Mode and Make it connected to the Computer:**
@@ -80,6 +76,13 @@ Resetting your locked iPhone without iTunes is one of the most effective methods
 
 ![via the find My Apple iPhone 8 feature](https://images.wondershare.com/drfone/article/2022/11/factory-reset-locked-iphone-without-itunes-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 To do this, you need to follow these steps:
 
 **Step 1:** Go to icloud.com from any web browser and log in with your Apple ID and password.
@@ -97,6 +100,13 @@ Now that your device has been erased, you can reset it as a new one.
 This is another method you can use if you have the " Find My iPhone " feature on your device. You can use this method to remotely factory reset your locked iPhone without iTunes by using another iOS device.
 
 ![the find my iphone on another device](https://images.wondershare.com/drfone/article/2022/11/factory-reset-locked-iphone-without-itunes-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 To do this, you need to follow these steps:
 
@@ -158,6 +168,13 @@ To force your Apple iPhone 8 to factory reset with buttons, you need to follow t
 
 Your device will now be reset, and you will have a phone like a new one.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. How can I get into a locked iPhone?
 
 If you have lost the passcode of your Apple iPhone 8, then you can use the Dr.Fone-Screen Unlock tool to factory reset your device. To do this, you need to proceed with the steps given above. They are easy to follow and will help you reset your device without risk.
@@ -182,8 +199,6 @@ This article comes up with different resolutions and techniques for unlocking yo
 
 You might be anxious if you have locked your Apple iPhone 8 and forgotten the passcode. However, there is no need to worry, [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is here at your service. The tool handles the Apple iPhone 8 passcode screen problem and removes it effortlessly. The user doesn’t need any technical knowledge beforehand to use the tool.
 
-
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone Passcode Screen.
@@ -196,8 +211,12 @@ Unlock iPhone Passcode Screen.
 **3981454** people have downloaded it
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Step-by-Step Guide to Bypass iPhone Lock Screen
 
 If you are unfamiliar with using the Screen Unlock feature to get rid of the problem, allow us to walk you through the procedure.
@@ -213,6 +232,19 @@ First, download and launch Dr.Fone – Screen Unlock on the computer. Then, clic
 Tap on “Unlock iOS Screen” afterward. Now, Follow the on-screen instructions to boot your phone in Recovery or DFU mode. If you cannot activate the recovery mode, click the button line to work on the DFU mode.
 
 ![enable dfu mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
+
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3: Unlocking the iPhone/iPad**
 
@@ -250,6 +282,13 @@ Click on Restore, and iTunes will download the software for the Apple iPhone 8 d
 
 ![tap on restore button](https://images.wondershare.com/drfone/article/2022/04/unlock-iphone-passcode-screen-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Pros**
 
 - The Apple iPhone 8 is restored to the previous settings, and all messages and emails will be retrieved.
@@ -275,6 +314,13 @@ Open iCloud.com on your computer and sign with your Apple ID. All the Apple iPho
 Click on the Apple iPhone 8 device that needs to be removed. Then click on “Erase iPhone”. Now, you can restore the Apple iPhone 8 from the backup or set up a new one.
 
 ![click on erase iphone](https://images.wondershare.com/drfone/article/2022/04/unlock-iphone-passcode-screen-8.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Pros**
 
@@ -398,6 +444,13 @@ If you have the older iPhone 7, putting that device in Recovery Mode is slightly
 
 The Apple iPhone 8 will be restored to factory settings and restarted. You will have to set it up afresh when all data on the Apple iPhone 8 device is erased in this process.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### I.II: Unlock Apple iPhone 8 Without Passcode Through Wondershare Dr.Fone
 
 Now, if that process does not inspire confidence and you would like a more guided walkthrough experience, there is an app by Wondershare to help you through the unlocking process every step of the way - Wondershare Dr.Fone-Screen Unlock.
@@ -406,16 +459,12 @@ Wondershare Dr.Fone is a collection of tools designed to help you perform variou
 
 It is a must-have software that supports iOS and Android and works on both macOS and Windows. Download [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) here to begin.
 
-
 **Step 1:** You need to connect your PC with a USB to Your Apple iPhone 8. And open Dr.Fone.
 
 ![drfone app](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2:** Find Unlock iOS Screen and click it:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![drfone ios screen unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
 **Step 3:** The provided instructions help you to get the Apple iPhone 8 into Recovery Mode:
@@ -432,10 +481,6 @@ Click Unlock Now and wait until the unlock successful notification pops up.
 
 ![unlock iphone without passcode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### I.III: Unlock Apple iPhone 8 Without Passcode Through The iCloud Website (Find My iPhone)
 
 If the Apple iPhone 8 had Find My enabled before it got locked, and you have the iCloud credentials that the Apple iPhone 8 is locked to, you can use Find My on the iCloud website to unlock the locked iPhone.
@@ -444,9 +489,6 @@ If the Apple iPhone 8 had Find My enabled before it got locked, and you have the
 
 **Step 2:** Click Find My and select your Apple iPhone 8.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unlock iphone with icloud find my](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-8-without-passcode-3.jpg)
 
 **Step 3:** Click Erase iPhone and confirm.
@@ -499,9 +541,6 @@ The convenience of Touch ID on the Apple iPhone 8 is unparalleled. Yet, with tha
 
 So, if you have forgotten your Apple iPhone 8 passcode and are looking for how to unlock Apple iPhone 8 without passcode, use this guide to pick one of the three easy ways to unlock Apple iPhone 8 in case of forgotten passcode.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -514,9 +553,21 @@ So, if you have forgotten your Apple iPhone 8 passcode and are looking for how t
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-digital-savvy-guide-opting-between-software-and-no-software-for-vimeo/"><u>[New] Digital Savvy Guide Opting Between Software & No-Software for Vimeo</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-master-mac-screen-and-voice-logging-device-for-2024/"><u>[New] Master Mac Screen and Voice Logging Device for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-top-10-cost-free-video-chat-apps-on-ios-and-android/"><u>[New] Top 10 Cost-Free Video Chat Apps on iOS & Android</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-fusionflicker-compiling-media-on-sierra-screens/"><u>[Updated] FusionFlicker Compiling Media on Sierra Screens</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/evaluating-the-dell-inspiron-3671-desktop-computer-a-review-of-an-unassuming-midrange-performance-unit/"><u>Evaluating the Dell Inspiron 3671 Desktop Computer: A Review of an Unassuming, Midrange Performance Unit</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/harmonious-hues-photographic-pieces-of-lifes-palette/"><u>Harmonious Hues Photographic Pieces of Life's Palette</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-xs-max-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone XS Max With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-cricket-iphone-8-plus-for-free-by-drfone-ios/"><u>How To Unlock Cricket iPhone 8 Plus for Free</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-your-iphone-13-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>How to Unlock Your iPhone 13 Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-3utools-virtual-location-not-working-on-motorola-moto-g-stylus-2023-fix-now-drfone-by-drfone-virtual-android/"><u>In 2024, 3uTools Virtual Location Not Working On Motorola Moto G Stylus (2023)? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-best-9-smartphone-video-call-solutions-iphone-vs-android-reviewed/"><u>In 2024, Best 9 Smartphone Video Call Solutions IPhone vs Android Reviewed</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-14-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone 14? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-pro-max-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Pro Max With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-is-your-apple-iphone-15-plus-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone 15 Plus in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+</ul></div>
 

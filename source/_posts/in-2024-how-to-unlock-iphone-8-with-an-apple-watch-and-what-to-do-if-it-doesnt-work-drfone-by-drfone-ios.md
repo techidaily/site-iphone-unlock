@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock iPhone 8 With an Apple Watch & What to Do if It Doesnt Work | Dr.fone
-date: 2024-10-02T18:32:05.965Z
-updated: 2024-10-03T16:13:40.235Z
+date: 2024-10-06T16:13:06.791Z
+updated: 2024-10-09T00:34:06.967Z
 tags: 
   - unlock
   - remove screen lock
@@ -41,6 +41,13 @@ The problem is that neither face ID nor traditional passcodes aren’t always th
 What could work is your Apple Watch.
 
 Depending on the Apple Watch version you own and your Apple iPhone 8 model, you could use your watch to unlock your phone in any circumstances. It’s easy, secure, and convenient, above all else.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2. Requirements for Unlocking Apple iPhone 8 With Apple Watch
 
@@ -105,6 +112,13 @@ However, remember that the next time you want to use your Apple Watch to unlock 
 
 Generally speaking, unlocking your Apple iPhone 8 with an Apple Watch should be a simple, seamless task. Unfortunately, though, that’s not always the case. A glitch or a bug could be preventing you from enjoying this feature, so take a look at a few things you could try to fix it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1. Check All Settings & Reconfigure
 
 As mentioned earlier, there are a few requirements that your devices need to meet to unlock your Apple iPhone 8 with your Apple Watch.
@@ -118,13 +132,6 @@ Make sure that you have:
 - Feature **Unlock with Apple Watch**turned on on your Apple iPhone 8.
 
 If all the settings are correct, try one of the following options.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2. Restart Your WiFi/Bluetooth Connection
 
@@ -158,13 +165,6 @@ To perform a standard system repair with Dr.Fone, follow the next few steps:
 - **Step 2:** From the **Toolbox**on your left-hand side, select **System Repair**;
 
 ![unlock-iphone-with-watch-8.jpg](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 3:** Connect your Apple iPhone 8 to your PC using a cable connection;
 - **Step 4:** Select your device type in the new window that opens;
@@ -218,11 +218,25 @@ This app offers a reliable and secure platform for storing personal and confiden
 
 ![unlock forgotten notes password easily](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1. Best Method To Unlock Forgotten Notes Password iPhone: Wondershare Dr.Fone
 
 Apple allows users to create a separate password for notes or use their iPhone passcode. Many users choose the second option to avoid remembering a new password. Forgetting the Apple iPhone 8 device passcode poses a drawback, making your notes inaccessible. [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) stands out as one of the most straightforward solutions for addressing this scenario.
 
 It offers an absolute way to regain access to your notes and device if you **forgot locked Notes password**. However, it's essential to note that this method will remove all data from your Apple iPhone 8. That allows you to set your device as new and restore the old data using backups. Dr.Fone offers a comprehensive solution with the ability to bypass or remove most of the locks on iOS devices.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Focusing Features of Wondershare Dr.Fone
 
@@ -296,13 +310,6 @@ Locking notes on your Apple iPhone 8 provides extra security for your sensitive 
 
 ![enter password to lock note](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 In conclusion, this article addressed methods for **how to recover locked notes on iPhone**s. It explored options such as using Settings to remove note locks, leveraging Touch ID/Face ID for access, and introducing Wondershare Dr.Fone as a comprehensive solution. Dr.Fone offers a direct approach to unlocking devices when passwords are inaccessible.
@@ -314,17 +321,10 @@ Are you aware of the common mistakes people make when creating their Apple ID pa
 ![change apple id password on web](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-password-01.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 1: Is Your Apple ID Safe? Watch Out for These Signs
@@ -356,6 +356,13 @@ Friends and family receiving strange emails from your Apple ID should raise susp
 To protect your account from unauthorized access, Apple may lock or disable your account if your password or other account information is entered incorrectly several times.
 
 ![apple id locked](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-password-03.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Now that you're aware of these signs, it's crucial to know **how to change your Apple ID password** to fortify your account's security. Don't worry; the next section will guide you through the process step by step.
 
@@ -431,10 +438,10 @@ Click **Forgot password** on the Apple ID sign-in page on the web browser. This 
 ![reset apple id password on web](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-password-07.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **After You Setup Your Device**
@@ -490,13 +497,6 @@ Account recovery is a process that can help you regain access to your Apple ID a
 
 ![confirm credit card for account recovery](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-password-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If you need to access iCloud services and Apple ID features faster, a third-party tool like [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) may help.
 
 **You May Also Like:**
@@ -506,6 +506,13 @@ If you need to access iCloud services and Apple ID features faster, a third-part
 [<u>Complete Guide to Unlock Mi Account Without Password In 2023</u>](https://drfone.wondershare.com/unlock/guide-to-unlock-mi-account-without-password.html)
 
 [<u>[2023 Updated] How to Sign Out of Apple ID without Password?</u>](https://drfone.wondershare.com/unlock/how-to-sign-out-of-apple-id-without-password.html)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: Using Dr.Fone Unlock Tool To Access Your Apple Account Sooner
 
@@ -528,13 +535,6 @@ Dr.Fone is easy to use and intuitive, even for users with no technical experienc
 - **Step 4:** For the question, "**Have you set up a screen lock on your Phone**?" click **Yes**. Then, on the next screen, click **Yes** again to verify you enabled the two-factor authentication.
 
 ![dr.fone confirm screen lock set up](https://images.wondershare.com/drfone/guide/remove-apple-id-3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 5:** Follow the in-app instructions to put your iOS device into Recovery Mode.
 
@@ -576,16 +576,18 @@ Creating a strong Apple ID password is simple: mix letters and numbers, make it 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-proven-approaches-to-exceptional-android-time-lapse-photography/"><u>[New] 2024 Approved Proven Approaches to Exceptional Android Time-Lapse Photography</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-12-pro-drfone-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/effortless-guide-acquire-the-latest-sound-blaster-z-drivers-compatible-with-windows-eboard/"><u>Effortless Guide: Acquire the Latest Sound Blaster Z Drivers Compatible with Windows Eboard</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exclusive-information-on-the-future-of-mobility-sony-car-afeela-anticipated-price-points-and-specs/"><u>Exclusive Information on the Future of Mobility: Sony Car (Afeela) - Anticipated Price Points and Specs</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>How To Pause Life360 Location Sharing For Apple iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-apple-iphone-13-in-lost-mode-drfone-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock Apple iPhone 13 in Lost Mode | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Tecno Spark Go (2024) | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-did-your-iphone-6s-plus-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>In 2024, Did Your iPhone 6s Plus Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-locked-iphone-xs-max-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Forgot Locked iPhone XS Max Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE Passcode without Computer? | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-samsung-galaxy-m34-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Samsung Galaxy M34 5G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-from-beginner-to-pro-transforming-windows-videos-with-minimal-tools/"><u>[New] 2024 Approved From Beginner to Pro Transforming Windows Videos with Minimal Tools</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-effortless-imovie-music-enhancement-using-youtube-songs/"><u>[Updated] 2024 Approved Effortless iMovie Music Enhancement Using YouTube Songs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-formulating-a-thrilling-film-outtakes-package/"><u>2024 Approved Formulating a Thrilling Film Outtakes Package</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-strategies-to-fix-crashes-while-playing-cs2-on-your-computer-for-an-uninterrupted-gaming-experience/"><u>Expert Strategies to Fix Crashes While Playing CS2 on Your Computer for an Uninterrupted Gaming Experience</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-14-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 14 Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-14-pro-max-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone 14 Pro Max After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-12-prevention-and-solution-drfone-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone 12 Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/mastering-screen-recording-mi-11-edition-for-2024/"><u>Mastering Screen Recording Mi 11 Edition for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/new-horizons-essential-alterations-to-windows-11s-explorer/"><u>New Horizons: Essential Alterations to Windows 11'S Explorer</u></a></li>
+<li><a href="https://games-able.techidaily.com/next-gen-gaming-mouse-logitechs-innovation/"><u>Next Gen Gaming Mouse - Logitech's Innovation</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/obsmkvmp4/"><u>OBSで録画したMKVビデオをMP4に直してください | 変換手順詳しく解説</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/snapshots-of-progress-windows-10s-new-features/"><u>Snapshots of Progress Windows 10'S New Features</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-se-2020-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone SE (2020) Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
 </ul></div>
 

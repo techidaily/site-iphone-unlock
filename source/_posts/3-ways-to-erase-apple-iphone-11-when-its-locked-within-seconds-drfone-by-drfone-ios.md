@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Erase Apple iPhone 11 When Its Locked Within Seconds | Dr.fone
-date: 2024-08-23T21:57:02.678Z
-updated: 2024-08-24T21:57:02.678Z
+date: 2024-10-07T00:01:35.193Z
+updated: 2024-10-09T00:13:50.679Z
 tags: 
   - unlock
   - remove screen lock
@@ -22,11 +22,6 @@ Over the last few years, Apple has made remarkable progress with its flagship iP
 
 One of the best ways to wipe locked iPhone is by using [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) tool. It is an extremely secure and reliable application. It is already compatible with every leading version of iOS and runs on almost all major iOS devices. Available for both Windows and Mac, the tool can be used to remove activation lock and Apple ID. The tool also provides an easy-to-use interface that can help you reset [the activation lock](https://drfone.wondershare.com/icloud/bypass-icloud-activation.html) on your device.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Dr.Fone - Screen Unlock (iOS)
 
 Erase the data of an iPhone even if it is locked
@@ -51,6 +46,13 @@ Start by downloading Dr.Fone - Screen Unlock (iOS) from its official website. In
 Wait for a while as the application will automatically recognize your phone. Click on the “Start” button to commence the process.
 
 ![erase iphone when locked-connect iphone](https://images.wondershare.com/drfone/drfone/ios-unlock-1.jpg "connect iphone")
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3. Put the phone into DFU mode.**
 
@@ -122,8 +124,6 @@ Confirm your choice and wipe locked iPhone remotely using the Find My iPhone fea
 
 After following this informative guide, you would learn how to wipe a locked iPhone without any trouble. Go ahead and pick your preferred option to wipe locked iPhone. We recommend using Dr.Fone - Screen Unlock (iOS) to resolve this issue securely. Though, if you wish to do it remotely, then you can also give Find My iPhone a try as well. If you are familiar with any other reliable method, please let us know how to erase iPhone when locked in the comments below.
 
-
-
 ## Unlock Your Disabled Apple iPhone 11 Without iTunes in 5 Ways
 
 If you have forgotten the passcode of your Apple iPhone 11 or if your device has been disabled, then you have landed in the right place. There are multiple ways **how to unlock a disabled iPhone without iTunes**, and it is also workable for iPad disabled fix without iTunes. [Forgetting the passcode of your Apple iPhone 11](https://drfone.wondershare.com/reset-iphone/how-to-reset-iphone-password.html) can sometimes incur tedious tasks. Though, one can easily fix a disabled iPhone or iPad without relying on iTunes. In this post, we will provide 5 solutions for a disabled iPhone fix without iTunes.
@@ -153,8 +153,6 @@ If you don’t want to cause any damage to your iOS firmware while resolving the
 
 Not just to get the Apple iPhone 11 disabled unlock without iTunes, it can also be used to resolve plenty of other issues like malware attacks, [iPhone stuck in the recovery loop](https://drfone.wondershare.com/recovery-mode/exit-iphone-recovery-mode-loop.html), the [blue screen of death](https://drfone.wondershare.com/iphone-problems/ways-to-fix-iphone-blue-screen-of-death.html), and more. Furthermore, it has an easy-to-use interface and yields reliable results, making it an essential iOS tool.
 
-
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Fix "iPhone is Disabled Connect to iTunes" Error In 5 Minutes
@@ -172,9 +170,6 @@ Fix "iPhone is Disabled Connect to iTunes" Error In 5 Minutes
 
 To unlock your Disabled Apple iPhone 11 or iPad without iTunes or iCloud, launch the Dr.Fone software on your computer. From the various tools available, select "Screen Unlock." Get your Apple iPhone 11 connected to the PC using a lightning cable, and then click on the "iOS" > "Unlock iOS Screen" option on the program.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2: Boot Your iDevice in Recovery or DFU Mode**
@@ -288,6 +283,13 @@ Here's how to unlock your Apple iPhone 11 via Finder:
 
 - Requires a Lightning cable and access to a Mac computer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 7: How to Unlock Disabled iPhone Without iTunes Using Siri?
 
 You may be confused iPhone is disabled from connecting to iTunes, but how to unlock it without a computer? It might surprise you quite a bit, but you can also resolve the Apple iPhone 11 screen disabled issue with Siri. However, the solution can only work with devices running on iOS 8.0 to iOS 10.1.
@@ -304,6 +306,13 @@ Additionally, it was originally speculated as a loophole in iOS. Therefore, you 
 
 ![world clock](https://images.wondershare.com/drfone/article/2017/07/14993657066591.jpg "world clock")
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972693/19272" target="_top" id="1972693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3**. The interface will ask you to choose a city. Type anything you want and tap on the “**Select all**” option.
 
 ![choose a city](https://images.wondershare.com/drfone/article/2017/07/14993657214728.jpg "choose a city")
@@ -311,6 +320,13 @@ Additionally, it was originally speculated as a loophole in iOS. Therefore, you 
 **Step 4**. Afterward, you can find there various options like cut, copy, define, etc. Tap on the “**Share**” option.
 
 ![share content](https://images.wondershare.com/drfone/article/2017/07/14993657343482.jpg "share content")
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 5**. This will open another window, listing various options related to sharing. Tap on the Message icon to continue.
 
@@ -331,6 +347,13 @@ Additionally, it was originally speculated as a loophole in iOS. Therefore, you 
 **Step 9**. On the Add new contact screen, choose to add a photo and tap on the “**Add Photo**” option.
 
 ![add photo](https://images.wondershare.com/drfone/article/2017/07/14993658262749.jpg "add photo")
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 10**. This will open the Photo Library. From here, you can visit any album.
 
@@ -371,9 +394,6 @@ Unlocking a disabled iPhone without iTunes is becoming a popular choice because 
 - [Can't Update/Restore iPhone Due to Error Code 1100](https://drfone.wondershare.com/iphone-problems/how-to-fix-itunes-unknown-error-1100.html)
 - [Can't Restore iPhone Because of iTunes Error 11](https://drfone.wondershare.com/iphone-problems/itunes-error-11.html)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Wrap it up
 
 After following these solutions, you can use your Apple iPhone 11 and surpass its passcode without any trouble. Now that you know **how to unlock a disabled iPhone without iTunes**, you can simply use your device as per your requirements. Go ahead and pick your preferred option to perform iPhone disabled fix without iTunes. Download [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) to resolve any unlocking issue related to your Apple iPhone 11 securely and reliably.
@@ -385,6 +405,13 @@ Among smartphones, the Apple iPhone 11 is well known for its quality and reliabi
 It allows them to manage their children's access to certain content and functionalities. This article aims to go through the details of **how to disable parental controls on iPhone**s. It will offer a range of methods catering to both scenarios: disabling parental controls with and without a password. Moreover, it will feature an in-depth exploration of the most effective method to disable parental control.
 
 ![disabling parental controls on iphone](https://images.wondershare.com/drfone/article/2024/01/how-to-disable-parental-controls-on-iphone-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1. Defining Parental Controls on iPhone and Why People Want To Disable/Remove It?
 
@@ -412,6 +439,13 @@ Older users may find parental controls intrusive or overly restrictive. These ca
 
 Situations change, and what was once appropriate may no longer apply. Families might undergo changes in dynamics or rules. This can prompt the need to adjust or remove parental controls accordingly.
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2. \[With Password\] How To Disable Parental Controls on iPhone?
 
 Do you have the password to access parental control settings on your Apple iPhone 11? The process of disabling these controls becomes straightforward. Here, we present 2 distinct methods for **how to remove parental controls on iPhone**:
@@ -422,9 +456,6 @@ Accessing Screen Time settings allows you to manage and disable parental control
 
 - **Step 1.** To disable Screen Time settings, navigate to "Settings" and select "Screen Time." On the following screen, choose "Content & Privacy Restrictions" under the “Restrictions” section.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![access content privacy restriction option](https://images.wondershare.com/drfone/article/2024/01/how-to-disable-parental-controls-on-iphone-2.jpg)
 
 - **Step 2.** Now, switch the slider next to "Content & Privacy Restrictions" to turn it off. It will disable all parental control on the targeted device. However, before it disables, the Apple iPhone 11 will prompt for the Screen Time passcode, which needs to be added.
@@ -469,7 +500,6 @@ To initiate the procedure, open Wondershare Dr.Fone on your computer. Navigate t
 
 ![choose to unlock screen time passcode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-time-1.png)
 
-
 - **Step 2. Start Unlocking by Disabling Find My Feature**
 
 Upon connecting the Apple iPhone 11 device, the platform will detect the iDevice and showcase its status on the screen. Afterward, you are required to proceed by clicking on the "Unlock Now" button. However, it is necessary to deactivate the Find My service as indicated in the prompt. Navigate to your Apple iPhone 11's Settings and select the Apple ID at the top of the settings menu. Access the “Find My” settings and toggle off the “Find My iPhone” feature.
@@ -480,9 +510,6 @@ Upon connecting the Apple iPhone 11 device, the platform will detect the iDevice
 
 Upon completion, confirm by clicking “OK” on the computer screen. The progress bar on the screen indicates the progress of unlocking the screen time passcode process. When the Apple iPhone 11 device is unlocked, the platform will present a confirmation message. To conclude the entire process, click on the "Done" button.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone screen unlocked successfully](https://images.wondershare.com/drfone/guide/unlock-ios-screen-time-5.png)
 
 ### Way 2. Restore iPhone From iTunes
@@ -497,12 +524,18 @@ Restoring an iPhone using iTunes is an alternative method for removing parental 
 
 ![restore iphone via itunes](https://images.wondershare.com/drfone/article/2024/01/how-to-disable-parental-controls-on-iphone-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 In summary, this article explored **how to disable restrictions on iPhones without a password** and with a password. Accessing settings with a passcode simplifies the process. Wondershare Dr.Fone stands out as the optimal solution for those seeking **how to delete parental controls without password**. When passcode access is limited, Dr.Fone – Screen Unlock (iOS) offers the most efficient solution.
 
 _**Tips:** Are you searching for a powerful iPhone Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -516,9 +549,21 @@ _**Tips:** Are you searching for a powerful iPhone Unlock tool? No worries as [D
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-immediate-techniques-for-instagram-video-audio-extraction-mp3/"><u>[New] 2024 Approved Immediate Techniques for Instagram Video Audio Extraction (MP3)</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-time-stamping-your-photographs-efficiently/"><u>[Updated] 2024 Approved Time Stamping Your Photographs Efficiently</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-recording-conferences-on-a-budget-friendly-platform-for-2024/"><u>[Updated] Recording Conferences on a Budget-Friendly Platform for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/expert-tips-to-correct-the-missing-cygwin1dll-library-on-windows/"><u>Expert Tips to Correct the Missing Cygwin1.dll Library on Windows</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-12-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone 12 After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-14-pro-drfone-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723204018801-how-to-fix-the-missing-device-warning-in-icu-software-expert-solutions/"><u>How to Fix the Missing Device Warning in ICU Software - Expert Solutions</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-on-your-iphone-12-pro-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID On your iPhone 12 Pro?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-13-pro-max-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone 13 Pro Max to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-13-pro-drfone-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-14-plus-drfone-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/simple-solutions-to-repair-non-functioning-usb-connectors/"><u>Simple Solutions to Repair Non-Functioning USB Connectors</u></a></li>
+<li><a href="https://blog-min.techidaily.com/the-unbeatable-benefits-why-switching-from-windows-to-my-macbook-was-the-best-decision-ever/"><u>The Unbeatable Benefits: Why Switching From Windows to My MacBook Was the Best Decision Ever</u></a></li>
+<li><a href="https://games-able.techidaily.com/unveiling-beyerdynamics-mmx-200-soundscape/"><u>Unveiling Beyerdynamic's MMX 200 Soundscape</u></a></li>
+</ul></div>
 

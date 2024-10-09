@@ -1,7 +1,7 @@
 ---
 title: Full Guide to Unlock iPhone XS with iTunes | Dr.fone
-date: 2024-08-23T21:53:16.154Z
-updated: 2024-08-24T21:53:16.154Z
+date: 2024-10-06T18:19:19.260Z
+updated: 2024-10-08T16:10:16.607Z
 tags: 
   - unlock
   - remove screen lock
@@ -76,9 +76,6 @@ When the "iPhone software update" is downloaded, iTunes will show that it will e
 
 The above bar will show "Extracting software… ". It implies iOS 15.4.1 iTunes is planning to restore the software on this iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![extracting software](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-itunes-2.jpg)
 
 **Step 6.** Your Apple iPhone XS will show the restore progress bar with the white apple logo. The length of the process relies upon how much data is on your cell phone. Generally, it takes 20 to 120 minutes. When done, your Apple iPhone XS will restart naturally. Furthermore, after your Apple iPhone XS restarts, you can reset your Apple iPhone XS. For example, you can make a new passcode.
@@ -119,8 +116,14 @@ Pick your locked gadget under the "All Devices" area.
 
 **Step 10.** iPhone will show that it is locked to the owner. You have to sign in with your Apple ID again, enter the password, and tap on Next. You will currently be enabled to make your new passcode.
 
-### 2\. Dr.Fone-Screen Unlock
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
+### 2\. Dr.Fone-Screen Unlock
 
 If you are searching for an elective way to unlock your Apple iPhone XS with iTunes, you can pick Wondershare Dr.Fone-Screen Unlock.
 
@@ -135,6 +138,13 @@ From the Dr.Fone program on your PC, select "Screen Unlock" the tool.
 Then use a USB connector to connect your iOS gadget to the PC. Then, click the "Unlock iOS Screen" option on your screen.
 
 ![unlock ios screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2. Boot your iDevice in Recovery/DFU Mode**
 
@@ -160,15 +170,10 @@ Doing so will unlock your Apple iPhone XS within no time. However, kindly note t
 
 We hope you found out about **how to unlock iPhone with iTunes**. We likewise discussed what to do when you need an alternate method to iTunes. We know that using iTunes can be somewhat complicated; hence, the other options can help you a ton. However, we strongly suggest Dr.Fone-Screen Unlock for a more refined unlocking process.
 
-
-
 ## How to Make the Most of Your Apple iPhone XS Lock Screen with Notifications?
 
 The Apple iPhone XS lock screen has certainly changed a lot over the last few updates of iOS. Not only it provides an added security to the Apple iPhone XS device, but with iPhone lock screen notifications, we can also save our time and efforts. With the introduction of iOS 18, we can also see a change in iPhone lock screen with notifications as well. To help you make the most out of lock screen notifications iPhone, we have come up with this ultimate guide. Read on and know all sorts of things you can do with iPhone notification lock screen.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to use iPhone lock screen notifications?
 
 When it comes to iPhone lock screen with notifications, there are so many things that you can do. For instance, here are a handful of things you can do with iPhone lock screen notifications.
@@ -185,6 +190,13 @@ Not just your messages, you can interact with other apps as well right from the 
 
 ![iphone lock screen with notifications-close app notification](https://images.wondershare.com/drfone/article/2017/09/15063938035288.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Though, if you want to know more, then just long press the notification. For instance, if you have got a notification for an email, then you can get various options just by long pressing it.
 
 ![iphone lock screen with notifications-long press app notification](https://images.wondershare.com/drfone/article/2017/09/15063938297428.jpg)
@@ -193,9 +205,6 @@ Though, if you want to know more, then just long press the notification. For ins
 
 Besides interacting with widgets and apps, you can also search for something on your device and that too without unlocking it. Simply tap on the search bar to make it work.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone lock screen with notifications-earch for anything](https://images.wondershare.com/drfone/article/2017/09/15063938584150.jpg)
 
 ## Part 2: How to turn off notifications on iPhone lock screen?
@@ -207,6 +216,13 @@ Sometimes, people can access our private information just by looking at our noti
 2\. From here, you can view a list of all the apps that can access notifications.
 
 ![iphone lock screen with notifications-turn off iphone lock screen notification](https://images.wondershare.com/drfone/article/2017/09/15063939102971.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141687/17094" target="_top" id="2141687">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141687" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141687/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3\. Simply tap on the app of your choice (Mail, Message, Photos, iTunes, etc).
 
@@ -232,6 +248,13 @@ The notification view can be used to see previous notifications on the Apple iPh
 
 ![iphone lock screen with notifications-turn off notification view](https://images.wondershare.com/drfone/article/2017/09/15063940151031.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4\. From here, make sure that the option of “Notification View” is turned off.
 
 After turning the option off, you can exit from the Settings interface. In this way, your device won’t display the notification view.
@@ -246,6 +269,19 @@ Some people find it a little tricky to access the lock screen notifications iPho
 
 ![iphone lock screen with notifications-access iphone notification on ios 18](https://images.wondershare.com/drfone/article/2017/09/15063940632171.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Simply swipe up from the middle of the screen to get a list of all the notifications. Now, you can slide them to access the old notifications.
 
 Nevertheless, you can swipe from the top to access the cover sheet.
@@ -255,6 +291,13 @@ Nevertheless, you can swipe from the top to access the cover sheet.
 This is undoubtedly one of the most evident new features of the Apple iPhone XS notification lock screen of iOS 18. Now, you can swipe left or right to access various features. By swiping left, you can access the Camera on your device and by swiping right, you can access your Today View.
 
 ![iphone lock screen with notifications-ios 18 notification new feature](https://images.wondershare.com/drfone/article/2017/09/15063941093235.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If you want to click pictures instantly, then simply swipe left the lock screen. This will launch the Camera on your device, letting you click pictures on the go. Similarly, by swiping right, you can access your Today View. This includes vital data from apps and widgets that your smartphone assumes is important for you regarding the day.
 
@@ -274,9 +317,6 @@ The more times you get your code wrong, the longer you’ll be locked out, so av
 
 ## Part 2. 5 ways to unlock iPhone after iOS 17/14 Update
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.1 Try a default passcode in your family
 
 While we said, you shouldn’t type in random numbers to try and guess the password, of course, if you have a standard family passcode that you use across all iOS devices, perhaps an admin password or just something you use for everything, it can be well worth a try.
@@ -341,13 +381,17 @@ Here’s how to do it. (Note, the process will differ slightly depending on whic
 
 ![drfone home](https://images.wondershare.com/drfone/itunes-recovery-mode.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2.** Now connect your Apple iPhone XS to your computer with iTunes and wait for iTunes to open. Make sure you’re running the latest version of iTunes before connecting up your device. Also, make sure you’re using the official USB cable for the most stability.
 
 **Step 3.** iTunes should automatically detect that your device is in Recovery Mode and automatically restore your device to a default state without a lock screen. Wait until this process is completed before disconnecting your device and using it as normal.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.5 Use Find My iPhone feature in iCloud
 
 The fifth and final approach you can take to removing a lock screen from your recently updated iPhone or iPad when faced with the iOS 17/14 glitch is taking advantage of the integrated Apple technology and features are known as Find My iPhone.
@@ -370,7 +414,6 @@ Leave the Apple iPhone XS device to erase, and once completed, you’ll be able 
 
 And there you go, the five key ways you need to know when it comes to removing an unwanted lock screen from your iOS device after an iOS 17/14 update. We highly recommend the Dr.Fone - Screen Unlock (iOS) since the software makes the whole process incredibly easy, especially when managing any problems you may have on your iOS device!
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -383,9 +426,17 @@ And there you go, the five key ways you need to know when it comes to removing a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-watchers-unveiling-who-sees-your-content-for-2024/"><u>[New] Instagram Watchers Unveiling Who Sees Your Content for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-synchronizing-social-media-channels-for-broad-distribution-for-2024/"><u>[Updated] Synchronizing Social Media Channels for Broad Distribution for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-unlocking-the-full-potential-of-googles-podcast-tools/"><u>2024 Approved Unlocking the Full Potential of Google's Podcast Tools</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-12-mini-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone 12 mini Without iTunes</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-15-pro-max-with-or-without-password-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone 15 Pro Max With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-15-plus-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/is-your-iphone-13-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your iPhone 13 in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-se-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone SE Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-easy-desktop-recording-with-filmora-scrn-a-quick-start-guide-for-2024/"><u>Updated Easy Desktop Recording with Filmora Scrn A Quick Start Guide for 2024</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Nubia Red Magic 8S Pro+? | Dr.fone</u></a></li>
+</ul></div>
 

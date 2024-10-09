@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on Apple iPhone XS Max | Dr.fone
-date: 2024-08-16T17:28:27.282Z
-updated: 2024-08-17T17:28:27.282Z
+date: 2024-10-02T22:33:15.415Z
+updated: 2024-10-08T16:10:16.773Z
 tags: 
   - unlock
   - remove screen lock
@@ -42,9 +42,6 @@ MDM Profile Restrictions
 
 If the Auto-Lock is greyed out on your iPad or iPhone and you use it for work or school, a Mobile Device Management (MDM) profile might be the reason. This profile restricts settings, including Auto-Lock. To fix this, contact your IT administrator and ask if they can [<u>adjust the MDM profile settings</u>](https://drfone.wondershare.com/unlock/mdm-bypass-free.html).
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![setup remote management on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-04.jpg)
 
 Alright, you know the possible reasons why the Auto-Lock option is not working on your iOS device. Still, you might be wondering how to fix the Auto-Lock greyed-out issue. Below are several ways to get your iPad or iPhone Auto-Lock working normally again.
@@ -140,9 +137,6 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 - **Step 6:** The software will display the progress of the bypass. Wait for it to complete.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone bypassing mdm lock](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-5.png)
 
 - **Step 7:** You'll see a confirmation message once the bypass is successful. Click **Done** to exit. Your device should now be free from MDM restrictions.
@@ -178,6 +172,13 @@ Here's **how to change Auto-Lock on iPhone** devices:
 
 ![change auto-lock on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-18.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 There you have it. This guide has equipped you with the knowledge and solutions to fix the **Auto-Lock greyed out** on your Apple iPhone XS Max or iPad devices. From identifying the reasons like Low Power Mode and MDM configurations to implementing actionable fixes, you can now change your screen timeout. So, turn off those restrictions, remove MDM profiles, and head back to Settings.
@@ -185,8 +186,6 @@ There you have it. This guide has equipped you with the knowledge and solutions 
 For an easy solution, use Dr.Fone Screen Unlock to bypass MDM restrictions, giving you control over your device. Whether it's a work phone or a personal device under MDM, Dr.Fone can offer an efficient solution. With a few clicks, you'll have the Auto-Lock back on track, ensuring your iOS device works again just how you want it.
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
-
-
 
 ## PassFab Apple iPhone XS Max Backup Unlocker: Top 4 Alternatives
 
@@ -204,6 +203,13 @@ A passcode encrypts your Apple iPhone XS Max's backups, allowing only you to acc
 
 ![itunes password](https://images.wondershare.com/drfone/article/2022/12/iphone-backup-unlocker-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If you do not remember your password, you cannot view any data in your backup or restore it.
 
 A few methods allow you to guess or brute-force your way into the password. Still, the most reliable method to unlock your backup is to use a professional tool such as Dr.Fone - Screen Unlock, Passfab iPhone Backup Unlocker, or other iPhone backup unlockers. This group of software employs a sophisticated algorithm to figure out your password for you, and it has a high percentage of success.
@@ -211,8 +217,12 @@ A few methods allow you to guess or brute-force your way into the password. Stil
 Additionally, it is simple and can be finished in minutes rather than hours.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### What is iPhone backup unlocker?
 
 ![incorrect password](https://images.wondershare.com/drfone/article/2022/12/iphone-backup-unlocker-3.jpg)
@@ -224,6 +234,19 @@ A brute-force assault is the most popular strategy for accomplishing this goal, 
 If the password for an iPhone has been forgotten, this is often the only option to recover access to the Apple iPhone XS Max device, even though it may be time-consuming.
 
 We are fortunate to have access to a wide variety of software applications that, when used together, may significantly streamline and simplify the process. So, let's talk about them!
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: 5 Useful iPhone Backup Unlockers
 
@@ -248,6 +271,13 @@ To start, tap "Remove iTunes BackUp Encryption" in the bottom right corner of th
 
 ![screen unlock](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 When you reach this screen, connect your iOS device to your computer using a USB connection. If Dr.Fone can identify this link, the graphic below will display.
 
 Before choosing "Remove Now," please read the 3 notes carefully:
@@ -257,6 +287,13 @@ Before choosing "Remove Now," please read the 3 notes carefully:
 - Your device will reboot in the process of deleting
 
 ![connected device](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Dr.Fone can automatically verify your iTunes backup and erase it. Once the progress indicator reaches 100 percent, this encryption will be removed. This procedure will not need much time.
 
@@ -281,14 +318,10 @@ The costs are manageable. A plethora of options for controlling iOS and Android 
 - Data that has been permanently deleted can't be recovered from iPhones
 - It's not free
 
-
 ### 2\. PassFab iPhone Backup Unlocker
 
 PassFab iPhone Backup Unlocker is considerably different from other iPhone backup unlocking tools that are commercially accessible. The application utilizes GPU acceleration technologies. As a result, the password cracking speed is over a thousand times faster, or at the speed of light.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![passfab](https://images.wondershare.com/drfone/article/2022/12/iphone-backup-unlocker-4.jpg)
 
 **Why do Users like it? (Review)**
@@ -405,8 +438,6 @@ The best part about this application is that it is free of cost. It usually come
 
 [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is an excellent data recovery and management software created by Wondershare. However, limiting it to just recovery and management of data will not be just as it offers much more than just that. Transferring files, repairing the operating system, changing the GPS location, and fixing the activation lock are its amazing services.
 
-
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Turning Off Find My iPhone Within Second.
@@ -428,9 +459,6 @@ Launch Wondershare Dr.Fone on your computer and connect your Apple iPhone XS Max
 
 Open Wondershare Dr.Fone and select “Screen Unlock” among the other options on the home interface. Now another interface will appear displaying four options. Click on "Unlock Apple ID."
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![select unlock apple id option](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
 **Step 3: Remove Active Lock**
@@ -456,6 +484,13 @@ A warning will be displayed on the screen asking for confirmation to remove the 
 Click on “Start Unlock” to proceed. Once the process is started, you have to wait for a moment until the activation lock is successfully removed.
 
 ![start the unlock process](https://images.wondershare.com/drfone/drfone/remove-activation-lock-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 7: Turn off Find My iPhone**
 
@@ -485,6 +520,19 @@ Here we have explained to you step by step how to turn off Find My iPhone on bro
 
 ![confirm removal](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-3.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4: Turn off Find My iPhone using Recovery Mode
 
 The recovery model of the Apple iPhone XS Max allows you to reset or restore your data. It also offers data cleaning and backing up of apps to keep your Apple iPhone XS Max updated and free of glitches. When your phone is lagging or not working properly, then you need to put it into Recovery Mode.
@@ -511,7 +559,6 @@ Once your Apple iPhone XS Max shows the Apple logo, it means the Recovery Mode i
 
 Now we’re done as we’ve provided you the best possible solutions to turn off Find My iPhone when your Apple iPhone XS Max is broken. It is obvious that it is a quite complicated process, but you have to be patient and follow the steps correctly to disable Find My Apple iPhone XS Max to avoid any inconvenience in the future. We hope this article answers all your queries regarding it.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -524,9 +571,24 @@ Now we’re done as we’ve provided you the best possible solutions to turn off
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-skyrocketing-views-on-tiktok-with-unique-and-impactful-names/"><u>[Updated] 2024 Approved Skyrocketing Views on TikTok with Unique and Impactful Names</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-from-mundane-to-memorable-transform-your-social-media-identity-with-these-tips-for-2024/"><u>[Updated] From Mundane to Memorable Transform Your Social Media Identity with These Tips for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-understanding-your-youtube-revenue-adsense-rates-per-1k-viewer/"><u>[Updated] Understanding Your YouTube Revenue AdSense Rates Per 1K Viewer</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabled-iphone-12-pro-how-to-unlock-a-disabled-iphone-12-pro-drfone-by-drfone-ios/"><u>Disabled iPhone 12 Pro How to Unlock a Disabled iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-effortlessly-project-ios-device-display-onto-desktops-and-televisions/"><u>How To Effortlessly Project IOS Device Display Onto Desktops & Televisions</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-xs-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix iPhone XS Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-11-drfone-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-15-pro-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone 15 Pro After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-iphone-8-plus-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 8 Plus When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-iphone-se-5-ways-to-get-into-a-locked-iphone-se-drfone-by-drfone-ios/"><u>In 2024, Locked Out of iPhone SE? 5 Ways to get into a Locked iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-honor-magic5-ultimate-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Honor Magic5 Ultimate Phone Pattern Lock</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-vivo-y55s-5g-2023-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Vivo Y55s 5G (2023) for Streaming | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-iphone-8-plus-5-ways-to-get-into-a-locked-iphone-8-plus-drfone-by-drfone-ios/"><u>Locked Out of iPhone 8 Plus? 5 Ways to get into a Locked iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-clash-over-ai-control-sarah-silverman-leads-group-of-creatives-in-lawsuit-again-openai-and-meta-under-scrutiny/"><u>The Clash Over AI Control: Sarah Silverman Leads Group of Creatives in Lawsuit Again 🤖 - OpenAI & Meta Under Scrutiny</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unboxing-the-lenovo-thinkbook-plus-gen-4-a-surprising-overhaul-of-whats-expected-from-a-2-in-1-laptop/"><u>Unboxing the Lenovo ThinkBook Plus Gen 4 – A Surprising Overhaul of What's Expected From a 2-in-1 Laptop?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-your-disabled-apple-iphone-15-plus-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone 15 Plus Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-time-lapse-made-easy-two-proven-methods-for-creating-breathtaking-videos/"><u>Updated 2024 Approved Time Lapse Made Easy Two Proven Methods for Creating Breathtaking Videos</u></a></li>
+</ul></div>
 

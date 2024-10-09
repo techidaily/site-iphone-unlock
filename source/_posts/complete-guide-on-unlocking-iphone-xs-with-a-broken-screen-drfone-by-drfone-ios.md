@@ -1,7 +1,7 @@
 ---
 title: Complete Guide on Unlocking iPhone XS with a Broken Screen? | Dr.fone
-date: 2024-08-23T21:54:21.298Z
-updated: 2024-08-24T21:54:21.298Z
+date: 2024-10-04T23:15:39.086Z
+updated: 2024-10-08T18:24:45.340Z
 tags: 
   - unlock
   - remove screen lock
@@ -41,9 +41,6 @@ Also, if your Apple iPhone XS screen is broken, you can use this feature to unlo
 
 **Step 3.** After signing in effectively, click on Find My and enter your Apple ID and password. Click on Sign In.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![click find my iphone](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-1.jpg)
 
 **Step 4.** Pick your locked phone under the "All Devices" segment.
@@ -123,7 +120,6 @@ Besides, it works for iPhones with iOS 8.0 to 10.1. These bugs are fixed in the 
 
 ### Dr.Fone-Screen Unlock
 
-
 The quickest way to **unlock iPhone with broken screen** is to use an unlocking tool. However, there are tons of tools available in the market, but it is our responsibility to suggest you the best way.
 
 We strongly recommend you install the Wondershare Dr.Fone-Screen Unlock tool. It is a safe and easy-to-use tool with an excellent success rate. With years of service in the unlocking industry, the experts at Wondershare thrive to provide outstanding services to its customers.
@@ -156,10 +152,6 @@ After the firmware is downloaded effectively, click Unlock Now.
 
 In almost no time, the software will unlock your Apple iPhone XS effectively. However, note that this unlocking will likewise wipe your user data.
 
-
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### The Bottom Line
 
 Having an iPhone with a broken screen can make your life hard. It keeps you from communicating and carrying out important tasks on the phone. But we can make this situation work your way. Therefore, we have furnished the above list to help you **unlock iPhone with broken screen.** Even if none of the methods work, Dr.Fone can still get our phone unlocked.
@@ -203,7 +195,6 @@ With Dr.Fone, even users with no tech prowess can easily unlock their devices. B
 After installing Wondershare Dr.Fone onto your computer, launch it. Proceed by accessing "Toolbox," followed by “Screen Unlock.” Now choose "iOS" as the Apple iPhone XS device type and choose the "Unlock iOS Screen" option. Click "Start" on the next screen to start the unlocking process for your iOS device.
 
 ![select unlock ios screen option](https://images.wondershare.com/drfone/guide/unlock-ios-screen-2.png)
-
 
 - **Step 2. iDevice Recovery Mode and Firmware Download**
 
@@ -257,9 +248,29 @@ Moreover, it will result in deleting all data on the locked device. These are th
 
 ![erase device using find my app](https://images.wondershare.com/drfone/article/2024/01/how-to-fix-iphone-unavailable-issue-10.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 3.** Afterward, press the "Continue" button to confirm your choice. On the following screen, "Enter Phone Number" if needed and tap the "Erase" option at the top right corner. Next, write your "Apple ID password for verification purposes and again hit the "Erase" option to erase the Apple iPhone XS device quickly.
 
 ![provide apple id password for erasing](https://images.wondershare.com/drfone/article/2024/01/how-to-fix-iphone-unavailable-issue-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 6. How To Unlock iPhone Unavailable Using iTunes
 
@@ -286,7 +297,6 @@ You may get stuck with any emergency if you do not know how to unlock your Apple
 
 Normally, you don't believe what you see and start to try entering the passcode to unlock your Apple iPhone XS. However, if you entered an incorrect passcode 10 times, you will receive a messag "[iPhone is disabled, connect to iTunes](https://drfone.wondershare.com/unlock/unlock-disabled-iphone-without-itunes.html)". In this case, the only way to unlock your disabled iPhone is to restore it. And that is a situation none of us would like to be in right? Hence, in this article, today, we will elaborate ways on **how to unlock iPhone without passcode** or restore it.
 
-
 ## Part 1: Unlocking Your Apple iPhone XS: What Are the 4 Main Causes of Failure?
 
 Unlocking your Apple iPhone XS can be a frustrating experience, especially when you just want to access the Apple iPhone XS device. Unfortunately, there are several common reasons why an iPhone may not unlock.
@@ -304,6 +314,13 @@ Learn about all the solutions to unlock iPhone quickly through the video below:
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 For more tutorial videos about how to unlock your Apple iPhone XS, you can explore more from [Wondershare Video Community](https://www.wondershare.com/explore/inspiration.html).
 
 Keep reading to learn more feasible ways to unlock iPhone without passcode in detail!
@@ -311,8 +328,6 @@ Keep reading to learn more feasible ways to unlock iPhone without passcode in de
 ## Part 2: How to Unlock iPhone/iPad Without a Passcode? (iOS 7.0 or later)
 
 Dr.Fone - iPhone Unlocker is a powerful software that can help you open your iDevice without a passcode. It supports all iPhone models from iPhone 6 to iPhone 15, and all iPad models. Dr.Fone-Screen Unlock is easy to use and can be used to bypass the lock screen in just a few simple steps. It can also be used to reset the Apple iPhone XS device to its factory settings, allowing you to start fresh. In this section, we will learn about this important tool for iPhone lock screen removal. Thus, instead of thinking hard about **how to unlock iPhone without a passcode**, you can use [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) to do the needful.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -344,8 +359,21 @@ To use Dr.Fone - Screen Unlock to unlock your Apple iPhone XS or iPad without a 
 
 ![lock screen opened](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _Unlock your Apple iPhone XS/iPad without a passcode now!_
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: The TikTok Method to iPhone Unlocking Without Using a Passcode or Face ID
 
@@ -373,6 +401,13 @@ Now you should unlock iPhone without passcode without computer or iTunes!
 [<u>Bypass iPhone Lock Screen Using Emergency Call</u>](https://drfone.wondershare.com/iphone-unlock/bypass-iphone-lock-screen-using-emergency-call.html)
 
 [<u>Unlock iPhone If It Doesn’t Happen With Correct Password</u>](https://drfone.wondershare.com/iphone-unlock/iphone-passcode-not-working.html)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: Click "Erase iPhone" on the Lock Screen
 
@@ -422,9 +457,6 @@ You can perform the steps from your Apple iPhone XS directly to turn on "Find My
 
 **Note:** Now, your device will reboot without a passcode. It has a strategy to [restore your data](https://drfone.wondershare.com/restore-iphone/restore-iphone-from-backup.html) and reboot into a new iPhone, thus going for a secret passcode to unlock any iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 7: How to Unlock iPhone Without a Passcode With the Finder or iTunes?
 
 After looking at the maybe-trick way of the TikTok viral method and other unlock ways, an official solution from Apple, we also let you know how to fix the disabled iPhone. This method puts your phone into recovery mode with the help of iTunes or Finder on the computer. However, a small lousy side of this method is that it will erase your data along with the passcode.
@@ -435,13 +467,17 @@ Before you start, please ensure you have a computer (Mac or PC). If you're using
 
 ![turn off iphone](https://images.wondershare.com/drfone/article/2022/04/unlock-iphone-without-passcode-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **_Notice:_** _If your phone is connected to the computer, please unplug your Apple iPhone XS._
 
 - **Step 2:** Get ready by finding the button on your Apple iPhone XS, as shown in the pictures below. You'll need to hold in the following step.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![find the button](https://images.wondershare.com/drfone/article/2022/04/unlock-iphone-without-passcode-3.jpg)
 
 - **Step 3:** Connect your Apple iPhone XS to the computer where the Finder or iTunes is enabled > Click on iTunes and restore your Apple iPhone XS.
@@ -493,10 +529,6 @@ You will see that you can now access your Apple iPhone XS without the passcode a
 
 _**Tips:** This is only used for iOS 10.3.2 and 10.3.3. If you have updated your iOS system, we recommend you try the previous methods. To make it easier, just use [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)._
 
-
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## FAQs about iPhone Unlock Issues
 
 ### 1\. How to unlock iPhone without the Home button?
@@ -518,12 +550,16 @@ Once you have backed up your device, you can then restore it using the backup in
 
 If you have an older version of iOS (version 9 or earlier), then there is a bug that allows you to unlock your device using the camera. To do this, simply open the Camera app and make sure it's in selfie mode. Then, hold the Home button until you hear a clicking sound. This will unlock your device without requiring a passcode.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## The Bottom Line
 
 [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is a well-known featured software to unlock iPhone without passcode and works instantly after download. We have proven results, and all the methods listed above are user-friendly to the extent that no knowledge of technology is required to unlock the Apple iPhone XS without Siri. We advise you to use Dr.Fone as it will work on your Apple iPhone XS without any damage and give the desired result. However, you may choose any of the above iOS unlocking methods as you see fit.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -537,9 +573,22 @@ If you have an older version of iOS (version 9 or earlier), then there is a bug 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-capture-the-perfect-pace-a-beginners-approach-to-slow-mo-videos-on-tiktok/"><u>[New] In 2024, Capture the Perfect Pace A Beginner's Approach to Slow Mo Videos on TikTok</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-scour-these-top-12-sites-for-stock-photos-at-zero-cost/"><u>[New] Scour These Top 12 Sites for Stock Photos at Zero Cost</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-financial-breakdown-of-youtube-shorts-royalties/"><u>[New] The Financial Breakdown of YouTube Shorts Royalties</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-easy-peasy-memes-step-by-step-in-kinemaster/"><u>2024 Approved Easy-Peasy Memes Step by Step in KineMaster</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-15-pro-max-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone 15 Pro Max in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/capturemaster-x-overview-evaluation/"><u>CaptureMaster X Overview Evaluation</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-15-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone 15 Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-7-drfone-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-15-with-a-mask-on-drfone-by-drfone-ios/"><u>How to Unlock iPhone 15 with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-14-and-ipad-securely-drfone-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 14 and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-samsung-galaxy-s23-ultra-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Samsung Galaxy S23 Ultra</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-7-drfone-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-samsung-galaxy-s24plusmirror-share-to-pc-drfone-by-drfone-android/"><u>In 2024, How Can Samsung Galaxy S24+Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/revolutionize-virtual-reality-with-our-expertise/"><u>Revolutionize Virtual Reality with Our Expertise</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-guide-to-free-mp4-video-converters-seamlessly-change-formats-without-spending-a-penny/"><u>Ultimate Guide to Free MP4 Video Converters - Seamlessly Change Formats Without Spending a Penny</u></a></li>
+</ul></div>
 

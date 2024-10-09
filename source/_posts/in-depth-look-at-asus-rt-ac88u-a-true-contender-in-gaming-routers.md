@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Look at Asus RT-AC88U: A True Contender in Gaming Routers?"
-date: 2024-09-30T17:56:31.938Z
-updated: 2024-10-03T16:23:49.631Z
+date: 2024-10-01T19:41:35.224Z
+updated: 2024-10-08T21:44:08.963Z
 categories:
   - BestProducts
 description: "This Article Describes In-Depth Look at Asus RT-AC88U: A True Contender in Gaming Routers?"
@@ -37,6 +37,13 @@ Lifewire / Jordan Provost
 
 4.5
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Asus RT-AC88U AC3100 Dual Band Wi-Fi Router
 
 ![Asus RT-AC88U Gaming Router](https://www.lifewire.com/thmb/zQBwlUOVfknw2K2XN5_SYt4oLt8=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4038590-1-_1_V2-0b72aeeaf52f48d1b51615e1cae8abf2.jpg)
@@ -66,13 +73,6 @@ Lifewire / Jordan Provost
 
  The Asus RT-AC88U, in fact, may be one of the best single-unit wireless routers on the market today, as it offers a respectable range, awesome performance, and a suite of features that make it stand out among the competition. We spent over a week testing it in a home environment, using it with multiple devices for all purposes including browsing, streaming, downloads, and gaming.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Design: Watch the edge
 
  Most gaming accessories in 2018_look_ like gaming products. They have edgy angular designs, red accents and bright LEDs. For the Asus RT-AC88U, the first two are certainly true—this router looks like something straight out of Battlestar Galactica. It has a black, angular design with four antennas jutting out of the sides and the back. These antennae have red highlights, making the router eye-catching if you put it in your living room or next to your PC. This design won’t appeal to everyone, obviously, but if it doesn’t offend your aesthetic, the Asus RT-AC88U is capable of some pretty amazing things.
@@ -83,29 +83,9 @@ Lifewire / Jordan Provost
 
 ![Asus RT-AC88U Gaming Router](https://www.lifewire.com/thmb/tJSyhJYa8-MA9hCZoZxMCn1_GoI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4038590-1_6-3b7dfd6e10f84ca0a965905f4fbceb6c.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Lifewire / Jordan Provost
 
  We connected it to our 250 Mbps Xfinity connection, and within a few minutes, after updating the firmware, we were getting phenomenal speeds with little to no fiddling.
-
-<!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Connectivity: A dream come true for gamers
 
@@ -117,6 +97,13 @@ Lifewire / Jordan Provost
 
  The router also features a[USB 3.0 port](https://www.lifewire.com/what-is-usb-3-0-2626038) , so you can connect a printer or external hard drive for network access. What’s especially cool, however, is the native Time Machine support built into the Asus RT-AC88U’s back-end, making Mac backup a breeze—something we didn’t expect from a router explicitly marketed to gamers.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Software: Kicking it old school
 
  Unlike many other wireless routers in 2018, the Asus RT-AC88U doesn’t rely on smartphone apps to manage and set-up your network. Instead, you get a pretty traditional browser-based management portal. This might be off-putting to anyone that isn’t comfortable fiddling around with complex settings, but if you want to have that extra degree of control there’s a lot you can do to make your network run how you want.
@@ -126,10 +113,10 @@ Lifewire / Jordan Provost
 ![Asus RT-AC88U Gaming Router](https://www.lifewire.com/thmb/HIJ1YoiZU5EbjoLtmqEOszPEwQc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4038590-1_3-7da5546e1b544459a0a87a7b1698cb47.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / Jordan Provost
@@ -141,6 +128,13 @@ Lifewire / Jordan Provost
  The router is a dream come true for the power users out there, and is filled to the brim with software features.
 
  But, this router does more than_just_ cater to gamers. Built-in Time Machine functionality for Macs, simple cloud storage, and Alexa integration make this router appeal to everyone in your home, no matter what kind of tech they’re into. And, IFTTT integration (if this, then that) means that this router is a perfect fit in any smart home, allowing you to set up automated programs with a variety of smart devices.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Performance: High speed, no lag
 
@@ -168,6 +162,13 @@ Lifewire / Jordan Provost
 
  For smaller households, the features won’t really justify the price — not to mention the design that makes it hard to_not_ notice. These days, devices like the $129 Google Wifi make a lot more sense for the average consumer that doesn’t need heavy-duty networking. But if you do need a heavy duty router like the Asus RT-AC88U, $299 is a small price to pay for the quality of life improvement.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Asus RT-AC88U vs. Netgear Nighthawk Pro Gaming XR500
 
  The Asus RT-AC88U isn’t the only gaming router out there, in fact, there’s been a deluge of routers focused on gaming over the last few years. And, some premium gaming routers like the Netgear Nighthawk Pro Gaming XR500 give the Asus RT-AC88U a run for its money. But at $297, Netgear’s gaming router is about the same price, and it offers a more user-friendly software solution on top of similar MU-MIMO and QoS functionality. In fact, these two routers are so close together in a performance that picking the one that’s best for you will almost entirely depend on aesthetics.
@@ -179,13 +180,6 @@ Lifewire / Jordan Provost
 **One of the best routers for gaming.**
 
  Beyond jumping to a wireless mesh system, which brings problems of its own, this router offers some of the best performance you can ask for. It’s a great choice for anyone looking to squeeze out all the potential from their broadband connection.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Similar Products We've Reviewed
 
@@ -225,20 +219,20 @@ Lifewire / Jordan Provost
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-visionary-vistas-accessible-designs-for-youtube-artists/"><u>[New] 2024 Approved Visionary Vistas Accessible Designs for YouTube Artists</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-enhance-video-editing-on-mobile-with-top-8-apple-software/"><u>[New] Enhance Video Editing on Mobile with Top #8 Apple Software</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-rotate-for-results-instagram-video-alchemy/"><u>[Updated] In 2024, Rotate for Results Instagram Video Alchemy</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-stepwise-unveiling-effect/"><u>2024 Approved Stepwise Unveiling Effect</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-se-2020-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone SE (2020) in Lost Mode | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-15-pro-max-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 15 Pro Max Lock Screen with Notifications? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-se-with-or-without-password-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone SE With or Without Password | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-6s-plus-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 6s Plus Unavailable Issue With Ease | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-12-pro-maxipad-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone 12 Pro Max/iPad Without Computer | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-vivo-y28-5g-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Vivo Y28 5G Without PUK Codes</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-is-your-iphone-14-plus-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Is Your iPhone 14 Plus in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-premiere-pro-tricks-rescuing-washed-out-iphone-hdr-footage/"><u>In 2024, Premiere Pro Tricks Rescuing Washed-Out iPhone HDR Footage</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-streamline-your-viewing-capturing-hulu-on-windows-mac-ios/"><u>In 2024, Streamline Your Viewing Capturing Hulu on Windows, Mac, iOS</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-11-properly-drfone-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone 11 Properly | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/the-role-of-supplemental-imagery-in-storytelling-for-2024/"><u>The Role of Supplemental Imagery in Storytelling for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-art-of-audio-integration-tunes-for-your-microsoft-slides/"><u>[New] The Art of Audio Integration Tunes for Your Microsoft Slides</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-the-art-of-precision-introducing-an-obs-countdown-timer/"><u>[New] The Art of Precision Introducing an OBS Countdown Timer</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-insiders-look-at-configuring-a-powerful-zoom-room/"><u>[New] The Insider's Look at Configuring a Powerful Zoom Room</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-15-pro-max-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 15 Pro Max Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-se-2022-drfone-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-14-plus-without-a-passcode-drfone-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 14 Plus Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-did-your-apple-iphone-15-plus-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>In 2024, Did Your Apple iPhone 15 Plus Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-13-pro-max-without-passcode-now-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone 13 Pro Max Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-perfecting-the-art-of-media-preservation-macs-dvd-burn-guide/"><u>In 2024, Perfecting the Art of Media Preservation Mac's DVD Burn Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722971863590-logitech-g-series-controller-update-download-the-new-firmware-for-winlogon-systems-today/"><u>Logitech G-Series Controller Update: Download the New Firmware for Winlogon Systems Today!</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/online-beat-finder-no-cash-fb-for-2024/"><u>Online Beat Finder No Cash (FB) for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-7-drfone-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-xs-max-drfone-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/securely-shutting-down-your-instagram-presence-forever-for-2024/"><u>Securely Shutting Down Your Instagram Presence Forever for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/step-by-step-guide-for-igtv-video-submission-for-2024/"><u>Step-by-Step Guide for IGTV Video Submission for 2024</u></a></li>
 </ul></div>
 

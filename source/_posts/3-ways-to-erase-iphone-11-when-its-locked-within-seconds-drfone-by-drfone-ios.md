@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Erase iPhone 11 When Its Locked Within Seconds | Dr.fone
-date: 2024-08-23T21:56:35.374Z
-updated: 2024-08-24T21:56:35.374Z
+date: 2024-10-01T19:08:15.055Z
+updated: 2024-10-08T22:10:42.648Z
 tags: 
   - unlock
   - remove screen lock
@@ -21,8 +21,6 @@ Over the last few years, Apple has made remarkable progress with its flagship iP
 ## Part 1: Erase locked iPhone with Dr.Fone - Screen Unlock (iOS)
 
 One of the best ways to wipe locked iPhone is by using [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) tool. It is an extremely secure and reliable application. It is already compatible with every leading version of iOS and runs on almost all major iOS devices. Available for both Windows and Mac, the tool can be used to remove activation lock and Apple ID. The tool also provides an easy-to-use interface that can help you reset [the activation lock](https://drfone.wondershare.com/icloud/bypass-icloud-activation.html) on your device.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -65,6 +63,13 @@ Sit back and relax as the application will download the essential firmware updat
 
 ![erase iphone when locked-download the firmware](https://images.wondershare.com/drfone/drfone/ios-unlock-5.jpg "download the firmware")
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 5. Start to unlock.**
 
 Once it is done, the application will automatically start resolving the issue on your phone. Make sure that you don’t disconnect your phone while Dr.Fone - Screen Unlock (iOS) will resolve the issue on your device.
@@ -81,15 +86,19 @@ You can check if you can unlock your phone or not. If you still have an issue, t
 
 One of the best things about this technique is that you would wipe locked iPhone without causing any damage. Since it is a secure and reliable method with a high success rate, it is sure to provide a hassle-free experience.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Erase locked iPhone by restoring it with iTunes
 
 If you are looking for an alternative way to learn how to erase iPhone when locked, you can also take the assistance of iTunes. It provides a free and simple method to restore your device. Since it would wipe your data, you might end up losing your essential files in the process. We recommend following this technique only when you have taken a backup of your data via iTunes beforehand. To learn how to wipe a locked iPhone with iTunes, follow these steps:
 
 1\. Firstly, put your Apple iPhone 11 into recovery mode. To do this, launch an updated version of iTunes on your system and connect it to a lightning cable. Now, long-press the Home button on your device and connect it to the other end of the lightning cable. Release the Home button once the iTunes logo would appear.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![erase iphone when locked-boot in recovery mode](https://images.wondershare.com/drfone/article/2017/07/14993648422730.jpg "boot in recovery mode")
 
 2\. As soon as your phone would be connected, iTunes will recognize an issue with it. From here, you can choose to restore it.
@@ -113,6 +122,19 @@ If you haven’t already taken a backup of your phone, then you might find it ha
 2\. Under the “All Devices” section, you can choose the Apple iPhone 11 you wish to reset.
 
 ![erase iphone when locked-all devices](https://images.wondershare.com/drfone/article/2017/07/14993649689013.jpg "all devices")
+
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3\. After selecting your device, you will be presented with various options. Select the “Erase iPhone” feature to reset your device.
 
@@ -175,6 +197,13 @@ You've ruled out the Low Power Mode, but the **Auto-Lock greyed out on iPad** or
 - **Step 3:** Tap **Turn Off Screen Time**.
 
 ![turn off screen time on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-06.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Fix No.3: Remove MDM Configuration Profile
 
@@ -247,11 +276,21 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 ![dr.fone bypassing mdm lock](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-5.png)
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 7:** You'll see a confirmation message once the bypass is successful. Click **Done** to exit. Your device should now be free from MDM restrictions.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![successfully bypassed mdm on ios](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-6.png)
 
 Fix No.6: Check and Adjust Auto-Lock Settings
@@ -269,9 +308,6 @@ Here are the steps on **how to change Auto-Lock on iPad** devices:
 
 - **Step 3:** A list of time options will appear, ranging from **2 minutes** to **15 minutes**, as well as **Never**. Select the time you want your iPad to wait before automatically locking the screen after inactivity. If you want the screen to stay on indefinitely, choose **Never**.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change auto lock on ipad](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-17.jpg)
 
 **Step 4:** Once you've selected your preferred auto-lock duration, you can exit the **Settings** app. The change will be applied automatically.
@@ -301,6 +337,13 @@ The Apple iPhone 11 changing passcodes itself is not a commonly reported issue, 
 However, you don't need to worry, as this well-organized guide provides authentic methods to solve this issue. You will also find a bonus tool to fix your **iPhone/iPad passcode changed itself** issue without any need of knowledge.
 
 ![understanding unlock iphone passcode change itself](https://images.wondershare.com/drfone/article/2024/02/unlock-iphone-passcode-changed-itself-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1. What Are the Reasons for iPhone Passcode Changing by Itself
 
@@ -332,14 +375,10 @@ Initially, launch Wondershare Dr.Fone on your computer and connect it to your co
 
 ![start removing ios screen lock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-2.png)
 
-
 - **Step 2. Put Your Apple iPhone 11 in Recovery Mode and Confirm Status**
 
 After that, follow the on-screen instructions to put your Apple iPhone 11 in the Recovery Mode. In the next window, you can see your device model recognized. Then, enter your "System Version" and hit the "Start" button again to continue.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![set device model and version](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 - **Step 3. Download iOS Firmware and Confirm**
@@ -373,10 +412,14 @@ iTunes service allows you to reset your Apple iPhone 11 to factory settings and 
 
 **Instructions.** Firstly, launch iTunes on your desktop and connect your Apple iPhone 11. Then, you need to progress into putting your Apple iPhone 11 in the [Recovery Mode](https://support.apple.com/en-us/HT201263?at=1l3vrSk&ct=3e7454cbe7984ec49e91a8ace8e4198f). Continuing this, iTunes detects your device in Recovery Mode and shows two options: "Update" or "Restore." Click on the "Restore" option and hit the "OK" button to restore your Apple iPhone 11 and regain access.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![restore ios device from itunes](https://images.wondershare.com/drfone/article/2024/02/unlock-iphone-passcode-changed-itself-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 5. Using iCloud To Set Up iOS Device Again
 
@@ -389,6 +432,13 @@ Using iCloud to unlock iOS devices is a safe and recommended method, but it also
 - **Step 2.** After that, choose the Apple iPhone 11 device that you want to recover. Then, click the "Erase This Device" option to remove data and regain your device access.
 
 ![erase ios device from icloud](https://images.wondershare.com/drfone/article/2024/02/unlock-iphone-passcode-changed-itself-9.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 6. Using Find My App To Set Up iOS Device Again
 
@@ -417,9 +467,6 @@ In this article, we’ve gone through the scenario of iPhone/**iPad passcode cha
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -432,9 +479,18 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-14-pro-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone 14 Pro Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-struggles-with-available-resources-quota/"><u>Device Struggles with Available Resources Quota</u></a></li>
+<li><a href="https://review-topics.techidaily.com/does-find-my-friends-work-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-messages-from-motorola-g54-5g-by-fonelab-android-recover-messages/"><u>How to Rescue Lost Messages from Motorola G54 5G</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-14-pro-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 14 Pro Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabled-iphone-13-pro-how-to-unlock-a-disabled-iphone-13-pro-drfone-by-drfone-ios/"><u>In 2024, Disabled iPhone 13 Pro How to Unlock a Disabled iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-nokia-c32-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Nokia C32 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-15-plus-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 15 Plus Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/restore-your-imessage-connection-on-iphone-easy-steps-to-address-the-signed-out-error/"><u>Restore Your iMessage Connection on iPhone: Easy Steps to Address the Signed Out Error</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/understanding-dvd-video-quality-exploring-common-resolutions-of-dvds/"><u>Understanding DVD Video Quality - Exploring Common Resolutions of DVDs</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-potential-of-the-asus-ac88u-for-competitive-gaming-scenarios/"><u>Unveiling the Potential of the Asus AC88U for Competitive Gaming Scenarios</u></a></li>
+</ul></div>
 

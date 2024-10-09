@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Erase Apple iPhone SE (2020) When Its Locked Within Seconds | Dr.fone
-date: 2024-08-23T21:56:45.331Z
-updated: 2024-08-24T21:56:45.331Z
+date: 2024-10-02T16:44:33.885Z
+updated: 2024-10-08T20:42:47.997Z
 tags: 
   - unlock
   - remove screen lock
@@ -21,8 +21,6 @@ Over the last few years, Apple has made remarkable progress with its flagship iP
 ## Part 1: Erase locked iPhone with Dr.Fone - Screen Unlock (iOS)
 
 One of the best ways to wipe locked iPhone is by using [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) tool. It is an extremely secure and reliable application. It is already compatible with every leading version of iOS and runs on almost all major iOS devices. Available for both Windows and Mac, the tool can be used to remove activation lock and Apple ID. The tool also provides an easy-to-use interface that can help you reset [the activation lock](https://drfone.wondershare.com/icloud/bypass-icloud-activation.html) on your device.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -49,6 +47,13 @@ Wait for a while as the application will automatically recognize your phone. Cli
 
 ![erase iphone when locked-connect iphone](https://images.wondershare.com/drfone/drfone/ios-unlock-1.jpg "connect iphone")
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3. Put the phone into DFU mode.**
 
 Follow the on-screen instructions to put your phone into the DFU (Device Firmware Update) mode. It can be done by pressing the Home and Power button simultaneously for 10 seconds. Afterward, it would help if you released the Power button while pressing the Home button for another 5 seconds.
@@ -63,9 +68,6 @@ After putting your device into the DFU mode, the application will automatically 
 
 Sit back and relax as the application will download the essential firmware update for your phone.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![erase iphone when locked-download the firmware](https://images.wondershare.com/drfone/drfone/ios-unlock-5.jpg "download the firmware")
 
 **Step 5. Start to unlock.**
@@ -84,6 +86,13 @@ You can check if you can unlock your phone or not. If you still have an issue, t
 
 One of the best things about this technique is that you would wipe locked iPhone without causing any damage. Since it is a secure and reliable method with a high success rate, it is sure to provide a hassle-free experience.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Erase locked iPhone by restoring it with iTunes
 
 If you are looking for an alternative way to learn how to erase iPhone when locked, you can also take the assistance of iTunes. It provides a free and simple method to restore your device. Since it would wipe your data, you might end up losing your essential files in the process. We recommend following this technique only when you have taken a backup of your data via iTunes beforehand. To learn how to wipe a locked iPhone with iTunes, follow these steps:
@@ -98,9 +107,6 @@ If you are looking for an alternative way to learn how to erase iPhone when lock
 
 3\. If you don’t get the above pop-up on your screen, launch iTunes and visit its “Summary” section. From here, choose “Restore backup” under the Backup section.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![erase iphone when locked-restore backup](https://images.wondershare.com/drfone/article/2017/07/14993649149685.jpg "restore backup")
 
 4\. agree to the pop-up message by clicking on the “Restore” button.
@@ -145,6 +151,13 @@ To do this, go to Settings > Wallpapers & Brightness > Choose a New Wallpaper. T
 
 ![select favorite wallpaper](https://images.wondershare.com/drfone/article/2022/11/ios-15-lock-screen-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The second way to have a customized lock screen is to use a Live Photo. To do this, go to Settings > Wallpapers & Brightness > Choose a New Wallpaper. Then, select the Live Photo option and choose the image you want to use.
 
 **Note:** You can only use Live Photos for your lock screen if your Apple iPhone SE (2020) is unlocked.
@@ -158,6 +171,13 @@ At first, you can go to Settings > Notifications. Here, you can choose how many 
 ![lock screen notification setting](https://images.wondershare.com/drfone/article/2022/11/ios-15-lock-screen-3.jpg)
 
 The Do Not Disturb feature is the second way to manage notifications. To do this, go to Settings > Do Not Disturb and enable the feature. You can also schedule when Do Not should turn on and off. This feature work like a charm if you want to silence all notifications at night.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. How to set Auto-Lock time
 
@@ -181,6 +201,13 @@ But if you have forgotten your passcode, don't worry. The next section will show
 
 Different methods can help you bypass the iOS 17 lock screen passcode. Let's discuss them in detail.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. Use Emergency call
 
 The first method to bypass the passcode is to use the emergency call feature.
@@ -199,10 +226,21 @@ To do this, connect your Apple iPhone SE (2020) to a computer and open iTunes. T
 
 It will take some time, but you can use your Apple iPhone SE (2020) without a passcode once it's done.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![recovery mode on itunes](https://images.wondershare.com/drfone/article/2022/11/ios-15-lock-screen-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Use Find My in iCloud
 
@@ -227,7 +265,6 @@ If all mentioned methods don't work for you, the ultimate solution is to use Won
 A third-party tool named Dr.Fone-Screen Unlock can help you in this regard. The wonderful part is that you don't have to learn any technical knowledge.
 
 First, download/install Dr.Fone-Screen Unlock on your computer or MacBook. You can get it from here:
-
 
 After downloading the tool, install launch it on your PC.
 
@@ -263,10 +300,6 @@ After the firmware is downloaded, you need to press the Unlock Now button, and D
 
 ![ios 17 lock screen without passcode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## FAQs
 
 ### Why iOS 17 Lock Screen is not working?
@@ -281,14 +314,6 @@ There are various ways to fix the lock screen bugs in iOS 17. You can try resett
 
 If none of these methods work, you can try using a third-party tool like Dr.Fone-Screen Unlock to bypass the lock screen.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### How do you unlock a locked iPhone iOS 17?
 
 There are various ways to unlock a locked iPhone running on iOS 17. You can try the feature of Find My iPhone, or you can also use a third-party tool like Dr.Fone-Screen Unlock.
@@ -311,9 +336,14 @@ But if you are still facing problems with your lock screen, then the greatest th
 
 So, if you are looking for a hassle-free solution to fix your lock screen issues, then this is the best one you should never miss.
 
-
-
 ## How To Unlock Apple iPhone SE (2020) Without Swiping Up? 6 Ways
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1: What’s Swipe Up To Unlock on iPhone?
 
@@ -361,10 +391,6 @@ With the debut of iOS 14, Apple unveiled an innovative feature called Back Tap. 
 
 If you've forgotten the passcode for your Apple iPhone SE (2020) and are unable to access it anymore, there is no need to panic. We have the perfect tool for you that can unlock any lock on your screen in a few moments. The tool we are talking about is [Wondershare Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/), an industry leader in smartphones. Dr.Fone, a pioneering tool for iOS lock screen removal, assists in unlocking various iPhone/iPad/iPod touch lock screens.
 
-
-
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -372,5 +398,24 @@ If you've forgotten the passcode for your Apple iPhone SE (2020) and are unable 
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-drone-tech-the-best-for-your-constant-presence/"><u>[Updated] Drone Tech The Best for Your Constant Presence</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-unleashing-the-power-of-hashtags-for-instagram-success-for-2024/"><u>[Updated] Unleashing the Power of Hashtags for Instagram Success for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/effortless-methods-to-silence-that-annoying-buzzy-sound-in-your-audio-system/"><u>Effortless Methods to Silence That Annoying Buzzy Sound in Your Audio System</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-guide-to-unlock-your-vivo-x100-by-drfone-android/"><u>Full Guide to Unlock Your Vivo X100</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-latest-drivers-for-your-msi-gs65-on-windows-download-now/"><u>Get Latest Drivers for Your MSI GS65 on Windows - Download Now!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-can-you-upgrade-your-amd-radeon-gpu-drivers-under-windows/"><u>How Can You Upgrade Your AMD Radeon GPU Drivers Under Windows?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-12-pro-max-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-6s-plus-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 6s Plus After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-14-plus-drfone-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-8-plus-without-passcode-now-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone 8 Plus Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-14-lock-screen-drfone-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone 14 Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-11-pro-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-apple-iphone-xr-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone XR Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, The Best iSpoofer Alternative to Try On Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-trouble-with-iphone-13-pro-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>In 2024, Trouble with iPhone 13 Pro Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-unveiling-the-path-starting-with-your-youtube-identity/"><u>In 2024, Unveiling the Path Starting with Your YouTube Identity</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-not-working-on-samsung-galaxy-m34-5g-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Not Working On Samsung Galaxy M34 5G? 8 Solutions Inside | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Erase iPhone 6s When Its Locked Within Seconds | Dr.fone
-date: 2024-08-23T21:56:23.041Z
-updated: 2024-08-24T21:56:23.041Z
+date: 2024-10-05T00:33:18.493Z
+updated: 2024-10-08T17:52:19.638Z
 tags: 
   - unlock
   - remove screen lock
@@ -21,8 +21,6 @@ Over the last few years, Apple has made remarkable progress with its flagship iP
 ## Part 1: Erase locked iPhone with Dr.Fone - Screen Unlock (iOS)
 
 One of the best ways to wipe locked iPhone is by using [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) tool. It is an extremely secure and reliable application. It is already compatible with every leading version of iOS and runs on almost all major iOS devices. Available for both Windows and Mac, the tool can be used to remove activation lock and Apple ID. The tool also provides an easy-to-use interface that can help you reset [the activation lock](https://drfone.wondershare.com/icloud/bypass-icloud-activation.html) on your device.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -55,6 +53,13 @@ Follow the on-screen instructions to put your phone into the DFU (Device Firmwar
 
 ![erase iphone when locked-boot in DFU mode](https://images.wondershare.com/drfone/drfone/ios-unlock-2.jpg "boot in DFU mode")
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4. Download firmware package.**
 
 After putting your device into the DFU mode, the application will automatically move to the next window. Here, you would be required to provide essential information related to your phone like device model, firmware update, and more. After filling in the correct information, click on the “Download” button.
@@ -64,6 +69,13 @@ After putting your device into the DFU mode, the application will automatically 
 Sit back and relax as the application will download the essential firmware update for your phone.
 
 ![erase iphone when locked-download the firmware](https://images.wondershare.com/drfone/drfone/ios-unlock-5.jpg "download the firmware")
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 5. Start to unlock.**
 
@@ -81,6 +93,13 @@ You can check if you can unlock your phone or not. If you still have an issue, t
 
 One of the best things about this technique is that you would wipe locked iPhone without causing any damage. Since it is a secure and reliable method with a high success rate, it is sure to provide a hassle-free experience.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Erase locked iPhone by restoring it with iTunes
 
 If you are looking for an alternative way to learn how to erase iPhone when locked, you can also take the assistance of iTunes. It provides a free and simple method to restore your device. Since it would wipe your data, you might end up losing your essential files in the process. We recommend following this technique only when you have taken a backup of your data via iTunes beforehand. To learn how to wipe a locked iPhone with iTunes, follow these steps:
@@ -88,6 +107,13 @@ If you are looking for an alternative way to learn how to erase iPhone when lock
 1\. Firstly, put your Apple iPhone 6s into recovery mode. To do this, launch an updated version of iTunes on your system and connect it to a lightning cable. Now, long-press the Home button on your device and connect it to the other end of the lightning cable. Release the Home button once the iTunes logo would appear.
 
 ![erase iphone when locked-boot in recovery mode](https://images.wondershare.com/drfone/article/2017/07/14993648422730.jpg "boot in recovery mode")
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 2\. As soon as your phone would be connected, iTunes will recognize an issue with it. From here, you can choose to restore it.
 
@@ -131,6 +157,13 @@ But fear not, for there are ways to **unlock an iPhone without a Home button**. 
 
 If your Apple iPhone 6s's Home button is out of commission, don't worry. There are several ways to regain access to your device. Let's explore seven methods on **how to unlock an iPhone without a Home button.**
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Unlock the Apple iPhone 6s Without the Home Button via Touch ID
 
 If your device supports Touch ID, you can use your fingerprint to unlock it. Follow the steps:
@@ -143,9 +176,6 @@ If your device supports Touch ID, you can use your fingerprint to unlock it. Fol
 
 **_**_Note_**__**_:_**_** **Please be aware that this approach is effective only when you can still navigate through your Apple iPhone 6s's settings. If that's not the case, proceed to the following method.**
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Unlock the Apple iPhone 6s Without the Home Button via the Rest Finger to Open
 
 Building upon the initial method, this resolution is effective only if you have previously configured Touch ID. To **unlock an iPhone without using the Home button**, you can activate the **Rest Finger to Open** feature. Ensure that Touch ID is permitted for unlocking your Apple iPhone 6s, and then follow the steps below:
@@ -168,6 +198,13 @@ The alternative solution for **how to open an iPhone without the Home button but
 
 ![assistivetouch menu selections](https://images.wondershare.com/drfone/article/2024/01/unlock-iphone-without-home-button-05.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 3**: Tap **Customize** **Top Level Menu** under Assistive Touch and choose **Home**. The action will guide you to the Apple iPhone 6s passcode screen. From here, you can input your passcode to unlock the Apple iPhone 6s without using the Home button.
 
 ### Method 4: Unlock iPhone Without Home Button via Dedicated Tool
@@ -189,7 +226,6 @@ Dr.Fone - Screen Unlock (iOS) simplifies the process of unlocking your Apple iPh
 
 ![dr.fone unlock ios screen window](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
 
-
 - **Step 2:** Click **Start** and follow the on-screen instructions. Dr.Fone will automatically detect your device and provide the appropriate firmware package for download. Confirm and proceed.
 
 ![start ios screen unlocking process](https://images.wondershare.com/drfone/guide/unlock-ios-screen-2.png)
@@ -200,9 +236,6 @@ Dr.Fone - Screen Unlock (iOS) simplifies the process of unlocking your Apple iPh
 
 - **Step 4:** The software will remove the lock screen from your Apple iPhone 6s. Click **Try again** if your Apple iPhone 6s is still locked. Otherwise, click the **Done** button. After successful unlocking, set up your Apple iPhone 6s as new. You can now **unlock your Apple iPhone 6s without the Home button**.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone successful unlock window](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
 ### Method 5: Unlock iPhone via Erase iPhone Features (iOS 15.2)
@@ -267,8 +300,6 @@ For a comprehensive fix, consider Dr.Fone Screen - Unlock iOS if data loss is a 
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
-
-
 ## Apple iPhone 6s Backup Password Never Set But Still Asking? Here's the Fix
 
 ## Part 1: Why Do iTunes Ask Me for iPhone Backup Password?
@@ -277,9 +308,6 @@ When you use iTunes to create a backup, the backup will probably have a password
 
 In most cases, this occurs when the Encrypt Backup option is activated. As an official iOS feature, its purpose is to provide iOS users with the iTunes backup encryption for further security.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![encrypt local backup](https://images.wondershare.com/drfone/article/2022/12/iphone-backup-password-never-set-2.jpg)
 
 Unfortunately, this capability may also become problematic if you inadvertently take a backup without being able to provide the password. For example, you may have to enter the password for your Apple iPhone 6s backup unlocking never set by you.
@@ -293,6 +321,13 @@ Many iPhone users have problems with iTunes when they back up their devices.
 One of the most common issues is that people are asked for their iPhone backup password never set, but they need to know what it is. This can be frustrating because you can only back up your device if you have the password.
 
 There are a few possible ways to fix this problem. Try resetting your password or using a different computer to back up your device. You could also try using a third-party software tool like Dr.Fone - Screen Unlock.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Try all passwords you use on iPhone
 
@@ -328,6 +363,19 @@ Here are what you can do with your iOS smartphone if it has iOS 11 or a later ve
 
 ![reset all settings](https://images.wondershare.com/drfone/article/2022/12/iphone-backup-password-never-set-4.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993654">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3:** Once the reset has been completed, your previous password will be deleted.
 
 **Step 4:** The next thing you should do is take a fresh backup of your Apple iPhone 6s using iTunes, and then establish a new password for the backup that iTunes creates.
@@ -350,9 +398,6 @@ You should be aware that resetting the Apple iPhone 6s device to factory setting
 
 On the other hand, it does make it possible for you to generate a fresh backup in iTunes that is not encrypted.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Dr.Fone-Screen Unlock
 
 **First step:** After installing Dr.Fone on your device, please run the program and look for the red button labeled **"Screen Unlock."**
@@ -381,16 +426,11 @@ Please read the following three notes carefully before clicking the **"Remove No
 
 ![removed](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-5.png)
 
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### The Bottom Line
 
 There are four ways to fix the problem if iTunes keeps asking for your Apple iPhone 6s backup password. The first method is to try all the passwords you use on your Apple iPhone 6s. You can try finding the password from Keychain on macOS if this does not work. Another option is to "Reset All Settings" on your Apple iPhone 6s.
 
 Lastly, Dr.Fone-Screen Unlock is a program that can help you bypass the passcode and get into your backups. So, what are you waiting for? It's time to avoid the problem of iTunes backup password never set.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -404,9 +444,16 @@ Lastly, Dr.Fone-Screen Unlock is a program that can help you bypass the passcode
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://iphone-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-xs-drfone-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-14-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 14 with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/exploring-high-resolution-viewing-with-nixplays-x15d/"><u>Exploring High-Resolution Viewing with Nixplay's X15D</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-11-pro-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot iPhone 11 Pro Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-google-frp-lock-on-infinix-note-30-vip-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Infinix Note 30 VIP Devices</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-13-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 13 Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-itel-p55t-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Itel P55T to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unleashing-fire-breathing-fun-in-depth-analysis-of-the-spyro-remake-series/"><u>Unleashing Fire-Breathing Fun: In-Depth Analysis of the Spyro Remake Series</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-poco-c65-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Poco C65? Here Is the Answer | Dr.fone</u></a></li>
+</ul></div>
 

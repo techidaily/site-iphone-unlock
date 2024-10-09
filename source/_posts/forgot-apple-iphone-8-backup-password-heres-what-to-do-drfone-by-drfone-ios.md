@@ -1,7 +1,7 @@
 ---
 title: Forgot Apple iPhone 8 Backup Password? Heres What to Do | Dr.fone
-date: 2024-08-23T21:53:37.083Z
-updated: 2024-08-24T21:53:37.083Z
+date: 2024-10-06T00:29:34.524Z
+updated: 2024-10-08T17:24:33.182Z
 tags: 
   - unlock
   - remove screen lock
@@ -98,10 +98,14 @@ Proceed to the **Summary Page** and make your selection there for **The Computer
 
 **Step 3:** Double-click the **Show Password** option, and then choose it from the drop-down menu. After that, type in the password for the keychain. At long last, the password for your Apple iPhone 8 backup will be shown.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![keychain](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. Select "Back Up Now" via iCloud to remove password
 
@@ -125,9 +129,23 @@ With Dr.Fone - Screen Unlock, it's easy to follow all the steps to get rid of th
 
 ![drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2:** In the Screen Unlock interface, tap **Remove iTunes BackUp Encryption** in the bottom right corner to move forward.
 
 ![screen unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3:** When you get to this page, use a USB cable to connect your iOS device to the PC. If Dr.Fone can find this connection, you will see the picture below.
 
@@ -137,9 +155,6 @@ Before you click **Remove Now**, please carefully read the following three notes
 - Don't open iTunes while doing this.
 - Your device will reboot
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![connected](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-3.png)
 
 **Step 4:** Dr.Fone can check your iTunes backup and delete it by itself. This encryption will be erased when the progress bar reaches 100%. This will take a short time to do.
@@ -150,10 +165,6 @@ Before you click **Remove Now**, please carefully read the following three notes
 
 ![removed](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-5.png)
 
-
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: 3 Tricks to Help You Remember the Passwords
 
 If you have an iPhone, you know it can be tricky to keep track of all your passwords. From your email password to your banking login, there are a lot of different codes to remember.
@@ -181,8 +192,6 @@ You can even add a description of the password, so you remember which account it
 As a last piece of advice, please safely save your newly created passwords. Rather than writing them down in the iPhone's notepad, you should save the passwords in a secure location.
 
 However, no matter how secure your gadget is, password leakage may happen, sending you to unpleasant situations that you can't even conceive. It's best to use Dr.Fone - Screen Unlock as soon as you encounter any problem!
-
-
 
 ## How To Unlock Apple iPhone 8 Without Swiping Up? 6 Ways
 
@@ -224,6 +233,13 @@ With the debut of iOS 14, Apple unveiled an innovative feature called Back Tap. 
 
 ![access touch in accessibility](https://images.wondershare.com/drfone/article/2023/12/unlock-phone-without-swiping-up-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2.** On the following screen, scroll down to the bottom and press "Back Tap." Now, either choose "Double Tap" or "Triple Tap" and select "Lock Screen" from the options under the "System" section.
 
 ![enable back tap to lock screen](https://images.wondershare.com/drfone/article/2023/12/unlock-phone-without-swiping-up-2.jpg)
@@ -231,8 +247,6 @@ With the debut of iOS 14, Apple unveiled an innovative feature called Back Tap. 
 ### Method 2: Unlock iPhone Without Swiping Up Using iPhone Screen Unlocker: Dr.Fone - Screen Unlock
 
 If you've forgotten the passcode for your Apple iPhone 8 and are unable to access it anymore, there is no need to panic. We have the perfect tool for you that can unlock any lock on your screen in a few moments. The tool we are talking about is [Wondershare Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/), an industry leader in smartphones. Dr.Fone, a pioneering tool for iOS lock screen removal, assists in unlocking various iPhone/iPad/iPod touch lock screens.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -263,6 +277,13 @@ Download and install Wondershare Dr.Fone on your computer. Go to "Toolbox," tap 
 
 ![access screen unlock within toolbox](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2: Initiate the iDevice into Recovery Mode**
 
 After this step, enter Recovery Mode on your iDevice by following the specific on-screen instructions. Once your iDevice is in Recovery Mode, the system automatically identifies and displays the "Device Model." You can make adjustments to the model if necessary and choose the "System Version" as per your needs. When finished, click on "Start" to initiate the unlocking process for your device's screen.
@@ -274,7 +295,6 @@ After this step, enter Recovery Mode on your iDevice by following the specific o
 The screen will showcase the download progress of the iOS firmware on the platform. Once the iOS firmware download is completed, it undergoes verification. Proceed by selecting the "Unlock Now" button to initiate the unlocking process. A prompt window will appear, requesting confirmation for the process. Enter the necessary code and tap on "Unlock" to proceed. Upon successful unlocking of the iDevice, click "Done" to complete the process.
 
 ![lock screen removal process completed](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
-
 
 ### Method 3: Unlock the Apple iPhone 8 Without Swiping Up via Touch ID/Face ID
 
@@ -355,6 +375,13 @@ Utilizing Switch Control is an excellent accessibility feature on iOS devices. I
 
 ![add a new switch](https://images.wondershare.com/drfone/article/2023/12/unlock-phone-without-swiping-up-8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2.** Set Left Head Movement and Right Head Movement separately to “Home.” This action will lock the screen when tilting your head left or right. Now go back to "Recipes" in Switch Control, select "Edit," and delete all existing recipes.
 
 ![remove existing recipes](https://images.wondershare.com/drfone/article/2023/12/unlock-phone-without-swiping-up-9.jpg)
@@ -365,10 +392,14 @@ Utilizing Switch Control is an excellent accessibility feature on iOS devices. I
 
 **Step 4.** Save your switch, return to Accessibility Settings, and locate “Accessibility Shortcut.” Now, set triple-clicking the side button to activate “Switch Control.” On the home screen, triple-click the Side button, as previously set, to activate the switch on your Apple iPhone 8. Now, lock the Apple iPhone 8 screen and then wake the Apple iPhone 8 device without looking at it.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![set switch control as accessibility shortcut](https://images.wondershare.com/drfone/article/2023/12/unlock-phone-without-swiping-up-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -390,11 +421,16 @@ Find My iPhone is an application forged by Apple that keeps track of your Apple 
 
 The best part about this application is that it is free of cost. It usually comes built-in your Apple iPhone 8 already, but if not, you can easily download it from the app store. Sign in with your Apple ID, and it will automatically locate your Apple iPhone 8 no matter where you go.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: Efficient Way of Turning Off Find My iPhone Within Second- Dr. Fone
 
 [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is an excellent data recovery and management software created by Wondershare. However, limiting it to just recovery and management of data will not be just as it offers much more than just that. Transferring files, repairing the operating system, changing the GPS location, and fixing the activation lock are its amazing services.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -441,9 +477,6 @@ A warning will be displayed on the screen asking for confirmation to remove the 
 
 Click on “Start Unlock” to proceed. Once the process is started, you have to wait for a moment until the activation lock is successfully removed.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![start the unlock process](https://images.wondershare.com/drfone/drfone/remove-activation-lock-4.jpg)
 
 **Step 7: Turn off Find My iPhone**
@@ -500,7 +533,6 @@ Once your Apple iPhone 8 shows the Apple logo, it means the Recovery Mode is act
 
 Now we’re done as we’ve provided you the best possible solutions to turn off Find My iPhone when your Apple iPhone 8 is broken. It is obvious that it is a quite complicated process, but you have to be patient and follow the steps correctly to disable Find My Apple iPhone 8 to avoid any inconvenience in the future. We hope this article answers all your queries regarding it.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -513,9 +545,18 @@ Now we’re done as we’ve provided you the best possible solutions to turn off
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-innovative-mac-screen-recorders-top-picks-and-features-explored/"><u>[Updated] Innovative Mac Screen Recorders Top Picks & Features Explored</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-pixtra-photo-editor-deep-dive/"><u>2024 Approved Pixtra Photo Editor Deep Dive</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-unlock-iphone-se-2022-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>3 Ways to Unlock iPhone SE (2022) without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-iphone-7-plus-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 7 Plus Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/expert-tips-for-photo-hdr-mastery-in-photoshop-for-2024/"><u>Expert Tips for Photo-HDR Mastery in Photoshop for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-12-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix iPhone 12 Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-6s-with-itunes-drfone-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone 6s with iTunes | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-generating-a-timeless-tiktok-outro-feature/"><u>In 2024, Generating a Timeless TikTok Outro Feature</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Poco M6 5G | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/uncover-the-hidden-lifespan-of-your-apple-watchs-battery-a-startling-revelation/"><u>Uncover the Hidden Lifespan of Your Apple Watch's Battery: A Startling Revelation!</u></a></li>
+</ul></div>
 

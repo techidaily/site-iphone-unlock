@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Erase Apple iPhone XS Max When Its Locked Within Seconds | Dr.fone
-date: 2024-08-23T21:56:40.534Z
-updated: 2024-08-24T21:56:40.534Z
+date: 2024-10-06T23:57:27.271Z
+updated: 2024-10-08T18:25:28.380Z
 tags: 
   - unlock
   - remove screen lock
@@ -21,8 +21,6 @@ Over the last few years, Apple has made remarkable progress with its flagship iP
 ## Part 1: Erase locked iPhone with Dr.Fone - Screen Unlock (iOS)
 
 One of the best ways to wipe locked iPhone is by using [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) tool. It is an extremely secure and reliable application. It is already compatible with every leading version of iOS and runs on almost all major iOS devices. Available for both Windows and Mac, the tool can be used to remove activation lock and Apple ID. The tool also provides an easy-to-use interface that can help you reset [the activation lock](https://drfone.wondershare.com/icloud/bypass-icloud-activation.html) on your device.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -63,9 +61,6 @@ After putting your device into the DFU mode, the application will automatically 
 
 Sit back and relax as the application will download the essential firmware update for your phone.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![erase iphone when locked-download the firmware](https://images.wondershare.com/drfone/drfone/ios-unlock-5.jpg "download the firmware")
 
 **Step 5. Start to unlock.**
@@ -190,10 +185,14 @@ Since an MDM configuration profile causes limitations, like the greyed-out ****A
 - **Step 2:** Select the configuration profile you need to delete.
 - **Step 3:** Tap **Remove Profile**, enter your device passcode, then tap **Remove**.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remove configuration profile on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-07.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Fix No.4: Remove Network Settings Installed by MDM
 
@@ -208,6 +207,13 @@ If your IT team gives the green light, you might also be able to remove the netw
 - **Step 3:** Select the management and tap **Remove Management**.
 
 ![remove mdm profile on ipad](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-08.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If the option is unavailable, only the person who used Apple Configurator 2 or handles your company's mobile device management platform can remove it.
 
@@ -267,6 +273,13 @@ Here are the steps on **how to change Auto-Lock on iPad** devices:
 
 ![display and brightness settings on ipad](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-16.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 3:** A list of time options will appear, ranging from **2 minutes** to **15 minutes**, as well as **Never**. Select the time you want your iPad to wait before automatically locking the screen after inactivity. If you want the screen to stay on indefinitely, choose **Never**.
 
 ![change auto lock on ipad](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-17.jpg)
@@ -284,8 +297,12 @@ Here's **how to change Auto-Lock on iPhone** devices:
 ![change auto-lock on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-18.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 There you have it. This guide has equipped you with the knowledge and solutions to fix the **Auto-Lock greyed out** on your Apple iPhone XS Max or iPad devices. From identifying the reasons like Low Power Mode and MDM configurations to implementing actionable fixes, you can now change your screen timeout. So, turn off those restrictions, remove MDM profiles, and head back to Settings.
@@ -348,6 +365,13 @@ Your iPhone can support different network operators only if it is unlocked and a
 1. Your payments for equipment should be clear.
 2. Your Apple iPhone XS Max should not be reported stolen or missing.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918684/19272" target="_top" id="1918684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Sprint
 
 A Sprint-based iPhone needs to be activated for at least 40 days to unlock. Sprint allows unlocking if the user’s linked account is valid. Also, you can use each number to unlock only two iOS devices per year.
@@ -356,6 +380,13 @@ A Sprint-based iPhone needs to be activated for at least 40 days to unlock. Spri
 
 1. Your Apple iPhone XS Max should not be stolen or lost.
 2. Installment billing and off-lease agreements should be clear.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4\. T-Mobile
 
@@ -414,9 +445,6 @@ Approx $200
 
  |
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: How Much Does It Cost To Unlock Disabled iPhone?
 
 iPhone device gets disabled when you try a wrong passcode multiple times to unlock the screen. If you’re facing Disabled iPhone or carrier-locked issues and wondering **how much Apple charges to unlock an iPhone** safely, here is a pricing comparison of some top tools that provide seamless third-party IMEI unlocking or iCloud Activation services.
@@ -502,7 +530,6 @@ Start with connecting the Apple iPhone XS Max to the computer and select the "Sc
 
 ![access drfone screen unlock function](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
 
-
 - **Step 2. Proceed and Put Your Apple iPhone XS Max in Recovery Mode**
 
 Hit the "Start" button to initiate unlocking the iPhone. After that, you will need to put your Apple iPhone XS Max in Recovery Mode to avoid data loss. You can follow the on-screen instructions according to your Apple iPhone XS Max model. On the next window, your "Device Model" will be recognized, and you must add the "System Version" to proceed clicking on the “Start” button.
@@ -525,14 +552,25 @@ As you progress into “Screen Unlock” tool in Wondershare Dr.Fone, select the
 
 ![access remove apple id function](https://images.wondershare.com/drfone/guide/remove-apple-id-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 2. Confirm Screen Lock and Two-Factor Authentication**
 
 Before moving further, you have to confirm that your iDevice has a screen lock and two-factor authentication enabled. If not, turn on the two-factor authentication from the Apple iPhone XS Max device settings. Then, click on "Yes" to process.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turn on ios two factor authentication](https://images.wondershare.com/drfone/guide/remove-apple-id-4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 3. Start Recovery Mode on Your iDevice**
 
@@ -552,9 +590,6 @@ iOS users often have a query related to **how much will it cost to unlock an iPh
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -567,9 +602,21 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/outubing-upstarts-the-ideal-gadgets-list/"><u>[New] YouTubing Upstarts The Ideal Gadgets List</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-professional-thumbnail-creation-for-youtube-macos-style/"><u>[Updated] Professional Thumbnail Creation for YouTube (macOS Style)</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-unveiling-the-mystery-behind-professional-looking-time-lapses-in-gopro/"><u>2024 Approved Unveiling the Mystery Behind Professional-Looking Time Lapses in GoPro</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-youtubers-advanced-toolkit-studio-selection-over-beta/"><u>2024 Approved YouTuber's Advanced Toolkit Studio Selection Over Beta</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-6-plus-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-14-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-iphone-14-pro-max-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My iPhone 14 Pro Max when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-stolen-iphone-14-pro-max-in-different-conditionsin-drfone-by-drfone-ios/"><u>How To Unlock Stolen iPhone 14 Pro Max In Different Conditionsin | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-13-mini-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone 13 mini without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-se-2022-when-phone-is-broken-drfone-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone SE (2022) when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/maximizing-your-entertainment-budget-with-the-2019-tcl-50s425-50-roku-smart-tv-a-thorough-product-and-value-assessment/"><u>Maximizing Your Entertainment Budget with the 2019 TCL 50S425 50 Roku Smart TV: A Thorough Product & Value Assessment</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mp4-won-t-play-on-my-xperia-1-v-by-aiseesoft-video-converter-play-mp4-on-android/"><u>MP4 won't play on my Xperia 1 V</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolved-logilda-dll-absence/"><u>Resolved: LogiLDA DLL Absence</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/your-passport-to-recovered-files-free/"><u>Your Passport to Recovered Files, Free!</u></a></li>
+</ul></div>
 

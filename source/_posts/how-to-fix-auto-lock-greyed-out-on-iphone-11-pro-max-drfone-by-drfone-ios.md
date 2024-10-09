@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on iPhone 11 Pro Max | Dr.fone
-date: 2024-08-16T17:28:26.146Z
-updated: 2024-08-17T17:28:26.146Z
+date: 2024-10-03T23:23:28.056Z
+updated: 2024-10-09T00:39:59.586Z
 tags: 
   - unlock
   - remove screen lock
@@ -82,9 +82,6 @@ Since an MDM configuration profile causes limitations, like the greyed-out ****A
 - **Step 2:** Select the configuration profile you need to delete.
 - **Step 3:** Tap **Remove Profile**, enter your device passcode, then tap **Remove**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remove configuration profile on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-07.jpg)
 
 Fix No.4: Remove Network Settings Installed by MDM
@@ -173,9 +170,6 @@ Here's **how to change Auto-Lock on iPhone** devices:
 - **Step 2:** Tap on **Display & Brightness**, scroll down, and tap **Auto-Lock**.
 - **Step 3:** Choose the desired time interval for your Apple iPhone 11 Pro Max to automatically lock. The available options typically range from **30 seconds** to **5 minutes**. You may also have the option to select **Never** if you prefer to have the screen stay on indefinitely until you manually lock it.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change auto-lock on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-18.jpg)
 
 ## Conclusion
@@ -192,6 +186,13 @@ If you’ve recently updated your iOS iPhone and iPad to the iOS 17/14 operating
 
 This obviously means you won’t be able to access your phone, and in many cases, you’re going to want to get back into your phone as quickly as possible. However, this may be easier said than done. Fortunately, today we’re going to go through multiple solutions to help you get your device working as it should!
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1. Don’t try passcodes blindly
 
 One of the worst things you can do when faced with this situation is to enter passcodes blindly. Perhaps you’re trying random numbers and letters, or you’re trying passwords you’ve used in the past. If you get it wrong, you’re going to be locked out of your device for a long time.
@@ -200,18 +201,6 @@ The more times you get your code wrong, the longer you’ll be locked out, so av
 
 ## Part 2. 5 ways to unlock iPhone after iOS 17/14 Update
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2.1 Try a default passcode in your family
 
 While we said, you shouldn’t type in random numbers to try and guess the password, of course, if you have a standard family passcode that you use across all iOS devices, perhaps an admin password or just something you use for everything, it can be well worth a try.
@@ -240,6 +229,13 @@ When it does, close iTunes if it automatically opens and clicks the Screen Unloc
 
 ![ios unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4.** Once Dr.Fone - Screen Unlock (iOS) has detected your device in DFU Mode. You’ll be able to select which device you’re using and what firmware you want to be repaired; in this case, iOS 17/14.
 
 ![ios unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
@@ -249,6 +245,13 @@ When it does, close iTunes if it automatically opens and clicks the Screen Unloc
 That’s how easy Dr.Fone - Screen Unlock (iOS) makes the entire unlock process!
 
 ![drfone advanced unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2.3 Restore an old backup from iTunes
 
@@ -306,6 +309,13 @@ And there you go, the five key ways you need to know when it comes to removing a
 
 Are you concerned about your privacy and would like to secure certain apps on your iOS device? Don’t worry! There are plenty of ways to app lock the Apple iPhone 11 Pro Max and protect your privacy. You can follow the same drill to restrict the usage of certain apps for your kids as well by taking the assistance of the Apple iPhone 11 Pro Max app lock feature. The app lock for iPhone and iPad options can be used pretty easily. There are plenty of native and third-party solutions out there that you can use. In this post, we will make you familiar with seven different techniques on how to lock apps on iPhones and iPads.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: How to Lock Apps on iPhone with Screen Time?
 
 Utilizing Screen Time on your Apple iPhone 11 Pro Max offers a versatile way to manage app access. It is done through time restrictions and a dedicated passcode. By implementing Screen Time settings, you can exercise control over app usage. It ensures added security and regulated access to your preferred applications. Now, let's walk through the steps to learn **how to lock apps on iPhone** Screen Time:
@@ -317,6 +327,13 @@ Utilizing Screen Time on your Apple iPhone 11 Pro Max offers a versatile way to 
 **Step 2.** Select the apps or categories of the apps, tap "Next," and choose the "Time Limit" for the selected apps. After deciding the time limit, press "Add" from the top right corner to add an app limitation.
 
 ![tap on add limit option](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to Lock Apps on iPhone with Face ID & Passcode?
 
@@ -351,8 +368,12 @@ When activated, it takes you to the lock screen, prompting Face ID, Touch ID, or
 ![press the done option](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 4: How to Lock Apps on iPhone Using Restrictions?
 
 By taking the assistance of Apple’s native Restrictions feature, you can app lock the Apple iPhone 11 Pro Max without any trouble. In this way, you can set up a passcode that needs to be matched before accessing any app. This iPhone app lock is also a great way to restrict your kids from accessing certain apps or making purchases. To learn how to lock apps on iPhone or iPad using Restrictions, follow these steps:
@@ -369,11 +390,16 @@ By taking the assistance of Apple’s native Restrictions feature, you can app l
 
 **Step 4.** If you want, then you can also switch this feature off for any app using the same method.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Bonus Tip: How to Unlock iPhone withoutScreen Locks (PIN/pattern/fingerprints/face)
 
 It can be a trouble if you forget your Apple iPhone 11 Pro Max passcode since there are many restrictions on using iPhone. Also, if you are still unable to verify your Apple ID by using the above ways you may consider removing your Apple ID on your iOS devices. Here is an easy way to help you bypass Apple ID without a password and 100% working, which is to use Dr.Fone - Screen Unlock (iOS). It’s a professional iOS unlocker tool that can help you remove various locks on iPhones and iPads. With only a few steps, you can easily remove your Apple ID.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -475,6 +501,19 @@ However, if you have a jailbroken device and would like to app lock the iPhone, 
 
 This will let your app lock the Apple iPhone 11 Pro Max without any trouble. You can also go to the “Reset Password Phrase” to change the passcode.
 
+<!-- affiliate ads begin -->
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Lock Apps onApple iPhone 11 Pro Max & iPad using BioProtect
 
 Just like Applocker, BioProtect is another third-party tool that works only on jailbroken devices. It can also be downloaded from Cydia’s repository. Apart from apps, you can also use BioProtect to lock settings, SIM features, folders, and more. It is linked to the Touch ID of the Apple iPhone 11 Pro Max device and scans the fingerprint of a user to grant (or deny) access to any app. The app only works on iPhone 5s and later devices, having a Touch ID. However, you can also set a passcode as well if your Touch ID is not working. To use the BioProtect app lock for iPhone, follow these steps:
@@ -503,15 +542,9 @@ Just like Applocker, BioProtect is another third-party tool that works only on j
 
 ![authenticate using fingerprint](https://images.wondershare.com/drfone/article/2017/09/15060137676497.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Wrap it up
 
 By following these solutions, you would be able to learn how to lock apps on the Apple iPhone 11 Pro Max without much trouble. We have provided both, third-party as well as native solutions to app lock the Apple iPhone 11 Pro Max in a secure manner. You can go with your preferred option and provide an added layer of security on your device to keep it safe.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -525,9 +558,23 @@ By following these solutions, you would be able to learn how to lock apps on the
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-spin-the-web-advanced-tips-for-video-orientation-in-youtube/"><u>[New] In 2024, Spin the Web Advanced Tips for Video Orientation in YouTube</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-15-film-enhancing-luts-for-gopro-cameras/"><u>[New] Top 15 Film-Enhancing LUTs for GoPro Cameras</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-learn-to-edit-the-ultimate-guide-for-igtv-titles/"><u>[Updated] In 2024, Learn to Edit The Ultimate Guide for IGTV Titles</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-mould-laughter-inducing-images-giphy-style/"><u>[Updated] In 2024, Mould Laughter-Inducing Images, Giphy Style</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-nighttime-exposures-for-your-iphone-lens/"><u>2024 Approved Nighttime Exposures for Your iPhone Lens</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unfailing-focus-top-tripods-for-iphone-and-android-cameras/"><u>2024 Approved Unfailing Focus Top Tripods for iPhone & Android Cameras</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-unlock-iphone-15-pro-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>3 Ways to Unlock iPhone 15 Pro without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-iphone-14-plus-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 14 Plus Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/a-comprehensive-guide-to-subtitle-sharing-on-tumblr-and-discord-for-2024/"><u>A Comprehensive Guide to Subtitle Sharing on Tumblr and Discord for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabled-apple-iphone-11-how-to-unlock-a-disabled-apple-iphone-11-drfone-by-drfone-ios/"><u>Disabled Apple iPhone 11 How to Unlock a Disabled Apple iPhone 11? | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/effortlessly-enhance-printer-speed/"><u>Effortlessly Enhance Printer Speed</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-iphone-15-plus-drfone-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-15-plus-with-or-without-password-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone 15 Plus With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-apple-iphone-7-drfone-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-your-disabled-apple-iphone-6s-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone 6s Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unpacking-the-features-of-fujitsu-scansnap-ix1600-the-desktop-scanner-that-elevates-productivity/"><u>Unpacking the Features of Fujitsu ScanSnap iX1600: The Desktop Scanner That Elevates Productivity</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Cyberpunk 2077 Update: Addressing and Rectifying Input Lag Problems"
-date: 2024-10-02T17:23:43.227Z
-updated: 2024-10-03T17:49:14.790Z
+date: 2024-10-04T22:58:41.951Z
+updated: 2024-10-08T23:08:22.867Z
 tags:
   - win11
   - win10
@@ -26,10 +26,10 @@ It’s annoying that the game doesn’t start up with sound, or can’t get any 
 3. [Install Windows updates](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Use wire headsets
@@ -37,13 +37,6 @@ It’s annoying that the game doesn’t start up with sound, or can’t get any 
  Some players have found out the game need to use a 3.5mm jack to bypass the headsets audio. Therefore, use a wired input instead of USB headphones. USB headphones are not working well with Evil Genius 2.
 
 Hope it works for you, if not, try updating your audio driver.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update the audio driver
 
@@ -58,17 +51,24 @@ Hope it works for you, if not, try updating your audio driver.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-audio-bluetooth-usb-unifying.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Install Windows updates
 
@@ -78,15 +78,15 @@ Hope it works for you, if not, try updating your audio driver.
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 3. Launch Evil Genius 2 and check.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -109,24 +109,20 @@ Enjoy the game and have a nice day!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-smooth-operation-seamless-addition-of-linktree-to-tiktok-bios/"><u>[Updated] 2024 Approved Smooth Operation Seamless Addition of Linktree to TikTok Bios</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-how-to-activate-a-virtual-grid-display-for-meet-users/"><u>[Updated] How to Activate a Virtual Grid Display for Meet Users</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-ios-the-ultimate-list-of-ps2-emulators/"><u>[Updated] IOS The Ultimate List of PS2 Emulators</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-snappy-narratives-on-the-social-scene/"><u>[Updated] Snappy Narratives on the Social Scene</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-powered-assistants-transforming-the-editors-workspace/"><u>AI-Powered Assistants Transforming the Editor's Workspace</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/best-stm32qeg-kit-bundles-featuring-grove-plug-in-modules-perfect-for-raspberry-pi-and-arduino-latest-2-cuisine/"><u>Best STM32QEG Kit Bundles Featuring Grove Plug-In Modules, Perfect for Raspberry Pi & Arduino - Latest 2 Cuisine</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-xs-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/did-your-apple-iphone-15-plus-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your Apple iPhone 15 Plus Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Samsung Galaxy A14 5G | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-14-plus-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone 14 Plus Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-12-mini-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 12 mini After Forgetting the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-stolen-apple-iphone-13-mini-in-different-conditionsin-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Stolen Apple iPhone 13 mini In Different Conditionsin | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-14-pro-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, iPhone 14 Pro Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-13-pro-prevention-and-solution-drfone-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone 13 Pro Prevention & Solution | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/is-your-apple-iphone-15-plus-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your Apple iPhone 15 Plus in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/is-your-iphone-14-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your iPhone 14 in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/optimal-insta-video-sizes-2023-guide/"><u>Optimal Insta Video Sizes - 2023 Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/solution-guide-for-opening-origin-on-windows-10-and-11-systems/"><u>Solution Guide for Opening Origin on Windows 10 and 11 Systems</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/speedy-retrieval-of-snap-archive/"><u>Speedy Retrieval of Snap Archive</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-battle-tested-selecting-the-supreme-7-fps-for-2024/"><u>[New] Battle Tested Selecting the Supreme 7 FPS for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-ultimate-productivity-playlist-podcast-inspired-tasks-for-2024/"><u>[New] The Ultimate Productivity Playlist Podcast-Inspired Tasks for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-14-without-itunes-drfone-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 14 Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-se-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone SE in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/are-there-any-security-concerns-with-using-chatgpt/"><u>Are There Any Security Concerns with Using ChatGPT?</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exclusive-20-discount-on-drivecare-app-save-now-with-our-promo-codes/"><u>Exclusive 20% Discount on Drivecare App - Save Now with Our Promo Codes!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/exploring-facebooks-newest-feature-evolution/"><u>Exploring Facebook's Newest Feature Evolution</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-se-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone SE With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-15-plus-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock iPhone 15 Plus Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-7-plus-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone 7 Plus When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-12-mini-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-apple-iphone-14-plus-5-ways-to-get-into-a-locked-apple-iphone-14-plus-drfone-by-drfone-ios/"><u>Locked Out of Apple iPhone 14 Plus? 5 Ways to get into a Locked Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-in-2024-the-complete-tutorial-on-augmenting-android-video-projects-with-essential-audioscapes/"><u>New In 2024, The Complete Tutorial on Augmenting Android Video Projects with Essential Audioscapes</u></a></li>
+<li><a href="https://techtrends.techidaily.com/the-ultimate-guide-to-diagnosing-and-correcting-error-code-31-in-windows-operating-systems/"><u>The Ultimate Guide to Diagnosing and Correcting Error Code 31 in Windows Operating Systems</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-free-video-editing-magic-top-special-effects-apps-for-ios-and-android/"><u>Updated In 2024, Free Video Editing Magic Top Special Effects Apps for iOS and Android</u></a></li>
 </ul></div>
 

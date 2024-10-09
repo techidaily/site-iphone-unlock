@@ -1,7 +1,7 @@
 ---
 title: 3 Easy Ways to Factory Reset a Locked iPhone 12 Pro Without iTunes | Dr.fone
-date: 2024-08-23T21:57:27.310Z
-updated: 2024-08-24T21:57:27.310Z
+date: 2024-10-04T20:13:04.475Z
+updated: 2024-10-08T23:45:58.839Z
 tags: 
   - unlock
   - remove screen lock
@@ -27,7 +27,6 @@ Let's get started.
 ## Easy App to Factory Reset Locked iPhone
 
 If you search for a simple and effective way to factory reset your locked iPhone without iTunes, you should check out Dr.Fone-Screen Unlock. This professional iOS screen unlocks tool can help you erase all kinds of data from your Apple iPhone 12 Pro and help you unlock your device within a few minutes.
-
 
 For this, you will need to follow the steps given below.
 
@@ -135,6 +134,13 @@ No. If you want a factory reset, all your data will be erased, so make a backup 
 
 But if you want your Apple iPhone 12 Pro set to return to the default without losing your data, you can do a "Reset All Settings." This will not touch your data but will return all the default settings.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. What is the Difference Between a Soft Reset and a Hard Reset?
 
 A soft reset is when you restart your device, and a hard reset is when you factory reset all the settings on your device and start fresh. A factory reset is a type of hard reset without losing the data.
@@ -173,7 +179,6 @@ You may get stuck with any emergency if you do not know how to unlock your Apple
 
 Normally, you don't believe what you see and start to try entering the passcode to unlock your Apple iPhone 12 Pro. However, if you entered an incorrect passcode 10 times, you will receive a messag "[iPhone is disabled, connect to iTunes](https://drfone.wondershare.com/unlock/unlock-disabled-iphone-without-itunes.html)". In this case, the only way to unlock your disabled iPhone is to restore it. And that is a situation none of us would like to be in right? Hence, in this article, today, we will elaborate ways on **how to unlock iPhone without passcode** or restore it.
 
-
 ## Part 1: Unlocking Your Apple iPhone 12 Pro: What Are the 4 Main Causes of Failure?
 
 Unlocking your Apple iPhone 12 Pro can be a frustrating experience, especially when you just want to access the Apple iPhone 12 Pro device. Unfortunately, there are several common reasons why an iPhone may not unlock.
@@ -199,11 +204,13 @@ Keep reading to learn more feasible ways to unlock iPhone without passcode in de
 
 Dr.Fone - iPhone Unlocker is a powerful software that can help you open your iDevice without a passcode. It supports all iPhone models from iPhone 6 to iPhone 15, and all iPad models. Dr.Fone-Screen Unlock is easy to use and can be used to bypass the lock screen in just a few simple steps. It can also be used to reset the Apple iPhone 12 Pro device to its factory settings, allowing you to start fresh. In this section, we will learn about this important tool for iPhone lock screen removal. Thus, instead of thinking hard about **how to unlock iPhone without a passcode**, you can use [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) to do the needful.
 
-
-
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Dr.Fone - Screen Unlock (iOS)
 
 Remove iPhone Lock Screen without Hassle.
@@ -222,6 +229,13 @@ To use Dr.Fone - Screen Unlock to unlock your Apple iPhone 12 Pro or iPad withou
 
 ![drfone screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 2.** Go to "Toolbox" > "Screen Unlock" > "iOS" > "Unlock iOS Screen", then connect your Apple iPhone 12 Pro to your PC.
 
 ![unlock ios](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
@@ -234,7 +248,6 @@ To use Dr.Fone - Screen Unlock to unlock your Apple iPhone 12 Pro or iPad withou
 
 ![lock screen opened](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-
 _Unlock your Apple iPhone 12 Pro/iPad without a passcode now!_
 
 ## Part 3: The TikTok Method to iPhone Unlocking Without Using a Passcode or Face ID
@@ -242,6 +255,13 @@ _Unlock your Apple iPhone 12 Pro/iPad without a passcode now!_
 There has been a viral trend on TikTok about how to unlock your Apple iPhone 12 Pro without using a passcode or your face ID, no matter which iPhone model you use. These themes of videos quickly racked up almost 9 million views.
 
 ![unlock iphone without passcode tiktok method](https://images.wondershare.com/drfone/article/2022/04/unlock-iphone-without-passcode-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 This method states that it can enter your phone camera or calculator from the control panel, then without face ID unlocks, your phone can be used as normal.
 
@@ -276,6 +296,13 @@ This method may be a better choice for unlocking your Apple iPhone 12 Pro than u
 - **Step 4:** Click "Erase" to confirm that you want to erase your Apple iPhone 12 Pro.
 - **Step 5:** Wait for the process to complete, and your Apple iPhone 12 Pro will be unlocked.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 5: Use the Voice Control to Unlock iPhone (iOS 13 or later)
 
 The use of Voice Control to **unlock iPhone without passcode** is a feature available in iOS 13 or later. Voice Control is a feature that lets you navigate your Apple iPhone 12 Pro using just your voice. It allows you to unlock your Apple iPhone 12 Pro without having to enter a passcode or use Touch ID.
@@ -284,9 +311,6 @@ Instead, you can simply say "Hey Siri" followed by a command. Voice Control also
 
 To use the Voice Control feature to unlock iPhone (iOS 13 or later), you will need to set it up first. To do this, follow these steps:
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set up voice control](https://images.wondershare.com/drfone/article/2023/01/how-to-unlock-iphone-without-passcode-3.jpg)
 
 - **Step 1.** To set up Voice Control on your Apple iPhone 12 Pro, open the Settings app and tap Accessibility.
@@ -380,7 +404,6 @@ You will see that you can now access your Apple iPhone 12 Pro without the passco
 
 _**Tips:** This is only used for iOS 10.3.2 and 10.3.3. If you have updated your iOS system, we recommend you try the previous methods. To make it easier, just use [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)._
 
-
 ## FAQs about iPhone Unlock Issues
 
 ### 1\. How to unlock iPhone without the Home button?
@@ -406,11 +429,6 @@ If you have an older version of iOS (version 9 or earlier), then there is a bug 
 
 [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is a well-known featured software to unlock iPhone without passcode and works instantly after download. We have proven results, and all the methods listed above are user-friendly to the extent that no knowledge of technology is required to unlock the Apple iPhone 12 Pro without Siri. We advise you to use Dr.Fone as it will work on your Apple iPhone 12 Pro without any damage and give the desired result. However, you may choose any of the above iOS unlocking methods as you see fit.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How To Fix Auto Lock Greyed Out on Apple iPhone 12 Pro
 
 Auto-lock on iOS devices serves multiple purposes - it conserves battery life, secures your data, and more. But have you encountered the **Auto-Lock greyed-out** dilemma, fixed at 30 seconds? When this setting becomes inaccessible, it limits your control over screen timeout.
@@ -418,6 +436,13 @@ Auto-lock on iOS devices serves multiple purposes - it conserves battery life, s
 Read on if you've encountered a similar problem on your iOS device. In this guide, we'll explore the possible reasons and offer steps to fix **Auto-Lock greyed out on iPhone** and iPad devices. If force restarts or settings resets haven't worked for you, we've got alternative solutions. Let's get started.
 
 ![auto lock greyed out on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-01.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1: Why Is Auto-Lock Greyed Out on iOS Device?
 
@@ -427,18 +452,6 @@ Low Power Mode
 
 When you activate Low Power Mode on your iOS device, you might notice the screen automatically locking after 30 seconds of inactivity. This quick sleep setting, implemented to minimize power usage, explains why the Auto-Lock option appears greyed out and inaccessible.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![low power mode on iphone enabled](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-02.jpg)
 
 Screen Time Restrictions
@@ -507,6 +520,13 @@ If your IT team gives the green light, you might also be able to remove the netw
 
 ![remove mdm profile on ipad](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-08.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If the option is unavailable, only the person who used Apple Configurator 2 or handles your company's mobile device management platform can remove it.
 
 Fix No.5: Use Dr.Fone To Bypass MDM Lock Without Data Loss
@@ -565,6 +585,13 @@ Here are the steps on **how to change Auto-Lock on iPad** devices:
 
 ![display and brightness settings on ipad](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-16.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 3:** A list of time options will appear, ranging from **2 minutes** to **15 minutes**, as well as **Never**. Select the time you want your iPad to wait before automatically locking the screen after inactivity. If you want the screen to stay on indefinitely, choose **Never**.
 
 ![change auto lock on ipad](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-17.jpg)
@@ -579,9 +606,6 @@ Here's **how to change Auto-Lock on iPhone** devices:
 - **Step 2:** Tap on **Display & Brightness**, scroll down, and tap **Auto-Lock**.
 - **Step 3:** Choose the desired time interval for your Apple iPhone 12 Pro to automatically lock. The available options typically range from **30 seconds** to **5 minutes**. You may also have the option to select **Never** if you prefer to have the screen stay on indefinitely until you manually lock it.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change auto-lock on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-18.jpg)
 
 ## Conclusion
@@ -591,7 +615,6 @@ There you have it. This guide has equipped you with the knowledge and solutions 
 For an easy solution, use Dr.Fone Screen Unlock to bypass MDM restrictions, giving you control over your device. Whether it's a work phone or a personal device under MDM, Dr.Fone can offer an efficient solution. With a few clicks, you'll have the Auto-Lock back on track, ensuring your iOS device works again just how you want it.
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -605,9 +628,22 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-automatic-cycling-of-videos-on-iphone-ease/"><u>[New] 2024 Approved Automatic Cycling of Videos on iPhone Ease</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-10-best-youtube-music-reaction-video-and-how-to-make-one/"><u>[New] In 2024, 10 Best YouTube Music Reaction Video & How to Make One</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-in-depth-look-top-6-screen-recording-software-reviewed/"><u>[New] In 2024, In-Depth Look Top 6 Screen Recording Software Reviewed</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-innovative-ideas-for-fb-slideshow-creations-for-2024/"><u>[New] Innovative Ideas for FB Slideshow Creations for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-turning-popular-sounds-on-tiktok-into-personal-cellphone-alarms/"><u>[Updated] 2024 Approved Turning Popular Sounds on TikTok Into Personal Cellphone Alarms</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-virtual-venue-vaults-download-edition/"><u>[Updated] Virtual Venue Vaults - Download Edition</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-screenrecorderpro-a-detailed-analysis-of-video-capture-software/"><u>2024 Approved ScreenRecorderPro A Detailed Analysis of Video Capture Software</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/future-of-google-wireless-earbuds-pixel-buds-pro-2-speculations-release-details-inside/"><u>Future of Google Wireless Earbuds: Pixel Buds Pro 2 Speculations - Release Details Inside</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-remove-find-my-iphone-without-apple-id-from-your-iphone-15-pro-max-by-drfone-ios/"><u>How to Remove Find My iPhone without Apple ID From your iPhone 15 Pro Max?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-15-with-a-mask-on-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-plus-passcode-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 6s Plus Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-12-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock iPhone 12, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-8-plus-in-lost-mode-drfone-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone 8 Plus in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-13-pro-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>iPhone 13 Pro Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-13-pro-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock Apple iPhone 13 Pro Without Passcode Easily | Dr.fone</u></a></li>
+</ul></div>
 

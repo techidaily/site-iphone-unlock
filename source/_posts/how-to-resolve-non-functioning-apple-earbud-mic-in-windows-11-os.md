@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Non-Functioning Apple Earbud Mic in Windows 11 OS
-date: 2024-09-28T18:05:41.337Z
-updated: 2024-10-03T16:28:15.052Z
+date: 2024-10-07T18:36:00.055Z
+updated: 2024-10-08T19:12:04.913Z
 tags:
   - win11
   - win10
@@ -39,21 +39,14 @@ Follow these:
 3. Click**Microphone** on the left pane. Check if the status is**On**  for Skype.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If it’s Off, click it to switch to On.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e77b3c45.png)
 4. Log in Skype and check to see if your Microphone works.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ###
 
@@ -67,10 +60,10 @@ Follow these:
 4. Check to see if your Microphone works.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ###
@@ -89,6 +82,13 @@ Follow these:
 
 ###
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Restart Windows audio service
 
 1. On your keyboard, press the **Windows logo** **key** and **R** (at the same time) to invoke the run command.
@@ -97,10 +97,10 @@ Follow these:
 3. Right-click on the **Windows Audio** service. Click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996976eeec58.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Log in Skype and check to see if your Microphone works.
@@ -122,22 +122,24 @@ Follow these:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-pro-mic-tech-review-best-9-online-recorders-uncovered/"><u>[New] In 2024, Pro Mic Tech Review Best 9 Online Recorders Uncovered</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-depth-review-dji-phantom-4-in-action/"><u>[New] In Depth Review DJI Phantom 4 in Action</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-spectrum-of-autonomous-flight-machines/"><u>[New] Spectrum of Autonomous Flight Machines</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-the-ultimate-list-empowering-cinematic-experiences/"><u>[New] The Ultimate List Empowering Cinematic Experiences</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-elevating-your-streaming-experience-switching-between-spotify-and-youtube-music/"><u>[Updated] Elevating Your Streaming Experience Switching Between Spotify & YouTube Music</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-superior-suggestions-top-websites-for-acquiring-snapalert-melodies/"><u>[Updated] Superior Suggestions Top Websites for Acquiring SnapAlert Melodies</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-how-to-do-color-correction-in-gopro-studio/"><u>2024 Approved How to Do Color Correction in GoPro Studio</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-iphone-x-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve iPhone X Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/discover-free-sound-fx-websites-and-integrate-with-final-cut-pro-for-2024/"><u>Discover Free Sound FX Websites and Integrate with Final Cut Pro for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-6-plus-drfone-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-6s-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your iPhone 6s Lock Screen with Notifications? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-your-iphone-15-pro-max-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>How to Unlock Your iPhone 15 Pro Max Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-iphone-7-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 7 After Forgetting the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-13-drfone-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-14-plus-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/top-10-budget-friendly-filmmaking-tools-for-indie-creators/"><u>Top 10 Budget-Friendly Filmmaking Tools for Indie Creators</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-15-pro-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock Apple iPhone 15 Pro Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/apple-iphone-15-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>Apple iPhone 15 Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-motorola-moto-g84-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Motorola Moto G84 5G Phones with/without a PC</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-iphone-xr-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your iPhone XR Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-13-mini-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-v27-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo V27 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-11-pro-passcode-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 Pro Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-vivo-x-flip-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Vivo X Flip without App | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-apple-iphone-se-2022-drfone-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-pursuit-of-visual-excellence-10-essential-iphone-composition-techniques/"><u>In 2024, Pursuit of Visual Excellence 10 Essential iPhone Composition Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-windows-hdr-capabilities-for-cutting-edge-video-workflows/"><u>In 2024, Unlocking Windows' HDR Capabilities for Cutting-Edge Video Workflows</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/is-your-iphone-xs-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your iPhone XS in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/masterclass-in-capturing-video-frames/"><u>Masterclass in Capturing Video Frames</u></a></li>
+<li><a href="https://article-helps.techidaily.com/optimizing-video-playback-with-pip-on-safari-devices-for-2024/"><u>Optimizing Video Playback with PIP on Safari Devices for 2024</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/step-by-step-instructions-effortlessly-navigating-zepeto-on-your-computer-screen/"><u>Step-by-Step Instructions: Effortlessly Navigating Zepeto on Your Computer Screen</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-13-drfone-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-netgear-nighthawk-ax8-extender-assessment-for-wi-fi-6-users-seeking-reliability-and-speed/"><u>The Ultimate Netgear Nighthawk AX8 Extender Assessment for Wi-Fi 6 Users Seeking Reliability and Speed</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-5-must-have-iphone-navigation-apps-your-ultimate-guide/"><u>Top 5 Must-Have iPhone Navigation Apps: Your Ultimate Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/trouble-with-iphone-6-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with iPhone 6 Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-14-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock Apple iPhone 14 Without Passcode Easily | Dr.fone</u></a></li>
 </ul></div>
 

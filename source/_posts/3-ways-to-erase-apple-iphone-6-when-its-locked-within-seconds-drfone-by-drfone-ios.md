@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Erase Apple iPhone 6 When Its Locked Within Seconds | Dr.fone
-date: 2024-08-23T21:56:53.362Z
-updated: 2024-08-24T21:56:53.362Z
+date: 2024-10-06T23:24:37.354Z
+updated: 2024-10-08T19:10:03.401Z
 tags: 
   - unlock
   - remove screen lock
@@ -22,11 +22,6 @@ Over the last few years, Apple has made remarkable progress with its flagship iP
 
 One of the best ways to wipe locked iPhone is by using [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) tool. It is an extremely secure and reliable application. It is already compatible with every leading version of iOS and runs on almost all major iOS devices. Available for both Windows and Mac, the tool can be used to remove activation lock and Apple ID. The tool also provides an easy-to-use interface that can help you reset [the activation lock](https://drfone.wondershare.com/icloud/bypass-icloud-activation.html) on your device.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone - Screen Unlock (iOS)
 
 Erase the data of an iPhone even if it is locked
@@ -56,18 +51,12 @@ Wait for a while as the application will automatically recognize your phone. Cli
 
 Follow the on-screen instructions to put your phone into the DFU (Device Firmware Update) mode. It can be done by pressing the Home and Power button simultaneously for 10 seconds. Afterward, it would help if you released the Power button while pressing the Home button for another 5 seconds.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![erase iphone when locked-boot in DFU mode](https://images.wondershare.com/drfone/drfone/ios-unlock-2.jpg "boot in DFU mode")
 
 **Step 4. Download firmware package.**
 
 After putting your device into the DFU mode, the application will automatically move to the next window. Here, you would be required to provide essential information related to your phone like device model, firmware update, and more. After filling in the correct information, click on the “Download” button.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![erase iphone when locked-select phone details](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png "select phone details")
 
 Sit back and relax as the application will download the essential firmware update for your phone.
@@ -102,6 +91,13 @@ If you are looking for an alternative way to learn how to erase iPhone when lock
 
 ![erase iphone when locked-connect to itunes](https://images.wondershare.com/drfone/article/2017/07/14993648903843.jpg "connect to itunes")
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3\. If you don’t get the above pop-up on your screen, launch iTunes and visit its “Summary” section. From here, choose “Restore backup” under the Backup section.
 
 ![erase iphone when locked-restore backup](https://images.wondershare.com/drfone/article/2017/07/14993649149685.jpg "restore backup")
@@ -109,6 +105,13 @@ If you are looking for an alternative way to learn how to erase iPhone when lock
 4\. agree to the pop-up message by clicking on the “Restore” button.
 
 ![erase iphone when locked-restore iphone](https://images.wondershare.com/drfone/article/2017/07/14993649291284.jpg "restore iphone")
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: Erase locked iPhone by Find My iPhone
 
@@ -128,7 +131,12 @@ Confirm your choice and wipe locked iPhone remotely using the Find My iPhone fea
 
 After following this informative guide, you would learn how to wipe a locked iPhone without any trouble. Go ahead and pick your preferred option to wipe locked iPhone. We recommend using Dr.Fone - Screen Unlock (iOS) to resolve this issue securely. Though, if you wish to do it remotely, then you can also give Find My iPhone a try as well. If you are familiar with any other reliable method, please let us know how to erase iPhone when locked in the comments below.
 
-
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 3 Ways to Unlock Apple iPhone 6 without Passcode or Face ID
 
@@ -136,13 +144,11 @@ After following this informative guide, you would learn how to wipe a locked iPh
 
 _“How to unlock Apple iPhone 6 without passcode? I have forgotten the passcode of My Apple iPhone 6 and can’t seem to unlock it after consecutive efforts.”_
 
-
 If you have been [locked out of your Apple iPhone 6](https://drfone.wondershare.com/unlock/get-into-locked-iphone.html) due to different reasons, then you have come to the right place. Lately, many users have told us that their Apple iPhone 6 won’t unlock as they have forgotten the new passcode or bought someone else’s device. No matter the situation, you can learn how to unlock Apple iPhone 6 without a passcode or Face ID.
 
 As an expert, I tried and tested these methods to unlock iOS devices without using the pre-set passcode. So what are you waiting for? Read on and learn how to unlock iPhone X if you forgot its passcode.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wXbqfC7JTKc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
-
 
 ## Part 1: How to unlock Apple iPhone 6 with a professional tool?
 
@@ -152,7 +158,12 @@ Note： This tool may erase all your data from your iOS devices after unlocking
 
 It is compatible with all the leading iOS devices, including the latest models like iPhone 15. Without any prior technical experience, you can use this tool and fix an Apple iPhone 6 that won’t unlock. Here are some main features of this unlocking tool.
 
-
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock
 
@@ -181,19 +192,30 @@ Using a lightning cable, connect your Apple iPhone 6 to the system. Once your Ap
 
 ![connect iphone to computer](https://images.wondershare.com/drfone/guide/unlock-ios-screen-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2: Put your Apple iPhone 6 in Recovery mode.**
 
 You need to put your Apple iPhone 6 in the Recovery mode using the right key combinations. The key combinations would be different for various iPhone models. The interface also provides quick instructions to do the same. Here’s how you can put your Apple iPhone 6 in Recovery mode.
 
 ![download iPhone firmware](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3: Provide basic details of your device**
 
 As soon as your Apple iPhone 6 would enter the Recovery mode, the application will detect it automatically. It will display the following window to provide basic details related to your Apple iPhone 6, like its model, iOS version, etc.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![download iPhone firmware](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 After proving the relevant information, click on the “Download” button and wait for a while as the application would download the firmware update for the Apple iPhone 6 device.
@@ -203,6 +225,13 @@ After proving the relevant information, click on the “Download” button and w
 Once the respective firmware update has been downloaded, you will be notified. To fix your Apple iPhone 6 won’t unlock, click on the “Unlock Now” button.
 
 ![unlock iphone xs](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Sit back and wait for a while as the application will restart your device. There won’t be any lock on the Apple iPhone 6 device now, and you can access it without any trouble.
 
@@ -306,8 +335,6 @@ We understand how frustrating it can be when your newly purchased Apple iPhone 6
 
 ### II.I Using Dr.Fone - Screen Unlock (iOS) to Unlock the Locked Apple iPhone 6
 
-
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
@@ -315,9 +342,6 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 - Simple, click-through, process.
 - Unlock screen passwords from all iPhone and iPad.
 - No tech knowledge is required, everybody can handle it.
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - Supports iPhone XS (Max) / iPhone XR / iPhone X / 8 (Plus)/ iPhone 7(Plus)/ iPhone6s(Plus), iPhone SE and the latest iOS version fully!![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 
 **4,395,217** people have downloaded it
@@ -372,6 +396,13 @@ Step 2: Press the volume up button and let go. Press the volume down button and 
 
 ![press volume botton](https://images.wondershare.com/drfone/article/2021/09/unlock-iphone-13-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3: Select Restore to download and reinstall the latest iOS on your Apple iPhone 6 and unlock Apple iPhone 6.
 
 ## Part III: How to Turn Off Passcodes in Apple iPhone 6
@@ -412,7 +443,6 @@ All Apple iPhone 6 models feature the same IP68 water resistance (that is a dept
 
 A locked Apple iPhone 6 is never a pretty sight. Fortunately, there are a couple of things you can do to try and unlock your Apple iPhone 6 and remove the passcode from your Apple iPhone 6. There is also Wondershare Dr.Fone - Screen Unlock (iOS) to unlock your Apple iPhone 6 for you when you need help removing the passcode from your Apple iPhone 6 and unlocking it.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -425,9 +455,19 @@ A locked Apple iPhone 6 is never a pretty sight. Fortunately, there are a couple
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/01851781-new-2024-approved-banner-bonanza-unlimited-50-free-youtube-designs/"><u>[New] 2024 Approved Banner Bonanza Unlimited 50 FREE YouTube Designs!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-from-captured-moments-to-digital-fame-broadcasting-with-gopro-and-social-platforms/"><u>[New] 2024 Approved From Captured Moments to Digital Fame Broadcasting with GoPro & Social Platforms</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-efficient-tactics-for-recording-vimeo-media-for-2024/"><u>[New] Efficient Tactics for Recording Vimeo Media for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-easily-obtain-unique-epilogue-audio-files-online-for-2024/"><u>[Updated] Easily Obtain Unique Epilogue Audio Files Online for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-best-budget-asmr-mic-stellar-sound-value/"><u>2024 Approved Best Budget ASMR Mic Stellar Sound Value</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-7-plus-without-itunes-drfone-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 7 Plus Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/discover-the-pinnacle-of-motion-capture-with-sj-cam-s6-for-2024/"><u>Discover the Pinnacle of Motion Capture with SJ-CAM S6 for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/high-end-displays-revived-with-windows-update/"><u>High-End Displays Revived with Windows Update</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-stolen-apple-iphone-14-in-different-conditionsin-drfone-by-drfone-ios/"><u>How To Unlock Stolen Apple iPhone 14 In Different Conditionsin | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-15-in-lost-mode-drfone-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone 15 in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-se-2020-drfone-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-14-pro-max-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone 14 Pro Max Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+</ul></div>
 

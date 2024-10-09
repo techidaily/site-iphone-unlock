@@ -1,7 +1,7 @@
 ---
 title: In 2024, Unlock Your Disabled Apple iPhone 8 Without iTunes in 5 Ways | Dr.fone
-date: 2024-09-26T18:09:13.912Z
-updated: 2024-10-03T17:01:59.674Z
+date: 2024-10-02T23:37:17.408Z
+updated: 2024-10-08T23:32:28.939Z
 tags: 
   - unlock
   - remove screen lock
@@ -32,6 +32,13 @@ There are several reasons why your Apple iPhone 8 may become disabled, including
 ## Part 2: Why Not Use iTunes to Unlock Disabled iPhone?
 
 ![unlock disabled iphone without itunes](https://images.wondershare.com/drfone/article/2023/11/how-to-unlock-disabled-iphone-without-itunes.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 iTunes has lost popularity due to its heavy and confusing features, along with frequent crashes. You may be seeking alternatives to unlock disabled iPhones opt for more straightforward methods that don't involve iTunes.
 
@@ -74,13 +81,6 @@ After your device is in DFU mode, the software will display the Apple iPhone 8 d
 
 ![confirm device data](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4: Unlock Your Screen Lock**
 
 Once the firmware has been downloaded successfully, click "Unlock Now" to start the unlocking process. Your Apple iPhone 8 or iPad will be successfully unlocked in just a few seconds. Please note that this unlocking process will also erase the data on your device, as there is currently no solution to bypass the Apple iPhone 8 or iPad lock screen without data loss.
@@ -120,6 +120,13 @@ You can learn **how to unlock a disabled iPhone without iTunes** by implementing
 
 ![erase iphone](https://images.wondershare.com/drfone/article/2023/02/unlock-disabled-iphone-without-itunes-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Wait for a while as the "Find My iPhone" feature will remotely erase your iOS device. Needless to say, it will also disable its lock.
 
 **Pros**
@@ -139,6 +146,13 @@ Here's how to unlock your Apple iPhone 8 using Find My App:
 
 ![find my app](https://images.wondershare.com/drfone/article/2023/02/unlock-disabled-iphone-without-itunes-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 1.** Open the Find My App on your Apple iPhone 8.
 - **Step 2.** Tap "Devices" from the bottom menu.
 - **Step 3.** Tap your Apple iPhone 8 from the list of devices.
@@ -157,10 +171,10 @@ Here's how to unlock your Apple iPhone 8 using Find My App:
 - All data is lost.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 6: How to Try Finder to Unlock a Disabled iPhone on Mac?
@@ -215,16 +229,16 @@ Additionally, it was originally speculated as a loophole in iOS. Therefore, you 
 
 ![tap on message](https://images.wondershare.com/drfone/article/2017/07/14993657505607.jpg "tap on message")
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 6**. Type anything in the “To” field and tap the return button on the keyboard.
 
 ![add contact number](https://images.wondershare.com/drfone/article/2017/07/14993657706373.jpg "add contact number")
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 7**. This will highlight the provided text in green color. Select it and tap on the plus icon.
 
@@ -237,13 +251,6 @@ Additionally, it was originally speculated as a loophole in iOS. Therefore, you 
 **Step 9**. On the Add new contact screen, choose to add a photo and tap on the “**Add Photo**” option.
 
 ![add photo](https://images.wondershare.com/drfone/article/2017/07/14993658262749.jpg "add photo")
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 10**. This will open the Photo Library. From here, you can visit any album.
 
@@ -263,6 +270,13 @@ _**Tips:** Since it is considered a loophole in iOS, it is not an efficient way 
 
 - Only available on iOS 8.0 to 10.1 and may not work on all devices.
 - Requires an active internet connection, and the Apple iPhone 8 device must be plugged into a power source.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## FAQs
 
@@ -302,6 +316,13 @@ If you aren’t using this iPhone notification lock screen feature, then you are
 
 ![iphone lock screen with notifications-reply to messages from notification](https://images.wondershare.com/drfone/article/2017/09/15063937846890.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Interact with apps without unlocking your phone**
 
 Not just your messages, you can interact with other apps as well right from the lock screen notifications iPhone. After getting a list of notifications, you can simply tap on the “x” button to close them.
@@ -338,13 +359,6 @@ Sometimes, people can access our private information just by looking at our noti
 
 Besides that, there are a few other options as well that you can either enable or disable to customize your lock screen notifications iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: How to turn off notification view on iPhone lock screen?
 
 The notification view can be used to see previous notifications on the Apple iPhone 8 device without unlocking it. Needless to say, most of the users don’t like to include this iPhone notification lock screen feature. To turn off the notification view of iPhone lock screen notifications, follow these steps:
@@ -372,13 +386,6 @@ With the new update of iOS 18, we can see a drastic change in the Apple iPhone 8
 Some people find it a little tricky to access the lock screen notifications iPhone after the iOS 18 update. Instead of sliding the screen from the top, you need to swipe it from the middle. By swiping it from the bottom, you might get its control center.
 
 ![iphone lock screen with notifications-access iphone notification on ios 18](https://images.wondershare.com/drfone/article/2017/09/15063940632171.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Simply swipe up from the middle of the screen to get a list of all the notifications. Now, you can slide them to access the old notifications.
 
@@ -471,10 +478,10 @@ Here are the steps to recover Apple iPhone 8  via iTunes backup.
     ![feasible ways to unlock Apple iPhone 8 3](https://images.wondershare.com/drfone/article/2021/04/feasible-ways-to-unlock-iphone-7-and-7-plus-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Part 3: How to Change Passcode on Apple iPhone 8?**
@@ -504,13 +511,6 @@ If you wish to change the passcode on Apple iPhone 8 , simply follow the steps g
 
 8. Enter your new password once again for confirmation and conclude the process by clicking on "Done."
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Closing
 
 Now you know what to do the next time you forget your passcode. Using the simple methods and techniques mentioned above, you can easily restore your Apple iPhone 8 the passcode, or you can unlock your Apple iPhone 8 without knowing the passcode, avoiding much trouble. Hopefully, this could prove to be of service to you.
@@ -529,16 +529,16 @@ Now you know what to do the next time you forget your passcode. Using the simple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-the-ultimate-handbook-for-vr-gameplay-capture/"><u>[New] 2024 Approved The Ultimate Handbook for VR Gameplay Capture</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-quantifying-igtv-engagement-and-outreach/"><u>[New] In 2024, Quantifying IGTV Engagement and Outreach</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-in-2024-top-8-metaverse-headsets-and-glasses-to-dive-into-metaverse/"><u>[New] In 2024, Top 8 Metaverse Headsets and Glasses to Dive Into Metaverse</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-se-2020-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock iPhone SE (2020), Apples New iPhone | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-amplify-your-iphones-sound-with-top-rated-podcasts/"><u>In 2024, Amplify Your iPhone's Sound with Top-Rated Podcasts</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-xr-without-passcode-now-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone XR Without Passcode Now | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-14-plus-learn-all-4-methods-drfone-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone 14 Plus? Learn All 4 Methods | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-pro-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Pro Passcode Screen? | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-realme-narzo-60x-5g-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Realme Narzo 60x 5G Device</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/is-your-iphone-6-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your iPhone 6 in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/the-complete-guide-to-the-garmin-forerunner-945-a-revolutionary-multi-sport-tracking-device/"><u>The Complete Guide to the Garmin Forerunner 945 - A Revolutionary Multi-Sport Tracking Device</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-drive-traffic-and-growth-with-youtube-analytic-insights-for-2024/"><u>[Updated] Drive Traffic and Growth with YouTube Analytic Insights for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-se-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone SE without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-14-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone 14 Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-vivo-x100-pro-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Vivo X100 Pro Devices | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-from-iphone-12-mini-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password From iPhone 12 mini</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-your-xiaomi-redmi-note-13-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Xiaomi Redmi Note 13 5G Lock Screen Password</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-apple-iphone-6s-without-passcode-easily-drfone-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 6s Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/lightest-load-web-browsers-for-windows-macos-chromeos-users/"><u>Lightest-Load Web Browsers for Windows, macOS, ChromeOS Users</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/navigating-the-digital-maze-to-save-snaps-from-social-media/"><u>Navigating the Digital Maze to Save Snaps From Social Media</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-the-ultimate-guide-to-free-public-domain-video-downloads-for-2024/"><u>New The Ultimate Guide to Free Public Domain Video Downloads for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-14-plus-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>Unlock iPhone 14 Plus With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
 </ul></div>
 
