@@ -1,7 +1,7 @@
 ---
 title: Device Error Cleared - Back to Normal Operation
-date: 2024-10-02T21:12:37.260Z
-updated: 2024-10-08T20:29:12.886Z
+date: 2024-10-12T06:04:24.796Z
+updated: 2024-10-15T03:39:23.237Z
 tags:
   - win11
   - win10
@@ -26,6 +26,13 @@ If you encounter**This device is disabled. (Code 22)**in Device Manager, here ar
 3. [**Uninstall your device driver**](https://cowinaudio.pxf.io/pyx40e)
 4. **[Reset the BIOS settings](https://bluettius.sjv.io/dkpnv2)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Enable your device driver
 
 Code 22 occurs usually because your device is manually disabled. Then manually enabling it should solve the problem. Here’s how to do so：
@@ -39,13 +46,6 @@ Code 22 occurs usually because your device is manually disabled. Then manually e
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98e536637bc.jpg)
 If the problem persists, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
 ### Fix 2: Update your device driver
@@ -58,28 +58,28 @@ Driver errors like Code 22 can often be fixed by updating device drivers. You ca
 3. Click the **Update** button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).Or click **Update All** to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98ecfc678b7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
-  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Uninstall your device driver
@@ -89,6 +89,13 @@ Uninstalling your device driver is another solution you can try to fix **This de
 1. In Device Manager, right-click your device and select**Uninstall device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98ea2541557.jpg)
 2. Restart your computer, and Windows will automatically reinstall the driver for your device.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -113,13 +120,6 @@ If the above steps don’t work for you, to fix driver error code 22, you can tr
 
 7. Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576474/17382" target="_top" id="1576474">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576474" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576474/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
 
 Please do reply if you got your problem fixed.
@@ -141,24 +141,18 @@ Please do reply if you got your problem fixed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-ultimate-2023-tweet-video-roundup/"><u>[New] 2024 Approved Ultimate 2023 Tweet Video Roundup</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-discover-the-best-video-capture-tools-for-windows-users/"><u>[New] In 2024, Discover the Best Video Capture Tools for Windows Users</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-navigating-google-trends-for-inspiration-in-video-making/"><u>[New] In 2024, Navigating Google Trends for Inspiration in Video Making</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-in-2024-the-ultimate-guide-to-choosing-5-chrome-extensions-for-facebook-videos/"><u>[Updated] In 2024, The Ultimate Guide to Choosing 5 Chrome Extensions for Facebook Videos</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-how-to-create-a-unique-cellphone-alert-from-favorite-tiktok-songs/"><u>2024 Approved How to Create a Unique Cellphone Alert From Favorite TikTok Songs</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/about-poco-c51-frp-bypass-by-drfone-android/"><u>About Poco C51 FRP Bypass</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-apple-iphone-6-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>How to Bypass Apple iPhone 6 Passcode Easily Video Inside | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-15-pro-max-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix iPhone 15 Pro Max Unavailable Issue With Ease | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-ios-system-of-iphone-6s-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair iOS System of iPhone 6s Plus? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-xr-lock-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone XR Lock Screen | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-did-your-apple-iphone-6-plus-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>In 2024, Did Your Apple iPhone 6 Plus Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-11-pro-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone 11 Pro Passcode Easily Video Inside | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-14-pro-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-6s-drfone-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 6s | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-trouble-with-iphone-14-plus-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>In 2024, Trouble with iPhone 14 Plus Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/master-multitasking-with-multiple-displays-guide-for-adding-a-second-monitor-in-windows-versions/"><u>Master Multitasking with Multiple Displays: Guide for Adding a Second Monitor in Windows Versions</u></a></li>
-<li><a href="https://facebook.techidaily.com/modifying-personal-date-of-birth-online-fb/"><u>Modifying Personal Date of Birth Online (FB)</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-11-pro-drfone-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/understanding-user-feedback-on-privacy-guidelines/"><u>Understanding User Feedback on Privacy Guidelines</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-how-to-cut-video-length-for-instagram-on-mac/"><u>[New] In 2024, How To Cut Video Length For Instagram On Mac</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-13-pro-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 13 Pro with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comprehensive-guide-discovering-your-pcs-installed-software-on-windows/"><u>Comprehensive Guide: Discovering Your PC's Installed Software on Windows</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/gpts-magic-tricks-unveiling-9-daily-life-boosters/"><u>GPT's Magic Tricks: Unveiling 9 Daily Life Boosters</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-htc-frp-by-drfone-android/"><u>How Can We Bypass HTC FRP?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-xs-max-drfone-by-drfone-ios/"><u>How to Unlock iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-x-lock-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone X Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-6s-properly-drfone-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 6s Properly | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-xr-prevention-and-solution-drfone-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone XR Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-iphone-15-pro-max-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>In 2024, Unlocking iPhone 15 Pro Max Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/step-by-step-guide-to-recording-on-your-macbook-for-2024/"><u>Step-By-Step Guide to Recording on Your MacBook for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/streamlined-tactics-for-scrolling-through-popular-youtube-reactions/"><u>Streamlined Tactics for Scrolling Through Popular YouTube Reactions</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Locked Out of iPhone 11 Pro? 5 Ways to get into a Locked iPhone 11 Pro | Dr.fone
-date: 2024-10-02T00:51:33.695Z
-updated: 2024-10-08T17:25:32.762Z
+date: 2024-10-13T16:40:31.392Z
+updated: 2024-10-14T18:35:25.045Z
 tags: 
   - unlock
   - remove screen lock
@@ -67,6 +67,13 @@ You can watch the video below about how to unlock your Apple iPhone 11 Pro witho
 
 ![got into locked Apple iPhone 11 Pro successfully](https://images.wondershare.com/drfone/drfone/ios-unlock-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to get into a locked Apple iPhone 11 Pro with iTunes?
 
 This is another popular way to resolve the locked out of the Apple iPhone 11 Pro problem. It can get a little complicated to start with, but in the end, your data would be erased. On Mac with macOS Catalina, you need to open Finder. On Windows PC and Mac with other macOS, you can use iTunes. Implement the following steps to restore your Apple iPhone 11 Pro.
@@ -81,29 +88,9 @@ This is another popular way to resolve the locked out of the Apple iPhone 11 Pro
 
 ![boot in recovery mode](https://images.wondershare.com/drfone/article/2017/07/14994495356542.jpg "boot in recovery mode")
 
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3.** Click on the “Restore” button. This would reset your device.
 
 ![restore Apple iPhone 11 Pro](https://images.wondershare.com/drfone/article/2017/07/14994495527134.jpg "restore Apple iPhone 11 Pro")
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: How to get into a locked Apple iPhone 11 Pro via Find My Apple iPhone 11 Pro?
 
@@ -133,6 +120,19 @@ If you don’t want to erase your device’s data while resolving this issue, yo
 
 ![select all](https://images.wondershare.com/drfone/article/2017/07/14994491845337.jpg "select all")
 
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4.** A few added options will be displayed. Tap on “Share” to proceed.
 
 ![share text](https://images.wondershare.com/drfone/article/2017/07/14994491981436.jpg "share text")
@@ -145,13 +145,6 @@ If you don’t want to erase your device’s data while resolving this issue, yo
 
 ![send to](https://images.wondershare.com/drfone/article/2017/07/14994492327446.jpg "send to")
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 7.** Then the text will be highlighted. Tap on the add icon.
 
 ![add contact](https://images.wondershare.com/drfone/article/2017/07/14994492469564.jpg "add contact")
@@ -159,13 +152,6 @@ If you don’t want to erase your device’s data while resolving this issue, yo
 **Step 8.** This will open another interface to add a new contact. From here, tap on the “Create new contact” option.
 
 ![create new contact](https://images.wondershare.com/drfone/article/2017/07/14994492596641.jpg "create new contact")
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 9.** Instead of adding a contact, tap on the photo icon and select the “Choose Photo” option.
 
@@ -225,13 +211,6 @@ Follow these steps to learn how to unlock Apple iPhone 11 Pro without a passcode
 Download Dr.Fone - Screen Unlock (iOS) on your Mac or Windows PC and launch the application. Then go to Toolbox > Screen Unlock > iOS > Unlock iOS Screen to launch the specific tool on a new window.
 
 ![unlock ios screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Using a lightning cable, connect your Apple iPhone 11 Pro to the system. Once your Apple iPhone 11 Pro is detected, click on the “Start” button to commence the process.
 
@@ -361,6 +340,13 @@ Updates or software bugs can occasionally interfere with the swipe-up gesture. I
 
 Sometimes, the touch screen may need recalibration. This can cause the swipe-up feature to become unresponsive.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Physical Damage
 
 Physical damage, like heavy falls, can impact the phone's touch sensitivity. Moreover, it affects swipe gestures as a result.
@@ -425,6 +411,13 @@ After that, you'll reach a window showing different iOS firmware alternatives. P
 
 ![initiate swipe up repair process](https://images.wondershare.com/drfone/guide/ios-system-repair-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2. Force Restart iPhone
 
 Performing a force restart, also known as a hard reset, can troubleshoot minor software glitches. These can cause unresponsive swipe-up issues on your Apple iPhone 11 Pro. Here's a guide on how to perform a force restart on various iDevice models to fix the **iPhone won’t swipe up**:
@@ -443,16 +436,16 @@ Performing a force restart, also known as a hard reset, can troubleshoot minor s
 
 ![force restart iphone all models](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3. Remove the Cover or Case
 
 Sometimes, an unresponsive swipe-up gesture on your Apple iPhone 11 Pro could be due to interference caused by a protective cover or case. The cover might be too thick, improperly aligned, or interfering with the touch sensitivity of the screen. Gently remove the protective cover or case from your Apple iPhone 11 Pro. Inspect the screen for any dust, debris, or smudges while the cover is removed. Utilize a clean, soft cloth to wipe the screen.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4. Clean iPhone Screen or Remove Screen Protector
 
@@ -478,6 +471,13 @@ Are you experiencing issues with accessing the Control Center via the swipe-up g
 
 ![enable access within apps option](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 7. Update to the Latest iOS Version
 
 Running an outdated iOS version can sometimes lead to various software issues. These include unresponsive gestures like the swipe-up function on your Apple iPhone 11 Pro. Updating your device to the latest iOS version can often resolve such problems. Here's how to check for and update your Apple iPhone 11 Pro to the latest iOS version:
@@ -489,13 +489,6 @@ Running an outdated iOS version can sometimes lead to various software issues. T
 **Step 2.** If an update is available, press the "Update Now" button to commence the updating process. During the process, make sure to follow the prompts carefully to avoid issues.
 
 ![install new ios update](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006919/19272" target="_top" id="2006919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006919" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 8. Turn Off VoiceOver
 
@@ -521,6 +514,13 @@ Touch Accommodations is an accessibility feature on iPhones. It is designed to m
 
 ![set tap assistance to initial location](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 10. Turn Off Reduce Motion
 
 Reduce Motion is an accessibility setting on iPhones designed to reduce animations and visual effects. It is particularly for users sensitive to motion effects. However, enabling this feature might affect certain gestures or animations on the Apple iPhone 11 Pro device. Thus potentially causing issues with the swipe-up function. Here's how to turn off Reduce Motion to fix the **iPhone 11 won’t swipe up to unlock**:
@@ -532,6 +532,13 @@ Reduce Motion is an accessibility setting on iPhones designed to reduce animatio
 **Step 2.** Now, on the following screen, turn off the toggle next to the "Reduce Motion" option. Then, go and check if the swipe-up gesture issue is fixed or not.
 
 ![turn off reduce motion switch](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-15.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 11. Reset iPhone All Settings
 
@@ -548,13 +555,6 @@ Resetting all settings on your Apple iPhone 11 Pro can help resolve software-rel
 ## Part 3: Unlock iPhone Without Swiping Up
 
 Encountering **swipe not working on iPhone** can sometimes lead to difficulties. This is especially the case in unlocking the Apple iPhone 11 Pro device or accessing essential functions. In such scenarios, using [Wondershare Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) provides a reliable solution. It bypasses the swipe-up need and regains access to your Apple iPhone 11 Pro without relying on the problematic gesture. This tool offers a solution to unlock iPhone/iPad devices without the passcode.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -617,17 +617,14 @@ We've also talked about a helpful tool called Wondershare Dr.Fone. It's made to 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-the-power-of-precision-in-slug-line-writing-techniques/"><u>[New] 2024 Approved The Power of Precision in Slug Line Writing Techniques</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-essential-tips-for-capturing-evening-portraits/"><u>[Updated] In 2024, Essential Tips for Capturing Evening Portraits</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-snapchat-marketing-mastery-earnings-edition/"><u>[Updated] Snapchat Marketing Mastery Earnings Edition</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/audio-first-video-second-comparing-podcast-vs-youtube-for-2024/"><u>Audio First, Video Second? Comparing Podcast vs YouTube for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/did-your-iphone-6-plus-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your iPhone 6 Plus Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/effective-guide-to-cast-apple-iphone-6-plus-to-macbook-without-hindrance-drfone-by-drfone-ios/"><u>Effective Guide to Cast Apple iPhone 6 Plus to MacBook without Hindrance | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-x-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone X Without Passcode Now | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-asus-rog-phone-7-ultimate-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Asus ROG Phone 7 Ultimate Pictures An Easy Method Explained.</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6s-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6s without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-apple-iphone-13-pro-max-5-ways-to-get-into-a-locked-apple-iphone-13-pro-max-drfone-by-drfone-ios/"><u>Locked Out of Apple iPhone 13 Pro Max? 5 Ways to get into a Locked Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/unveiling-the-powerful-performance-a-thorough-look-at-the-samsung-galaxy-tab-s4-for-android-users/"><u>Unveiling the Powerful Performance: A Thorough Look at the Samsung Galaxy Tab S4 for Android Users</u></a></li>
-<li><a href="https://facebook.techidaily.com/unwritten-protocols-and-social-norms-on-facebook/"><u>Unwritten Protocols and Social Norms on Facebook</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-pros-and-cons-ios-screen-recorder-apps/"><u>[Updated] In 2024, Pros and Cons IOS Screen Recorder Apps</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-12-pro-drfone-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-realme-gt-neo-5-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Realme GT Neo 5 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/full-guide-to-unlock-iphone-se-2020-with-itunes-by-drfone-ios/"><u>Full Guide to Unlock iPhone SE (2020) with iTunes</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-7-plus-drfone-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-se-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix iPhone SE Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-your-iphone-15-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>How to Unlock Your iPhone 15 Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/pinnacle-cloud-solutions-highest-rated-reviewed-for-2024/"><u>Pinnacle Cloud Solutions Highest-Rated Reviewed for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/eal-number-of-youtube-views-you-need-to-make-a-living-for-2024/"><u>The Real Number of YouTube Views You Need to Make a Living for 2024</u></a></li>
 </ul></div>
 

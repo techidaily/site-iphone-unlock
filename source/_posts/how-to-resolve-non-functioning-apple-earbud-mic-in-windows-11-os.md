@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Non-Functioning Apple Earbud Mic in Windows 11 OS
-date: 2024-10-07T18:36:00.055Z
-updated: 2024-10-08T19:12:04.913Z
+date: 2024-10-09T05:42:47.171Z
+updated: 2024-10-14T19:50:43.120Z
 tags:
   - win11
   - win10
@@ -38,13 +38,6 @@ Follow these:
 2. Click**Privacy** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e2b7da45.png)
 3. Click**Microphone** on the left pane. Check if the status is**On**  for Skype.  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If it’s Off, click it to switch to On.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e77b3c45.png)
 4. Log in Skype and check to see if your Microphone works.
 
@@ -59,13 +52,6 @@ Follow these:
  Click**Save** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59969244028ac.jpg)
 4. Check to see if your Microphone works.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###
 
 ### Fix 3: Update your sound card driver
@@ -78,15 +64,22 @@ Follow these:
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. You sound driver is no exception.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992731451721.jpg)
 3. In the **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , Driver Easy will show you the latest display driver you’ll need to install. And you can update the drivers one by one using the   **Update** button.  But if you upgrade to the **[PRO Version](https://tools.techidaily.com/drivereasy/download/)** , you can update all your drivers with one click — **Update All** . ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c06e8e725.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer and run Skype to see if your Microphone works.
 
 ###
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Restart Windows audio service
@@ -97,10 +90,17 @@ Follow these:
 3. Right-click on the **Windows Audio** service. Click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996976eeec58.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4. Log in Skype and check to see if your Microphone works.
@@ -122,24 +122,17 @@ Follow these:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://iphone-unlock.techidaily.com/apple-iphone-15-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>Apple iPhone 15 Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-from-motorola-moto-g84-5g-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock from Motorola Moto G84 5G Phones with/without a PC</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-iphone-xr-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your iPhone XR Without a Home Button | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-13-mini-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-v27-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo V27 to Other Android Devices? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-11-pro-passcode-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 Pro Passcode without Computer? | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-5-ways-to-track-vivo-x-flip-without-app-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Ways to Track Vivo X Flip without App | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-apple-iphone-se-2022-drfone-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on Apple iPhone SE (2022) | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-pursuit-of-visual-excellence-10-essential-iphone-composition-techniques/"><u>In 2024, Pursuit of Visual Excellence 10 Essential iPhone Composition Techniques</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlocking-windows-hdr-capabilities-for-cutting-edge-video-workflows/"><u>In 2024, Unlocking Windows' HDR Capabilities for Cutting-Edge Video Workflows</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/is-your-iphone-xs-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your iPhone XS in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/masterclass-in-capturing-video-frames/"><u>Masterclass in Capturing Video Frames</u></a></li>
-<li><a href="https://article-helps.techidaily.com/optimizing-video-playback-with-pip-on-safari-devices-for-2024/"><u>Optimizing Video Playback with PIP on Safari Devices for 2024</u></a></li>
-<li><a href="https://win-marvelous.techidaily.com/step-by-step-instructions-effortlessly-navigating-zepeto-on-your-computer-screen/"><u>Step-by-Step Instructions: Effortlessly Navigating Zepeto on Your Computer Screen</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-13-drfone-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-netgear-nighthawk-ax8-extender-assessment-for-wi-fi-6-users-seeking-reliability-and-speed/"><u>The Ultimate Netgear Nighthawk AX8 Extender Assessment for Wi-Fi 6 Users Seeking Reliability and Speed</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/top-5-must-have-iphone-navigation-apps-your-ultimate-guide/"><u>Top 5 Must-Have iPhone Navigation Apps: Your Ultimate Guide</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/trouble-with-iphone-6-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with iPhone 6 Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-14-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock Apple iPhone 14 Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-gigabyte-audio-driver-free/"><u>[Download] Gigabyte Audio Driver | Free</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-operational-obs-cam-after-fix/"><u>[New] 2024 Approved Operational OBS Cam After Fix</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-elevate-your-online-presence-with-this-all-inclusive-youtube-upload-manual/"><u>2024 Approved Elevate Your Online Presence with This All-Inclusive YouTube Upload Manual</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/binge-worthy-uk-programs-to-watch-on-netflix-right-now/"><u>Binge-Worthy UK Programs to Watch on Netflix Right Now!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/did-your-apple-iphone-6-plus-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your Apple iPhone 6 Plus Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-14-plus-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-the-windows-11-kb5003602-error-during-install-issue/"><u>How to Fix the Windows 11 KB5003602 'Error During Install' Issue</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-guide-to-mirror-your-samsung-galaxy-m14-4g-to-other-android-devices-drfone-by-drfone-android/"><u>In 2024, Guide to Mirror Your Samsung Galaxy M14 4G to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-15-learn-all-4-methods-drfone-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone 15? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-propel-your-world-with-freshly-launched-wins11-games/"><u>In 2024, Propel Your World with Freshly-Launched Wins11 Games</u></a></li>
+<li><a href="https://review-topics.techidaily.com/play-mov-movies-on-g54-5g-is-it-possible-by-aiseesoft-video-converter-play-mov-on-android/"><u>Play MOV movies on G54 5G, is it possible?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-6-plus-passcode-without-a-computer-drfone-by-drfone-ios/"><u>Unlocking iPhone 6 Plus Passcode without a Computer | Dr.fone</u></a></li>
 </ul></div>
 

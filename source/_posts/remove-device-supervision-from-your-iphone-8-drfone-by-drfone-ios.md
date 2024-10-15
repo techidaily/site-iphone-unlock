@@ -1,7 +1,7 @@
 ---
 title: Remove Device Supervision From your iPhone 8 | Dr.fone
-date: 2024-10-06T16:36:16.843Z
-updated: 2024-10-08T21:59:07.490Z
+date: 2024-10-10T03:00:43.666Z
+updated: 2024-10-15T03:20:02.314Z
 tags: 
   - unlock
   - remove screen lock
@@ -83,6 +83,19 @@ First, launch Wondershare Dr.Fone on the computer and connect it to your Apple i
 
 ![access toolbox to select screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 2: Select iOS and Head To Unlock MDM**
 
 After that, choose “iOS” as the Apple iPhone 8 device type to open the related tool. Once the tool starts working, select the "Unlock MDM iPhone" option from the list.
@@ -113,6 +126,13 @@ Looking for other conventional methods about **how to remove supervision from iP
 
 ![remove mdm management from ios device](https://images.wondershare.com/drfone/article/2024/02/how-to-remove-device-supervision-from-ios-devices-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 4. Using Apple Configurator 2 for Removing iPhone Supervision System
 
 [Apple Configurator](https://apps.apple.com/us/app/apple-configurator/id1037126344?mt=12) is a free tool for Mac users that provides a simple technique for removing iPhone supervision. To use this method, you must have a password for the Apple iPhone 8 device; otherwise, you will need to contact the organization to get the necessary permissions. Below are easy steps about **how to remove device supervision from iPad** and iPhone through your Mac:
@@ -120,13 +140,6 @@ Looking for other conventional methods about **how to remove supervision from iP
 **Instructions.** First, download and launch the Apple Configurator tool on your Mac. Connect the iDevice to the Mac using a compatible USB-C cable. Click on "Actions" from the top bar of the tool. In the drop-down list, choose the "Advanced" option and select "Erase All Content and Settings" to remove iPhone device supervision. Enter your device password to start using your Apple iPhone 8 normally.
 
 ![remove device supervision apple configurator](https://images.wondershare.com/drfone/article/2024/02/how-to-remove-device-supervision-from-ios-devices-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 5. Directly Contact Administration for Removing Device Supervision
 
@@ -139,6 +152,13 @@ You can contact the administrator and share a valid reason why you want to remov
 Removing device supervision is simple, but getting familiar with the safest method is necessary. Considering this, we have covered some techniques to bypass MDM locks on your iOS device. These can easily resolve your issue of **how to remove device supervision from iPhone** queries. Conclusively, Wondershare Dr.Fone is the recommended tool to bypass the MDM lock without data loss.
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068433/7443" target="_top" id="2068433">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068433" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068433/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Disabling Apple iPhone 8 Parental Restrictions With/Without Password
 
@@ -203,10 +223,16 @@ Accessing Screen Time settings allows you to manage and disable parental control
 ![reset all settings for device](https://images.wondershare.com/drfone/article/2024/01/how-to-disable-parental-controls-on-iphone-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3. \[Without Password\] How Do You Disable Parental Controls on iPhone?
@@ -259,13 +285,6 @@ Restoring an iPhone using iTunes is an alternative method for removing parental 
 
 ![restore iphone via itunes](https://images.wondershare.com/drfone/article/2024/01/how-to-disable-parental-controls-on-iphone-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 In summary, this article explored **how to disable restrictions on iPhones without a password** and with a password. Accessing settings with a passcode simplifies the process. Wondershare Dr.Fone stands out as the optimal solution for those seeking **how to delete parental controls without password**. When passcode access is limited, Dr.Fone – Screen Unlock (iOS) offers the most efficient solution.
@@ -279,20 +298,6 @@ Total Wireless is a prominent name when it comes to affordable network carriers.
 In this article, we go through the essence of **unlocking a Total Wireless phone**. Our focus is to present a comprehensive overview of the methods and essential details required to unlock your device. It will enable users to make informed decisions and achieve the best possible results.
 
 ![unlock your total wireless phone](https://images.wondershare.com/drfone/article/2024/01/details-to-discuss-while-unlocking-total-wireless-phone-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1. Defining The Total Wireless Phone Terminology
 
@@ -310,6 +315,13 @@ Understanding the details of unlocking a Total Wireless phone opens up many comp
 2. **International Travel:** On Total Wireless, international roaming options might be limited or expensive. Unlocking the phone enables the use of local SIM cards abroad. This offers more cost-effective communication options during travel.
 3. **Network Compatibility:** Total Wireless phones don't work with other carriers due to specific network configurations. Unlocking enables these devices to work with a broader range of networks, enhancing usability.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Advantages of Unlocking a Total Wireless Device
 
 Unlocking a Total Wireless phone opens up a lot of advantages. Here are a few of the benefits associated with **unlocking Total Wireless iPhone**:
@@ -320,6 +332,13 @@ Unlocking a Total Wireless phone opens up a lot of advantages. Here are a few of
 
 ![looking into unlocking total wireless](https://images.wondershare.com/drfone/article/2024/01/details-to-discuss-while-unlocking-total-wireless-phone-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3. How To Check if Your Apple iPhone 8 Is Already Unlocked?
 
 No need to worry if you're unsure whether your Total Wireless device is unlocked. You can easily verify its status through a simple SIM test. Here's a straightforward set of steps to check if your **iPhone Total Wireless unlock** is already unlocked:
@@ -328,14 +347,14 @@ No need to worry if you're unsure whether your Total Wireless device is unlocked
 
 ![changing sim to check status](https://images.wondershare.com/drfone/article/2024/01/details-to-discuss-while-unlocking-total-wireless-phone-4.jpg)
 
-- **Step 2.** First, check to see if the SIM card is getting network service. Attempting a call or sending an SMS are alternative methods to test whether your phone is unlocked. If it fails, it suggests that your phone might still be locked to Total Wireless.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+- **Step 2.** First, check to see if the SIM card is getting network service. Attempting a call or sending an SMS are alternative methods to test whether your phone is unlocked. If it fails, it suggests that your phone might still be locked to Total Wireless.
 
 ## Part 4. A Small Checklist to Ensure Before Unlocking Your Total Wireless Phone
 
@@ -373,13 +392,6 @@ Unlocking a phone to access various carriers involves understanding the unique p
 **Instructions.** [Verizon](https://drfone.wondershare.com/iphone-tips/activate-new-iphone-verizon.html) has established a minimum period of 60 days, after which your device will be unlocked. However, it is necessary that you don’t have any outstanding payments. Moreover, your device is not blacklisted is also an essential requirement.
 
 ![requesting verizon to unlock device](https://images.wondershare.com/drfone/article/2024/01/details-to-discuss-while-unlocking-total-wireless-phone-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Way 2. Contact the Total Wireless Customer Service
 
@@ -443,16 +455,10 @@ Ensure that the downloaded iOS firmware is validated before proceeding. To start
 ![validate new ios firmware installation](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
 <!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -473,22 +479,18 @@ In this comprehensive guide, we navigated through **how to unlock Total Wireless
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-top-eight-destinations-for-3d-typography/"><u>[Updated] 2024 Approved Top Eight Destinations for 3D Typography</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-in-depth-analysis-of-best-practices-in-valheim-agriculture-for-2024/"><u>[Updated] In-Depth Analysis of Best Practices in Valheim Agriculture for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Xiaomi Civi 3 Disney 100th Anniversary Edition | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-7-plus-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone 7 Plus Without a Passcode | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/as-cinco-maneiras-mais-eficientes-de-fazer-um-log-no-mac-guia-do-movavi/"><u>As Cinco Maneiras Mais Eficientes De Fazer Um Log No Mac - Guia Do Movavi</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/coupe-video-avant-garde-solutions-de-coupage-video-libres-pour-windows-et-mac/"><u>Coupe-Vidéo Avant-Garde: Solutions De Coupage Video Libres Pour Windows Et Mac</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-iphone-11-pro-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock iPhone 11 Pro with iTunes | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-13-mini-drfone-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-xs-max-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-11-with-or-without-password-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone 11 With or Without Password | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-apple-iphone-11-drfone-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 11 | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-apple-iphone-13-pro-drfone-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 13 Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-xs-i-do-get-answers-here-drfone-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone XS i Do? Get Answers here | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/macx-mediatrans-der-bevorzugte-offizielle-medienverschiebungslosung-zum-synchronisieren-von-fotos-videos-and-musik-auf-ihrem-iphoneipad/"><u>MacX MediaTrans: Der Bevorzugte Offizielle Medienverschiebungslösung Zum Synchronisieren Von Fotos, Videos & Musik Auf Ihrem iPhone/iPad</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/maximizing-device-connection-with-amazonbasics-7-port-usb-30-hub-an-expert-review/"><u>Maximizing Device Connection with AmazonBasics 7-Port USB 3.0 Hub: An Expert Review</u></a></li>
-<li><a href="https://some-skills.techidaily.com/the-roadmap-to-seamless-mass-tiktok-downloads-for-2024/"><u>The Roadmap to Seamless Mass TikTok Downloads for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/ultimate-virtual-sound-devices/"><u>Ultimate Virtual Sound Devices</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-elevate-your-facebook-chronicles-with-gratuitous-upgrades/"><u>[Updated] In 2024, Elevate Your Facebook Chronicles with Gratuitous Upgrades</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-itel-p40-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Itel P40 to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-13-pro-max-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-advice-how-to-safely-discard-user-accounts-from-your-windows-10-device/"><u>Expert Advice: How To Safely Discard User Accounts From Your Windows 10 Device</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-locked-apple-iphone-se-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>Forgot Locked Apple iPhone SE Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-xs-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone XS? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-11-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 11, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-13-passcode-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-vivo-y100-5g-bootloader-easily-by-drfone-android/"><u>How to Unlock Vivo Y100 5G Bootloader Easily</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-ultimate-collection-of-8-gratis-high-end-3d-player-apps/"><u>In 2024, Ultimate Collection of 8 Gratis, High-End 3D Player Apps</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-iphone-se-2020-passcode-without-a-computer-drfone-by-drfone-ios/"><u>In 2024, Unlocking iPhone SE (2020) Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/in-depth-tutorial-on-modifying-and-crafting-new-registry-settings/"><u>In-Depth Tutorial on Modifying and Crafting New Registry Settings</u></a></li>
+<li><a href="https://facebook.techidaily.com/what-does-unread-really-mean-on-social-media/"><u>What Does 'Unread' Really Mean on Social Media?</u></a></li>
 </ul></div>
 
