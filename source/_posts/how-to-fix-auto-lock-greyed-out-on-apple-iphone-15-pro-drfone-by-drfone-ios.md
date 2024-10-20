@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on Apple iPhone 15 Pro | Dr.fone
-date: 2024-09-02T11:12:55.500Z
-updated: 2024-09-03T11:12:55.500Z
+date: 2024-10-18T17:07:42.589Z
+updated: 2024-10-20T16:46:33.388Z
 tags: 
   - unlock
   - remove screen lock
@@ -36,9 +36,6 @@ Screen Time Restrictions
 
 [<u>Screen Time restrictions</u>](https://drfone.wondershare.com/unlock/how-to-turn-off-screen-time-without-passcode.html) can impact Auto-Lock. For instance, if your downtime schedule blocks all apps, the screen locks itself, even if the Auto-Lock timer hasn't run out.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![screen time settings on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-03.jpg)
 
 MDM Profile Restrictions
@@ -175,9 +172,6 @@ Here's **how to change Auto-Lock on iPhone** devices:
 
 ![change auto-lock on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-18.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 There you have it. This guide has equipped you with the knowledge and solutions to fix the **Auto-Lock greyed out** on your Apple iPhone 15 Pro or iPad devices. From identifying the reasons like Low Power Mode and MDM configurations to implementing actionable fixes, you can now change your screen timeout. So, turn off those restrictions, remove MDM profiles, and head back to Settings.
@@ -186,17 +180,12 @@ For an easy solution, use Dr.Fone Screen Unlock to bypass MDM restrictions, givi
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
-
-
 ## How Do You Remove Restricted Mode on Apple iPhone 15 Pro
 
 Restricted Mode on iPhone is useful for controlling access to certain content. If you need to remove these restrictions, learn **how to disable Restricted Mode on your Apple iPhone 15 Pro** by reading the article. The feature provides a layer of security and content filtering. However, it can limit functionality in some apps.
 
 Follow the steps outlined in the page's latter part to learn **how to turn off Restricted Mode on your Apple iPhone 15 Pro**. This will grant you unrestricted access to all apps and content, ensuring a smoother and more flexible user experience. To know more, let's get started.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![turn off restricted mode iphone banner](https://images.wondershare.com/drfone/article/2024/01/disable-restricted-mode-on-iphone-01.jpg)
 
 ## Part 1. What Is the iPhone's Restricted Mode?
@@ -209,6 +198,13 @@ iPhone's Restricted Mode is a comprehensive set of features to enhance user cont
 - **Parental controls.**Targeting family use, Restricted Mode incorporates robust parental controls. Parents can manage and monitor screen time for a balanced, age-appropriate digital experience for their children.
 
 ![front view child using iphone](https://images.wondershare.com/drfone/article/2024/01/disable-restricted-mode-on-iphone-02.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2. Why Can't I Remove Restricted Mode?
 
@@ -250,12 +246,23 @@ For users on iOS 12 and above, turning off Restricted Mode is straightforward:
 
 - **Step 1**: Open the **Settings** app on your Apple iPhone 15 Pro and scroll down to find **Screen** **Time** > **Content** **& Privacy Restrictions**. Enter your passcode when prompted.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turning off restrictions mode ios 12](https://images.wondershare.com/drfone/article/2024/01/disable-restricted-mode-on-iphone-04.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 2**: Toggle off the switch next to **Content & Privacy Restrictions**. This action turns off Restricted Mode on your Apple iPhone 15 Pro.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Turn Off Restricted Mode on iOS 11 and Below
 
@@ -265,6 +272,13 @@ For those using iOS 11 and below, the steps are a bit different:
 
 ![turning off restrictions mode ios 11](https://images.wondershare.com/drfone/article/2024/01/disable-restricted-mode-on-iphone-05.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 2:** Toggle off the switch next to **Restrictions**. The action turns off Restricted Mode on iOS 11 and below.
 
 ### Method 3: Turn Off Restricted Mode Using Dr.Fone - Screen Unlock (iOS)
@@ -272,7 +286,6 @@ For those using iOS 11 and below, the steps are a bit different:
 There may be situations where removing Restricted Mode on your Apple iPhone 15 Pro becomes challenging. If you can't unlock your Apple iPhone 15 Pro screen time, then you need a specialized tool like [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)<u>.</u> The platform's Unlock Screen Time Passcode feature can assist in its removal in quick and easy steps.
 
 ![dr.fone main window](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
 
 **Key features**
 
@@ -293,9 +306,6 @@ Here's **how to disable Restricted Mode on iPhone without a password** using Dr.
 
 - **Step 2:** Ensure your Apple iPhone 15 Pro is connected to the computer using a USB cable. Wait for Dr.Fone to detect your Apple iPhone 15 Pro automatically. Next, click the **Unlock Now** button.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unlock now button](https://images.wondershare.com/drfone/guide/unlock-ios-screen-time-2.png)
 
 - **Step 3:** Follow the on-screen instructions. Afterward, Dr.Fone will initiate the unlocking process to remove the Restricted Mode passcode. Once removed, click the **Done** button to finish.
@@ -371,6 +381,13 @@ There are a few reasons why an iPhone might end up on this digital naughty list:
 - **Reported as Lost or Stolen.**Imagine if someone reported their iPhone as lost or stolen. If someone else tries to use that phone, it could be blacklisted. That's because protecting the original owner's data and privacy is essential.
 - **Unpaid Bills.**Sometimes, an iPhone gets blacklisted because the person who had it didn't pay their bills. Not paying your phone bill can have consequences.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### What Happens When Your Apple iPhone 15 Pro Is Blacklisted?
 
 Now, here's where things get tricky. When your Apple iPhone 15 Pro is blacklisted, it won't work like it should. Here's what you might experience:
@@ -413,6 +430,13 @@ Now that you've learned how to [rescue a blacklisted iPhone](https://drfone.wond
 
 ![how to avoid iphone blacklist](https://images.wondershare.com/drfone/article/2023/09/comprehensive-guide-iphone-blacklist-removal-04.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Check the iPhone's History Before Buying
 
 Before you hand over your hard-earned money, check the iPhone's background. Make sure it's not reported as lost or stolen. You can do this by asking the seller for the phone's IMEI or serial number and checking it online or with your carrier. A clean history is a green light to go ahead with the purchase.
@@ -445,7 +469,6 @@ So, this article has talked a lot about **iPhone blacklist removal**, but what a
 
 ![drfone v13 home interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-
 ### Key Features
 
 Check out the marvelous features that Dr.Fone – SIM Unlock can do for your Apple iPhone 15 Pro:
@@ -455,6 +478,13 @@ Check out the marvelous features that Dr.Fone – SIM Unlock can do for your App
 - **Quick and Effective.**The best part? It's quick and efficient. You won't wait hours to get your SIM back on track. It's like a fast pass at an amusement park.
 - **Anytime, Anywhere.**Fone – Sim Unlock is available whenever you need it. Whether at home or on the go, you can count on it to rescue your SIM.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step-by-Step Guide
 
 Now, see how you can easily unlock your Apple iPhone 15 Pro's SIM by following the guide given below:
@@ -463,6 +493,13 @@ Now, see how you can easily unlock your Apple iPhone 15 Pro's SIM by following t
 - **Step 2:** Once in the new window, click the **Remove SIM Locked** function to begin the process.
 
 ![drfone remove sim locked](https://images.wondershare.com/drfone/guide/remove-iphone-sim-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 3:** Click **Start** to begin the process on the next **Remove SIM** locks page.
 
@@ -487,7 +524,6 @@ In a world where staying connected is vital, understanding and fixing iPhone bla
 
 Lastly, trust [Dr.Fone iPhone SIM Unlocker](https://drfone.wondershare.com/iphone-sim-unlock.html) to rescue you when your SIM card acts up. It's your go-to solution for SIM-related woes, ensuring you stay connected effortlessly.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -500,9 +536,17 @@ Lastly, trust [Dr.Fone iPhone SIM Unlocker](https://drfone.wondershare.com/iphon
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-7-simple-methods-for-capturing-youtube-content/"><u>[New] 2024 Approved 7 Simple Methods for Capturing YouTube Content</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-get-hd-quality-quickly-enable-av1-in-youtube-settings/"><u>[Updated] In 2024, Get HD Quality Quickly Enable AV1 in YouTube Settings</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-13-pro-max-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 13 Pro Max with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-xr-drfone-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Nokia C210? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-theme-it-right-top-5-winter-scenes-as-video-bgs/"><u>In 2024, Theme It Right Top 5 Winter Scenes as Video Bgs</u></a></li>
+<li><a href="https://win11.techidaily.com/reinstating-active-workflows-for-office-365outlook-mail/"><u>Reinstating Active Workflows for Office 365/Outlook Mail</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-6s-plus-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-6s-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 6s i Do? Get Answers here | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/what-the-pixel-9-series-might-signify-unveiling-the-potential/"><u>What the Pixel 9 Series Might Signify: Unveiling the Potential</u></a></li>
+</ul></div>
 
