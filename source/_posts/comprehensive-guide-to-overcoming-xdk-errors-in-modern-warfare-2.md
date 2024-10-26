@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Overcoming XDK Errors in Modern Warfare 2
-date: 2024-10-13T19:02:53.031Z
-updated: 2024-10-20T18:49:20.693Z
+date: 2024-10-22T16:16:43.471Z
+updated: 2024-10-26T16:57:58.649Z
 tags:
   - win11
   - win10
@@ -29,13 +29,6 @@ thumbnail: https://thmb.techidaily.com/9a7e28e8568427a787263a138246015aa54bad807
 4. [**Stop overclocking**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Check your RAM**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Increase your virtual memory](https://tools.techidaily.com/drivereasy/download/)**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Run Warzone on DirectX 11
 
@@ -65,19 +58,6 @@ If this fix doesn’t help, you can try the next one below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -99,18 +79,18 @@ And here’s a quick guide:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To ensure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  After installing all system updates, restart your computer and test the gameplay in Warzone.
 
  If this method doesn’t give you luck, simply continue to the next one below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Stop overclocking
 
@@ -119,10 +99,10 @@ And here’s a quick guide:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/afterburner.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 MSI Afterburner
@@ -132,10 +112,10 @@ MSI Afterburner
  If the error code reoccurs when you aren’t overclocking, you can check out the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Check your RAM
@@ -143,6 +123,13 @@ MSI Afterburner
  Some players reported that the error disappeared right after they replaced/upgraded their RAM. If this is a RAM issue, you need to**check if you’re using faulty or incompatible RAM** . The quickest way to find out is try RAM of another brand. When it comes to gaming, you can hardly go wrong with reputable brands.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/gskill-1200x786.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You should at least have 16GB for Warzone, but more is always better.
 
@@ -156,10 +143,10 @@ And here’re some solid brands we recommend:
  Or you can check out the fix below to use virtual memory as a temporary workaround.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144308/7443" target="_top" id="2144308">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144308" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144308/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Increase your virtual memory
@@ -178,6 +165,13 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-advanced.jpg)
 4. Uncheck the box next to**Automatically manage paging file size for all drives** . Then select **Customize size** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/virtual-memory-03.jpg)
 5. Enter **Initial size** and **Maximum size** according to the physical memory of your computer. Microsoft recommends that virtual memory should be 1.5 to 3 times the size of physical memory. In my case, the physical memory (actual RAM) of my computer is 8 GB, so the **Initial size** for me here is **8 x 1024 x 1.5 = 12288 MB** , and the **Maximum size** should be **8 x 1024 x 3 = 24576 MB** . Once you’ve entered your size of virtual memory, click **Set** , then click **OK**  to save the changes.  
 
@@ -185,10 +179,10 @@ Here’s how:
 6. Restart your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Now launch Warzone and check if the problem persists.
@@ -212,24 +206,20 @@ Now launch Warzone and check if the problem persists.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/he-swift-video-voyage-navigating-through-the-youtubes-and-tiktok-landscapes-for-2024/"><u>[New] The Swift Video Voyage Navigating Through the YouTubes and TikTok Landscapes for 2024</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-unveiling-time-lapse-techniques-for-samsung-enthusiasts/"><u>[Updated] Unveiling Time Lapse Techniques for Samsung Enthusiasts</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-15-pro-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 15 Pro in Lost Mode | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comfort-meets-productivity-a-thorough-review-of-the-cumuluspro-ergonomic-standing-pad/"><u>Comfort Meets Productivity: A Thorough Review of the CumulusPRO Ergonomic Standing Pad</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/easy-steps-updating-your-dell-inspiron-7001-g7-graphics-drivers-fast/"><u>Easy Steps: Updating Your Dell Inspiron 7001 G7 Graphics Drivers Fast</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-apple-iphone-x-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>How To Leave a Life360 Group On Apple iPhone X Without Anyone Knowing? | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-repair-system-of-apple-iphone-7-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of Apple iPhone 7? | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-bypass-activation-lock-from-apple-iphone-6-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Bypass Activation Lock from Apple iPhone 6</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-6s-without-passcode-now-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone 6s Without Passcode Now | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-14-pro-max-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone 14 Pro Max Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-11-pro-with-7-methods-drfone-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for Apple iPhone 11 Pro With 7 Methods | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-plus-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 Plus without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6s-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 6s Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-xr-drfone-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone XR | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-12-prevention-and-solution-drfone-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone 12 Prevention & Solution | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-trouble-with-iphone-7-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>In 2024, Trouble with iPhone 7 Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-unveiling-youtubes-full-rotation-streaming-potential/"><u>In 2024, Unveiling YouTube’s Full-Rotation Streaming Potential</u></a></li>
-<li><a href="https://win-answers.techidaily.com/minecraft-stutter-and-freeze-no-more-pc-optimization-tips-and-fixes-for-2amoonfall/"><u>Minecraft Stutter & Freeze No More! PC Optimization Tips and Fixes for 2Amoonfall</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-beginners-path-to-a-unique-youtube-url-for-2024/"><u>The Beginner's Path to a Unique YouTube URL for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-quintessential-7-first-person-shooters/"><u>[New] 2024 Approved Quintessential 7 First-Person Shooters</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-examining-the-unique-features-of-youtubes-and-dailymentions/"><u>[New] In 2024, Examining the Unique Features of YouTubes and DailyMentions</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-the-complete-screenrec-manual-for-laptops/"><u>[New] In 2024, The Complete ScreenRec Manual for Laptops</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-navigating-vlcs-features-for-mp4-and-diverse-format-changes/"><u>[New] Navigating VLC's Features for MP4 & Diverse Format Changes</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-iphone-11-pro-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve iPhone 11 Pro Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/converti-file-mp2-in-mp4-rapidamente-e-senza-costi-soluzione-di-conversione-movavi/"><u>Converti File MP2 in MP4 Rapidamente E Senza Costi: Soluzione Di Conversione Movavi</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-12-pro-max-drfone-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11 with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-satirical-hits-the-funniest-song-rewrites/"><u>In 2024, Satirical Hits The Funniest Song Rewrites</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-spoofing-life360-how-to-do-it-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>In 2024, Spoofing Life360 How to Do it on Tecno Spark 20? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-se-2020-i-do-get-answers-here-drfone-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone SE (2020) i Do? Get Answers here | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-se-2022-properly-drfone-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone SE (2022) Properly | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/lock-your-samsung-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Samsung Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://win11.techidaily.com/upgrading-task-management-speed-in-windows-11/"><u>Upgrading Task Management Speed in Windows 11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-12-mini-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 12 mini i Do? Get Answers here | Dr.fone</u></a></li>
 </ul></div>
 

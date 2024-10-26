@@ -1,7 +1,7 @@
 ---
 title: Trouble with iPhone 8 Plus Swipe-Up? Try These 11 Solutions | Dr.fone
-date: 2024-10-16T16:25:39.046Z
-updated: 2024-10-20T20:40:03.546Z
+date: 2024-10-20T17:09:49.648Z
+updated: 2024-10-26T16:17:22.170Z
 tags: 
   - unlock
   - remove screen lock
@@ -40,29 +40,22 @@ Insufficient memory or many background apps running simultaneously can overload 
 
 Sudden exposure to moisture or water damage can also cause the screen to malfunction. This can cause the screen to become unresponsive, leading to swipe-up issues.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: 11 Ways To Fix iPhone Swipe up Not Working
 
 Encountering an unresponsive swipe-up gesture on your Apple iPhone 8 Plus can be exasperating. However, you no longer need to worry. There are numerous troubleshooting techniques available to address this problem. Explained below are the 11 effective ways to address the problem:
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1. Fix iOS System Error Without Data Loss: Dr.Fone – System Repair (iOS)
 
 [Wondershare Dr.Fone - System Repair (iOS)](https://drfone.wondershare.com/ios-system-repair.html) is a reliable solution designed to resolve iOS system issues. It also includes unresponsive gestures like the swipe-up problem on iPhones. This tool specializes in repairing iOS system errors without causing data loss. It offers a comprehensive solution for resolving iOS system issues conveniently from home. With this tool, you can address over 150 iOS system problems.
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (iOS)
 
@@ -106,6 +99,13 @@ After that, you'll reach a window showing different iOS firmware alternatives. P
 
 ![initiate swipe up repair process](https://images.wondershare.com/drfone/guide/ios-system-repair-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2. Force Restart iPhone
 
 Performing a force restart, also known as a hard reset, can troubleshoot minor software glitches. These can cause unresponsive swipe-up issues on your Apple iPhone 8 Plus. Here's a guide on how to perform a force restart on various iDevice models to fix the **iPhone won’t swipe up**:
@@ -144,20 +144,6 @@ If your Apple iPhone 8 Plus swipe-up gesture isn't working specifically on the l
 
 ![toggle control center switch](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6. Enable Control Center Within Apps
 
 Are you experiencing issues with accessing the Control Center via the swipe-up gesture while using certain apps? If yes, ensuring that Control Center access is enabled within apps is essential. It ensures that the swipe-up gesture from the bottom edge of the screen functions. Here's how to enable Control Center access within apps:
@@ -178,6 +164,20 @@ Running an outdated iOS version can sometimes lead to various software issues. T
 
 ![install new ios update](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 8. Turn Off VoiceOver
 
 VoiceOver is an accessibility feature on iPhones. It assists users with visual impairments by providing spoken feedback for actions on the Apple iPhone 8 Plus device. Sometimes, VoiceOver settings can interfere with normal touchscreen gestures like the swipe-up function. Here's how to turn off VoiceOver to resolve **iPhone 13 won’t swipe up to unlock**:
@@ -189,6 +189,13 @@ VoiceOver is an accessibility feature on iPhones. It assists users with visual i
 **Step 2.** On the following screen, toggle off the "VoiceOver" switch if it is enabled. Afterward, check if the swipe-up gesture issue is resolved.
 
 ![turn off voice over option](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-11.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 9. Customize Touch Accommodations
 
@@ -214,13 +221,6 @@ Reduce Motion is an accessibility setting on iPhones designed to reduce animatio
 
 ![turn off reduce motion switch](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-15.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 11. Reset iPhone All Settings
 
 Resetting all settings on your Apple iPhone 8 Plus can help resolve software-related issues. It can help remove conflicts that might be affecting the swipe-up gesture. Note that this action will reset all settings on your device, but it won't delete your data. Here's how to reset all settings to fix **iPhone swipe not working**:
@@ -236,6 +236,19 @@ Resetting all settings on your Apple iPhone 8 Plus can help resolve software-rel
 ## Part 3: Unlock iPhone Without Swiping Up
 
 Encountering **swipe not working on iPhone** can sometimes lead to difficulties. This is especially the case in unlocking the Apple iPhone 8 Plus device or accessing essential functions. In such scenarios, using [Wondershare Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) provides a reliable solution. It bypasses the swipe-up need and regains access to your Apple iPhone 8 Plus without relying on the problematic gesture. This tool offers a solution to unlock iPhone/iPad devices without the passcode.
+
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -265,6 +278,13 @@ You can use the simple steps explained below to unlock your Apple iPhone 8 Plus 
 Upon downloading and installing Wondershare Dr.Fone onto your computer, access the "Toolbox" menu. Here, proceed to select "Screen Unlock" followed by "iOS." Within this window, choose the "Unlock iOS Screen" option to proceed with unlocking your iOS device's screen. Subsequently, connect your Apple iPhone 8 Plus and click Start to initiate the unlocking process.
 
 ![access screen lock feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2: Ensure Your Device is in Recovery Mode**
 
@@ -317,13 +337,6 @@ Bypass Apple iPhone 8 Plus Passcode at Ease
 
 ![connect Apple iPhone 8 Plus to bypass Apple iPhone 8 Plus passcode](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3**. After your phone is detected, you need to activate the DFU mode as instructed by the on-screen steps.
 
 ![bypass Apple iPhone 8 Plus passcode in DFU mode](https://images.wondershare.com/drfone/drfone/ios-unlock-2.jpg)
@@ -344,14 +357,14 @@ Bypass Apple iPhone 8 Plus Passcode at Ease
 
 ![bypassed Apple iPhone 8 Plus passcode with success](https://images.wondershare.com/drfone/drfone/ios-unlock-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to bypass the Apple iPhone 8 Plus passcode with Siri? (iOS 8.0 – iOS 10.1)
 
@@ -368,13 +381,6 @@ If you are an avid user of Apple products, then the chances are that you must ha
 **Step 3.** Simply provide a textual input while searching for the city and tap on the “Select all” button.
 
 ![select input text](https://images.wondershare.com/drfone/article/2017/07/14993666741575.jpg "select input text")
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 4.** From all the provided features, select the option of “Share” to continue.
 
@@ -609,20 +615,20 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-essential-methods-6-steps-for-recording-minecraft-play/"><u>[New] 2024 Approved Essential Methods 6 Steps for Recording Minecraft Play</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/n-2024-engaging-stories-expanding-audiences-top-three-methods/"><u>[New] In 2024, Engaging Stories, Expanding Audiences Top Three Methods</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-visionary-storytelling-for-video-viewers-growth/"><u>[New] In 2024, Visionary Storytelling for Video Viewers' Growth</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-the-coolest-filmora-elements-for-enthusiastic-creators/"><u>2024 Approved The Coolest Filmora Elements for Enthusiastic Creators</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-honor-x8b-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Honor X8b Without Power Button | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/discover-blank-filespace-and-delete-them-using-windows-tools/"><u>Discover Blank Filespace and Delete Them Using Windows Tools</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-iphone-12ipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled iPhone 12/iPad Without Computer | Dr.fone</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/identifying-when-unfriended-on-snapchat/"><u>Identifying When Unfriended on Snapchat</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-samsung-galaxy-f54-5g-frp-in-3-different-ways-by-drfone-android/"><u>In 2024, How To Bypass Samsung Galaxy F54 5G FRP In 3 Different Ways</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-plus-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 15 Plus Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-7ipad-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone 7/iPad Without Computer | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-pro-max-apples-new-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11 Pro Max, Apples New iPhone | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-xr-properly-drfone-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone XR Properly | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-11-pro-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock Apple iPhone 11 Pro Without Passcode Easily | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/virtual-readiness-confirm-your-webcammic-functionality-windows/"><u>Virtual Readiness: Confirm Your Webcam/Mic Functionality (Windows)</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-unveiling-the-best-practices-in-downloading-vimeo-videos/"><u>[New] In 2024, Unveiling the Best Practices in Downloading Vimeo Videos</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-level-up-your-playtime-examining-kinemaster-on-android/"><u>[New] Level Up Your Playtime Examining KineMaster on Android</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-6s-plus-without-itunes-drfone-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 6s Plus Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-or-bypass-knox-enrollment-service-on-honor-x50iplus-by-drfone-android/"><u>How To Remove or Bypass Knox Enrollment Service On Honor X50i+</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-14-drfone-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-apple-iphone-6s-drfone-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-apple-iphone-13-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From Apple iPhone 13? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-atandt-apple-iphone-14-with-3-methods-by-drfone-ios/"><u>In 2024, How to Unlock AT&T Apple iPhone 14 with 3 Methods</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-oppo-a2-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Oppo A2? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-12-pro-drfone-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-apple-iphone-14-plus-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 14 Plus Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-effortless-4k-video-conversion-top-free-and-paid-options-for-2024/"><u>New Effortless 4K Video Conversion Top Free and Paid Options for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/premiere-pro-rapid-transitions/"><u>Premiere Pro Rapid Transitions</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-14-pro-max-drfone-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/website-review-tips-how-to-examine-pages-before-going-live-on-the-internet/"><u>Website Review Tips: How to Examine Pages Before Going Live on the Internet</u></a></li>
 </ul></div>
 

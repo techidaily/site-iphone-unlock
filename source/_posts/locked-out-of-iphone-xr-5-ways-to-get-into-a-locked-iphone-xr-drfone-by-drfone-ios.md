@@ -1,7 +1,7 @@
 ---
 title: Locked Out of iPhone XR? 5 Ways to get into a Locked iPhone XR | Dr.fone
-date: 2024-10-14T16:14:38.778Z
-updated: 2024-10-20T18:26:39.811Z
+date: 2024-10-24T16:22:25.567Z
+updated: 2024-10-26T16:54:33.523Z
 tags: 
   - unlock
   - remove screen lock
@@ -68,10 +68,10 @@ You can watch the video below about how to unlock your Apple iPhone XR without P
 ![got into locked Apple iPhone XR successfully](https://images.wondershare.com/drfone/drfone/ios-unlock-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to get into a locked Apple iPhone XR with iTunes?
@@ -136,34 +136,13 @@ If you don’t want to erase your device’s data while resolving this issue, yo
 
 ![add contact](https://images.wondershare.com/drfone/article/2017/07/14994492469564.jpg "add contact")
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 8.** This will open another interface to add a new contact. From here, tap on the “Create new contact” option.
 
 ![create new contact](https://images.wondershare.com/drfone/article/2017/07/14994492596641.jpg "create new contact")
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 9.** Instead of adding a contact, tap on the photo icon and select the “Choose Photo” option.
 
 ![choose photo](https://images.wondershare.com/drfone/article/2017/07/14994492748614.jpg "choose photo")
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 10.** This will open the photo library on your phone. Visit an album or wait for a while.
 
@@ -177,18 +156,18 @@ If you don’t want to erase your device’s data while resolving this issue, yo
 
 We hope that after learning how to get in a locked Apple iPhone XR in different ways, you would be able to resolve the issue on your iOS device. Choose the way you prefer and fix the locked out of the Apple iPhone XR problem. We recommend using Dr.Fone - Screen Unlock to get an easy fix to your issue without much trouble.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Unlock Apple iPhone XR without Passcode or Face ID
 
 You can't access your Apple iPhone XR because the Face ID isn't working, and you forgot your passcode? So you are considering **how to unlock iPhone without face ID or passcode**. If so, this article will walk you through how to do that.
 
 Firstly, one ought to realize that it is impossible to hack an iPhone passcode. Therefore, the primary way that attempts to unlock your device without a PIN or Face ID is to erase it. After reading this guide, you will figure out **how to unlock iPhone without passcode or face ID**. Keep reading to find out more and learn about the best tools in the business.
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
-  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1: Best Ways to Unlock iPhone without a Passcode or Face ID
 
@@ -277,13 +256,6 @@ The following steps explain **how to unlock iPhone without face ID or passcode**
 
 ![activate iphone](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-without-face-id-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 6.** Click Next Page > Back to enter the lock bypass screen. These are all the required steps for **how to unlock iPhone without passcode or face ID 2022.**
 
 ### 4\. Dr.Fone-Screen Unlock
@@ -298,16 +270,16 @@ After successfully installing Dr.Fone on your PC, open it and select the "Screen
 
 ![select screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Next, connect your locked phone to the system through a wired connection. Then go for the iOS screen unlock feature.
 
 ![unlock ios screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 2. Recovery or DFU Mode Boot**
 
@@ -320,6 +292,13 @@ It is necessary to first boot your locked device in recovery or DFU mode. Follow
 After the phone is in recovery/DFU mode, the program will show the locked device's information. Here you can see the model and iOS variant of the Apple iPhone XR device. If it isn't correct, you could choose the right one from the dropdown menu next to it. After that, click the Download button to get the required firmware for your locked phone.
 
 ![select phone model](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4. Remove the Screen Lock**
 
@@ -351,18 +330,25 @@ On the Settings menu, tap on the Face ID and Passcode menu.
 
 At this stage, you'll be approached to enter your passcode, so do this to get to the Face ID and Passcode menu.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Switch off Face ID
 
 You'll have the option to turn off the switch for Face ID across different activities, including the phone unlock.
 
 ![turn off passcode](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-without-face-id-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: Can I bypass my iPhone Face ID with a picture?
 
@@ -425,6 +411,13 @@ Once the application has detected your Apple iPhone XR, you now need to activate
 
 ![ios unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4: Download Firmware Update**
 
 A new window will appear now, on which the application will ask for some information regarding your iOS device. Provide the application with asked information and click on the 'Download' button to get the firmware update for your Apple iPhone XR.
@@ -469,6 +462,19 @@ IOS world is different from the Android world, and so, both have different and u
 1. Firstly, the user is requested to visit icloud.com on your computer or any other device that is in use. Then log in by using the Apple ID and password.
 
     ![unlock iphone 12 or 12 pro max](https://images.wondershare.com/drfone/article/2021/04/unlock-iphone-12-or-12-pro-max-3.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 2. If two-factor authentication is enabled on your Apple iPhone XR, then hit ‘Trust’ and enter the 6-digit verification code that will be sent to your Apple iPhone XR.
 3. Once you are logged in, choose ‘Find iPhone’ and enter your Apple ID and password again.
@@ -547,14 +553,14 @@ The article aimed to provide users with maximum information and knowledge about 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-roundup-of-ranch-games-top-10-for-friends-and-family-for-2024/"><u>[New] Roundup of Ranch Games Top 10 for Friends and Family for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-unlock-the-potential-of-your-online-social-presence/"><u>[New] Unlock the Potential of Your Online Social Presence</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/can-you-unlock-apple-iphone-11-pro-max-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>Can You Unlock Apple iPhone 11 Pro Max After Forgetting the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-iphone-12-mini-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve iPhone 12 mini Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-14-pro-max-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-emerald-master-ball-cheat-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>How to Use Pokémon Emerald Master Ball Cheat On Tecno Spark 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-iphone-15-pro-passcode-not-working-drfone-by-drfone-ios/"><u>In 2024, How to Fix iPhone 15 Pro Passcode not Working? | Dr.fone</u></a></li>
-<li><a href="https://win-hacks.techidaily.com/top-picks-la-mejor-herramienta-de-desbloqueo-de-bitlocker-para-windows-10-8-7-y-11/"><u>Top Picks: La Mejor Herramienta De Desbloqueo De BitLocker Para Windows 10, 8, 7 Y 11</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/updated-how-to-normalize-audio-in-davinci-resolve-for-2024/"><u>Updated How To Normalize Audio In DaVinci Resolve for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-integrated-sound-and-vision-workspace/"><u>2024 Approved Integrated Sound & Vision Workspace</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/2024-approved-ready-to-dive-into-photo-talking-videos-heres-what-you-need-to-know/"><u>2024 Approved Ready To Dive Into Photo Talking Videos? Heres What You Need To Know</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/easy-methods-for-bundling-and-archiving-video-content-in-zip-format-on-windows-11-with-visual-aids/"><u>Easy Methods for Bundling and Archiving Video Content in Zip Format on Windows 11, with Visual Aids</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-apple-iphone-13-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your Apple iPhone 13 Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-6s-drfone-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-xs-prevention-and-solution-drfone-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone XS Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-resolve-your-iphone-7-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>In 2024, Resolve Your iPhone 7 Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/path-of-exile-connection-woes-heres-your-ultimate-guide-for-2nce-and-for-all-of-2024/"><u>Path of Exile Connection Woes? Here's Your Ultimate Guide for 2Nce and for All of 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/steam-running-slow-heres-the-fix/"><u>Steam Running Slow? Here’s the Fix</u></a></li>
 </ul></div>
 

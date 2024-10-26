@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock iPhone XS With an Apple Watch & What to Do if It Doesnt Work | Dr.fone
-date: 2024-10-17T16:21:15.340Z
-updated: 2024-10-20T21:40:30.146Z
+date: 2024-10-20T17:00:52.025Z
+updated: 2024-10-26T16:35:13.761Z
 tags: 
   - unlock
   - remove screen lock
@@ -88,13 +88,6 @@ You can turn on wrist detection on your watch by following these steps:
 
 ![apple watch wrist detection settings](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now that you’ve enabled the option to unlock your Apple iPhone XS using your Apple Watch, it’s time to simply start using the feature. To unlock your phone, you’ll need to:
 
 - Have your Apple Watch on your wrist, unlocked;
@@ -109,6 +102,13 @@ However, remember that the next time you want to use your Apple Watch to unlock 
 ## Part 4. What To Do if You Can’t Unlock Your Apple iPhone XS With a Watch
 
 ![person wearing face mask unlocking their Apple iPhone XS](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Generally speaking, unlocking your Apple iPhone XS with an Apple Watch should be a simple, seamless task. Unfortunately, though, that’s not always the case. A glitch or a bug could be preventing you from enjoying this feature, so take a look at a few things you could try to fix it.
 
@@ -146,6 +146,13 @@ When you tap on this, you’ll need to go through the process of setting your Fa
 
 Move your face to complete the circle, then tap on **Continue**. Repeat the face scan process the second time and select **Done**.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4. Do a System Repair on Your Apple iPhone XS
 
 If your Apple Watch unlock is still misbehaving, you might need to do a full system repair. As a general rule of thumb, it’s best to use verified apps like Dr.Fone to prevent the problem from getting worse.
@@ -176,6 +183,13 @@ To perform a standard system repair with Dr.Fone, follow the next few steps:
 
 If it was a system mistake preventing you from unlocking your Apple iPhone XS with your Apple Watch, the option should be functioning well after the Dr.Fone iOS repair.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5. Reset Network Settings
 
 If the problem wasn’t due to a system glitch, you should try resetting your Apple iPhone XS’s network settings. The process is simple, just:
@@ -184,13 +198,6 @@ If the problem wasn’t due to a system glitch, you should try resetting your Ap
 - **Step 2:** Type in your passcode.
 
 Resetting your network settings will clear out data from your internet, local network, and devices, including WiFi passwords, some Bluetooth connections, and more. However, your paired devices, such as the Apple Watch, shouldn’t be removed.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 6. Reset Your Watch and Pair It Again
 
@@ -209,13 +216,6 @@ To perform a hard reset, simultaneously press and hold the power button and digi
 Using your Apple Watch to unlock your Apple iPhone XS is convenient when you cannot use the Face ID feature. It allows you to seamlessly unlock your phone when wearing sunglasses, goggles, face masks, or other face coverings that prevent the Face ID from working.
 
 Enabling this option is a straightforward process, and if there’s ever a glitch, there are several options you could try to repair it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Unlock Disabled Apple iPhone XS/iPad Without Computer
 
@@ -269,13 +269,6 @@ Though, before you proceed, you need to know the limitations of this method. Sin
 
 ![iphone photo library](https://images.wondershare.com/drfone/article/2017/07/14994465537722.jpg "iphone photo library")
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 11.** After a while, press the Home button. If everything goes right, you will enter the Home screen of your iOS device after unlocking it.
 
 ![iphone home](https://images.wondershare.com/drfone/article/2017/07/14994465721934.jpg "iphone home")
@@ -298,13 +291,6 @@ After implementing this solution, your iOS device will reset, and your data woul
 
 ![erase Apple iPhone XS](https://images.wondershare.com/drfone/article/2017/07/14994466099482.jpg "erase Apple iPhone XS")
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 By following this method, you can learn how to unlock the iPad passcode without a computer remotely.
 
 ## Part 3: Unlock disabled Apple iPhone XS/iPad using Dr.Fone - Screen Unlock?
@@ -322,6 +308,13 @@ Dr.Fone can help you to remove the screen from the disabled Apple iPhone XS or i
 
 ![start to remove Apple iPhone XS lock screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3.** Follow the on-screen instruction.
 
 Boot your Apple iPhone XS into DFU mode.
@@ -331,6 +324,13 @@ Boot your Apple iPhone XS into DFU mode.
 Select device information on Dr.Fone
 
 ![download Apple iPhone XS firmware](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 4.** Start to Unlock. The phone will be unlocked after that.
 
@@ -345,13 +345,6 @@ As you can see, anyone can learn how to unlock the disabled Apple iPhone XS 4 wi
 If someone can’t access Siri from the lock screen, then they won’t be able to follow the above-mentioned process to unlock an iOS device. Therefore, it is highly recommended to disable Siri from the lock screen. To do this, visit your device’s Settings > Touch ID & Passcode, and under the “Allow access when locked” section, disable the option of “Siri.”
 
 ![turn off siri](https://images.wondershare.com/drfone/article/2017/07/14994466282634.jpg "turn off siri")
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2\. Enable Find My Apple iPhone XS service
 
@@ -386,6 +379,13 @@ Following are some of the most effective methods to remove the passcode from iPh
 This is the most common and easy method to remove the passcode from iPhone. You can follow these steps:
 
 ![remove passcode from iphone](https://images.wondershare.com/drfone/article/2022/11/how-to-remove-passcode-from-iphone-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 1. Go to "Settings" and scroll down to find "Touch ID & Passcode (or Face ID & Passcode)."
 2. Click on "Turn Passcode Off"
@@ -430,13 +430,6 @@ If you want a hassle-free solution to remove the passcode from your Apple iPhone
 
 ![remove passcode](https://images.wondershare.com/drfone/article/2022/11/how-to-remove-passcode-from-iphone-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Here are some of its key features:
 
 - It can remove all passcodes from your device, including 4/6-digit codes, Touch/Face ID, etc.
@@ -471,6 +464,19 @@ Most people don't know how to put their iPhones in DFU mode or recovery mode but
 
 ![connect iphone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
+<!-- affiliate ads begin -->
+<span id="1702748">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You can follow those instructions and proceed to the next step.
 
 **Step #4: Download Firmware Package**
@@ -503,18 +509,18 @@ No, removing the Passcode from iPhone without data loss is impossible. But we re
 
 Please remember, if you have already created a backup of your device, it will overwrite the existing backup. So make sure you create a new backup of your device before proceeding.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Can I remove the passcode via hard restart?
 
 No, you can't remove the passcode from your device via a hard restart. If you try to do it, it will erase all the data from your device, and there is no possibility of accessing it anymore. So, we recommend you not to try it.
 
 Instead, you can try the method in this article to remove the Passcode from your device.
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How to change the passcode on my iPhone?
 
@@ -548,19 +554,22 @@ If you have any other questions or doubts about this process, feel free to ask u
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-enabling-the-virtual-screen-layout-in-google-meet/"><u>[New] Enabling the Virtual Screen Layout in Google Meet</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/new-ultimate-conversational-ais-on-discord/"><u>[New] Ultimate Conversational AIs on Discord</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-the-definitive-guide-to-proportion-perfection-in-youtube/"><u>[Updated] In 2024, The Definitive Guide to Proportion Perfection in YouTube</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-intuitive-steps-setting-up-snapchat-macos-style/"><u>[Updated] Intuitive Steps Setting up Snapchat macOS-Style</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/2024s-leading-game-laptops-reviewed-find-the-perfect-match-for-gamers/"><u>2024'S Leading Game Laptops Reviewed - Find the Perfect Match for Gamers!</u></a></li>
-<li><a href="https://change-location.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/disabling-iphone-12-pro-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>Disabling iPhone 12 Pro Parental Restrictions With/Without Password | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/elegant-seafaring-the-alluring-charm-of-skagen-falster-2-over-apple/"><u>Elegant Seafaring: The Alluring Charm of Skagen Falster 2 Over Apple</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/from-locked-to-unlocked-navigating-your-way-into-and-out-of-iphone-recovery-mode/"><u>From Locked to Unlocked: Navigating Your Way Into and Out of iPhone Recovery Mode</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-14-pro-max-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone 14 Pro Max Without Passcode? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-your-apple-iphone-15-pro-max-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 15 Pro Max Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-11-pro-max-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 11 Pro Max After Forgetting the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-7-plus-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 7 Plus After Forgetting the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-xs-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-elite-facebook-file-fetcher-for-firefox-users-for-2024/"><u>[New] Elite Facebook File Fetcher For Firefox Users for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-high-end-hardware-a-showcase-of-excellence/"><u>[Updated] High-End Hardware A Showcase of Excellence</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-musical-notes-on-call-creating-and-cutting-tamil-alert-songs/"><u>2024 Approved Musical Notes on Call Creating & Cutting Tamil Alert Songs</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-revenue-breakdown-a-deep-dive-into-podcast-finances/"><u>2024 Approved Revenue Breakdown A Deep Dive Into Podcast Finances</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-14-pro-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 14 Pro Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-11-drfone-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-15-pro-max-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock iPhone 15 Pro Max Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-15-pro-max-and-ipad-securely-drfone-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 15 Pro Max and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-apple-iphone-11-pro-drfone-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-8-plus-when-phone-is-broken-drfone-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone 8 Plus when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-apples-new-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 11, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-trouble-with-apple-iphone-13-pro-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>In 2024, Trouble with Apple iPhone 13 Pro Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/reset-pattern-lock-tutorial-for-poco-m6-5g-by-drfone-android-unlock-android-unlock/"><u>Reset pattern lock Tutorial for Poco M6 5G</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-modern-warfare-on-pc-understanding-and-fixing-error-code-6/"><u>Resolved: Modern Warfare on PC - Understanding and Fixing Error Code #6</u></a></li>
+<li><a href="https://discover-able.techidaily.com/ulteriori-configurazioni-di-lancia-profonda-ottimizzazione-per-seo/"><u>Ulteriori Configurazioni Di Lancia Profonda: Ottimizzazione per SEO</u></a></li>
+<li><a href="https://win-forum.techidaily.com/unleash-creativity-transform-makeup-looks-in-photos-using-moveais-photo-editing-software/"><u>Unleash Creativity: Transform Makeup Looks in Photos Using Move.ai's Photo Editing Software 💄📸</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/user-agreement-revised-privacy-updates/"><u>User Agreement Revised - Privacy Updates</u></a></li>
 </ul></div>
 

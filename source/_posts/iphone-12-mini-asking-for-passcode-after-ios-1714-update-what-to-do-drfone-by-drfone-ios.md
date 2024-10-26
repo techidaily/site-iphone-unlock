@@ -1,7 +1,7 @@
 ---
 title: iPhone 12 mini Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone
-date: 2024-10-15T17:00:20.283Z
-updated: 2024-10-20T21:36:04.503Z
+date: 2024-10-23T17:04:50.345Z
+updated: 2024-10-26T17:05:50.345Z
 tags: 
   - unlock
   - remove screen lock
@@ -28,25 +28,11 @@ The more times you get your code wrong, the longer you’ll be locked out, so av
 
 ## Part 2. 5 ways to unlock iPhone after iOS 17/14 Update
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2.1 Try a default passcode in your family
 
 While we said, you shouldn’t type in random numbers to try and guess the password, of course, if you have a standard family passcode that you use across all iOS devices, perhaps an admin password or just something you use for everything, it can be well worth a try.
 
 ![iphone random passcodes](https://images.wondershare.com/drfone/iphone-random-passcodes-.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 In reality, you get three attempts to put a passcode in before it locks you out, so try two passcodes that your family uses to see whether this will easily unlock your device. If you brought your device preowned and still have contact with the owner, they may have a passcode you can try.
 
@@ -65,13 +51,6 @@ When it does, close iTunes if it automatically opens and clicks the Screen Unloc
 **Step 2.** Click the Unlock iOS Screen option.
 
 ![android ios unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3.** You will now need to put your device in DFU mode, also known as Recovery Mode. Fortunately, this is easy thanks to the on-screen instructions where you will hold down the volume down and power button for a few seconds.
 
@@ -100,13 +79,6 @@ It’s only possible to do this if you’ve backed up your iOS device in the pas
 **Step 3.** Follow the onscreen instructions where you’ll choose which backup file you want to use before iTunes, then restores your device. When the software has completed the process, you’ll be able to disconnect your Apple iPhone 12 mini and use it without a lock screen!
 
 ![drfone home](https://images.wondershare.com/drfone/restore_itunes_backup.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2.4 Restore in recovery mode
 
@@ -234,6 +206,13 @@ With Dr.Fone - Screen Unlock, you can easily follow the steps to remove iTunes b
 
 ![drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2:** Go to the Screen Unlock interface, tap on **"Remove iTunes BackUp Encryption"** on the bottom right to reset the encryption password iPhone.
 
 ![screen unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
@@ -256,26 +235,27 @@ Click **"Remove Now"**
 
 ![removed](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-5.png)
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4: Tips to Keep Your Apple iPhone 12 mini Backup Password
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Use birthday as password
 
 It is essential to use a password that is both robust and one of a kind if you want to have the safety of the backup password for your Apple iPhone 12 mini.
 
 Using your birthdate as the password is one approach that has shown to be useful. This strategy helps guarantee that your password is not readily guessed or cracked while at the same time ensuring that it is simple for you to remember.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Use a third-party app to keep it
 
@@ -344,22 +324,15 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 - Works for all models of iPhone, iPad and iPod touch.
 - Fully compatible with the latest iOS 11.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3981454** people have downloaded it
 
 <iframe allowfullscreen="allowfullscreen" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/SG-KuuduzaY"></iframe>
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
-  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to unlock Apple iPhone 12 mini passcode without computer using Siri bug?
@@ -371,6 +344,13 @@ This might surprise you, but there is a loophole in Siri that can be exploited t
 2\. Now, ask Siri about the present time by giving a command like “Hey Siri, what time is it?”
 
 ![ask siri the time](https://images.wondershare.com/drfone/article/2017/10/15075515937104.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 3\. This will make Siri display the present time with a clock icon adjoining to it. Just tap on the clock.
 
@@ -384,6 +364,13 @@ This might surprise you, but there is a loophole in Siri that can be exploited t
 
 ![select all text](https://images.wondershare.com/drfone/article/2017/10/15075516553396.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7\. This will again provide various options like cut, copy, define, etc. Tap on the “Share” button.
 
 ![share the text](https://images.wondershare.com/drfone/article/2017/10/15075516738944.jpg)
@@ -391,6 +378,13 @@ This might surprise you, but there is a loophole in Siri that can be exploited t
 8\. From here, you can get various options to share this text. Out of all the provided options, tap on the Message icon.
 
 ![message the text](https://images.wondershare.com/drfone/article/2017/10/15075516929923.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 9\. This will open a new interface from where you can draft a new message. On the “To” field, you can type any text and tap on the return button on your keyboard to continue.
 
@@ -406,6 +400,13 @@ This might surprise you, but there is a loophole in Siri that can be exploited t
 
 ![add photo](https://images.wondershare.com/drfone/article/2017/10/15075517781481.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 13\. From the provided options, tap on the “Choose Photo” button to select a photo from the library.
 
 14\. As the photo library will be launched, you can browse the album of your choice.
@@ -415,19 +416,6 @@ This might surprise you, but there is a loophole in Siri that can be exploited t
 15\. Wait for a few seconds and tap on the Home button one more time. This will lead you to the Home screen of your device.
 
 ![iphone unlocked](https://images.wondershare.com/drfone/article/2017/10/15075518174199.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 By following these simple steps, you can learn how to unlock iPhone 5 passcode without computer. The same procedure can also be applied to other versions of iPhone as well to unlock it without any data loss.
 
@@ -447,24 +435,18 @@ You can follow either of these solutions to learn how to unlock iPhone 5 passcod
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-best-mp4-to-facebook-converter/"><u>[New] 2024 Approved Best MP4 to Facebook Converter</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/024-approved-simplify-audio-extraction-find-the-most-affordable-solutions/"><u>[New] 2024 Approved Simplify Audio Extraction Find the Most Affordable Solutions</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-decoding-how-to-effectively-swap-photo-genders-online-a-comprehensive-approach/"><u>[New] Decoding How to Effectively Swap Photo Genders Online A Comprehensive Approach</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-innovative-methods-for-high-definition-vr-gameplay-recordings/"><u>[New] In 2024, Innovative Methods for High-Definition VR Gameplay Recordings</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-surge-to-subscriber-success-with-strategic-tactics/"><u>2024 Approved Surge to Subscriber Success with Strategic Tactics</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-understanding-token-cap-how-high-can-we-go/"><u>ChatGPT: Understanding Token Cap, How High Can We Go?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-15-pro-max-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone 15 Pro Max Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-apple-iphone-11-pro-max-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix Apple iPhone 11 Pro Max Unavailable Issue With Ease | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-motorola-edgeplus-2023-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Motorola Edge+ (2023) Contacts An Easy Method Explained.</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-8-plus-drfone-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-advanced-methods-for-swift-file-exchange-apples-ecosystem/"><u>In 2024, Advanced Methods for Swift File Exchange Apple's Ecosystem</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-8-plus-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 8 Plus After Forgetting the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-13-lock-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone 13 Lock Screen | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-se-2020-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone SE (2020) Backup Password? Heres What to Do | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-15-plus-learn-all-4-methods-drfone-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone 15 Plus? Learn All 4 Methods | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-apple-iphone-xs-max-drfone-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-x-apples-new-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone X, Apples New iPhone | Dr.fone</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-top-5-screen-recorder-for-chromebook-free-extensions/"><u>In 2024, Top 5 Screen Recorder for Chromebook Free Extensions</u></a></li>
-<li><a href="https://win11.techidaily.com/steps-for-restoring-lol-connection-in-windows/"><u>Steps for Restoring LoL Connection in Windows</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-record-android-internal-voice-4-easy-rootless-techniques/"><u>[Updated] 2024 Approved Record Android Internal Voice 4 Easy, Rootless Techniques</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-explore-the-realm-of-free-c-span-video-archives/"><u>[Updated] Explore the Realm of Free C-Span Video Archives</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-the-complete-mac-users-guide-to-capturing-roblox-gaming-sessions/"><u>2024 Approved The Complete Mac User's Guide to Capturing Roblox Gaming Sessions</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-samsung-galaxy-s23-ultra-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Samsung Galaxy S23 Ultra Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabled-iphone-11-pro-how-to-unlock-a-disabled-iphone-11-pro-drfone-by-drfone-ios/"><u>Disabled iPhone 11 Pro How to Unlock a Disabled iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/epson-xp-330-printer-driver-download-free-and-upgraded/"><u>Epson XP-330 Printer Driver Download – Free and Upgraded</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-6-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 6 without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-8-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock iPhone 8, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-8-plus-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone 8 Plus Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/tailored-workouts-maximizing-benefits-and-safety/"><u>Tailored Workouts: Maximizing Benefits & Safety</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-audio-issues-on-windows-11-get-your-volume-back/"><u>Troubleshooting Audio Issues on Windows 11 - Get Your Volume Back!</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/ultimate-iphone-fixer-suite-a-single-source-for-troubleshooting-ios-challenges/"><u>Ultimate iPhone Fixer Suite: A Single Source for Troubleshooting iOS Challenges</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-boost-video-clarity-top-10-free-online-enhancement-tools-for-2024/"><u>Updated Boost Video Clarity Top 10 Free Online Enhancement Tools for 2024</u></a></li>
 </ul></div>
 

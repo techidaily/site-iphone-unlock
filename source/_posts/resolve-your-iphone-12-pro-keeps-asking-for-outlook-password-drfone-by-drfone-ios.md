@@ -1,7 +1,7 @@
 ---
 title: Resolve Your iPhone 12 Pro Keeps Asking for Outlook Password | Dr.fone
-date: 2024-10-18T19:09:17.242Z
-updated: 2024-10-20T21:03:43.046Z
+date: 2024-10-25T17:02:45.403Z
+updated: 2024-10-26T16:53:12.679Z
 tags: 
   - unlock
   - remove screen lock
@@ -42,13 +42,6 @@ Upholding a stable internet connection is necessary for effortless communication
 
 A corrupted email account profile on the Apple iPhone 12 Pro can cause disruptions during the authentication process. Resetting the email account on the Apple iPhone 12 Pro device might be necessary to resolve the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 5\. Third-Party App Interference
 
 Other mail applications installed on the Apple iPhone 12 Pro can also cause an issue. They might interfere with the Outlook app's proper functioning. Identifying and temporarily disabling such apps can help diagnose and resolve the issue.
@@ -60,13 +53,6 @@ Configuring the Outlook mail app to fetch emails too frequently causes the issue
 ### 7\. iOS Software Glitches
 
 The smooth functioning of the Mail app may be disrupted by problems and malfunctions present in the iOS software. Compatibility issues could emerge if your device is not operating on the latest iOS version.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2. \[Fixes\] Solve iPhone/iPad Keeps Asking for Outlook Password
 
@@ -128,13 +114,6 @@ Deleting and re-inserting your Outlook account on your Apple iPhone 12 Pro can p
 
 ![add outlook account](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6. Re-Check Sync Settings
 
 Ensuring that your sync settings align with Outlook's recommended configurations is crucial. Follow these steps to re-check and adjust your sync settings on your Apple iPhone 12 Pro:
@@ -191,6 +170,13 @@ If the persistent password prompts remain unresolved, resetting all settings on 
 
 ![reset all settings on iphone](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-18.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 12. Add an Account by Switching to IMAP
 
 In some cases, switching the account type to IMAP during the setup process can help resolve issues. For many users, it has worked to resolve issues related to Outlook password prompts. Follow these steps to add your Outlook account using the IMAP protocol:
@@ -198,13 +184,6 @@ In some cases, switching the account type to IMAP during the setup process can h
 - **Step 1.** Begin by accessing the "Settings" app on your Apple iPhone 12 Pro, then scroll down to locate and tap on "Mail." Within this section, choose "Accounts" to display the roster of email accounts, and proceed to tap on "Add Account."
 
 ![head to accounts in mail](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-19.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 2.** Choose "Other" as the account type and select "Add Mail Account." Enter your Name, full Outlook email address, descriptive description, and unique password, and hit "Next.”
 
@@ -271,6 +250,19 @@ Subsequently, you need to place your Apple iPhone 12 Pro into Recovery Mode. Adh
 Monitor the iOS firmware download progress on the screen. After successful download and verification, proceed by selecting "Unlock Now." A confirmation window will appear, prompting you to input the necessary code. Enter the code and tap Unlock to proceed to the outcome. Upon unlocking the iDevice, click the “Done” button to finalize the process.
 
 ![enter code to unlock device](https://images.wondershare.com/drfone/guide/unlock-ios-screen-7.png)
+
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -364,25 +356,11 @@ An inactive Apple ID issue might sometimes stem from a temporary glitch within t
 
 ![restart your ios device](https://images.wondershare.com/drfone/article/2024/01/how-to-resolve-apple-id-not-active-issue-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Way 2. Try Changing Wi-Fi or Mobile Data
 
 An inactive Apple ID issue might occasionally arise due to connectivity problems. Switching between Wi-Fi and mobile data can help troubleshoot network-related issues. As a result, it can resolve the error affecting your Apple ID's activity. As a result, the Apple iPhone 12 Pro device can be restored to its normal state.
 
 ![change wifi or mobile data](https://images.wondershare.com/drfone/article/2024/01/how-to-resolve-apple-id-not-active-issue-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Way 3. Try Resetting Your Apple ID Password
 
@@ -412,6 +390,13 @@ Are you unable to reset your Apple ID password directly from your device? If you
 
 ![enter phone and captcha characters](https://images.wondershare.com/drfone/article/2024/01/how-to-resolve-apple-id-not-active-issue-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Way 4. Check the iCloud Status Page
 
 Verifying the status of Apple's services, including iCloud, can help determine if there's an ongoing outage. The Apple Status page provides real-time information about Apple's service. It displays disruptions, maintenance, or outages that might impact a service's availability. Follow these steps to check the iCloud Status page:
@@ -427,6 +412,13 @@ When all other troubleshooting methods fail to resolve the issue of an inactive 
 When connecting with Apple Support, be ready to provide details about your issue. Explain that your Apple ID appears inactive despite trying various troubleshooting methods. Apple Support will guide you through specific steps or may provide further assistance to resolve the issue. Follow their instructions carefully and provide any necessary information or verification as requested.
 
 ![get help from apple support](https://images.wondershare.com/drfone/article/2024/01/how-to-resolve-apple-id-not-active-issue-13.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -486,6 +478,19 @@ These are the steps for registering a new Apple ID:
 
 ![create your apple id step 1](https://images.wondershare.com/drfone/article/2023/10/create-new-apple-id-account-04.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 3:** Create a strong password that combines letters, numbers, and symbols. This password is essential for the security of your account, so make it unique and hard to guess. Confirm your password by entering it again in the designated field.
 
 ### B. Verifying Your Identity
@@ -497,6 +502,13 @@ The next step is verifying your identity. Check out the steps below:
 **Note:** It's crucial to ensure that your phone number is accurate and accessible. This number will help you recover your account in case you forget your password or encounter any issues. Apple may use this phone number for two-factor authentication, adding an extra layer of security to your account.
 
 ![create your apple id step 2](https://images.wondershare.com/drfone/article/2023/10/create-new-apple-id-account-05.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 5:** Apple may sometimes ask you to complete a **CAPTCHA** or verify your identity to prevent automated account creation.
 
@@ -513,6 +525,13 @@ To finalize the creation process, refer to the steps given below:
 - **Step 7:** Read through Apple's Terms and Conditions and Privacy Policy. Once you've understood them, tick the box to confirm that you've read and agree to the iCloud and Apple Media Services Terms and Conditions. Then click **Agree** to proceed. Remember that it's essential to be familiar with Apple's policies to ensure a secure and smooth experience.
 
 ![create your apple id step 3](https://images.wondershare.com/drfone/article/2023/10/create-new-apple-id-account-06.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 8:** After completing these steps, Apple will send a confirmation email to the address you provided. Go to your email and open the verification link to confirm your new Apple ID.
 
@@ -543,24 +562,10 @@ Check out the steps on how to remove an Apple ID account using Dr.Fone below:
 
 ![drfone v13 homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2:** If you want to proceed with deleting your Apple ID, you'll need to go to the next window and select the **Remove AppleID** option from the menu.
 - **Step 3:** When you hook up your iOS device to a computer, the next screen will report on its connectivity. Select the **Unlock Now** button to proceed.
 
 ![remove apple id unlock now](https://images.wondershare.com/drfone/guide/remove-apple-id-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 4:** Before the Apple ID can be unlocked, the next step is for the platform to ask a series of questions. Verify that a screen lock is active on your iOS device. However, please lock your iOS device before proceeding with the **Yes** option.
 
@@ -577,6 +582,13 @@ Check out the steps on how to remove an Apple ID account using Dr.Fone below:
 - **Step 7:** Once **Recovery Mode** has been activated, the Apple iPhone 12 Pro device's information will be shown on the subsequent screen. Once the **Device Model** has been identified, all that remains is to choose the appropriate **System Version** and click **Start**. However, if there are disagreements in recognition, pick the details by hand and move forward.
 
 ![choose device model](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 8:** The appropriate iOS firmware begins downloading, showing its status on the following screen. Click the **Copy** button to copy the direct URL to [<u>download iOS firmware</u>](https://drfone.wondershare.com/ios-upgrade/how-to-upgrade-with-firmware-files.html) for systems with sluggish firmware download speeds.
 - **Step 9:** The platform checks the downloaded firmware and displays its details on the following screen. To proceed with unlocking your Apple ID, click the **Unlock Now** button. To proceed, you will be prompted to input a code into a confirmation window. Enter the code and then click the **Unlock** button.
@@ -607,16 +619,16 @@ Should you encounter any challenges while managing your Apple ID, such as removi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/updated-behind-the-lens-detailed-evaluation-of-sj-cam-s6/"><u>[Updated] Behind the Lens Detailed Evaluation of SJ-CAM S6</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-finding-your-ideal-display-ultrawide-vs-uhd-4k-edition/"><u>[Updated] Finding Your Ideal Display UltraWide vs UHD 4K Edition</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-netflix-adjust-speed-settings/"><u>2024 Approved Navigating Netflix Adjust Speed Settings</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-software-for-your-logitech-g502-hero-download-and-update-tools/"><u>Get the Latest Software for Your Logitech G502 HERO: Download and Update Tools</u></a></li>
-<li><a href="https://win-tutorials.techidaily.com/how-to-deep-clean-your-pc-before-selling-essential-steps/"><u>How to Deep Clean Your PC Before Selling: Essential Steps</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-11-pro-with-a-mask-on-drfone-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro with a Mask On | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-15-pro-max-without-passcode-now-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone 15 Pro Max Without Passcode Now | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-15-pro-drfone-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-xs-max-learn-all-4-methods-drfone-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone XS Max? Learn All 4 Methods | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-8-plus-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/updated-best-audio-chat-applications-tailored-for-gaming-enthusiasts-for-2024/"><u>Updated Best Audio Chat Applications Tailored for Gaming Enthusiasts for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/n-2024-essential-video-gear-the-ultimate-12-camera-guide/"><u>[New] In 2024, Essential Video Gear The Ultimate 12 Camera Guide</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-mold-sharable-imagery-in-adobe-software/"><u>[New] Mold Sharable Imagery in Adobe Software</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-se-2020-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone SE (2020) Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/download-and-install-hp-zbook-eus-xp-15-g3-device-step-by-step-driver-guide/"><u>Download & Install HP ZBook Eus Xp 15 G3 Device - Step by Step Driver Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/gopro-tips-shooting-underwater-video-with-gopro-for-2024/"><u>GoPro Tips Shooting Underwater Video with GoPro for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-apple-iphone-11-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on Apple iPhone 11 With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-motorola-edge-2023-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Motorola Edge 2023 Phones with/without a PC</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-se-2022-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone SE (2022) After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-8-with-or-without-password-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone 8 With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-lava-yuva-2-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Lava Yuva 2 Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6 Passcode without Computer? | Dr.fone</u></a></li>
 </ul></div>
 

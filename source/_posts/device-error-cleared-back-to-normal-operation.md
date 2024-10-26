@@ -1,7 +1,7 @@
 ---
 title: Device Error Cleared - Back to Normal Operation
-date: 2024-10-18T17:48:34.946Z
-updated: 2024-10-20T19:15:25.653Z
+date: 2024-10-24T16:55:15.770Z
+updated: 2024-10-26T17:19:45.454Z
 tags:
   - win11
   - win10
@@ -26,13 +26,6 @@ If you encounter**This device is disabled. (Code 22)**in Device Manager, here ar
 3. [**Uninstall your device driver**](https://cowinaudio.pxf.io/pyx40e)
 4. **[Reset the BIOS settings](https://bluettius.sjv.io/dkpnv2)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Enable your device driver
 
 Code 22 occurs usually because your device is manually disabled. Then manually enabling it should solve the problem. Here’s how to do so：
@@ -40,20 +33,34 @@ Code 22 occurs usually because your device is manually disabled. Then manually e
 1. On your keyboard, press the**Windows** ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7b8ac86a6f5.png) key and**R** at the same time to open the Run box.
 2. Type **devmgmt.msc** and press**Enter**  to access Device Manager.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98e3f572c04.png)
 3. Expand the category that your device belongs to, right-click your device and select**Enable device** .  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98e536637bc.jpg)
 If the problem persists, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your device driver
 
@@ -64,29 +71,23 @@ Driver errors like Code 22 can often be fixed by updating device drivers. You ca
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98ecd845a65.jpg)
 3. Click the **Update** button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).Or click **Update All** to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98ecfc678b7.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975658">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Uninstall your device driver
 
@@ -97,13 +98,6 @@ Uninstalling your device driver is another solution you can try to fix **This de
 2. Restart your computer, and Windows will automatically reinstall the driver for your device.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Reset the BIOS settings
 
@@ -147,16 +141,21 @@ Please do reply if you got your problem fixed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/updated-from-airwaves-to-files-online-audio-capture-basics-for-2024/"><u>[Updated] From Airwaves to Files Online Audio Capture Basics for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-leading-speech-gatherers-in-educational-environments/"><u>[Updated] In 2024, Leading Speech Gatherers in Educational Environments</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unmatched-ai-tools-for-visual-storytelling/"><u>2024 Approved Unmatched AI Tools for Visual Storytelling</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-8-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-14-pro-drfone-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/guide-stop-anonymous-phone-numbers-from-disturbing-you-on-ios-devices/"><u>Guide: Stop Anonymous Phone Numbers From Disturbing You on iOS Devices</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/hacks-to-do-pokemon-go-trainer-battles-for-nokia-g22-drfone-by-drfone-virtual-android/"><u>Hacks to do pokemon go trainer battles For Nokia G22 | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-pro-without-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 11 Pro Without Passcode? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-your-disabled-apple-iphone-6-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>In 2024, Unlock Your Disabled Apple iPhone 6 Without iTunes in 5 Ways | Dr.fone</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/maintain-high-quality-video-a-step-by-step-guide-on-how-to-upload-without-losing-clarity-to-youtube/"><u>Maintain High-Quality Video: A Step-by-Step Guide on How to Upload Without Losing Clarity to YouTube</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unpacking-the-new-era-of-ai-unveiled-by-apple-at-their-latest-wwdc-event-year-2024/"><u>Unpacking the New Era of AI Unveiled by Apple at Their Latest WWDC Event - Year 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-pixelpipe-pro-discovering-freepaid-editors/"><u>[New] PixelPipe Pro Discovering Free/Paid Editors</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-leading-10-digital-subtitling-platforms-for-2024/"><u>[Updated] Leading 10 Digital Subtitling Platforms for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-best-asmr-youtube-channels/"><u>[Updated] The Best ASMR YouTube Channels</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-apple-iphone-15-pro-max-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to Apple iPhone 15 Pro Max Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-11-pro-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone 11 Pro? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-xs-max-and-ipad-securely-drfone-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone XS Max and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-12-without-passcode-now-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone 12 Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-6-plus-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 6 Plus Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-tecno-pova-5-easily-by-drfone-android/"><u>In 2024, How To Unlock a Tecno Pova 5 Easily?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-disabled-iphone-12ipad-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Disabled iPhone 12/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-illustrate-like-a-pro-selecting-superior-vector-image-creators/"><u>In 2024, Illustrate Like a Pro Selecting Superior Vector Image Creators</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-the-art-of-participation-in-xtwitter-discussions/"><u>Mastering the Art of Participation in X/Twitter Discussions</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-30-metaverse-memes-crafting-hilarious-digital-delights-for-2024/"><u>Top 30 Metaverse Memes Crafting Hilarious Digital Delights for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-your-disabled-iphone-8-plus-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>Unlock Your Disabled iPhone 8 Plus Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://win-top.techidaily.com/top-5-ekspertnyh-seo-agentstv-v-glazgo-uluchshite-optimizaciyu-vebsajtov-dlya-velikobritanii/"><u>Топ-5 Экспертных SEO Агентств В Глазго: Улучшите Оптимизацию Вебсайтов Для Великобритании</u></a></li>
 </ul></div>
 

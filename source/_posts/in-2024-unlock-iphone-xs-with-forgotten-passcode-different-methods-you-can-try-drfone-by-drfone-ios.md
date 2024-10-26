@@ -1,7 +1,7 @@
 ---
 title: In 2024, Unlock iPhone XS With Forgotten Passcode Different Methods You Can Try | Dr.fone
-date: 2024-10-13T19:33:29.885Z
-updated: 2024-10-20T18:59:27.215Z
+date: 2024-10-23T17:13:17.718Z
+updated: 2024-10-26T17:22:21.409Z
 tags: 
   - unlock
   - remove screen lock
@@ -30,6 +30,13 @@ If you've activated Find My iPhone, you can use it to reset your passcode. Reset
 
 ![find My Apple iPhone XS](https://images.wondershare.com/drfone/article/2022/11/forgot-passcode-iphone-6-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Just follow the steps below and get started.
 
 - **Step 1:** Via a computer or other iOS devices, go to icloud.com/find and sign in with your Apple ID and password.
@@ -37,13 +44,6 @@ Just follow the steps below and get started.
 - **Step 3:** Click "Erase iPhone" and confirm that you want to erase your device.
 
 Once your Apple iPhone XS has been erased, it can be set up as a new device and you can choose a new passcode.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2\. Unlock it via Recovery mode with iTunes
 
@@ -59,6 +59,13 @@ Just go with the steps below.
 
 iTunes will now begin downloading the software for your device. Once it's finished, you can set up your device as new and choose a new passcode.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 3\. Use Siri
 
 If you're running iOS 8 or later, you may be able to use Siri to bypass the lock screen. This method doesn't work on all devices, and it can be patched with a software update, so it's not a guaranteed way to reset your passcode.
@@ -73,19 +80,6 @@ Just follow the instructions.
 - **Step 4:** Tap on "Clock," and you'll be taken to the Clock app. From here, you can access other apps like Calendar, Reminders, and more.
 
 While this method doesn't give you direct access to the home screen, it does allow you to bypass the lock screen and access some of your device's features.
-
-<!-- affiliate ads begin -->
-<span id="1982570">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bonus Tips: Easy Tool to Unlock iPhone 6 without Passcode
 
@@ -140,10 +134,10 @@ Firstly, you need to download and install Dr.Fone on your computer. Once it's in
 ![forgot passcode iphone 6](https://images.wondershare.com/drfone/guide/connect-ios-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step #2: Connect your Apple iPhone XS 6**
@@ -250,16 +244,16 @@ Lost Mode locks the Apple iPhone XS device and allows users to showcase a person
 
 ![access lost mode option](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-9.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 3.** Now go on to add your phone number and tap "Next." Follow it by providing the message you want to display and click "Activate" to enable Lost Mode.
 
 ![activate lost mode from browser](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-10.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4. Can't Find Stolen Phone? Erase iPhone Completely
 
@@ -288,10 +282,16 @@ If your Apple iPhone XS is stolen, it is crucial to immediately inform your loca
 ![reporting iphone stolen to police](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-14.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### To Do List #2. Make an Insurance Claim With AppleCare
@@ -301,19 +301,6 @@ You can claim insurance if you have AppleCare+ coverage for your Apple iPhone XS
 To qualify for theft or loss coverage, it is necessary for Find My to be enabled on your device at the time it goes missing. Moreover, it should remain enabled alongside Lost Mode throughout the claims process.
 
 ![insurance in applecare](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-15.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### To Do List #3. Remove iPhone From Trusted Devices (2FA)
 
@@ -340,17 +327,16 @@ After your Apple iPhone XS is stolen, it becomes essential to bolster the securi
 ![remove device from browser](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-19.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 6. Precautions To Take for Avoiding Losing iPhone
@@ -388,6 +374,13 @@ Activating Two-Factor Authentication (2FA) enhances the security of your Apple i
 - **Step 1.** Access the Settings app on your iOS device and tap your name/Apple ID. Find and tap "Sign-In & Security" to proceed further.
 
 ![open security settings iphone](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-24.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 2.** On the following screen, tap "Turn On Two-Factor Authentication." Follow it by tapping "Continue" afterward, and use the on-screen instructions to complete the process.
 
@@ -496,6 +489,13 @@ Although the flashlight icon remains on the lock screen, you won't accidentally 
 
 ![setup iphone back tap to none](https://images.wondershare.com/drfone/article/2024/01/remove-flashlight-from-lock-screen-05.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How To Turn Off the Flashlight on iPhone?
 
 Now, let's address turning off the flashlight on your Apple iPhone XS. Even if you've applied Part 1's solutions, knowing how to switch off the flashlight is crucial. In this section, you'll learn **how to turn the light off on iPhone** devices.
@@ -590,16 +590,22 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-comprehensive-guide-understanding-google-podcasts/"><u>[New] Comprehensive Guide Understanding Google Podcasts</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-in-2024-augmenting-visual-appeal-implementing-black-bar-and-box-on-fb/"><u>[New] In 2024, Augmenting Visual Appeal Implementing Black Bar & Box on FB</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-are-there-restrictions-in-saving-youtube-videos-in-2024/"><u>[Updated] Are There Restrictions in Saving YouTube Videos, In 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-e-learning-title-engineer/"><u>2024 Approved Expert E-Learning Title Engineer</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-smartphone-viewing-at-its-peak-top-10-free-video-streamers/"><u>2024 Approved Smartphone Viewing at Its Peak Top 10 Free Video Streamers</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-12-and-ipad-securely-drfone-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 12 and iPad Securely | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-iphone-11-pro-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your iPhone 11 Pro? Learn All 4 Methods | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-iphone-7-plus-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From iPhone 7 Plus? Complete Guide | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-12-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone 12 when Phone is Broken? | Dr.fone</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/in-2024-elevate-engagement-posting-youtube-video-on-fb/"><u>In 2024, Elevate Engagement Posting YouTube Video on FB</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-x-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone X Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-instasoul-unleash-your-essence-through-100-dynamic-captions-for-2024/"><u>[New] InstaSoul Unleash Your Essence Through 100 Dynamic Captions for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-x-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone X with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/conversion-gratuit-de-fichiers-3gp-en-flv-a-distance-guide-pratique-et-efficace-par-movavi/"><u>Conversion Gratuit De Fichiers 3GP en FLV À Distance - Guide Pratique Et Efficace Par Movavi</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/demystifying-ai-security-risks-an-insight-into-prompt-injection-techniques/"><u>Demystifying AI Security Risks: An Insight Into Prompt Injection Techniques</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-15-pro-max-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-iphone-xs-max-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/facebook-enters-sunglasses-space-with-ray-ban-stories-launch/"><u>Facebook Enters Sunglasses Space with Ray-Ban Stories Launch</u></a></li>
+<li><a href="https://win-dash.techidaily.com/guide-to-overcoming-hp-beats-sound-drivers-problems-on-windows-1187/"><u>Guide to Overcoming HP Beats Sound Drivers Problems on Windows 11/8/7</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-12-pro-max-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone 12 Pro Max Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-8-plus-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 8 Plus With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-6s-plus-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock iPhone 6s Plus Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-12-pro-drfone-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/renaissance-pc-refresh-with-atlasos/"><u>Renaissance PC: Refresh with AtlasOS</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-tier-connectivity-without-breaking-your-wallet-comprehensive-guide-to-the-tp-link-archer-a6-ac1200-router-review/"><u>Top-Tier Connectivity Without Breaking Your Wallet: Comprehensive Guide to the TP-LInk Archer A6 AC1200 Router Review</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/topic-titling-artisans-assistant/"><u>Topic Titling Artisan's Assistant</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-strengths-of-the-kobo-nia-ebook-reader-a-credible-challenger-to-kindle/"><u>Unveiling the Strengths of the Kobo Nia Ebook Reader: A Credible Challenger to Kindle</u></a></li>
 </ul></div>
 

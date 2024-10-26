@@ -1,7 +1,7 @@
 ---
 title: iPhone X Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone
-date: 2024-10-13T19:25:48.060Z
-updated: 2024-10-20T17:32:10.381Z
+date: 2024-10-24T17:10:46.522Z
+updated: 2024-10-26T17:21:11.864Z
 tags: 
   - unlock
   - remove screen lock
@@ -66,6 +66,13 @@ That’s how easy Dr.Fone - Screen Unlock (iOS) makes the entire unlock process!
 
 ![drfone advanced unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2.3 Restore an old backup from iTunes
 
 Another key way that some users have found to unlock their device after an update is to restore their device to an older version, aiming to put your device back into a position where it didn’t have a lock screen.
@@ -79,6 +86,13 @@ It’s only possible to do this if you’ve backed up your iOS device in the pas
 **Step 3.** Follow the onscreen instructions where you’ll choose which backup file you want to use before iTunes, then restores your device. When the software has completed the process, you’ll be able to disconnect your Apple iPhone X and use it without a lock screen!
 
 ![drfone home](https://images.wondershare.com/drfone/restore_itunes_backup.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2.4 Restore in recovery mode
 
@@ -95,13 +109,6 @@ Here’s how to do it. (Note, the process will differ slightly depending on whic
 **Step 2.** Now connect your Apple iPhone X to your computer with iTunes and wait for iTunes to open. Make sure you’re running the latest version of iTunes before connecting up your device. Also, make sure you’re using the official USB cable for the most stability.
 
 **Step 3.** iTunes should automatically detect that your device is in Recovery Mode and automatically restore your device to a default state without a lock screen. Wait until this process is completed before disconnecting your device and using it as normal.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 2.5 Use Find My iPhone feature in iCloud
 
@@ -151,6 +158,13 @@ Leveraging the advanced security capabilities of Face ID or Passcode on your App
 
 ![access face id and passcode option](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094414/7443" target="_top" id="2094414">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094414" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094414/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: How to Lock Apps on iPhone Using Shortcuts?
 
 If you are unable to lock the targeted app directly with Face ID, there is no need to worry. There exist workarounds that you can use, and one of them is using the Shortcuts app. It won't directly lock apps with the Face ID. Instead, it provides a workaround by creating a shortcut that redirects to the lock screen.
@@ -173,13 +187,6 @@ When activated, it takes you to the lock screen, prompting Face ID, Touch ID, or
 
 ![press the done option](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 4: How to Lock Apps on iPhone Using Restrictions?
 
 By taking the assistance of Apple’s native Restrictions feature, you can app lock the Apple iPhone X without any trouble. In this way, you can set up a passcode that needs to be matched before accessing any app. This iPhone app lock is also a great way to restrict your kids from accessing certain apps or making purchases. To learn how to lock apps on iPhone or iPad using Restrictions, follow these steps:
@@ -195,13 +202,6 @@ By taking the assistance of Apple’s native Restrictions feature, you can app l
 ![turn on restrictions for the app](https://images.wondershare.com/drfone/article/2017/09/15060135059851.jpg)
 
 **Step 4.** If you want, then you can also switch this feature off for any app using the same method.
-
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
-  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Bonus Tip: How to Unlock iPhone withoutScreen Locks (PIN/pattern/fingerprints/face)
 
@@ -304,15 +304,28 @@ However, if you have a jailbroken device and would like to app lock the iPhone, 
 ![application locking](https://images.wondershare.com/drfone/article/2017/09/15060136826933.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 6.** From here, you can turn on (or off) the locking feature for apps of your choice.
 
 This will let your app lock the Apple iPhone X without any trouble. You can also go to the “Reset Password Phrase” to change the passcode.
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. Lock Apps onApple iPhone X & iPad using BioProtect
 
@@ -343,10 +356,10 @@ Just like Applocker, BioProtect is another third-party tool that works only on j
 ![authenticate using fingerprint](https://images.wondershare.com/drfone/article/2017/09/15060137676497.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Wrap it up
@@ -363,6 +376,13 @@ All the solutions mentioned here are highly secure and work almost every time. S
 
 ## Part 1: 4 Simple Ways to Unlock iPhone without Pin
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 1\. "Erase iPhone" option
 
 The steps below work if your Apple iPhone X or iPad runs iOS 15.2 or later and is connected to the internet. Here's what you need to do when you **forgot iPhone PIN**:
@@ -371,13 +391,6 @@ The steps below work if your Apple iPhone X or iPad runs iOS 15.2 or later and i
 - Tap Erase iPhone, then click again to confirm your activity.
 
 ![erase iphone](https://images.wondershare.com/drfone/article/2022/11/forgotten-iphone-pin-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - Enter your Apple account details to sign out of your Apple ID on the phone.
 - Tap Erase iPhone back to erase all your user data and settings for all time.
@@ -393,6 +406,19 @@ The steps below work if your Apple iPhone X or iPad runs iOS 15.2 or later and i
 ![click restore](https://images.wondershare.com/drfone/article/2022/11/forgotten-iphone-pin-2.jpg)
 
 - Disconnect your Apple iPhone X, then, at that point, turn it on and set it up. That's all you need to do.
+
+<!-- affiliate ads begin -->
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Use Find My iPhone in iCloud
 
@@ -472,29 +498,9 @@ After getting the required firmware, click the "Unlock Now" button to begin the 
 
 ![unlock now](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Simply in almost no time, your Apple iPhone X will be unlocked effectively. However, kindly note this unlocking system will likewise wipe all the files and settings on your device. Therefore, you must have a backup of your essential documents beforehand.
 
 ## Part 2: FAQs
-
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### How can I change my PIN on my iPhone?
 
@@ -534,15 +540,22 @@ Due to one reason or another, you may have **forgotten iPhone PIN.** However, it
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-elevate-engagement-discover-these-top-12-techniques-for-video-success-for-2024/"><u>[New] Elevate Engagement - Discover These Top 12 Techniques for Video Success for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-crafting-gopro-professionals-a-filmmaking-guide/"><u>2024 Approved Crafting GoPro Professionals A Filmmaking Guide</u></a></li>
-<li><a href="https://fox-access.techidaily.com/capture-and-edit-like-a-pro-with-these-8-top-montage-apps-for-2024/"><u>Capture and Edit Like a Pro with These 8 Top Montage Apps for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-infinix-hot-30i-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Infinix Hot 30i | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-can-lenovo-thinkphonemirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Lenovo ThinkPhoneMirror Share to PC? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-15-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Without Passcode? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-apple-iphone-13-mini-drfone-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For Apple iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-did-your-iphone-14-pro-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>In 2024, Did Your iPhone 14 Pro Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-pro-max-apples-new-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 Pro Max, Apples New iPhone | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/24-the-math-behind-making-money-youtubes-viewer-insights/"><u>In 2024, The Math Behind Making Money YouTube’s Viewer Insights</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-hack-your-channels-identity-with-these-11-budget-tools/"><u>[New] In 2024, Hack Your Channel's Identity with These 11 Budget Tools</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-yt-treasure-hunt-accessing-previously-deleted-content/"><u>[New] In 2024, YT Treasure Hunt Accessing Previously Deleted Content</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-essential-tips-for-setting-up-and-conducting-zoom-webinars/"><u>[Updated] 2024 Approved Essential Tips for Setting Up & Conducting Zoom Webinars</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-pinnacle-workshop-25-critique/"><u>[Updated] In 2024, Pinnacle Workshop 25 Critique</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-7-without-itunes-drfone-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 7 Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-apple-iphone-14-plus-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock Apple iPhone 14 Plus with iTunes | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-xr-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone XR? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-iphone-15-pro-max-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your iPhone 15 Pro Max? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Vivo Y27 4G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-your-iphone-14-plus-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>How to Unlock Your iPhone 14 Plus Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-oppo-reno-11-5g-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Oppo Reno 11 5G Data? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/identifying-10-quick-growth-youtube-blogs-that-encourage-for-2024/"><u>Identifying 10 Quick-Growth YouTube Blogs that Encourage for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-audiovisual-fusion-incorporating-songs-in-ig-media/"><u>In 2024, Audiovisual Fusion Incorporating Songs in IG Media</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-google-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Google</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-se-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone SE? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 8 Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-7-plus-drfone-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 7 Plus | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: The Best Methods to Unlock the iPhone Locked to Owner for iPhone 8 Plus | Dr.fone
-date: 2024-10-15T16:41:39.367Z
-updated: 2024-10-20T19:11:04.708Z
+date: 2024-10-22T16:51:07.998Z
+updated: 2024-10-26T16:41:34.934Z
 tags: 
   - unlock
   - remove screen lock
@@ -25,6 +25,13 @@ We bring you a comprehensive guide that explores the best methods to unlock an "
 Activation Lock is a strong and innovative security feature introduced by Apple. This lock is available on Apple devices, including iPhones, iPads, and Macs. It is designed to prevent unauthorized access and use of a device in case it is lost, stolen, or misplaced. Here's a brief overview of the features of Activation Lock:
 
 ![iphone to owner error](https://images.wondershare.com/drfone/article/2023/06/iphone-locked-to-owner-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Device Association
 
@@ -109,10 +116,10 @@ Ensure your device IMEI is not blacklisted before sending it for the unlocking p
 ![use directunlocks icloud activation removal](https://images.wondershare.com/drfone/article/2023/06/iphone-locked-to-owner-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 5: Remove the iCloud Activation Lock With the Best Screen Unlock Tool – Wondershare Dr.Fone
@@ -149,6 +156,19 @@ After thoroughly considering the ramifications, tap "Unlock Now" to proceed. Now
 
 ![click on unlock now](https://images.wondershare.com/drfone/guide/bypass-activation-lock-4.png)
 
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 To summarize, Wondershare Dr.Fone stands out as the best choice when it comes to unlocking an "****iPhone Locked to Owner****." It has advanced features, a dynamic interface, and a proven track record. Wondershare Dr.Fone offers the most reliable and effective methods to regain access to your locked iPhone.
@@ -172,6 +192,13 @@ The passcode is a numeric or alphanumeric code that you set up to secure your Ap
 After setting up a passcode, it will be required every time you unlock your Apple iPhone 8 Plus. It is also required when accessing sensitive information or making changes to security settings. Moreover, it serves as the first line of defense in protecting your device from unauthorized access. If an incorrect passcode is entered many times, your Apple iPhone 8 Plus will be disabled for a specific time. It increases your device's security.
 
 ![password feature of iphone 14](https://images.wondershare.com/drfone/article/2023/06/unlock-iphone-14-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Face ID
 
@@ -201,13 +228,6 @@ In this method, you will be erasing the iPhone, meaning all your data on the App
 
 ![tap on the find my feature](https://images.wondershare.com/drfone/article/2023/06/unlock-iphone-14-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 3.** Look for the "Erase iPhone" option from the Apple iPhone 8 Plus device details and tap on it. This will start the erasure process on your Apple iPhone 8 Plus. Afterward, follow the on-screen instructions to erase your Apple iPhone 8 Plus. Once it is done, your device will be unlocked, and you will be able to set it up.
 
 ![select erase iphone option](https://images.wondershare.com/drfone/article/2023/06/unlock-iphone-14-5.jpg)
@@ -221,13 +241,6 @@ In this method, you will be erasing the iPhone, meaning all your data on the App
 
 - You must have previously enabled Find My iPhone on your locked device to use this method.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
-  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2: Using iTunes on Your Computer
 
 Restoring your Apple iPhone 8 Plus with iTunes is another method to unlock your device when you have forgotten the passcode. This method involves using iTunes on a computer to erase your Apple iPhone 8 Plus and install the latest iOS version.
@@ -238,6 +251,13 @@ For it, ensure you have the latest version of iTunes installed on your computer.
 - **Step 2.** Finally, press and hold the "Side" button until your Apple iPhone 8 Plus transitions to Recovery Mode. Now iTunes will detect your Apple iPhone 8 Plus in Recovery Mode. It will display a pop-up message asking whether you want to restore or update your device.
 
 ![enable the recovery mode](https://images.wondershare.com/drfone/article/2023/06/unlock-iphone-14-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 3.** Here, choose the "Restore" option. It will erase all data on your device and install the latest iOS version. Once it is complete, you will see the initial setup screen on your Apple iPhone 8 Plus.
 
@@ -281,25 +301,11 @@ Launch Wondershare Dr.Fone on your computer and select "Screen Unlock" from the 
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2. Enable Recovery Mode on Your Apple iPhone 8 Plus**
 
 Connect your Apple iPhone 8 Plus to the computer. Once Dr.Fone detects your Apple iPhone 8 Plus, click on "Start". Follow the on-screen instructions to put your device into Recovery Mode. Wondershare Dr.Fone will automatically detect the mode and iOS version of your Apple iPhone 8 Plus.
 
 ![press the start button](https://images.wondershare.com/drfone/guide/unlock-ios-screen-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 3. Unlock Your Apple iPhone 8 Plus**
 
@@ -365,6 +371,13 @@ After careful evaluation, we recommend Wondershare Dr.Fone as the best choice to
 The **Swipe Up Unlock** function has been a fundamental aspect of iPhone functionality for a long time. It enables swift access to your phone by swiping upward from the screen's bottom. This gesture grants entry to all your applications and data on your Apple iPhone 8 Plus. It was initially introduced to replace the physical Home button. However, it significantly simplified the user experience with iPhones.
 
 It streamlined various tasks without the need for excessive button pressing. Moreover, its simplicity and speed became vital in how individuals utilized their iPhones. Yet, as preferences evolve, not everyone finds the exclusive Swipe Up Unlock feature appealing. Hence, exploring alternative methods to unlock your Apple iPhone 8 Plus is advisable.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: Why Do You Need To Swipe Up to Unlock on iPhone?
 
@@ -448,16 +461,10 @@ The screen will showcase the download progress of the iOS firmware on the platfo
 ![lock screen removal process completed](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
 <!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 3: Unlock the Apple iPhone 8 Plus Without Swiping Up via Touch ID/Face ID
@@ -527,16 +534,16 @@ Utilizing Voice Control to unlock your Apple iPhone 8 Plus offers a hands-free a
 
 ![navigate to voice control feature](https://images.wondershare.com/drfone/article/2023/12/unlock-phone-without-swiping-up-6.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2.** To set up voice control, you need to ensure that the "Voice Control" option is toggled on. After activating Voice Control, use a voice command to unlock your device.
 
 ![toggle on voice control option](https://images.wondershare.com/drfone/article/2023/12/unlock-phone-without-swiping-up-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
-  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 6: Unlock iPhone Without Swiping Up with Switch Control
 
@@ -545,13 +552,6 @@ Utilizing Switch Control is an excellent accessibility feature on iOS devices. I
 **Step 1.** Access your Apple iPhone 8 Plus's Settings, then tap on "Accessibility." Now find and select "Switch Control," and within it, navigate to "Switches." Now, tap "Add New Switch" and choose "Camera."
 
 ![add a new switch](https://images.wondershare.com/drfone/article/2023/12/unlock-phone-without-swiping-up-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 2.** Set Left Head Movement and Right Head Movement separately to “Home.” This action will lock the screen when tilting your head left or right. Now go back to "Recipes" in Switch Control, select "Edit," and delete all existing recipes.
 
@@ -585,21 +585,20 @@ While these methods are helpful, there's a software called Wondershare Dr.Fone t
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-charting-uncharted-territories-with-jaunt-vr/"><u>[New] Charting Uncharted Territories with Jaunt VR</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-excellent-choice-7-premium-videos-on-mac/"><u>[New] Excellent Choice 7 Premium Videos on Mac</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-explore-androids-best-moba-experiences-in-10/"><u>[Updated] Explore Android's Best MOBA Experiences in #10</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-prime-strategies-in-zoom-video-to-zoom-outcomes/"><u>[Updated] The Prime Strategies in Zoom Video to Zoom Outcomes</u></a></li>
-<li><a href="https://extra-information.techidaily.com/a-guide-to-excellent-live-cricket-online-watch/"><u>A Guide to Excellent Live Cricket Online Watch</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/a-how-to-guide-on-bypassing-iphone-14-icloud-activation-lock-by-drfone-ios/"><u>A How-To Guide on Bypassing iPhone 14 iCloud Activation Lock</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-11-pro-max-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/forgot-locked-iphone-6-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>Forgot Locked iPhone 6 Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-xs-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone XS Lock Screen with Notifications? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-xs-max-drfone-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-did-your-apple-iphone-15-pro-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>In 2024, Did Your Apple iPhone 15 Pro Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-12-with-itunes-drfone-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone 12 with iTunes | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-honor-play-7t-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Honor Play 7T Data? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-use-pokemon-emerald-master-ball-cheat-on-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Pokémon Emerald Master Ball Cheat On Xiaomi Redmi K70E | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-apple-iphone-12-pro-max-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 12 Pro Max With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/streamline-your-video-upload-process-instagram-ready-sizing/"><u>Streamline Your Video Upload Process Instagram-Ready Sizing</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-efficient-obs-fb-streaming-techniques/"><u>[New] 2024 Approved Efficient OBS-FB Streaming Techniques</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-dynamic-discussions-how-to-make-your-ig-stories-pop/"><u>[Updated] In 2024, Dynamic Discussions How to Make Your IG Stories Pop</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/brilliance-on-screen-an-examination-of-hps-4k-z32x-for-2024/"><u>Brilliance on Screen An Examination of HP’s 4K Z32X for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-the-world-of-computing-with-tom-hardware-reviews-and-tips/"><u>Exploring the World of Computing with Tom - Hardware Reviews and Tips</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-7-plus-with-7-methods-drfone-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone 7 Plus With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-data-from-iphone-12-mini-to-other-iphone-15-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 12 mini To Other iPhone 15 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-8-plus-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 8 Plus, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-for-iphone-15-plus-lock-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 15 Plus Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-iphone-14-5-ways-to-get-into-a-locked-iphone-14-drfone-by-drfone-ios/"><u>In 2024, Locked Out of iPhone 14? 5 Ways to get into a Locked iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/intelligent-style-meets-cutting-edge-tech-a-comprehensive-look-at-ray-bans-meta-frame-glasses/"><u>Intelligent Style Meets Cutting Edge Tech: A Comprehensive Look at Ray-Ban's Meta Frame Glasses</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-6s-plus-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>iPhone 6s Plus Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-xs-max-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone XS Max Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-and-resolving-ghostrunner-error-on-windows-10/"><u>Troubleshooting and Resolving Ghostrunner Error on Windows 10</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unlocking-privacy-and-security-with-these-top-5-free-open-dns-solutions/"><u>Unlocking Privacy and Security with These Top 5 Free Open DNS Solutions</u></a></li>
 </ul></div>
 
