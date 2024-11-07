@@ -1,7 +1,7 @@
 ---
 title: In 2024, Trouble with Apple iPhone 11 Swipe-Up? Try These 11 Solutions | Dr.fone
-date: 2024-10-26T07:58:27.548Z
-updated: 2024-11-01T10:10:37.407Z
+date: 2024-11-01T16:23:09.683Z
+updated: 2024-11-07T01:31:49.215Z
 tags: 
   - unlock
   - remove screen lock
@@ -28,19 +28,6 @@ Updates or software bugs can occasionally interfere with the swipe-up gesture. I
 
 Sometimes, the touch screen may need recalibration. This can cause the swipe-up feature to become unresponsive.
 
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Physical Damage
 
 Physical damage, like heavy falls, can impact the phone's touch sensitivity. Moreover, it affects swipe gestures as a result.
@@ -53,22 +40,35 @@ Insufficient memory or many background apps running simultaneously can overload 
 
 Sudden exposure to moisture or water damage can also cause the screen to malfunction. This can cause the screen to become unresponsive, leading to swipe-up issues.
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: 11 Ways To Fix iPhone Swipe up Not Working
 
 Encountering an unresponsive swipe-up gesture on your Apple iPhone 11 can be exasperating. However, you no longer need to worry. There are numerous troubleshooting techniques available to address this problem. Explained below are the 11 effective ways to address the problem:
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1. Fix iOS System Error Without Data Loss: Dr.Fone – System Repair (iOS)
 
 [Wondershare Dr.Fone - System Repair (iOS)](https://drfone.wondershare.com/ios-system-repair.html) is a reliable solution designed to resolve iOS system issues. It also includes unresponsive gestures like the swipe-up problem on iPhones. This tool specializes in repairing iOS system errors without causing data loss. It offers a comprehensive solution for resolving iOS system issues conveniently from home. With this tool, you can address over 150 iOS system problems.
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (iOS)
 
@@ -269,6 +269,13 @@ Having trouble with **swipe up not working on an iPhone** can be annoying. It st
 
 We've also talked about a helpful tool called Wondershare Dr.Fone. It's made to fix problems with the lock screen, including issues with swiping on your Apple iPhone 11. Moreover, Dr.Fone - Screen Unlock lets you get into your Apple iPhone 11 even when gestures aren't working properly.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3 Easy Ways to Factory Reset a Locked Apple iPhone 11 Without iTunes
 
 There are a few causes that you might need to factory reset your locked iPhone without iTunes. Perhaps you forgot your passcode and can't seem to remember it, no matter how many times you try. Maybe you're selling your Apple iPhone 11 and want to ensure that all your data is wiped from the Apple iPhone 11 device before handing it over to someone else.
@@ -304,16 +311,16 @@ Once Dr. Fone detects your device, you will see the following screen.
 ![how to factory reset disabled iphone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 <!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step #4: Choose the Appropriate Firmware and Download it:**
@@ -321,19 +328,6 @@ Once Dr. Fone detects your device, you will see the following screen.
 After your Apple iPhone 11 is in recovery mode, you need to select the appropriate firmware for your device. Once you have selected the firmware, click on the " Download " button to start downloading it.
 
 ![factory reset locked iphone without itunes](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
-
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step #5: Reset your Apple iPhone 11:**
 
@@ -376,10 +370,10 @@ This is another method you can use if you have the " Find My iPhone " feature on
 ![the find my iphone on another device](https://images.wondershare.com/drfone/article/2022/11/factory-reset-locked-iphone-without-itunes-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 To do this, you need to follow these steps:
@@ -421,6 +415,13 @@ Yes. A factory reset will bypass the lock screen passcode on your Apple iPhone 1
 No. If you want a factory reset, all your data will be erased, so make a backup before proceeding.
 
 But if you want your Apple iPhone 11 set to return to the default without losing your data, you can do a "Reset All Settings." This will not touch your data but will return all the default settings.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 3\. What is the Difference Between a Soft Reset and a Hard Reset?
 
@@ -501,31 +502,11 @@ Lifetime Licence ($49.95) |
 Lifetime License ($49.95) |
 | **Softonic-Free iPhone Backup Unlocker** | Free |
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 1\. Dr.Fone-Screen Unlock
 
 After downloading Dr.Fone, please run it and locate the red button **"Screen Unlock."**
 
 ![drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 To start, tap "Remove iTunes BackUp Encryption" in the bottom right corner of the Screen Unlock window.
 
@@ -546,6 +527,13 @@ Dr.Fone can automatically verify your iTunes backup and erase it. Once the progr
 **Step 5:** The iTunes backup encryption now disappears! You may use your Apple iPhone 11 freely.
 
 ![removed](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Why do Users like it? (Review)**
 
@@ -593,13 +581,6 @@ PassFab is an iPhone backup unlocker that works well and is safe to use. It come
 A free version of Tenorshare iPhone backup password recovery is available, enabling you to test the program. However, this version has limitations absent in the paid versions of the program.
 
 ![4ukey](https://images.wondershare.com/drfone/article/2022/12/iphone-backup-unlocker-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915825/19272" target="_top" id="1915825">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915825" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915825/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The trial option is only available for a limited time and does not grant access to most of the features available in the full version.
 
@@ -649,6 +630,13 @@ Because of its industry-leading recovery rate, extensive compatibility, and intu
 - Not a very good performance
 - Interface is not user-friendly
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 5\. Softonic Free iPhone Backup Unlocker
 
 This free iPhone backup unlocker can be used to recover passwords for iTunes backups that have been forgotten due to a malfunctioning computer or a lost or stolen iPhone.
@@ -687,19 +675,18 @@ All of the software that was described is accessible for both Mac and Windows op
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-2024-approved-choosing-excellence-hdr-cameras-decoded/"><u>[New] 2024 Approved Choosing Excellence HDR Cameras Decoded</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-premier-audio-recording-tools-11-edition/"><u>[New] 2024 Approved Premier Audio Recording Tools - #11 Edition</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/iscovering-the-most-reliable-youtube-downloader-apps-for-android-for-2024/"><u>[New] Discovering the Most Reliable YouTube Downloader Apps for Android for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-from-scene-to-video-canons-pathway-to-timelapse-excellence/"><u>2024 Approved From Scene to Video Canon's Pathway to Timelapse Excellence</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-lighten-up-with-funny-images-in-adobe/"><u>2024 Approved Lighten Up with Funny Images in Adobe</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-unlock-iphone-6s-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>3 Ways to Unlock iPhone 6s without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Realme Narzo 60 5G | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-iphone-xs-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My iPhone XS when Phone is Broken? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-capture-every-click-essential-screen-recorders-for-modern-browsers/"><u>In 2024, Capture Every Click Essential Screen Recorders for Modern Browsers</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabling-iphone-12-pro-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>In 2024, Disabling iPhone 12 Pro Parental Restrictions With/Without Password | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-how-can-we-bypass-samsung-galaxy-z-fold-5-frp-by-drfone-android/"><u>In 2024, How Can We Bypass Samsung Galaxy Z Fold 5 FRP?</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Tecno Spark 10 Pro? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/remove-device-supervision-from-your-iphone-8-plus-drfone-by-drfone-ios/"><u>Remove Device Supervision From your iPhone 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-13-pro-max-passcode-without-a-computer-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone 13 Pro Max Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-rapid-viewer-for-10-windows-photos/"><u>[New] Rapid Viewer for 10 Windows Photos</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-iphone-xs-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone XS with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-evaluation-the-robust-trustworthy-on-the-go-kensun-tire-pump/"><u>Comprehensive Evaluation: The Robust, Trustworthy, On-the-Go Kensun Tire Pump</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-12-mini-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-honor-90-gt-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Honor 90 GT? | Dr.fone</u></a></li>
+<li><a href="https://discover-community.techidaily.com/effortlessly-documenting-online-seminars-using-a-desktop-master-it-in-just-four-easy-steps/"><u>Effortlessly Documenting Online Seminars Using a Desktop – Master It in Just Four Easy Steps!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/elevate-your-exercise-routine-the-fitbit-versa-3-comes-equipped-with-advanced-gps-and-engaging-wellness-applications-to-drive-motivation/"><u>Elevate Your Exercise Routine: The Fitbit Versa 3 Comes Equipped With Advanced GPS and Engaging Wellness Applications to Drive Motivation</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-12-to-use-usb-accessories-without-passcode-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 12 to Use USB Accessories Without Passcode</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-realme-c67-4g-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Realme C67 4G to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-6-plus-drfone-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-iphone-15-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 15 After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-xs-lock-screen-drfone-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone XS Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/pro-level-streaming-tech-innovations-you-need-for-2024/"><u>Pro-Level Streaming Tech Innovations You Need for 2024</u></a></li>
 </ul></div>
 

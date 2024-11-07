@@ -1,7 +1,7 @@
 ---
 title: 7 Ways to Lock Apps on Apple iPhone 14 and iPad Securely | Dr.fone
-date: 2024-09-11T17:31:16.627Z
-updated: 2024-09-17T16:48:12.077Z
+date: 2024-11-06T03:51:16.606Z
+updated: 2024-11-07T03:09:17.641Z
 tags: 
   - unlock
   - remove screen lock
@@ -54,6 +54,19 @@ When activated, it takes you to the lock screen, prompting Face ID, Touch ID, or
 
 ![customize app automation settings](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-5.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3.** Proceed forward by tapping "Next" from the top right corner, and on the following screen, tap "New Blank Automation." Then, press "Add Action" and enter "Lock Screen" into the Search field, then choose "Lock Screen" from the search results.
 
 ![search for lock screen option](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-6.jpg)
@@ -61,13 +74,6 @@ When activated, it takes you to the lock screen, prompting Face ID, Touch ID, or
 **Step 4.** Finally, tap "Done" to finalize the shortcut. Now, upon accessing the targeted app, the shortcut will activate in the background, causing your Apple iPhone 14 to be locked. You can then use the Face ID, Touch ID, or passcode to unlock it.
 
 ![press the done option](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: How to Lock Apps on iPhone Using Restrictions?
 
@@ -109,13 +115,6 @@ Besides the Restrictions feature, you can also take the assistance of Guided Acc
 
 ![enable guided access](https://images.wondershare.com/drfone/article/2017/09/15060135337469.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2.** Turn on the “Guided Access” feature and tap on the “Passcode Settings”.
 
 ![guided access password](https://images.wondershare.com/drfone/article/2017/09/15060135537597.jpg)
@@ -139,13 +138,6 @@ On the Apple iPhone 14 8 Series and iPhone SE, Apple offers Touch ID for securit
 **Instructions:** To start, open the Settings application. Now scroll down to locate and select the "Touch ID & Passcode" option. On the following screen, you can deactivate or activate Touch ID for apps.
 
 ![proceed into touch id settings](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 7: How to Lock Apps on iPhone Using Third-Party Apps?
 
@@ -198,6 +190,13 @@ However, if you have a jailbroken device and would like to app lock the iPhone, 
 **Step 5.** To app lock, the iPhone, visit the “**Application Locking**” feature on your device.
 
 ![application locking](https://images.wondershare.com/drfone/article/2017/09/15060136826933.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 6.** From here, you can turn on (or off) the locking feature for apps of your choice.
 
@@ -342,6 +341,19 @@ After successfully installing Dr.Fone on your PC, open it and select the "Screen
 
 ![select screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Next, connect your locked phone to the system through a wired connection. Then go for the iOS screen unlock feature.
 
 ![unlock ios screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
@@ -351,6 +363,13 @@ Next, connect your locked phone to the system through a wired connection. Then g
 It is necessary to first boot your locked device in recovery or DFU mode. Follow the guidelines on your screen to do so. The Recovery mode is the suggested way for iOS screen locks. If you can't actuate this mode, go for the DFU mode boot.
 
 ![enter recovery mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 3. Select your Apple iPhone 14 Model**
 
@@ -377,6 +396,13 @@ Here's the step-by-step guide to the most effective method to switch off Face ID
 ### 1\. Open the Settings application
 
 First, tap on your Settings app to open it. That is the one on the home screen with a symbol like the mechanical gear.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Tap on Face ID and Passcode
 
@@ -445,6 +471,13 @@ If you're a Mac enthusiast, changing your Apple ID email is straightforward:
 
 ![change apple id on mac 1](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-email-03.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 2:** Click **System Preferences**, and then select **Apple ID**.
 
 ![change apple id on mac 2](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-email-04.jpg)
@@ -509,13 +542,6 @@ What if you find yourself in a situation where you want to change your Apple ID 
 
 ![drfone v13 toolbox](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Key Features of Dr.Fone - Screen Unlock (iOS)
 
 Check out the key features that Dr.Fone has to offer:
@@ -542,6 +568,13 @@ Outlined below is the step-by-step guide on how to use Dr.Fone – Screen Unlock
 
 ![drfone unlock ios screen recovery mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 4:** After successfully entering your device into **Recovery Mode**, the platform automatically recognizes the **Device Model** and shows it in the appropriate section. Modify the model and select the **System Version** to meet your needs if necessary. After that, select **Start** to begin unlocking your device's screen.
 
 ![drfone unlock ios screen device model](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
@@ -549,6 +582,13 @@ Outlined below is the step-by-step guide on how to use Dr.Fone – Screen Unlock
 - **Step 5:** The next screen shows the progress of your [<u>iOS firmware download</u>](https://drfone.wondershare.com/ios-upgrade/how-to-upgrade-with-firmware-files.html). If at any point you decide you'd rather call it quits, hit the **Stop** button. If the iOS firmware takes a long time to download on your platform, you can copy the download link by clicking the **Copy** option.
 
 ![drfone unlock screen ios firmware download](https://images.wondershare.com/drfone/guide/unlock-ios-screen-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 6:** After a successful download, the iOS firmware is checked and shown on the next screen. Select the **Unlock Now** option again to proceed with the unlocking procedure. A confirmation popup displays, requesting you to confirm the action. Enter the unlock code and press the **Unlock** button to continue.
 
@@ -558,13 +598,6 @@ Outlined below is the step-by-step guide on how to use Dr.Fone – Screen Unlock
 - **Step 8:** Click the **Done** button once the iDevice has been unlocked. If you're still stuck with a locked iPhone, iPad, or iPod, select **Try Again** to retry the process.
 
 ![drfone unlock screen ios unlock now](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 By using Dr.Fone - Screen Unlock (iOS), you can regain access to your iOS device and continue with the process of changing your Apple ID email address hassle-free. It's a reliable and user-friendly solution that ensures you can enjoy the benefits of the new email address without losing any of your precious data.
 
@@ -594,5 +627,23 @@ But what if you're locked out of your iOS device? Don't fret; Dr.Fone - Screen U
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/rom-filming-to-fame-discovering-the-top-10-ladies-on-youtube/"><u>[New] From Filming to Fame Discovering the Top 10 Ladies on YouTube</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-crossing-into-a-shared-tiktok-space-easy-ways/"><u>[Updated] In 2024, Crossing Into a Shared TikTok Space Easy Ways</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-zte-nubia-z60-ultra-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset ZTE Nubia Z60 Ultra Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-lava-yuva-2-pro-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Lava Yuva 2 Pro Mirror Screen to PC? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-overcome-the-tricky-windows-11-update-issue-error-code-0x802-groggy/"><u>How to Overcome the Tricky Windows 11 Update Issue - Error Code 0X802 Groggy</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-15-pro-passcode-not-working-drfone-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 15 Pro Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-iphone-15-pro-max-when-phone-is-broken-drfone-by-drfone-ios/"><u>In 2024, How to Turn Off Find My iPhone 15 Pro Max when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 11 Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-mini-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 mini Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone SE Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/27971053-in-2024-top-6-youtube-outro-makers-lots-of-free-options/"><u>In 2024, Top 6 YouTube Outro Makers-Lots of FREE Options</u></a></li>
+<li><a href="https://fox-that.techidaily.com/top-10-swift-solutions-get-your-iphone-and-ipad-widgets-running-smoothly/"><u>Top 10 Swift Solutions: Get Your iPhone & iPad Widgets Running Smoothly</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-airtag-gadgets-of-2024-comprehensive-reviews-by-tech-experts-zdnet/"><u>Top-Rated AirTag Gadgets of 2024: Comprehensive Reviews by Tech Experts | ZDNet</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/trouble-with-apple-iphone-11-pro-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with Apple iPhone 11 Pro Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/trouble-with-iphone-12-pro-max-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with iPhone 12 Pro Max Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-handbook-for-morphvox-transformers/"><u>Ultimate Handbook for MorphVOX Transformers</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Beat the Blackout! A Step-by-Step Fix for Call of Duty: WWII's Screen Issues on PC"
-date: 2024-10-28T02:32:55.651Z
-updated: 2024-10-31T21:40:36.256Z
+date: 2024-11-03T05:28:55.907Z
+updated: 2024-11-06T16:40:05.846Z
 tags:
   - win11
   - win10
@@ -33,10 +33,10 @@ thumbnail: https://thmb.techidaily.com/2ba5849aea90d4e5d7bbd18adc2a2c9c0f1eeac29
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 1: Check if your PC meets the system requirements for Titanfall 2
@@ -93,25 +93,19 @@ Below are the system requirements for Titanfall 2:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen-1.png)
 3. Click **Update** next to your graphics card to automatically download the correct version of its driver, then you can install it manually.  
 
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system  
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Perform a Windows update
 
@@ -121,16 +115,23 @@ Below are the system requirements for Titanfall 2:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/update1.jpg)
 2. Click**Check for updates** . Windows will start searching for available updates. If there are any, Windows will automatically download and install the updates.  
 
-![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
+
  Run Titanfall 2 again after Windows installed the latest updates. If there is no updates available, or if the game still keeps crashing after you installed the latest Windows updates, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Install the latest Titanfall 2 patch
 
@@ -148,6 +149,13 @@ Below are the system requirements for Titanfall 2:
 
  Launch the game again to see if Titanfall 2 would keep crashing. If not, congratulations! You’ve fixed this issue; if this issue persists, don’t worry. Try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Repair Titanfall 2
 
  Corrupted games files may also crash Titanfall 2\. In this case, the “Repair Game” feature in Origin may help you resolve the game crashing issues. You can follow the steps below to repair Titanfall 2:
@@ -156,6 +164,13 @@ Below are the system requirements for Titanfall 2:
 2. **Right-click** on the game tile of Titanfall 2.
 3. Select**Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/repair.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  When the repairing process completed, launch Titanfall 2 again to see if you can play the game without crashes. If Titanfall 2 still keeps crashing, try the next fix,below.
 
@@ -170,56 +185,23 @@ Below are the system requirements for Titanfall 2:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 
-<!-- affiliate ads begin -->
-<span id="1993651">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
-
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Restart** your PC and run Titanfall 2 to check whether the problem reappears. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software. After enabling each services, you need to restart your PC to apply the changes.
 
@@ -260,19 +242,20 @@ Below are the system requirements for Titanfall 2:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-forget-your-finstas-quickly-iosandroid-advice/"><u>[New] 2024 Approved Forget Your Finstas Quickly IOS/Android Advice</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-spreading-beauty-wisdom-setting-up-your-vloggers-virtual-space/"><u>[Updated] 2024 Approved Spreading Beauty Wisdom Setting Up Your Vlogger's Virtual Space</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-jumpstart-your-day-top-10-motivational-feel-good-flicks-for-2024/"><u>[Updated] Jumpstart Your Day Top 10 Motivational Feel-Good Flicks for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unlock-the-potential-of-still-photos-through-video-creation-in-pixiz/"><u>2024 Approved Unlock the Potential of Still Photos Through Video Creation in Pixiz</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-8-plus-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-8-drfone-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-13-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone 13? Learn All 4 Methods | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-6-plus-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-13-with-a-mask-on-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 with a Mask On | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-enrich-your-music-the-ultimate-photo-audio-integration-guide-sonic-visualization/"><u>New In 2024, Enrich Your Music The Ultimate Photo-Audio Integration Guide Sonic Visualization</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/overcoming-frequent-freezes-solutions-for-immortals-fenynk-rising-gameplay-issues/"><u>Overcoming Frequent Freezes: Solutions for Immortals' Fenynk Rising Gameplay Issues</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/performers-in-the-world-of-web-videos-for-2024/"><u>Peak Performers in the World of Web Videos for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/quintessential-writing-across-the-movie-matrix-for-2024/"><u>Quintessential Writing Across the Movie Matrix for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/social-networking-evolved-fb-launches-next-gen-oversight-tools/"><u>Social Networking Evolved: FB Launches Next-Gen Oversight Tools</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-navigating-the-process-windows-movie-maker-content-on-vimeo-for-2024/"><u>[New] Navigating the Process Windows Movie Maker Content on Vimeo for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-the-secret-sauce-to-instagram-success-with-engaging-puzzles/"><u>[Updated] 2024 Approved The Secret Sauce to Instagram Success with Engaging Puzzles</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-small-companys-guide-to-the-safest-online-chat-services/"><u>[Updated] Small Company's Guide to the Safest Online Chat Services</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-tricks-to-control-music-paceplay-in-spotify/"><u>2024 Approved Top Tricks to Control Music Paceplay in Spotify</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/essential-steps-for-repairing-your-skype-mic-on-windows-11-systems/"><u>Essential Steps for Repairing Your Skype Mic on Windows 11 Systems</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-11-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/experience-the-future-top-4k-video-demos-you-wont-want-to-miss-for-2024/"><u>Experience the Future Top 4K Video Demos You Wont Want to Miss for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-11-pro-drfone-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-lock-apps-on-nokia-xr21-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Nokia XR21 to Protect Your Individual Information</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-14-pro-without-itunes-drfone-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone 14 Pro Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-14-pro-max-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone 14 Pro Max When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-did-your-apple-iphone-xs-max-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>In 2024, Did Your Apple iPhone XS Max Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-13ipad-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone 13/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-6s-plus-drfone-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/top-rated-small-form-factor-gaming-rigs-ultimate-choices/"><u>Top-Rated Small Form Factor Gaming Rigs: Ultimate Choices</u></a></li>
 </ul></div>
 

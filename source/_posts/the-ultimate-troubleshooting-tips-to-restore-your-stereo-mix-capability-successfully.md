@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Troubleshooting Tips to Restore Your Stereo Mix Capability Successfully
-date: 2024-10-29T05:21:11.919Z
-updated: 2024-10-31T19:01:37.189Z
+date: 2024-11-04T17:01:20.280Z
+updated: 2024-11-07T01:01:50.226Z
 tags:
   - win11
   - win10
@@ -45,13 +45,6 @@ thumbnail: https://thmb.techidaily.com/81ebbf817b363fd779177ff51390b7d133960a108
 
  After confirming that your audio device is not the problem, go ahead with the fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Check the Voice Chat settings
 
  Some players found that the voice chat setting seems to carry over from Steam to console clients. This means that if you have ever logged into the game through Steam and disabled voice chat, then you may encounter the issue of in-game voice chat not working on your console. To fix this problem, you may have to log into the game through Steam and re-enable voice chat in settings. Here’s how:
@@ -65,13 +58,6 @@ Now check if voice chat functions properly.
 
  If this method doesn’t solve your problem, simply continue to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Check your Stadia or Windows 10 Privacy Settings
 
  If you play Destiny 2 on Stadia or Windows 10, make sure your privacy settings are configured properly to allow the game to access your microphone. Here’s how:
@@ -83,6 +69,13 @@ Now check if voice chat functions properly.
 3. Ensure that “**Who can send you voice chat and party invites** ” is not set to Private.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/stadia-privacy-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Windows 10
 
 1. If Destiny 2 is open, close the game entirely.
@@ -91,15 +84,15 @@ Now check if voice chat functions properly.
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-ms-settings-privacy-microphone.jpg)
 4. Under**Allow apps to access your microphone** , make sure the toggle is set to**ON** . If not, you can click the**Change** button above to turn it on.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/allow-apps-to-access-your-microphone.jpg)
 5. Scroll down the list of apps below that toggle to find**Destiny 2** . Make sure it is also toggled to**ON** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6. **Relaunch** the game and check if the in-game voice chat is working.
 
@@ -124,17 +117,17 @@ If this fix doesn’t do the trick, move on to the next one.
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-scan.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you’re not ready to buy the Pro version, Driver Easy offers a 7-day free trial which includes access to all the Pro features such as high-speed download and one-click install. You won’t be charged anything until your 7-day trial has ended.)  
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/05/de-update-1.png)
 4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -151,13 +144,6 @@ If this solution doesn’t work for you, check out the next fix.
  Go to in-game sound settings, then hold the**square** button to reset it to default.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/ps4-square.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Xbox:**
 
  Go to in-game sound settings, then select the “**reset to default** ” button in the bottom right.
@@ -165,6 +151,13 @@ If this solution doesn’t work for you, check out the next fix.
 Now you can check if the voice chat feature works properly in Destiny 2.
 
 If this method still gives you no luck, take a look at the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2141688/17094" target="_top" id="2141688">
+  <img src="//a.impactradius-go.com/display-ad/17094-2141688" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluetties.sjv.io/i/5597632/2141688/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Check your sound settings (PC)
 
@@ -174,11 +167,32 @@ If this method still gives you no luck, take a look at the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/open-volume-mixer-1.jpg)
 2. You’ll see a set of volume controls for your devices. Make sure none of them are muted.  
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/volume-mixer.jpg)
 3. Right-click the**Speakers** icon again and select**Sounds** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/sounds.jpg)
 4. Choose the**Playback** tab,**select the headphones** you want to use, and click Set Default.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/headphones-set-default.jpg)
 5. Navigate to the Recording tab, select the microphone you want to use, and click**Set Default** .  
@@ -186,25 +200,11 @@ If this method still gives you no luck, take a look at the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/microphone-set-default.jpg)
 6. Click**OK** to save changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/ok.jpg)
 
  After everything is set up correctly, restart Destiny 2 to see if your audio issue is resolved.
 
 If not, continue to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Restart Windows Audio Service
 
@@ -217,18 +217,18 @@ If not, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/restart-windows-audio.jpg)
 3. Check that your microphone is now working.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. If your microphone doesn’t work, right-click**Windows Audio** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/windows-audio-properties.jpg)
 5. In the Windows Audio properties window, check if the**Startup type** is set to Automatic. If not,**set it to Automatic** and click**OK** to save the changes.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/audio-automatic-ok.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once done, restart your computer and launch Destiny 2 to see if this solves the problem.
 
@@ -261,22 +261,21 @@ If the issue remains, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-charting-a-course-through-youtubes-copyright-maze/"><u>[New] In 2024, Charting a Course Through YouTube's Copyright Maze</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-no-more-nausea-essential-tricks-for-htc-vive/"><u>[New] In 2024, No More Nausea Essential Tricks for HTC Vive</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/haring-stories-that-resonate-with-a-digital-audience-yt/"><u>[New] Sharing Stories that Resonate with a Digital Audience YT.</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-syncopating-scenes-and-beats-the-tiktok-video-guide-for-2024/"><u>[Updated] Syncopating Scenes & Beats The TikTok Video Guide for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-lustrous-frameworks-structuring-illumination-in-film/"><u>2024 Approved Lustrous Frameworks Structuring Illumination in Film</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-x-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone X without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-11-pro-max-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone 11 Pro Max Without a Passcode | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-g2-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo G2 to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-8-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone 8 Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-6s-without-itunes-drfone-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 6s Without iTunes | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-iphone-13-mini-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 13 mini After Forgetting the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-11-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone 11 Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-pro-max-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Pro Max Passcode Screen? | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/journey-through-podcast-land-iphoneipad-edition/"><u>Journey Through Podcast Land IPhone/iPad Edition</u></a></li>
-<li><a href="https://solve-news.techidaily.com/qualitatsvollendung-top-10-wege-um-mkv-zu-mp4-mit-schneller-konvertierung-umzuwandeln/"><u>Qualitätsvollendung: Top 10 Wege, Um MKV Zu MP4 Mit Schneller Konvertierung Umzuwandeln</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlock-your-disabled-apple-iphone-se-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone SE Without iTunes in 5 Ways | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/why-does-my-nokia-c12-plus-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Nokia C12 Plus Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-top-ranked-sources-for-embedding-text-visual-effects-for-2024/"><u>[New] Top Ranked Sources for Embedding Text Visual Effects for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-in-2024-enhancing-engagement-the-ultimate-guide-for-tiktok-unboxings/"><u>[Updated] In 2024, Enhancing Engagement The Ultimate Guide for TikTok Unboxings</u></a></li>
+<li><a href="https://win-info.techidaily.com/uefigptssd/"><u>「高効率で安全：UEFI/GPTフォーマットのSSDへの完全なクローニング手順」</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/15-top-reliability-software-tools-for-your-business-complimentary-and-paid-options/"><u>15 Top Reliability Software Tools for Your Business : Complimentary and Paid Options</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-6-plus-and-ipad-securely-drfone-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 6 Plus and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-iphone-7-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For iPhone 7 Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-8-drfone-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-xs-max-without-a-passcode-drfone-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone XS Max Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-6s-plus-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone 6s Plus After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-the-language-gurus-selection-of-top-30-tools-to-translate-videos/"><u>In 2024, The Language Guru’s Selection of Top 30 Tools to Translate Videos</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-zte-nubia-z60-ultra-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 ZTE Nubia Z60 Ultra Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-apple-iphone-15-plus-passcode-without-a-computer-drfone-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 15 Plus Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-apple-iphone-7-5-ways-to-get-into-a-locked-apple-iphone-7-drfone-by-drfone-ios/"><u>Locked Out of Apple iPhone 7? 5 Ways to get into a Locked Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/streamline-your-digital-library-using-funimate/"><u>Streamline Your Digital Library Using Funimate</u></a></li>
+<li><a href="https://some-tips.techidaily.com/text-animations-unleashed-try-these-14-dynamic-showcases-for-2024/"><u>Text Animations Unleashed Try These 14 Dynamic Showcases for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-the-nintendo-switch-dominating-portable-entertainment/"><u>The Ultimate Guide to the Nintendo Switch: Dominating Portable Entertainment</u></a></li>
 </ul></div>
 

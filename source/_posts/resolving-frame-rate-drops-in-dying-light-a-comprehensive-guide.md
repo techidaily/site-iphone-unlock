@@ -1,7 +1,7 @@
 ---
 title: "Resolving Frame Rate Drops in Dying Light: A Comprehensive Guide"
-date: 2024-10-28T07:24:16.666Z
-updated: 2024-10-31T18:06:43.874Z
+date: 2024-11-04T21:00:31.279Z
+updated: 2024-11-06T19:21:40.953Z
 tags:
   - win11
   - win10
@@ -55,16 +55,22 @@ thumbnail: https://thmb.techidaily.com/c8c0a761aab973c79a26bc00df92df723a573173c
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and [manually install them, the normal Windows way](https://tools.techidaily.com/drivereasy/download/) .)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -114,13 +120,6 @@ Simply follow the steps below to modify Windows 10 OS graphics settings:
 4. Once added, click the**Options** button under re8.exe, then select **High performance** and click **Save** .  
 ![Windows 10 graphics settings high performance](https://images.drivereasy.com/wp-content/uploads/2021/05/Windows-10-graphics-settings-high-performance.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484939/16446" target="_top" id="1484939">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484939" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484939/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Restart the game to see if it runs smoothly. If not, you may need to move on and modify the in-game graphics settings.
 
 ### Step 3: Modify in-game graphics settings
@@ -130,6 +129,19 @@ Simply follow the steps below to modify Windows 10 OS graphics settings:
 1. Launch**Resident Evil Village** , click**Start the game** and go to**Options** \>**Display** .
 2. Tweak the settings one by one until you find the graphics profile that suits your hardware and ganrantees a good gaming experience.  
 ![Resident Evil Village in-game graphics settings](https://images.drivereasy.com/wp-content/uploads/2021/05/Resident-Evil-Village-in-game-graphics-settings.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Restart the game to check if the Resident Evil Village fps drops again. If this issue persists, try the next fix, below.
 
@@ -141,13 +153,6 @@ Simply follow the steps below to modify Windows 10 OS graphics settings:
 
  Run Resident Evil Village again to see whether the FPS is back to normal. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4: Disable the Steam Overlay
 
  If you have the Steam Overlay turned on and FPS drops while playing Resident Evil Village, just try disabling Steam Overlay for Resident Evil Village to see FPS increases. Here is how to do it:
@@ -158,14 +163,14 @@ Simply follow the steps below to modify Windows 10 OS graphics settings:
 
 ![Disable the Steam Overlay for Resident Evil Village](https://images.drivereasy.com/wp-content/uploads/2021/05/Disable-the-Steam-Overlay-for-Resident-Evil-Village.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Launch Resident Evil Village to see if the game runs smoothly. If the issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Set Resident Evil Village to High priority
 
@@ -178,7 +183,21 @@ To set Resident Evil Village to High priority:
 3. Navigate to the **Detail** tab. **Right-click** the **main process of Resident Evil Village** and select **High** .  
 ![Resident Evil Village high priority](https://images.drivereasy.com/wp-content/uploads/2021/05/Resident-Evil-Village-high-priority.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Restart the game to see if the in-game FPS improves. If the FPS is still the same, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Close resource-hogging apps
 
@@ -191,10 +210,10 @@ To set Resident Evil Village to High priority:
  Run Resident Evil Village to see if you can play the game smoothly. if not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 7: Set the Power Plan of your PC for high performance
@@ -210,21 +229,22 @@ To set Resident Evil Village to High priority:
 2. In the window that pops up, expand **Hide additional plans** and select **High performance** .  
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
 Launch Resident Evil Village to check if the in-game fps improves.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 8: Adjust your Windows system for the best performance
 
@@ -237,21 +257,7 @@ Launch Resident Evil Village to check if the in-game fps improves.
 ![Advanced Performance Settings](https://images.drivereasy.com/wp-content/uploads/2021/05/Advanced-Performance-Settings.jpg)
 3. Under the**Visual Effects** tab, select**Adjust for best performance** and click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Adjust Windows for best performance](https://images.drivereasy.com/wp-content/uploads/2021/05/Adjust-Windows-for-best-performance.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087409/7443" target="_top" id="2087409">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087409" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087409/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Launch Resident Evil Village to see if you get a better in-game fps.
 
@@ -281,20 +287,24 @@ Launch Resident Evil Village to see if you get a better in-game fps.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-sony-x1000d-vivid-full-action-cam-test/"><u>[Updated] 2024 Approved Sony X1000D Vivid - Full Action Cam Test</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-top-tips-for-webinar-preservation-without-hurdles-windows-macos/"><u>[Updated] 2024 Approved Top Tips for Webinar Preservation without Hurdles (Windows, macOS)</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-nintendo-switch-leading-capture-card-selections/"><u>[Updated] In 2024, Nintendo Switch Leading Capture Card Selections</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-top-16-best-free-video-players-for-windowsmac-pc/"><u>2024 Approved Top 16 Best Free Video Players for Windows/Mac PC</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/forgot-locked-apple-iphone-xs-max-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>Forgot Locked Apple iPhone XS Max Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-get-the-newest-amd-video-cards-driver-update-on-windows/"><u>How to Get the Newest AMD Video Cards Driver Update on Windows</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-infinix-note-30-vip-racing-edition-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Infinix Note 30 VIP Racing Edition without Losing Data | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-plus-with-a-mask-on-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 6s Plus with a Mask On | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-11-drfone-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone 11 | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-11-learn-all-4-methods-drfone-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone 11? Learn All 4 Methods | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-quick-and-effective-methods-to-save-instagram-stories/"><u>In 2024, Quick & Effective Methods to Save Instagram Stories</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-vivo-y27-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Vivo Y27 5G</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/iphone-11-pro-max-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>iPhone 11 Pro Max Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-samsung-galaxy-s24plus-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Samsung Galaxy S24+ Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-transforming-digital-art-with-free-versatile-lut-tools-for-2024/"><u>[Updated] Transforming Digital Art with Free, Versatile LUT Tools for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-decoding-youtube-analytics-insights-for-every-content-creator/"><u>2024 Approved Decoding YouTube Analytics Insights for Every Content Creator</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-cost-savings-in-electronics-projects-a-detailed-review-of-the-cytron-maker-uno-rp2040-board/"><u>Exploring Cost Savings in Electronics Projects: A Detailed Review of the Cytron Maker Uno RP2040 Board</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-15-pro-max-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix iPhone 15 Pro Max Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-oneplus-nord-n30-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset OnePlus Nord N30 5G phone? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-13-pro-max-drfone-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, Best Anti Tracker Software For Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-xr-lock-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone XR Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-apple-iphone-6-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone 6 Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-11-pro-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone 11 Pro Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-14-pro-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-stolen-apple-iphone-x-in-different-conditionsin-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Stolen Apple iPhone X In Different Conditionsin | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-trouble-with-iphone-14-plus-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>In 2024, Trouble with iPhone 14 Plus Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/masterclass-10-secrets-to-effective-livestreaming-cricket-games/"><u>Masterclass 10 Secrets to Effective Livestreaming Cricket Games</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/openai-explained-technology-and-impact-simplified/"><u>OpenAI Explained: Technology & Impact Simplified</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-11-pro-drfone-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-essentials-of-telecommunication-companies-for-smartphone-users/"><u>The Essentials of Telecommunication Companies for Smartphone Users</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-win1011-audio-error-xc00d36b4/"><u>Troubleshooting Win10/11 Audio Error XC00D36B4</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-solve-high-ram-consumption-in-windows-10/"><u>Ultimate Guide: Solve High RAM Consumption in Windows 10</u></a></li>
 </ul></div>
 

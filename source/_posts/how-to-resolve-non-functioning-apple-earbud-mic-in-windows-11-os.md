@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Non-Functioning Apple Earbud Mic in Windows 11 OS
-date: 2024-10-26T00:25:47.149Z
-updated: 2024-11-01T07:47:36.778Z
+date: 2024-11-01T22:30:56.401Z
+updated: 2024-11-06T22:41:05.189Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ thumbnail: https://thmb.techidaily.com/ce2c767b4ea66790422350863194f4cca1e1e1f1b
 
 ###
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure Microphone is set to On for Skype (Windows 10 users)
 
  If you’re running Skype on**Windows 10** , firstly please check if the Microphone is set to **On**  for Skype in the Privacy settings.
@@ -41,20 +48,13 @@ Follow these:
  If it’s Off, click it to switch to On.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e77b3c45.png)
 4. Log in Skype and check to see if your Microphone works.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ###
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Adjust the audio settings on Skype
@@ -64,10 +64,10 @@ Follow these:
 3. Click**Audio settings** on the left pane. Then set your Microphone device and un-tick**Automatically adjust microphone settings** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Click**Save** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59969244028ac.jpg)
@@ -85,19 +85,6 @@ Follow these:
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers. You sound driver is no exception.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992731451721.jpg)
 3. In the **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , Driver Easy will show you the latest display driver you’ll need to install. And you can update the drivers one by one using the   **Update** button.  But if you upgrade to the **[PRO Version](https://tools.techidaily.com/drivereasy/download/)** , you can update all your drivers with one click — **Update All** . ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c06e8e725.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Restart your computer and run Skype to see if your Microphone works.
 
 ###
@@ -108,6 +95,13 @@ Follow these:
 2. Type**services.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996978261d98.png)
 3. Right-click on the **Windows Audio** service. Click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996976eeec58.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. Log in Skype and check to see if your Microphone works.
 
@@ -128,20 +122,17 @@ Follow these:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-precision-in-recording-windowsmaciosandroid-edition/"><u>[New] 2024 Approved Precision in Recording Windows/Mac/iOS/Android Edition</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-the-complete-sphere-unveiled-in-film-tech/"><u>[New] The Complete Sphere Unveiled in Film Tech</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-se-2022-without-itunes-drfone-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone SE (2022) Without iTunes | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-12-pro-max-drfone-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/convert-images-faster-switch-your-jpeg-photos-to-bmp-format-no-cost/"><u>Convert Images Faster: Switch Your JPEG Photos to BMP Format - No Cost!</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/convertissez-sans-frais-votre-video-wmv-en-mp4-maintenant-avec-une-qualite-pres-de-98/"><u>Convertissez Sans Frais Votre Vidéo WMV en MP4 Maintenant Avec Une Qualité Près De 98%</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-on-iphone-13-mini-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account On iPhone 13 mini?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-12-pro-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 12 Pro? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6-plus-without-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6 Plus Without Passcode? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-se-properly-drfone-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone SE Properly | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-se-2020-prevention-and-solution-drfone-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone SE (2020) Prevention & Solution | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-swift-transformation-video-aspects-to-mac-standard/"><u>In 2024, Swift Transformation Video Aspects to Mac Standard</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1722993376005-resolve-league-of-legends-disruptions-fast-with-these-tips/"><u>Resolve League of Legends Disruptions Fast with These Tips!</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-lava-blaze-2-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Lava Blaze 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-11-pro-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>Unlock iPhone 11 Pro With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-4k-camera-guide-low-cost-options-(1000/"><u>[New] 4K Camera Guide Low-Cost Options <$1,000</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-unlock-your-tiktok-experience-with-top-7-emoji-hacks/"><u>[New] In 2024, Unlock Your TikTok Experience with Top 7 Emoji Hacks</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-boosting-your-content-reach-with-eye-catching-youtube-video-thumbnails/"><u>[Updated] 2024 Approved Boosting Your Content Reach with Eye-Catching YouTube Video Thumbnails</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-innovative-techniques-for-final-frame-enhancements-on-vimeo/"><u>2024 Approved Innovative Techniques for Final Frame Enhancements on Vimeo</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-se-2020-drfone-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-12-pro-max-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your iPhone 12 Pro Max Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-12-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-7-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 7 Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-optimize-video-publishing-timing-for-maximum-views/"><u>In 2024, Optimize Video Publishing Timing for Maximum Views</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/sage-select-best-general-knowledge-channels-for-2024/"><u>Sage Select Best General Knowledge Channels for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/trouble-with-apple-iphone-15-pro-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with Apple iPhone 15 Pro Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
 </ul></div>
 

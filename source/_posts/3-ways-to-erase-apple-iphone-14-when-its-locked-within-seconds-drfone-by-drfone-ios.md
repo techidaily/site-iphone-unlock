@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Erase Apple iPhone 14 When Its Locked Within Seconds | Dr.fone
-date: 2024-09-13T17:00:34.362Z
-updated: 2024-09-17T16:06:03.665Z
+date: 2024-11-04T05:25:56.598Z
+updated: 2024-11-07T04:43:51.731Z
 tags: 
   - unlock
   - remove screen lock
@@ -22,6 +22,13 @@ Over the last few years, Apple has made remarkable progress with its flagship iP
 
 One of the best ways to wipe locked iPhone is by using [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) tool. It is an extremely secure and reliable application. It is already compatible with every leading version of iOS and runs on almost all major iOS devices. Available for both Windows and Mac, the tool can be used to remove activation lock and Apple ID. The tool also provides an easy-to-use interface that can help you reset [the activation lock](https://drfone.wondershare.com/icloud/bypass-icloud-activation.html) on your device.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826">
+  <img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Dr.Fone - Screen Unlock (iOS)
 
 Erase the data of an iPhone even if it is locked
@@ -40,6 +47,13 @@ To learn how to erase iPhone when locked, follow these steps:
 Start by downloading Dr.Fone - Screen Unlock (iOS) from its official website. Install it on your Windows or Mac and connect your Apple iPhone 14 to the system whenever you wish to resolve an issue with it. After launching the application, click on the “Screen Unlock” option from the welcome screen.
 
 ![erase iphone when locked-Dr.Fone toolkit](https://images.wondershare.com/drfone/guide/drfone-home.png "Dr.Fone toolkit")
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2. Click Start button.**
 
@@ -99,13 +113,6 @@ If you are looking for an alternative way to learn how to erase iPhone when lock
 
 ![erase iphone when locked-restore iphone](https://images.wondershare.com/drfone/article/2017/07/14993649291284.jpg "restore iphone")
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: Erase locked iPhone by Find My iPhone
 
 If you haven’t already taken a backup of your phone, then you might find it hard to recover it with iTunes. Another popular way to wipe locked iPhone is by using the Find My iPhone tool. This is mostly implemented in case of a stolen or lost device. One of the best features of Find My iPhone is that it can be used to reset your device remotely. With this, you can protect your personal data without much trouble. Implement these steps to learn how to erase iPhone when locked using Find My iPhone.
@@ -123,6 +130,13 @@ If you haven’t already taken a backup of your phone, then you might find it ha
 Confirm your choice and wipe locked iPhone remotely using the Find My iPhone feature on iCloud.
 
 After following this informative guide, you would learn how to wipe a locked iPhone without any trouble. Go ahead and pick your preferred option to wipe locked iPhone. We recommend using Dr.Fone - Screen Unlock (iOS) to resolve this issue securely. Though, if you wish to do it remotely, then you can also give Find My iPhone a try as well. If you are familiar with any other reliable method, please let us know how to erase iPhone when locked in the comments below.
+
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Unlock Apple iPhone 14 Passcode without iTunes without Knowing Passcode?
 
@@ -214,13 +228,6 @@ If none of the above-mentioned solutions would work, then you can always choose 
 
 ![how to unlock Apple iPhone 14 passcode without itunes-put Apple iPhone 14 in recovery mode](https://images.wondershare.com/drfone/article/2017/09/15060132012488.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 2\. Now, launch iTunes on your Mac or Windows system. Afterward, press and hold the Home button on your Apple iPhone 14. While holding the Home button, connect it to your system.
 
 3\. You will get an iTunes symbol on the screen. In no time, iTunes will also detect your device.
@@ -269,18 +276,18 @@ Screen Time Restrictions
 
 ![screen time settings on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-03.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886069/19272" target="_top" id="1886069">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886069" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886069/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 MDM Profile Restrictions
 
 If the Auto-Lock is greyed out on your iPad or iPhone and you use it for work or school, a Mobile Device Management (MDM) profile might be the reason. This profile restricts settings, including Auto-Lock. To fix this, contact your IT administrator and ask if they can [<u>adjust the MDM profile settings</u>](https://drfone.wondershare.com/unlock/mdm-bypass-free.html).
 
 ![setup remote management on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-04.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Alright, you know the possible reasons why the Auto-Lock option is not working on your iOS device. Still, you might be wondering how to fix the Auto-Lock greyed-out issue. Below are several ways to get your iPad or iPhone Auto-Lock working normally again.
 
@@ -293,19 +300,6 @@ Your **iPhone Auto-Lock greyed out** because Low Power Mode limits background ac
 - **Step 3:** Turn off the **Low Power Mode**. Now, the greyed-out Auto-Lock option in Settings should be available again.
 
 ![iphone turn off low power mode](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-05.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Low Battery Mode can stretch your battery life further. But if you need your screen to stay on longer, like while reading an article or watching a video, you can turn it off. It lets you adjust the screen timeout in ****Settings**** so it stays awake for as long as you like.
 
@@ -349,6 +343,13 @@ If your IT team gives the green light, you might also be able to remove the netw
 
 ![remove mdm profile on ipad](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-08.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If the option is unavailable, only the person who used Apple Configurator 2 or handles your company's mobile device management platform can remove it.
 
 Fix No.5: Use Dr.Fone To Bypass MDM Lock Without Data Loss
@@ -383,21 +384,22 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 ![start to bypass mdm](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-3.png)
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 - **Step 5:** If prompted, go to your device's **Settings** > **Apple ID** > **iCloud** and turn off the **Find My** feature. Next, click **OK** to initiate the MDM bypass.
 
 ![dr.fone guide turn off find my](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 6:** The software will display the progress of the bypass. Wait for it to complete.
 
@@ -436,6 +438,13 @@ Here's **how to change Auto-Lock on iPhone** devices:
 
 ![change auto-lock on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-18.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 There you have it. This guide has equipped you with the knowledge and solutions to fix the **Auto-Lock greyed out** on your Apple iPhone 14 or iPad devices. From identifying the reasons like Low Power Mode and MDM configurations to implementing actionable fixes, you can now change your screen timeout. So, turn off those restrictions, remove MDM profiles, and head back to Settings.
@@ -456,5 +465,20 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/resolved-end-excessive-heat-and-reduce-cpu-pressure-the-complete-guide-on-dealing-with-high-load-due-to-shell-infrastructures/"><u>[Resolved] End Excessive Heat & Reduce CPU Pressure - The Complete Guide on Dealing with High Load Due To Shell Infrastructures.</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-erase-iphone-xs-max-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>3 Ways to Erase iPhone XS Max When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-15-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 15 in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/best-methods-for-conducting-an-acer-system-restore-on-windows-11-top-3-techniques/"><u>Best Methods for Conducting an Acer System Restore on Windows 11: Top 3 Techniques</u></a></li>
+<li><a href="https://fox-http.techidaily.com/fusing-images-online-and-desktop-harmoniously/"><u>Fusing Images Online & Desktop Harmoniously</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-iphone-13-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your iPhone 13 Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-xs-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone XS Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-8-plus-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-13-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 13 Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-the-mechanics-scheduling-activities-to-avoid-unwanted-windows-11-updates/"><u>Mastering the Mechanics: Scheduling Activities to Avoid Unwanted Windows 11 Updates</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/next-gen-streaming-enable-av1-codec-on-youtube-for-2024/"><u>Next-Gen Streaming Enable AV1 Codec on YouTube for 2024</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/selection-of-fire-suppression-agents-must-consider-both-effectiveness-against-specific-fire-classes-and-potential-damage-to-assets-or-equipment/"><u>Selection of Fire Suppression Agents Must Consider Both Effectiveness Against Specific Fire Classes and Potential Damage to Assets or Equipment.</u></a></li>
+<li><a href="https://extra-support.techidaily.com/step-by-step-navigating-the-full-spectrum-of-storage-in-the-adobe-cloud-ecosystem-for-2024/"><u>Step by Step Navigating the Full Spectrum of Storage in the Adobe Cloud Ecosystem for 2024</u></a></li>
+</ul></div>
 

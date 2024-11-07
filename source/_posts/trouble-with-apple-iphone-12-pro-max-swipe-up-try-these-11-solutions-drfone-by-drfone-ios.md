@@ -1,7 +1,7 @@
 ---
 title: Trouble with Apple iPhone 12 Pro Max Swipe-Up? Try These 11 Solutions | Dr.fone
-date: 2024-10-31T06:50:02.253Z
-updated: 2024-11-01T08:29:23.584Z
+date: 2024-10-31T20:08:38.937Z
+updated: 2024-11-07T00:14:06.630Z
 tags: 
   - unlock
   - remove screen lock
@@ -19,6 +19,13 @@ thumbnail: https://thmb.techidaily.com/3ce7ce4cef66cdb03e7ac7e019dea8d112e1795f8
 ## Part 1: Why Is My iPhone Screen Not Swiping?
 
 The iPhone's swipe-up gesture serves as a fundamental navigation tool. It allows users to access various functions and features swiftly. Yet, when this functionality encounters issues, it can be perplexing and disruptive. That's why learning the reasons behind **I can’t swipe up on my iPhone** is essential. Summarized below are some of the common reasons behind frozen swipe-up issues:
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Software Glitches
 
@@ -86,6 +93,13 @@ Select the Apple iPhone 12 Pro Max device type from the available options and se
 
 ![choose to repair ios](https://images.wondershare.com/drfone/guide/ios-system-repair-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3: Select iOS Firmware to Initiate the Repair Process**
 
 After that, you'll reach a window showing different iOS firmware alternatives. Pick any as per your preferences and click "Download." Once the download is complete, click "Repair Now" and "Done" to end the repair process.
@@ -114,13 +128,6 @@ Performing a force restart, also known as a hard reset, can troubleshoot minor s
 
 Sometimes, an unresponsive swipe-up gesture on your Apple iPhone 12 Pro Max could be due to interference caused by a protective cover or case. The cover might be too thick, improperly aligned, or interfering with the touch sensitivity of the screen. Gently remove the protective cover or case from your Apple iPhone 12 Pro Max. Inspect the screen for any dust, debris, or smudges while the cover is removed. Utilize a clean, soft cloth to wipe the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4. Clean iPhone Screen or Remove Screen Protector
 
 An unresponsive swipe-up gesture on your Apple iPhone 12 Pro Max might be due to dirt, smudges, or interference caused by a screen protector. Power off your Apple iPhone 12 Pro Max to prevent accidental taps during the cleaning process. Carefully clean the screen by softly rubbing it with a fresh and dry microfiber cloth. In addition, ensure the cloth is soft and free from any debris that might scratch the screen.
@@ -144,13 +151,6 @@ Are you experiencing issues with accessing the Control Center via the swipe-up g
 **Instructions:** Navigate to Settings on your Apple iPhone 12 Pro Max and access "Control Center." On the following screen, activate the toggle next to "Access Within Apps." It will allow you to access the Control Center when using apps.
 
 ![enable access within apps option](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7. Update to the Latest iOS Version
 
@@ -196,6 +196,13 @@ Reduce Motion is an accessibility setting on iPhones designed to reduce animatio
 
 ![navigate motion features in accessibility](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-14.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2.** Now, on the following screen, turn off the toggle next to the "Reduce Motion" option. Then, go and check if the swipe-up gesture issue is fixed or not.
 
 ![turn off reduce motion switch](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-15.jpg)
@@ -212,30 +219,9 @@ Resetting all settings on your Apple iPhone 12 Pro Max can help resolve software
 
 ![choose to reset all settings](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-17.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3: Unlock iPhone Without Swiping Up
 
 Encountering **swipe not working on iPhone** can sometimes lead to difficulties. This is especially the case in unlocking the Apple iPhone 12 Pro Max device or accessing essential functions. In such scenarios, using [Wondershare Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) provides a reliable solution. It bypasses the swipe-up need and regains access to your Apple iPhone 12 Pro Max without relying on the problematic gesture. This tool offers a solution to unlock iPhone/iPad devices without the passcode.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -291,6 +277,13 @@ Accidents happen, and sometimes they take a toll on your Apple iPhone 12 Pro Max
 But fear not, for there are ways to **unlock an iPhone without a Home button**. This guide explores ways **how to open an iPhone without a Home button**. In case of a Home button malfunction, explore these quick and easy fixes for a reliable workaround. Read on to learn more.
 
 ![user pressing iphone Home button](https://images.wondershare.com/drfone/article/2024/01/unlock-iphone-without-home-button-01.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1. 7 Ways To Unlock iPhone Without Home Button
 
@@ -385,6 +378,13 @@ For Mac or Windows users, both Finder and iTunes can **unlock your Apple iPhone 
 
 - **Step 2**: A window in Finder will prompt you to choose between restoring or updating; click **Restore**. Confirm your action by tapping **Restore** again. Upon completion, your Apple iPhone 12 Pro Max will be unlocked without the Home button.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 7: Unlock iPhone via iCloud
 
 If none of the methods work or Dr.Fone is unavailable to you for some reason, then you can use iCloud. To **unlock your Apple iPhone 12 Pro Max without the Home button**, visit iCloud.com and sign in with your Apple ID. Next, go to **Find My iPhone**, select your device, and choose **Erase iPhone** to unlock it remotely.
@@ -433,6 +433,19 @@ There are still chances that you could forget your Apple iPhone 12 Pro Max backu
 
 ![forget backup password](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: Overview of iPhone Backup Password
 
 The Apple iPhone 12 Pro Max is secured using a combination that is the backup password. Passwords, Wi-Fi settings, browser history, and health records are sensitive information that an encrypted device may back up.
@@ -460,13 +473,6 @@ At this point, a USB cable should be used to connect the Apple iPhone 12 Pro Max
 Select the Encrypt Local Backup option in the Backups section directly from either the Summary or General tab of the Backups section.
 
 ![encryption](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 4:** Create a Password
 
@@ -508,13 +514,6 @@ Use a USB cable to link your Apple iPhone 12 Pro Max to your PC. Look at the sma
 
 Proceed to the **Summary Page** and make your selection there for **The Computer.** After selecting **Encrypt Local Backup**, you must create a new password. After you have pressed the **Backup Now** option, wait for iTunes to create a new password for you.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105873/7443" target="_top" id="2105873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105873" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Find your password in the macOS keychain
 
 **Step 1:** Launch Keychain Access by going to **Application** \> **Utilities** \> **Keychain Access** once your Mac has booted up.
@@ -536,6 +535,13 @@ Navigate to the **Apps & Data menu** and choose the **Restore from iCloud Backup
 After successfully signing in with your Apple ID, choose **Backup**.
 
 ![restore from icloud](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 During the time that the system is being restored, it is essential that the Wi-Fi connection remains active.
 
@@ -565,16 +571,16 @@ Before you click **Remove Now**, please carefully read the following three notes
 
 ![checking](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 5:** The encryption on the iTunes backup has been removed successfully! Now you can easily back up, restore, move, or wipe your device.
 
 ![removed](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 3: 3 Tricks to Help You Remember the Passwords
 
@@ -618,24 +624,18 @@ However, no matter how secure your gadget is, password leakage may happen, sendi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-thors-odyssey-the-last-stand-for-2024/"><u>[New] Thor’s Odyssey The Last Stand for 2024</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-fiscally-friendly-action-footage-gear/"><u>[Updated] 2024 Approved Fiscally-Friendly Action Footage Gear</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-extract-translate-and-save-youtube-subtitles-for-free/"><u>[Updated] In 2024, Extract, Translate & Save YouTube Subtitles for FREE!</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-15-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 15 Without a Passcode | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/essential-vlc-knowledge-for-seamless-mac-media-playback/"><u>Essential VLC Knowledge for Seamless Mac Media Playback</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-up-and-running-fast-downloading-your-hp-officejet-grovedriver-software/"><u>Get Up and Running Fast: Downloading Your HP OfficeJet groveDriver Software</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-15-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-fix-the-final-fantasy-xiv-pc-game-crashes-issue/"><u>How to Fix the 'Final Fantasy XIV PC Game Crashes' Issue</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-14-plus-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 14 Plus Lock Screen with Notifications? | Dr.fone</u></a></li>
-<li><a href="https://media-tips.techidaily.com/how-to-stream-audio-and-video-from-mac-or-pc-to-apple-tv-using-airplay-in-various-formats/"><u>How to Stream Audio and Video From Mac or PC to Apple TV Using AirPlay in Various Formats</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-a24-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy A24 To Phone | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/how-to-update-or-downgrade-apple-iphone-12-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade Apple iPhone 12 Without Losing Anything? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabled-apple-iphone-6s-plus-how-to-unlock-a-disabled-apple-iphone-6s-plus-drfone-by-drfone-ios/"><u>In 2024, Disabled Apple iPhone 6s Plus How to Unlock a Disabled Apple iPhone 6s Plus? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-7-drfone-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-apple-iphone-se-2020-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone SE (2020) Backup Password? Heres What to Do | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-xr-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone XR After Forgetting my PIN Code? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-pro-max-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 15 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/tips-for-completely-removing-fb-alerts/"><u>Tips for Completely Removing Fb Alerts</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-cloud-marketplace-dissecting-cost-structures/"><u>[New] Cloud Marketplace Dissecting Cost Structures</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-eliminate-camera-sway-no-tripods-allowed/"><u>[Updated] 2024 Approved Eliminate Camera Sway No Tripods, Allowed!</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-mastering-channel-growth-the-5-key-youtube-strategies-for-2024/"><u>[Updated] Mastering Channel Growth The 5 Key YouTube Strategies for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/addressing-distorted-media-on-youtube-platform/"><u>Addressing Distorted Media on YouTube Platform</u></a></li>
+<li><a href="https://os-tips.techidaily.com/effective-solutions-repairing-your-devices-screen-and-speaker-after-water-exposure/"><u>Effective Solutions: Repairing Your Device's Screen and Speaker After Water Exposure</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-6s-plus-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 6s Plus Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-11-pro-max-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro Max without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-12-pro-max-drfone-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-trouble-with-iphone-15-pro-max-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>In 2024, Trouble with iPhone 15 Pro Max Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mastering-iphone-collages-essential-handy-guide/"><u>Mastering iPhone Collages Essential Handy Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/resolve-your-apple-iphone-11-pro-max-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your Apple iPhone 11 Pro Max Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/speedysnap-lingershot-videoclip/"><u>SpeedySnap LingerShot Videoclip</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-guide-mastering-windows-telnet-client/"><u>Step-by-Step Guide: Mastering Windows Telnet Client</u></a></li>
 </ul></div>
 

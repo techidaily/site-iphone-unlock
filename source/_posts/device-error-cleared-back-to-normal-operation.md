@@ -1,7 +1,7 @@
 ---
 title: Device Error Cleared - Back to Normal Operation
-date: 2024-10-26T04:09:28.043Z
-updated: 2024-10-31T23:44:00.516Z
+date: 2024-11-03T18:58:34.567Z
+updated: 2024-11-06T21:36:55.358Z
 tags:
   - win11
   - win10
@@ -26,13 +26,6 @@ If you encounter**This device is disabled. (Code 22)**in Device Manager, here ar
 3. [**Uninstall your device driver**](https://cowinaudio.pxf.io/pyx40e)
 4. **[Reset the BIOS settings](https://bluettius.sjv.io/dkpnv2)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 1: Enable your device driver
 
 Code 22 occurs usually because your device is manually disabled. Then manually enabling it should solve the problem. Here’s how to do so：
@@ -41,10 +34,10 @@ Code 22 occurs usually because your device is manually disabled. Then manually e
 2. Type **devmgmt.msc** and press**Enter**  to access Device Manager.  
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98e3f572c04.png)
@@ -55,6 +48,13 @@ If the problem persists, try the next fix.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your device driver
 
 Driver errors like Code 22 can often be fixed by updating device drivers. You can do so via Device Manager, or go to the device manufacturer’s official website to find the exactly right driver online, download it and install it step by step. If you don’t have the time, patience or computer skills to update your device driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)** . Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing.  You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 steps (and you get full support and a 30-day money back guarantee):
@@ -64,23 +64,16 @@ Driver errors like Code 22 can often be fixed by updating device drivers. You ca
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98ecd845a65.jpg)
 3. Click the **Update** button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).Or click **Update All** to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
-  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98ecfc678b7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148635/16836" target="_top" id="2148635">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148635" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148635/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Uninstall your device driver
 
@@ -108,16 +101,23 @@ If the above steps don’t work for you, to fix driver error code 22, you can tr
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c4a50b434.jpg)  
  Example – CMOS battery on a laptop
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Remember which direction the battery is installed. Usually the engraved side, the positive side, is face up. Then, remove the CMOS battery from the main board (most can simply be popped out).![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c58fd6ffe.jpg)
 6. Wait for about one or two minutes for the CMOS to reset itself to its defaults.
 
 7. Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
+  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -141,22 +141,18 @@ Please do reply if you got your problem fixed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-exploring-the-lost-stories-of-facebook-tech-savvy-approach/"><u>[New] In 2024, Exploring the Lost Stories of Facebook Tech-Savvy Approach</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-a-critical-look-at-huawei-p10-for-photography-enthusiasts/"><u>[Updated] 2024 Approved A Critical Look at Huawei P10 for Photography Enthusiasts</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-optimizing-television-access-to-facebook-events/"><u>[Updated] Optimizing Television Access to Facebook Events</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-compreenhensive-review-djis-new-drone-the-inspire-1/"><u>2024 Approved Compreenhensive Review DJI's New Drone, The Inspire 1</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-unlock-iphone-14-pro-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>3 Ways to Unlock iPhone 14 Pro without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-15-pro-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone 15 Pro Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-iphone-11-pro-max-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 11 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-assassins-creed-odyssey-stutter-on-pc-ultimate-guide/"><u>Fixing Assassin's Creed Odyssey Stutter on PC: Ultimate Guide</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-15-plus-with-7-methods-drfone-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone 15 Plus With 7 Methods | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-change-honor-play-40c-lock-screen-password-by-drfone-android/"><u>How To Change Honor Play 40C Lock Screen Password?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-iphone-12-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From iPhone 12? Complete Guide | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-se-2020-with-a-mask-on-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone SE (2020) with a Mask On | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-6s-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone 6s Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE Passcode Screen? | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-iosandroid-leading-photo-writing-app-list/"><u>In 2024, IOS/Android Leading Photo-Writing App List</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-secrets-of-earning-big-reddits-13-money-makers/"><u>In 2024, Secrets of Earning Big Reddit's 13 Money Makers</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/llama-vs-microsofts-marvel-an-in-depth-comparison-of-llama-3-and-gpt-4/"><u>Llama Vs. Microsoft's Marvel: An In-Depth Comparison of Llama 3 and GPT-4</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-calls-recorded-and-saved-iphone-24-sound-guide/"><u>[New] Calls Recorded & Saved IPhone '24 Sound Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-affordable-flight-masters-top-drone-selections-below-500/"><u>[Updated] Affordable Flight Masters Top Drone Selections Below $500</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/expert-analysis-of-audews-portable-air-compressor-small-size-with-exceptional-performance/"><u>Expert Analysis of Audew's Portable Air Compressor: Small Size with Exceptional Performance</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-alcatel-joy-tab-2-unveiling-the-affordable-lte-tablet/"><u>Exploring the Alcatel Joy Tab 2: Unveiling the Affordable LTE Tablet</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-honor-play-7t-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Honor Play 7T Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-oneplus-11r-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on OnePlus 11R? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-14-pro-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-12-pro-with-7-methods-drfone-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for iPhone 12 Pro With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-apple-iphone-11-pro-max-without-passcode-easily-drfone-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 11 Pro Max Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-apple-iphone-6-plus-5-ways-to-get-into-a-locked-apple-iphone-6-plus-drfone-by-drfone-ios/"><u>Locked Out of Apple iPhone 6 Plus? 5 Ways to get into a Locked Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-xs-max-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone XS Max Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/taking-apart-the-midland-lxt50lxt500vp3-an-extensive-review-exposing-its-abundance-of-options-and-disappointing-functionality/"><u>Taking Apart the Midland LXT50([[LXT500VP3: An Extensive Review Exposing Its Abundance of Options and Disappointing Functionality</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-12-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock iPhone 12 Without Passcode Easily | Dr.fone</u></a></li>
 </ul></div>
 

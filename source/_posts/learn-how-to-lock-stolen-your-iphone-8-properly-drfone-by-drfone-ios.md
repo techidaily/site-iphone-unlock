@@ -1,7 +1,7 @@
 ---
 title: Learn How To Lock Stolen Your iPhone 8 Properly | Dr.fone
-date: 2024-10-26T16:38:46.611Z
-updated: 2024-11-01T10:11:51.192Z
+date: 2024-11-03T23:45:43.664Z
+updated: 2024-11-06T18:29:53.584Z
 tags: 
   - unlock
   - remove screen lock
@@ -54,13 +54,6 @@ Find My can be a source to track stolen iPhones, but certain scenarios are assoc
 
 ![consider last device location](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3. Using Lost Mode To Lock Stolen iPhone
 
 Lost Mode locks the Apple iPhone 8 device and allows users to showcase a personalized message on the screen. This can help greatly in the safe return of the smartphone. The following are the simple steps you need to follow to learn **how to block stolen iPhone** with Lost Mode:
@@ -71,13 +64,6 @@ Lost Mode locks the Apple iPhone 8 device and allows users to showcase a persona
 
 ![proceed to activate lost mode](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2.** You will now be given a summary of the Lost Mode; tap "Continue" to proceed. On the following screen, add a phone number, tap "Next," and add a message that will be displayed on the lost device.
 
 ![add message for lost device](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-6.jpg)
@@ -86,18 +72,18 @@ Lost Mode locks the Apple iPhone 8 device and allows users to showcase a persona
 
 ![proceed to turn on lost mode](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135371/19272" target="_top" id="2135371">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135371" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135371/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Activating Lost Mode Using iCloud Website
 
 - **Step 1.** Access the iCloud website via your computer's web browser. Sign in using your Apple ID, continue to click the “Grid” icon in the top right corner, and select “Find My.”
 
 ![sign into icloud account](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 2.** In Find My, add your Apple ID password again to access "All Devices." Now, choose the lost device from the list of all devices in the top left corner. Then, click "Mark As Lost," and the following pop-up Lost Mode prompt, tap "Next."
 
@@ -127,6 +113,13 @@ When efforts to locate a stolen iPhone fail, the need to protect sensitive data 
 
 There are additional measures you can take to enhance your overall security apart from understanding **how do I lock my stolen iPhone**. The following are some options you should utilize in case of device loss:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### To Do List #1. Report to Police
 
 If your Apple iPhone 8 is stolen, it is crucial to immediately inform your local law enforcement agency. It facilitates the recovery process and assists in combatting criminal activities. Provide essential details about your Apple iPhone 8, such as the Model, color, and IMEI number. Share information about your efforts to locate the stolen iPhone using Find My.
@@ -140,13 +133,6 @@ You can claim insurance if you have AppleCare+ coverage for your Apple iPhone 8.
 To qualify for theft or loss coverage, it is necessary for Find My to be enabled on your device at the time it goes missing. Moreover, it should remain enabled alongside Lost Mode throughout the claims process.
 
 ![insurance in applecare](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-15.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### To Do List #3. Remove iPhone From Trusted Devices (2FA)
 
@@ -176,6 +162,13 @@ After your Apple iPhone 8 is stolen, it becomes essential to bolster the securit
 
 Users can proactively adopt specific measures to reduce the likelihood of such an occurrence. The following essential precautions are recommended while learning **how to block your Apple iPhone 8 when stolen**:
 
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Precaution #1. Enable Find My on Device
 
 Activating Find My increases the likelihood of recovering your device. Take the following steps to enable the Find My feature on your Apple iPhone 8:
@@ -183,6 +176,13 @@ Activating Find My increases the likelihood of recovering your device. Take the 
 - **Step 1.** On your iOS device, navigate to “Settings” and tap the Apple ID on the top. Now, scroll down and press "Find My" on the following screen.
 
 ![open find my settings](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-20.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 2.** Next, tap "Find My iPhone," on the ensuing window, toggle "Find My iPhone." This will enable the Find My service on your device.
 
@@ -200,13 +200,6 @@ Enabling “Separation Alerts” assists in preventing the loss of your Apple iP
 
 ![notify on separation enabled](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-23.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Precaution #3. Enable 2FA on iPhone
 
 Activating Two-Factor Authentication (2FA) enhances the security of your Apple iPhone 8. The mandatory secondary verification step makes 2FA crucial in securing your accounts. Follow these steps to enable 2FA on your Apple iPhone 8:
@@ -220,10 +213,16 @@ Activating Two-Factor Authentication (2FA) enhances the security of your Apple i
 ![turn on two factor authentication](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-25.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Bonus Tip. Find Stolen iPhone Back but Locked? Unlock With Wondershare Dr.Fone
@@ -232,11 +231,31 @@ Recovering your stolen iPhone successfully can be a joyous event. Yet, the frust
 
 It provides a hassle-free solution for those locked out of their devices. This powerful tool effortlessly removes various lock screens on iPhones and iPads. It can [<u>bypass the iCloud activation lock without the need for a password</u>](https://drfone.wondershare.com/icloud/unlock-icloud-activation.html).
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Features of Wondershare Dr.Fone
 
 1. If you are using iTunes for backup but have forgotten the iTunes backup encryption passcode, Dr.Fone can remove it without data loss.
 2. This tool can [<u>remove Apple ID</u>](https://drfone.wondershare.com/unlock/how-to-sign-out-of-apple-id-without-password.html) from your Apple iPhone 8 or iPad if you have forgotten its password.
 3. You can free up your device by [<u>removing MDM</u>](https://drfone.wondershare.com/unlock/mdm-bypass-free.html) and carrier locks using Dr.Fone.
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Steps To Unlock Your Locked iOS Device Using Wondershare Dr.Fone
 
@@ -379,13 +398,6 @@ You can't access your Apple iPhone 8 because the Face ID isn't working, and you 
 
 Firstly, one ought to realize that it is impossible to hack an iPhone passcode. Therefore, the primary way that attempts to unlock your device without a PIN or Face ID is to erase it. After reading this guide, you will figure out **how to unlock iPhone without passcode or face ID**. Keep reading to find out more and learn about the best tools in the business.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: Best Ways to Unlock iPhone without a Passcode or Face ID
 
 ### 1\. Unlock it via Find My
@@ -395,6 +407,13 @@ Firstly, one ought to realize that it is impossible to hack an iPhone passcode. 
 - Click on "Erase iPhone", and afterwards affirm the decision. That's the simplest solution for **how to unlock iPhone without passcode or face ID.**
 
 ![erase using find my](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-without-face-id-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 2\. Via iTunes
 
@@ -474,13 +493,6 @@ The following steps explain **how to unlock iPhone without face ID or passcode**
 ![activate iphone](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-without-face-id-5.jpg)
 
 **Step 6.** Click Next Page > Back to enter the lock bypass screen. These are all the required steps for **how to unlock iPhone without passcode or face ID 2022.**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Dr.Fone-Screen Unlock
 
@@ -572,18 +584,16 @@ That's all about our take on **how to unlock iPhone without passcode or face ID 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-10-online-tools-to-retrieve-youtube-graphics/"><u>[Updated] In 2024, 10 Online Tools to Retrieve YouTube Graphics</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-navigating-google-meet-enrollment-for-2024/"><u>[Updated] Navigating Google Meet Enrollment for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-oppo-find-x7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Oppo Find X7 | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-latest-intel-hd-graphics-440-download-and-install-drivers/"><u>Get the Latest Intel HD Graphics 440: Download & Install Drivers</u></a></li>
-<li><a href="https://article-files.techidaily.com/guide-to-progressive-audio-diminishment-via-lumafusion-for-2024/"><u>Guide to Progressive Audio Diminishment via Lumafusion for 2024</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/guide-making-your-headphones-visible-to-playback-devices-on-windows-11/"><u>Guide: Making Your Headphones Visible to Playback Devices on Windows 11</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/how-to-fix-silent-mode-resolving-sound-issues-with-toshiba-notebooks/"><u>How to Fix Silent Mode: Resolving Sound Issues with Toshiba Notebooks</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-iphone-14-pro-max-drfone-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 Passcode Screen? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-15-properly-drfone-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone 15 Properly | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-apple-iphone-12-pro-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone 12 Pro Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/quality-improvement-for-skype-video-calls-for-2024/"><u>Quality Improvement for Skype Video Calls for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-hot-40-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP Lock on Hot 40</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-proving-ground-discovering-the-top-10-reel-making-apps/"><u>[New] 2024 Approved Proving Ground Discovering the Top 10 Reel-Making Apps</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-diligent-duplication-in-the-world-of-insta/"><u>[New] In 2024, Diligent Duplication in the World of Insta</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-skys-biggest-load-carriers-drones-ranked/"><u>[Updated] Sky's Biggest Load Carriers Drones Ranked</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-14-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 14 Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-14-pro-max-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-iphone-6-plus-drfone-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-how-to-upload-a-video-on-twitter/"><u>In 2024, How to Upload a Video on Twitter?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-zte-blade-a73-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your ZTE Blade A73 5G | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-zoom-mastery-creating-seamless-virtual-sessions/"><u>In 2024, Zoom Mastery Creating Seamless Virtual Sessions</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-iphone-6-plus-5-ways-to-get-into-a-locked-iphone-6-plus-drfone-by-drfone-ios/"><u>Locked Out of iPhone 6 Plus? 5 Ways to get into a Locked iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-the-art-of-conversion-techniques-to-transform-visitors-into-customers/"><u>Mastering the Art of Conversion: Techniques to Transform Visitors Into Customers</u></a></li>
 </ul></div>
 

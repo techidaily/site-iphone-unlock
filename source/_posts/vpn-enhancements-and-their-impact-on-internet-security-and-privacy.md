@@ -1,7 +1,7 @@
 ---
 title: VPN Enhancements and Their Impact on Internet Security & Privacy
-date: 2024-10-25T02:03:37.094Z
-updated: 2024-11-01T06:57:38.429Z
+date: 2024-11-03T18:31:19.682Z
+updated: 2024-11-06T23:43:17.255Z
 tags:
   - chatgpt
   - open-ai
@@ -40,22 +40,15 @@ thumbnail: https://thmb.techidaily.com/fb282d9804e61f76170ce10cf4356b1c491a63028
  These all point to one exciting reality: GPT-5 is coming! That said, quite a lot of things are speculations at this point. But there are a few things we hope to see and are fairly confident of seeing in the model. Here are some of them:
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
-  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. More Multimodality
 
 ![OpenAI Sora text-to-video generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/openai-sora-text-to-video-generator.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  One of the most exciting improvements to the GPT family of AI models has been multimodality. For clarity, multimodality is the ability of an AI model to process more than just text but also other types of inputs like images, audio, and video. Multimodality will be an important advancement benchmark for the GPT family of models going forward.
 
@@ -64,22 +57,15 @@ thumbnail: https://thmb.techidaily.com/fb282d9804e61f76170ce10cf4356b1c491a63028
  So, for GPT-5, we expect to be able to play around with videos—upload videos as prompts, create videos on the go, edit videos with text prompts, extract segments from videos, and find specific scenes from large video files. We expect to be able to do similar things to audio files. It's a big ask, yes. But given how fast AI development is, it's a very reasonable expectation.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 2\. Larger and More Efficient Context Window
 
 ![Monitor on a desk with OpenAI logo](https://thmb.techidaily.com/0d605cbff29d9fac95ea636e3f1dc6722b73dcac2e7b43e02dacf71b94afcc8e.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Ralf Jhetner Borja/[flickr](https://www.flickr.com/photos/198726053@N04/53043766807/)
 
@@ -89,9 +75,29 @@ thumbnail: https://thmb.techidaily.com/fb282d9804e61f76170ce10cf4356b1c491a63028
 
  You see, a model might have a one million token context window (around 700,000 words capacity) but fail to produce a comprehensive summary when asked to summarize a 500,000-word book because it can't adequately process the entirety of the context despite having the capacity to do so in theory. That you can read a 500k-word book does not mean you can recall everything in it or process it sensibly.
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. GPT Agents
 
 ![ChatGPT accessed on a smartphone](https://thmb.techidaily.com/03b9d4f25f53b702691684fe2aacadda124f8e51ce8909742113d79362ddfedd.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Koshiro K/[Shutterstock](https://www.shutterstock.com/image-photo/vancouver-canada-jan-23-2024-webpage-2417500449)
 
@@ -134,18 +140,24 @@ thumbnail: https://thmb.techidaily.com/fb282d9804e61f76170ce10cf4356b1c491a63028
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/op-10-emerging-youtube-channels-to-spark-motivation-for-2024/"><u>[New] Top 10 Emerging YouTube Channels to Spark Motivation for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-simple-steps-for-looped-iphone-videos/"><u>2024 Approved Simple Steps for Looped iPhone Videos</u></a></li>
-<li><a href="https://program-issues.techidaily.com/apex-legends-engine-mishaps-heres-how-you-can-resolve-them/"><u>Apex Legends Engine Mishaps? Here's How You Can Resolve Them</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/cant-answer-calls-on-your-samsung-galaxy-watch-try-these-fixes-first/"><u>Can't Answer Calls on Your Samsung Galaxy Watch? Try These Fixes First.</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-12-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone 12 | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-xr-drfone-by-drfone-ios/"><u>How to Unlock iPhone XR? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-xs-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone XS to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-6-plus-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone 6 Plus? Complete Guide | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/is-the-skyrim-script-extender-not-working-on-windows-how-to-fix-it/"><u>Is the Skyrim Script Extender Not Working on Windows? How to Fix It</u></a></li>
-<li><a href="https://discord-videos.techidaily.com/mastering-live-broadcasts-your-step-by-step-guide-to-discord-streaming-for-2024/"><u>Mastering Live Broadcasts Your Step-by-Step Guide to Discord Streaming for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-8-plus-drfone-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Tecno Spark 20C | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/top-ranking-ready-to-assemble-desktops/"><u>Top-Ranking Ready-to-Assemble Desktops</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-mac-screen-alignment-rapid-video-format-changes/"><u>[New] 2024 Approved Mac Screen Alignment Rapid Video Format Changes</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-capture-life-in-high-definition-on-a-budget-(1k/"><u>[New] Capture Life in High Definition on a Budget (<$1K)</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-perfect-chat-harmony-how-to-download-and-tailor-whatsapp-tones/"><u>[New] Perfect Chat Harmony How to Download and Tailor WhatsApp Tones</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-top-ten-historical-educational-video-streams-for-students/"><u>[Updated] Top Ten Historical Educational Video Streams (For Students)</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-7-plus-drfone-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/apple-iphone-x-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>Apple iPhone X Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-synaptic-touchpad-software-upgrades-and-downloads/"><u>Effortless Synaptic Touchpad Software Upgrades and Downloads</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-13-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-14-pro-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone 14 Pro Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-7-drfone-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-iphone-14-pro-max-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your iPhone 14 Pro Max When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-pc-games-from-crashing-expert-solutions-for-gamers/"><u>How to Stop PC Games From Crashing: Expert Solutions for Gamers</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-y100t-by-phone-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo Y100t by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-15-lock-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone 15 Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-12-mini-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>iPhone 12 mini Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/maximizing-your-tech-investment-with-a-steam-deck/"><u>Maximizing Your Tech Investment with a Steam Deck</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/personalizing-maps-customize-your-journey-using-famous-icons-like-master-chief-and-boy-george-on-waze/"><u>Personalizing Maps: Customize Your Journey Using Famous Icons Like Master Chief & Boy George on Waze</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/secure-the-latest-epson-xp-42n-driver-free-download-and-installation-instructions/"><u>Secure the Latest Epson XP-42n Driver - Free Download and Installation Instructions</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-14-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking iPhone 14 Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Diablo Immortal Stays Away From PC Users – Understanding the Reasons Behind Delay
-date: 2024-10-31T11:18:13.021Z
-updated: 2024-11-01T07:47:44.442Z
+date: 2024-11-01T22:57:10.855Z
+updated: 2024-11-07T04:53:36.437Z
 tags:
   - win11
   - win10
@@ -30,13 +30,6 @@ thumbnail: https://thmb.techidaily.com/6ab11e94b8a02777808e732d5f2080be3cb5bc04d
 7. **[Lower in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 1: Check if your system meets the specifications required for The Division 2
 
@@ -113,10 +106,10 @@ thumbnail: https://thmb.techidaily.com/6ab11e94b8a02777808e732d5f2080be3cb5bc04d
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
-  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Verify your game files
@@ -134,10 +127,10 @@ thumbnail: https://thmb.techidaily.com/6ab11e94b8a02777808e732d5f2080be3cb5bc04d
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-130.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111965/7443" target="_top" id="2111965">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111965" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1484944/16446" target="_top" id="1484944">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484944" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111965/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484944/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Steam
@@ -182,6 +175,13 @@ thumbnail: https://thmb.techidaily.com/6ab11e94b8a02777808e732d5f2080be3cb5bc04d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-126.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3)**Check the box** next to**Override high DPI scaling behavior** and select**Scaling performed by: Application** . Then click**OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-127.png)
@@ -195,10 +195,10 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
  Run The Division 2 to see if the this fix works. If not, try the next fix to modify your page file.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Modify the paging file size
@@ -217,13 +217,6 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-150.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Settings** … in the**Performance** section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-151.png)
@@ -236,9 +229,23 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-153.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  **Do not disable the paging file or modify it to 0 MB or a static value** even if your PC has sufficient RAM, since if you doing that, it usually causes crashes in the game.
 
  Launch The Division 2 to see if this issue gets fixed or not. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Lower in-game graphics settings
 
@@ -256,19 +263,6 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-156-1024x776.png)
 
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Set**Particle Detail** to**High** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-157-1024x756.png)
@@ -281,20 +275,27 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-159-1024x759.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  7)**Turn off Local Reflection Quality** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-160-1024x762.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  8) Set**Ambient Occlusion** to**Medium** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-161-1024x777.png)
-
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  9) Set the value of**Object Detail** to**50** .
 
@@ -303,13 +304,6 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
  10) Set**Terrain Quality** to**Medium** . Then save all the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-163-1024x772.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Launch the game to see if the crash issue reappears. If not, congratulations! You’ve resolved this issue.
 
@@ -334,20 +328,18 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-optimal-series-professional-webcam-stabilizers/"><u>2024 Approved Optimal Series Professional Webcam Stabilizers</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-pro-cameras-who-wins-gopro-and-garmin-virb-comparison/"><u>2024 Approved Pro Cameras, Who Wins? GoPro & Garmin VIRB Comparison</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/boosting-youtube-traffic-outsmarting-automated-viewers-for-2024/"><u>Boosting YouTube Traffic Outsmarting Automated Viewers for 2024</u></a></li>
-<li><a href="https://fox-pages.techidaily.com/como-solucionar-el-problema-de-que-tu-disco-duro-aparece-con-menos-espacio-en-windows-10/"><u>Cómo Solucionar El Problema De Que Tu Disco Duro Aparece Con Menos Espacio en Windows 10</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/from-words-to-images-harnessing-the-power-of-dall-e-and-chatgpt-4-together/"><u>From Words to Images: Harnessing the Power of DALL-E and ChatGPT-4 Together</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-11-pro-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-11-pro-max-lock-screen-drfone-by-drfone-ios/"><u>How To Remove Flashlight From iPhone 11 Pro Max Lock Screen | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-iphone-15-proipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled iPhone 15 Pro/iPad Without Computer | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-your-iphone-x-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>How to Unlock Your iPhone X Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-12-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone 12 without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-11-5-ways-to-get-into-a-locked-apple-iphone-11-drfone-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone 11? 5 Ways to get into a Locked Apple iPhone 11 | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-prime-9-options-to-capture-high-quality-audio-remotely-23/"><u>In 2024, Prime 9 Options to Capture High-Quality Audio Remotely ('23)</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-speedy-sketching-techniques-for-fortnite-tiles/"><u>In 2024, Speedy Sketching Techniques for Fortnite Tiles</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/innovative-strategies-for-flawless-screens-in-adobe-captivity/"><u>Innovative Strategies for Flawless Screens in Adobe Captivity</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/1723211678424-troubleshoot-your-overwatch-audio-solving-voice-chat-glitches-fast/"><u>Troubleshoot Your Overwatch Audio: Solving Voice Chat Glitches Fast</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-building-business-via-beauty-vlogs/"><u>[New] 2024 Approved Building Business via Beauty Vlogs</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-comprehensive-directory-of-pixel-tones-websites/"><u>[New] In 2024, Comprehensive Directory of Pixel Tones Websites</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-lava-yuva-3-pro-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Lava Yuva 3 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-erase-apple-iphone-8-plus-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>3 Ways to Erase Apple iPhone 8 Plus When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-unlock-iphone-6-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>3 Ways to Unlock iPhone 6 without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/a-comprehensive-breakdown-of-augmented-reality-vs-virtual-reality-vs-mixed-reality-vs-extended-reality/"><u>A Comprehensive Breakdown of Augmented Reality vs Virtual Reality vs Mixed Reality vs Extended Reality</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/apple-iphone-15-pro-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>Apple iPhone 15 Pro Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-samsung-galaxy-s24plus-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Samsung Galaxy S24+</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-locked-apple-iphone-se-2022-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>Forgot Locked Apple iPhone SE (2022) Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-your-glitch-on-the-best-free-online-generators-and-tools/"><u>Get Your Glitch On The Best Free Online Generators and Tools</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/h-hacks-for-youtubers-short-form-content-boosting-view-counts-effectively-for-2024/"><u>Growth Hacks for YouTuber's Short Form Content Boosting View Counts Effectively for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-6-with-7-methods-drfone-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for iPhone 6 With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-apple-iphone-7-plus-passcode-without-a-computer-drfone-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 7 Plus Passcode without a Computer | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Find My Apple iPhone 14 when Phone is Broken? | Dr.fone
-date: 2024-09-15T16:33:53.429Z
-updated: 2024-09-17T17:49:49.711Z
+date: 2024-11-04T22:33:12.446Z
+updated: 2024-11-07T02:11:51.049Z
 tags: 
   - unlock
   - remove screen lock
@@ -61,6 +61,13 @@ After choosing the “Unlock Apple ID” option, an interface will be displayed 
 
 ![tap on remove activation lock](https://images.wondershare.com/drfone/drfone/remove-activation-lock-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4: Jailbreak your Apple iPhone 14**
 
 Jailbreak your Apple iPhone 14 by following the instructions given by the system. Once you complete them, click on "Finish Jailbreak."
@@ -78,6 +85,13 @@ A warning will be displayed on the screen asking for confirmation to remove the 
 Click on “Start Unlock” to proceed. Once the process is started, you have to wait for a moment until the activation lock is successfully removed.
 
 ![start the unlock process](https://images.wondershare.com/drfone/drfone/remove-activation-lock-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 7: Turn off Find My iPhone**
 
@@ -103,9 +117,23 @@ Here we have explained to you step by step how to turn off Find My iPhone on bro
 
 ![select your device](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4:** Once your device is removed from the account, a window will pop up asking you to delete the option of that device from your iCloud account. Now you may log in Find My iPhone with your iCloud account on another device.
 
 ![confirm removal](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: Turn off Find My iPhone using Recovery Mode
 
@@ -128,13 +156,6 @@ Once your Apple iPhone 14 shows the Apple logo, it means the Recovery Mode is ac
 **Step 3:** Now click on “Restore” so iTunes can download software on your Apple iPhone 14. Once the process is completed, you can set up your Apple iPhone 14 as new. This means your previous data will be erased, and Find My iPhone will be disabled automatically.
 
 ![tap on restore option](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -165,16 +186,10 @@ Here's a breakdown of the reasons why you should **create a new Apple ID for you
 ![create a free apple id account](https://images.wondershare.com/drfone/article/2023/10/create-new-apple-id-account-02.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### B. Scenarios Where a New ID Is Needed
@@ -239,6 +254,13 @@ To finalize the creation process, refer to the steps given below:
 
 Congratulations! You've successfully **created a new Apple ID**. With this account, you can now access Apple's services, including the App Store, iCloud, and more. Remember to keep your login credentials secure and use them to personalize your Apple experience fully.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: Effortlessly Remove Your Apple ID Using <u>Wondershare Dr.Fone - Screen Unlock (iOS)</u>
 
 You can embark on an enhanced Apple experience after successfully **creating your new Apple ID**. Removing the previous one is essential when you create it, especially if you've acquired a second-hand device or no longer want the previous user's associated credentials.
@@ -246,13 +268,6 @@ You can embark on an enhanced Apple experience after successfully **creating you
 This step ensures that your new Apple ID takes center stage, granting you full control over your device and its associated services. But if you encounter difficulties when removing the previous Apple ID from your device, Dr.Fone - Screen Unlock (iOS) is a reliable and user-friendly solution.
 
 ![drfone unlock ios screen](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Key Features of Dr.Fone - Screen Unlock (iOS)
 
@@ -276,6 +291,13 @@ Check out the steps on how to remove an Apple ID account using Dr.Fone below:
 
 ![remove apple id unlock now](https://images.wondershare.com/drfone/guide/remove-apple-id-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 4:** Before the Apple ID can be unlocked, the next step is for the platform to ask a series of questions. Verify that a screen lock is active on your iOS device. However, please lock your iOS device before proceeding with the **Yes** option.
 
 ![set up screen lock](https://images.wondershare.com/drfone/guide/remove-apple-id-3.png)
@@ -296,13 +318,6 @@ Check out the steps on how to remove an Apple ID account using Dr.Fone below:
 - **Step 9:** The platform checks the downloaded firmware and displays its details on the following screen. To proceed with unlocking your Apple ID, click the **Unlock Now** button. To proceed, you will be prompted to input a code into a confirmation window. Enter the code and then click the **Unlock** button.
 
 ![firmware complete](https://images.wondershare.com/drfone/guide/remove-apple-id-6.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 10:** The following screen shows the unlocking status of your Apple ID. Don't let the Apple iPhone 14 device lose its connection under any circumstances. The screen prompts the process of completing the Apple ID once the ID has been unlocked. If the Apple ID has been unlocked, click **Done** to proceed. If that fails, click the **Try Again** button and give it another shot.
 
@@ -347,6 +362,19 @@ Also, if your Apple iPhone 14 screen is broken, you can use this feature to unlo
 
 ![all devices](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 5.** Click on 'Erase iPhone'. Click on 'Erase' again after the confirmation text.
 
 ![erase your iphone](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-3.jpg)
@@ -374,13 +402,6 @@ Again, iPhone will show the Apple iPhone 14 locked message. You then need to rem
 **Step 2.** Connect your Apple iPhone 14 and your system and open iTunes. After clicking, force restarts it by holding down both the volume and power buttons. You'll then get an option to Restore. Select this choice, and your Apple iPhone 14 will download the required software. When done, you can set up and use your Apple iPhone 14.
 
 ![click restore](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Use iTunes**
 
@@ -475,5 +496,24 @@ Having an iPhone with a broken screen can make your life hard. It keeps you from
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-visionary-5-android-backdrop-modification-apps-for-iphone/"><u>[New] Visionary 5 Android Backdrop Modification Apps for iPhone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/outubes-best-practices-amplifying-video-and-audio-clarity-for-2024/"><u>[New] YouTube's Best Practices Amplifying Video and Audio Clarity for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-priority-picks-high-rated-graphics-cards-for-seamless-playback/"><u>2024 Approved Priority Picks High-Rated Graphics Cards for Seamless Playback</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-13-drfone-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/convertissez-votre-fichier-ppm-en-images-png-sans-cout-avec-movavi/"><u>Convertissez Votre Fichier PPM en Images PNG Sans Coût Avec Movavi</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-how-to-bypass-infinix-smart-8-frp-android-10111213-by-drfone-android/"><u>Easy Guide How To Bypass Infinix Smart 8 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-14-proipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 14 Pro/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-6-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 6 Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-for-iphone-6-plus-lock-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 6 Plus Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-11-pro-learn-all-4-methods-drfone-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone 11 Pro? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-x-drfone-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone X | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-14-plus-i-do-get-answers-here-drfone-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone 14 Plus i Do? Get Answers here | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/is-your-apple-iphone-14-pro-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your Apple iPhone 14 Pro in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/rotating-video-files-alternatives-to-windows-media-player-and-how-to-guide/"><u>Rotating Video Files: Alternatives to Windows Media Player and How-To Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-ultimate-guide-to-close-up-mastery-on-roblox/"><u>The Ultimate Guide to Close-Up Mastery on Roblox</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>Unova Stone Pokémon Go Evolution List and How Catch Them For Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Samsung Galaxy M34 5G? | Dr.fone</u></a></li>
+</ul></div>
 

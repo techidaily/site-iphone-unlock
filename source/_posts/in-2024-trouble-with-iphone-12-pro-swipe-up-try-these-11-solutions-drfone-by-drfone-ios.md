@@ -1,7 +1,7 @@
 ---
 title: In 2024, Trouble with iPhone 12 Pro Swipe-Up? Try These 11 Solutions | Dr.fone
-date: 2024-10-26T06:55:59.514Z
-updated: 2024-11-01T12:08:49.048Z
+date: 2024-11-03T18:33:11.309Z
+updated: 2024-11-06T19:41:24.608Z
 tags: 
   - unlock
   - remove screen lock
@@ -29,22 +29,21 @@ Updates or software bugs can occasionally interfere with the swipe-up gesture. I
 Sometimes, the touch screen may need recalibration. This can cause the swipe-up feature to become unresponsive.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 3\. Physical Damage
 
 Physical damage, like heavy falls, can impact the phone's touch sensitivity. Moreover, it affects swipe gestures as a result.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Full Memory or Background Apps
 
@@ -106,6 +105,13 @@ After that, you'll reach a window showing different iOS firmware alternatives. P
 
 ![initiate swipe up repair process](https://images.wondershare.com/drfone/guide/ios-system-repair-6.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2. Force Restart iPhone
 
 Performing a force restart, also known as a hard reset, can troubleshoot minor software glitches. These can cause unresponsive swipe-up issues on your Apple iPhone 12 Pro. Here's a guide on how to perform a force restart on various iDevice models to fix the **iPhone won’t swipe up**:
@@ -124,16 +130,16 @@ Performing a force restart, also known as a hard reset, can troubleshoot minor s
 
 ![force restart iphone all models](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3. Remove the Cover or Case
 
 Sometimes, an unresponsive swipe-up gesture on your Apple iPhone 12 Pro could be due to interference caused by a protective cover or case. The cover might be too thick, improperly aligned, or interfering with the touch sensitivity of the screen. Gently remove the protective cover or case from your Apple iPhone 12 Pro. Inspect the screen for any dust, debris, or smudges while the cover is removed. Utilize a clean, soft cloth to wipe the screen.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4. Clean iPhone Screen or Remove Screen Protector
 
@@ -150,6 +156,19 @@ If your Apple iPhone 12 Pro swipe-up gesture isn't working specifically on the l
 **Step 2.** Head to the "Allow Access When Locked" section, toggle on the "Control Center" switch, then return to the lock screen to verify if the problem has been resolved.
 
 ![toggle control center switch](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-6.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6. Enable Control Center Within Apps
 
@@ -182,13 +201,6 @@ VoiceOver is an accessibility feature on iPhones. It assists users with visual i
 **Step 2.** On the following screen, toggle off the "VoiceOver" switch if it is enabled. Afterward, check if the swipe-up gesture issue is resolved.
 
 ![turn off voice over option](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 9. Customize Touch Accommodations
 
@@ -249,13 +261,6 @@ It allows the removal of various lock screens present on iPhone, iPad, and iPod 
 2. The unlocking process involves a simple 3-step procedure.
 3. With it, you can remove Apple ID from your device without the password.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Steps To Unlock iPhone Without Swiping Up via Wondershare Dr.Fone
 
 You can use the simple steps explained below to unlock your Apple iPhone 12 Pro and fix **the Apple iPhone 12 Pro 11 swipe-up not working**:
@@ -292,6 +297,13 @@ The Apple iPhone 12 Pro are high-end smartphones with many features and capabili
 
 This blog post will discuss several methods to unlock your Apple iPhone 12 Pro without a passcode. So, this article will be very helpful if you have forgotten your Apple iPhone 12 Pro's passcode or are just looking for ways to unlock iPhones without a passcode.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Is It Possible to Unlock Apple iPhone 12 Pro without a Passcode?
 
 Unlocking an iPhone without a passcode is possible, but it's not as simple as entering a code. Besides, there are different methods that you can follow to unlock your Apple iPhone 12 Pro on 11/12/13.
@@ -307,6 +319,13 @@ And we are going to teach all those methods with some simple steps. So, without 
 Once you have activated the Find My iPhone function, then you can try it to unlock your Apple iPhone 12 Pro without a passcode. This is an easy and effective method to complete this task. Here's how you can do it:
 
 ![use find My Apple iPhone 12 Pro to unlock iphone 13 without passcode](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-11-12-13-without-passcode-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 1:** Go to icloud.com from any web browser on your computer or another iOS device.
 
@@ -326,13 +345,6 @@ Another way to unlock your Apple iPhone 12 Pro without a passcode is by using iT
 
 ![how to unlock iphone 12 without passcode with itunes](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-11-12-13-without-passcode-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 1:** Connect your Apple iPhone 12 Pro to the computer you previously used to sync your device with iTunes.
 
 **Step 2:** Open the iTunes application on your computer and wait for it to recognize your device.
@@ -342,13 +354,6 @@ Another way to unlock your Apple iPhone 12 Pro without a passcode is by using iT
 **Step 4:** Now, click on the 'Restore iPhone' button in the right sidebar.
 
 **Step 5:** Confirm your action and wait for the process to be completed. Once done, you can set up your device as new and use it without a passcode.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044585/7443" target="_top" id="2044585">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044585" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044585/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Unlock iPhone in Recovery Mode
 
@@ -386,6 +391,13 @@ Here's how you can use Siri to bypass the Passcode:
 
 But this method will not work on newer iPhones 11/12/13 and iPhone 14 because they run on the latest iOS.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Dr.Fone-Screen Unlock
 
 ### Dr.Fone - Screen Unlock (iOS)
@@ -421,13 +433,6 @@ If you are interested in using this tool, then here's how you can do it:
 
 ![how to unlock iphone 11 without password](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 You only need to wait for some time as the process may take several minutes. So be patient and don't interrupt the process; otherwise, it may permanently damage your Apple iPhone 12 Pro.
 
 Once the process is completed, your Apple iPhone 12 Pro will be unlocked, and you can choose a new passcode.
@@ -441,6 +446,19 @@ If you want to turn the Passcode ON your Apple iPhone 12 Pro, then follow these 
 **Step 1:** Go to 'Settings' and select 'Touch ID & Passcode' (if you're using an iPhone with Touch ID). If you're using an iPhone without a Touch ID, select 'Passcode.'
 
 ![how to turn passcode on or off on iphone](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-11-12-13-without-passcode-7.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2:** Enter your current Passcode when prompted.
 
@@ -575,17 +593,20 @@ After following this informative guide, you would learn how to wipe a locked iPh
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-irecorder-demystified-a-deep-dive-into-features/"><u>[Updated] 2024 Approved IRecorder Demystified A Deep Dive Into Features</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-split-screen-audio-logging/"><u>[Updated] 2024 Approved Split Screen Audio Logging</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-no-cost-camera-screenshot-tool-reviews-and-selections/"><u>[Updated] In 2024, No-Cost Camera Screenshot Tool Reviews & Selections</u></a></li>
-<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>5 Easy Ways to Change Location on YouTube TV On Apple iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-6s-plus-drfone-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-iphone-15-pro-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My iPhone 15 Pro when Phone is Broken? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-13-pro-max-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 13 Pro Max to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-iphone-xs-drfone-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-plus-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 7 Plus with a Mask On | Dr.fone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-ipad-video-editing-essentials-top-picks/"><u>New 2024 Approved IPad Video Editing Essentials Top Picks</u></a></li>
-<li><a href="https://facebook.techidaily.com/unlocking-limited-access-fb-accounts/"><u>Unlocking Limited-Access FB Accounts</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-enhancing-twitter-posts-via-facebook-connection/"><u>[Updated] In 2024, Enhancing Twitter Posts via Facebook Connection</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-srt-to-sub-magic-three-effective-ways/"><u>2024 Approved SRT to SUB Magic Three Effective Ways</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-iphone-14-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 14 Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/conquering-commercials-dodge-fb-vids-for-2024/"><u>Conquering Commercials Dodge FB Vids for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/efficient-ways-to-address-tozo-t6-connectivity-problems-with-windows-11-systems/"><u>Efficient Ways to Address Tozo T6 Connectivity Problems with Windows 11 Systems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/image-editing-essentials-the-ultimate-guide-to-embedding-text-on-windows-and-macs/"><u>Image Editing Essentials The Ultimate Guide to Embedding Text on Windows & Macs</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-cost-effective-drone-collection-affordable-flight-gadgets/"><u>In 2024, Cost-Effective Drone Collection Affordable Flight Gadgets</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-6-plus-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone 6 Plus Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-get-the-apple-id-verification-code-on-apple-iphone-11-in-the-best-ways-by-drfone-ios/"><u>In 2024, How To Get the Apple ID Verification Code On Apple iPhone 11 in the Best Ways</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-xr-drfone-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-xs-max-properly-drfone-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone XS Max Properly | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-12-pro-prevention-and-solution-drfone-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone 12 Pro Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-xs-drfone-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/the-complete-guide-to-cd-conversion-and-burning-with-wmp/"><u>The Complete Guide to CD Conversion & Burning with WMP</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-the-secrets-of-rapid-system-restart-windows-11-edition/"><u>Unlocking the Secrets of Rapid System Restart: Windows 11 Edition</u></a></li>
 </ul></div>
 

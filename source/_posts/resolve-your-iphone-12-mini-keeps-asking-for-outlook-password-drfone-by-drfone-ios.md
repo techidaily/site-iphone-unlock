@@ -1,7 +1,7 @@
 ---
 title: Resolve Your iPhone 12 mini Keeps Asking for Outlook Password | Dr.fone
-date: 2024-10-28T09:34:31.564Z
-updated: 2024-10-31T22:46:05.924Z
+date: 2024-10-31T17:29:10.855Z
+updated: 2024-11-07T02:56:09.168Z
 tags: 
   - unlock
   - remove screen lock
@@ -70,6 +70,19 @@ If your Apple iPhone 12 mini continuously prompts you for the Outlook password, 
 
 ![reenter outlook password from mail settings](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-3.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2. Change the Password to Your Outlook Mail
 
 Sometimes, the email service provider may force users to change their passwords for security reasons. There is a chance that it is why your **iPhone asks for an Outlook password**. To modify your Outlook password from the desktop platform, adhere to the following steps:
@@ -83,10 +96,10 @@ Sometimes, the email service provider may force users to change their passwords 
 ![enter outlook password and save it](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3. Checking the Network Connection
@@ -133,13 +146,6 @@ Ensuring that your sync settings align with Outlook's recommended configurations
 
 ![select required schedule for outlook](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 7. Uninstall and Re-Install Outlook App
 
 Is the Outlook app generally showing a lot of glitches on your Apple iPhone 12 mini? If yes, uninstalling and then re-installing it can address potential **“**iPhone**/iPad keeps asking for Outlook password”** issues:
@@ -172,6 +178,13 @@ Certain privacy protection features on your Apple iPhone 12 mini may interfere w
 
 ![manage privacy protection](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-16.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 11. Reset All Settings of the iPhone
 
 If the persistent password prompts remain unresolved, resetting all settings on your Apple iPhone 12 mini can be the solution. It acts as a comprehensive solution to potential configuration issues. This action does not erase your data but resets system settings to default. To reset all settings on your Apple iPhone 12 mini, you can follow these steps:
@@ -184,13 +197,6 @@ If the persistent password prompts remain unresolved, resetting all settings on 
 
 ![reset all settings on iphone](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-18.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 12. Add an Account by Switching to IMAP
 
 In some cases, switching the account type to IMAP during the setup process can help resolve issues. For many users, it has worked to resolve issues related to Outlook password prompts. Follow these steps to add your Outlook account using the IMAP protocol:
@@ -202,6 +208,13 @@ In some cases, switching the account type to IMAP during the setup process can h
 - **Step 2.** Choose "Other" as the account type and select "Add Mail Account." Enter your Name, full Outlook email address, descriptive description, and unique password, and hit "Next.”
 
 ![add new imap mail account](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-20.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 3.** Utilize the specified settings for the "Incoming Mail Server" and "Outgoing Mail Server" sections under the “IMAP” tab:
 
@@ -224,6 +237,13 @@ In some cases, switching the account type to IMAP during the setup process can h
 At last, hit the “Next” button at the top-right side of the screen.
 
 ![set specified imap settings](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-21.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 13. Contact Support of Outlook To Resolve
 
@@ -349,13 +369,6 @@ Keep waiting until the restoration completes. Then, a short time later, go to yo
 
 ![itunes unlock](https://images.wondershare.com/drfone/article/2022/11/forgotten-iphone-pin-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. Dr.Fone-Screen Unlock
 
 What to do if you **forgot iPhone PIN code**? As a reference, you have to erase your device to remove the lock. Aside from iTunes, you can use an outsider iPhone unlocker like Dr.Fone-Screen Unlock to unlock your device without a code.
@@ -378,18 +391,18 @@ To unlock iPhone, you need to boot it in Recovery/DFU mode by following the guid
 
 ![enter recovery mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3. Confirm Your Apple iPhone 12 mini Model**
 
 After opening the recovery mode, you can see your Device Model and iOS version. You must select the correct data from the dropdown menu if the information is incorrect. After doing so, click download to download the suitable firmware package for your phone model.
 
 ![select phone model](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 4. Remove the Screen Lock Passcode**
 
@@ -402,10 +415,10 @@ Simply in almost no time, your Apple iPhone 12 mini will be unlocked effectively
 ## Part 2: FAQs
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### How can I change my PIN on my iPhone?
@@ -439,6 +452,13 @@ Due to one reason or another, you may have **forgotten iPhone PIN.** However, it
 First things first, the short answer is yes. It is entirely possible to unlock a disabled iPhone and use it again. But there is a catch-all data on the Apple iPhone 12 mini device that will be erased as the process wipes the Apple iPhone 12 mini clean. There is no other way around it.
 
 ![iphone is disabled](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-disabled-iphone-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part II: Unlock Disabled iPhone
 
@@ -500,13 +520,6 @@ You may also use Find My on the iCloud website to unlock your disabled iPhone, i
 
 The Apple iPhone 12 mini will be erased and restored to factory default settings. After that, you will have to set up the Apple iPhone 12 mini again.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### II.IV: Unlock Disabled iPhone Without A Computer (Find My App)
 
 Not so long ago, a computer was a necessity in every household for various reasons. Then, smartphones changed everything, and Apple spearheaded that change with the Apple iPhone 12 mini and iPad.
@@ -545,13 +558,6 @@ After unlocking the disabled iPhone, when you set it up again, if you previously
 
 ![icloud](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-disabled-iphone-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Bonus Tip: Prevent iPhone From Getting Disabled In Future
 
 By now, you know that should the Apple iPhone 12 mini be disabled for any reason, unlocking the disabled iPhone is a process that will wipe the Apple iPhone 12 mini device clean. And that means you will have to spend time setting it up again, restoring data from backup, and getting it back to the order you had previously. How about a tip to help you prevent a disabled iPhone?
@@ -580,17 +586,17 @@ But, when we attempt incorrect passcodes too many times, the Apple iPhone 12 min
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/xplore-free-youtube-channel-imagery-tools/"><u>[New] Explore Free YouTube Channel Imagery Tools</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-nextlevelcameraseekingpost-mycam/"><u>[New] In 2024, NextLevelCameraSeekingPost-MyCam</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-mastering-money-making-enabling-youtube-monetization-for-mobile-devices-for-2024/"><u>[Updated] Mastering Money-Making Enabling YouTube Monetization for Mobile Devices for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/addressing-misconduct-on-series-xs-gaming-console/"><u>Addressing Misconduct on Series X/S Gaming Console</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-apple-iphone-se-2022-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your Apple iPhone SE (2022) When You Forget the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-se-2020-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix iPhone SE (2020) Passcode not Working? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-12-mini-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 mini without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-realme-c51-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Realme C51 to Roku | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-14-pro-max-drfone-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-timecode-alignment-and-text-modification-in-srt-using-macos-for-2024/"><u>Mastering Timecode Alignment & Text Modification in SRT Using macOS for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/passfab-iphone-12-pro-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab iPhone 12 Pro Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/the-easy-way-to-share-instagram-meets-facebook-for-2024/"><u>The Easy Way to Share Instagram Meets Facebook for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-visionaries-shaping-marvel-online-experience/"><u>[Updated] Visionaries Shaping Marvel Online Experience</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1722182762671-boost-productivity-using-chatgpts-time-management-strategies-heres-how/"><u>Boost Productivity Using ChatGPT's Time Management Strategies – Here’s How!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/epic-rhyming-duel-poets-ai-and-in-grass-flock-competitors/"><u>Epic Rhyming Duel: Poets, AI & In-Grass Flock Competitors</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-iphone-7-plusipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled iPhone 7 Plus/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-6-vital-video-forms-for-captivated-viewers/"><u>In 2024, 6 Vital Video Forms for Captivated Viewers</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2020-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE (2020) Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-lock-your-nubia-red-magic-8s-pro-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>In 2024, Lock Your Nubia Red Magic 8S Pro Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-apple-iphone-11-pro-max-5-ways-to-get-into-a-locked-apple-iphone-11-pro-max-drfone-by-drfone-ios/"><u>Locked Out of Apple iPhone 11 Pro Max? 5 Ways to get into a Locked Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/melodic-motion-in-imovie-editing-mastery/"><u>Melodic Motion in iMovie Editing Mastery</u></a></li>
+<li><a href="https://driver-install.techidaily.com/optimize-graphics-for-acer-win11-compatibility/"><u>Optimize Graphics for Acer, Win11 Compatibility</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-se-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-gadget-guides-the-ultimate-source-for-hardware-analysis/"><u>Tom's Gadget Guides: The Ultimate Source for Hardware Analysis</u></a></li>
 </ul></div>
 

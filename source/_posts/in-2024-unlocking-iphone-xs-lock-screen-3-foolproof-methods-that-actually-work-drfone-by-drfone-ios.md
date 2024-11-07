@@ -1,7 +1,7 @@
 ---
 title: In 2024, Unlocking iPhone XS Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone
-date: 2024-10-30T22:57:46.264Z
-updated: 2024-11-01T01:22:07.121Z
+date: 2024-10-31T23:53:32.811Z
+updated: 2024-11-07T00:28:20.983Z
 tags: 
   - unlock
   - remove screen lock
@@ -33,6 +33,13 @@ The phones that are iOS 7 or above versions do not need to manually enable the l
 Apple’s activation server saves your Apple ID, and in case the phone is turned off, or any erasing activity is observed, then the Apple iPhone XS device will ask to unlock the iCloud activation. Suppose you have purchased a phone from someone, and it asks for an activation lock. That is because the Apple iPhone XS device is still linked with the old owner and hence, will not allow you to access the phone.
 
 For this, if the Apple iPhone XS device is asking for an activation lock, the user cannot bypass the Apple iPhone XS  activation lock. The only way to get rid of that is to break the link between the Apple device and the prior owner, but that requires Apple ID.
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Part 2. Bypass iPhone Lock Screen Apple iPhone XS  without Passcode \[No iTunes\]**
 
@@ -69,6 +76,13 @@ Once the system has detected the phone, the user is advised to activate the DFU 
 
 ![ios unlock 2 2](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 4: Information for Confirmation**
 
 The next window will ask for some basic information regarding the iOS device and version.
@@ -93,13 +107,6 @@ Provide the system with an on-screen confirmation code to continue the process. 
 
 ![drfone advanced unlock 7](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Part 3. Erase iPhone from iCloud \[Apple ID & Password\]**
 
 People keep on switching between Android and iOS. Not everyone sticks to one thing, and so do passionate mobile users do. But suppose someone is changing their phone and they want to delete the Apple iPhone XS from iCloud, both the Apple ID and its password; what should be done in such a scenario?
@@ -118,6 +125,13 @@ The user can easily bypass the lock screen on their iPhone from iCloud only if t
 5. After you have done that, a list of all the Apple iPhone XS devices will appear. You are now supposed to select your device and click on the option of 'Erase iPhone.'
 
     ![ways to bypass Apple iPhone XS  lock screen 2](https://images.wondershare.com/drfone/article/2021/04/ways-to-bypass-ios-14-lock-screen-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6. Doing this will wipe all the data, settings and, also the password.
 
@@ -277,6 +291,13 @@ If you prefer to use your desktop:
 
 ![apple id sign in on mac](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-password-09.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 3:** Follow the on-screen instructions to reset your password or recover your account.
 
 Reset Your Apple ID Password Using a Family Device
@@ -336,6 +357,13 @@ Dr.Fone is easy to use and intuitive, even for users with no technical experienc
 
 ![dr.fone select remove apple id](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 4:** For the question, "**Have you set up a screen lock on your Phone**?" click **Yes**. Then, on the next screen, click **Yes** again to verify you enabled the two-factor authentication.
 
 ![dr.fone confirm screen lock set up](https://images.wondershare.com/drfone/guide/remove-apple-id-3.png)
@@ -343,13 +371,6 @@ Dr.Fone is easy to use and intuitive, even for users with no technical experienc
 - **Step 5:** Follow the in-app instructions to put your iOS device into Recovery Mode.
 
 ![dr.fone in-app instructions for recovery mode](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 6:** Select an option from the **System Version** dropdown list for the **Device Model**, then click **Start**.
 
@@ -408,13 +429,6 @@ Encountering an unresponsive swipe-up gesture on your Apple iPhone XS can be exa
 [Wondershare Dr.Fone - System Repair (iOS)](https://drfone.wondershare.com/ios-system-repair.html) is a reliable solution designed to resolve iOS system issues. It also includes unresponsive gestures like the swipe-up problem on iPhones. This tool specializes in repairing iOS system errors without causing data loss. It offers a comprehensive solution for resolving iOS system issues conveniently from home. With this tool, you can address over 150 iOS system problems.
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (iOS)
 
@@ -496,13 +510,6 @@ If your Apple iPhone XS swipe-up gesture isn't working specifically on the lock 
 
 ![toggle control center switch](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6. Enable Control Center Within Apps
 
 Are you experiencing issues with accessing the Control Center via the swipe-up gesture while using certain apps? If yes, ensuring that Control Center access is enabled within apps is essential. It ensures that the swipe-up gesture from the bottom edge of the screen functions. Here's how to enable Control Center access within apps:
@@ -519,22 +526,15 @@ Running an outdated iOS version can sometimes lead to various software issues. T
 
 ![check for software update](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2.** If an update is available, press the "Update Now" button to commence the updating process. During the process, make sure to follow the prompts carefully to avoid issues.
 
 ![install new ios update](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886044/19272" target="_top" id="1886044">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886044" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886044/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 8. Turn Off VoiceOver
@@ -549,13 +549,6 @@ VoiceOver is an accessibility feature on iPhones. It assists users with visual i
 
 ![turn off voice over option](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 9. Customize Touch Accommodations
 
 Touch Accommodations is an accessibility feature on iPhones. It is designed to modify touch sensitivity and enhance touchscreen interactions for users. Customizing these settings might resolve issues with unresponsive gestures like the swipe-up function. Here's how to customize Touch Accommodations to fix **the Apple iPhone XS 12 won't swipe up to unlock**:
@@ -563,6 +556,13 @@ Touch Accommodations is an accessibility feature on iPhones. It is designed to m
 **Step 1.** Move to the "Accessibility" settings of your Apple iPhone XS and select "Touch." On the following screen, scroll down and tap "Touch Accommodations."
 
 ![access touch accommodations within accessibility](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-12.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2.** Now, first, enable the "Touch Accommodation" option from the top of the next screen. Then, scroll down and set the "Tap Assistance" option to “Use Initial Touch Location.”
 
@@ -575,6 +575,13 @@ Reduce Motion is an accessibility setting on iPhones designed to reduce animatio
 **Step 1.** Go through your iOS device Settings to open the "Accessibility" tab. Here, find and tap the "Motion" option to proceed.
 
 ![navigate motion features in accessibility](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-14.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2.** Now, on the following screen, turn off the toggle next to the "Reduce Motion" option. Then, go and check if the swipe-up gesture issue is fixed or not.
 
@@ -595,13 +602,6 @@ Resetting all settings on your Apple iPhone XS can help resolve software-related
 ## Part 3: Unlock iPhone Without Swiping Up
 
 Encountering **swipe not working on iPhone** can sometimes lead to difficulties. This is especially the case in unlocking the Apple iPhone XS device or accessing essential functions. In such scenarios, using [Wondershare Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) provides a reliable solution. It bypasses the swipe-up need and regains access to your Apple iPhone XS without relying on the problematic gesture. This tool offers a solution to unlock iPhone/iPad devices without the passcode.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -664,21 +664,20 @@ We've also talked about a helpful tool called Wondershare Dr.Fone. It's made to 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-premium-mobile-experience-with-best-gb-emulators/"><u>[New] 2024 Approved Premium Mobile Experience with Best GB Emulators</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-quick-and-quirky-meme-mastery-generator-junction/"><u>[New] Quick & Quirky Meme Mastery Generator Junction</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/can-you-unlock-apple-iphone-14-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>Can You Unlock Apple iPhone 14 After Forgetting the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/disabled-iphone-14-pro-how-to-unlock-a-disabled-iphone-14-pro-drfone-by-drfone-ios/"><u>Disabled iPhone 14 Pro How to Unlock a Disabled iPhone 14 Pro? | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/1722973905160-get-the-latest-geforce-rtx-70-graphics-card-drivers-on-windows-1110-direct-links/"><u>Get the Latest GeForce RTX 지오70 Graphics Card Drivers on Windows 11/10 - Direct Links!</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-15-pro-max-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone 15 Pro Max After Forgetting my PIN Code? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-13-pro-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 13 Pro Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-7-plus-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone 7 Plus with a Broken Screen? | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Oppo Find X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-pro-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 Pro? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Infinix Note 30 VIP Racing Edition? | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-mastering-the-art-of-video-to-audio-conversion-on-insta/"><u>In 2024, Mastering the Art of Video-to-Audio Conversion on Insta</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-15-pro-max-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 15 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/mastering-desktop-image-blending-techniques-for-2024/"><u>Mastering Desktop Image Blending Techniques for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/ultimate-auditory-performances-for-2024/"><u>Ultimate Auditory Performances for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/whats-new-with-apple-airpods-unveiling-three-must-know-enhancements-for-certain-models-this-fall-tech-buzz/"><u>What's New with Apple AirPods? Unveiling Three Must-Know Enhancements for Certain Models This Fall | Tech Buzz</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-tier-image-manipulations/"><u>[New] Top-Tier Image Manipulations</u></a></li>
+<li><a href="https://network-issues.techidaily.com/solved-nvidia-control-panel-access-denied/"><u>[Solved] NVIDIA Control Panel Access Denied</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/tro-to-discovering-youtube-studio-content-creators-dreamland-for-2024/"><u>An Intro to Discovering YouTube Studio Content Creator's Dreamland for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/backtrack-fabricator-set-for-2024/"><u>Backtrack Fabricator Set for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-iphone-15-plus-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-14-pro-max-drfone-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-seamlessly-update-lenovo-ideapad-ebook-100-graphics-card-driver-for-windows-10-easy-instructions-inside/"><u>How to Seamlessly Update Lenovo IdeaPad eBook 100 Graphics Card Driver for Windows 10 - Easy Instructions Inside</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-15-plusipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 15 Plus/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-update-or-downgrade-iphone-11-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Update or Downgrade iPhone 11 Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-all-you-need-to-know-about-youtube-shorts-fund/"><u>In 2024, All You Need to Know About YouTube Shorts Fund</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-13-mini-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 13 mini Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-12-pro-max-without-a-home-button-drfone-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone 12 Pro Max Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-apple-iphone-se-2020-lock-screen-drfone-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From Apple iPhone SE (2020) Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-to-diablo-3-crashing-expert-fixes-for-a-smooth-adventure/"><u>Say Goodbye to Diablo 3 Crashing - Expert Fixes for a Smooth Adventure</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-evolution-of-electric-cars-an-insightful-historical-overview/"><u>The Evolution of Electric Cars: An Insightful Historical Overview</u></a></li>
 </ul></div>
 

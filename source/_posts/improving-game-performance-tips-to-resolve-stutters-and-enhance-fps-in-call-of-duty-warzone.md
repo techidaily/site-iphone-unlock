@@ -1,7 +1,7 @@
 ---
 title: "Improving Game Performance: Tips to Resolve Stutters & Enhance FPS in Call of Duty: Warzone"
-date: 2024-10-27T22:04:05.791Z
-updated: 2024-11-01T00:42:00.737Z
+date: 2024-11-04T01:14:05.955Z
+updated: 2024-11-06T20:46:55.242Z
 tags:
   - win11
   - win10
@@ -33,16 +33,10 @@ GTFO
 6. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Install the latest game patch
@@ -52,6 +46,13 @@ GTFO
  If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Run GTFO and see if the FPS is back to normal. If the in-game FPS still drops, or there are no new game patch available, move on to next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -73,6 +74,14 @@ There are mainly two methods for you to update the graphics driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 
@@ -80,13 +89,6 @@ There are mainly two methods for you to update the graphics driver:
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Set the power plan of your PC for high performance
 
@@ -100,22 +102,22 @@ There are mainly two methods for you to update the graphics driver:
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
-![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
  Run GTFO and check if you get a better PFS. If the GTFO FPS drops again, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Modify graphics card settings
@@ -143,14 +145,14 @@ There are mainly two methods for you to update the graphics driver:
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Launch GTFO and see if the in-game FPS improves. If not, move on to the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Disable overlays
 
@@ -167,13 +169,6 @@ There are mainly two methods for you to update the graphics driver:
  If you’re using other apps with overlay features like Discord, Nvidia GeForce Experience, Twitch, etc., ensure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  Run GTFO again after you disabled all the in-game overlays and see if the in-game FPS increases. If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Disable background recording and Xbox Game Bar
 
@@ -215,22 +210,22 @@ Launch GTFO to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-securely-download-your-youtube-playlist-at-any-time/"><u>[New] 2024 Approved Securely Download Your YouTube Playlist at Any Time</u></a></li>
-<li><a href="https://extra-information.techidaily.com/new-affordable-laptop-friendly-software-for-dvd-viewing/"><u>[New] Affordable, Laptop-Friendly Software for DVD Viewing</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-artists-secret-high-quality-free-text-files/"><u>[New] The Artist's Secret High-Quality Free Text Files</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-humor-in-captivity-top-20-memes-from-jail-to-joys-of-online-life/"><u>[Updated] 2024 Approved Humor in Captivity Top 20 Memes From Jail to Joys of Online Life</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-tunes-takeover-transitioning-tracks-to-youtube/"><u>[Updated] In 2024, Tunes Takeover Transitioning Tracks to YouTube</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-discovering-the-ultimate-set-of-text-tools-for-ae-artistry/"><u>2024 Approved Discovering the Ultimate Set of Text Tools for AE Artistry</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-four-essential-tips-for-downloading-youtubes-srt/"><u>2024 Approved Four Essential Tips for Downloading YouTube's SRT</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-the-ultimate-method-for-discovering-hidden-vids/"><u>2024 Approved The Ultimate Method for Discovering Hidden Vids</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-xs-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-15-pro-drfone-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone 15 Pro? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-12-mini-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 12 mini After Forgetting the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-13-pro-drfone-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 13 Pro | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-vivo-s18-pro-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Vivo S18 Pro Phones with/without a PC</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-stolen-apple-iphone-13-mini-in-different-conditionsin-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Stolen Apple iPhone 13 mini In Different Conditionsin | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-14-pro-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, iPhone 14 Pro Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-13-pro-prevention-and-solution-drfone-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone 13 Pro Prevention & Solution | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/is-your-iphone-14-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your iPhone 14 in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-sourav-joshis-guide-to-earning/"><u>[New] Sourav Joshi's Guide to Earning</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-a-comprehensive-walkthrough-for-imovie-and-youtube-collaboration-for-2024/"><u>[Updated] A Comprehensive Walkthrough for iMovie and YouTube Collaboration for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-critically-acclaimed-video-cards-for-clear-youtube-broadcasts-for-2024/"><u>[Updated] Critically Acclaimed Video Cards for Clear YouTube Broadcasts for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-free-from-marks-acquiring-unmarked-stock-photography/"><u>2024 Approved Free From Marks Acquiring Unmarked Stock Photography</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/best-bargain-for-windowmac-users-top-8-free-3d-players-for-2024/"><u>Best Bargain for Window/Mac Users Top 8 FREE 3D Players for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-locked-iphone-12-mini-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>Forgot Locked iPhone 12 mini Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-iphone-12-pro-max-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My iPhone 12 Pro Max After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-13-pro-drfone-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-11-pro-drfone-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-xiaomi-redmi-a2-by-drfone-android/"><u>How to Show Wi-Fi Password on Xiaomi Redmi A2</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-14-pro-max-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock iPhone 14 Pro Max Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-14-drfone-by-drfone-ios/"><u>How to Unlock iPhone 14? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-6-plus-with-or-without-password-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone 6 Plus With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-nokia-130-music-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Nokia 130 Music Device</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-apple-iphone-14-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 14 Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-cure-avoiding-endless-xbox-app-cycle/"><u>Quick Cure: Avoiding Endless Xbox App Cycle</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-8-solutions-to-eliminate-the-unwanted-blue-hue-from-your-television-display/"><u>Top 8 Solutions to Eliminate the Unwanted Blue Hue From Your Television Display</u></a></li>
 </ul></div>
 

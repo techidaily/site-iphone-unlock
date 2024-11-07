@@ -1,7 +1,7 @@
 ---
 title: Trouble with Apple iPhone 14 Swipe-Up? Try These 11 Solutions | Dr.fone
-date: 2024-09-16T17:56:02.014Z
-updated: 2024-09-17T16:54:17.303Z
+date: 2024-11-03T01:23:40.914Z
+updated: 2024-11-06T23:14:03.176Z
 tags: 
   - unlock
   - remove screen lock
@@ -44,11 +44,25 @@ Sudden exposure to moisture or water damage can also cause the screen to malfunc
 
 Encountering an unresponsive swipe-up gesture on your Apple iPhone 14 can be exasperating. However, you no longer need to worry. There are numerous troubleshooting techniques available to address this problem. Explained below are the 11 effective ways to address the problem:
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1. Fix iOS System Error Without Data Loss: Dr.Fone – System Repair (iOS)
 
 [Wondershare Dr.Fone - System Repair (iOS)](https://drfone.wondershare.com/ios-system-repair.html) is a reliable solution designed to resolve iOS system issues. It also includes unresponsive gestures like the swipe-up problem on iPhones. This tool specializes in repairing iOS system errors without causing data loss. It offers a comprehensive solution for resolving iOS system issues conveniently from home. With this tool, you can address over 150 iOS system problems.
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (iOS)
 
@@ -162,13 +176,6 @@ VoiceOver is an accessibility feature on iPhones. It assists users with visual i
 
 ![turn off voice over option](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 9. Customize Touch Accommodations
 
 Touch Accommodations is an accessibility feature on iPhones. It is designed to modify touch sensitivity and enhance touchscreen interactions for users. Customizing these settings might resolve issues with unresponsive gestures like the swipe-up function. Here's how to customize Touch Accommodations to fix **the Apple iPhone 14 12 won't swipe up to unlock**:
@@ -181,6 +188,13 @@ Touch Accommodations is an accessibility feature on iPhones. It is designed to m
 
 ![set tap assistance to initial location](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 10. Turn Off Reduce Motion
 
 Reduce Motion is an accessibility setting on iPhones designed to reduce animations and visual effects. It is particularly for users sensitive to motion effects. However, enabling this feature might affect certain gestures or animations on the Apple iPhone 14 device. Thus potentially causing issues with the swipe-up function. Here's how to turn off Reduce Motion to fix the **iPhone 11 won’t swipe up to unlock**:
@@ -192,19 +206,6 @@ Reduce Motion is an accessibility setting on iPhones designed to reduce animatio
 **Step 2.** Now, on the following screen, turn off the toggle next to the "Reduce Motion" option. Then, go and check if the swipe-up gesture issue is fixed or not.
 
 ![turn off reduce motion switch](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-15.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 11. Reset iPhone All Settings
 
@@ -240,6 +241,13 @@ It allows the removal of various lock screens present on iPhone, iPad, and iPod 
 1. This software is compatible with the latest iOS 17 and iPadOS 17, including iPhone 15 models.
 2. The unlocking process involves a simple 3-step procedure.
 3. With it, you can remove Apple ID from your device without the password.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Steps To Unlock iPhone Without Swiping Up via Wondershare Dr.Fone
 
@@ -282,6 +290,13 @@ Using a lock screen passcode to secure your iDevice is an excellent way. However
 If your screen displays "iPhone disabled," the most probable reason is an excess of wrong passcode attempts. However, this can sometimes occur without you understanding if the phone is in your pocket.
 
 It would help if you erased your Apple iPhone 14 to eliminate the lock and passcode, then re-sync it with iTunes. Then, you can restore your phone from an iCloud or an iTunes backup, but if you have never used a backup on your phone, your phone will have nothing. This guide illustrates **how to unlock disabled iPhone with iTunes.**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: How to Unlock iPhone with iTunes
 
@@ -332,6 +347,13 @@ When the "iPhone software update" is downloaded, iTunes will show that it will e
 The above bar will show "Extracting software… ". It implies iOS 15.4.1 iTunes is planning to restore the software on this iPhone.
 
 ![extracting software](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-itunes-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 6.** Your Apple iPhone 14 will show the restore progress bar with the white apple logo. The length of the process relies upon how much data is on your cell phone. Generally, it takes 20 to 120 minutes. When done, your Apple iPhone 14 will restart naturally. Furthermore, after your Apple iPhone 14 restarts, you can reset your Apple iPhone 14. For example, you can make a new passcode.
 
@@ -387,19 +409,6 @@ Then use a USB connector to connect your iOS gadget to the PC. Then, click the "
 
 ![unlock ios screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2. Boot your iDevice in Recovery/DFU Mode**
 
 Before deleting the Apple iPhone 14 screen, it is necessary to boot it in Recovery/DFU. You can follow the steps on your screen to do so. Moreover, the Recovery mode is the suggested way for your situation. However, you can use the DFU mode if this doesn't work.
@@ -419,6 +428,13 @@ After downloading the firmware, tap Unlock Now to begin the unlocking process.
 ![unlock now](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
 Doing so will unlock your Apple iPhone 14 within no time. However, kindly note this unlocking process will likewise wipe your Apple iPhone 14's user data. Indeed, each solution removes your data. Therefore, you must be careful enough to back up your files before doing this process.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### The Bottom Line
 
@@ -493,13 +509,6 @@ This might surprise you, but there is a loophole in Siri that can be exploited t
 
 ![select all text](https://images.wondershare.com/drfone/article/2017/10/15075516553396.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7\. This will again provide various options like cut, copy, define, etc. Tap on the “Share” button.
 
 ![share the text](https://images.wondershare.com/drfone/article/2017/10/15075516738944.jpg)
@@ -512,6 +521,13 @@ This might surprise you, but there is a loophole in Siri that can be exploited t
 
 ![add contact](https://images.wondershare.com/drfone/article/2017/10/15075517097160.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 10\. This will make the text go green. As it would be selected, tap on the add icon (“+”) once again.
 
 11\. As you would tap it, it will launch a new interface. Tap on the “Create new Contact” to proceed.
@@ -521,13 +537,6 @@ This might surprise you, but there is a loophole in Siri that can be exploited t
 12\. This will launch a new interface to add a contact. You can just tap on the “Add Photo” option.
 
 ![add photo](https://images.wondershare.com/drfone/article/2017/10/15075517781481.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 13\. From the provided options, tap on the “Choose Photo” button to select a photo from the library.
 
@@ -555,5 +564,26 @@ You can follow either of these solutions to learn how to unlock iPhone 5 passcod
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-effortless-repetition-replay-your-youtube-videos-via-tv-connection/"><u>[New] In 2024, Effortless Repetition Replay Your YouTube Videos via TV Connection</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-cutting-edge-methods-to-reduce-youtube-video-size/"><u>[Updated] In 2024, Cutting-Edge Methods to Reduce YouTube Video Size</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-premier-picks-best-selling-oculus-rift-games/"><u>[Updated] In 2024, Premier Picks Best-Selling Oculus Rift Games</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlimited-sky-storage-solutions-for-your-visual-chronicles-free-and-premium/"><u>[Updated] Unlimited Sky Storage Solutions for Your Visual Chronicles, Free & Premium</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-screening-success-10-movies-that-energize-and-empower/"><u>2024 Approved Screening Success 10 Movies That Energize & Empower</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/can-you-unlock-iphone-12-pro-max-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>Can You Unlock iPhone 12 Pro Max After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/cut-mkv-files-for-free-top-10-editor-recommendations/"><u>Cut MKV Files for Free Top 10 Editor Recommendations</u></a></li>
+<li><a href="https://fox-http.techidaily.com/deciphering-triller-an-alternative-that-defies-conventional-video-platforms-for-2024/"><u>Deciphering Triller An Alternative That Defies Conventional Video Platforms for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decode-and-resolve-macos-untrusted-application-notifications-by-verifying-developers/"><u>Decode and Resolve macOS Untrusted Application Notifications by Verifying Developers</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/essential-list-the-most-effective-hurricane-tracker-apps-for-this-year/"><u>Essential List: The Most Effective Hurricane Tracker Apps for This Year</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-apple-iphone-14-plus-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on Apple iPhone 14 Plus With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-12-pro-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone 12 Pro Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-xs-max-with-a-mask-on-drfone-by-drfone-ios/"><u>How to Unlock iPhone XS Max with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-13-mini-without-passcode-now-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone 13 mini Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-14-plus-with-or-without-password-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone 14 Plus With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-11-pro-max-properly-drfone-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone 11 Pro Max Properly | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-iphone-14-pro-5-ways-to-get-into-a-locked-iphone-14-pro-drfone-by-drfone-ios/"><u>In 2024, Locked Out of iPhone 14 Pro? 5 Ways to get into a Locked iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-trouble-with-iphone-15-plus-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>In 2024, Trouble with iPhone 15 Plus Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/1726030583971-itunesdvd/"><u>ITunesでDVDコンテンツのストリーミングに成功する方法</u></a></li>
+</ul></div>
 
