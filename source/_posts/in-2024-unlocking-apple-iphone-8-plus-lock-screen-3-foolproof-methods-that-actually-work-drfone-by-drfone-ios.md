@@ -1,7 +1,7 @@
 ---
 title: In 2024, Unlocking Apple iPhone 8 Plus Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone
-date: 2024-11-03T20:22:18.717Z
-updated: 2024-11-07T01:24:10.478Z
+date: 2024-11-15T02:56:45.396Z
+updated: 2024-11-17T01:50:25.130Z
 tags: 
   - unlock
   - remove screen lock
@@ -75,13 +75,6 @@ The next window will ask for some basic information regarding the iOS device and
 
 ![ios unlock 3](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 5: Firmware Update**
 
 Click on the 'Download' button at the bottom to get the firmware update for your phone. This might take some time as the firmware update for your phone is being downloaded. As that's done, click on the 'Unlock Now' button on the screen.
@@ -120,10 +113,10 @@ The user can easily bypass the lock screen on their iPhone from iCloud only if t
     ![ways to bypass Apple iPhone 8 Plus  lock screen 2](https://images.wondershare.com/drfone/article/2021/04/ways-to-bypass-ios-14-lock-screen-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Doing this will wipe all the data, settings and, also the password.
@@ -140,13 +133,6 @@ iPhone users can even restore their phones to factory settings without losing an
 
     ![ways to bypass Apple iPhone 8 Plus  lock screen 3](https://images.wondershare.com/drfone/article/2021/04/ways-to-bypass-ios-14-lock-screen-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. A new window will appear, the Summary window. From this, the user is supposed to select the option of 'Restore iPhone.'
 
     ![ways to bypass Apple iPhone 8 Plus  lock screen 4](https://images.wondershare.com/drfone/article/2021/04/ways-to-bypass-ios-14-lock-screen-4.jpg)
@@ -159,6 +145,13 @@ Users can now retrieve all the data that has been backed up on iTunes.
 ### Conclusion
 
 The article has covered a sufficient portion of knowledge for the user regarding how they can bypass iPhone lock screen Apple iPhone 8 Plus . The difference between the common confusion of lock screen and activation screen and also a few tips and tricks have been discussed.
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## How to Unlock Disabled Apple iPhone 8 Plus/iPad Without Computer
 
@@ -188,6 +181,13 @@ Though, before you proceed, you need to know the limitations of this method. Sin
 
 ![share](https://images.wondershare.com/drfone/article/2017/07/14994464322068.jpg "share")
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896505/19272" target="_top" id="1896505">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896505" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896505/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 5.** Tap on the message icon.
 
 ![share on message](https://images.wondershare.com/drfone/article/2017/07/14994464494089.jpg "share on message")
@@ -212,16 +212,22 @@ Though, before you proceed, you need to know the limitations of this method. Sin
 
 ![iphone photo library](https://images.wondershare.com/drfone/article/2017/07/14994465537722.jpg "iphone photo library")
 
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 11.** After a while, press the Home button. If everything goes right, you will enter the Home screen of your iOS device after unlocking it.
 
 ![iphone home](https://images.wondershare.com/drfone/article/2017/07/14994465721934.jpg "iphone home")
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 By following this technique, you would also learn how to unlock the disabled Apple iPhone 8 Plus 4. Though, you need to ensure that the iOS device you are using would support this feature.
 
@@ -241,27 +247,7 @@ After implementing this solution, your iOS device will reset, and your data woul
 
 ![erase Apple iPhone 8 Plus](https://images.wondershare.com/drfone/article/2017/07/14994466099482.jpg "erase Apple iPhone 8 Plus")
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 By following this method, you can learn how to unlock the iPad passcode without a computer remotely.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: Unlock disabled Apple iPhone 8 Plus/iPad using Dr.Fone - Screen Unlock?
 
@@ -278,13 +264,6 @@ Dr.Fone can help you to remove the screen from the disabled Apple iPhone 8 Plus 
 
 ![start to remove Apple iPhone 8 Plus lock screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3.** Follow the on-screen instruction.
 
 Boot your Apple iPhone 8 Plus into DFU mode.
@@ -298,13 +277,6 @@ Select device information on Dr.Fone
 **Step 4.** Start to Unlock. The phone will be unlocked after that.
 
 ![download Apple iPhone 8 Plus firmware](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: Tips to protect your Apple iPhone 8 Plus from being unlocked by thieves
 
@@ -353,6 +325,13 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 - No tech knowledge is required, everybody can handle it.
 - Supports iPhone XS (Max) / iPhone XR / iPhone X / 8 (Plus)/ iPhone 7(Plus)/ iPhone6s(Plus), iPhone SE and the latest iOS version fully!![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4,395,217** people have downloaded it
 
 Dr.Fone is a set of modules that make life easy for you. Any kind of problem you can think of, it is likely that Dr.Fone has a remedy for it ready in its arsenal. A locked Apple iPhone 8 Plus is no different. Here is how to use Dr.Fone - Screen Unlock (iOS) to unlock Apple iPhone 8 Plus passcode:
@@ -368,6 +347,13 @@ Step 3: Launch Dr.Fone and select the Screen Unlock module.
 Step 4: Select Unlock iOS Screen.
 
 ![enter recovery mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 5: Follow the on-screen instructions to boot the Apple iPhone 8 Plus in Recovery Mode. If for some reason you are unable to boot into Recovery Mode, there are instructions at the bottom to enter DFU mode.
 
@@ -395,6 +381,13 @@ Step 2: Under Find My (or Find My iPhone if you are using the iCloud website), s
 
 That's it. You will have wiped and unlocked your Apple iPhone 8 Plus and it will start with factory settings. Note that this works only if the Apple iPhone 8 Plus was connected to Find My in the first place. If not, then you always have Dr.Fone - Screen Unlock (iOS) to help you out.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### II.III Put The Apple iPhone 8 Plus in Recovery Mode
 
 You can unlock your Apple iPhone 8 Plus using Recovery Mode, yourself.
@@ -404,6 +397,13 @@ Step 1: Connect your Apple iPhone 8 Plus to the computer and open iTunes. If you
 Step 2: Press the volume up button and let go. Press the volume down button and let go. Press the side button (power button) and keep holding it till Finder or iTunes detects the phone in Recovery Mode.
 
 ![press volume botton](https://images.wondershare.com/drfone/article/2021/09/unlock-iphone-13-7.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 3: Select Restore to download and reinstall the latest iOS on your Apple iPhone 8 Plus and unlock Apple iPhone 8 Plus.
 
@@ -459,22 +459,22 @@ A locked Apple iPhone 8 Plus is never a pretty sight. Fortunately, there are a c
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-the-elite-circle-of-online-av-masters/"><u>[New] The Elite Circle of Online AV Masters</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-androids-ultimate-fix-for-frustratingly-slow-vids/"><u>[Updated] 2024 Approved Android's Ultimate Fix for Frustratingly Slow Vids</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-essential-tips-for-maximizing-your-facebook-story-impact/"><u>[Updated] In 2024, Essential Tips for Maximizing Your Facebook Story Impact</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-safe-purchase-high-quality-tiktok-followers/"><u>[Updated] Safe Purchase High-Quality TikTok Followers</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-shutter-speed-mastery-for-chromebook-users-method-4/"><u>[Updated] Shutter Speed Mastery for Chromebook Users (Method #4)</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-15-pro-max-and-ipad-securely-drfone-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 15 Pro Max and iPad Securely | Dr.fone</u></a></li>
-<li><a href="https://win-able.techidaily.com/defeating-launching-errors-in-fortnites-ls-0013-version-detailed-fixes/"><u>Defeating Launching Errors in Fortnite's LS-0013 Version - Detailed Fixes</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/gliders/"><u>Gliders;</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-enable-and-operate-two-step-verification-on-twitch-platform/"><u>How to Enable & Operate Two-Step Verification on Twitch Platform</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-6s-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone 6s Without Passcode? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-se-2022-without-itunes-drfone-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone SE (2022) Without iTunes | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-iphone-6-plus-drfone-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-12-pro-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone 12 Pro Backup Password? Heres What to Do | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-14-pro-max-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, iPhone 14 Pro Max Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-11-pro-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone 11 Pro Prevention & Solution | Dr.fone</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/the-physical-properties-of-the-residue-epertinent-to-their-size-shape-and-toughness-also-affect-how-quickly-they-are-decomposed-by-microbes-fine-particles-d22/"><u>The Physical Properties of the Residue (e.pertinent to Their Size, Shape, and Toughness) Also Affect How Quickly They Are Decomposed by Microbes. Fine Particles Decompose Faster than Coarse Materials, Influencing the Temporal Dynamics of Nutrient Release.</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/trouble-with-iphone-13-mini-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with iPhone 13 mini Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-exploring-shared-videos-and-images-via-messenger-for-2024/"><u>[New] Exploring Shared Videos & Images via Messenger for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-mastering-speech-to-text-googles-perfect-translation-technique/"><u>[New] Mastering Speech-to-Text Google's Perfect Translation Technique</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unleash-your-potential-with-filmoras-loved-9-traits/"><u>2024 Approved Unleash Your Potential with Filmora's Loved 9 Traits</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-12-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 12 Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-8-plus-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone 8 Plus? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-xr-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone XR Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-affordable-skycabinet-mass-data-hoarding-on-a-budget/"><u>In 2024, Affordable SkyCabinet Mass Data Hoarding on a Budget</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-13-pro-max-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone 13 Pro Max Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-7-drfone-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-your-apple-iphone-se-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Your Apple iPhone SE Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-is-your-apple-iphone-8-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone 8 in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-iphone-11-pro-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab iPhone 11 Pro Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-retrospective-viewing-inventive-approaches-for-backward-youtube-content/"><u>In 2024, Retrospective Viewing Inventive Approaches for Backward YouTube Content</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-slimmed-down-cloud-keeping-at-low-cost-high-space/"><u>In 2024, Slimmed-Down Cloud Keeping at Low Cost, High Space</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723015456426-no-sound-on-your-hp-laptop-heres-how-you-can-fix-it-for-good/"><u>No Sound on Your HP Laptop? Here's How You Can Fix It for Good</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1722985169892-step-by-step-remedy-for-steams-secured-content-error-enjoy-unrestricted-access-now/"><u>Step-by-Step Remedy for Steam's Secured Content Error: Enjoy Unrestricted Access Now!</u></a></li>
+<li><a href="https://media-tips.techidaily.com/watching-mts-videos-on-your-iphone-a-step-by-step-guide/"><u>Watching MTS Videos on Your iPhone: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

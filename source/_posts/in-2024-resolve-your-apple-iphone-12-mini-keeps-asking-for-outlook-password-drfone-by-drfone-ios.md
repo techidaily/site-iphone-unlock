@@ -1,7 +1,7 @@
 ---
 title: In 2024, Resolve Your Apple iPhone 12 mini Keeps Asking for Outlook Password | Dr.fone
-date: 2024-11-04T22:02:13.835Z
-updated: 2024-11-06T17:00:31.347Z
+date: 2024-11-14T02:58:14.171Z
+updated: 2024-11-17T02:16:50.492Z
 tags: 
   - unlock
   - remove screen lock
@@ -66,13 +66,6 @@ If your Apple iPhone 12 mini continuously prompts you for the Outlook password, 
 
 ![head to mail accounts in settings](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2.** Encountering the error message "Account not authenticated" is what you will come across. Now, tap the "Re-enter Password" option to enter your correct Outlook password.
 
 ![reenter outlook password from mail settings](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-3.jpg)
@@ -116,13 +109,6 @@ Deleting and re-inserting your Outlook account on your Apple iPhone 12 mini can 
 - **Step 1.** Navigate to the "Mail" tab within the "Settings" app on your Apple iPhone 12 mini, and choose "Accounts" to observe the roster of email accounts. Here, tap on your Outlook account, and the following screen, press "Delete Account."
 
 ![delete outlook account from mail](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-9.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 2.** Once you have deleted the account, return to the "Accounts" tab. Select "Outlook.com" after tapping on "Add Account." Now, follow the on-screen instructions to re-enter your account details.
 
@@ -172,6 +158,13 @@ Certain privacy protection features on your Apple iPhone 12 mini may interfere w
 
 ![manage privacy protection](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-16.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 11. Reset All Settings of the iPhone
 
 If the persistent password prompts remain unresolved, resetting all settings on your Apple iPhone 12 mini can be the solution. It acts as a comprehensive solution to potential configuration issues. This action does not erase your data but resets system settings to default. To reset all settings on your Apple iPhone 12 mini, you can follow these steps:
@@ -183,13 +176,6 @@ If the persistent password prompts remain unresolved, resetting all settings on 
 - **Step 2.** On the following screen, tap "Reset" and select "Reset All Settings" from the available options. Enter your device passcode if prompted and confirm the action by selecting "Reset All Settings" again.
 
 ![reset all settings on iphone](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-18.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 12. Add an Account by Switching to IMAP
 
@@ -224,6 +210,13 @@ In some cases, switching the account type to IMAP during the setup process can h
 At last, hit the “Next” button at the top-right side of the screen.
 
 ![set specified imap settings](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-21.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 13. Contact Support of Outlook To Resolve
 
@@ -271,13 +264,6 @@ To summarize, resolving **an iPhone asking for an Outlook password** requires a 
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Easy Steps on How To Create a New Apple ID Account On Apple iPhone 12 mini
 
 Your Apple ID is your gateway to a world of apps and services, making it an essential part of your Apple experience. Whether you're a new Apple user or simply looking to start fresh, **creating a new Apple ID** can open the doors to endless possibilities.
@@ -290,6 +276,13 @@ This guide will walk you through creating a new account for Apple devices in an 
 
 You might need to create a new Apple ID to enhance your Apple experience. Let's dive into why it's a good idea:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### A. Reasons for Creating a New Apple ID Account
 
 Here's a breakdown of the reasons why you should **create a new Apple ID for your Apple iPhone 12 mini**:
@@ -301,19 +294,6 @@ Here's a breakdown of the reasons why you should **create a new Apple ID for you
 - If you're using Apple services for different purposes, such as work and personal use, having separate Apple IDs can help keep everything organized and distinct.
 
 ![create a free apple id account](https://images.wondershare.com/drfone/article/2023/10/create-new-apple-id-account-02.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### B. Scenarios Where a New ID Is Needed
 
@@ -331,6 +311,13 @@ Below are the common scenarios where a new Apple ID might be needed:
 
 **Creating a new Apple ID for free** is a straightforward process. Let's break it down into simple steps:
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### A. Registering a New Apple ID
 
 These are the steps for registering a new Apple ID:
@@ -338,13 +325,6 @@ These are the steps for registering a new Apple ID:
 - **Step 1:** Open your web browser and visit the [<u>Apple ID account management page</u>](http://appleid.apple.com/). Click the **Create Your Apple ID** button to begin.
 
 ![apple id account management page](https://images.wondershare.com/drfone/article/2023/10/create-new-apple-id-account-03.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 2:** On the registration page, you'll be asked to provide your **First name** and **Last name**. Make sure to use the name associated with your new Apple ID. Next, you'll need to enter your preferred email address. This one will be your new Apple ID.
 
@@ -392,6 +372,13 @@ This step ensures that your new Apple ID takes center stage, granting you full c
 
 ![drfone unlock ios screen](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Key Features of Dr.Fone - Screen Unlock (iOS)
 
 This versatile tool offers the following key features in the context of Apple ID issues:
@@ -418,6 +405,19 @@ Check out the steps on how to remove an Apple ID account using Dr.Fone below:
 
 ![set up screen lock](https://images.wondershare.com/drfone/guide/remove-apple-id-3.png)
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - **Step 5:** Check if **Two-Factor Authentication** is set up on all your iOS devices. If not, switch it on before confirming your decision to unlock your Apple ID.
 
 ![confirm two-factor authentication](https://images.wondershare.com/drfone/guide/remove-apple-id-4.png)
@@ -425,6 +425,13 @@ Check out the steps on how to remove an Apple ID account using Dr.Fone below:
 - **Step 6:** After you have confirmed these settings, you will be taken to a screen with on-screen instructions for entering **Recovery Mode** on your iDevice. If the steps for your specific iOS device don't work, try tapping **Try DFU Mode** in the app's bottom left corner. To continue with the unlocking process, this will [<u>launch the DFU Mode</u>](https://drfone.wondershare.com/dfu-mode/tools-for-iphone-to-enter-dfu-mode.html) instructions.
 
 ![try dfu mode](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 - **Step 7:** Once **Recovery Mode** has been activated, the Apple iPhone 12 mini device's information will be shown on the subsequent screen. Once the **Device Model** has been identified, all that remains is to choose the appropriate **System Version** and click **Start**. However, if there are disagreements in recognition, pick the details by hand and move forward.
 
@@ -456,19 +463,6 @@ First things first, the short answer is yes. It is entirely possible to unlock a
 ## Part II: Unlock Disabled iPhone
 
 Now, let us get to ways how to unlock disabled iPhone. How many ways are there? Well, you might get all sorts of information online, but there are only a handful of ways to unlock a disabled iPhone, which are listed here.
-
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### II.I: Unlock Disabled iPhone With Wondershare Dr.Fone
 
@@ -512,13 +506,6 @@ The above was a fast, intuitive, step-by-step way to get you through the unlock 
 
 After this process, the Apple iPhone 12 mini is reset to factory defaults, and you will need to go through the setup process again.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### II.III: Unlock Disabled iPhone Through The iCloud Website (Find My iPhone)
 
 You may also use Find My on the iCloud website to unlock your disabled iPhone, if the Find My network was enabled on the iPhone.
@@ -556,6 +543,13 @@ Now, as we know, if Find My does not show the disabled iPhone for any reason, yo
 ## Part III: FAQs
 
 Here are helpful frequently asked questions for you.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### FAQ 1: What is iPhone disabled?
 
@@ -599,14 +593,18 @@ But, when we attempt incorrect passcodes too many times, the Apple iPhone 12 min
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-mastering-slomo-videography-comprehensive-review/"><u>[New] Mastering SloMo Videography - Comprehensive Review</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-celebrating-clickers-channel-and-buttons-incentives/"><u>[Updated] Celebrating Clickers Channel & Buttons Incentives</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-cost-free-match-mastery-how-to-stream-and-slice/"><u>[Updated] Cost-Free Match Mastery How to Stream and Slice</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-key-steps-for-applying-fades-in-digital-audio-editing/"><u>2024 Approved Key Steps for Applying Fades in Digital Audio Editing</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/can-you-unlock-apple-iphone-se-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>Can You Unlock Apple iPhone SE After Forgetting the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-11-pro-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone 11 Pro Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6-plus-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 6 Plus Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-max-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XS Max without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://ai-voice.techidaily.com/the-ultimate-guide-to-learning-all-the-details-about-voice-cloning-for-2024/"><u>The Ultimate Guide to Learning All the Details About Voice Cloning for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-leading-websites-for-seamless-integration-of-text-overlays/"><u>[New] In 2024, Leading Websites for Seamless Integration of Text Overlays</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-constructing-compelling-channel-overviews/"><u>[Updated] Constructing Compelling Channel Overviews</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-live-stream-to-instagram-from-obs/"><u>2024 Approved Live Stream to Instagram From OBS</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-se-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone SE Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-apple-iphone-12-pro-max-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on Apple iPhone 12 Pro Max With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-oppo-f25-pro-5g-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Oppo F25 Pro 5G to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-15-pro-max-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13? | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-key-audio-changer-software-for-content-creators/"><u>In 2024, Key Audio Changer Software for Content Creators</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-apple-iphone-11-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone 11 Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/navigating-through-instagrams-new-features-reels-and-stories/"><u>Navigating Through Instagram's New Features Reels & Stories</u></a></li>
+<li><a href="https://win-forum.techidaily.com/tackling-complete-hard-drive-overuse-in-windows-11-effective-solutions-explored/"><u>Tackling Complete Hard Drive Overuse in Windows 11: Effective Solutions Explored</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/voice-virtuosity-in-free-fire-battles/"><u>Voice Virtuosity in Free Fire Battles</u></a></li>
 </ul></div>
 

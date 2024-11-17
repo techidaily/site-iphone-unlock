@@ -1,7 +1,7 @@
 ---
 title: In 2024, PassFab iPhone 12 mini Backup Unlocker Top 4 Alternatives | Dr.fone
-date: 2024-10-29T05:17:46.040Z
-updated: 2024-10-31T17:10:10.324Z
+date: 2024-11-11T09:35:55.751Z
+updated: 2024-11-17T03:59:02.326Z
 tags: 
   - unlock
   - remove screen lock
@@ -104,24 +104,18 @@ The costs are manageable. A plethora of options for controlling iOS and Android 
 - Data that has been permanently deleted can't be recovered from iPhones
 - It's not free
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2\. PassFab iPhone Backup Unlocker
 
 PassFab iPhone Backup Unlocker is considerably different from other iPhone backup unlocking tools that are commercially accessible. The application utilizes GPU acceleration technologies. As a result, the password cracking speed is over a thousand times faster, or at the speed of light.
 
 ![passfab](https://images.wondershare.com/drfone/article/2022/12/iphone-backup-unlocker-4.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1993647">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Why do Users like it? (Review)**
 
@@ -175,10 +169,10 @@ This iPhone backup recovery program is compatible with Mac OS X and Windows comp
 ![ultfone](https://images.wondershare.com/drfone/article/2022/12/iphone-backup-unlocker-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Why do Users like it? (Review)**
@@ -234,6 +228,13 @@ But don't fret! This article is here to demystify the Apple iPhone 12 mini black
 
 ![blacklisted iphone](https://images.wondershare.com/drfone/article/2023/09/comprehensive-guide-iphone-blacklist-removal-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1. Decoding the Apple iPhone 12 mini Blacklist: What You Need To
 
 You might have heard the term "blacklisted iPhone" before, but what does it mean? Well, it's like your Apple iPhone 12 mini is in a timeout and can't play with the other phones. Let's break it down in simple terms.
@@ -271,13 +272,6 @@ Now that you know what it means for an Apple iPhone 12 mini to be blacklisted an
 
 Going through a **blacklist removal service for your Apple iPhone 12 mini** is like giving your device a second chance. It's taking your Apple iPhone 12 mini off the "naughty list" and making it work like it should again. And the best part? You can do it without spending a dime.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Guide to Free iPhone Blacklist Removal
 
 The **iPhone blacklist removal** method is relatively easy. Here's how you can do it:
@@ -300,6 +294,13 @@ Now that you've learned how to [rescue a blacklisted iPhone](https://drfone.wond
 
 ![how to avoid iphone blacklist](https://images.wondershare.com/drfone/article/2023/09/comprehensive-guide-iphone-blacklist-removal-04.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Check the iPhone's History Before Buying
 
 Before you hand over your hard-earned money, check the iPhone's background. Make sure it's not reported as lost or stolen. You can do this by asking the seller for the phone's IMEI or serial number and checking it online or with your carrier. A clean history is a green light to go ahead with the purchase.
@@ -316,6 +317,19 @@ Your iPhone needs its "phone allowance" paid on time, too. Ensure you pay your m
 
 iCloud is like a protective bubble for your Apple iPhone 12 mini's data. Don't share your Apple ID and password with just anyone. If someone else has access to your iCloud account and does something shady, it can affect your Apple iPhone 12 mini's status.
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Report a Lost or Stolen iPhone
 
 If your Apple iPhone 12 mini ever goes missing, report it to your carrier and the police immediately. The step will help prevent someone else from using it and getting it blacklisted.
@@ -327,10 +341,10 @@ Stay vigilant for scams and sketchy deals. If something sounds too good to be tr
 By following these simple preventive measures, you can keep your device clear and avoid the hassle of dealing with the whole **iPhone blacklist removal** process. Remember, a little caution goes a long way.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4: The Blacklist Problem Resolved, but What To Do if I Have a Locked SIM?
@@ -362,10 +376,10 @@ Now, see how you can easily unlock your Apple iPhone 12 mini's SIM by following 
 ![drfone remove sim locks](https://images.wondershare.com/drfone/guide/remove-iphone-sim-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144274/7443" target="_top" id="2144274">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144274" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144274/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 - **Step 4:** The platform will recognize your device and display all its details on the next screen. Continue the unlocking process by clicking the **Unlock Now** button.
@@ -394,13 +408,6 @@ Whenever your Apple iPhone 12 mini gets stolen, multiple concerns involve access
 These cases most probably lead you to search for **how to unlock stolen iPhone**s. For this, we have outlined the best methods to unlock stolen iPhones in this detailed guide. From using built-in old methods to third-party tools, this article covers it all with easy-to-follow steps.
 
 ![unlocking stolen iphone with best methods](https://images.wondershare.com/drfone/article/2024/02/how-to-unlock-stolen-iphone-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1. \[Easiest Way\] Unlock Easily With Wondershare Dr.Fone - Screen Unlock
 
@@ -457,10 +464,10 @@ This later turned out to be an anomaly in Siri that led users to unlock their iO
 ![access photos app to unlock](https://images.wondershare.com/drfone/article/2024/02/how-to-unlock-stolen-iphone-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997680/19272" target="_top" id="1997680">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997680" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997680/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3. \[All Data Lost\] Trying Recovery Mode for Unlocking Stolen iPhone
@@ -474,13 +481,6 @@ Another lifesaver method to unlock stolen iPhones is by utilizing the Recovery M
 - **For iPhone 6 and Earlier:** To activate Recovery Mode, press and hold the "Home" and "Side/Power" buttons until the respective screen displays.
 
 ![putting iphone in recovery mode](https://images.wondershare.com/drfone/article/2024/02/how-to-unlock-stolen-iphone-8.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815678/21290" target="_top" id="1815678">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815678" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815678/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 2:** Once your Apple iPhone 12 mini is in Recovery Mode, iTunes will detect it automatically. A pop-up window will appear within iTunes to detect some problems with the Apple iPhone 12 mini device. Tap the "Restore" button to start the process and unlock your Apple iPhone 12 mini by erasing all settings and content.
 
@@ -516,24 +516,22 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-http.techidaily.com/new-androids-role-in-virtual-reality-content-consumption/"><u>[New] Android's Role in Virtual Reality Content Consumption</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-turning-snaps-into-cashflow/"><u>[Updated] 2024 Approved Turning Snaps Into Cashflow</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-maximize-engagement-with-facebook-posting-360-degree-photos-on-mobile/"><u>[Updated] Maximize Engagement with Facebook Posting 360-Degree Photos on Mobile</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/advancing-artificial-intelligence-unveiling-apples-latest-breakthrough-models-and-their-capabilities-techinsight/"><u>Advancing Artificial Intelligence: Unveiling Apple's Latest Breakthrough Models and Their Capabilities | TechInsight</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/disabled-apple-iphone-6-how-to-unlock-a-disabled-apple-iphone-6-drfone-by-drfone-ios/"><u>Disabled Apple iPhone 6 How to Unlock a Disabled Apple iPhone 6? | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-lava-blaze-curve-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Lava Blaze Curve 5G</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-google-pixel-7a-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Google Pixel 7a | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-14-pro-max-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-6-plus-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 6 Plus Lock Screen with Notifications? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-pro-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 15 Pro Passcode Screen? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-xr-prevention-and-solution-drfone-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone XR Prevention & Solution | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/iphone-13-pro-max-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>iPhone 13 Pro Max Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/modernize-your-space-with-style-an-insightful-taotronics-tt-dl16-led-lamp-evaluation/"><u>Modernize Your Space with Style: An Insightful TaoTronics TT-DL16 LED Lamp Evaluation</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/remove-device-supervision-from-your-iphone-7-plus-drfone-by-drfone-ios/"><u>Remove Device Supervision From your iPhone 7 Plus | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-6s-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone 6s Prevention & Solution | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-how-to-fix-the-stuttering-problem-in-halo-infinite/"><u>Resolved: How to Fix the Stuttering Problem in Halo Infinite</u></a></li>
-<li><a href="https://solve-marvelous.techidaily.com/seamless-song-shifting-for-iphone-users-how-to-transfer-music-files-from-computer-to-iphone-x-xr-or-xs-devices/"><u>Seamless Song Shifting for iPhone Users: How to Transfer Music Files From Computer to iPhone X, XR, or XS Devices</u></a></li>
-<li><a href="https://driver-download.techidaily.com/the-ultimate-how-to-securing-and-installing-correct-acer-aspire-drivers-on-a-windows-computer/"><u>The Ultimate How-To: Securing and Installing Correct Acer Aspire Drivers on a Windows Computer</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-se-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock Apple iPhone SE Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-navigating-tiktok-on-both-mac-and-windows-devices/"><u>[Updated] In 2024, Navigating TikTok on Both Mac & Windows Devices</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-quiet-browsing-of-fb-narratives-for-2024/"><u>[Updated] Quiet Browsing of FB Narratives for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unveiling-the-world-through-your-lens-how-to-become-a-professional-travel-vlogger/"><u>[Updated] Unveiling the World Through Your Lens How To Become A Professional Travel Vlogger</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/apple-iphone-8-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>Apple iPhone 8 Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/elevate-your-gaming-experience-with-acers-three-premium-oled-displays-spotlight-on-27-480-hz-predator-x27u-f3-monitor/"><u>Elevate Your Gaming Experience with Acer's Three Premium OLED Displays: Spotlight on 27” 480 Hz Predator X27U F3 Monitor</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-iphone-13-mini-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your iPhone 13 mini When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-apple-iphone-13-pro-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>How to Bypass Apple iPhone 13 Pro Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-iphone-8-plusipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled iPhone 8 Plus/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-12-in-lost-mode-drfone-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone 12 in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-vivo-v29-pro-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Vivo V29 Pro to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-honor-play-7t-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Honor Play 7T | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-apple-iphone-15-pro-max-with-7-methods-drfone-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for Apple iPhone 15 Pro Max With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-8-plus-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 8 Plus With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-oppo-find-x7-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>In 2024, Oppo Find X7 ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-15-pro-properly-drfone-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone 15 Pro Properly | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/quick-fixes-for-the-persistent-windows-update-error-8007000e-problem/"><u>Quick Fixes for the Persistent Windows Update Error 8007000E Problem</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ust-know-about-youtube-shorts-explained/"><u>The Must-Know About YouTube Shorts Explained</u></a></li>
 </ul></div>
 
