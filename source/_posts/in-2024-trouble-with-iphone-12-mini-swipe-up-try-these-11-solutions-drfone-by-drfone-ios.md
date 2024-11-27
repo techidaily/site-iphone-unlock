@@ -1,7 +1,7 @@
 ---
 title: In 2024, Trouble with iPhone 12 mini Swipe-Up? Try These 11 Solutions | Dr.fone
-date: 2024-11-14T23:53:14.877Z
-updated: 2024-11-16T17:01:57.074Z
+date: 2024-11-24T16:17:51.026Z
+updated: 2024-11-27T01:12:39.259Z
 tags: 
   - unlock
   - remove screen lock
@@ -49,13 +49,6 @@ Encountering an unresponsive swipe-up gesture on your Apple iPhone 12 mini can b
 [Wondershare Dr.Fone - System Repair (iOS)](https://drfone.wondershare.com/ios-system-repair.html) is a reliable solution designed to resolve iOS system issues. It also includes unresponsive gestures like the swipe-up problem on iPhones. This tool specializes in repairing iOS system errors without causing data loss. It offers a comprehensive solution for resolving iOS system issues conveniently from home. With this tool, you can address over 150 iOS system problems.
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Dr.Fone - System Repair (iOS)
 
@@ -117,16 +110,13 @@ Performing a force restart, also known as a hard reset, can troubleshoot minor s
 
 ![force restart iphone all models](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3. Remove the Cover or Case
 
 Sometimes, an unresponsive swipe-up gesture on your Apple iPhone 12 mini could be due to interference caused by a protective cover or case. The cover might be too thick, improperly aligned, or interfering with the touch sensitivity of the screen. Gently remove the protective cover or case from your Apple iPhone 12 mini. Inspect the screen for any dust, debris, or smudges while the cover is removed. Utilize a clean, soft cloth to wipe the screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4. Clean iPhone Screen or Remove Screen Protector
 
@@ -164,13 +154,6 @@ Running an outdated iOS version can sometimes lead to various software issues. T
 
 ![install new ios update](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896560/19272" target="_top" id="1896560">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896560" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896560/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 8. Turn Off VoiceOver
 
 VoiceOver is an accessibility feature on iPhones. It assists users with visual impairments by providing spoken feedback for actions on the Apple iPhone 12 mini device. Sometimes, VoiceOver settings can interfere with normal touchscreen gestures like the swipe-up function. Here's how to turn off VoiceOver to resolve **iPhone 13 won’t swipe up to unlock**:
@@ -178,6 +161,10 @@ VoiceOver is an accessibility feature on iPhones. It assists users with visual i
 **Step 1.** You will need to open the Settings app and scroll down to select the "Accessibility" menu. There, tap "VoiceOver" to get access to the "VoiceOver" settings.
 
 ![navigate to voiceover feature](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2.** On the following screen, toggle off the "VoiceOver" switch if it is enabled. Afterward, check if the swipe-up gesture issue is resolved.
 
@@ -215,6 +202,10 @@ Resetting all settings on your Apple iPhone 12 mini can help resolve software-re
 
 ![head to reset iphone options](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-16.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2.** Now, choose "Reset All Settings" from the pop-up options and confirm it by providing the passcode. Then, wait for a few moments as your Apple iPhone 12 mini is restored to its original settings.
 
 ![choose to reset all settings](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-17.jpg)
@@ -242,6 +233,10 @@ It allows the removal of various lock screens present on iPhone, iPad, and iPod 
 2. The unlocking process involves a simple 3-step procedure.
 3. With it, you can remove Apple ID from your device without the password.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Steps To Unlock iPhone Without Swiping Up via Wondershare Dr.Fone
 
 You can use the simple steps explained below to unlock your Apple iPhone 12 mini and fix **the Apple iPhone 12 mini 11 swipe-up not working**:
@@ -263,26 +258,6 @@ Now, adhere to the on-screen prompts provided to enter Recovery Mode based on th
 Once the iOS firmware has been successfully downloaded, it undergoes verification. Proceed by selecting the "Unlock Now" button to initiate the unlocking process. A prompt window will emerge on the screen, requesting confirmation of the process. Enter the code and tap "Unlock" to proceed to the final step. Upon successfully unlocking the iDevice, click the "Done" button to finish the process.
 
 ![choose to unlock the iphone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -308,6 +283,10 @@ After setting up a passcode, it will be required every time you unlock your Appl
 
 ![password feature of iphone 14](https://images.wondershare.com/drfone/article/2023/06/unlock-iphone-14-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Face ID
 
 Face ID is an advanced biometric authentication system on Apple iPhone 12 mini. It utilizes the Apple iPhone 12 mini device's TrueDepth camera system. This includes sensors and an infrared camera to create a detailed map of your face. This facial recognition technology allows you to unlock your Apple iPhone 12 mini by looking at it. During the initial setup, you are prompted to enroll your face by positioning it within the frame.
@@ -321,13 +300,6 @@ You also need to move your head in a circular motion. Face ID captures and analy
 Losing access to your Apple iPhone 12 mini 14 after forgetting its passcode can be frustrating. When looking for **how to unlock iPhone 14**, you will find that various methods are available. Below we have discussed the three most common methods to unlock your Apple iPhone 12 mini 14:
 
 In this method, you will be erasing the iPhone, meaning all your data on the Apple iPhone 12 mini will be lost. Use the following steps to unlock your Apple iPhone 12 mini via iCloud:
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 1: Using iCloud via Find My
 
@@ -367,13 +339,6 @@ For it, ensure you have the latest version of iTunes installed on your computer.
 
 ![enable the recovery mode](https://images.wondershare.com/drfone/article/2023/06/unlock-iphone-14-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 3.** Here, choose the "Restore" option. It will erase all data on your device and install the latest iOS version. Once it is complete, you will see the initial setup screen on your Apple iPhone 12 mini.
 
 ![press the restore button](https://images.wondershare.com/drfone/article/2023/06/unlock-iphone-14-7.jpg)
@@ -388,10 +353,7 @@ For it, ensure you have the latest version of iTunes installed on your computer.
 - Users unfamiliar with Recovery Mode can get their devices stuck in it if they make a mistake.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 3: Using the Screen Unlock Feature of Wondershare Dr.Fone
@@ -446,9 +408,17 @@ If the detected details are correct, click on "Start" to initiate the firmware d
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Tips for Successful Apple iPhone 12 mini Unlocking
 
 Unlocking your Apple iPhone 12 mini can be a delicate process. To increase your chances of success and avoid potential pitfalls, consider the following tips:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Check Device Eligibility
 
@@ -501,6 +471,10 @@ Though, before you proceed, you need to know the limitations of this method. Sin
 **Step 1.** Activate Siri on your iOS device by holding the Home button. Ask for the present time by giving a command like “Hey Siri, what time is it?” to proceed. Siri will let you know the current time by displaying a clock. Tap on it.
 
 ![hey siri](https://images.wondershare.com/drfone/article/2017/07/14994463688829.jpg "hey siri")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2.** Tap on the Add (plus) icon.
 
@@ -583,6 +557,10 @@ Boot your Apple iPhone 12 mini into DFU mode.
 
 ![boot device in dfu mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Select device information on Dr.Fone
 
 ![download Apple iPhone 12 mini firmware](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
@@ -631,17 +609,19 @@ By implementing the above suggestions, you can easily make your iOS device more 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-insights-into-instagrams-selfie-verification-for-2024/"><u>[New] Insights Into Instagram's Selfie Verification for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-the-ultimate-guide-to-facebook-friendly-xbox-play/"><u>[Updated] The Ultimate Guide to Facebook-Friendly Xbox Play</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-infusing-humor-into-your-social-media-posts/"><u>2024 Approved Infusing Humor Into Your Social Media Posts</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-iphone-14-pro-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For iPhone 14 Pro Lock Screen | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/easy-ways-to-revise-and-enhance-a-powerpoint-slide-show/"><u>Easy Ways to Revise and Enhance a PowerPoint Slide Show</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-13-with-a-mask-on-drfone-by-drfone-ios/"><u>How to Unlock iPhone 13 with a Mask On | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-apple-iphone-15-plus-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone 15 Plus Backup Password? Heres What to Do | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-x-prevention-and-solution-drfone-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone X Prevention & Solution | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-13-pro-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 13 Pro | Dr.fone</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/motorola-edgeplus-evaluation-not-quite-the-top-tier-standout/"><u>Motorola Edge+ Evaluation: Not Quite the Top-Tier Standout</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/streamline-your-screencast-the-best-obs-tools-insider-tips-for-2024/"><u>Streamline Your Screencast The Best OBS Tools Insider Tips for 2024</u></a></li>
-<li><a href="https://windows11.techidaily.com/what-are-windows-bsod-memory-dumps-and-how-can-they-help-you/"><u>What Are Windows BSoD Memory Dumps, and How Can They Help You?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-navigating-the-nuances-zoom-and-youtube-live-streaming-explored/"><u>[Updated] 2024 Approved Navigating the Nuances Zoom and YouTube Live Streaming Explored</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/elevate-your-digital-coin-chats-the-leading-prompt-techniques-for-advanced-bots/"><u>Elevate Your Digital Coin Chats: The Leading Prompt Techniques for Advanced Bots</u></a></li>
+<li><a href="https://games-able.techidaily.com/embracing-digital-play-9-reasons-to-celebrate-and-why-not/"><u>Embracing Digital Play: 9 Reasons to Celebrate, and Why Not?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-nokia-105-classic-drfone-by-drfone-virtual-android/"><u>How PGSharp Save You from Ban While Spoofing Pokemon Go On Nokia 105 Classic? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-apple-iphone-xs-max-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>How to Bypass Apple iPhone XS Max Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-find-and-use-netgears-latest-default-passwords-the-july-2024-edition/"><u>How to Find & Use NETGEAR's Latest Default Passwords: The July 2024 Edition</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-se-2020-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone SE (2020) without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2020-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE (2020) without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-se-2020-5-ways-to-get-into-a-locked-apple-iphone-se-2020-drfone-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone SE (2020)? 5 Ways to get into a Locked Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-pinnacle-of-radio-drama-crafting/"><u>In 2024, Pinnacle of Radio Drama Crafting</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-the-efficient-cloud-users-price-guide/"><u>In 2024, The Efficient Cloud User's Price Guide</u></a></li>
+<li><a href="https://android-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-motorola-moto-g13-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Motorola Moto G13 FRP</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-13-pro-drfone-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone 13 Pro | Dr.fone</u></a></li>
 </ul></div>
 

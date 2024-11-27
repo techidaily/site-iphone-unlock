@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock iPhone 13 with a Mask On | Dr.fone
-date: 2024-11-09T20:24:17.452Z
-updated: 2024-11-16T20:43:27.658Z
+date: 2024-11-20T17:32:42.212Z
+updated: 2024-11-26T16:15:35.548Z
 tags: 
   - unlock
   - remove screen lock
@@ -55,6 +55,10 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 ![scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** After scanning your face twice, select "Add Glasses" by tapping on it. You can use your Face ID while wearing your regular glasses. Make sure that you scan your face with every pair of glasses daily.
 
 ![add your glasses for face id](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-4.jpg)
@@ -106,6 +110,10 @@ You can also unlock Apple ID and iCloud passwords without losing the data. Also,
 
 We all can relate that unlocking an iPhone on Face ID while wearing a face mask in a pandemic era is annoying. That's why Apple introduced a new feature of unlocking the Apple iPhone 13 Face ID with a mask on to help individuals who rely entirely on Face ID. Find out about enabling this feature to easily unlock your Apple iPhone 13 Face ID while wearing a mask.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Can I Unlock My Apple iPhone 13 After Forgetting my PIN Code?
 
 Unlocking a phone using a passcode is a great way to keep your data safe. To secure your device, you can set a 4-digit, 6-digit, fingerprint, or Face ID. However, what will happen if you **forgot iPhone PIN?** You will not be able to unlock and use the services of your device.
@@ -124,6 +132,10 @@ The steps below work if your Apple iPhone 13 or iPad runs iOS 15.2 or later and 
 - Tap Erase iPhone, then click again to confirm your activity.
 
 ![erase iphone](https://images.wondershare.com/drfone/article/2022/11/forgotten-iphone-pin-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Enter your Apple account details to sign out of your Apple ID on the phone.
 - Tap Erase iPhone back to erase all your user data and settings for all time.
@@ -184,6 +196,10 @@ Keep waiting until the restoration completes. Then, a short time later, go to yo
 
 ![itunes unlock](https://images.wondershare.com/drfone/article/2022/11/forgotten-iphone-pin-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Dr.Fone-Screen Unlock
 
 What to do if you **forgot iPhone PIN code**? As a reference, you have to erase your device to remove the lock. Aside from iTunes, you can use an outsider iPhone unlocker like Dr.Fone-Screen Unlock to unlock your device without a code.
@@ -212,13 +228,6 @@ After opening the recovery mode, you can see your Device Model and iOS version. 
 
 ![select phone model](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4. Remove the Screen Lock Passcode**
 
 After getting the required firmware, click the "Unlock Now" button to begin the process.
@@ -235,25 +244,11 @@ Simply in almost no time, your Apple iPhone 13 will be unlocked effectively. How
 
 ![passcode menu](https://images.wondershare.com/drfone/article/2022/11/forgotten-iphone-pin-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - Enter your existing code or create a new one.
 - Toggle on the "Turn Passcode Off" option.
 - Click again to agree, and you're good to go.
 
 ![turn on off passcode](https://images.wondershare.com/drfone/article/2022/11/forgotten-iphone-pin-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### What to do after unlocking my iPhone?
 
@@ -285,13 +280,6 @@ And we are going to teach all those methods with some simple steps. So, without 
 
 ## 5 Easy Ways to Unlock Apple iPhone 13 without Passcode by Yourself
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Use Find My iPhone
 
 Once you have activated the Find My iPhone function, then you can try it to unlock your Apple iPhone 13 without a passcode. This is an easy and effective method to complete this task. Here's how you can do it:
@@ -309,6 +297,10 @@ Once you have activated the Find My iPhone function, then you can try it to unlo
 **Step 5:** Click the 'Erase' option to confirm your action.
 
 **Step 6:** Once your device has been erased, you can set it up again and use it without a passcode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Unlock it with iTunes
 
@@ -344,18 +336,15 @@ If you have never tried to sync your device with iTunes or used the Find My iPho
 
 **Step 6:** Confirm your action and wait for the process to be completed. Once done, you can set up your device as new and use it without a passcode.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Use Siri (only iOS version 10)
 
 You can use this hack to unlock your Apple iPhone 13 without a passcode. But it just functions on devices running iOS 10 or lower. So, if you are using a newer version of iOS, this method won't work for you.
 
 ![iphone lock screen with siri](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-11-12-13-without-passcode-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Here's how you can use Siri to bypass the Passcode:
 
@@ -370,13 +359,14 @@ Here's how you can use Siri to bypass the Passcode:
 But this method will not work on newer iPhones 11/12/13 and iPhone 14 because they run on the latest iOS.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Dr.Fone-Screen Unlock
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -407,6 +397,10 @@ If you are interested in using this tool, then here's how you can do it:
 
 ![how to unlock iphone 12 without passcode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5:** Upon selecting the right firmware, Dr.Fone will start downloading the firmware for your device. Once it's finished, click "Unlock Now" to remove the Passcode.
 
 ![how to unlock iphone 11 without password](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
@@ -417,19 +411,6 @@ Once the process is completed, your Apple iPhone 13 will be unlocked, and you ca
 
 This is the easiest and most effective way to reset your Apple iPhone 13 passcode. So, if you're looking for a hassle-free solution, this is the one you should choose.
 
-<!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How Can I Turn On/Off the Passcode on My iPhone?
 
 If you want to turn the Passcode ON your Apple iPhone 13, then follow these steps:
@@ -437,6 +418,10 @@ If you want to turn the Passcode ON your Apple iPhone 13, then follow these step
 **Step 1:** Go to 'Settings' and select 'Touch ID & Passcode' (if you're using an iPhone with Touch ID). If you're using an iPhone without a Touch ID, select 'Passcode.'
 
 ![how to turn passcode on or off on iphone](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-11-12-13-without-passcode-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** Enter your current Passcode when prompted.
 
@@ -447,13 +432,6 @@ If you want to turn the Passcode ON your Apple iPhone 13, then follow these step
 That's it! Your Passcode is now turned ON, and your device is more secure than ever.
 
 To shut down the Passcode on your Apple iPhone 13, follow the steps above and toggle the 'Passcode' switch to the 'OFF' position.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918714/19272" target="_top" id="1918714">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918714" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918714/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### The Bottom Line
 
@@ -475,19 +453,22 @@ If you're not interested in using a third-party tool, you can try one of the met
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/new-2024-approved-unlock-efficiency-the-editors-guide-to-speed-control/"><u>[New] 2024 Approved Unlock Efficiency The Editor's Guide to Speed Control</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-eliminating-odd-shades-a-step-by-step-guide-to-flawless-greenscreens-for-2024/"><u>[New] Eliminating Odd Shades A Step-by-Step Guide to Flawless Greenscreens for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-ideal-aspect-ratio-for-video-content/"><u>[New] Unveiling the Ideal Aspect Ratio for Video Content</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-sound-surprises-10-androidios-audio-twisters/"><u>[Updated] 2024 Approved Sound Surprises 10 Android/iOS Audio Twisters</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-iphone-14-pro-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 14 Pro Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
-<li><a href="https://win-web.techidaily.com/einrichten-von-aomei-backupper-fur-eine-systemwiederherstellung-auf-veranderter-hardware-schritt-fur-schritt-anleitung/"><u>Einrichten Von AOMEI Backupper Für Eine Systemwiederherstellung Auf Veränderter Hardware - Schritt-Für-Schritt-Anleitung</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-xr-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone XR Without Passcode Now | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-iphone-12-mini-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>How to Bypass iPhone 12 mini Passcode Easily Video Inside | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-13-pro-max-drfone-by-drfone-ios/"><u>How to Unlock iPhone 13 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-create-an-apple-developer-account-on-apple-iphone-6-by-drfone-ios/"><u>In 2024, How To Create an Apple Developer Account On Apple iPhone 6</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-14-pro-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-the-soundtrack-to-instagram-fame/"><u>In 2024, The Soundtrack to Instagram Fame</u></a></li>
-<li><a href="https://windows11.techidaily.com/proactive-device-management-in-windows-11-essential-uptime-verification-steps/"><u>Proactive Device Management in Windows 11: Essential Uptime Verification Steps</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/resolve-your-apple-iphone-6s-plus-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your Apple iPhone 6s Plus Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-creator-payment-frequency-on-youtube-platform-for-2024/"><u>[New] Creator Payment Frequency on YouTube Platform for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-a-tech-savvy-approach-securely-storing-snapchat-photos-on-devices/"><u>[Updated] In 2024, A Tech-Savvy Approach Securely Storing Snapchat Photos on Devices</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-streamline-your-seminars-economical-tech-tips-for-2024/"><u>[Updated] Streamline Your Seminars Economical Tech Tips for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-boost-image-impact-top-iphone-and-android-sticker-augmenting-tools/"><u>2024 Approved Boost Image Impact Top iPhone and Android Sticker Augmenting Tools</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-14-pro-without-itunes-drfone-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 14 Pro Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-solutions-to-stop-chrome-from-crashing-on-windows-10/"><u>Effortless Solutions to Stop Chrome From Crashing on Windows 10</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723012240331-fixing-genshin-impact-stop-pc-game-crashes-now/"><u>Fixing Genshin Impact: Stop PC Game Crashes Now</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-11-pro-max-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-6-without-itunes-drfone-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 6 Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-fixes-to-solve-iphone-15-pro-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve iPhone 15 Pro Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-13-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 13 with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-did-your-apple-iphone-12-pro-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>In 2024, Did Your Apple iPhone 12 Pro Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-realme-10t-5g-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Realme 10T 5G</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-13-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-iphone-12-mini-5-ways-to-get-into-a-locked-iphone-12-mini-drfone-by-drfone-ios/"><u>Locked Out of iPhone 12 mini? 5 Ways to get into a Locked iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/no-correct-driver-match-for-your-hardware/"><u>No Correct Driver Match for Your Hardware</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Infinix Note 30 VIP Racing Edition? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Improving Game Performance: Tips to Resolve Stutters & Enhance FPS in Call of Duty: Warzone"
-date: 2024-11-09T21:06:55.328Z
-updated: 2024-11-17T04:27:31.081Z
+date: 2024-11-25T20:39:07.007Z
+updated: 2024-11-26T22:15:22.235Z
 tags:
   - win11
   - win10
@@ -40,13 +40,6 @@ GTFO
 
  Run GTFO and see if the FPS is back to normal. If the in-game FPS still drops, or there are no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Update your graphics driver
 
  If you haven’t updated your graphics driver for a long time, you should update or reinstall the driver, because the outdated or faulty graphics driver may trigger GTFO FPS dropping issue.
@@ -69,21 +62,11 @@ There are mainly two methods for you to update the graphics driver:
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
@@ -103,22 +86,16 @@ There are mainly two methods for you to update the graphics driver:
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902324/19272" target="_top" id="1902324">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902324" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902324/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
- Run GTFO and check if you get a better PFS. If the GTFO FPS drops again, try the next fix, below.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Run GTFO and check if you get a better PFS. If the GTFO FPS drops again, try the next fix, below.
 
 ## Modify graphics card settings
 
@@ -163,6 +140,10 @@ There are mainly two methods for you to update the graphics driver:
 
  Run GTFO again after you disabled all the in-game overlays and see if the in-game FPS increases. If this issue persists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Disable background recording and Xbox Game Bar
 
  Those who love sharing game highlight videos would love Xbox Game Bar and the background recording feature in Windows 10 and Windows 11\. However, once thesefeatures are enabled, they’ll constantly run in the background, hogging tons of resources.
@@ -173,14 +154,15 @@ There are mainly two methods for you to update the graphics driver:
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
@@ -210,18 +192,18 @@ Launch GTFO to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-hitting-the-high-scores-with-youtube-gaming-livestreams-for-2024/"><u>[New] Hitting the High Scores with YouTube Gaming Livestreams for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-retrace-footsteps-android-film-inversion/"><u>[New] Retrace Footsteps Android Film Inversion</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-love-ballad-bingo-must-haves-on-the-list-of-proposals/"><u>[Updated] Love Ballad Bingo Must-Haves on the List of Proposals</u></a></li>
-<li><a href="https://win-blog.techidaily.com/cyberpunk-2077-playthrough-restored-from-the-deadly-blackscreen-glitch/"><u>Cyberpunk 2077 Playthrough Restored From the Deadly Blackscreen Glitch</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-iphone-11-drfone-by-drfone-ios/"><u>How To Unlock A Found iPhone 11? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-13-passcode-without-computer-drfone-by-drfone-ios/"><u>How to Unlock iPhone 13 Passcode without Computer? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-15-pro-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock iPhone 15 Pro without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-watch-hulu-outside-us-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Lava Yuva 2 Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-11-pro-properly-drfone-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone 11 Pro Properly | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/leaders-list-of-gps-drones-with-precision-tracking/"><u>Leader's List of GPS Drones with Precision Tracking</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/perfect-obs-settings-for-low-cost-hardware/"><u>Perfect OBS Settings for Low-Cost Hardware</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlock-your-disabled-apple-iphone-13-mini-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone 13 mini Without iTunes in 5 Ways | Dr.fone</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/updated-cast-any-video-a-step-by-step-guide-to-chromecast-compatibility/"><u>Updated Cast Any Video A Step-by-Step Guide to Chromecast Compatibility</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-battle-of-the-lenses-sj6-vs-yi-4k-prodigy/"><u>[New] Battle of the Lenses SJ6 Vs. Yi 4K Prodigy</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-captivating-chronicles-youtube-stories-to-follow/"><u>2024 Approved Captivating Chronicles YouTube Stories to Follow</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-14-pro-max-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone 14 Pro Max Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-iphone-x-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone X with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/create-a-bootable-windows-10-installation-from-usb-three-effective-techniques/"><u>Create a Bootable Windows 10 Installation From USB: Three Effective Techniques</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-11-pro-max-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-15-pro-max-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot iPhone 15 Pro Max Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-apple-iphone-14-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your Apple iPhone 14 Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-tecno-pop-7-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Tecno Pop 7 Pro? | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/learn-korean-fast-master-hangul-in-no-time/"><u>Learn Korean Fast: Master Hangul in No Time</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/solving-iphone-camera-focus-issues-top-tips-and-tricks/"><u>Solving iPhone Camera Focus Issues: Top Tips & Tricks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-vanguard-verdict-which-ai-tops-gemini-or-plush-chatgpt/"><u>The Vanguard Verdict: Which AI Tops, Gemini or Plush ChatGPT?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/time-traveling-tactics-top-7-historic-battles-reimagined/"><u>Time-Traveling Tactics Top 7 Historic Battles Reimagined</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolve Your Apple iPhone 13 Keeps Asking for Outlook Password | Dr.fone
-date: 2024-11-11T03:47:13.079Z
-updated: 2024-11-17T05:28:53.032Z
+date: 2024-11-22T20:06:22.298Z
+updated: 2024-11-26T19:21:59.155Z
 tags: 
   - unlock
   - remove screen lock
@@ -38,6 +38,10 @@ An outdated Outlook mail app on your Apple iPhone 13 may struggle to communicate
 
 Upholding a stable internet connection is necessary for effortless communication. An unreliable or unstable network can disrupt the synchronization process in Outlook.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Corrupted Email Account Profile
 
 A corrupted email account profile on the Apple iPhone 13 can cause disruptions during the authentication process. Resetting the email account on the Apple iPhone 13 device might be necessary to resolve the issue.
@@ -70,6 +74,10 @@ If your Apple iPhone 13 continuously prompts you for the Outlook password, a sim
 
 ![reenter outlook password from mail settings](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2. Change the Password to Your Outlook Mail
 
 Sometimes, the email service provider may force users to change their passwords for security reasons. There is a chance that it is why your **iPhone asks for an Outlook password**. To modify your Outlook password from the desktop platform, adhere to the following steps:
@@ -90,6 +98,10 @@ Another way to confirm if network errors are the problem is to try enabling Airp
 
 ![check network iphone settings](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4. Using the Mail Toggle as a Remedy
 
 A strategic approach to resolving authentication issues involves using the Mail toggle. You can use it to disable and re-enable the email services. This action essentially resets the Outlook app's connection and can be performed as follows:
@@ -97,13 +109,6 @@ A strategic approach to resolving authentication issues involves using the Mail 
 - **Step 1.** Within your Apple iPhone 13's "Settings" app, scroll down and tap "Mail." On the following screen, press "Accounts" and choose the "Outlook" account.
 
 ![proceed with outlook account](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 2.** Here, you will find the toggle switch for "Mail." Now, turn off the email service and wait for a few moments. Toggle the switch back on to re-enable the email service.
 
@@ -117,16 +122,13 @@ Deleting and re-inserting your Outlook account on your Apple iPhone 13 can provi
 
 ![delete outlook account from mail](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** Once you have deleted the account, return to the "Accounts" tab. Select "Outlook.com" after tapping on "Add Account." Now, follow the on-screen instructions to re-enter your account details.
 
 ![add outlook account](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-10.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6. Re-Check Sync Settings
 
@@ -139,6 +141,14 @@ Ensuring that your sync settings align with Outlook's recommended configurations
 - **Step 2.** Confirm that the "Push" or "Fetch" settings are configured to your preference. "Push" enables real-time updates, while "Fetch" allows you to set specific intervals for email updates.
 
 ![select required schedule for outlook](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7. Uninstall and Re-Install Outlook App
 
@@ -180,13 +190,6 @@ If the persistent password prompts remain unresolved, resetting all settings on 
 
 ![access transfer or reset option](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-17.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2.** On the following screen, tap "Reset" and select "Reset All Settings" from the available options. Enter your device passcode if prompted and confirm the action by selecting "Reset All Settings" again.
 
 ![reset all settings on iphone](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-18.jpg)
@@ -225,23 +228,9 @@ At last, hit the “Next” button at the top-right side of the screen.
 
 ![set specified imap settings](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-21.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 13. Contact Support of Outlook To Resolve
 
 If none of the previous fixes resolve the issue, seek help directly from [<u>Outlook Support</u>](https://support.microsoft.com/en-us/outlook). Outlook's support is capable of addressing a broad spectrum of issues. It is adept at delivering personalized assistance tailored to your circumstances.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Bonus Part. Can’t Access Outlook Because iPhone Is Locked? A Quick Solution
 
@@ -278,6 +267,10 @@ Subsequently, you need to place your Apple iPhone 13 into Recovery Mode. Adhere 
 Monitor the iOS firmware download progress on the screen. After successful download and verification, proceed by selecting "Unlock Now." A confirmation window will appear, prompting you to input the necessary code. Enter the code and tap Unlock to proceed to the outcome. Upon unlocking the iDevice, click the “Done” button to finalize the process.
 
 ![enter code to unlock device](https://images.wondershare.com/drfone/guide/unlock-ios-screen-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -360,6 +353,10 @@ Unlocking a phone to access various carriers involves understanding the unique p
 
 ![requesting t mobile to unlock](https://images.wondershare.com/drfone/article/2024/01/details-to-discuss-while-unlocking-total-wireless-phone-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Verizon
 
 **Instructions.** [Verizon](https://drfone.wondershare.com/iphone-tips/activate-new-iphone-verizon.html) has established a minimum period of 60 days, after which your device will be unlocked. However, it is necessary that you don’t have any outstanding payments. Moreover, your device is not blacklisted is also an essential requirement.
@@ -387,16 +384,13 @@ SafeUnlocks stands as the premier choice for unlocking your phone. It is committ
 
 ![access carrier lock services](https://images.wondershare.com/drfone/article/2024/01/details-to-discuss-while-unlocking-total-wireless-phone-9.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 2.** After ensuring you've marked the "I accept the $1 fee for signing up and unlocking my device" box, proceed by tapping "Proceed." Next, on the following screen, select a payment method and then follow the prompts displayed on the screen.
 
 ![provide details to unlocking phone](https://images.wondershare.com/drfone/article/2024/01/details-to-discuss-while-unlocking-total-wireless-phone-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus Tip. What To Do if Your Apple iPhone 13 Is Locked? Use Wondershare Dr.Fone
 
@@ -428,18 +422,15 @@ Follow the prompts on the screen to put your iDevice into Recovery Mode. The pla
 
 ![provide device details and proceed](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 3. Validation and Completion**
 
 Ensure that the downloaded iOS firmware is validated before proceeding. To start the unlocking process, click "Unlock Now". Enter the required code and tap "Unlock" to continue. Upon successfully unlocking the Apple iPhone 13 device, finalize the process by clicking the "Done" button.
 
 ![validate new ios firmware installation](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -576,13 +567,6 @@ Forgotten passcodes and iCloud Activation Lock can leave you feeling shut out. T
 
 ![dr.fone removed ios lock screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Resolving the issue of **how to remove flashlight from iPhone lock screens** is attainable with these workarounds. Turning off Tap to Wake and Raise to Wake reduces accidental activations. Customizing the Control Center and Back Tap allows precise accessibility adjustments.
@@ -607,24 +591,18 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-elevate-your-cinematography-mastering-transitions-in-kinemaster/"><u>[New] Elevate Your Cinematography Mastering Transitions in Kinemaster</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/lawless-playlist-integration-techniques-in-web-development/"><u>[New] Flawless Playlist Integration Techniques in Web Development</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-swift-recording-pro-with-voice-commentary-feature/"><u>[New] In 2024, Swift Recording Pro with Voice Commentary Feature</u></a></li>
-<li><a href="https://fox-http.techidaily.com/new-in-2024-transforming-srt-into-subc-top-3-actionable-steps/"><u>[New] In 2024, Transforming SRT Into SUBC Top 3 Actionable Steps</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-choosing-your-gopro-an-exhaustive-comparison/"><u>[Updated] 2024 Approved Choosing Your GoPro An Exhaustive Comparison</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-gain-on-ig-unveiling-high-payoff-content-strategies-for-2024/"><u>[Updated] Gain on IG Unveiling High-Payoff Content Strategies for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-techniques-to-rectify-iphone-photo-out-of-focus/"><u>[Updated] Techniques to Rectify iPhone Photo Out-of-Focus</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-exploring-the-capabilities-of-toolwiz-a-comprehensive-mobile-review/"><u>2024 Approved Exploring the Capabilities of Toolwiz – A Comprehensive Mobile Review</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/4-ways-to-unlock-iphone-14-pro-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>4 Ways to Unlock iPhone 14 Pro to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-7-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-14-pro-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>How to Unlock iPhone 14 Pro With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-13-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone 13 When Its Locked Within Seconds | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-xs-drfone-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-pro-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 Pro With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-your-disabled-iphone-se-2020-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>In 2024, Unlock Your Disabled iPhone SE (2020) Without iTunes in 5 Ways | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/iphone-15-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>iPhone 15 Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/making-windows-11-work-fixing-elan-input-glitches/"><u>Making Windows 11 Work: Fixing Elan Input Glitches</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlock-your-disabled-iphone-7-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>Unlock Your Disabled iPhone 7 Without iTunes in 5 Ways | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/winxvideo-ai-faq/"><u>이슈: WinXVideo AI - 기술, FAQ 및 정보 제공 메시지</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-elevating-videogame-recording-the-steam-methodology/"><u>[New] In 2024, Elevating Videogame Recording The Steam Methodology</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-mastering-mobile-camera-best-android-practices-for-2024/"><u>[New] Mastering Mobile Camera Best Android Practices for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unleash-the-power-of-engaging-headline-crafting/"><u>[New] Unleash the Power of Engaging Headline Crafting</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-unveiling-professional-monitor-recording-by-zdsoft-for-2024/"><u>[New] Unveiling Professional Monitor Recording by ZDSoft for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-avoid-common-pitfalls-in-ppt-recording/"><u>[Updated] Avoid Common Pitfalls in PPT Recording</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-nubia-z50s-pro-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Nubia Z50S Pro Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/checking-historical-facebook-connections/"><u>Checking Historical Facebook Connections</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabling-apple-iphone-12-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>Disabling Apple iPhone 12 Parental Restrictions With/Without Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-13-pro-max-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone 13 Pro Max Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-11-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone 11 After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-8-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 8 Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-apple-iphone-xs-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone XS Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-why-are-some-texts-not-sending-via-imessage/"><u>Troubleshooting: Why Are Some Texts Not Sending Via iMessage?</u></a></li>
 </ul></div>
 

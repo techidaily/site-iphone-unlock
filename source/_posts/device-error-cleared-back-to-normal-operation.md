@@ -1,7 +1,7 @@
 ---
 title: Device Error Cleared - Back to Normal Operation
-date: 2024-11-10T09:28:03.862Z
-updated: 2024-11-16T17:18:36.401Z
+date: 2024-11-21T16:35:38.119Z
+updated: 2024-11-26T22:36:38.266Z
 tags:
   - win11
   - win10
@@ -33,13 +33,6 @@ Code 22 occurs usually because your device is manually disabled. Then manually e
 1. On your keyboard, press the**Windows** ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7b8ac86a6f5.png) key and**R** at the same time to open the Run box.
 2. Type **devmgmt.msc** and press**Enter**  to access Device Manager.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98e3f572c04.png)
 3. Expand the category that your device belongs to, right-click your device and select**Enable device** .  
 
@@ -49,10 +42,7 @@ If the problem persists, try the next fix.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Update your device driver
@@ -64,16 +54,13 @@ Driver errors like Code 22 can often be fixed by updating device drivers. You ca
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98ecd845a65.jpg)
 3. Click the **Update** button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).Or click **Update All** to automatically download and install the correct version of **_all_** the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98ecfc678b7.jpg)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Uninstall your device driver
 
@@ -83,7 +70,15 @@ Uninstalling your device driver is another solution you can try to fix **This de
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98ea2541557.jpg)
 2. Restart your computer, and Windows will automatically reinstall the driver for your device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Reset the BIOS settings
 
@@ -97,22 +92,12 @@ If the above steps don’t work for you, to fix driver error code 22, you can tr
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c88244255.jpg)  
  Example – CMOS battery on a desktop PC  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  On laptops, finding the battery housing may be not as easy. Some models have a small pop-out tray on the chassis to enable easy removal. Some may be covered with something as protection (see an example below).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c4a50b434.jpg)  
  Example – CMOS battery on a laptop
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 5. Remember which direction the battery is installed. Usually the engraved side, the positive side, is face up. Then, remove the CMOS battery from the main board (most can simply be popped out).![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c58fd6ffe.jpg)
@@ -141,20 +126,20 @@ Please do reply if you got your problem fixed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-files.techidaily.com/new-mastering-authenticity-on-instagrams-platform-for-2024/"><u>[New] Mastering Authenticity on Instagram's Platform for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-from-free-to-fortune-unlocking-youtubes-earnings-at-the-500-subscriber-level-for-2024/"><u>[Updated] From Free to Fortune Unlocking YouTube's Earnings at the 500 Subscriber Level for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-charting-financial-success-the-tale-of-ajey-carryminati-and-youtube/"><u>2024 Approved Charting Financial Success The Tale of Ajey (CarryMinati) and YouTube</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/craft-professional-tiktoks-mastery-of-numerical-changes-for-2024/"><u>Craft Professional TikToks Mastery of Numerical Changes for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/discovering-excellence-in-affordability-the-comprehensive-review-of-acer-aspire-e-15/"><u>Discovering Excellence in Affordability - The Comprehensive Review of Acer Aspire E 15</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-se-2020-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone SE (2020) when Phone is Broken? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-unlock-iphone-11-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock iPhone 11 without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-apple-iphone-12-mini-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to Apple iPhone 12 mini Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-oneplus-12-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on OnePlus 12</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-mini-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 mini Passcode without Computer? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-resolve-your-apple-iphone-se-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>In 2024, Resolve Your Apple iPhone SE Keeps Asking for Outlook Password | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-iphone-xs-max-without-passcode-easily-drfone-by-drfone-ios/"><u>In 2024, Unlock iPhone XS Max Without Passcode Easily | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/majestic-celestial-images-at-your-command-for-2024/"><u>Majestic Celestial Images at Your Command for 2024</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-realme-c67-4g-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Realme C67 4G | Dr.fone</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/toms-tech-insights-the-ultimate-guide-to-computer-components-and-performance/"><u>Tom's Tech Insights: The Ultimate Guide to Computer Components and Performance</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/10-best-online-photo-printing-services-of-2024/"><u>10 Best Online Photo Printing Services of 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-full-kinetic-assessment-2023/"><u>2024 Approved Full Kinetic Assessment 2023</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-12-mini-drfone-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-iphone-14-pro-max-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your iPhone 14 Pro Max? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-apple-iphone-13-pro-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on Apple iPhone 13 Pro With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-13-pro-without-a-passcode-drfone-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 13 Pro Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-6-drfone-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-15-pro-drfone-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-how-to-tailor-youtube-thumbnails-for-maximum-impact/"><u>In 2024, How to Tailor YouTube Thumbnails for Maximum Impact</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-poco-c65-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Poco C65 online without jailbreak</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-12-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/pathfinder-wrath-of-the-righte-keyboard-malfunction-heres-how-to-fix-it/"><u>Pathfinder Wrath of the Righte, Keyboard Malfunction? Here's How to Fix It!</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/proto-germanic-traces-in-dutch-dialects/"><u>Proto-Germanic Traces in Dutch Dialects</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolution-upgrade-in-outriders-resolving-the-issue-of-fuzzy-gameplay-images/"><u>Resolution Upgrade in Outriders - Resolving the Issue of Fuzzy Gameplay Images</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-keeping-your-contacts-unlisted-in-the-android-phonebook/"><u>Step-by-Step Tutorial: Keeping Your Contacts Unlisted in the Android Phonebook</u></a></li>
 </ul></div>
 

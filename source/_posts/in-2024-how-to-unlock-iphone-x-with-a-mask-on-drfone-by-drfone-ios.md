@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock iPhone X with a Mask On | Dr.fone
-date: 2024-11-15T10:53:17.567Z
-updated: 2024-11-16T22:08:56.228Z
+date: 2024-11-23T22:43:30.320Z
+updated: 2024-11-26T18:31:43.656Z
 tags: 
   - unlock
   - remove screen lock
@@ -77,23 +77,9 @@ To enable the feature of unlocking the Apple iPhone X with an Apple Watch, the s
 
 ![open iphone passcode settings](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step** **2:** Now, on the displayed menu, scroll down to the bottom, where you will see the toggle of "Unlock with Apple Watch." Tap on that toggle to enable this feature.
 
 ![enable apple watch unlock option](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-6.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 After enabling this feature, you can unlock your Apple iPhone X with a mask on through your Apple Watch. You need to grab your phone and hold it the same way you would in a normal Face ID scan. The phone will be unlocked, and you will feel a slight vibration on the wrist. Also, a notification will pop up on your watch, indicating that your Apple iPhone X has been unlocked.
 
@@ -109,6 +95,10 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 - Removes the iPhone's lock screen whenever it is disabled.
 - Works for all models of iPhone, iPad and iPod touch.
 - Fully compatible with the latest iOS 11,12,13.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3981454** people have downloaded it
 
@@ -164,11 +154,19 @@ After that, follow the on-screen instructions to put your Apple iPhone X in the 
 
 ![set device model and version](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3. Download iOS Firmware and Confirm**
 
 Then, the system starts downloading the required iOS firmware according to your Apple iPhone X model. Once the download is complete, click "Unlock Now" to implement the screen unlocking process. Enter the code in the confirmation box in the next window and choose the "Unlock" option.
 
 ![use code to proceed with unlocking](https://images.wondershare.com/drfone/guide/unlock-ios-screen-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4. Install iOS Firmware To Unlock Completely**
 
@@ -177,10 +175,7 @@ After that, you can see a progress bar of the unlocking screen process. Then, it
 ![install ios firmware to unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080317/19272" target="_top" id="2080317">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080317" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080317/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3. Set Up the Apple iPhone X device Again Using the Security Lockout Procedure
@@ -204,13 +199,6 @@ iTunes service allows you to reset your Apple iPhone X to factory settings and u
 
 ![restore ios device from itunes](https://images.wondershare.com/drfone/article/2024/02/unlock-iphone-passcode-changed-itself-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 5. Using iCloud To Set Up iOS Device Again
 
 Using iCloud to unlock iOS devices is a safe and recommended method, but it also leads to complete data loss. If you wish to consider using the iCloud method, it is important for the Find My service to be active on the Apple iPhone X device. Also, you need to be aware of your Apple ID and password before proceeding. Follow this comprehensive guide step-by-step to set up your iOS device again using iCloud.
@@ -219,9 +207,17 @@ Using iCloud to unlock iOS devices is a safe and recommended method, but it also
 
 ![access find my service from icloud](https://images.wondershare.com/drfone/article/2024/02/unlock-iphone-passcode-changed-itself-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** After that, choose the Apple iPhone X device that you want to recover. Then, click the "Erase This Device" option to remove data and regain your device access.
 
 ![erase ios device from icloud](https://images.wondershare.com/drfone/article/2024/02/unlock-iphone-passcode-changed-itself-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 6. Using Find My App To Set Up iOS Device Again
 
@@ -240,9 +236,17 @@ We’ve discussed various reasons why the **iPhone passcode changed itself** abo
 
 ![open passcode security settings](https://images.wondershare.com/drfone/article/2024/02/unlock-iphone-passcode-changed-itself-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** After that, tap “Change Passcode” and enter your six-digit passcode to see passcode options. Open “Passcode Options” and set a four-digit passcode easily or vice versa.
 
 ![change passcode according to requirements](https://images.wondershare.com/drfone/article/2024/02/unlock-iphone-passcode-changed-itself-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -301,6 +305,10 @@ Additional requirements you’ll need to meet include:
 
 You’ll also need to wear items such as sunglasses, face coverings, ski masks, or others that prevent you from using your Apple iPhone X Face ID.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3. How To Unlock Apple iPhone X With an Apple Watch
 
 ![a cyclist wearing an apple watch](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-4.jpg)
@@ -324,13 +332,6 @@ You can turn on wrist detection on your watch by following these steps:
 
 ![apple watch wrist detection settings](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now that you’ve enabled the option to unlock your Apple iPhone X using your Apple Watch, it’s time to simply start using the feature. To unlock your phone, you’ll need to:
 
 - Have your Apple Watch on your wrist, unlocked;
@@ -345,13 +346,6 @@ However, remember that the next time you want to use your Apple Watch to unlock 
 ## Part 4. What To Do if You Can’t Unlock Your Apple iPhone X With a Watch
 
 ![person wearing face mask unlocking their Apple iPhone X](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-7.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Generally speaking, unlocking your Apple iPhone X with an Apple Watch should be a simple, seamless task. Unfortunately, though, that’s not always the case. A glitch or a bug could be preventing you from enjoying this feature, so take a look at a few things you could try to fix it.
 
@@ -390,10 +384,7 @@ When you tap on this, you’ll need to go through the process of setting your Fa
 Move your face to complete the circle, then tap on **Continue**. Repeat the face scan process the second time and select **Done**.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 4. Do a System Repair on Your Apple iPhone X
@@ -435,13 +426,6 @@ If the problem wasn’t due to a system glitch, you should try resetting your Ap
 
 Resetting your network settings will clear out data from your internet, local network, and devices, including WiFi passwords, some Bluetooth connections, and more. However, your paired devices, such as the Apple Watch, shouldn’t be removed.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 6. Reset Your Watch and Pair It Again
 
 Finally, if you’re still experiencing issues, you might need to reset your Apple Watch and pair it with your Apple iPhone X again.
@@ -474,20 +458,16 @@ Enabling this option is a straightforward process, and if there’s ever a glitc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-toolwiz-photo-experience-analyzed-2023/"><u>[New] The Ultimate Toolwiz Photo Experience, Analyzed 2023</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-elevating-content-strategy-with-effective-youtube-partnerships/"><u>[Updated] In 2024, Elevating Content Strategy with Effective YouTube Partnerships</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-6-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone 6 Without a Passcode | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/can-you-unlock-iphone-6s-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>Can You Unlock iPhone 6s After Forgetting the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-iphone-x-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve iPhone X Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-huawei-nova-y91-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Huawei Nova Y91 to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-6s-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your iPhone 6s Lock Screen with Notifications? | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-honor-100-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Honor 100 Data? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-iphone-7-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 7 After Forgetting the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-13-drfone-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-itel-s23-drfone-by-drfone-virtual-android/"><u>In 2024, Read This Guide to Find a Reliable Alternative to Fake GPS On Itel S23 | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/mastering-the-challenges-of-biomutant-on-your-pc-expert-solutions-and-tips-freshly-updated-in-202n4/"><u>Mastering the Challenges of Biomutant on Your PC - Expert Solutions & Tips (Freshly Updated in 202N4)</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/navigating-image-editing-remove-background-in-picsart-guide-for-2024/"><u>Navigating Image Editing Remove Background in Picsart Guide for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-next-chapter-in-ps5-pricing-after-shortage-ends/"><u>The Next Chapter in PS5 Pricing After Shortage Ends</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/updated-fcp-x-effects-for-beginners-a-quick-and-easy-3-step-process-for-2024/"><u>Updated FCP X Effects for Beginners A Quick and Easy 3-Step Process for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-essential-e-commerce-hubs-for-tailored-box-creation/"><u>[Updated] 2024 Approved Essential E-Commerce Hubs for Tailored Box Creation</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-excellent-collection-advanced-webcam-supports/"><u>[Updated] Excellent Collection Advanced Webcam Supports</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-artistic-techniques-for-3d-text-effect/"><u>2024 Approved Artistic Techniques for 3D Text Effect</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/4-ways-to-unlock-iphone-13-pro-max-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>4 Ways to Unlock iPhone 13 Pro Max to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/efficiently-dropping-several-waypoints-with-google-maps-tips-and-tricks/"><u>Efficiently Dropping Several Waypoints with Google Maps: Tips & Tricks</u></a></li>
+<li><a href="https://windows11.techidaily.com/essential-guide-to-customizing-windows-11-default-apps/"><u>Essential Guide to Customizing Windows 11 Default Apps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exceptional-ipad-deals-you-cant-miss-this-season/"><u>Exceptional iPad Deals You Can't Miss This Season</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-apple-iphone-13-pro-max-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix Apple iPhone 13 Pro Max Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabling-apple-iphone-x-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>In 2024, Disabling Apple iPhone X Parental Restrictions With/Without Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-15-pro-max-prevention-and-solution-drfone-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone 15 Pro Max Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-premium-pool-floaters-expert-picks-from-zdnet/"><u>Top 5 Premium Pool Floaters : Expert Picks From ZDNET</u></a></li>
 </ul></div>
 

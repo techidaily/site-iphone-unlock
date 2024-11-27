@@ -1,7 +1,7 @@
 ---
 title: In 2024, iPhone 12 Pro Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone
-date: 2024-11-11T05:13:28.977Z
-updated: 2024-11-16T21:28:48.099Z
+date: 2024-11-26T00:41:06.002Z
+updated: 2024-11-26T17:55:59.595Z
 tags: 
   - unlock
   - remove screen lock
@@ -27,6 +27,10 @@ In most cases, this occurs when the Encrypt Backup option is activated. As an of
 Unfortunately, this capability may also become problematic if you inadvertently take a backup without being able to provide the password. For example, you may have to enter the password for your Apple iPhone 12 Pro backup unlocking never set by you.
 
 But the good news is you have some possible fixes. So, let's talk about them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: 4 Possible Ways to Fix Asking for iPhone Backup Password
 
@@ -57,6 +61,10 @@ The likelihood of success with this approach is relatively low. However, it is s
 3. On this page, choose Show Password to get the password for the Apple iPhone 12 Pro backup. However, you will first be prompted to provide the administrator password associated with your iCloud account to recover the password.
 
 ![keychain](https://images.wondershare.com/drfone/article/2022/12/iphone-backup-password-never-set-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. "Reset All Settings"
 
@@ -92,6 +100,10 @@ You should be aware that resetting the Apple iPhone 12 Pro device to factory set
 
 On the other hand, it does make it possible for you to generate a fresh backup in iTunes that is not encrypted.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Dr.Fone-Screen Unlock
 
 **First step:** After installing Dr.Fone on your device, please run the program and look for the red button labeled **"Screen Unlock."**
@@ -99,28 +111,12 @@ On the other hand, it does make it possible for you to generate a fresh backup i
 ![drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2:** While in the interface for **Screen Unlock**, navigate to the bottom right of the screen and tap on the feature labeled **"Remove iTunes BackUp Encryption."** This will allow you to proceed.
 
 ![screen unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
-
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3:** When brought to this screen, please use a USB cord to connect your iOS device to your personal computer. If Dr.Fone can identify this relationship, the following picture will appear for you to see.
 
@@ -135,6 +131,10 @@ Please read the following three notes carefully before clicking the **"Remove No
 **Step 4:** If you have an iTunes backup, Dr.Fone may automatically verify it and delete it. This encryption will be removed once the percentage on the progress meter reaches the end. This procedure won't take a lot of time at all.
 
 ![checking](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5:** The encryption of the iTunes backup has been successfully erased! Your backed-up data may be quickly restored, transferred, wiped clean, and backed up again. Hence, you can enter the password to unlock your Apple iPhone 12 Pro backup never set in the first place!
 
@@ -157,6 +157,10 @@ Wondershare Dr.Fone
 - No tech knowledge required, everybody can handle it.
 - Supports iPhone the latest iPhone and iOS version fully!![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 [Watch Video Tutorial](https://drfone.wondershare.com/iphone-unlock/iphone-15-unlock.html#video-article-bannner)
 
 ## Everything You Need To Know About Unlocked iPhone 15 Series
@@ -164,10 +168,7 @@ Wondershare Dr.Fone
 [![drfone](https://drfone.wondershare.com/images/james-davis.png)](https://drfone.wondershare.com/author/james-davis/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Nowadays, communication, productivity, and entertainment are seamlessly intertwined. The release of the Apple iPhone 12 Pro 15 series has marked an important milestone in tech. These devices have proven to be immensely popular among experts and fans alike. It has made understanding the intricacies of this groundbreaking series paramount.
@@ -180,29 +181,9 @@ An unlocked smartphone, in essence, is a device that isn't tied to a specific ca
 
 The Apple iPhone 12 Pro 15 Series is renowned for its integration of cutting-edge technology. However, what truly sets the unlocked iPhone 15 Series apart is its unlocked status. It enables users to take control of their network choices and redefine their connectivity.
 
-<!-- affiliate ads begin -->
-<span id="701707">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2: What Are the Benefits of Buying an Unlocked iPhone 15?
 
 Purchasing an unlocked iPhone 15 isn't just about owning a high-end smartphone. It is a strategic decision that unlocks a plethora of advantages tailored to the modern user. Below are some compelling benefits that come with opting for an **unlocked iPhone 15 Pro Max**:
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Network Freedom
 
@@ -239,13 +220,6 @@ Apple provides technical support for all iPhones. However, carrier-specific issu
 ### 4\. Limited Carrier-Specific Features
 
 Some carriers offer exclusive features or services. These might not be available to users with unlocked devices. Moreover, such services can include promotions, network plans, etc.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: How To Check if Your Apple iPhone 12 Pro 15 Is Unlocked or Not
 
@@ -348,6 +322,10 @@ Once Dr. Fone detects your device, you will see the following screen.
 
 ![how to factory reset disabled iphone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step #4: Choose the Appropriate Firmware and Download it:**
 
 After your Apple iPhone 12 Pro is in recovery mode, you need to select the appropriate firmware for your device. Once you have selected the firmware, click on the " Download " button to start downloading it.
@@ -364,6 +342,10 @@ The process will take a few minutes if you have a strong internet connection bec
 
 ![factory reset disabled iphone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3 Simple Methods to Factory Reset Locked iPhone
 
 Besides the above-given method, other methods can also help you factory reset your locked iPhone without iTunes.
@@ -375,19 +357,6 @@ These methods are as follows:
 Resetting your locked iPhone without iTunes is one of the most effective methods. You can use this method if you have set up the " Find My iPhone " function on your device.
 
 ![via the find My Apple iPhone 12 Pro feature](https://images.wondershare.com/drfone/article/2022/11/factory-reset-locked-iphone-without-itunes-1.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 To do this, you need to follow these steps:
 
@@ -424,13 +393,6 @@ Your device will now be erased, and you can set it up as a new device.
 If you want to factory reset your locked iPhone without iTunes and any data loss, then this is the method you should use. This method will put your device into recovery mode, and then you can restore it from a previous backup.
 
 ![the recover mode on finder](https://images.wondershare.com/drfone/article/2022/11/factory-reset-locked-iphone-without-itunes-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 To do this, you need to follow these steps:
 
@@ -478,6 +440,10 @@ Your device will now be reset, and you will have a phone like a new one.
 
 If you have lost the passcode of your Apple iPhone 12 Pro, then you can use the Dr.Fone-Screen Unlock tool to factory reset your device. To do this, you need to proceed with the steps given above. They are easy to follow and will help you reset your device without risk.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The Bottom Line
 
 These are some of the most effective methods that can help you factory reset your locked iPhone without iTunes. You can use any of these methods to reset your device and get rid of the lock screen.
@@ -500,15 +466,20 @@ This app can help you factory reset your locked iPhone without iTunes in just a 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/argain-microphones-for-youtube-creators-starting-small/"><u>[New] Bargain Microphones for YouTube Creators Starting Small</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-masterclass-in-real-time-twitvid-engagement/"><u>[Updated] In 2024, Masterclass in Real-Time TwitVid Engagement</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-infusing-emotion-into-documentary-narratives/"><u>2024 Approved Infusing Emotion Into Documentary Narratives</u></a></li>
-<li><a href="https://facebook.techidaily.com/customize-feeds-not-by-algorithm/"><u>Customize Feeds, Not by Algorithm</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-14-pro-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-apple-iphone-se-2020-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone SE (2020) Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/iphone-se-2022-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>iPhone SE (2022) Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/tackling-shutdown-delays-caused-by-unauthorized-windows-apps/"><u>Tackling Shutdown Delays Caused by Unauthorized Windows Apps</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-complete-guide-to-hp-envy-27s-4k-features-for-2024/"><u>The Complete Guide to HP Envy 27'S 4K Features for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-7-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone 7 Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-leading-edge-of-technology-top-10-4k-displays-for-2024/"><u>[Updated] Leading Edge of Technology #Top 10 4K Displays for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unmasking-imagerys-origins-a-complete-guide-to-reverse-picture-searching-in-instagram/"><u>[Updated] Unmasking Imagery's Origins A Complete Guide to Reverse Picture Searching in Instagram</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/a-visual-journey-to-crafting-a-user-friendly-subscribe-link/"><u>A Visual Journey to Crafting a User-Friendly Subscribe Link</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/t-conscious-broadcayers-guide-to-cheap-mics/"><u>Budget-Conscious Broadcayer's Guide to Cheap Mics</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-locked-apple-iphone-6-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>Forgot Locked Apple iPhone 6 Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/free-steelseries-driver-downloads-and-step-by-step-installation-guide-for-windows-users/"><u>Free SteelSeries Driver Downloads and Step-by-Step Installation Guide for Windows Users</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-se-2020-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-unlock-iphone-se-2022-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock iPhone SE (2022) without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-on-apple-iphone-12-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons On Apple iPhone 12? Find the Best Solution Here</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-resolve-your-apple-iphone-x-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>In 2024, Resolve Your Apple iPhone X Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-thrustmaster-t300-controller-software-for-windows-11-and-10-free-download-options/"><u>Latest Thrustmaster T300 Controller Software for Windows 11 & 10 - Free Download Options</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/resolve-your-apple-iphone-7-plus-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your Apple iPhone 7 Plus Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/revamp-your-system-with-an-easy-driver-update-for-the-standard-sata-ahci-controller/"><u>Revamp Your System with an Easy Driver Update for the Standard SATA AHCI Controller</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-meizu-21-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Meizu 21? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-your-disabled-iphone-11-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>Unlock Your Disabled iPhone 11 Without iTunes in 5 Ways | Dr.fone</u></a></li>
 </ul></div>
 

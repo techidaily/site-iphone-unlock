@@ -1,7 +1,7 @@
 ---
 title: VPN Enhancements and Their Impact on Internet Security & Privacy
-date: 2024-11-14T23:22:59.926Z
-updated: 2024-11-17T10:21:12.611Z
+date: 2024-11-24T17:32:22.984Z
+updated: 2024-11-26T16:21:27.963Z
 tags:
   - chatgpt
   - open-ai
@@ -14,6 +14,10 @@ thumbnail: https://thmb.techidaily.com/fb282d9804e61f76170ce10cf4356b1c491a63028
 ---
 
 ## Four Desired Improvements for the Next Generation AI, GPT-5
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -29,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/fb282d9804e61f76170ce10cf4356b1c491a63028
 
  Still, no matter the due date, there are a few key features we want to see when GPT-5 launches.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What Is OpenAI's GPT-5?
 
  GPT-5 is the highly anticipated successor to OpenAI's GPT-4 AI model, widely expected to be the most powerful generative model in the market. While there is currently no official release date for GPT-5, there are indications it could be released as early as the summer of 2024\. Very little detail about the model is known at this time, but several things can be said with some amount of certainty:
@@ -43,13 +51,6 @@ thumbnail: https://thmb.techidaily.com/fb282d9804e61f76170ce10cf4356b1c491a63028
 
 ![OpenAI Sora text-to-video generator](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2024/03/openai-sora-text-to-video-generator.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  One of the most exciting improvements to the GPT family of AI models has been multimodality. For clarity, multimodality is the ability of an AI model to process more than just text but also other types of inputs like images, audio, and video. Multimodality will be an important advancement benchmark for the GPT family of models going forward.
 
  With GPT-4 already adept at handling image inputs and outputs, improvements covering audio and video processing are the next milestone for OpenAI, and GPT-5 is a good place to start. Google is already making serious headway with this sort of multimodality with its Gemini AI model. It would be uncharacteristic of OpenAI not to respond. But, of course, don't take our word for it. In his[Unconfuse Me podcast](https://assets.gatesnotes.com/8a5ac0b3-6095-00af-c50a-89056fbe4642/f0d6c3f0-00cc-4ab6-93cc-7f1d7fd3246e/Unconfuse-Me-with-Bill-Gates-episode-6-TGN-transcript.pdf) \[PDF transcript\], Bill Gates asked OpenAI CEO Sam Altman what milestones he foresaw for the GPT series in the next two years. His first answer? Video Processing.
@@ -57,10 +58,7 @@ thumbnail: https://thmb.techidaily.com/fb282d9804e61f76170ce10cf4356b1c491a63028
  So, for GPT-5, we expect to be able to play around with videos—upload videos as prompts, create videos on the go, edit videos with text prompts, extract segments from videos, and find specific scenes from large video files. We expect to be able to do similar things to audio files. It's a big ask, yes. But given how fast AI development is, it's a very reasonable expectation.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
-  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Larger and More Efficient Context Window
@@ -68,10 +66,7 @@ thumbnail: https://thmb.techidaily.com/fb282d9804e61f76170ce10cf4356b1c491a63028
 ![Monitor on a desk with OpenAI logo](https://thmb.techidaily.com/0d605cbff29d9fac95ea636e3f1dc6722b73dcac2e7b43e02dacf71b94afcc8e.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
-  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Ralf Jhetner Borja/[flickr](https://www.flickr.com/photos/198726053@N04/53043766807/)
@@ -81,13 +76,6 @@ thumbnail: https://thmb.techidaily.com/fb282d9804e61f76170ce10cf4356b1c491a63028
  With advanced multimodality coming into the picture, an improved context window is almost inevitable. Maybe an increase by a factor of two or four would suffice, but we hope to see something like a factor of ten. This will allow GPT-5 to process much more information in a much more efficient manner. Now, a larger context window doesn't always mean better. So, rather than just increasing the context window, we'd like to see an increased efficiency of context processing.
 
  You see, a model might have a one million token context window (around 700,000 words capacity) but fail to produce a comprehensive summary when asked to summarize a 500,000-word book because it can't adequately process the entirety of the context despite having the capacity to do so in theory. That you can read a 500k-word book does not mean you can recall everything in it or process it sensibly.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 3\. GPT Agents
 
@@ -106,6 +94,10 @@ thumbnail: https://thmb.techidaily.com/fb282d9804e61f76170ce10cf4356b1c491a63028
  GPT Agents promises specialized expert bots coordinated by, hopefully, GPT-5 capable of self-prompting and tackling all subsets of a complex task autonomously. Emphasis on "self-prompting" and "autonomous."
 
  So, if GPT-5 ships with GPT Agents, you could ask it to "build a portfolio website for Maxwell Timothy" rather than just "write me a code for the homepage." GPT-5 would then theoretically be able to self-prompt by invoking expert AI agents to handle the various subtasks needed to build a website. It might invoke one GPT to scrap the web for information on Maxwell Timothy, another agent to write the code for different pages, another agent to generate and optimize images, and even another AI agent to deploy the site, all without the need for repeated human prompting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Less Hallucination
 
@@ -134,24 +126,24 @@ thumbnail: https://thmb.techidaily.com/fb282d9804e61f76170ce10cf4356b1c491a63028
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/updated-how-to-record-a-video-presentation-using-adobe-captivate/"><u>[Updated] How to Record a Video Presentation Using Adobe Captivate</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-simple-tips-for-capturing-google-voice-conversations-for-2024/"><u>[Updated] Simple Tips for Capturing Google Voice Conversations for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-leading-mp4-companies-to-watch/"><u>2024 Approved Leading MP4 Companies to Watch</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-unlock-iphone-15-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>3 Ways to Unlock iPhone 15 without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-12-mini-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 12 mini with a Broken Screen? | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/defeating-the-unregistered-class-problem-in-windows-11-expert-tips/"><u>Defeating the Unregistered Class Problem in Windows 11 [Expert Tips]</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/did-your-apple-iphone-12-mini-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your Apple iPhone 12 mini Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-8-plus-drfone-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-14-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock iPhone 14 without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabling-iphone-14-plus-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>In 2024, Disabling iPhone 14 Plus Parental Restrictions With/Without Password | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-7-plus-lock-screen-drfone-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone 7 Plus Lock Screen | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-15-pro-5-ways-to-get-into-a-locked-apple-iphone-15-pro-drfone-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone 15 Pro? 5 Ways to get into a Locked Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-iphone-11-5-ways-to-get-into-a-locked-iphone-11-drfone-by-drfone-ios/"><u>In 2024, Locked Out of iPhone 11? 5 Ways to get into a Locked iPhone 11 | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-quick-and-clean-method-to-live-podcast/"><u>In 2024, Quick & Clean Method to Live Podcast</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-transform-spaces-and-elevate-brands-the-ultimate-apps-list-for-youtube-artistry/"><u>In 2024, Transform Spaces & Elevate Brands The Ultimate Apps List for YouTube Artistry</u></a></li>
-<li><a href="https://review-topics.techidaily.com/play-hevc-h-265-on-redmi-note-12t-pro-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on Redmi Note 12T Pro, is it possible?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-photos-after-vivo-y02t-has-been-deleted-by-fonelab-android-recover-photos/"><u>Recover your photos after Vivo Y02T has been deleted.</u></a></li>
-<li><a href="https://win-superb.techidaily.com/retrieve-your-missing-flipbuildercom-register-account-access-a-comprehensive-guide/"><u>Retrieve Your Missing FlipBuilder.com Register Account Access: A Comprehensive Guide</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/the-roadmap-how-to-make-your-covers-shine/"><u>The Roadmap How To Make Your Covers Shine</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-rise-to-the-top-livestreaming-on-youtube-no-matter-how-low-followers-are/"><u>[New] Rise to the Top - Livestreaming on YouTube, No Matter How Low Followers Are</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-demystifying-the-dynamics-of-mixed-reality-space/"><u>[Updated] In 2024, Demystifying the Dynamics of Mixed Reality Space</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-elevate-your-episodes-masterful-lighting-setups-explained/"><u>[Updated] In 2024, Elevate Your Episodes Masterful Lighting Setups Explained</u></a></li>
+<li><a href="https://network-issues.techidaily.com/banish-flickering-on-monitors-a-diy-guide/"><u>Banish Flickering on Monitors: A DIY Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discover-the-new-wave-of-logitech-products-tailored-for-mac-users/"><u>Discover the New Wave of Logitech Products Tailored for Mac Users</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/hardware-hurdles-whats-necessary-for-big-sur-in-2024/"><u>Hardware Hurdles What's Necessary for Big Sur, In 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-12-mini-drfone-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-8-plus-drfone-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-14-plus-drfone-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-iphone-xripad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled iPhone XR/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-11-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone 11 When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-11-pro-max-and-ipad-securely-drfone-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 11 Pro Max and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-pro-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Pro With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-new-speech-potentials-on-chrome-ranked-top-voice-alteration-tools/"><u>In 2024, Unlock New Speech Potentials on Chrome Ranked Top Voice Alteration Tools</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/is-your-iphone-8-plus-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your iPhone 8 Plus in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://win-docs.techidaily.com/maximize-your-content-visibility-with-advanced-stemming-techniques-in-seo/"><u>Maximize Your Content Visibility with Advanced Stemming Techniques in SEO</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repairing-squad-microphones-the-ultimate-2024-handbook/"><u>Troubleshooting and Repairing Squad Microphones - The Ultimate 2024 Handbook</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ultimate-selection-of-android-and-ios-wedding-timer-apps-reviewed/"><u>Ultimate Selection of Android and iOS Wedding Timer Apps Reviewed</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-se-2020-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone SE (2020) i Do? Get Answers here | Dr.fone</u></a></li>
 </ul></div>
 

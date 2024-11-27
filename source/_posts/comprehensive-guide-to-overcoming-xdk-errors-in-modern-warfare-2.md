@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Overcoming XDK Errors in Modern Warfare 2
-date: 2024-11-11T06:18:49.884Z
-updated: 2024-11-17T03:55:41.969Z
+date: 2024-11-20T23:41:10.588Z
+updated: 2024-11-26T21:50:24.893Z
 tags:
   - win11
   - win10
@@ -30,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/9a7e28e8568427a787263a138246015aa54bad807
 5. [**Check your RAM**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Increase your virtual memory](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Run Warzone on DirectX 11
 
  According to some gamers, the error seems to have disappeared when they**run Warzone on DirectX 11** . So you can try the same and see if this trick works for you too.
@@ -41,24 +45,15 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/mw-d3d11.jpg)
 3. From the left menu, select**Game Settings** . Check the box next to**Additional command line arguments** . In the input area, type**\-d3d11** (mind the dash). Then click**Done** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/mw-d3d11-2.jpg)
 
 Now you can launch Warzone and test the stability.
 
 If this fix doesn’t help, you can try the next one below.
-
-<!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -73,6 +68,10 @@ If this fix doesn’t help, you can try the next one below.
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -92,13 +91,6 @@ And here’s a quick guide:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  To ensure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  After installing all system updates, restart your computer and test the gameplay in Warzone.
@@ -110,13 +102,6 @@ And here’s a quick guide:
  While it’s common belief that overclocking serves as a zero-cost performance booster, things might turn out otherwise. It actually, in some AAA titles, undermines the stability and leads to constant crashes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/afterburner.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 MSI Afterburner
 
@@ -130,6 +115,10 @@ MSI Afterburner
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/gskill-1200x786.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You should at least have 16GB for Warzone, but more is always better.
 
 And here’re some solid brands we recommend:
@@ -140,13 +129,6 @@ And here’re some solid brands we recommend:
 * **[G.Skill](https://www.amazon.com/G-Skill-TridentZ-16GB-25600-F4-3200C16D-16GTZR/dp/B01MTDEYHU/&tag=drivereasycom-20)**
 
  Or you can check out the fix below to use virtual memory as a temporary workaround.
-
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/1943648/22993" target="_top" id="1943648">
-  <img src="//a.impactradius-go.com/display-ad/22993-1943648" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Increase your virtual memory
 
@@ -159,32 +141,14 @@ Here’s how:
 2. Under the **Performance**  section, click **Settings…** .  
 
 <!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/system-advanced-performance-virtual-memory.jpg)
 3. In the pop-up window, navigate to the **Advanced**  tab. Under the **Virtual memory** section, click **Change…** .  
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-advanced.jpg)
@@ -197,10 +161,7 @@ Here’s how:
 6. Restart your computer.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now launch Warzone and check if the problem persists.
@@ -224,18 +185,19 @@ Now launch Warzone and check if the problem persists.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-zooming-into-facebook-live-with-ease-using-zoom/"><u>[New] In 2024, Zooming Into Facebook Live with Ease Using Zoom</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-crafting-winning-titles-and-tags-for-your-youtube-videos/"><u>[Updated] In 2024, Crafting Winning Titles & Tags for Your YouTube Videos</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-strategies-for-designing-youtube-video-flow/"><u>[Updated] In 2024, Strategies for Designing YouTube Video Flow</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/discover-luminous-brilliance-for-your-android-videos/"><u>Discover Luminous Brilliance for Your Android Videos</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-xs-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>How To Unlock iPhone XS Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-7-plus-without-a-passcode-drfone-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 7 Plus Without a Passcode | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-8-plus-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 8 Plus Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-xr-drfone-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone XR | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/microsoft-flight-simulator-x-gold-top-tier-aviation-experience-unbeatable-in-reviews/"><u>Microsoft Flight Simulator X Gold: Top-Tier Aviation Experience Unbeatable in Reviews</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/step-by-step-tutorial-how-to-assess-the-strength-of-your-home-internet-connection-through-wi-fi-signals/"><u>Step-by-Step Tutorial: How To Assess the Strength of Your Home Internet Connection Through Wi-Fi Signals</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/the-complete-walkthrough-for-android-audio-personalization/"><u>The Complete Walkthrough for Android Audio Personalization</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/the-role-of-chatgpt-in-customizing-client-workouts-for-enhanced-results/"><u>The Role of ChatGPT in Customizing Client Workouts for Enhanced Results</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/unstick-the-power-play-how-to-jumpstart-your-ps5-controllers-charge-cycle/"><u>Unstick the Power Play: How to Jumpstart Your PS5 Controller’s Charge Cycle</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-capture-the-action-in-depth-guide-to-game-recording-on-win10-for-2024/"><u>[New] Capture the Action In-Depth Guide to Game Recording on Win10 for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-essential-guide-to-screencasting-with-google-meet/"><u>[New] Essential Guide to Screencasting with Google Meet</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/inding-the-ideal-format-for-your-youtube-videos/"><u>[New] Finding the Ideal Format for Your YouTube Videos</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-crafting-engaging-dialogue-in-screenplays/"><u>[Updated] Crafting Engaging Dialogue in Screenplays</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/12-live-video-streaming-app-for-watching-and-streaming-videos-for-2024/"><u>12 Live Video Streaming App for Watching and Streaming Videos for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-13-pro-max-drfone-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/did-your-apple-iphone-14-pro-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your Apple iPhone 14 Pro Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/expert-recommended-apps-and-sites-for-photo-frames/"><u>Expert-Recommended Apps & Sites for Photo Frames</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-12-learn-all-4-methods-drfone-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone 12? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-se-2020-drfone-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-13-mini-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 13 mini Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-6s-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>iPhone 6s Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/mastering-the-likebook-air-from-boyue-and-jdread-venus-insider-tips-for-ultimate-portability-and-performance/"><u>Mastering the Likebook Air From Boyue & JDRead Venus: Insider Tips for Ultimate Portability and Performance</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/the-gif-grabbers-handbook-a-comprehensible-guide-to-downloading-twitter-gifs-for-2024/"><u>The GIF Grabber's Handbook A Comprehensible Guide to Downloading Twitter GIFs for 2024</u></a></li>
 </ul></div>
 
