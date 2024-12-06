@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Apple iPhone 13 With an Apple Watch & What to Do if It Doesnt Work | Dr.fone
-date: 2024-10-27T21:30:31.769Z
-updated: 2024-11-01T05:57:52.095Z
+date: 2024-11-30T17:10:11.121Z
+updated: 2024-12-06T17:06:05.876Z
 tags: 
   - unlock
   - remove screen lock
@@ -42,9 +42,17 @@ What could work is your Apple Watch.
 
 Depending on the Apple Watch version you own and your Apple iPhone 13 model, you could use your watch to unlock your phone in any circumstances. It’s easy, secure, and convenient, above all else.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2. Requirements for Unlocking Apple iPhone 13 With Apple Watch
 
 ![unlock requirements](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Unfortunately, not every Apple iPhone 13 can be unlocked with your Apple Watch, and not every Apple Watch can unlock your Apple iPhone 13. Both devices must meet some requirements before you can adjust your settings to enable this option.
 
@@ -65,13 +73,6 @@ Additional requirements you’ll need to meet include:
 
 You’ll also need to wear items such as sunglasses, face coverings, ski masks, or others that prevent you from using your Apple iPhone 13 Face ID.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 3. How To Unlock Apple iPhone 13 With an Apple Watch
 
 ![a cyclist wearing an apple watch](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-4.jpg)
@@ -81,6 +82,10 @@ If you meet all the aforementioned criteria, setting up the feature to unlock yo
 - **Step 1:** Go to **Settings > Face ID & Passcode**on your Apple iPhone 13;
 
 ![iphone face id and passcode settings](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** Type in your passcode;
 - **Step 3:** Find and enable **Unlock with Apple Watch**.
@@ -113,10 +118,7 @@ However, remember that the next time you want to use your Apple Watch to unlock 
 Generally speaking, unlocking your Apple iPhone 13 with an Apple Watch should be a simple, seamless task. Unfortunately, though, that’s not always the case. A glitch or a bug could be preventing you from enjoying this feature, so take a look at a few things you could try to fix it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 1. Check All Settings & Reconfigure
@@ -218,6 +220,10 @@ Read on if you've encountered a similar problem on your iOS device. In this guid
 
 ![auto lock greyed out on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Why Is Auto-Lock Greyed Out on iOS Device?
 
 There are a few reasons why the Auto-Lock might be greyed out on your Apple iPhone 13 or iPad device, preventing you from adjusting the duration. Here are the most common culprits:
@@ -233,13 +239,6 @@ Screen Time Restrictions
 [<u>Screen Time restrictions</u>](https://drfone.wondershare.com/unlock/how-to-turn-off-screen-time-without-passcode.html) can impact Auto-Lock. For instance, if your downtime schedule blocks all apps, the screen locks itself, even if the Auto-Lock timer hasn't run out.
 
 ![screen time settings on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-03.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 MDM Profile Restrictions
 
@@ -286,6 +285,10 @@ Since an MDM configuration profile causes limitations, like the greyed-out ****A
 - **Step 3:** Tap **Remove Profile**, enter your device passcode, then tap **Remove**.
 
 ![remove configuration profile on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Fix No.4: Remove Network Settings Installed by MDM
 
@@ -338,13 +341,6 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 ![dr.fone guide turn off find my](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 6:** The software will display the progress of the bypass. Wait for it to complete.
 
 ![dr.fone bypassing mdm lock](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-5.png)
@@ -382,13 +378,6 @@ Here's **how to change Auto-Lock on iPhone** devices:
 
 ![change auto-lock on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-18.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 There you have it. This guide has equipped you with the knowledge and solutions to fix the **Auto-Lock greyed out** on your Apple iPhone 13 or iPad devices. From identifying the reasons like Low Power Mode and MDM configurations to implementing actionable fixes, you can now change your screen timeout. So, turn off those restrictions, remove MDM profiles, and head back to Settings.
@@ -404,6 +393,10 @@ Forgetting your Apple iPhone 13 backup password can be a real pain. Not only doe
 There are still chances that you could forget your Apple iPhone 13 backup password. Fortunately, you have a chance to recover your password. So, if you're having trouble remembering your Apple iPhone 13 backup password, don't despair. There are still ways to get it back!
 
 ![forget backup password](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Overview of iPhone Backup Password
 
@@ -433,13 +426,6 @@ Select the Encrypt Local Backup option in the Backups section directly from eith
 
 ![encryption](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4:** Create a Password
 
 When prompted in the window, create a password for the account. Make it powerful yet that is simple for you to remember. You might also save it somewhere secure to help you recall it later.
@@ -447,13 +433,6 @@ When prompted in the window, create a password for the account. Make it powerful
 After establishing the password, all your previous backups will immediately undergo an automated overwrite and encryption. Make it a priority to ensure that the encryption procedure is finished effectively.
 
 ## Part 2: 5 Fixes When We Forgot iPhone Backup Password
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Try all passwords you used on your Apple iPhone 13
 
@@ -487,6 +466,10 @@ Use a USB cable to link your Apple iPhone 13 to your PC. Look at the small iOS i
 
 Proceed to the **Summary Page** and make your selection there for **The Computer.** After selecting **Encrypt Local Backup**, you must create a new password. After you have pressed the **Backup Now** option, wait for iTunes to create a new password for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Find your password in the macOS keychain
 
 **Step 1:** Launch Keychain Access by going to **Application** \> **Utilities** \> **Keychain Access** once your Mac has booted up.
@@ -496,6 +479,10 @@ Proceed to the **Summary Page** and make your selection there for **The Computer
 **Step 3:** Double-click the **Show Password** option, and then choose it from the drop-down menu. After that, type in the password for the keychain. At long last, the password for your Apple iPhone 13 backup will be shown.
 
 ![keychain](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Select "Back Up Now" via iCloud to remove password
 
@@ -523,13 +510,6 @@ With Dr.Fone - Screen Unlock, it's easy to follow all the steps to get rid of th
 
 ![screen unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3:** When you get to this page, use a USB cable to connect your iOS device to the PC. If Dr.Fone can find this connection, you will see the picture below.
 
 Before you click **Remove Now**, please carefully read the following three notes:
@@ -543,6 +523,10 @@ Before you click **Remove Now**, please carefully read the following three notes
 **Step 4:** Dr.Fone can check your iTunes backup and delete it by itself. This encryption will be erased when the progress bar reaches 100%. This will take a short time to do.
 
 ![checking](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5:** The encryption on the iTunes backup has been removed successfully! Now you can easily back up, restore, move, or wipe your device.
 
@@ -590,17 +574,18 @@ However, no matter how secure your gadget is, password leakage may happen, sendi
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/updated-chiefs-best-sky-vault-for-firms/"><u>[Updated] Chiefs’ Best Sky Vault for Firms</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-htc-u23-pro-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from HTC U23 Pro to Samsung Phone | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-14-plus-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone 14 Plus without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-15-pro-with-itunes-drfone-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone 15 Pro with iTunes | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Motorola G24 Power? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-se-learn-all-4-methods-drfone-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone SE? Learn All 4 Methods | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-your-iphone-11-pro-max-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Your iPhone 11 Pro Max Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Infinix Hot 40 Pro? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-xs-drfone-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone XS | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/lecteurs-dvd-gratuits-pour-ordinateurs-sous-windows-11-les-3-meilleures-solutions-de-lecture-en-2021/"><u>Lecteurs DVD Gratuits Pour Ordinateurs Sous Windows 11 : Les 3 Meilleures Solutions De Lecture en 2021</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/seamless-date-insertion-into-photo-editing/"><u>Seamless Date Insertion Into Photo Editing</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/the-essential-guide-to-free-licensed-audio-for-yt-for-2024/"><u>The Essential Guide to Free, Licensed Audio for YT for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-ultimate-guide-top-10-cameras-in-the-new-os/"><u>[Updated] 2024 Approved Ultimate Guide Top 10 Cameras in the New OS</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-premier-eco-friendly-camera-systems-for-filmmakers/"><u>[Updated] In 2024, Premier Eco-Friendly Camera Systems for Filmmakers</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-the-art-of-gamers-screen-recording-on-win10/"><u>[Updated] The Art of Gamers' Screen Recording on Win10</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-unveiling-the-future-of-marketing/"><u>2024 Approved Unveiling the Future of Marketing</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-15-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-c67-4g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme C67 4G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-11-pro-max-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone 11 Pro Max to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-honor-x50-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Honor X50 Phone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-iphone-14-plus-passcode-without-a-computer-drfone-by-drfone-ios/"><u>In 2024, Unlocking iPhone 14 Plus Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/mastering-your-digital-space-with-icloud-an-essential-walkthrough-of-its-features-and-application/"><u>Mastering Your Digital Space with iCloud: An Essential Walkthrough of Its Features and Application</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/navigating-youtubes-photo-publishing/"><u>Navigating YouTube's Photo Publishing</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/passfab-iphone-14-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab iPhone 14 Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ere-pro-streamline-for-online-video-uploads/"><u>Premiere Pro Streamline for Online Video Uploads</u></a></li>
 </ul></div>
 

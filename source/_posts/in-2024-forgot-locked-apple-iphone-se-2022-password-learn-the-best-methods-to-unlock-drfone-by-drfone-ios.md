@@ -1,7 +1,7 @@
 ---
 title: In 2024, Forgot Locked Apple iPhone SE (2022) Password? Learn the Best Methods To Unlock | Dr.fone
-date: 2024-07-15T07:09:44.292Z
-updated: 2024-07-16T07:09:44.292Z
+date: 2024-12-02T17:06:08.213Z
+updated: 2024-12-06T17:27:41.247Z
 tags: 
   - unlock
   - remove screen lock
@@ -22,20 +22,25 @@ This app offers a reliable and secure platform for storing personal and confiden
 
 ![unlock forgotten notes password easily](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1. Best Method To Unlock Forgotten Notes Password iPhone: Wondershare Dr.Fone
 
 Apple allows users to create a separate password for notes or use their iPhone passcode. Many users choose the second option to avoid remembering a new password. Forgetting the Apple iPhone SE (2022) device passcode poses a drawback, making your notes inaccessible. [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) stands out as one of the most straightforward solutions for addressing this scenario.
 
 It offers an absolute way to regain access to your notes and device if you **forgot locked Notes password**. However, it's essential to note that this method will remove all data from your Apple iPhone SE (2022). That allows you to set your device as new and restore the old data using backups. Dr.Fone offers a comprehensive solution with the ability to bypass or remove most of the locks on iOS devices.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Focusing Features of Wondershare Dr.Fone
 
 1. For users who have [forgotten their Screen Time passcode](https://drfone.wondershare.com/unlock/how-to-turn-off-screen-time-without-passcode.html), Dr.Fone allows them to remove it without causing data loss.
 2. Fone has the ability to [remove Apple ID](https://drfone.wondershare.com/unlock/how-to-sign-out-of-apple-id-without-password.html) from your iOS device if you have forgotten its credentials.
 3. Buying a second-hand might involve iCloud Activation Lock, which Dr.Fone can bypass in minutes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Steps To Unlock Forgotten Notes Password iPhone via Wondershare Dr.Fone
 
@@ -48,7 +53,6 @@ Dr.Fone is a robust tool tailored to aid users in unlocking their iOS devices. I
 Once Wondershare Dr.Fone is downloaded and installed on your computer, launch it. Then navigate to "Toolbox," access "Screen Unlock," and finally choose "iOS" as the Apple iPhone SE (2022) device type. Now, select the “Unlock iOS Screen” button to begin the process.
 
 ![unlock ios screen with dr fone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
-
 
 - **Step 2. Enter Recovery Mode and Download Firmware**
 
@@ -78,6 +82,14 @@ If you've locked a note on your Apple iPhone SE (2022) but forgot the password, 
 
 ![enter new password for notes](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3. How To Unlock Notes on iPhone Using Touch ID/Face ID
 
 Even if you've forgotten the password to your Notes on iPhone, there's an alternative method available. You can unlock them by enabling Face ID or Touch ID for Notes. This feature allows users to access locked notes through biometric authentication. Here's **how to unlock a note on iPhone** using Touch ID/Face ID:
@@ -103,6 +115,10 @@ Locking notes on your Apple iPhone SE (2022) provides extra security for your se
 - **Step 2.** If it is the first time, you will be asked to set a new password or use the same one as the Apple iPhone SE (2022) device. After your note is locked, hide its content by tapping the “open lock” icon at the top of the screen.
 
 ![enter password to lock note](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -164,9 +180,6 @@ If you are worried about losing data such as purchases and contacts, don't worry
 
 - **Step 3:** From the **Apple ID** pop-up window, enter your new Apple ID in the **Change your Apple ID** text field.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enter a new apple id interface](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-on-ipad-05.jpg)
 
 - **Step 4:** Select **Change Apple ID** to proceed.
@@ -191,6 +204,10 @@ If you're in China mainland or India, and you're using iOS 11 or later, you can 
 - **Step 6:** Log into all Apple services using your new Apple ID.
 
 Even if you can't **change your Apple ID on your iPad** to a mobile phone number, you can still associate it with a phone number on your account page. It means you can [<u>use a different email address or mobile phone number to log in to your Apple ID</u>](https://drfone.wondershare.com/apple-account/how-to-remove-phone-number-from-apple-id.html). See the next sections for more information on the workarounds you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: What To Do if You Cannot Change Your Apple ID on iPad?
 
@@ -226,12 +243,8 @@ Dr.Fone can bypass the Find My/Find My iPhone feature to remove your Apple ID fr
 
 - **Step 1:** Get [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) from their website and install it on your computer.
 
-
 - **Step 2:** From the app's **Toolbox** homepage, click **Screen Unlock**, and select **iOS**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone toolbox homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 - **Step 3:** Select **Remove AppleID** from the available **Screen Unlock** tools.
@@ -274,6 +287,10 @@ Dr.Fone can bypass the Find My/Find My iPhone feature to remove your Apple ID fr
 
 ![unlocking apple id in progress](https://images.wondershare.com/drfone/guide/remove-apple-id-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 13:** Once finished, click **Done**, then check your iPad. If your Apple ID is not unlocked, you may need to click **Try again** to restart.
 
 ![dr.fone unlocked device apple id](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
@@ -306,13 +323,12 @@ If not already enabled, turn on 2FA for an extra layer of security. It's simple 
 
 And if you need to remove your Apple ID without a password, Dr.Fone is a good option. Dr.Fone is a powerful iOS toolkit that can help you with various phone solutions. It's easy to use and can help you solve mobile problems in just a few minutes.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Unlock Apple iPhone SE (2022)?
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 [![drfone](https://drfone.wondershare.com/images/james-davis.png)](https://drfone.wondershare.com/author/james-davis/)
 
 Human life completely changed since the advent of technology. Today, life is not the same as it used to be. Communication and traveling became so easy. People can fly and within few hours reach the destination. The time span that was once calculated in days has now shrunk to just a few hours. In the early days, no one would have imagined that they could carry the computer in small bags, but laptops were invented to their surprise.
@@ -321,14 +337,11 @@ Today, all those computer and laptop qualities are being shifted into a small ph
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fn6H3w08kAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
-
 ## **Part 1. Unlock Apple iPhone SE (2022) without Passcode or Face ID**
 
 A problem commonly faced by all iPhone users is that they forget the password, and then they are stuck because they cannot use their phone anymore. This might seem impossible because iPhone users cannot use the phone without a passcode, but let us show you a magical application that makes this impossible.
 
 [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/), the well-known application among most iPhone users, can resolve the problem quickly. This is a very secure platform for iPhone users because it promises to safeguard user's personal information. The application is easy to use, that even a new person can use it without facing any trouble. Let us highlight its features;
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -362,6 +375,10 @@ In the second step, the user should connect their phone to the system and let Dr
 Once the application has detected your Apple iPhone SE (2022), you now need to activate the Recovery mode. A step by step illustration on how to activate Recovery mode is shared on-screen.
 
 ![ios unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4: Download Firmware Update**
 
@@ -419,9 +436,6 @@ IOS world is different from the Android world, and so, both have different and u
 
 Different methods have been discussed that use different platforms regarding how a user can unlock an iPhone if a passcode is missing. The user might be confused about selecting the appropriate method, so let’s help the users by sharing some advantages and disadvantages of all the methods discussed above. This will help the user to select the best possible method;
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Using Dr.Fone - Screen Unlock (iOS)
 
 The known and famous application among iPhone users helps them recover data, unlock a phone even if its passcode is missing, and whatnot. Let us now discuss its amazing pros;
@@ -439,6 +453,10 @@ The known and famous application among iPhone users helps them recover data, unl
 2. The Apple iPhone SE (2022) must be in DFU mode for the process to unlock the screen.
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Using iTunes
 
@@ -474,7 +492,6 @@ The article aimed to provide users with maximum information and knowledge about 
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -487,9 +504,26 @@ The article aimed to provide users with maximum information and knowledge about 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-accelerate-your-adrenaline-the-ultimate-5-racing-game-list/"><u>[New] In 2024, Accelerate Your Adrenaline The Ultimate 5 Racing Game List</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-boosting-views-top-14-gaming-video-ideas-that-work/"><u>[Updated] Boosting Views Top 14 Gaming Video Ideas That Work</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-elevate-your-social-media-game-post-tiktoks-on-twitter-for-2024/"><u>[Updated] Elevate Your Social Media Game Post TikToks on Twitter for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-extensive-examination-of-vsco-image-tools-for-2024/"><u>[Updated] Extensive Examination of VSCO Image Tools for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-step-by-step-creation-of-gamers-channel-graphics/"><u>2024 Approved Step-By-Step Creation of Gamers' Channel Graphics</u></a></li>
+<li><a href="https://extra-information.techidaily.com/determining-top-video-player-vlcs-face-off-with-mx/"><u>Determining Top Video Player VLC's Face-Off With MX</u></a></li>
+<li><a href="https://win11.techidaily.com/effortless-guide-solving-iphone-mov-file-playback-issues-and-troubleshooting-tips/"><u>Effortless Guide: Solving iPhone MOV File Playback Issues & Troubleshooting Tips</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-apple-iphone-15-plus-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>How to Bypass Apple iPhone 15 Plus Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-14-pro-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-apple-iphone-15-pro-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to Apple iPhone 15 Pro Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-12-pro-with-7-methods-drfone-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for iPhone 12 Pro With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-photobooth-video-glitch-understanding-the-halt/"><u>In 2024, Photobooth Video Glitch - Understanding the Halt</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-apple-iphone-11-pro-max-without-passcode-easily-drfone-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 11 Pro Max Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/innovative-approach-in-airline-industry-southwest-boosts-customer-experience-says-zdnet-analysis/"><u>Innovative Approach in Airline Industry: Southwest Boosts Customer Experience, Says ZDNet Analysis</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-apple-iphone-6-plus-5-ways-to-get-into-a-locked-apple-iphone-6-plus-drfone-by-drfone-ios/"><u>Locked Out of Apple iPhone 6 Plus? 5 Ways to get into a Locked Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-the-top-10-rainmeter-errors-on-windows/"><u>Overcoming the Top 10 Rainmeter Errors on Windows</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-xs-max-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone XS Max Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/trouble-with-apple-iphone-6-plus-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with Apple iPhone 6 Plus Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-12-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock iPhone 12 Without Passcode Easily | Dr.fone</u></a></li>
+</ul></div>
 

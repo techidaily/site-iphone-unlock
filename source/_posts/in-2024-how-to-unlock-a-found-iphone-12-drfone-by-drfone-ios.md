@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Unlock A Found iPhone 12? | Dr.fone
-date: 2024-10-30T09:24:26.918Z
-updated: 2024-11-01T07:13:07.433Z
+date: 2024-12-01T16:45:11.921Z
+updated: 2024-12-06T17:19:34.573Z
 tags: 
   - unlock
   - remove screen lock
@@ -107,6 +107,10 @@ Here are the simple steps that can help you.
 
 ![unlock ios screen by drfone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. After downloading the firmware, click the Unlock Now button to begin the unlocking process.
 
 ![start unlocking found iphone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
@@ -152,10 +156,7 @@ Most people who have lost their iPhones often check their iCloud, and once they 
 And that's how you can also communicate with them and ask for contact details so that you can return their phone and be a good citizen.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The Bottom Line
@@ -228,6 +229,14 @@ After successfully signing in with your Apple ID, choose **Backup**.
 
 ![restore from icloud](https://images.wondershare.com/drfone/article/2022/12/reset-iphone-backup-password-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Find it back in the macOS keychain
 
 Launch Keychain Access by going to **Application,** then **Utilities,** and choose **Keychain Access** once your Mac has booted up.
@@ -272,18 +281,15 @@ Click **"Remove Now"**
 
 ![checking](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5:** iTunes backup encryption is removed successfully! You can now reset iTunes backup password without any trouble.
 
 ![removed](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-5.png)
 
 ## Part 4: Tips to Keep Your Apple iPhone 12 Backup Password
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 1\. Use birthday as password
 
@@ -298,13 +304,6 @@ There is a wide selection of third-party software on the market that may assist 
 These applications cannot only safeguard your data but also add additional levels of protection, making it impossible for anybody else, even if they know the password, to access the data.
 
 KeepSafe and Norton Zone are just examples of the many different programs available. Not only will your Apple iPhone 12 backup password be safe and secure with these programs, but other crucial information stored on your phone will also be protected.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Write it down on a note
 
@@ -348,6 +347,10 @@ Leveraging the advanced security capabilities of Face ID or Passcode on your App
 
 ![access face id and passcode option](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to Lock Apps on iPhone Using Shortcuts?
 
 If you are unable to lock the targeted app directly with Face ID, there is no need to worry. There exist workarounds that you can use, and one of them is using the Shortcuts app. It won't directly lock apps with the Face ID. Instead, it provides a workaround by creating a shortcut that redirects to the lock screen.
@@ -379,10 +382,7 @@ By taking the assistance of Apple’s native Restrictions feature, you can app l
 ![setup iphone restrictions](https://images.wondershare.com/drfone/article/2017/09/15060134646367.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2.** Turn the feature on and set up a passcode for app restrictions. To provide added security, you can set up a passcode that is not similar to your lock screen passcode.
@@ -390,6 +390,10 @@ By taking the assistance of Apple’s native Restrictions feature, you can app l
 **Step 3.** Now, you can set up an app lock for iPhone using Restrictions. Simply go to General > Restrictions and turn this feature on for any app of your choice.
 
 ![turn on restrictions for the app](https://images.wondershare.com/drfone/article/2017/09/15060135059851.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4.** If you want, then you can also switch this feature off for any app using the same method.
 
@@ -409,6 +413,10 @@ Remove iPhone iPhone-locked screen without Hassle.
 
 **4,008,670** people have downloaded it
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5: How to Lock Apps on iPhone Using Guided Access?
 
 Besides the Restrictions feature, you can also take the assistance of Guided Access to lock a certain app on your device. It was originally introduced in iOS 6 and can be used to restrict your device temporarily with the usage of a single app. It is mostly used by parents who would like to restrict their kids from using a single app while lending their devices. Teachers and people with special needs also use Guided Access pretty frequently. To learn how to lock apps on iPhone using Guided Access, follow these steps:
@@ -422,10 +430,7 @@ Besides the Restrictions feature, you can also take the assistance of Guided Acc
 ![guided access password](https://images.wondershare.com/drfone/article/2017/09/15060135537597.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3.** After selecting the “Set Guided Access Passcode” option, you can set up a passcode to use it as an app lock for iPhone.
@@ -504,13 +509,6 @@ However, if you have a jailbroken device and would like to app lock the iPhone, 
 
 This will let your app lock the Apple iPhone 12 without any trouble. You can also go to the “Reset Password Phrase” to change the passcode.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3\. Lock Apps onApple iPhone 12 & iPad using BioProtect
 
 Just like Applocker, BioProtect is another third-party tool that works only on jailbroken devices. It can also be downloaded from Cydia’s repository. Apart from apps, you can also use BioProtect to lock settings, SIM features, folders, and more. It is linked to the Touch ID of the Apple iPhone 12 device and scans the fingerprint of a user to grant (or deny) access to any app. The app only works on iPhone 5s and later devices, having a Touch ID. However, you can also set a passcode as well if your Touch ID is not working. To use the BioProtect app lock for iPhone, follow these steps:
@@ -523,19 +521,6 @@ Just like Applocker, BioProtect is another third-party tool that works only on j
 
 ![app is locked](https://images.wondershare.com/drfone/article/2017/09/15060137022586.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1702748">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1702748.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18544-1702748">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1702748.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftwopages.pxf.io%2Fc%2F5597632%2F1702748%2F18544'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702748/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 4.** This will let you access the BioProtect app settings.
 
 **Step 5.** Firstly, enable the app by turning the respective feature on.
@@ -543,13 +528,6 @@ Just like Applocker, BioProtect is another third-party tool that works only on j
 **Step 6.** Under the “**Protected Applications**” section, you can see a list of all the major apps.
 
 ![protected applications](https://images.wondershare.com/drfone/article/2017/09/15060137256044.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 7.** Simply turn on (or off) the feature of the app that you wish to lock.
 
@@ -577,14 +555,19 @@ By following these solutions, you would be able to learn how to lock apps on the
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-navigating-the-invisible-aspects-of-social-media-success/"><u>[New] In 2024, Navigating the Invisible Aspects of Social Media Success</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-your-shorts-are-here-no-more-waiting-game/"><u>[Updated] Your Shorts Are Here – No More Waiting Game</u></a></li>
-<li><a href="https://fox-tips.techidaily.com/onedrive-4/"><u>恢復 OneDrive 消失檔案的方法，一項最新教學：分享4種可行解決辦法</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/gigglegenius-log-in-for-video-adventures-for-2024/"><u>GiggleGenius Log In for Video Adventures for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-13-pro-max-drfone-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 13 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-unlock-iphone-12-mini-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock iPhone 12 mini without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-6-drfone-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xr-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XR Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/tout-savoir-pour-convertir-votre-video-mov-en-format-ebgp-sans-frais-sur-internet-avec-movavi-pas-de-details-manques/"><u>Tout Savoir Pour Convertir Votre Vidéo MOV en Format Ebgp Sans Frais Sur Internet Avec Movavi – Pas De Détails Manqués !</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-prime-7-video-software-for-mac/"><u>[New] 2024 Approved Prime 7 Video Software for Mac</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-mobile-methods-for-capturing-snapchat-content/"><u>[New] In 2024, Mobile Methods for Capturing Snapchat Content</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-the-ultimate-roadmap-views-subscribers-and-money-on-youtube/"><u>[New] In 2024, The Ultimate Roadmap Views, Subscribers & Money on Youtube</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-audio-ambition-realized-cutting-edge-recording-methods-for-minecraft-players/"><u>[Updated] In 2024, Audio Ambition Realized Cutting-Edge Recording Methods for Minecraft Players</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-iphone-7-plus-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone 7 Plus with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/comprehensive-list-best-screenshot-and-video-grabbers-for-windows-10/"><u>Comprehensive List Best Screenshot & Video Grabbers for Windows 10</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-xs-max-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/hassle-free-brother-mfc-7360n-printer-drivers-download-and-update-instructions-for-windows-10-8-or-7-users/"><u>Hassle-Free Brother MFC-7360N Printer Drivers Download & Update Instructions for Windows 10, 8 or 7 Users</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-samsung-galaxy-s23-by-drfone-android/"><u>How to Bypass FRP from Samsung Galaxy S23?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-iphone-7-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix iPhone 7 Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-a-tecno-spark-go-2024-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Tecno Spark Go (2024) Phone that is Locked?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-14-pro-prevention-and-solution-drfone-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone 14 Pro Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-apple-iphone-13-pro-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 13 Pro Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/secure-your-m-audio-ultra-driver-for-free-start-with-these-direct-downloads/"><u>Secure Your M-Audio Ultra Driver for Free - Start with These Direct Downloads!</u></a></li>
 </ul></div>
 

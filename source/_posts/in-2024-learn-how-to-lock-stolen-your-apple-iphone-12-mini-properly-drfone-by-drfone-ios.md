@@ -1,7 +1,7 @@
 ---
 title: In 2024, Learn How To Lock Stolen Your Apple iPhone 12 mini Properly | Dr.fone
-date: 2024-11-19T22:56:43.433Z
-updated: 2024-11-27T00:44:27.103Z
+date: 2024-12-05T17:55:23.157Z
+updated: 2024-12-06T17:41:10.917Z
 tags: 
   - unlock
   - remove screen lock
@@ -35,6 +35,10 @@ On learning about **how do I lock my stolen iPhone**, Apple's robust [<u>Find My
 
 ![using find my to locate iphone](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Scenarios Where Find My Works
 
 Find My can be a source to track stolen iPhones, but certain scenarios are associated with its operations. To know more about these scenarios, this section continues the discussion further below:
@@ -63,10 +67,6 @@ Lost Mode locks the Apple iPhone 12 mini device and allows users to showcase a p
 - **Step 1.** Within the Find My app, tap "Devices" from the bottom toolbar and select your lost device. Now, scroll down to "Mark As Lost" and tap "Activate."
 
 ![proceed to activate lost mode](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 2.** You will now be given a summary of the Lost Mode; tap "Continue" to proceed. On the following screen, add a phone number, tap "Next," and add a message that will be displayed on the lost device.
 
@@ -102,16 +102,12 @@ When efforts to locate a stolen iPhone fail, the need to protect sensitive data 
 
 ![follow prompts to erase](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-12.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 3.** If using the iCloud website, tap "Erase This Device" and click "Next" on the upcoming prompt. You will be asked to enter the Apple ID password, after which you can use the on-screen guidelines to finish the process.
 
 ![erase device from browser](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-13.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 5. Other Things To Do iPhone Is Stolen
@@ -123,10 +119,6 @@ There are additional measures you can take to enhance your overall security apar
 If your Apple iPhone 12 mini is stolen, it is crucial to immediately inform your local law enforcement agency. It facilitates the recovery process and assists in combatting criminal activities. Provide essential details about your Apple iPhone 12 mini, such as the Model, color, and IMEI number. Share information about your efforts to locate the stolen iPhone using Find My.
 
 ![reporting iphone stolen to police](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-14.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### To Do List #2. Make an Insurance Claim With AppleCare
 
@@ -150,6 +142,10 @@ After your Apple iPhone 12 mini is stolen, it becomes essential to bolster the s
 
 ![remove stolen device from account](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-17.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### From the Apple ID Website
 
 - **Step 1.** If you cannot reach a secure device, visit the <http://appleid.apple.com> website and sign in with the identical Apple ID.
@@ -163,6 +159,10 @@ After your Apple iPhone 12 mini is stolen, it becomes essential to bolster the s
 ## Part 6. Precautions To Take for Avoiding Losing iPhone
 
 Users can proactively adopt specific measures to reduce the likelihood of such an occurrence. The following essential precautions are recommended while learning **how to block your Apple iPhone 12 mini when stolen**:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Precaution #1. Enable Find My on Device
 
@@ -183,6 +183,10 @@ Enabling “Separation Alerts” assists in preventing the loss of your Apple iP
 - **Step 1.** Navigate to and launch the Find My app on your Apple iPhone 12 mini. Select the Apple iPhone 12 mini device from the "Devices" tab for which you want to enable separation alerts.
 
 ![look for device in find my](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-22.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2.** From the available options, tap "Notify When Left Behind," and on the following screen, toggle "Notify When Left Behind." You can also add locations on this screen by tapping "New Location," for which you don't want to receive a left-behind notice.
 
@@ -224,11 +228,19 @@ Once you have installed and launched Wondershare Dr.Fone, access the "Toolbox" t
 
 ![start ios screen unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Step 2. Entering Recovery Mode and Choosing System Version
 
 The next step requires you to put your device in Recovery Mode, for which you can follow the instructions given on-screen. After your device is in Recovery Mode, Dr.Fone will display its “Model.” Now choose the appropriate "System Version" and click "Start." Here, Dr.Fone will start downloading the required firmware. Once it is downloaded and verified, tap "Unlock Now."
 
 ![proceed to unlock ios](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Step 3. Acknowledging Data Loss Warning and Initiating Unlock Process
 
@@ -236,19 +248,15 @@ To show your acknowledgment of the warning, enter the asked code, which is "0000
 
 ![acknowledge and unlock device](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Knowing **how to lock stolen iPhone**s is essential for safeguarding personal and sensitive data. Apple's Find My empowers users to remotely locate, lock, and erase their lost devices. If you have recovered your stolen device but it is locked, Wondershare Dr.Fone emerges as the top choice to unlock it within minutes.
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How To Fix Auto Lock Greyed Out on Apple iPhone 12 mini
 
@@ -416,10 +424,6 @@ For an easy solution, use Dr.Fone Screen Unlock to bypass MDM restrictions, givi
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How Much Does It Cost for Unlocking iPhones? Get Answers
 
 Have you purchased a carrier-locked iPhone or got into an “iPhone Disabled” issue? Apple's security makes it hard for you to get into your phone without authorization. There are various legitimate solutions to eliminate these issues, but they require you to focus on guidelines and pay a specific cost. Are you facing similar issues and wondering **how much will it cost to unlock an iPhone** device?
@@ -429,7 +433,7 @@ This well-researched guide will provide facts and cost details of different carr
 ![costing an iphone to unlock](https://images.wondershare.com/drfone/article/2024/02/how-much-will-it-cost-to-unlock-an-iphone-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1. How To Check Whether iPhone Is Locked or Not?
@@ -459,10 +463,6 @@ The “iPhone is Disabled” issue appears when you or anyone else enters the wr
 Your iPhone can support different network operators only if it is unlocked and allowed to use multiple carriers. But if your Apple iPhone 12 mini is restricted, you have to pay charges to the desired network to unlock your carrier lock. However, a question pops up here about **how much does unlocking a phone cost** with some main carriers.
 
 ![icons of top network carriers](https://images.wondershare.com/drfone/article/2024/02/how-much-will-it-cost-to-unlock-an-iphone-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. AT&T
 
@@ -655,10 +655,6 @@ As you progress into “Screen Unlock” tool in Wondershare Dr.Fone, select the
 
 ![access remove apple id function](https://images.wondershare.com/drfone/guide/remove-apple-id-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 2. Confirm Screen Lock and Two-Factor Authentication**
 
 Before moving further, you have to confirm that your iDevice has a screen lock and two-factor authentication enabled. If not, turn on the two-factor authentication from the Apple iPhone 12 mini device settings. Then, click on "Yes" to process.
@@ -670,6 +666,10 @@ Before moving further, you have to confirm that your iDevice has a screen lock a
 After that, you will be prompted to put your iDevice in Recovery Mode by following on-screen instructions according to your Apple iPhone 12 mini model. On the next window, you can see your "Device Model" recognized and then choose the "System Version" and hit the "Start" button.
 
 ![start recovery mode on Apple iPhone 12 mini](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4. Download iOS Firmware and Unlock Apple ID**
 
@@ -697,18 +697,17 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-serene-spins-explore-20-best-country-songs-to-dance-and-unwind-on-tiktok/"><u>[New] Serene Spins Explore 20 Best Country Songs to Dance & Unwind on TikTok</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-dj-beats-unleashed-high-fidelity-templates-downloaded-easily/"><u>[Updated] DJ Beats Unleashed High-Fidelity Templates Downloaded Easily</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/beyond-apples-shine-unveiling-the-allure-and-functionality-of-the-exquisite-skagen-falster-2/"><u>Beyond Apple’s Shine: Unveiling the Allure and Functionality of the Exquisite Skagen Falster 2</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/can-you-unlock-iphone-xs-max-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>Can You Unlock iPhone XS Max After Forgetting the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/did-your-apple-iphone-15-pro-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your Apple iPhone 15 Pro Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/ephemeral-movie-blueprint-for-2024/"><u>Ephemeral Movie Blueprint for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/how-extended-device-lifespan-can-benefit-our-planet-a-google-discussion/"><u>How Extended Device Lifespan Can Benefit Our Planet: A Google Discussion</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-iphone-11-pro-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 11 Pro After Forgetting the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2022-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone SE (2022) Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-13-pro-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 13 Pro Prevention & Solution | Dr.fone</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/the-joy-of-language-mastery-with-duolingo-a-free-engaging-review-by-zdnet/"><u>The Joy of Language Mastery with Duolingo: A Free, Engaging Review by ZDNet</u></a></li>
-<li><a href="https://win-blog.techidaily.com/unveiling-recent-updates-a-deep-dive-into-windows-10s-creators-version/"><u>Unveiling Recent Updates: A Deep Dive Into Windows 10'S Creators Version</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win10-amd-radeon-r9-driver-fixed-case/"><u>Win10 AMD Radeon R9 Driver Fixed Case</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-10-premier-online-systems-for-screen-saving/"><u>[Updated] 2024 Approved 10 Premier Online Systems for Screen Saving</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-expert-recommendations-top-15-no-cost-audiosite-collections-for-2024/"><u>[Updated] Expert Recommendations Top 15 No-Cost Audiosite Collections for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-14-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone 14 Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-7-plus-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-apple-iphone-se-drfone-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-open-your-iphone-11-without-a-home-button-drfone-by-drfone-ios/"><u>In 2024, How To Open Your iPhone 11 Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-apples-new-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/innovating-with-jujutsu-kaisen-characters-on-tiktok-for-2024/"><u>Innovating with Jujutsu Kaisen Characters on TikTok for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-tecno-camon-30-pro-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Tecno Camon 30 Pro 5G FRP Without Computer</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723002117009-say-goodbye-to-obs-woes-unlock-perfect-screen-recording-techniques-today/"><u>Say Goodbye to OBS Woes: Unlock Perfect Screen Recording Techniques Today!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unboxing-the-speedy-sovol-sv08-a-tribute-to-vorons-legacy/"><u>Unboxing the Speedy Sovol SV08 - A Tribute to Voron's Legacy</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unveiling-the-power-of-wi-fi-6-asus-orbi-mesh-network-expert-review-for-faster-more-stable-household-wireless-connection/"><u>Unveiling the Power of Wi-Fi 6: ASUS Orbi Mesh Network Expert Review for Faster, More Stable Household Wireless Connection</u></a></li>
 </ul></div>
 

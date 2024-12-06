@@ -1,7 +1,7 @@
 ---
 title: iPhone SE (2020) Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone
-date: 2024-11-21T22:50:10.978Z
-updated: 2024-11-26T16:37:37.175Z
+date: 2024-12-03T18:26:41.333Z
+updated: 2024-12-06T18:02:42.110Z
 tags: 
   - unlock
   - remove screen lock
@@ -16,10 +16,6 @@ thumbnail: https://thmb.techidaily.com/84ba87eddab3e368851899b58852311f605514d50
 
 ## Apple iPhone SE (2020) Backup Password Never Set But Still Asking? Here's the Fix
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: Why Do iTunes Ask Me for iPhone Backup Password?
 
 When you use iTunes to create a backup, the backup will probably have a password that iTunes automatically create. This is for privacy reasons. Hence, it might ask for an iTunes backup password never set by you!
@@ -28,17 +24,9 @@ In most cases, this occurs when the Encrypt Backup option is activated. As an of
 
 ![encrypt local backup](https://images.wondershare.com/drfone/article/2022/12/iphone-backup-password-never-set-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Unfortunately, this capability may also become problematic if you inadvertently take a backup without being able to provide the password. For example, you may have to enter the password for your Apple iPhone SE (2020) backup unlocking never set by you.
 
 But the good news is you have some possible fixes. So, let's talk about them.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: 4 Possible Ways to Fix Asking for iPhone Backup Password
 
@@ -47,6 +35,10 @@ Many iPhone users have problems with iTunes when they back up their devices.
 One of the most common issues is that people are asked for their iPhone backup password never set, but they need to know what it is. This can be frustrating because you can only back up your device if you have the password.
 
 There are a few possible ways to fix this problem. Try resetting your password or using a different computer to back up your device. You could also try using a third-party software tool like Dr.Fone - Screen Unlock.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Try all passwords you use on iPhone
 
@@ -110,6 +102,10 @@ On the other hand, it does make it possible for you to generate a fresh backup i
 
 ![drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** While in the interface for **Screen Unlock**, navigate to the bottom right of the screen and tap on the feature labeled **"Remove iTunes BackUp Encryption."** This will allow you to proceed.
 
 ![screen unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
@@ -124,21 +120,17 @@ Please read the following three notes carefully before clicking the **"Remove No
 
 ![connected](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4:** If you have an iTunes backup, Dr.Fone may automatically verify it and delete it. This encryption will be removed once the percentage on the progress meter reaches the end. This procedure won't take a lot of time at all.
 
 ![checking](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5:** The encryption of the iTunes backup has been successfully erased! Your backed-up data may be quickly restored, transferred, wiped clean, and backed up again. Hence, you can enter the password to unlock your Apple iPhone SE (2020) backup never set in the first place!
 
 ![removed](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### The Bottom Line
 
@@ -236,10 +228,6 @@ Web browsers are available on a wider range of devices than iOS devices. If you 
 
 ![change apple id password on web](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-password-06.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 3:** Authenticate with the current Apple ID password, then enter a new password.
 - **Step 4:** Once confirmed, select **Change Password**.
 
@@ -258,6 +246,10 @@ Did you get a new Apple device or forgot your Apple ID password? No problem! Try
 Click **Forgot password** on the Apple ID sign-in page on the web browser. This option is typically found during the setup process for a new Apple device or when you try to sign in to an Apple service on an unsigned-in device.
 
 ![reset apple id password on web](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-password-07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **After You Setup Your Device**
 
@@ -292,6 +284,10 @@ Losing your phone or being unable to access your iOS device can be a major incon
 - **Step 3:** Select **A different Apple ID** and tap **Continue.**
 
 ![select different apple id to reset](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-password-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4:** Follow the in-app guide to reset your Apple ID password.
 
@@ -336,10 +332,6 @@ Dr.Fone is easy to use and intuitive, even for users with no technical experienc
 
 ![dr.fone select screen unlock from toolbox](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 3:** Select **Remove AppleID** and click **Unlock Now** on the next screen.
 
 ![dr.fone select remove apple id](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
@@ -352,13 +344,13 @@ Dr.Fone is easy to use and intuitive, even for users with no technical experienc
 
 ![dr.fone in-app instructions for recovery mode](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 6:** Select an option from the **System Version** dropdown list for the **Device Model**, then click **Start**.
 
 ![dr.fone select system version](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 7:** Wait while the iOS firmware is downloading, then click **Unlock Now** once done.
 
@@ -372,15 +364,27 @@ Dr.Fone is easy to use and intuitive, even for users with no technical experienc
 
 ![dr.fone unlocking apple id](https://images.wondershare.com/drfone/guide/remove-apple-id-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 10:** Click **Done** once the process is successful or click **Try again** to repeat.
 
 ## Conclusion
 
 Creating a strong Apple ID password is simple: mix letters and numbers, make it lengthy, and keep it unique. Regularly **changing your Apple ID password** using the steps above is key to protecting your digital data. And if you ever find yourself locked out, consider the Dr.Fone Unlock Tool, a reliable mobile solution. Stay private and secure to enjoy your Apple experience with peace of mind.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Unlock Apple iPhone SE (2020), Apple's New iPhone
 
 It has happened to all of us at some point in the other. The chances of it happening are notoriously higher when you just started using it. We are talking of passcodes on iPhones. Apple requires setting up a 6-digit passcode to use some features such as Face ID on your Apple iPhone SE (2020). So, you thought it was a great idea to set up your new Apple iPhone SE (2020) with a new passcode, right? The only problem is that the 6 digits you thought are bulletproof and no one will be able to come up with them in relation to you, are not coming to you either. You forgot the newly set passcode, entered the incorrect passcode more times than the software was happy about, and the Apple iPhone SE (2020) is locked now. What to do? Read on.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part I: Why Is Your Apple iPhone SE (2020) Locked?
 
@@ -424,10 +428,6 @@ Step 6: Dr.Fone will tell you the phone model and the software installed on it. 
 Click Download to download the firmware file for your device.
 
 ![download firmware](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 7: Select the firmware package after the download completes. After the download completes, you can click Unlock Now to start unlocking the Apple iPhone SE (2020).
 
@@ -475,6 +475,10 @@ Step 5: Enter your passcode one last time.
 
 You're done. Now go ahead and forget the passcode forever. You will not need it again. Do note, however, that not using a passcode on your Apple iPhone SE (2020) leaves not only your data but your Apple iPhone SE (2020) itself in a highly vulnerable state. Anyone with access to your device can do anything on the Apple iPhone SE (2020) device that you could, including setting up a passcode that you will then have to use this guide to unlock.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part IV: More information about Apple iPhone SE (2020)/Apple iPhone SE (2020) mini/Apple iPhone SE (2020) Pro
 
 The ways mentioned before should help you get out of the locked Apple iPhone SE (2020) now. Here is a shortlist of the features of the Apple iPhone SE (2020) range. You may learn more information about Apple iPhone SE (2020) range that you may never know before.
@@ -490,10 +494,6 @@ You might be wondering if you will get the highlight Cinematic Mode if you were 
 **Water Resistance and Charging**
 
 All Apple iPhone SE (2020) models feature the same IP68 water resistance (that is a depth of 6 meters for up to 30 minutes) and feature MagSafe charging. No differences here, except that the Apple iPhone SE (2020) mini is still capped at 12W charging with MagSafe, just like the Apple iPhone SE (2020) 12 mini was.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part V: The Bottom Line
 
@@ -513,20 +513,18 @@ A locked Apple iPhone SE (2020) is never a pretty sight. Fortunately, there are 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-unleash-power-in-social-media-10-advanced-tactics-for-fb-optimization/"><u>[New] Unleash Power in Social Media 10 Advanced Tactics for FB Optimization</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-elevate-user-participation-via-personalized-ig-story-polls-for-2024/"><u>[Updated] Elevate User Participation via Personalized IG Story Polls for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-how-to-tell-fake-instagram-followers-fast-and-free-for-2024/"><u>[Updated] How to Tell Fake Instagram Followers (Fast and Free) for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/dvd5-for-windows-1110/"><u>最新かつ最も使いやすいDVDコピーソフトウェアのベスト5 for Windows 11/10 - お勧めリスト</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/assassins-creed-iii-critique-exceptional-final-chapter/"><u>Assassin's Creed III Critique - Exceptional Final Chapter</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/escaping-burnout-how-artificial-intelligence-saves-overwhelmed-it-professionals-from-alert-exhaustion-insights-from-zdnet/"><u>Escaping Burnout: How Artificial Intelligence Saves Overwhelmed IT Professionals From Alert Exhaustion - Insights From ZDNet</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-15-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone 15 When Its Locked Within Seconds | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-11-drfone-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone 11 | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-14-plus-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 14 Plus Lock Screen with Notifications? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-pro-max-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Pro Max with a Mask On | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-apple-iphone-se-2022-passcode-without-a-computer-drfone-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone SE (2022) Passcode without a Computer | Dr.fone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/nextgen-youtuber-tools-studio-vs-beta-version/"><u>NextGen YouTuber Tools Studio Vs. Beta Version</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ng-up-personalized-video-shots-on-youtube/"><u>Setting Up Personalized Video Shots on YouTube</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-15-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlock-your-disabled-iphone-11-pro-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>Unlock Your Disabled iPhone 11 Pro Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elite-channel-explorer-discover-prime-video-status/"><u>[New] In 2024, Elite Channel Explorer Discover Prime Video Status</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-gopros-top-5-marine-filter-companions/"><u>[Updated] In 2024, GoPro's Top 5 Marine Filter Companions</u></a></li>
+<li><a href="https://media-tips.techidaily.com/a-comprehensive-guide-on-the-inner-workings-of-3d-sound-and-trusted-platforms-for-downloads/"><u>A Comprehensive Guide on the Inner Workings of 3D Sound & Trusted Platforms for Downloads</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/error-resuelto-inicio-de-sesion-basado-en-pxe-en-system-center-configuration-manager-sccm-no-funciona/"><u>Error Resuelto: Inicio De Sesión Basado en PXE en System Center Configuration Manager (SCCM) No Funciona</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-se-2022-to-other-iphone-14-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone SE (2022) To Other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-awaken-your-inner-warrior-with-these-films/"><u>In 2024, Awaken Your Inner Warrior with These Films</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-best-practices-for-converting-youtube-hosted-tweets-into-mp3s/"><u>In 2024, Best Practices for Converting YouTube-Hosted Tweets Into MP3s</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-empowering-users-to-tackle-instagram-video-snags/"><u>In 2024, Empowering Users to Tackle Instagram Video Snags</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-15-without-passcode-now-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone 15 Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-15-pro-with-or-without-password-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone 15 Pro With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/permanent-deletion-of-a-yahoo-mail-account-easy-step-by-step-tutorial/"><u>Permanent Deletion of a Yahoo Mail Account - Easy Step-by-Step Tutorial</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-12-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-xs-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>Unlock iPhone XS With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
 </ul></div>
 

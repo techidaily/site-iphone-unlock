@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on iPhone SE (2022) | Dr.fone
-date: 2024-07-15T07:08:39.727Z
-updated: 2024-07-16T07:08:39.727Z
+date: 2024-12-02T18:29:08.345Z
+updated: 2024-12-06T18:19:01.274Z
 tags: 
   - unlock
   - remove screen lock
@@ -54,9 +54,6 @@ Your **iPhone Auto-Lock greyed out** because Low Power Mode limits background ac
 - **Step 2:** Scroll down and tap **Battery**. It will show you your device's battery usage and available settings.
 - **Step 3:** Turn off the **Low Power Mode**. Now, the greyed-out Auto-Lock option in Settings should be available again.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone turn off low power mode](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-05.jpg)
 
 Low Battery Mode can stretch your battery life further. But if you need your screen to stay on longer, like while reading an article or watching a video, you can turn it off. It lets you adjust the screen timeout in ****Settings**** so it stays awake for as long as you like.
@@ -87,6 +84,10 @@ Since an MDM configuration profile causes limitations, like the greyed-out ****A
 
 ![remove configuration profile on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-07.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Fix No.4: Remove Network Settings Installed by MDM
 
 Businesses often use Mobile Device Management (MDM) to remotely manage their employees' iPhones and iPads. MDM lets IT admins push software updates, restrict apps, and remotely wipe a lost device. This keeps corporate data safe and devices under control, whether the company or the employee owns them.
@@ -100,6 +101,10 @@ If your IT team gives the green light, you might also be able to remove the netw
 - **Step 3:** Select the management and tap **Remove Management**.
 
 ![remove mdm profile on ipad](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-08.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 If the option is unavailable, only the person who used Apple Configurator 2 or handles your company's mobile device management platform can remove it.
 
@@ -124,14 +129,15 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 - **Step 2:** Within the **Screen Unlock** tool window, select **Unlock MDM iPhone**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![dr.fone screen unlock features](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-1.png)
 
 - **Step 3:** Select **Bypass MDM**, then click **Get Start** to proceed.
 
 ![unlock mdm situation options](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4:** Please review the message carefully before initiating the MDM bypass process. Once you've read it, click **Start to Bypass** to proceed.
 
@@ -139,9 +145,6 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 - **Step 5:** If prompted, go to your device's **Settings** > **Apple ID** > **iCloud** and turn off the **Find My** feature. Next, click **OK** to initiate the MDM bypass.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone guide turn off find my](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-4.png)
 
 - **Step 6:** The software will display the progress of the bypass. Wait for it to complete.
@@ -150,10 +153,11 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 - **Step 7:** You'll see a confirmation message once the bypass is successful. Click **Done** to exit. Your device should now be free from MDM restrictions.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![successfully bypassed mdm on ios](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Fix No.6: Check and Adjust Auto-Lock Settings
 
@@ -191,8 +195,6 @@ There you have it. This guide has equipped you with the knowledge and solutions 
 For an easy solution, use Dr.Fone Screen Unlock to bypass MDM restrictions, giving you control over your device. Whether it's a work phone or a personal device under MDM, Dr.Fone can offer an efficient solution. With a few clicks, you'll have the Auto-Lock back on track, ensuring your iOS device works again just how you want it.
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
-
-
 
 ## Full Guide to Unlock Apple iPhone SE (2022) with iTunes
 
@@ -262,6 +264,10 @@ The above bar will show "Extracting software… ". It implies iOS 15.4.1 iTunes 
 
 ## Part 3: Unlocking iPhone without iTunes
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Unlock it with Find My in iCloud
 
 Find My is a famous element in Apple devices that allows you to find your lost phone through Maps. The component has been updated from that point forward, and presently it can be utilized to erase your Apple iPhone SE (2022). Additionally, you can use it to erase your information without a passcode.
@@ -274,6 +280,10 @@ Find My is a famous element in Apple devices that allows you to find your lost p
 
 ![enter apple id](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-itunes-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3.** After signing in effectively, click on Find My and enter your Apple ID and password. Click on Sign In.
 
 Pick your locked gadget under the "All Devices" area.
@@ -283,6 +293,10 @@ Pick your locked gadget under the "All Devices" area.
 **Step 4.** Click on 'Erase iPhone'. Click on 'Erase' again.
 
 ![click erase](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-itunes-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5.** Enter the Apple ID password to proceed.
 
@@ -297,7 +311,6 @@ Pick your locked gadget under the "All Devices" area.
 **Step 10.** iPhone will show that it is locked to the owner. You have to sign in with your Apple ID again, enter the password, and tap on Next. You will currently be enabled to make your new passcode.
 
 ### 2\. Dr.Fone-Screen Unlock
-
 
 If you are searching for an elective way to unlock your Apple iPhone SE (2022) with iTunes, you can pick Wondershare Dr.Fone-Screen Unlock.
 
@@ -341,13 +354,15 @@ We hope you found out about **how to unlock iPhone with iTunes**. We likewise di
 
 Is your Apple iPhone SE (2022) locked, and can’t seem to remember its passcode? If your response is “yes,” then you're in. It might surprise you, but there are a lot of ways to get into a locked Apple iPhone SE (2022). To help our readers, we have come up with this extensive post, covering different techniques for taking the lock off Apple iPhone SE (2022). Follow these expert suggestions and unlock your iOS device when you are locked out of your Apple iPhone SE (2022).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to get into a locked Apple iPhone SE (2022) with Dr.Fone?
 
 If you are locked out of Apple iPhone SE (2022), you should only use a reliable and secure way to unlock it. The chances are that the above-mentioned technique might not work on your device. Hence, you can use [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) for help to unlock your phone. Compatible with almost all iOS devices, its desktop application runs on Mac and Windows. One can learn how to get into a locked Apple iPhone SE (2022) by following these instructions.
 
 Attention: All your data all be erased after you get into your locked Apple iPhone SE (2022).Please make sure if you have backed up all your data.
-
-
 
 ### Dr.Fone - Screen Unlock
 
@@ -366,9 +381,6 @@ You can watch the video below about how to unlock your Apple iPhone SE (2022) wi
 
 **Step 1.** Download Dr.Fone - Screen Unlock, install it on the computer, and launch it whenever you need to unlock your phone. Choose the option of "Screen Unlock" from the main screen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![get into locked Apple iPhone SE (2022) with drfone for ios](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2.** Connect your device with a computer. Afterward, choose the “Unlock iOS Screen”  to get started.
@@ -421,6 +433,10 @@ Apple’s official Find My Apple iPhone SE (2022) is a smart and hassle-free way
 
 ![icloud all devices](https://images.wondershare.com/drfone/article/2017/07/14994494968655.jpg "icloud all devices")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2.** This will provide various tasks that you can perform on the iOS device. Click on the “Erase Apple iPhone SE (2022)” button to reset the Apple iPhone SE (2022) device.
 
 ![erase Apple iPhone SE (2022)](https://images.wondershare.com/drfone/article/2017/07/14994495147747.jpg "erase Apple iPhone SE (2022)")
@@ -432,6 +448,10 @@ If you don’t want to erase your device’s data while resolving this issue, yo
 **Step 1.** To activate Siri, please long press your home button on the phone. Ask for the present time (by saying “Hey Siri, what time is it?”) and wait for its response. Now, tap on the clock icon.
 
 ![hey siri](https://images.wondershare.com/drfone/article/2017/07/14994491422339.jpg "hey siri")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2.** On the world clock interface, add another clock.
 
@@ -477,7 +497,6 @@ If you don’t want to erase your device’s data while resolving this issue, yo
 
 We hope that after learning how to get in a locked Apple iPhone SE (2022) in different ways, you would be able to resolve the issue on your iOS device. Choose the way you prefer and fix the locked out of the Apple iPhone SE (2022) problem. We recommend using Dr.Fone - Screen Unlock to get an easy fix to your issue without much trouble.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -490,7 +509,26 @@ We hope that after learning how to get in a locked Apple iPhone SE (2022) in dif
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-how-to-upload-horizontal-videos-to-igtv-3-ways/"><u>[Updated] 2024 Approved How to Upload Horizontal Videos to IGTV [3 Ways]</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-aviation-longevity-top-10-endurance-drones/"><u>[Updated] In 2024, Aviation Longevity Top 10 Endurance Drones</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/apple-iphone-13-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>Apple iPhone 13 Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/error-free-pc-tackling-missing-or-unavailable-mfc42ddll-problems-today/"><u>Error-Free PC: Tackling Missing or Unavailable mfc42d.dll Problems Today</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-locked-iphone-se-2020-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>Forgot Locked iPhone SE (2020) Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-13-pro-max-with-7-methods-drfone-by-drfone-ios/"><u>How To Change Country on App Store for iPhone 13 Pro Max With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-13-pro-max-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 13 Pro Max With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 6s, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-12-pro-max-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>How to Unlock iPhone 12 Pro Max With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-stolen-iphone-se-2020-in-different-conditionsin-drfone-by-drfone-ios/"><u>How To Unlock Stolen iPhone SE (2020) In Different Conditionsin | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-6-drfone-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/in-2024-how-to-do-censor-effects-with-filmora/"><u>In 2024, How to Do Censor Effects with Filmora</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-plus-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 8 Plus without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-honor-x9a-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Honor X9a | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/leading-sites-unveiled-acquiring-personalized-ringtone-files-from-youtube/"><u>Leading Sites Unveiled Acquiring Personalized Ringtone Files From Youtube</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mobile-editors-roundup-top-8-choices-for-iphone-and-android-users/"><u>Mobile Editors Roundup Top 8 Choices for iPhone and Android Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-enigma-behind-blackberrys-iconic-storm-n-series/"><u>The Enigma Behind BlackBerry's Iconic Storm N Series</u></a></li>
+<li><a href="https://fox-that.techidaily.com/usb-c-troubleshooting-on-iphones-fixing-the-liquid-detected-error-message/"><u>USB-C Troubleshooting on iPhones: Fixing the 'Liquid Detected' Error Message</u></a></li>
+</ul></div>
 

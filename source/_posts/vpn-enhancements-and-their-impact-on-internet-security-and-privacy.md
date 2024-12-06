@@ -1,7 +1,7 @@
 ---
 title: VPN Enhancements and Their Impact on Internet Security & Privacy
-date: 2024-11-24T17:32:22.984Z
-updated: 2024-11-26T16:21:27.963Z
+date: 2024-12-01T17:22:24.021Z
+updated: 2024-12-06T18:04:51.312Z
 tags:
   - chatgpt
   - open-ai
@@ -16,7 +16,7 @@ thumbnail: https://thmb.techidaily.com/fb282d9804e61f76170ce10cf4356b1c491a63028
 ## Four Desired Improvements for the Next Generation AI, GPT-5
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Quick Links
@@ -34,7 +34,7 @@ thumbnail: https://thmb.techidaily.com/fb282d9804e61f76170ce10cf4356b1c491a63028
  Still, no matter the due date, there are a few key features we want to see when GPT-5 launches.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## What Is OpenAI's GPT-5?
@@ -57,16 +57,12 @@ thumbnail: https://thmb.techidaily.com/fb282d9804e61f76170ce10cf4356b1c491a63028
 
  So, for GPT-5, we expect to be able to play around with videos—upload videos as prompts, create videos on the go, edit videos with text prompts, extract segments from videos, and find specific scenes from large video files. We expect to be able to do similar things to audio files. It's a big ask, yes. But given how fast AI development is, it's a very reasonable expectation.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2\. Larger and More Efficient Context Window
 
 ![Monitor on a desk with OpenAI logo](https://thmb.techidaily.com/0d605cbff29d9fac95ea636e3f1dc6722b73dcac2e7b43e02dacf71b94afcc8e.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Ralf Jhetner Borja/[flickr](https://www.flickr.com/photos/198726053@N04/53043766807/)
@@ -76,6 +72,10 @@ thumbnail: https://thmb.techidaily.com/fb282d9804e61f76170ce10cf4356b1c491a63028
  With advanced multimodality coming into the picture, an improved context window is almost inevitable. Maybe an increase by a factor of two or four would suffice, but we hope to see something like a factor of ten. This will allow GPT-5 to process much more information in a much more efficient manner. Now, a larger context window doesn't always mean better. So, rather than just increasing the context window, we'd like to see an increased efficiency of context processing.
 
  You see, a model might have a one million token context window (around 700,000 words capacity) but fail to produce a comprehensive summary when asked to summarize a 500,000-word book because it can't adequately process the entirety of the context despite having the capacity to do so in theory. That you can read a 500k-word book does not mean you can recall everything in it or process it sensibly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. GPT Agents
 
@@ -96,7 +96,7 @@ thumbnail: https://thmb.techidaily.com/fb282d9804e61f76170ce10cf4356b1c491a63028
  So, if GPT-5 ships with GPT Agents, you could ask it to "build a portfolio website for Maxwell Timothy" rather than just "write me a code for the homepage." GPT-5 would then theoretically be able to self-prompt by invoking expert AI agents to handle the various subtasks needed to build a website. It might invoke one GPT to scrap the web for information on Maxwell Timothy, another agent to write the code for different pages, another agent to generate and optimize images, and even another AI agent to deploy the site, all without the need for repeated human prompting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 4\. Less Hallucination
@@ -126,24 +126,17 @@ thumbnail: https://thmb.techidaily.com/fb282d9804e61f76170ce10cf4356b1c491a63028
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-rise-to-the-top-livestreaming-on-youtube-no-matter-how-low-followers-are/"><u>[New] Rise to the Top - Livestreaming on YouTube, No Matter How Low Followers Are</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-in-2024-demystifying-the-dynamics-of-mixed-reality-space/"><u>[Updated] In 2024, Demystifying the Dynamics of Mixed Reality Space</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-elevate-your-episodes-masterful-lighting-setups-explained/"><u>[Updated] In 2024, Elevate Your Episodes Masterful Lighting Setups Explained</u></a></li>
-<li><a href="https://network-issues.techidaily.com/banish-flickering-on-monitors-a-diy-guide/"><u>Banish Flickering on Monitors: A DIY Guide</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-new-wave-of-logitech-products-tailored-for-mac-users/"><u>Discover the New Wave of Logitech Products Tailored for Mac Users</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/hardware-hurdles-whats-necessary-for-big-sur-in-2024/"><u>Hardware Hurdles What's Necessary for Big Sur, In 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-12-mini-drfone-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone 12 mini | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-8-plus-drfone-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-14-plus-drfone-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-iphone-xripad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled iPhone XR/iPad Without Computer | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-11-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone 11 When Its Locked Within Seconds | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-11-pro-max-and-ipad-securely-drfone-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 11 Pro Max and iPad Securely | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-pro-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Pro With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-new-speech-potentials-on-chrome-ranked-top-voice-alteration-tools/"><u>In 2024, Unlock New Speech Potentials on Chrome Ranked Top Voice Alteration Tools</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/is-your-iphone-8-plus-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your iPhone 8 Plus in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
-<li><a href="https://win-docs.techidaily.com/maximize-your-content-visibility-with-advanced-stemming-techniques-in-seo/"><u>Maximize Your Content Visibility with Advanced Stemming Techniques in SEO</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repairing-squad-microphones-the-ultimate-2024-handbook/"><u>Troubleshooting and Repairing Squad Microphones - The Ultimate 2024 Handbook</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/ultimate-selection-of-android-and-ios-wedding-timer-apps-reviewed/"><u>Ultimate Selection of Android and iOS Wedding Timer Apps Reviewed</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-se-2020-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone SE (2020) i Do? Get Answers here | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-sony-s6700-latest-features-reviewed/"><u>[New] Sony S6700 Latest Features Reviewed</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-the-ultimate-guide-to-simple-iphone-screencasting-for-2024/"><u>[New] The Ultimate Guide to Simple iPhone Screencasting for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-elevating-your-4k-entertainment-tvs-vs-projection-technology/"><u>[Updated] In 2024, Elevating Your 4K Entertainment TVs vs Projection Technology</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/4-ways-to-unlock-iphone-15-pro-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>4 Ways to Unlock iPhone 15 Pro to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-iphone-12-pro-max-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 12 Pro Max Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/apple-iphone-15-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>Apple iPhone 15 Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/brighten-your-evenings-with-new-and-improved-permanent-govee-outdoor-lighting-options-perfect-for-a-radiant-weekend-transformation/"><u>Brighten Your Evenings with New & Improved Permanent Govee Outdoor Lighting Options – Perfect for a Radiant Weekend Transformation!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1725290453840-dvddvd-decrypter/"><u>DVDコピーツールDVD Decrypterの使用マニュアル：セッティング手順と最適化方法</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-6-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix iPhone 6 Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-is-your-iphone-6s-plus-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Is Your iPhone 6s Plus in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/the-tiny-powerhouse-unmatched-performance-from-the-ourlink-u631-usb-adapter/"><u>The Tiny Powerhouse: Unmatched Performance From the Ourlink U631 USB Adapter</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/upcoming-apple-home-assistant-anticipated-cost-and-launch-timeline-revealed/"><u>Upcoming Apple Home Assistant: Anticipated Cost & Launch Timeline Revealed!</u></a></li>
 </ul></div>
 

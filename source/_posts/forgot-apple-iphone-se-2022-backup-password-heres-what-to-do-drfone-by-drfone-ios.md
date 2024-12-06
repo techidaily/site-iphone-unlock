@@ -1,7 +1,7 @@
 ---
 title: Forgot Apple iPhone SE (2022) Backup Password? Heres What to Do | Dr.fone
-date: 2024-07-15T07:07:06.554Z
-updated: 2024-07-16T07:07:06.554Z
+date: 2024-12-03T16:00:07.683Z
+updated: 2024-12-06T16:06:52.827Z
 tags: 
   - unlock
   - remove screen lock
@@ -84,9 +84,17 @@ You can also get rid of the password for the last backup without deleting any ot
 
 ![reset all settings](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Use a USB cable to link your Apple iPhone SE (2022) to your PC. Look at the small iOS icon in the figure below. Just click on it.
 
 ![backup](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Proceed to the **Summary Page** and make your selection there for **The Computer.** After selecting **Encrypt Local Backup**, you must create a new password. After you have pressed the **Backup Now** option, wait for iTunes to create a new password for you.
 
@@ -114,9 +122,6 @@ After successfully signing in with your Apple ID, choose **Backup**.
 
 During the time that the system is being restored, it is essential that the Wi-Fi connection remains active.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5\. Dr.Fone-Screen Unlock
 
 With Dr.Fone - Screen Unlock, it's easy to follow all the steps to get rid of the iTunes backup password.
@@ -147,10 +152,6 @@ Before you click **Remove Now**, please carefully read the following three notes
 
 ![removed](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-5.png)
 
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: 3 Tricks to Help You Remember the Passwords
 
 If you have an iPhone, you know it can be tricky to keep track of all your passwords. From your email password to your banking login, there are a lot of different codes to remember.
@@ -224,6 +225,10 @@ Next, confirm the model of your device model and system version that the tool ha
 
 ![ios unlock 3](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4: Download Firmware**
 
 Once you have selected the model, click on the “Start” or “Download” button to let the program download the firmware for your device.
@@ -266,18 +271,23 @@ If you wish to change the passcode on Apple iPhone SE (2022) , simply follow the
 
     ![feasible ways to unlock Apple iPhone SE (2022) 4](https://images.wondershare.com/drfone/article/2021/04/feasible-ways-to-unlock-iphone-7-and-7-plus-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Type in your current passcode to proceed.
 4. Here, click on the option "Change Passcode."
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
     ![feasible ways to unlock Apple iPhone SE (2022) 5](https://images.wondershare.com/drfone/article/2021/04/feasible-ways-to-unlock-iphone-7-and-7-plus-5.jpg)
 
 5. Once again, enter your current password.
 6. Now, type in your new password. You can change the type of passcode by clicking on the "Passcode Options." The new passcode type can be a numeric code, alphanumeric code, a 4-digit, or a 6-digit code.
 
     ![feasible ways to unlock Apple iPhone SE (2022) 6](https://images.wondershare.com/drfone/article/2021/04/feasible-ways-to-unlock-iphone-7-and-7-plus-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. Select a specific passcode type, enter your new password and click on "Next."
 
@@ -301,6 +311,10 @@ Before we get started, you should know that there are three ways to have a custo
 
 ![ios 17 lock screen](https://images.wondershare.com/drfone/article/2022/11/ios-15-lock-screen-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. How to select your favorite wallpaper
 
 The first way is to use a pre-made wallpaper from the Apple Wallpaper Gallery.
@@ -312,6 +326,10 @@ To do this, go to Settings > Wallpapers & Brightness > Choose a New Wallpaper. T
 The second way to have a customized lock screen is to use a Live Photo. To do this, go to Settings > Wallpapers & Brightness > Choose a New Wallpaper. Then, select the Live Photo option and choose the image you want to use.
 
 **Note:** You can only use Live Photos for your lock screen if your Apple iPhone SE (2022) is unlocked.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. How to manage notifications
 
@@ -389,7 +407,6 @@ A third-party tool named Dr.Fone-Screen Unlock can help you in this regard. The 
 
 First, download/install Dr.Fone-Screen Unlock on your computer or MacBook. You can get it from here:
 
-
 After downloading the tool, install launch it on your PC.
 
 **Step #2: Launch the Application and Go for Screen Unlock**
@@ -406,9 +423,6 @@ To do this, you need to press and hold the Home button and Sleep/Wake button sim
 
 After that, release the Sleep/Wake button but keep holding the Home button until Dr.Fone detects your device in DFU mode.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![recovery mode to bypass ios 17 lock screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 **Step #4: Download the Appropriate Firmware**
@@ -421,18 +435,26 @@ Depending on your internet connection, you may have to wait for a longer time. B
 
 ![ios 17 lock screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step #5: Unlock your Apple iPhone SE (2022)**
 
 After the firmware is downloaded, you need to press the Unlock Now button, and Dr.Fone will start to unlock your Apple iPhone SE (2022) without a passcode. Once it is done, you can get into your device without any restriction.
 
 ![ios 17 lock screen without passcode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## FAQs
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Why iOS 17 Lock Screen is not working?
 
 There could be many reasons for the malfunction of the Lock Screen in iOS 17. The most common reason is the installation of incompatible jailbreak tweaks. Therefore, it is recommended to remove all the jailbreak tweaks and check whether the problem persists.
@@ -467,9 +489,6 @@ But if you are still facing problems with your lock screen, then the greatest th
 
 So, if you are looking for a hassle-free solution to fix your lock screen issues, then this is the best one you should never miss.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -482,7 +501,22 @@ So, if you are looking for a hassle-free solution to fix your lock screen issues
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-visionary-audiovideo-makers-elite-digital-directory-for-2024/"><u>[Updated] Visionary Audio/Video Makers Elite Digital Directory for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/1byone-digital-amplified-indoor-hd-tv-antenna-review/"><u>1Byone Digital Amplified Indoor HD TV Antenna Review</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-notable-sites-elevating-youtube-videography/"><u>2024 Approved Notable Sites Elevating YouTube Videography</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/convert-rmvb-files-to-mp4-for-free-using-movavis-user-friendly-online-tool/"><u>Convert RMVB Files to MP4 for Free Using Movavi's User-Friendly Online Tool</u></a></li>
+<li><a href="https://win-tips.techidaily.com/discover-the-best-file-migration-apps-transfer-your-data-effortlessly-between-computers/"><u>Discover the Best File Migration Apps: Transfer Your Data Effortlessly Between Computers</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-7-plus-drfone-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-12-mini-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone 12 mini Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-se-2022-drfone-by-drfone-ios/"><u>How to Unlock iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-13-pro-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone 13 Pro without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-6-plus-drfone-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-apple-iphone-14-pro-drfone-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/sonic-layers-in-reels-weaving-audio-into-visuals/"><u>Sonic Layers in Reels Weaving Audio Into Visuals</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/unleashing-music-from-tiktok-top-free-on-web-to-mp3-tools/"><u>Unleashing Music From TikTok Top Free, On-Web To MP3 Tools</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlock-vivo-y100i-power-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Vivo Y100i Power 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Turn Off Find My Apple iPhone XS Max when Phone is Broken? | Dr.fone
-date: 2024-10-25T02:38:57.886Z
-updated: 2024-11-01T10:08:28.683Z
+date: 2024-12-05T16:01:58.378Z
+updated: 2024-12-06T16:09:15.709Z
 tags: 
   - unlock
   - remove screen lock
@@ -21,6 +21,10 @@ In today’s world, your phone is your most important asset. Especially when you
 Apple ensures the privacy and security of its customers. For that, it has introduced this excellent feature of Find My iPhone, which keeps track of the location of your device no matter in which part of the world you are. So, if you've lost your Apple iPhone XS Max or it is stolen, this app is your savior.
 
 Downloading and enabling Find My iPhone can be really easy and cinch but turning it off can be an arduous task. But we have you covered through this article that shall tell you about this app in detail and guide you on how to turn off Find My iPhone even when your Apple iPhone XS Max is broken.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What is Find My iPhone?
 
@@ -73,13 +77,6 @@ A warning will be displayed on the screen asking for confirmation to remove the 
 
 ![confirm the agreement](https://images.wondershare.com/drfone/drfone/remove-activation-lock-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 6: Unlock your Apple iPhone XS Max**
 
 Click on “Start Unlock” to proceed. Once the process is started, you have to wait for a moment until the activation lock is successfully removed.
@@ -91,6 +88,10 @@ Click on “Start Unlock” to proceed. Once the process is started, you have to
 As your activation lock is removed, go to the settings and remove your Apple ID. Consequently, Find My iPhone will be disabled.
 
 ![activation lock removed](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Turn Off Find My iPhone on Broken iPhone Using iCloud?
 
@@ -106,20 +107,21 @@ Here we have explained to you step by step how to turn off Find My iPhone on bro
 
 ![select the option of find my iphone](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Click on the "All Devices" option from the top. Select your Apple iPhone XS Max, which you want to remove by clicking on "Remove from account."
 
 ![select your device](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** Once your device is removed from the account, a window will pop up asking you to delete the option of that device from your iCloud account. Now you may log in Find My iPhone with your iCloud account on another device.
 
 ![confirm removal](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
-  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: Turn off Find My iPhone using Recovery Mode
 
@@ -139,22 +141,12 @@ Once your Apple iPhone XS Max shows the Apple logo, it means the Recovery Mode i
 
 ![wait for apple logo to appear](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3:** Now click on “Restore” so iTunes can download software on your Apple iPhone XS Max. Once the process is completed, you can set up your Apple iPhone XS Max as new. This means your previous data will be erased, and Find My iPhone will be disabled automatically.
 
 ![tap on restore option](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Conclusion
@@ -169,11 +161,19 @@ Among these methods, [doctorSIM](https://www.doctorsim.com/us-en/) stands out a
 
 ![imei unlocking with doctorsim](https://images.wondershare.com/drfone/article/2024/01/doctor-sim-unlock-reviews-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1. Understanding The Basic Mechanism Behind doctorSIM: A Review
 
 doctorSIM is a comprehensive solution for smartphones and offers a whole lot of features. These services range from recharging mobile devices to unlocking carrier locks. When it comes to unlocking carrier locks, **doctorSIM legit** claims to work for any carrier anywhere worldwide. Its primary function revolves around providing users with the ability to unlock their devices.
 
 The tool provides users with the convenience of checking if their device is blacklisted. This service extends globally and comes at a reasonable price point. Moreover, **doctorSIM unlock review** and unlocking solutions cater to most iOS devices and Android phones. It includes even lesser-known niche brands, offering compatibility across a wide spectrum.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Features of doctorSIM
 
@@ -237,19 +237,6 @@ IMEIUnlockSIM is a specialized service focusing on unlocking iPhones through IME
 
 ![imeiunlocksim imei unlocking alternative](https://images.wondershare.com/drfone/article/2024/01/doctor-sim-unlock-reviews-7.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 4\. iUnlockBase
 
 This IMEI unlocking service is a comprehensive service renowned for its expansive database. It supports a large number of devices and carriers. The platform provides various unlocking services, such as network unlocking and iCloud unlocking. Serving a worldwide audience, iUnlockBase guarantees a seamless unlocking process.
@@ -286,6 +273,10 @@ Now, decide whether your device is GSM or CDMA, as it is an important aspect. By
 
 ![start to unlock device](https://images.wondershare.com/drfone/guide/bypass-activation-lock-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3. Jailbreaking and Activation Lock Bypass**
 
 After this, if your iDevice isn't jailbroken, you will be required to jailbreak your device. For that, you can follow the step-by-step textual instructions or watch a video. Once the Apple iPhone XS Max device is jailbroken, the process will commence automatically to bypass the Activation Lock. A completion message will pop up on the window when the process finishes. Afterward, tap the “Done” button to finalize the process successfully.
@@ -306,18 +297,15 @@ Follow the on-screen instructions to initiate the [DFU Mode](https://drfone.wond
 
 ![read agreement and agree](https://images.wondershare.com/drfone/guide/bypass-activation-lock-13.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 - **Step 3. Completion of iCloud Activation Lock Removal**
 
 After processing the Apple iPhone XS Max device in DFU Mode, Dr.Fone initiates the iCloud Activation Lock removal process. Monitor the progress bar to witness the process's completion. Once finished, a completion message will appear on the screen. Click “Done” to finalize the removal of the iCloud Activation Lock.
 
 ![icloud activation lock bypassed](https://images.wondershare.com/drfone/guide/bypass-activation-lock-16.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 3\. For Devices Running iOS/iPadOS 16.4~16.6
 
@@ -346,13 +334,6 @@ Now, you cannot just **unlock any Apple iPhone XS Max with your Watch**. The dev
 ## Part 1. Can I Use an Apple Watch To Unlock My Apple iPhone XS Max?
 
 ![phone, earphones, and apple watch on a table](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037334/7443" target="_top" id="2037334">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037334/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The Apple iPhone XS Max face ID is one of the simplest, most practical ways to unlock your phone. While you’ll need a passcode just as another security layer, you won’t have to worry about someone else breaking in if they know it, going through your messages, or collecting your private information.
 
@@ -441,6 +422,10 @@ Make sure that you have:
 
 If all the settings are correct, try one of the following options.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2. Restart Your WiFi/Bluetooth Connection
 
 Your Apple iPhone XS Max and your Apple Watch need to have both WiFi and Bluetooth turned on. If they’re turned on on both devices, try turning them off and back on again to restart the connection.
@@ -500,13 +485,6 @@ If the problem wasn’t due to a system glitch, you should try resetting your Ap
 
 Resetting your network settings will clear out data from your internet, local network, and devices, including WiFi passwords, some Bluetooth connections, and more. However, your paired devices, such as the Apple Watch, shouldn’t be removed.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 6. Reset Your Watch and Pair It Again
 
 Finally, if you’re still experiencing issues, you might need to reset your Apple Watch and pair it with your Apple iPhone XS Max again.
@@ -539,17 +517,21 @@ Enabling this option is a straightforward process, and if there’s ever a glitc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-reimagining-gender-portrayal-in-social-media-images/"><u>[New] 2024 Approved Reimagining Gender Portrayal in Social Media Images</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/updated-can-you-broadcast-videos-without-infringing-laws-specifically-fb-for-2024/"><u>[Updated] Can You Broadcast Videos Without Infringing Laws, Specifically FB for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-in-2024-converge-your-viewing-proficiently-using-netflix-pip-mode/"><u>[Updated] In 2024, Converge Your Viewing Proficiently Using Netflix PIP Mode</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/explore-leading-websites-for-text-embellishments-for-2024/"><u>Explore Leading Websites for Text Embellishments for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-13-pro-drfone-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone 13 Pro | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-vivo-y78plus-t1-edition-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Vivo Y78+ (T1) Edition? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-stolen-apple-iphone-6-plus-in-different-conditionsin-drfone-by-drfone-ios/"><u>How To Unlock Stolen Apple iPhone 6 Plus In Different Conditionsin | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Nokia C12 Plus | Dr.fone</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-divx-video-cutter-reviews-top-6-options/"><u>In 2024, Free Divx Video Cutter Reviews Top 6 Options</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-7-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-the-essentials-of-narrowing-virtual-room-spaces/"><u>In 2024, The Essentials of Narrowing Virtual Room Spaces</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-trouble-with-apple-iphone-14-pro-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>In 2024, Trouble with Apple iPhone 14 Pro Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-the-ultimate-guide-to-saving-youtube-tracks-and-dialogues/"><u>[New] In 2024, The Ultimate Guide to Saving YouTube Tracks & Dialogues</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/beginners-bounty-understanding-screen-clarity-in-digital-media/"><u>Beginner's Bounty Understanding Screen Clarity in Digital Media</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/complete-guide-bypassing-a-forgotten-iphone-password-with-steps/"><u>Complete Guide: Bypassing a Forgotten iPhone Password with Steps</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-14-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/fusionchannel-best-live-and-on-demand-tv-experience-2024/"><u>FusionChannel Best Live & On-Demand TV Experience, 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gratuit-comment-transformer-un-fichier-flac-en-video-avi-sur-internet-avec-movavi/"><u>Gratuit: Comment Transformer Un Fichier FLAC en Vidéo AVI Sur Internet Avec Movavi</u></a></li>
+<li><a href="https://driver-error.techidaily.com/how-to-install-necessary-drivers-on-windows-1087-devices-a-comprehensive-guide/"><u>How to Install Necessary Drivers on Windows 10/8/7 Devices: A Comprehensive Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-15-plus-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone 15 Plus when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-7-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 7 Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-apple-iphone-xs-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to Apple iPhone XS Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-fake-android-location-without-rooting-for-your-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual/"><u>In 2024, Fake Android Location without Rooting For Your Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-iphone-7-plus-5-ways-to-get-into-a-locked-iphone-7-plus-drfone-by-drfone-ios/"><u>Locked Out of iPhone 7 Plus? 5 Ways to get into a Locked iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/personalizing-your-whatsapp-dialogue-with-social-media-photos/"><u>Personalizing Your WhatsApp Dialogue With Social Media Photos</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-optimizing-your-pc-with-defragmentation-in-windows-amoled-by-revo-uninstaller/"><u>Step-by-Step Guide: Optimizing Your PC with Defragmentation in Windows Amoled by Revo Uninstaller</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-15-pro-drfone-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-xr-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock Apple iPhone XR Without Passcode Easily | Dr.fone</u></a></li>
 </ul></div>
 

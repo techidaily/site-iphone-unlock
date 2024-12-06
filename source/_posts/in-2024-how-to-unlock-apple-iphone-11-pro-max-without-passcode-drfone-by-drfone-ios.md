@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Apple iPhone 11 Pro Max Without Passcode? | Dr.fone
-date: 2024-10-27T06:00:42.824Z
-updated: 2024-10-31T18:56:57.516Z
+date: 2024-12-04T17:21:41.533Z
+updated: 2024-12-06T17:24:06.274Z
 tags: 
   - unlock
   - remove screen lock
@@ -34,13 +34,6 @@ Unlocking an iPhone through iTunes is one of the most common ways. If you have f
 
 ![using itunes to unlock iphone](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-x-xr-without-passcode-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Follow the steps to do this.
 
 1. First, connect your Apple iPhone 11 Pro Max to your computer and launch iTunes. You will have to install it if you don't have it on your computer. For installation, [click here and download](https://support.apple.com/downloads/itunes)
@@ -55,10 +48,7 @@ If the above-given method is not helpful or you haven't used iTunes before, we h
 ![using find my iphone to unlock iphone](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-x-xr-without-passcode-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 All you have to do is follow the steps given below.
@@ -71,10 +61,7 @@ All you have to do is follow the steps given below.
 6. Once the process is completed, you can unlock your Apple iPhone 11 Pro Max X lock screen without any passcode.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method #3: Remove Passcode With Tapping Erase Phone (iOS 15.2 only)
@@ -83,6 +70,10 @@ If both above-given methods don't work for you, or you don't have access to a co
 
 ![erase iphone feature](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-x-xr-without-passcode-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 With this method, you can follow the steps below to remove the screen lock passcode on Apple iPhone 11 Pro Max.
 
 1. First, you must try unlocking your Apple iPhone 11 Pro Max with all the possible passcodes you remember.
@@ -90,13 +81,6 @@ With this method, you can follow the steps below to remove the screen lock passc
 3. By this message, you will also see another option at the bottom right corner named **Erase iPhone**.
 4. By clicking this option, you will be asked about your **Apple ID and Password** that you have used on this iPhone.
 5. So provide them, and you will be able to erase your Apple iPhone 11 Pro Max, and in the end, your Apple iPhone 11 Pro Max will be unlocked without needing a passcode or password.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method #4: Dr.Fone-Screen Unlock
 
@@ -137,6 +121,10 @@ Once the downloading is completed, you will need to click on **Unlock Now** butt
 Once the process is completed, you can unlock your Apple iPhone 11 Pro Max XR lock screen without the passcode.
 
 ![unlock iphone now](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## FAQs
 
@@ -261,6 +249,10 @@ Once your device is synced with iTunes, a "Set Up" window will pop up on the scr
 
 ![restore iphone with itunes](https://images.wondershare.com/drfone/article/2021/06/iphone-passcode-not-working-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5: Reset Passcode**
 
 Select your device and the appropriate backup for your device in iTunes. Once the process is completed, you can reset the passcode of your Apple iPhone 11 Pro Max in the settings.
@@ -283,13 +275,6 @@ Click on "Find My iPhone" and select "All devices," and a list of devices will c
 
 ![select iphone on icloud](https://images.wondershare.com/drfone/article/2021/06/iphone-passcode-not-working-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 3: Erase Data and Set up your Apple iPhone 11 Pro Max.**
 
 Now click on the option of “Erase iPhone” to erase all your data and even your passcode. You have the autonomy to set up your Apple iPhone 11 Pro Max from a previous backup or set it up as a new device.
@@ -297,10 +282,7 @@ Now click on the option of “Erase iPhone” to erase all your data and even yo
 ![erase iphone from icloud](https://images.wondershare.com/drfone/article/2021/06/iphone-passcode-not-working-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
-  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3.3 Using iPhone Recovery Mode
@@ -327,6 +309,10 @@ When you’re given the option of Restore or Update, choose ‘Restore.' iTunes 
 
 ![restore iphone successfully from itunes](https://images.wondershare.com/drfone/article/2021/06/iphone-passcode-not-working-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4: Set Up your Apple iPhone 11 Pro Max**
 
 Once the process has reached completion, set up your Apple iPhone 11 Pro Max, if this process takes more than 15 minutes, it will leave the Recovery Mode automatically and repeat the steps again.
@@ -344,13 +330,6 @@ Are you tired of wearing a mask in this pandemic? Apple introduced a new feature
 Only iPhone 12 and the latest models can use Face ID with a mask on, which reflects that models like iPhone 11, iPhone X, and the older models cannot utilize this function. Moreover, an additional way to unlock iPhone is to use Apple Watch to unlock iPhone 11, X, or earlier models.
 
 Once you meet these requirements, you can easily unlock your Apple iPhone 11 Pro Max while wearing a mask and get further details by reading this article.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 1: How to Unlock iPhone Face ID with a Mask on
 
@@ -377,15 +356,16 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 ![tap on face id and passcode](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Tap on the toggle switch of "Use Face ID with a Mask." Afterward, select "Use Face ID with a Mask" to begin with settings.
 
 ![enable face id with mask option](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
-  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step** **3:** Now, it's time to scan your face with your Apple iPhone 11 Pro Max to initiate the setup. Again, you don't have to wear a mask at this stage, as the Apple iPhone 11 Pro Max device's main focus while scanning would be the eyes. Also, if you wear glasses, you can proceed without taking them off.
@@ -433,6 +413,10 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 - Works for all models of iPhone, iPad and iPod touch.
 - Fully compatible with the latest iOS 11,12,13.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3981454** people have downloaded it
 
 <iframe width="100%" height="450" type="text/html" src="https://www.youtube.com/embed/qxEIOKjeNZE" frameborder="0"></iframe>
@@ -457,22 +441,24 @@ We all can relate that unlocking an iPhone on Face ID while wearing a face mask 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-support.techidaily.com/new-mastering-photo-distortion-techniques-in-ps/"><u>[New] Mastering Photo Distortion Techniques in PS</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-turn-every-instagram-moment-into-a-shareable-mp4-file/"><u>[Updated] 2024 Approved Turn Every Instagram Moment Into a Shareable MP4 File</u></a></li>
-<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-htc-u23-frp-by-drfone-android/"><u>5 Quick Methods to Bypass HTC U23 FRP</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-11-pro-drfone-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/chromebook-shutter-magic-4-simple-steps/"><u>Chromebook Shutter Magic - 4 Simple Steps</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/codecs-libres-h265-descargar-gratuitamente-para-visionado-de-videos-en-ultra-alta-definicion-4k8k/"><u>Códecs Libres H.265 Descargar Gratuitamente Para Visionado De Vídeos en Ultra Alta Definición (4K/8K)</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/elite-mac-graphics-recorder/"><u>Elite Mac Graphics Recorder</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-iphone-11-pro-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your iPhone 11 Pro When You Forget the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-6s-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 6s Lock Screen with Notifications? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-11-pro-max-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 11 Pro Max Unavailable Issue With Ease | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-iphone-13-pro-max-passcode-not-working-drfone-by-drfone-ios/"><u>In 2024, How to Fix iPhone 13 Pro Max Passcode not Working? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-flashlight-from-iphone-6-lock-screen-drfone-by-drfone-ios/"><u>In 2024, How To Remove Flashlight From iPhone 6 Lock Screen | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-stolen-apple-iphone-6s-plus-in-different-conditionsin-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Stolen Apple iPhone 6s Plus In Different Conditionsin | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-15-plus-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone 15 Plus | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-nokia-c32-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Nokia C32 Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/lenovo-conexant-hd-audio-drivers-free-download/"><u>Lenovo Conexant HD Audio Drivers Free Download</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/top-16-best-free-video-players-for-windowsmac-pc/"><u>Top 16 Best Free Video Players for Windows/Mac PC</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-make-your-instagram-posts-pop-with-correct-video-dimensions/"><u>[Updated] 2024 Approved Make Your Instagram Posts Pop with Correct Video Dimensions</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-avoid-commonplace-channel-titles-finding-uniqueness-with-filmora-for-2024/"><u>[Updated] Avoid Commonplace Channel Titles Finding Uniqueness with Filmora for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exploring-your-love-for-filmora-editors-best-features/"><u>[Updated] Exploring Your Love for Filmora Editor's Best Features</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-revolutionizing-fb-ads-through-innovative-and-effective-video-techniques/"><u>[Updated] In 2024, Revolutionizing FB Ads Through Innovative and Effective Video Techniques</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-iphone-13-pro-max-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-iphone-15-plus-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My iPhone 15 Plus After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-14-pro-max-without-itunes-drfone-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 14 Pro Max Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-11-pro-max-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone 11 Pro Max When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-tips-for-cutting-and-splicing-360-degree-footage-in-adobe-premiere/"><u>In 2024, Expert Tips for Cutting and Splicing 360-Degree Footage in Adobe Premiere</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-iphone-12-pro-max-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>In 2024, How to Bypass iPhone 12 Pro Max Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-x-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone X Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-pro-max-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 13 Pro Max Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-13-pro-max-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1726029797481-obs-studio/"><u>OBS Studioによるフルスクリーンキャプチャの技術ガイド</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-definitive-guide-to-understanding-and-upgrading-your-macos/"><u>The Definitive Guide to Understanding and Upgrading Your macOS</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2669773-9781780993355-the-divine-human/"><u>The Divine Human | Free Book</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/top-9-windows-gif-capture-tools-perfect-animation-preservation-for-2024/"><u>Top 9 Windows GIF Capture Tools Perfect Animation Preservation for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-11-pro-max-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 11 Pro Max i Do? Get Answers here | Dr.fone</u></a></li>
 </ul></div>
 

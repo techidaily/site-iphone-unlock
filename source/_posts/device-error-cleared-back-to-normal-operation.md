@@ -1,7 +1,7 @@
 ---
 title: Device Error Cleared - Back to Normal Operation
-date: 2024-11-21T16:35:38.119Z
-updated: 2024-11-26T22:36:38.266Z
+date: 2024-12-01T17:27:41.963Z
+updated: 2024-12-06T17:15:55.898Z
 tags:
   - win11
   - win10
@@ -33,17 +33,21 @@ Code 22 occurs usually because your device is manually disabled. Then manually e
 1. On your keyboard, press the**Windows** ![](https://images.drivereasy.com/wp-content/uploads/2018/08/img_5b7b8ac86a6f5.png) key and**R** at the same time to open the Run box.
 2. Type **devmgmt.msc** and press**Enter**  to access Device Manager.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98e3f572c04.png)
 3. Expand the category that your device belongs to, right-click your device and select**Enable device** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98e536637bc.jpg)
 If the problem persists, try the next fix.
 
----
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+---
 
 ### Fix 2: Update your device driver
 
@@ -59,7 +63,7 @@ Driver errors like Code 22 can often be fixed by updating device drivers. You ca
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Uninstall your device driver
@@ -70,15 +74,7 @@ Uninstalling your device driver is another solution you can try to fix **This de
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98ea2541557.jpg)
 2. Restart your computer, and Windows will automatically reinstall the driver for your device.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ---
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Reset the BIOS settings
 
@@ -92,16 +88,20 @@ If the above steps don’t work for you, to fix driver error code 22, you can tr
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c88244255.jpg)  
  Example – CMOS battery on a desktop PC  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On laptops, finding the battery housing may be not as easy. Some models have a small pop-out tray on the chassis to enable easy removal. Some may be covered with something as protection (see an example below).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c4a50b434.jpg)  
  Example – CMOS battery on a laptop
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 5. Remember which direction the battery is installed. Usually the engraved side, the positive side, is face up. Then, remove the CMOS battery from the main board (most can simply be popped out).![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c58fd6ffe.jpg)
 6. Wait for about one or two minutes for the CMOS to reset itself to its defaults.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
 
@@ -126,20 +126,17 @@ Please do reply if you got your problem fixed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://buynow-info.techidaily.com/10-best-online-photo-printing-services-of-2024/"><u>10 Best Online Photo Printing Services of 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-full-kinetic-assessment-2023/"><u>2024 Approved Full Kinetic Assessment 2023</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-12-mini-drfone-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 12 mini | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-iphone-14-pro-max-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your iPhone 14 Pro Max? Learn All 4 Methods | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-apple-iphone-13-pro-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on Apple iPhone 13 Pro With or Without Password | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-13-pro-without-a-passcode-drfone-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 13 Pro Without a Passcode | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-6-drfone-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-15-pro-drfone-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/24-how-to-tailor-youtube-thumbnails-for-maximum-impact/"><u>In 2024, How to Tailor YouTube Thumbnails for Maximum Impact</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-poco-c65-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Poco C65 online without jailbreak</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-12-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 12 | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/pathfinder-wrath-of-the-righte-keyboard-malfunction-heres-how-to-fix-it/"><u>Pathfinder Wrath of the Righte, Keyboard Malfunction? Here's How to Fix It!</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/proto-germanic-traces-in-dutch-dialects/"><u>Proto-Germanic Traces in Dutch Dialects</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/resolution-upgrade-in-outriders-resolving-the-issue-of-fuzzy-gameplay-images/"><u>Resolution Upgrade in Outriders - Resolving the Issue of Fuzzy Gameplay Images</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-tutorial-keeping-your-contacts-unlisted-in-the-android-phonebook/"><u>Step-by-Step Tutorial: Keeping Your Contacts Unlisted in the Android Phonebook</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-shadowed-reader-of-facebook-flashes/"><u>[New] Shadowed Reader of Facebook Flashes</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-the-ultimate-guide-to-growth-and-glitter-in-video-ventures/"><u>[Updated] 2024 Approved The Ultimate Guide to Growth & Glitter in Video Ventures</u></a></li>
+<li><a href="https://win-unique.techidaily.com/3-effective-methods-crafting-a-windows-11-recovery-drive-from-usb-for-secondary-systems/"><u>3 Effective Methods: Crafting a Windows 11 Recovery Drive From USB for Secondary Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/choosing-the-right-stereo-speakers-a-guide-to-making-wise-purchases/"><u>Choosing the Right Stereo Speakers: A Guide to Making Wise Purchases</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/enhance-your-coding-experience-in-emeditor-by-using-multiline-syntax-coloring-not-just-for-comments/"><u>Enhance Your Coding Experience in EmEditor by Using Multiline Syntax Coloring, Not Just for Comments!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/four-straightforward-methods-for-lenovo-screenshots/"><u>Four Straightforward Methods for Lenovo Screenshots</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-11-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone 11? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-se-2020-drfone-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-your-disabled-iphone-se-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>In 2024, Unlock Your Disabled iPhone SE Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-compressor-for-fcpx-best-practices-for-exporting-and-delivering-videos/"><u>New 2024 Approved Compressor for FCPX Best Practices for Exporting and Delivering Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-process-for-amr-to-mp3-conversion-using-the-movavi-audio-tool/"><u>Step-by-Step Process for AMR to MP3 Conversion Using the Movavi Audio Tool</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-your-disabled-apple-iphone-12-pro-max-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone 12 Pro Max Without iTunes in 5 Ways | Dr.fone</u></a></li>
 </ul></div>
 
