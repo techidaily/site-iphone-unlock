@@ -1,7 +1,7 @@
 ---
 title: iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 8 | Dr.fone
-date: 2024-11-30T16:06:02.924Z
-updated: 2024-12-06T17:49:07.359Z
+date: 2024-12-08T18:44:10.311Z
+updated: 2024-12-12T18:05:35.069Z
 tags: 
   - unlock
   - remove screen lock
@@ -64,10 +64,6 @@ The above was a fast, intuitive, step-by-step way to get you through the unlock 
 
 ![iphone recovery mode](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-disabled-iphone-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3:** Click Restore to unlock disabled iPhone.
 
 After this process, the Apple iPhone 8 is reset to factory defaults, and you will need to go through the setup process again.
@@ -100,10 +96,6 @@ Worry not, because Apple's Find My is your friend. You can use Find My on your o
 
 ![unlock disabled iphone with find my app](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-disabled-iphone-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2:** Select the disabled iPhone from the Apple iPhone 8 devices in the sidebar, click or tap the Apple iPhone 8 device on the map and click or tap Erase This Device.
 
 The disabled iPhone will be wiped and restored to factory defaults. The setup will need to be performed again.
@@ -127,6 +119,10 @@ Unlocking a disabled iPhone requires erasing the Apple iPhone 8 device. All data
 After unlocking the disabled iPhone, when you set it up again, if you previously had iCloud Backup enabled, you will get the option to restore data from the latest backup.
 
 ![icloud](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-disabled-iphone-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus Tip: Prevent iPhone From Getting Disabled In Future
 
@@ -187,21 +183,17 @@ You can watch the video below about how to unlock your Apple iPhone 8 without Pa
 
 ![start to get into locked Apple iPhone 8](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 6.** There will be a warning message showing up. Just confirm it by entering the on-screen code.
 
 ![confirmation code to get into locked Apple iPhone 8](https://images.wondershare.com/drfone/drfone/ios-unlock-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 7.** Let the application resolve the issue on your phone. Once it is done, you will be notified that your lock screen is removed.
 
 ![got into locked Apple iPhone 8 successfully](https://images.wondershare.com/drfone/drfone/ios-unlock-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to get into a locked Apple iPhone 8 with iTunes?
 
@@ -221,10 +213,6 @@ This is another popular way to resolve the locked out of the Apple iPhone 8 prob
 
 ![restore Apple iPhone 8](https://images.wondershare.com/drfone/article/2017/07/14994495527134.jpg "restore Apple iPhone 8")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: How to get into a locked Apple iPhone 8 via Find My Apple iPhone 8?
 
 Apple’s official Find My Apple iPhone 8 is a smart and hassle-free way to locate your lost Apple iPhone 8 or reset it remotely. All you need to remmber is your Apple ID and password. To use this method, preconditions are: Find My Apple iPhone 8 is enabled and internet network is available. Follow these instructions to reset your Apple iPhone 8:
@@ -236,6 +224,10 @@ Apple’s official Find My Apple iPhone 8 is a smart and hassle-free way to loca
 **Step 2.** This will provide various tasks that you can perform on the iOS device. Click on the “Erase Apple iPhone 8” button to reset the Apple iPhone 8 device.
 
 ![erase Apple iPhone 8](https://images.wondershare.com/drfone/article/2017/07/14994495147747.jpg "erase Apple iPhone 8")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: How to get into a locked Apple iPhone 8 with Siri?
 
@@ -249,6 +241,10 @@ If you don’t want to erase your device’s data while resolving this issue, yo
 
 ![world clock](https://images.wondershare.com/drfone/article/2017/07/14994491682149.jpg "world clock")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3.** The interface will ask you to search for a location of your choice. Type anything on the search tab and select it to get various options. Tap on the “Select all” text.
 
 ![select all](https://images.wondershare.com/drfone/article/2017/07/14994491845337.jpg "select all")
@@ -261,25 +257,25 @@ If you don’t want to erase your device’s data while resolving this issue, yo
 
 ![share on message](https://images.wondershare.com/drfone/article/2017/07/14994492171595.jpg "share on message")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 6.** A new interface will be opened from where you can draft a new message. Type anything in the “To” field and tap "return" from a keyboard.
 
 ![send to](https://images.wondershare.com/drfone/article/2017/07/14994492327446.jpg "send to")
-
-**Step 7.** Then the text will be highlighted. Tap on the add icon.
-
-![add contact](https://images.wondershare.com/drfone/article/2017/07/14994492469564.jpg "add contact")
 
 <!-- affiliate ads begin -->
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+**Step 7.** Then the text will be highlighted. Tap on the add icon.
+
+![add contact](https://images.wondershare.com/drfone/article/2017/07/14994492469564.jpg "add contact")
+
 **Step 8.** This will open another interface to add a new contact. From here, tap on the “Create new contact” option.
 
 ![create new contact](https://images.wondershare.com/drfone/article/2017/07/14994492596641.jpg "create new contact")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 9.** Instead of adding a contact, tap on the photo icon and select the “Choose Photo” option.
 
@@ -292,10 +288,6 @@ If you don’t want to erase your device’s data while resolving this issue, yo
 **Step 11.** Now, press the home button. If nothing goes wrong, then you will enter the Home screen on your phone.
 
 ![iphone home](https://images.wondershare.com/drfone/article/2017/07/14994493369614.jpg "iphone home")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -322,7 +314,7 @@ An inactive Apple ID results from incorrect login information. Mistyped password
 Apple employs strict security measures to protect user accounts. Sometimes, an Apple ID becomes inactive due to suspicious activities. This triggers security locks to safeguard sensitive information.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Payment or Billing Issues
@@ -364,6 +356,10 @@ Begin by opening Wondershare Dr.Fone on your computer. Then, navigate through "T
 Afterward, the platform will prompt you with inquiries before advancing. Firstly, confirm if a screen lock is set up on your iDevice. Ensure that it is active, and proceed by selecting “Yes.” Subsequently, verify if Two-Factor Authentication is activated on your iDevice. If not, activate it and click “Yes” to unlock the Apple ID.
 
 ![verify device lock](https://images.wondershare.com/drfone/guide/remove-apple-id-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3. Accessing Recovery Mode and Downloading iOS Firmware**
 
@@ -409,13 +405,13 @@ Do you know your Apple ID and simply need to reset the password? You can easily 
 
 ![access sign in and security options](https://images.wondershare.com/drfone/article/2024/01/how-to-resolve-apple-id-not-active-issue-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** Next, tap "Change Password" and provide your device passcode. You will need to type in a new password, verify it, and press "Change" from the top-right corner.
 
 ![change old password after verification](https://images.wondershare.com/drfone/article/2024/01/how-to-resolve-apple-id-not-active-issue-9.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Solution 2: Reset Apple ID Password From iForgot Website
 
@@ -445,6 +441,10 @@ When connecting with Apple Support, be ready to provide details about your issue
 
 ![get help from apple support](https://images.wondershare.com/drfone/article/2024/01/how-to-resolve-apple-id-not-active-issue-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 In conclusion, an **Apple ID that is not active** can disrupt access to essential device services. Various troubleshooting methods offer solutions, including resetting passwords, checking network connections, and consulting Apple Support. Yet, Dr.Fone is a hassle-free and efficient option among the solutions provided.
@@ -463,20 +463,17 @@ In conclusion, an **Apple ID that is not active** can disrupt access to essentia
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-explore-the-finest-cost-free-videocalling-platforms/"><u>[Updated] Explore the Finest Cost-Free Videocalling Platforms</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-erase-apple-iphone-13-pro-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>3 Ways to Erase Apple iPhone 13 Pro When Its Locked Within Seconds | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-12-pro-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone 12 Pro Without a Passcode | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/1721104681699-blackberry-storm-beta-not-recognized-by-fedora-33-solution-found/"><u>Blackberry Storm Beta Not Recognized by Fedora 33 - Solution Found</u></a></li>
-<li><a href="https://fox-tls.techidaily.com/comment-corriger-le-probleme-de-mise-a-jour-windows-11-version-22h2-non-affiche/"><u>Comment Corriger Le Problème De Mise À Jour Windows 11 Version 22H2 Non Affiché?</u></a></li>
-<li><a href="https://fox-that.techidaily.com/home-button-woes-on-iphones-quick-and-easy-repair-techniques-you-should-know/"><u>Home Button Woes on iPhones: Quick and Easy Repair Techniques You Should Know</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-apple-iphone-se-2022-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix Apple iPhone SE (2022) Passcode not Working? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-13-in-lost-mode-drfone-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone 13 in Lost Mode | Dr.fone</u></a></li>
-<li><a href="https://fox-info.techidaily.com/in-2024-discovering-best-paid-and-free-srt-translation-tools/"><u>In 2024, Discovering Best Paid & Free SRT Translation Tools</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-15-pro-drfone-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/24-striking-a-balance-in-youtube-thumbnail-sizing/"><u>In 2024, Striking a Balance in YouTube Thumbnail Sizing</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-xr-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone XR | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/mobvoi-ticwatch-e2-review-cheap-but-not-a-good-deal/"><u>Mobvoi TicWatch E2 Review: Cheap, But Not a Good Deal</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/seamless-gaming-experience-can-you-enjoy-ps4-games-using-your-ps5-console/"><u>Seamless Gaming Experience: Can You Enjoy PS4 Games Using Your PS5 Console?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-14-plus-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-augmented-reality-how-android-enhances-viewing-experience/"><u>[New] 2024 Approved Augmented Reality How Android Enhances Viewing Experience</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ilmmaker-tips-youtube-trailers-using-filmora-for-2024/"><u>[New] Filmmaker Tips YouTube Trailers Using Filmora for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-how-to-convert-any-vimeo-video-to-a-secure-mp4-file/"><u>[Updated] 2024 Approved How To Convert Any Vimeo Video to a Secure MP4 File</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-breaking-barriers-in-drone-races-and-top-5-innovative-fpv-units/"><u>[Updated] Breaking Barriers in Drone Races & Top 5 Innovative FPV Units</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-kitchen-kings-and-queen-top-youtube-gastronomes-for-2024/"><u>[Updated] Kitchen Kings & Queen Top YouTube Gastronomes for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-se-drfone-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-7-drfone-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-13ipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 13/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-iphone-6s-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>In 2024, How to Bypass iPhone 6s Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/in-2024-streamlining-virtual-screen-display-in-google-meet-chats/"><u>In 2024, Streamlining Virtual Screen Display in Google Meet Chats</u></a></li>
+<li><a href="https://ai-video.techidaily.com/new-2024-approved-best-10-free-video-translators-to-mitigate-translation-risks/"><u>New 2024 Approved Best 10 Free Video Translators to Mitigate Translation Risks</u></a></li>
+<li><a href="https://win-updates.techidaily.com/optimize-your-pcs-performance-with-expert-advice-from-yl-software/"><u>Optimize Your PC's Performance with Expert Advice From YL Software</u></a></li>
 </ul></div>
 

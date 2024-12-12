@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Find My Apple iPhone 13 Pro Max when Phone is Broken? | Dr.fone
-date: 2024-07-15T07:00:09.112Z
-updated: 2024-07-16T07:00:09.112Z
+date: 2024-12-11T16:24:34.231Z
+updated: 2024-12-12T16:44:07.155Z
 tags: 
   - unlock
   - remove screen lock
@@ -22,9 +22,6 @@ Apple ensures the privacy and security of its customers. For that, it has introd
 
 Downloading and enabling Find My iPhone can be really easy and cinch but turning it off can be an arduous task. But we have you covered through this article that shall tell you about this app in detail and guide you on how to turn off Find My iPhone even when your Apple iPhone 13 Pro Max is broken.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: What is Find My iPhone?
 
 Find My iPhone is an application forged by Apple that keeps track of your Apple iPhone 13 Pro Max's location protects your data. Once you enable this application, it requires your iCloud password to unlock your phone to keep your Apple iPhone 13 Pro Max safe from the wrong hands. This application comes in handy when you accidentally lose or misplace your phone.
@@ -34,8 +31,6 @@ The best part about this application is that it is free of cost. It usually come
 ## Part 2: Efficient Way of Turning Off Find My iPhone Within Second- Dr. Fone
 
 [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is an excellent data recovery and management software created by Wondershare. However, limiting it to just recovery and management of data will not be just as it offers much more than just that. Transferring files, repairing the operating system, changing the GPS location, and fixing the activation lock are its amazing services.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -90,6 +85,10 @@ As your activation lock is removed, go to the settings and remove your Apple ID.
 
 ![activation lock removed](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to Turn Off Find My iPhone on Broken iPhone Using iCloud?
 
 iCloud is the most secure storage drive introduced by Apple. It keeps your gallery, your reminders, contacts, and your messages up to date. Moreover, it also organizes and stores your files while keeping them private and secure. iCloud strongly integrates your Apple iPhone 13 Pro Max with other iOS devices so you can share your data, documents, and location with other iCloud users.
@@ -104,9 +103,17 @@ Here we have explained to you step by step how to turn off Find My iPhone on bro
 
 ![select the option of find my iphone](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Click on the "All Devices" option from the top. Select your Apple iPhone 13 Pro Max, which you want to remove by clicking on "Remove from account."
 
 ![select your device](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4:** Once your device is removed from the account, a window will pop up asking you to delete the option of that device from your iCloud account. Now you may log in Find My iPhone with your iCloud account on another device.
 
@@ -146,6 +153,14 @@ This app offers a reliable and secure platform for storing personal and confiden
 
 ![unlock forgotten notes password easily](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1. Best Method To Unlock Forgotten Notes Password iPhone: Wondershare Dr.Fone
 
 Apple allows users to create a separate password for notes or use their iPhone passcode. Many users choose the second option to avoid remembering a new password. Forgetting the Apple iPhone 13 Pro Max device passcode poses a drawback, making your notes inaccessible. [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) stands out as one of the most straightforward solutions for addressing this scenario.
@@ -170,12 +185,19 @@ Once Wondershare Dr.Fone is downloaded and installed on your computer, launch it
 
 ![unlock ios screen with dr fone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2. Enter Recovery Mode and Download Firmware**
 
 The next step is to put your device into Recovery Mode after selecting “Start,” for which the instructions are given on the screen. Once your device is in Recovery Mode, Dr.Fone will detect it and show its model. Now select the "System Version” and tap "Start" to proceed. Dr.Fone will now start downloading the firmware, which it will later verify.
 
 ![define model and version](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3. Unlock the iOS Device and Complete the Process**
 
@@ -184,6 +206,10 @@ When the firmware is displayed after verification, press "Unlock Now." Upon trig
 ![enter confirmation code for unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-7.png)
 
 _**Tips:** Are you searching for a powerful iPhone Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. How To Unlock Notes on iPhone Through Settings
 
@@ -194,6 +220,10 @@ If you've locked a note on your Apple iPhone 13 Pro Max but forgot the password,
 - **Step 1.** Begin the process by accessing Settings and then navigating to "Notes." Within the "Notes" tab, press "Password" followed by tapping "Reset Password."
 
 ![reset notes password via settings](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2.** You will be prompted to enter the Apple ID password for confirmation. After entering the Apple ID password, tap "Reset Password" again to reset the password. Finalize the process by setting up a new “Password,” “Verify” it, set a “Hint,” and press “Done.”
 
@@ -220,6 +250,10 @@ Locking notes on your Apple iPhone 13 Pro Max provides extra security for your s
 - **Step 1.** Open the “Note” you want to lock and tap the “three dots” near the top right corner. From the appearing menu, press the "Lock" icon.
 
 ![select note to lock](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2.** If it is the first time, you will be asked to set a new password or use the same one as the Apple iPhone 13 Pro Max device. After your note is locked, hide its content by tapping the “open lock” icon at the top of the screen.
 
@@ -254,9 +288,6 @@ If you find this warning annoying or your Apple iPhone 13 Pro Max not charging w
 
 After completing all the steps, your Apple iPhone 13 Pro Max can connect USB accessories anytime, anywhere. However, it is very common to forget to unlock the passcode. Next, we will recommend four solutions to help you use USB accessories without a passcode.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![usb-restricted-mode](https://images.wondershare.com/drfone/unlock-new/unlock-usb/usb-restricted-mode.png)
 
 ## Part 3: How to Unlock Apple iPhone 13 Pro Max to Use USB Accessories without Passcode via Dr.Fone?
@@ -271,9 +302,6 @@ Now, here comes an amazing App with many benefits to solving the problem for you
 
 **Step 1:** The first step, of course, is to download Dr.Fone to your computer and click on “Screen Unlock”.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![run the program to bypass iphone lock screen](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
@@ -300,7 +328,6 @@ There is no doubt that you may worry about losing all your data while bypassing 
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/M3tfU3GUTpk"></iframe>
 
-
 ## Part 4: How to Unlock Apple iPhone 13 Pro Max to Use USB Accessories without Passcode via iCloud?
 
 With iCloud, you can quickly clean up your Apple iPhone 13 Pro Max, remove screen locks, and help unlock your device. But, you have to know that all your data will be erased. Make sure your Apple iPhone 13 Pro Max has the "Find My iPhone" function enabled, otherwise your device will be offline.
@@ -315,9 +342,6 @@ With iCloud, you can quickly clean up your Apple iPhone 13 Pro Max, remove scree
 
 Now, your Apple iPhone 13 Pro Max will reboot without a passcode. Then, you can unlock Apple iPhone 13 Pro Max to use accessories and bypass the passcode.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5: How to Unlock Apple iPhone 13 Pro Max to Use USB Accessories without Passcode via iTunes?
 
 There is currently no way to unlock an iPhone without erasing all data. Luckily, iTunes can help back up your data before removing it. Please note that this way is **only possible if the Apple iPhone 13 Pro Max device has synced data in iTunes before.**
@@ -355,9 +379,6 @@ Now, you'll get an iPhone which is like being factory reset. And you could unloc
 
 ## Part 7: Hot FAQ about USB Accessories on iPhone
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Q1: What is the feature of USB Accessories on iPhone?
 
 From USB-A to the latest, USB-C. Also, most iPhones use a proprietary Lightning port.
@@ -380,9 +401,6 @@ It is very common to use USB accessories to connect iPhone and computer. Sometim
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -395,7 +413,22 @@ It is very common to use USB accessories to connect iPhone and computer. Sometim
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-discover-the-optimal-9-free-mp3-seekers-android/"><u>[New] 2024 Approved Discover the Optimal 9 Free MP3 Seekers (Android)</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-essential-guide-to-top-12-free-and-paid-gaming-introduction-creators-for-2024/"><u>[Updated] Essential Guide to Top 12 Free and Paid Gaming Introduction Creators for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-screen-to-file-solutions-with-apowersoft/"><u>[Updated] Screen-to-File Solutions with Apowersoft</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-soaring-past-competitors-mastering-drone-racing-and-best-fpv-drones/"><u>2024 Approved Soaring Past Competitors Mastering Drone Racing and Best FPV Drones</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/4-ways-to-unlock-apple-iphone-se-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>4 Ways to Unlock Apple iPhone SE to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/guide-navigating-to-device-manager-from-control-panel-on-your-pc-with-yl-software-help/"><u>Guide: Navigating to Device Manager From Control Panel on Your PC with YL Software Help</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-6s-plus-drfone-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Apple iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-8-with-7-methods-drfone-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for iPhone 8 With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-7-plus-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 7 Plus With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-iphone-15-pro-max-prevention-and-solution-drfone-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of iPhone 15 Pro Max Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-xr-i-do-get-answers-here-drfone-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone XR i Do? Get Answers here | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-se-2022-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/top-25-mentors-in-modern-social-media-mastery-on-instagram-for-2024/"><u>Top 25 Mentors in Modern Social Media Mastery on Instagram for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/visual-clarity-quest-deciphering-ultrawide-and-uhd-4k-monitors/"><u>Visual Clarity Quest Deciphering UltraWide and UHD 4K Monitors</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Cyberpunk 2077 Update: Addressing and Rectifying Input Lag Problems"
-date: 2024-11-29T18:20:47.004Z
-updated: 2024-12-06T18:28:50.190Z
+date: 2024-12-05T16:14:17.607Z
+updated: 2024-12-12T18:00:41.134Z
 tags:
   - win11
   - win10
@@ -26,7 +26,7 @@ It’s annoying that the game doesn’t start up with sound, or can’t get any 
 3. [Install Windows updates](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Use wire headsets
@@ -49,17 +49,17 @@ Hope it works for you, if not, try updating your audio driver.
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-audio-bluetooth-usb-unifying.jpg)
 
-**The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ### Fix 3: Install Windows updates
 
@@ -70,14 +70,14 @@ Hope it works for you, if not, try updating your audio driver.
 2. Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 3. Launch Evil Genius 2 and check.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -101,16 +101,18 @@ Enjoy the game and have a nice day!
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-crafting-content-that-captivates-youtube-keyword-mastery/"><u>[New] 2024 Approved Crafting Content that Captivates YouTube Keyword Mastery</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/n-2024-sustaining-youtube-cc-status-to-boost-engagement/"><u>[New] In 2024, Sustaining YouTube CC Status to Boost Engagement</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-universalstream-2024-live-and-local-together/"><u>[New] UniversalStream 2024 Live & Local, Together</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-free-online-radio-recordings-a-practical-handbook/"><u>2024 Approved Free Online Radio Recordings - A Practical Handbook</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-iphone-7-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 7 Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-t-play-mov-files-on-moto-g-stylus-2023-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can't play .mov files on Moto G Stylus (2023)</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-iphone-6s-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For iPhone 6s Lock Screen | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-6-plus-drfone-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-12-pro-max-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone 12 Pro Max Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-12-pro-drfone-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://discover-best.techidaily.com/leading-car-components-producer-streamlines-payment-documentation-through-abbyy-automation-technology/"><u>Leading Car Components Producer Streamlines Payment Documentation Through ABBYY Automation Technology</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-get-back-to-seamless-transfers-fixing-faulty-airdrop-links/"><u>[New] 2024 Approved Get Back to Seamless Transfers Fixing Faulty Airdrop Links</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-top-tips-for-webinar-preservation-without-hurdles-windows-macos-for-2024/"><u>[New] Top Tips for Webinar Preservation without Hurdles (Windows, macOS) for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-enhancing-clarity-and-comprehensibility-adding-on-screen-captions-in-video-projects/"><u>[Updated] In 2024, Enhancing Clarity & Comprehensibility Adding On-Screen Captions in Video Projects</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-professional-stabilizers-roundup-securing-smooth-cinematography-for-2024/"><u>[Updated] Professional Stabilizers Roundup Securing Smooth Cinematography for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-professional-steps-for-high-quality-powerpoint-replays/"><u>2024 Approved Professional Steps for High-Quality PowerPoint Replays</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-iphone-se-2020-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your iPhone SE (2020) When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-xr-without-a-passcode-drfone-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone XR Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-pro-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11 Pro without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-the-art-of-digital-library-step-by-step-guide-for-your-youtube-saved-playlist/"><u>In 2024, The Art of Digital Library Step-by-Step Guide for Your YouTube Saved Playlist</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-xr-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/mastery-in-gameye-advanced-recording-tips/"><u>Mastery in GamEye Advanced Recording Tips</u></a></li>
+<li><a href="https://driver-download.techidaily.com/resolving-connectivity-problems-with-xbox-controllers-and-keyboards-in-windows-operating-systems-10-8-7/"><u>Resolving Connectivity Problems with Xbox Controllers and Keyboards in Windows Operating Systems (10, 8, 7)</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-infinix-hot-40-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Infinix Hot 40 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
 

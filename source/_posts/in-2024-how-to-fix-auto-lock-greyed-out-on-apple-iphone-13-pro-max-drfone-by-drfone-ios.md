@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 13 Pro Max | Dr.fone
-date: 2024-07-15T07:03:57.203Z
-updated: 2024-07-16T07:03:57.203Z
+date: 2024-12-10T16:11:26.352Z
+updated: 2024-12-12T16:18:59.701Z
 tags: 
   - unlock
   - remove screen lock
@@ -21,6 +21,10 @@ Auto-lock on iOS devices serves multiple purposes - it conserves battery life, s
 Read on if you've encountered a similar problem on your iOS device. In this guide, we'll explore the possible reasons and offer steps to fix **Auto-Lock greyed out on iPhone** and iPad devices. If force restarts or settings resets haven't worked for you, we've got alternative solutions. Let's get started.
 
 ![auto lock greyed out on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Why Is Auto-Lock Greyed Out on iOS Device?
 
@@ -43,6 +47,10 @@ MDM Profile Restrictions
 If the Auto-Lock is greyed out on your iPad or iPhone and you use it for work or school, a Mobile Device Management (MDM) profile might be the reason. This profile restricts settings, including Auto-Lock. To fix this, contact your IT administrator and ask if they can [<u>adjust the MDM profile settings</u>](https://drfone.wondershare.com/unlock/mdm-bypass-free.html).
 
 ![setup remote management on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Alright, you know the possible reasons why the Auto-Lock option is not working on your iOS device. Still, you might be wondering how to fix the Auto-Lock greyed-out issue. Below are several ways to get your iPad or iPhone Auto-Lock working normally again.
 
@@ -117,6 +125,10 @@ Have you ever bought a used iPad or Apple iPhone 13 Pro Max to find the Auto-Loc
 
 ![dr.fone toolbox home interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
 - **Step 2:** Within the **Screen Unlock** tool window, select **Unlock MDM iPhone**.
@@ -129,16 +141,10 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 - **Step 4:** Please review the message carefully before initiating the MDM bypass process. Once you've read it, click **Start to Bypass** to proceed.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![start to bypass mdm](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-3.png)
 
 - **Step 5:** If prompted, go to your device's **Settings** > **Apple ID** > **iCloud** and turn off the **Find My** feature. Next, click **OK** to initiate the MDM bypass.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone guide turn off find my](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-4.png)
 
 - **Step 6:** The software will display the progress of the bypass. Wait for it to complete.
@@ -217,6 +223,10 @@ As you've gone through the entire issue of Security Lockout in iOS devices, you 
 
 You can find the latest support of iDevice and iOS versions across the tool, which makes it a versatile option. Consequently, you can bypass all types of screen locks from your Apple iPhone 13 Pro Max or iPad without any inconvenience. This includes support in removing the carrier and iCloud activation locks.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Highlights of Dr.Fone
 
 1. You can remove Touch ID, Face ID, alphanumeric passcode, and Screen Time passcode at a high success rate within a few minutes.
@@ -232,7 +242,6 @@ Do you have a query about **how to get out of security lockout on your Apple iPh
 First, run Wondershare Dr.Fone on your computer and connect to your Apple iPhone 13 Pro Max via cable. Open the "Toolbox" and select the “Screen Unlock” option.
 
 ![start screen unlock dr fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
 
 - **Step 2. Advance to Unlocking iOS Screen**
 
@@ -261,6 +270,10 @@ Getting your Apple iPhone 13 Pro Max out of Security Lockout from the Apple iPho
 
 ![perform direct unlock security lockout](https://images.wondershare.com/drfone/article/2024/02/unlock-iphone-in-security-lockout-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### What if I Have Recently Changed My iPhone's Passcode?
 
 If you have recently changed the iDevice password, you can use your old passcode within 72 hours to sign in temporarily. After getting into your Apple iPhone 13 Pro Max, set a new passcode immediately to complete the “Passcode Reset” process.
@@ -275,18 +288,12 @@ If you have recently changed the iDevice password, you can use your old passcode
 - **iPhone 7 and 7 Plus:** Proceed to press and hold the "Power" and "Volume Down" buttons simultaneously until the Recovery Mode screen appears.
 - **iPhone 8 and Later Models:** Start by pressing the “Volume Up” button, release it, and continue to press the “Volume Down” button. After releasing it, continue by holding the “Side” button until the Recovery Mode screen displays.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![put iphone in recovery mode](https://images.wondershare.com/drfone/article/2024/02/unlock-iphone-in-security-lockout-7.jpg)
 
 - **Step 2.** Subsequently, iTunes will detect your Apple iPhone 13 Pro Max in Recovery Mode. A prompt will appear stating that you want to “Update” or “Restore” your Apple iPhone 13 Pro Max. From there, choose “Restore” and hit the “OK” button to restore your Apple iPhone 13 Pro Max.
 
 ![restore iphone from itunes](https://images.wondershare.com/drfone/article/2024/02/unlock-iphone-in-security-lockout-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 5: How To Get iPhone out of Security Lockout Using iCloud?
 
 iCloud service is another handy method for people having queries about **how to get an iPhone out of the security lockout**. You should know this method removes your device data to access the phone screen again. Also, it requires the Find My option enabled on your Apple iPhone 13 Pro Max, and you need to know your Apple ID and password to proceed. After having these details, follow the given steps below:
@@ -299,9 +306,6 @@ iCloud service is another handy method for people having queries about **how to 
 
 ![erase iphone device from icloud](https://images.wondershare.com/drfone/article/2024/02/unlock-iphone-in-security-lockout-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Security Lockout or “iPhone Unavailable” is a common issue that appears when you enter an incorrect passcode up to 10 times. Our detailed guide provided authentic ways to fix the **security lockout iPhone** using simple steps. Here, Wondershare Dr.Fone is the most recommended method because it helps recover your Apple iPhone 13 Pro Max easily within a few steps.
@@ -328,6 +332,10 @@ Unlocking an iPhone through iTunes is one of the most common ways. If you have f
 
 ![using itunes to unlock iphone](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-x-xr-without-passcode-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Follow the steps to do this.
 
 1. First, connect your Apple iPhone 13 Pro Max to your computer and launch iTunes. You will have to install it if you don't have it on your computer. For installation, [click here and download](https://support.apple.com/downloads/itunes)
@@ -340,6 +348,10 @@ Follow the steps to do this.
 If the above-given method is not helpful or you haven't used iTunes before, we have another solution. You can use the "Find My iPhone" feature to erase your device and unlock it. This is useful when you quickly want to unlock your Apple iPhone 13 Pro Max without a passcode.
 
 ![using find my iphone to unlock iphone](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-x-xr-without-passcode-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 All you have to do is follow the steps given below.
 
@@ -356,6 +368,10 @@ If both above-given methods don't work for you, or you don't have access to a co
 
 ![erase iphone feature](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-x-xr-without-passcode-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 With this method, you can follow the steps below to remove the screen lock passcode on Apple iPhone 13 Pro Max.
 
 1. First, you must try unlocking your Apple iPhone 13 Pro Max with all the possible passcodes you remember.
@@ -363,6 +379,10 @@ With this method, you can follow the steps below to remove the screen lock passc
 3. By this message, you will also see another option at the bottom right corner named **Erase iPhone**.
 4. By clicking this option, you will be asked about your **Apple ID and Password** that you have used on this iPhone.
 5. So provide them, and you will be able to erase your Apple iPhone 13 Pro Max, and in the end, your Apple iPhone 13 Pro Max will be unlocked without needing a passcode or password.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method #4: Dr.Fone-Screen Unlock
 
@@ -373,7 +393,6 @@ Here are some easy steps that you should take.
 **Step #1: Download Dr.Fone Tool**
 
 First, you must go to your computer or MacBook and download the Dr.Fone tool. You can follow the [link to download](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) and install this tool for free.
-
 
 **Step #2: Connect Your Apple iPhone 13 Pro Max**
 
@@ -405,10 +424,13 @@ Once the process is completed, you can unlock your Apple iPhone 13 Pro Max XR lo
 
 ![unlock iphone now](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
-
 ## FAQs
 
 Following are 3 frequently asked questions that might come into your mind and their answers to help you understand everything.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to remove the passcode on an iOS device?
 
@@ -440,9 +462,6 @@ Finally, if you have an Apple iPhone 13 Pro Max with Face ID, it's possible that
 
 So, these are some most effective methods to follow and unlock the Apple iPhone 13 Pro Max XR lock screen without a passcode. All the methods discussed are excellent and working, but the most convenient way is using the Wondershare Dr.Fone-Screen Unlock. It is a perfect tool that can be used to unlock different iPhone lock screens. Moreover, it is very safe and easy to use. So, we recommend you use this tool to unlock your Apple iPhone 13 Pro Max lock screen without a passcode.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -455,7 +474,19 @@ So, these are some most effective methods to follow and unlock the Apple iPhone 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-audience-connection-through-instagram-stories-questions/"><u>[New] 2024 Approved Audience Connection Through Instagram Stories Questions</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-elite-selection-of-steadicams-for-drones-in-videography/"><u>[New] 2024 Approved Elite Selection of Steadicams for Drones in Videography</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-essential-strategies-for-uploading-video-quality-4k-on-youtub/"><u>[New] 2024 Approved Essential Strategies for Uploading Video Quality 4K on YouTub</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-mastering-valheim-agriculture-seed-selection-insights/"><u>[Updated] In 2024, Mastering Valheim Agriculture Seed Selection Insights</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-secrets-to-improve-your-gopro-videos/"><u>[Updated] Top Secrets to Improve Your GoPro Videos</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-xs-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone XS Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-6-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 6 Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-13-mini-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone 13 mini When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-11-pro-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone 11 Pro with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-asus-rog-phone-7-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Asus ROG Phone 7 Through Google Earth?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-pro-max-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 15 Pro Max Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/izing-viewing-habits-the-ultimate-guide-to-youtube-save-and-playlists/"><u>Optimizing Viewing Habits The Ultimate Guide to YouTube Save and Playlists</u></a></li>
+</ul></div>
 

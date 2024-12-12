@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Non-Functioning Apple Earbud Mic in Windows 11 OS
-date: 2024-11-30T17:20:58.011Z
-updated: 2024-12-06T17:58:21.157Z
+date: 2024-12-05T16:01:13.004Z
+updated: 2024-12-12T17:33:32.262Z
 tags:
   - win11
   - win10
@@ -29,7 +29,7 @@ thumbnail: https://thmb.techidaily.com/ce2c767b4ea66790422350863194f4cca1e1e1f1b
 ###
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Make sure Microphone is set to On for Skype (Windows 10 users)
@@ -45,14 +45,10 @@ Follow these:
  If it’s Off, click it to switch to On.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e77b3c45.png)
 4. Log in Skype and check to see if your Microphone works.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Adjust the audio settings on Skype
@@ -61,14 +57,14 @@ Follow these:
 2. On Skype window, Click**Tools** \>**Options** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_599a3fd935df2.png)
 3. Click**Audio settings** on the left pane. Then set your Microphone device and un-tick**Automatically adjust microphone settings** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Click**Save** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59969244028ac.jpg)
 4. Check to see if your Microphone works.
 
 ###
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your sound card driver
 
@@ -81,7 +77,7 @@ Follow these:
 3. In the **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , Driver Easy will show you the latest display driver you’ll need to install. And you can update the drivers one by one using the   **Update** button.  But if you upgrade to the **[PRO Version](https://tools.techidaily.com/drivereasy/download/)** , you can update all your drivers with one click — **Update All** . ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c06e8e725.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your computer and run Skype to see if your Microphone works.
@@ -94,6 +90,10 @@ Follow these:
 2. Type**services.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996978261d98.png)
 3. Right-click on the **Windows Audio** service. Click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996976eeec58.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Log in Skype and check to see if your Microphone works.
 
@@ -114,19 +114,22 @@ Follow these:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-howtos.techidaily.com/fixed-windows-10-red-screen-issue/"><u>[Fixed] Windows 10 Red Screen Issue</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-in-2024-essential-guide-to-cheap-video-conferencing-tools-for-computers/"><u>[New] In 2024, Essential Guide to Cheap Video Conferencing Tools for Computers</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-visionary-educators-guide-to-multimedia-use/"><u>[New] The Visionary Educator's Guide to Multimedia Use</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-2024-approved-the-road-to-impressive-3d-text-artistry-in-photoshop/"><u>[Updated] 2024 Approved The Road to Impressive 3D Text Artistry in Photoshop</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-time-markers-for-youtube-videos-expert-tips-desktopmobile/"><u>[Updated] Time Markers for YouTube Videos Expert Tips (Desktop/Mobile)</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-13-and-ipad-securely-drfone-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 13 and iPad Securely | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-x-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone X | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-12-drfone-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone 12 | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabled-iphone-6-how-to-unlock-a-disabled-iphone-6-drfone-by-drfone-ios/"><u>In 2024, Disabled iPhone 6 How to Unlock a Disabled iPhone 6? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-xs-with-7-methods-drfone-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for iPhone XS With 7 Methods | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-screen-grab-pros-comprehensive-analysis/"><u>In 2024, Screen Grab Pros Comprehensive Analysis</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-ultimate-mac-dvd-authorization-handbook/"><u>In 2024, The Ultimate Mac DVD Authorization Handbook</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/sustainable-value-can-auto-gpt-work-alone/"><u>Sustainable Value: Can Auto-GPT Work Alone?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-se-2020-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone SE (2020) Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-elevating-your-content-game-5-strategic-tactics-for-instagram-success-for-2024/"><u>[Updated] Elevating Your Content Game 5 Strategic Tactics for Instagram Success for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-quick-tips-altering-video-pace-in-instagram-stories/"><u>2024 Approved Quick Tips Altering Video Pace in Instagram Stories</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/did-your-iphone-xs-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your iPhone XS Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/discovering-superior-case-options-for-your-raspberry-pi-top-picks/"><u>Discovering Superior Case Options for Your Raspberry Pi - Top Picks</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/from-capture-to-curve-an-insider-look-at-editing-and-sharing-360-videos-on-youtube-for-2024/"><u>From Capture to Curve An Insider Look at Editing and Sharing 360° Videos on YouTube for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/igfx-malfunction-cleared-display-functioning-normally/"><u>IGFX Malfunction Cleared, Display Functioning Normally</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Realme Narzo 60 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-x-without-a-passcode-drfone-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone X Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-apple-iphone-11-pro-drfone-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-15-pro-drfone-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-15-plus-learn-all-4-methods-drfone-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone 15 Plus? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-factory-reset-ipad-or-apple-iphone-11-pro-without-icloud-password-or-apple-id-by-drfone-ios/"><u>In 2024, How to Factory Reset iPad or Apple iPhone 11 Pro without iCloud Password or Apple ID?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-6s-plus-passcode-not-working-drfone-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 6s Plus Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-15-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, iPhone 15 Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-iphone-8-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>In 2024, Unlocking iPhone 8 Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-10-des-applications-de-conversion-video-free-pour-windows-10-en-2023/"><u>Top 10 Des Applications De Conversion Vidéo Free Pour Windows 10 en 2023</u></a></li>
+<li><a href="https://android-frp.techidaily.com/ultimate-guide-on-lava-yuva-3-pro-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Lava Yuva 3 Pro FRP Bypass</u></a></li>
 </ul></div>
 

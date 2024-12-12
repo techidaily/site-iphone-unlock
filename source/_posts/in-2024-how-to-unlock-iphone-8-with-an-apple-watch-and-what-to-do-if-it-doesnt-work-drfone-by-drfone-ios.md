@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock iPhone 8 With an Apple Watch & What to Do if It Doesnt Work | Dr.fone
-date: 2024-11-30T18:36:54.013Z
-updated: 2024-12-06T18:17:39.577Z
+date: 2024-12-09T17:49:41.833Z
+updated: 2024-12-12T18:41:24.284Z
 tags: 
   - unlock
   - remove screen lock
@@ -47,7 +47,7 @@ Depending on the Apple Watch version you own and your Apple iPhone 8 model, you 
 ![unlock requirements](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Unfortunately, not every Apple iPhone 8 can be unlocked with your Apple Watch, and not every Apple Watch can unlock your Apple iPhone 8. Both devices must meet some requirements before you can adjust your settings to enable this option.
@@ -68,6 +68,10 @@ Additional requirements you’ll need to meet include:
 - The watch needs to be on your wrist and unlocked.
 
 You’ll also need to wear items such as sunglasses, face coverings, ski masks, or others that prevent you from using your Apple iPhone 8 Face ID.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. How To Unlock Apple iPhone 8 With an Apple Watch
 
@@ -91,10 +95,6 @@ You can turn on wrist detection on your watch by following these steps:
 - **Step 6:** Toggle **Wrist Detection**
 
 ![apple watch wrist detection settings](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now that you’ve enabled the option to unlock your Apple iPhone 8 using your Apple Watch, it’s time to simply start using the feature. To unlock your phone, you’ll need to:
 
@@ -126,6 +126,10 @@ Make sure that you have:
 - Feature **Unlock with Apple Watch**turned on on your Apple iPhone 8.
 
 If all the settings are correct, try one of the following options.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2. Restart Your WiFi/Bluetooth Connection
 
@@ -198,10 +202,6 @@ It’s all quite simple:
 
 To perform a hard reset, simultaneously press and hold the power button and digital crown.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 Using your Apple Watch to unlock your Apple iPhone 8 is convenient when you cannot use the Face ID feature. It allows you to seamlessly unlock your phone when wearing sunglasses, goggles, face masks, or other face coverings that prevent the Face ID from working.
@@ -240,19 +240,11 @@ Once Wondershare Dr.Fone is downloaded and installed on your computer, launch it
 
 ![unlock ios screen with dr fone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 2. Enter Recovery Mode and Download Firmware**
 
 The next step is to put your device into Recovery Mode after selecting “Start,” for which the instructions are given on the screen. Once your device is in Recovery Mode, Dr.Fone will detect it and show its model. Now select the "System Version” and tap "Start" to proceed. Dr.Fone will now start downloading the firmware, which it will later verify.
 
 ![define model and version](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 3. Unlock the iOS Device and Complete the Process**
 
@@ -272,13 +264,13 @@ If you've locked a note on your Apple iPhone 8 but forgot the password, there is
 
 ![reset notes password via settings](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 2.** You will be prompted to enter the Apple ID password for confirmation. After entering the Apple ID password, tap "Reset Password" again to reset the password. Finalize the process by setting up a new “Password,” “Verify” it, set a “Hint,” and press “Done.”
 
 ![enter new password for notes](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. How To Unlock Notes on iPhone Using Touch ID/Face ID
 
@@ -289,6 +281,10 @@ Even if you've forgotten the password to your Notes on iPhone, there's an altern
 - **Step 1.** Before starting, ensure you have Touch ID/Face ID already enabled. Now, open the Notes app and navigate to the locked note. Tap the note followed by pressing "View Note." Then, you will be required to use Touch ID or Face ID to unlock the note.
 
 ![unlock notes using face id](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2.** If you want to save the content of the locked note without re-locking it, select all the content. Now, "Copy" the note's content and paste it on a new note to recover the data from a locked note.
 
@@ -302,13 +298,13 @@ Locking notes on your Apple iPhone 8 provides extra security for your sensitive 
 
 ![select note to lock](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** If it is the first time, you will be asked to set a new password or use the same one as the Apple iPhone 8 device. After your note is locked, hide its content by tapping the “open lock” icon at the top of the screen.
 
 ![enter password to lock note](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-10.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -319,6 +315,10 @@ In conclusion, this article addressed methods for **how to recover locked notes 
 Are you aware of the common mistakes people make when creating their Apple ID passwords, such as using weak passwords and personal information? And how often should you change your Apple ID password? If it's been a while since your last update, stay in this article to learn **how to change your Apple ID password on your account**.
 
 ![change apple id password on web](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-password-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Is Your Apple ID Safe? Watch Out for These Signs
 
@@ -331,6 +331,10 @@ They could also use your account to make unauthorized purchases or spread malwar
 If you notice unusual login attempts or receive notifications from Apple about new sign-ins from unknown devices or locations, it's a red flag. Someone may be trying to open your Apple account.
 
 ![apple id sign in request](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-password-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Unexpected Purchases**
 
@@ -349,6 +353,10 @@ Friends and family receiving strange emails from your Apple ID should raise susp
 To protect your account from unauthorized access, Apple may lock or disable your account if your password or other account information is entered incorrectly several times.
 
 ![apple id locked](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-password-03.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now that you're aware of these signs, it's crucial to know **how to change your Apple ID password** to fortify your account's security. Don't worry; the next section will guide you through the process step by step.
 
@@ -463,6 +471,10 @@ You can also designate a friend or family member you trust as your account recov
 
 ![get account recovery code](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-password-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Still Can't Change Your Apple ID Password? Try Account Recovery
 
 The previous section showed you **how to change your Apple ID password** on any device if you cannot reset it. But what if you've tried all the steps in that section and you're still having trouble?
@@ -512,17 +524,9 @@ Dr.Fone is easy to use and intuitive, even for users with no technical experienc
 
 ![dr.fone in-app instructions for recovery mode](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 6:** Select an option from the **System Version** dropdown list for the **Device Model**, then click **Start**.
 
 ![dr.fone select system version](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 7:** Wait while the iOS firmware is downloading, then click **Unlock Now** once done.
 
@@ -531,10 +535,6 @@ Dr.Fone is easy to use and intuitive, even for users with no technical experienc
 - **Step 8:** Enter the code given in the **Warning** dialogue box and click **Unlock** to continue.
 
 ![dr.fone enter code confirmation](https://images.wondershare.com/drfone/guide/remove-apple-id-6.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 9:** Wait and do not use your device while the Apple ID removal is in progress to avoid being a bricked device.
 
@@ -560,20 +560,18 @@ Creating a strong Apple ID password is simple: mix letters and numbers, make it 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/eversing-the-consequences-of-a-youtube-ban-for-2024/"><u>[New] Reversing the Consequences of a YouTube Ban for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-masterclass-creating-alluring-vlogging-storylines/"><u>[Updated] Masterclass Creating Alluring Vlogging Storylines</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-inalterable-action-plan-to-expunge-youtube-shorts/"><u>2024 Approved Inalterable Action Plan to Expunge YouTube Shorts</u></a></li>
-<li><a href="https://windows11.techidaily.com/bridging-the-gap-activating-linux-support-in-windows/"><u>Bridging the Gap: Activating Linux Support in Windows</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-6-plus-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/full-guide-to-bypass-lava-yuva-3-frp-by-drfone-android/"><u>Full Guide to Bypass Lava Yuva 3 FRP</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-11-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>How to Unlock iPhone 11 With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/in-2024-clearing-the-darkness-remedies-for-invisible-gaming-captures-by-obs/"><u>In 2024, Clearing the Darkness Remedies for Invisible Gaming Captures by OBS</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-for-iphone-8-lock-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 8 Lock Screen | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-6-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone 6? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-12-mini-properly-drfone-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone 12 mini Properly | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-proven-techniques-for-capturing-dynamic-and-engaging-ppts/"><u>In 2024, Proven Techniques for Capturing Dynamic and Engaging PPTs</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-apple-iphone-15-pro-without-passcode-easily-drfone-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 15 Pro Without Passcode Easily | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-8-drfone-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/think-twice-before-enabling-facebooks-link-tracker/"><u>Think Twice Before Enabling Facebook's Link Tracker</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-from-concept-to-completion-a-stories-polling-handbook/"><u>[New] In 2024, From Concept to Completion A Stories Polling Handbook</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-ultimate-tutorial-for-professional-looking-youtube-channels/"><u>[New] The Ultimate Tutorial for Professional-Looking YouTube Channels</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-essential-html5-video-platforms-a-comprehensive-list/"><u>[Updated] In 2024, Essential HTML5 Video Platforms A Comprehensive List</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-virtual-producer-duel/"><u>[Updated] Virtual Producer Duel</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/entendiendo-los-archivos-de-formato-ts-guia-completa-para-la-reproduccion-y-uso/"><u>Entendiendo Los Archivos De Formato Ts: Guía Completa Para La Reproducción Y Uso</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-infinix-smart-8-pro-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Infinix Smart 8 Pro to Another | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-can-i-unlock-my-apple-iphone-8-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>In 2024, How Can I Unlock My Apple iPhone 8 After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-7-drfone-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-13-mini-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>In 2024, iPhone 13 mini Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-12-properly-drfone-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone 12 Properly | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-resolve-your-iphone-12-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>In 2024, Resolve Your iPhone 12 Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://win-popular.techidaily.com/most-effective-methods-to-overcome-iphone-the-activation-barrier-of-the-new-iphone-14-model/"><u>Most Effective Methods to Overcome iPhone The Activation Barrier of the New iPhone 14 Model</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-iphone-xs-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking iPhone XS i Do? Get Answers here | Dr.fone</u></a></li>
 </ul></div>
 

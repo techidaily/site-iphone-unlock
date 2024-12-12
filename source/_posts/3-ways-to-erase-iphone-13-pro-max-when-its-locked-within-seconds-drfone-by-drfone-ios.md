@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Erase iPhone 13 Pro Max When Its Locked Within Seconds | Dr.fone
-date: 2024-07-15T07:01:32.791Z
-updated: 2024-07-16T07:01:32.791Z
+date: 2024-12-11T17:05:50.665Z
+updated: 2024-12-12T16:33:34.963Z
 tags: 
   - unlock
   - remove screen lock
@@ -18,18 +18,10 @@ thumbnail: https://thmb.techidaily.com/cec958dbb28e58c65e080cad326f07d4e7cdd67a5
 
 Over the last few years, Apple has made remarkable progress with its flagship iPhone series. There are plenty of ways for users to back up, erase, and restore their data. It doesn’t matter if you are moving from one device to another or would like to reset your phone. You should know how to erase iPhone when locked. Too many times, after getting locked out of their device, users find it hard to wipe locked iPhone. If you are also going through the same dilemma, then don’t worry. Read on and learn how to wipe a locked iPhone in this extensive guide.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Erase locked iPhone with Dr.Fone - Screen Unlock (iOS)
 
 One of the best ways to wipe locked iPhone is by using [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) tool. It is an extremely secure and reliable application. It is already compatible with every leading version of iOS and runs on almost all major iOS devices. Available for both Windows and Mac, the tool can be used to remove activation lock and Apple ID. The tool also provides an easy-to-use interface that can help you reset [the activation lock](https://drfone.wondershare.com/icloud/bypass-icloud-activation.html) on your device.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone - Screen Unlock (iOS)
 
 Erase the data of an iPhone even if it is locked
@@ -107,6 +99,10 @@ If you are looking for an alternative way to learn how to erase iPhone when lock
 
 ![erase iphone when locked-restore iphone](https://images.wondershare.com/drfone/article/2017/07/14993649291284.jpg "restore iphone")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Erase locked iPhone by Find My iPhone
 
 If you haven’t already taken a backup of your phone, then you might find it hard to recover it with iTunes. Another popular way to wipe locked iPhone is by using the Find My iPhone tool. This is mostly implemented in case of a stolen or lost device. One of the best features of Find My iPhone is that it can be used to reset your device remotely. With this, you can protect your personal data without much trouble. Implement these steps to learn how to erase iPhone when locked using Find My iPhone.
@@ -151,8 +147,6 @@ Too many times, users don’t get the desired results with iTunes. Therefore, we
 
 Tips: Backup all your data before unlocking the phone with Dr.Fone - Screen Unlock.
 
-
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
@@ -182,19 +176,21 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 
 ![Unlock iPhone Passcode with Dr.Fone-complete the download](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6\. You will get the following interface once the firmware update is downloaded. Click "Unlock Now" to determine the option "Contain Native Data."
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Unlock iPhone Passcode with Dr.Fone-ScreenUnlock Now](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
 7\. In addition, by typing the on-screen code you need to verify your choice.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Unlock iPhone Passcode-confirm your choice](https://images.wondershare.com/drfone/drfone/ios-unlock-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 8\. After agreeing with the confirmation message, the application will start fixing your Apple iPhone 13 Pro Max. You might need to wait for a few minutes.
 
@@ -216,14 +212,15 @@ If your Apple iPhone 13 Pro Max is already in sync with iCloud and you have enab
 
 3\. If you have linked several devices with your iCloud account, then simply click on the “All Devices” option and select your Apple iPhone 13 Pro Max.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Unlock iPhone Passcode using iCloud-select your Apple iPhone 13 Pro Max](https://images.wondershare.com/drfone/article/2017/10/15081779999401.jpg)
 
 4\. This will provide various options related to your Apple iPhone 13 Pro Max. Simply click on the “Erase iPhone” button and confirm your choice.
 
 ![Unlock iPhone Passcode-Erase iPhone](https://images.wondershare.com/drfone/article/2017/10/15081780218355.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This will restart your Apple iPhone 13 Pro Max while wiping it entirely. You need to set up your Apple iPhone 13 Pro Max as a new device without any lock screen.
 
@@ -237,6 +234,10 @@ As you can see, in all the above-stated solutions, your Apple iPhone 13 Pro Max 
 
 ![Unlock iPhone Passcode by tricking Siri-get the current time](https://images.wondershare.com/drfone/article/2017/10/15081780467773.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3\. Tap on the clock icon to open the world clock interface.
 
 4\. Here, you need to add another clock. Tap on the “+” icon to do it.
@@ -246,6 +247,10 @@ As you can see, in all the above-stated solutions, your Apple iPhone 13 Pro Max 
 5\. To add another city, simply provide any text and tap on it. Choose the “Select all” option.
 
 ![Unlock iPhone Passcode-Select all](https://images.wondershare.com/drfone/article/2017/10/15081781269275.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6\. As the entire text would be selected, you will get various options. Choose the “Share” option to proceed.
 
@@ -273,9 +278,17 @@ As you can see, in all the above-stated solutions, your Apple iPhone 13 Pro Max 
 
 ![Unlock iPhone Passcode-Add Photo](https://images.wondershare.com/drfone/article/2017/10/15081782816984.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 13\. The photo library on your phone will be launched. You can simply tap on any album you wish to open.
 
 ![Unlock iPhone Passcode-tap on any album](https://images.wondershare.com/drfone/article/2017/10/15081783271944.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 14\. After waiting for a while, slightly press the home button. If you are lucky, you will land on the home screen on your Apple iPhone 13 Pro Max and can access it without any trouble.
 
@@ -330,6 +343,10 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 After carefully following the steps mentioned above, you are ready to **unlock your Face ID with a mask**. Remember that Face ID will scan and focus mainly on your eyes and forehead. However, it cannot work in the scenarios if you have completely concealed your look by wearing hats or accessories that can hide your face.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to Unlock iPhone Face ID Using Apple Watch
 
 Before unlocking iPhone through the Apple Watch, some requirements are necessary for security reasons. Read the following requirements to proceed further:
@@ -350,13 +367,15 @@ To enable the feature of unlocking the Apple iPhone 13 Pro Max with an Apple Wat
 
 ![enable apple watch unlock option](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After enabling this feature, you can unlock your Apple iPhone 13 Pro Max with a mask on through your Apple Watch. You need to grab your phone and hold it the same way you would in a normal Face ID scan. The phone will be unlocked, and you will feel a slight vibration on the wrist. Also, a notification will pop up on your watch, indicating that your Apple iPhone 13 Pro Max has been unlocked.
 
 ## Bonus Tips: Unlock iPhone Without Any Experience
 
 Are you stuck with your locked iPhone? Don't worry, as [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) can unlock any screen passcode, Face ID, Touch ID, and PINs. You don't need any technical experience to use this tool, as the user interface is pretty simple and understandable. Moreover, it works perfectly well on all iOS devices at the best possible speed.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -377,9 +396,6 @@ You can also unlock Apple ID and iCloud passwords without losing the data. Also,
 
 We all can relate that unlocking an iPhone on Face ID while wearing a face mask in a pandemic era is annoying. That's why Apple introduced a new feature of unlocking the Apple iPhone 13 Pro Max Face ID with a mask on to help individuals who rely entirely on Face ID. Find out about enabling this feature to easily unlock your Apple iPhone 13 Pro Max Face ID while wearing a mask.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -392,7 +408,26 @@ We all can relate that unlocking an iPhone on Face ID while wearing a face mask 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-extended-scrutiny-gopro-slr4-black-edition-model/"><u>[New] Extended Scrutiny GoPro SLR4 Black Edition Model</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-creating-a-clickable-thumbnail-enhancing-video-visibility-without-costs/"><u>[New] In 2024, Creating a Clickable Thumbnail Enhancing Video Visibility without Costs</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-leveraging-youtube-for-dynamic-instagram-stories/"><u>[Updated] Leveraging YouTube for Dynamic Instagram Stories</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-guide-to-streamlining-console-game-recording/"><u>2024 Approved Guide to Streamlining Console Game Recording</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-14-pro-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone 14 Pro without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-unlock-iphone-8-plus-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>3 Ways to Unlock iPhone 8 Plus without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-iphone-6s-plus-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 6s Plus Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-retrieve-lost-contacts-from-google-pixel-fold-by-fonelab-android-recover-contacts/"><u>Best Android Data Recovery - Retrieve Lost Contacts from Google Pixel Fold.</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-iphone-13-pro-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/five-proven-methods-to-rectify-your-audacitys-sound-device-issue-solution-guide/"><u>Five Proven Methods to Rectify Your Audacity's Sound Device Issue [Solution Guide]</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722961459070-hassle-free-download-of-samsung-c460-printer-drivers-start-now/"><u>Hassle-Free Download of Samsung C460 Printer Drivers - Start Now!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-11-pro-max-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>How To Unlock iPhone 11 Pro Max Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-8-plus-without-itunes-drfone-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 8 Plus Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-15-pro-max-drfone-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2022-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE (2022)? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-oneplus-12-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from OnePlus 12 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-parents-handbook-understanding-chatgpt-and-the-world-of-generative-ai/"><u>Ultimate Parent's Handbook: Understanding ChatGPT & the World of Generative AI</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-12-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>Unlock iPhone 12 With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/wie-man-geloschte-daten-von-externen-laufwerken-nicht-im-papierkorb-speichert/"><u>Wie Man Gelöschte Daten Von Externen Laufwerken Nicht Im Papierkorb Speichert</u></a></li>
+</ul></div>
 
