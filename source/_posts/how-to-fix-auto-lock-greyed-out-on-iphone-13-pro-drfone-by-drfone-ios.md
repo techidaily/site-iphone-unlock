@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on iPhone 13 Pro | Dr.fone
-date: 2024-07-15T06:55:20.513Z
-updated: 2024-07-16T06:55:20.513Z
+date: 2024-12-19T17:38:00.526Z
+updated: 2024-12-20T16:16:02.661Z
 tags: 
   - unlock
   - remove screen lock
@@ -22,6 +22,10 @@ Read on if you've encountered a similar problem on your iOS device. In this guid
 
 ![auto lock greyed out on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Why Is Auto-Lock Greyed Out on iOS Device?
 
 There are a few reasons why the Auto-Lock might be greyed out on your Apple iPhone 13 Pro or iPad device, preventing you from adjusting the duration. Here are the most common culprits:
@@ -30,10 +34,11 @@ Low Power Mode
 
 When you activate Low Power Mode on your iOS device, you might notice the screen automatically locking after 30 seconds of inactivity. This quick sleep setting, implemented to minimize power usage, explains why the Auto-Lock option appears greyed out and inaccessible.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![low power mode on iphone enabled](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Screen Time Restrictions
 
@@ -175,6 +180,10 @@ Here's **how to change Auto-Lock on iPhone** devices:
 
 ![change auto-lock on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-18.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 There you have it. This guide has equipped you with the knowledge and solutions to fix the **Auto-Lock greyed out** on your Apple iPhone 13 Pro or iPad devices. From identifying the reasons like Low Power Mode and MDM configurations to implementing actionable fixes, you can now change your screen timeout. So, turn off those restrictions, remove MDM profiles, and head back to Settings.
@@ -212,6 +221,10 @@ The first step you need to connect your Apple iPhone 13 Pro  to your computer. L
 
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After that, select the option of "Unlock iOS Screen" to unlock your Apple iPhone 13 Pro within seconds.
 
 ![drfone android ios unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
@@ -220,10 +233,11 @@ After that, select the option of "Unlock iOS Screen" to unlock your Apple iPhone
 
 On the screen, you will see instructions to enter DFU mode. Follow them and boot your Apple iPhone 13 Pro in DFU.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ios unlock 2 2](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3: Confirmation of Model**
 
@@ -278,6 +292,10 @@ If you wish to change the passcode on Apple iPhone 13 Pro , simply follow the st
 
     ![feasible ways to unlock Apple iPhone 13 Pro 5](https://images.wondershare.com/drfone/article/2021/04/feasible-ways-to-unlock-iphone-7-and-7-plus-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Once again, enter your current password.
 6. Now, type in your new password. You can change the type of passcode by clicking on the "Passcode Options." The new passcode type can be a numeric code, alphanumeric code, a 4-digit, or a 6-digit code.
 
@@ -295,18 +313,12 @@ Now you know what to do the next time you forget your passcode. Using the simple
 
 ## How to Remove and Reset Face ID on Apple iPhone 13 Pro
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![drfone](https://drfone.wondershare.com/daisy-raine.jpg)](https://drfone.wondershare.com/author/daisy-raine/)
 
 Did you go wrong when you set the Face ID the first time? Or are you tired to put off the mask to use Face ID to unlock your Apple iPhone 13 Pro? And now, you want to disable the Face ID. Whatever your reasons are, read this article to learn **how to remove Face ID** on your Apple iPhone 13 Pro X, iPhone XS, iPhone XR or iPhone 11, iPhone 12, iPhone 13, iPhone 14, anmd iPhone 15.
 
 ## Part I: What is Face ID?
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![face id](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-1.jpg)
 
 If the new Apple iPhone 13 Pro is your first-ever iPhone, or if you have neither upgraded your Apple iPhone 13 Pro from the 6/7/8 series nor have kept abreast with the happenings in the Apple world, you might wonder what this newfangled thing called Face ID is.
@@ -318,6 +330,10 @@ Face ID is not a new and advanced version of Touch ID, but a completely differen
 ## Part II: What Can You Do with Face ID?
 
 Most of us know that we can unlock iPhone with our face via Face ID instead of a thumbprint or passcode. But actually, Face ID does more than just that. Let us learn more cool things you can do with Face ID, which helps you to make a decision if you still want to disable it. Here‘s what you can do on your Apple iPhone 13 Pro 13/12/11 with Face ID:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### II.I Unlock Your Apple iPhone 13 Pro
 
@@ -373,6 +389,10 @@ Face ID also enables what Apple calls Attention Aware features that are convenie
 
 ![attention aware features](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Setting up and using Attention Aware features is easy:
 
 Step 1: Go to Settings > Face ID and passcode.
@@ -398,6 +418,10 @@ Step 3: Look at your Apple iPhone 13 Pro to authenticate yourself with Face ID a
 Up until now, we saw how Face ID enables productivity features and how convenient it is to use it. Now, we come to the fun part - Animojis. Apple launched Face ID in 2017 on the Apple iPhone 13 Pro X with much fanfare and a huge part of that fanfare was Animojis. Over time, Apple brought new capabilities to the Apple iPhone 13 Pro and added Memojis alongside Animojis.
 
 ![animojis and memojis](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Animojis are animated emojis. These are made possible with advanced algorithms enabled by the TrueDepth camera in Face ID. Animated emojis or Animojis can mimic your facial expressions and you can use them in your message conversations in apps.
 
@@ -431,9 +455,6 @@ Step 1: Go to Settings > Face ID and Passcode.
 
 Step 2: Scroll and tap the option "Reset Face ID" to remove Face ID on your Apple iPhone 13 Pro 13/12/11.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wa stickers](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-11.jpg)
 
 ## Part IV: How to Set Up Face ID on Your Apple iPhone 13 Pro
@@ -460,11 +481,13 @@ There are a few things you can try to resolve this, you can try to update your A
 
 If this does not resolve it, you need to take the Apple iPhone 13 Pro device to the nearest service center. The TrueDepth camera system has components that might have been damaged or might not be working properly, for whatever reason, and the service personnel is equipped to resolve this issue for you at the earliest.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part V: The Bottom Line
 
 Face ID is more than a nifty authentication system in iPhones (and iPads) and brings some unique features that are not found in previous Touch ID enabled devices and enable the users to interact with people (Animojis and Memojis) and with the Apple iPhone 13 Pro (user authentication via facial metrics, Attention Aware features) in new ways. There are times when this does not work as expected, and you can reset and remove Face ID if you feel this is not your cup of tea. Apple iPhone 13 Pro can be used solely with passcodes if you want. If you find that your screen is locked and you can‘t unlock it, you can always find help in tools such as Dr.Fone - Screen Unlock (iOS). So go ahead, use the new Face ID on your Apple iPhone 13 Pro with confidence, and enjoy a more secure experience on your new iPhone than ever before.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -476,9 +499,6 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 - Supports iPhone 13/ iPhone XS (Max) / iPhone XR / iPhone X / 8 (Plus)/ iPhone 7(Plus)/ iPhone6s(Plus), iPhone SE and the latest iOS version fully!![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 
 **4,395,217** people have downloaded it
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -492,7 +512,21 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/he-complete-youtube-traffic-and-monetization-guidebook/"><u>[New] The Complete Youtube Traffic & Monetization Guidebook</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-gigglemaker-step-by-step-to-fun-videos-for-2024/"><u>[Updated] GiggleMaker Step-by-Step to Fun Videos for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-little-legends-top-gaming-adventures/"><u>[Updated] In 2024, Little Legends Top Gaming Adventures</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/apples-intriguing-gaming-update-unveiling-the-mysterious-new-game-mode/"><u>Apple's Intriguing Gaming Update: Unveiling the Mysterious New Game Mode</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-apple-iphone-11-pro-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For Apple iPhone 11 Pro Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-itel-p40-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-11-pro-max-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-6s-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix iPhone 6s Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-stolen-iphone-15-pro-max-in-different-conditionsin-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Stolen iPhone 15 Pro Max In Different Conditionsin | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-iphone-12-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab iPhone 12 Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-prime-photo-enhancements-at-no-charge-15-to-check-out-today/"><u>In 2024, Prime Photo Enhancements at No Charge #15 to Check Out Today</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/install-your-epson-wf-2540-printer-on-any-window-version-78110-download-here/"><u>Install Your Epson WF 2540 Printer on Any Window Version (7/8.1/10) - Download Here</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/maximize-impact-with-these-11-economical-youtube-naming-tools-for-2024/"><u>Maximize Impact with These 11 Economical YouTube Naming Tools for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Itel P40+ | Dr.fone</u></a></li>
+</ul></div>
 

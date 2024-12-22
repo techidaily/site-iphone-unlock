@@ -1,7 +1,7 @@
 ---
 title: Complete Guide on Unlocking iPhone 13 Pro with a Broken Screen? | Dr.fone
-date: 2024-07-15T06:55:10.167Z
-updated: 2024-07-16T06:55:10.167Z
+date: 2024-12-14T18:00:22.270Z
+updated: 2024-12-20T16:57:40.683Z
 tags: 
   - unlock
   - remove screen lock
@@ -49,9 +49,6 @@ Also, if your Apple iPhone 13 Pro screen is broken, you can use this feature to 
 
 **Step 5.** Click on 'Erase iPhone'. Click on 'Erase' again after the confirmation text.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![erase your iphone](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-3.jpg)
 
 **Step 6.** Enter the password to proceed.
@@ -78,6 +75,10 @@ Again, iPhone will show the Apple iPhone 13 Pro locked message. You then need to
 
 ![click restore](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Use iTunes**
 
 You can erase your Apple iPhone 13 Pro and its password once you synchronize it with iTunes. Follow these steps:
@@ -99,10 +100,11 @@ You need to ask Siri, "Siri, what time is it?" or "Siri, what time is it in the 
 
 **Step 2.** Presently, tap on the world clock symbol. Now, tap on the + sign in the upper right corner to add the clock feature to the home screen.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add new clock](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3.** At the point when another clock is added, you will have the choice to share the new clock.
 
@@ -125,7 +127,6 @@ Besides, it works for iPhones with iOS 8.0 to 10.1. These bugs are fixed in the 
 ## Bonus Tips: Easy Broken iPhone Unlock Tool
 
 ### Dr.Fone-Screen Unlock
-
 
 The quickest way to **unlock iPhone with broken screen** is to use an unlocking tool. However, there are tons of tools available in the market, but it is our responsibility to suggest you the best way.
 
@@ -159,12 +160,9 @@ After the firmware is downloaded effectively, click Unlock Now.
 
 In almost no time, the software will unlock your Apple iPhone 13 Pro effectively. However, note that this unlocking will likewise wipe your user data.
 
-
 ### The Bottom Line
 
 Having an iPhone with a broken screen can make your life hard. It keeps you from communicating and carrying out important tasks on the phone. But we can make this situation work your way. Therefore, we have furnished the above list to help you **unlock iPhone with broken screen.** Even if none of the methods work, Dr.Fone can still get our phone unlocked.
-
-
 
 ## Full Guide to Unlock Apple iPhone 13 Pro with iTunes
 
@@ -234,6 +232,10 @@ The above bar will show "Extracting software… ". It implies iOS 15.4.1 iTunes 
 
 ## Part 3: Unlocking iPhone without iTunes
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Unlock it with Find My in iCloud
 
 Find My is a famous element in Apple devices that allows you to find your lost phone through Maps. The component has been updated from that point forward, and presently it can be utilized to erase your Apple iPhone 13 Pro. Additionally, you can use it to erase your information without a passcode.
@@ -270,7 +272,6 @@ Pick your locked gadget under the "All Devices" area.
 
 ### 2\. Dr.Fone-Screen Unlock
 
-
 If you are searching for an elective way to unlock your Apple iPhone 13 Pro with iTunes, you can pick Wondershare Dr.Fone-Screen Unlock.
 
 This software is an ideal iTunes elective that doesn't need a passcode to unlock the iPhone. Whatever the situation, Dr.Fone can determine the issue in no time. It can eliminate Face ID, Touch ID, or a 4 to 6-digit passcode in no time. Moreover, it works with almost any iOS version at the moment. Here's the alternate way to **iTunes unlock phone:**
@@ -281,11 +282,12 @@ From the Dr.Fone program on your PC, select "Screen Unlock" the tool.
 
 ![select screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Then use a USB connector to connect your iOS gadget to the PC. Then, click the "Unlock iOS Screen" option on your screen.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unlock ios screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
 **Step 2. Boot your iDevice in Recovery/DFU Mode**
@@ -293,6 +295,10 @@ Then use a USB connector to connect your iOS gadget to the PC. Then, click the "
 Before deleting the Apple iPhone 13 Pro screen, it is necessary to boot it in Recovery/DFU. You can follow the steps on your screen to do so. Moreover, the Recovery mode is the suggested way for your situation. However, you can use the DFU mode if this doesn't work.
 
 ![enter recovery mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3. Confirm Phone Model**
 
@@ -326,9 +332,6 @@ Your iPhone passcode can be reset in a variety of ways, depending on whether you
 
 If you've activated Find My iPhone, you can use it to reset your passcode. Resetting your passcode this way is probably the simplest method, as it doesn't require any technical knowledge or special tools.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![find My Apple iPhone 13 Pro](https://images.wondershare.com/drfone/article/2022/11/forgot-passcode-iphone-6-1.jpg)
 
 Just follow the steps below and get started.
@@ -343,9 +346,6 @@ Once your Apple iPhone 13 Pro has been erased, it can be set up as a new device 
 
 You can use Recovery mode to reset your device if you've synced your Apple iPhone 13 Pro with iTunes. This method will erase all of the data on your Apple iPhone 13 Pro, so confirm you have a backup before proceeding.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![with itunes](https://images.wondershare.com/drfone/article/2022/11/forgot-passcode-iphone-6-2.jpg)
 
 Just go with the steps below.
@@ -355,6 +355,10 @@ Just go with the steps below.
 - **Step 3:** When the "Restore" or "Update" appears, please choose "Restore".
 
 iTunes will now begin downloading the software for your device. Once it's finished, you can set up your device as new and choose a new passcode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Use Siri
 
@@ -375,7 +379,9 @@ While this method doesn't give you direct access to the home screen, it does all
 
 If none of the above-mentioned methods works for you, or you don't want to use them, there is another method that will surely work for you. Dr.Fone - Screen Unlock is a powerful software that can unlock your Apple iPhone 13 Pro without a passcode. The software is extremely easy to use and supports all iOS devices.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -384,6 +390,11 @@ Unlock iPhone Without Passcode
 - Unlock Face ID, Touch ID, Apple ID without password.
 - Bypass the iCloud activation lock without hassle.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 - Remove iPhone carrier restrictions for unlimited usage.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - No tech knowledge required, Simple, click-through, process.
 
 **3,981,454** people have downloaded it
@@ -410,15 +421,17 @@ You need to wait as the process may take several minutes. So be patient and don'
 
 ![unlock iphone successfully](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-
 This is a very easy-to-use way to reset your Apple iPhone 13 Pro passcode. So, if you're looking for a hassle-free solution, this is the one you should obtain.
 
 As we told you earlier, any method you follow will lose your data, as there is no way to unlock your Apple iPhone 13 Pro 6 without losing the data. So, how can you back up your Apple iPhone 13 Pro to avoid forgetting the passcode? Let's find out.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Can I Back Up My Apple iPhone 13 Pro to Avoid Forgetting Passcode Again?
 
 [Wondershare Dr.Fone](https://drfone.wondershare.com/iphone-backup-and-restore.html) is an excellent tool that can help you keep your Apple iPhone 13 Pro data to avoid losing it. The software is extremely easy to use and supports all iOS devices.
-
 
 **Step #1: Launch Dr.Fone App on Your Computer**
 
@@ -452,6 +465,10 @@ As we mentioned before, there is no way to reset your device without losing your
 
 You can unlock your Apple iPhone 13 Pro 6 without a passcode by following the steps mentioned in this article. However, this will erase all your data, so ensure you have a backup before proceeding.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. I tried unlocking my iPhone using iTunes, but it's not working. What should I do?
 
 If you cannot unlock your Apple iPhone 13 Pro using iTunes, you can try Dr.Fone-Screen Unlock. This software is extremely easy to use and supports all iOS devices. Plus, it won't erase your data if you have a backup.
@@ -461,7 +478,6 @@ If you cannot unlock your Apple iPhone 13 Pro using iTunes, you can try Dr.Fone-
 We hope this article helped you reset your Apple iPhone 13 Pro if you forgot the passcode iPhone 6. As you can see, there are several ways to do it; however, any method you follow will result in data loss. So, ensure you have a backup before proceeding.
 
 Also, if you're looking for an easy and effective way to unlock your device, we recommend you try [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) software. It's extremely easy to use and supports all iOS devices. Plus, it won't erase your data as long as you have a backup.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -475,7 +491,22 @@ Also, if you're looking for an easy and effective way to unlock your device, we 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-cost-efficient-game-capture-learn-to-livestran-a-match/"><u>[New] 2024 Approved Cost-Efficient Game Capture Learn to Livestran a Match</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-how-to-do-screen-recording-on-iphone-easily/"><u>[New] 2024 Approved How to Do Screen Recording on Iphone Easily?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-apowersofts-technology-insightfully-analyzed-with-comparisons-for-2024/"><u>[Updated] Apowersoft's Technology Insightfully Analyzed with Comparisons for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-guide-to-recording-adobe-presentation-videos-for-2024/"><u>[Updated] Guide to Recording Adobe Presentation Videos for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-overcoming-grey-screens-in-gaming-recording-for-2024/"><u>[Updated] Overcoming Grey Screens in Gaming Recording for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-voip-excellence-showdown-discord-vs-skype-analysis-for-2024/"><u>[Updated] VoIP Excellence Showdown Discord vs Skype Analysis for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-11-pro-max-without-itunes-drfone-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 11 Pro Max Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-15-without-itunes-drfone-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 15 Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://solve-news.techidaily.com/dvdwinx-dvd-ripper-platinum/"><u>迷你磁力版本的DVD转制快速解锁：WinX DVD Ripper Platinum加速技术分析</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915264771-discover-the-newest-update-of-revo-uninstaller-with-version-5-optimize-your-system-today/"><u>Discover the Newest Update of Revo Uninstaller with Version 5 – Optimize Your System Today</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-locked-iphone-13-pro-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>Forgot Locked iPhone 13 Pro Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-14-plus-drfone-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-6-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix iPhone 6 Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-14-pro-learn-all-4-methods-drfone-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone 14 Pro? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-x-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone X | Dr.fone</u></a></li>
+</ul></div>
 

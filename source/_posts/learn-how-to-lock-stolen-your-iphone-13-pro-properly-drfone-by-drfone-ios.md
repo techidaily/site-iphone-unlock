@@ -1,7 +1,7 @@
 ---
 title: Learn How To Lock Stolen Your iPhone 13 Pro Properly | Dr.fone
-date: 2024-07-15T06:55:34.574Z
-updated: 2024-07-16T06:55:34.574Z
+date: 2024-12-15T18:14:25.363Z
+updated: 2024-12-20T16:20:19.142Z
 tags: 
   - unlock
   - remove screen lock
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/271cc892260da7f0b1d8f207b3fb271cd7c70ce8f
 When it comes to security in smartphones, Apple stands at the forefront. The Activation Lock is a robust barrier to preventing unauthorized access and device theft. Losing your Apple iPhone 13 Pro can be a disturbing event, as accidents are inevitable. Taking prompt action to stop unauthorized data access becomes important. This guide offers a step-by-step approach to **how to lock a stolen iPhone**.
 
 ![understanding ways to lock stolen iphone](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. Major Threats To Consider When iPhone Is Stolen
 
@@ -43,6 +47,10 @@ Find My can be a source to track stolen iPhones, but certain scenarios are assoc
 2. **iPhone Turned Off or In Airplane Mode:**The last known location before the Apple iPhone 13 Pro device was powered down or put in Airplane Mode is accessible, offering a starting point for recovery efforts.
 3. **Offline Finding with Bluetooth:**The Find My service leverages Bluetooth technology to create a vast network of Apple devices. With these, it can securely help locate your Apple iPhone 13 Pro, even offline.
 4. **Activation Lock Integration:**This service is also integrated with Activation Lock, adding an extra layer of security. The Activation Lock remains active if a thief attempts to erase your device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How To Use Find My To Locate Your Stolen iPhone
 
@@ -86,6 +94,10 @@ Lost Mode locks the Apple iPhone 13 Pro device and allows users to showcase a pe
 
 ![activate lost mode from browser](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4. Can't Find Stolen Phone? Erase iPhone Completely
 
 When efforts to locate a stolen iPhone fail, the need to protect sensitive data intensifies. As a result, the option to erase the Apple iPhone 13 Pro device becomes a crucial step instead of **how to lock the Apple iPhone 13 Pro when lost**. Here's how to protect against the potential misuse of your information by erasing your device via Find My:
@@ -98,9 +110,17 @@ When efforts to locate a stolen iPhone fail, the need to protect sensitive data 
 
 ![follow prompts to erase](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3.** If using the iCloud website, tap "Erase This Device" and click "Next" on the upcoming prompt. You will be asked to enter the Apple ID password, after which you can use the on-screen guidelines to finish the process.
 
 ![erase device from browser](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5. Other Things To Do iPhone Is Stolen
 
@@ -208,7 +228,6 @@ Once you have installed and launched Wondershare Dr.Fone, access the "Toolbox" t
 
 ![start ios screen unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-2.png)
 
-
 - Step 2. Entering Recovery Mode and Choosing System Version
 
 The next step requires you to put your device in Recovery Mode, for which you can follow the instructions given on-screen. After your device is in Recovery Mode, Dr.Fone will display its “Model.” Now choose the appropriate "System Version" and click "Start." Here, Dr.Fone will start downloading the required firmware. Once it is downloaded and verified, tap "Unlock Now."
@@ -265,6 +284,10 @@ Just go with the steps below.
 
 iTunes will now begin downloading the software for your device. Once it's finished, you can set up your device as new and choose a new passcode.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Use Siri
 
 If you're running iOS 8 or later, you may be able to use Siri to bypass the lock screen. This method doesn't work on all devices, and it can be patched with a software update, so it's not a guaranteed way to reset your passcode.
@@ -280,11 +303,13 @@ Just follow the instructions.
 
 While this method doesn't give you direct access to the home screen, it does allow you to bypass the lock screen and access some of your device's features.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bonus Tips: Easy Tool to Unlock iPhone 6 without Passcode
 
 If none of the above-mentioned methods works for you, or you don't want to use them, there is another method that will surely work for you. Dr.Fone - Screen Unlock is a powerful software that can unlock your Apple iPhone 13 Pro without a passcode. The software is extremely easy to use and supports all iOS devices.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -319,15 +344,17 @@ You need to wait as the process may take several minutes. So be patient and don'
 
 ![unlock iphone successfully](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-
 This is a very easy-to-use way to reset your Apple iPhone 13 Pro passcode. So, if you're looking for a hassle-free solution, this is the one you should obtain.
 
 As we told you earlier, any method you follow will lose your data, as there is no way to unlock your Apple iPhone 13 Pro 6 without losing the data. So, how can you back up your Apple iPhone 13 Pro to avoid forgetting the passcode? Let's find out.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How Can I Back Up My Apple iPhone 13 Pro to Avoid Forgetting Passcode Again?
 
 [Wondershare Dr.Fone](https://drfone.wondershare.com/iphone-backup-and-restore.html) is an excellent tool that can help you keep your Apple iPhone 13 Pro data to avoid losing it. The software is extremely easy to use and supports all iOS devices.
-
 
 **Step #1: Launch Dr.Fone App on Your Computer**
 
@@ -371,8 +398,6 @@ We hope this article helped you reset your Apple iPhone 13 Pro if you forgot the
 
 Also, if you're looking for an easy and effective way to unlock your device, we recommend you try [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) software. It's extremely easy to use and supports all iOS devices. Plus, it won't erase your data as long as you have a backup.
 
-
-
 ## Resolve Your Apple iPhone 13 Pro Keeps Asking for Outlook Password
 
 Individuals and organizations use a diverse range of mail platforms to exchange information. Gmail, Outlook, or any alternative service is consistently utilized. While email platforms have revolutionized communication, they aren't present without their challenges. Users often encounter issues that range from sync errors to authentication problems.
@@ -405,9 +430,6 @@ A corrupted email account profile on the Apple iPhone 13 Pro can cause disruptio
 
 Other mail applications installed on the Apple iPhone 13 Pro can also cause an issue. They might interfere with the Outlook app's proper functioning. Identifying and temporarily disabling such apps can help diagnose and resolve the issue.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 6\. Excessive Email Fetching
 
 Configuring the Outlook mail app to fetch emails too frequently causes the issue. It can strain the connection with Outlook servers, leading to authentication challenges. That causes issues like the Apple iPhone 13 Pro asking for a password.
@@ -420,6 +442,10 @@ The smooth functioning of the Mail app may be disrupted by problems and malfunct
 
 Now that we have explored why the **iPad keeps asking for an Outlook password**, it is time for practical solutions. These 13 fixes discussed below are designed to address the root causes comprehensively:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1. Add Password Once and Let the Prompt Disappear
 
 If your Apple iPhone 13 Pro continuously prompts you for the Outlook password, a simple solution is to re-enter the password. Follow these steps to potentially resolve the issue once and for all by accessing the respective settings:
@@ -430,9 +456,6 @@ If your Apple iPhone 13 Pro continuously prompts you for the Outlook password, a
 
 - **Step 2.** Encountering the error message "Account not authenticated" is what you will come across. Now, tap the "Re-enter Password" option to enter your correct Outlook password.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![reenter outlook password from mail settings](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-3.jpg)
 
 ### Fix 2. Change the Password to Your Outlook Mail
@@ -507,9 +530,6 @@ Outdated iOS versions can contribute to compatibility issues and glitches. This 
 
 ![update ios software for resolving error](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 9. Try Other Alternatives to Outlook
 
 Exploring alternative mail applications may offer a viable workaround. This is especially true if the **iPhone asking for the Outlook password** proves resistant to previous solutions. Consider using other email platforms such as Apple Mail, [<u>Gmail</u>](https://drfone.wondershare.com/factory-reset-protection/bypass-gmail-phone-verification.html), and Yahoo Mail. This solution might not directly resolve the issue with Outlook. Yet, an alternative can provide a temporary workaround until a solution is found.
@@ -536,10 +556,11 @@ If the persistent password prompts remain unresolved, resetting all settings on 
 
 - **Step 2.** On the following screen, tap "Reset" and select "Reset All Settings" from the available options. Enter your device passcode if prompted and confirm the action by selecting "Reset All Settings" again.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![reset all settings on iphone](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-18.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 12. Add an Account by Switching to IMAP
 
@@ -573,9 +594,6 @@ In some cases, switching the account type to IMAP during the setup process can h
 
 At last, hit the “Next” button at the top-right side of the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set specified imap settings](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-21.jpg)
 
 ### Fix 13. Contact Support of Outlook To Resolve
@@ -606,7 +624,6 @@ Once you've launched Dr.Fone on your computer, go to Toolbox. Here, tap "Screen 
 
 ![select unlock ios screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-2.png)
 
-
 - Step 2: Initiating iPhone Recovery Mode and Device Identification
 
 Subsequently, you need to place your Apple iPhone 13 Pro into Recovery Mode. Adhere to the on-screen instructions corresponding to the model of your iDevice. Afterward, the tool will automatically detect the "Device Model." If necessary, adjust the model and choose the "System Version." Once these steps are completed, click "Start" to initiate the unlocking process.
@@ -625,7 +642,6 @@ To summarize, resolving **an iPhone asking for an Outlook password** requires a 
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -638,7 +654,22 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-rank-your-download-preferences-with-our-top-5-list-for-2024/"><u>[New] Rank Your Download Preferences with Our Top 5 List for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-cutting-edge-cinema-from-the-past-a-guide-to-80s-vhs-effects-in-film-editing/"><u>[Updated] In 2024, Cutting-Edge Cinema From the Past A Guide to 80S VHS Effects in Film Editing</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-iphone-se-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For iPhone SE Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-solutions-for-troubleshooting-your-webex-mic-issues/"><u>Effective Solutions for Troubleshooting Your Webex Mic Issues</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/how-to-change-screen-preferences-via-control-panel-tips-from-yl-computing/"><u>How to Change Screen Preferences via Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-12-pro-max-without-itunes-drfone-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone 12 Pro Max Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-12-pro-max-without-itunes-drfone-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 12 Pro Max Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-iphone-11-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iPhone 11 Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-itel-p40plus-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Itel P40+ Fingerprint Lock</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-experts-selection-ideal-sierra-dvd-creators/"><u>In 2024, Expert’s Selection Ideal Sierra DVD Creators</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-enable-usb-debugging-on-a-locked-samsung-galaxy-a24-phone-by-drfone-android/"><u>In 2024, How To Enable USB Debugging on a Locked Samsung Galaxy A24 Phone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/instagrams-music-ip-policies/"><u>Instagram's Music IP Policies</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-8-plus-properly-drfone-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 8 Plus Properly | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-12-mini-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 12 mini Prevention & Solution | Dr.fone</u></a></li>
+</ul></div>
 

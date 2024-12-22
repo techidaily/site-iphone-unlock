@@ -1,7 +1,7 @@
 ---
 title: In 2024, Unlock Your Disabled Apple iPhone 13 mini Without iTunes in 5 Ways | Dr.fone
-date: 2024-07-15T06:50:42.806Z
-updated: 2024-07-16T06:50:42.806Z
+date: 2024-12-14T18:16:46.359Z
+updated: 2024-12-20T19:03:54.442Z
 tags: 
   - unlock
   - remove screen lock
@@ -43,7 +43,9 @@ If you don’t want to cause any damage to your iOS firmware while resolving the
 
 Not just to get the Apple iPhone 13 mini disabled unlock without iTunes, it can also be used to resolve plenty of other issues like malware attacks, [iPhone stuck in the recovery loop](https://drfone.wondershare.com/recovery-mode/exit-iphone-recovery-mode-loop.html), the [blue screen of death](https://drfone.wondershare.com/iphone-problems/ways-to-fix-iphone-blue-screen-of-death.html), and more. Furthermore, it has an easy-to-use interface and yields reliable results, making it an essential iOS tool.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -86,9 +88,6 @@ Once the firmware has been downloaded successfully, click "Unlock Now" to start 
 
 <iframe src="https://www.youtube.com/embed/TQnsFr9oUHA" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
 **Pros**
@@ -112,9 +111,6 @@ You can learn **how to unlock a disabled iPhone without iTunes** by implementing
 
 - **Step 1.** Firstly, visit ["**Find My iPhone**"](https://www.icloud.com/find) from a web browser and log in to your iCloud account by providing your Apple ID and password. Tap on the “Devices” option. It will display a list of all the Apple iPhone 13 mini devices that are linked to your Apple ID. Select the iOS device that has been disabled.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![iphone disabled fix without itunes](https://images.wondershare.com/drfone/article/2023/02/unlock-disabled-iphone-without-itunes-2.jpg "all devices")
 
 - **Step 2.** From here, you can locate the Apple iPhone 13 mini device, play a sound on it, lock it, or erase it. To fix a disabled iPhone or iPad without iTunes, you have to erase your device. Click on the "Erase iPhone" option and confirm your selection.
@@ -131,6 +127,10 @@ Wait for a while as the "Find My iPhone" feature will remotely erase your iOS de
 **Cons**
 
 - Requires an active internet connection and access to another Apple device or computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5: How to Use Find My App to Unlock the Disabled iPhone?
 
@@ -157,6 +157,10 @@ Here's how to unlock your Apple iPhone 13 mini using Find My App:
 - Requires an active internet connection and access to another Apple device.
 - All data is lost.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 6: How to Try Finder to Unlock a Disabled iPhone on Mac?
 
 If you have a Mac computer, you can use Finder to unlock your Disabled Apple iPhone 13 mini. Finder is the default file manager for Mac OS X.
@@ -164,6 +168,10 @@ If you have a Mac computer, you can use Finder to unlock your Disabled Apple iPh
 Here's how to unlock your Apple iPhone 13 mini via Finder:
 
 ![finder](https://images.wondershare.com/drfone/article/2023/02/unlock-disabled-iphone-without-itunes-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 1.** Connect your Apple iPhone 13 mini to your Mac using a cable.
 - **Step 2.** Open the Finder app.
@@ -191,9 +199,6 @@ Additionally, it was originally speculated as a loophole in iOS. Therefore, you 
 
 **Step 1**. To start with, hold the Home button on your device to activate Siri and ask for the present time by saying something like, “Hey Siri, what time is it?” or anything else that would display the clock. Tap on the Clock icon to commence the process.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![hey siri](https://images.wondershare.com/drfone/article/2017/07/14993656826965.jpg "hey siri")
 
 **Step 2**. Visit the World Clock interface and choose to add another clock.
@@ -227,6 +232,10 @@ Additionally, it was originally speculated as a loophole in iOS. Therefore, you 
 **Step 9**. On the Add new contact screen, choose to add a photo and tap on the “**Add Photo**” option.
 
 ![add photo](https://images.wondershare.com/drfone/article/2017/07/14993658262749.jpg "add photo")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 10**. This will open the Photo Library. From here, you can visit any album.
 
@@ -364,10 +373,13 @@ The following steps explain **how to unlock iPhone without face ID or passcode**
 
 ![activate iphone](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-without-face-id-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 6.** Click Next Page > Back to enter the lock bypass screen. These are all the required steps for **how to unlock iPhone without passcode or face ID 2022.**
 
 ### 4\. Dr.Fone-Screen Unlock
-
 
 This section will introduce you to our most important solution. Yes, you heard it right. If you need a hassle-free method to unlock your iDevice without a passcode or face ID, use Wondershare Dr.Fone Screen Unlock.
 
@@ -381,9 +393,6 @@ After successfully installing Dr.Fone on your PC, open it and select the "Screen
 
 Next, connect your locked phone to the system through a wired connection. Then go for the iOS screen unlock feature.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unlock ios screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
 **Step 2. Recovery or DFU Mode Boot**
@@ -396,9 +405,6 @@ It is necessary to first boot your locked device in recovery or DFU mode. Follow
 
 After the phone is in recovery/DFU mode, the program will show the locked device's information. Here you can see the model and iOS variant of the Apple iPhone 13 mini device. If it isn't correct, you could choose the right one from the dropdown menu next to it. After that, click the Download button to get the required firmware for your locked phone.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![select phone model](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 **Step 4. Remove the Screen Lock**
@@ -411,7 +417,6 @@ Simply in no time, Dr.Fone will successfully unlock your device.
 
 **Note:** This unlocking process will erase everything off your Apple iPhone 13 mini and bring it to the factory default state. Indeed, no other method that doesn't allow data erasure at the moment.
 
-
 ## Part 2: How to Turn Off Passcode or Face ID on My Device?
 
 Face ID can be a helpful method for unlocking your Apple iPhone 13 mini - by simply looking at your phone. However, a few clients might worry that it's not as secure as utilizing a PIN to open your phone. If that is the best case for you, you can follow this manual to disable Face ID and depend on a passcode.
@@ -421,6 +426,10 @@ Here's the step-by-step guide to the most effective method to switch off Face ID
 ### 1\. Open the Settings application
 
 First, tap on your Settings app to open it. That is the one on the home screen with a symbol like the mechanical gear.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Tap on Face ID and Passcode
 
@@ -450,8 +459,6 @@ It doesn't work by snapping a picture of your face, but by taking a contour of y
 
 That's all about our take on **how to unlock iPhone without passcode or face ID 2022.** We have worked hard to make sure you get the right solutions in hand. However, we strongly suggest Dr.Fone if you still face issues with our solutions. Even if the above methods fail, Dr.Fone will ensure you unlock your phone.
 
-
-
 ## Apple iPhone 13 mini Backup Password Never Set But Still Asking? Here's the Fix
 
 ## Part 1: Why Do iTunes Ask Me for iPhone Backup Password?
@@ -461,6 +468,10 @@ When you use iTunes to create a backup, the backup will probably have a password
 In most cases, this occurs when the Encrypt Backup option is activated. As an official iOS feature, its purpose is to provide iOS users with the iTunes backup encryption for further security.
 
 ![encrypt local backup](https://images.wondershare.com/drfone/article/2022/12/iphone-backup-password-never-set-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Unfortunately, this capability may also become problematic if you inadvertently take a backup without being able to provide the password. For example, you may have to enter the password for your Apple iPhone 13 mini backup unlocking never set by you.
 
@@ -483,6 +494,10 @@ To get out of this predicament in the simplest way possible, try entering every 
 A significant possibility is that you encrypted the iTunes backup with the same password from the iCloud account.
 
 Therefore, before doing anything further, try all passwords to configure your iTunes account. For example, try entering 0000, 123456, name123, or 1111.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Find the password from Keychain on macOS
 
@@ -540,6 +555,10 @@ On the other hand, it does make it possible for you to generate a fresh backup i
 
 ![screen unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** When brought to this screen, please use a USB cord to connect your iOS device to your personal computer. If Dr.Fone can identify this relationship, the following picture will appear for you to see.
 
 Please read the following three notes carefully before clicking the **"Remove Now"** button:
@@ -558,13 +577,11 @@ Please read the following three notes carefully before clicking the **"Remove No
 
 ![removed](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-5.png)
 
-
 ### The Bottom Line
 
 There are four ways to fix the problem if iTunes keeps asking for your Apple iPhone 13 mini backup password. The first method is to try all the passwords you use on your Apple iPhone 13 mini. You can try finding the password from Keychain on macOS if this does not work. Another option is to "Reset All Settings" on your Apple iPhone 13 mini.
 
 Lastly, Dr.Fone-Screen Unlock is a program that can help you bypass the passcode and get into your backups. So, what are you waiting for? It's time to avoid the problem of iTunes backup password never set.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -578,7 +595,26 @@ Lastly, Dr.Fone-Screen Unlock is a program that can help you bypass the passcode
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-dive-into-360-videos-iphone-edition-for-facebook-posts/"><u>[New] 2024 Approved Dive Into 360 Videos IPhone Edition for Facebook Posts</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-elite-video-capturing-technology-for-podcasts/"><u>[Updated] Elite Video Capturing Technology for Podcasts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-troubleshooting-frozen-footage-in-photo-booths/"><u>2024 Approved Troubleshooting Frozen Footage in Photo Booths</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-14-plus-drfone-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-7-plus-and-ipad-securely-drfone-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone 7 Plus and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-iphone-6-plus-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your iPhone 6 Plus Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/free-range-creativity-with-premium-ae-samples/"><u>Free-Range Creativity with Premium AE Samples</u></a></li>
+<li><a href="https://techidaily.com/full-guide-to-hard-reset-your-realme-gt-5-240w-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Realme GT 5 (240W) | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-check-my-baidu-ranking-by-link-assistant-rank-tracker-rank-tracker/"><u>How do I check my Baidu ranking?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-12-pro-max-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 12 Pro Max Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-a18-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo A18 to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-11-pro-max-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro Max Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabled-iphone-14-pro-how-to-unlock-a-disabled-iphone-14-pro-drfone-by-drfone-ios/"><u>In 2024, Disabled iPhone 14 Pro How to Unlock a Disabled iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-the-art-of-illusion-crafting-stunning-snaps-with-filters/"><u>In 2024, The Art of Illusion Crafting Stunning Snaps with Filters</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-your-disabled-apple-iphone-11-pro-max-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>In 2024, Unlock Your Disabled Apple iPhone 11 Pro Max Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-iphone-xr-passcode-without-a-computer-drfone-by-drfone-ios/"><u>In 2024, Unlocking iPhone XR Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/interactive-events-recorder-yearly-edition-for-2024/"><u>Interactive Events Recorder - Yearly Edition for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-11-drfone-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/samsung-850-evo-ssd-software-download-the-latest-drivers/"><u>Samsung 850 EVO SSD Software: Download the Latest Drivers</u></a></li>
+</ul></div>
 

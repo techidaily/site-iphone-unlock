@@ -1,7 +1,7 @@
 ---
 title: In 2024, Trouble with Apple iPhone 11 Swipe-Up? Try These 11 Solutions | Dr.fone
-date: 2024-12-10T18:35:38.386Z
-updated: 2024-12-12T16:40:34.520Z
+date: 2024-12-19T16:37:00.360Z
+updated: 2024-12-20T16:42:43.248Z
 tags: 
   - unlock
   - remove screen lock
@@ -28,10 +28,6 @@ Updates or software bugs can occasionally interfere with the swipe-up gesture. I
 
 Sometimes, the touch screen may need recalibration. This can cause the swipe-up feature to become unresponsive.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 3\. Physical Damage
 
 Physical damage, like heavy falls, can impact the phone's touch sensitivity. Moreover, it affects swipe gestures as a result.
@@ -43,10 +39,6 @@ Insufficient memory or many background apps running simultaneously can overload 
 ### 5\. Water Exposure
 
 Sudden exposure to moisture or water damage can also cause the screen to malfunction. This can cause the screen to become unresponsive, leading to swipe-up issues.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: 11 Ways To Fix iPhone Swipe up Not Working
 
@@ -88,6 +80,10 @@ After successfully downloading Dr.Fone on your device, navigate towards the left
 
 ![repair system using dr.fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Opt for iOS Restoration and Enable Recovery Mode**
 
 Select the Apple iPhone 11 device type from the available options and select "iPhone." From the new window, select "iOS Repair," and following that, select "Standard Repair." Now, follow the instructions available and enable recovery mode for your iOS.
@@ -99,10 +95,6 @@ Select the Apple iPhone 11 device type from the available options and select "iP
 After that, you'll reach a window showing different iOS firmware alternatives. Pick any as per your preferences and click "Download." Once the download is complete, click "Repair Now" and "Done" to end the repair process.
 
 ![initiate swipe up repair process](https://images.wondershare.com/drfone/guide/ios-system-repair-6.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2. Force Restart iPhone
 
@@ -158,13 +150,13 @@ Running an outdated iOS version can sometimes lead to various software issues. T
 
 ![check for software update](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-8.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2.** If an update is available, press the "Update Now" button to commence the updating process. During the process, make sure to follow the prompts carefully to avoid issues.
 
 ![install new ios update](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8. Turn Off VoiceOver
 
@@ -177,6 +169,10 @@ VoiceOver is an accessibility feature on iPhones. It assists users with visual i
 **Step 2.** On the following screen, toggle off the "VoiceOver" switch if it is enabled. Afterward, check if the swipe-up gesture issue is resolved.
 
 ![turn off voice over option](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 9. Customize Touch Accommodations
 
@@ -201,6 +197,10 @@ Reduce Motion is an accessibility setting on iPhones designed to reduce animatio
 **Step 2.** Now, on the following screen, turn off the toggle next to the "Reduce Motion" option. Then, go and check if the swipe-up gesture issue is fixed or not.
 
 ![turn off reduce motion switch](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-15.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 11. Reset iPhone All Settings
 
@@ -275,10 +275,6 @@ Here are some ways to finish the factory reset on a locked iPhone without iTunes
 
 Let's get started.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Easy App to Factory Reset Locked iPhone
 
 If you search for a simple and effective way to factory reset your locked iPhone without iTunes, you should check out Dr.Fone-Screen Unlock. This professional iOS screen unlocks tool can help you erase all kinds of data from your Apple iPhone 11 and help you unlock your device within a few minutes.
@@ -319,6 +315,10 @@ The process will take a few minutes if you have a strong internet connection bec
 
 ![factory reset disabled iphone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3 Simple Methods to Factory Reset Locked iPhone
 
 Besides the above-given method, other methods can also help you factory reset your locked iPhone without iTunes.
@@ -342,6 +342,10 @@ To do this, you need to follow these steps:
 **Step 4:** Enter your Apple ID password when prompted, and click the " Erase " button to proceed.
 
 Now that your device has been erased, you can reset it as a new one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method #2: Use the Find My feature via another device to remotely factory reset your device (your apple id, password, and Internet required)
 
@@ -383,10 +387,6 @@ Your device will now be erased, and it'll become a new device.
 
 Yes. A factory reset will bypass the lock screen passcode on your Apple iPhone 11 and allow you to access it without a passcode. However, all your data will disappear, so make sure you have a backup.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 2\. Can I Factory Reset my iPhone without Losing the Data?
 
 No. If you want a factory reset, all your data will be erased, so make a backup before proceeding.
@@ -413,6 +413,10 @@ To force your Apple iPhone 11 to factory reset with buttons, you need to follow 
 
 Your device will now be reset, and you will have a phone like a new one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. How can I get into a locked iPhone?
 
 If you have lost the passcode of your Apple iPhone 11, then you can use the Dr.Fone-Screen Unlock tool to factory reset your device. To do this, you need to proceed with the steps given above. They are easy to follow and will help you reset your device without risk.
@@ -424,10 +428,6 @@ These are some of the most effective methods that can help you factory reset you
 However, if you want to factory reset your Apple iPhone 11 because you have forgotten your passcode, we recommend using Dr.Fone-Screen Unlock app because it is the most effective and safe method.
 
 This app can help you factory reset your locked iPhone without iTunes in just a few minutes, and it is very easy to use. So, if you want to reset your device without any data loss, we recommend using this app.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## PassFab Apple iPhone 11 Backup Unlocker: Top 4 Alternatives
 
@@ -525,6 +525,10 @@ PassFab iPhone Backup Unlocker is considerably different from other iPhone backu
 
 ![passfab](https://images.wondershare.com/drfone/article/2022/12/iphone-backup-unlocker-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Why do Users like it? (Review)**
 
 PassFab is an iPhone backup unlocker that works well and is safe to use. It comes with three different and robust password attack methods. This powerful program gets the job done quickly, with as few steps as possible, and without hurting your data. PassFab also has a free trial version that users can use to try.
@@ -544,7 +548,7 @@ PassFab is an iPhone backup unlocker that works well and is safe to use. It come
 - Activation locks need the PassFab Activation Unlocker, which is sold separately.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. 4uKey-iTunes Backup
@@ -574,19 +578,11 @@ It employs a hybrid approach, combining targeted attacks with graphics processin
 
 - The latest version of iTunes needs to be installed before use
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4\. UltFone iPhone Backup Unlock
 
 This iPhone backup recovery program is compatible with Mac OS X and Windows computers. In addition, it can recover the password for an iTunes backup, even if you have no clue what the password is.
 
 ![ultfone](https://images.wondershare.com/drfone/article/2022/12/iphone-backup-unlocker-6.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Why do Users like it? (Review)**
 
@@ -614,6 +610,10 @@ Because of its industry-leading recovery rate, extensive compatibility, and intu
 This free iPhone backup unlocker can be used to recover passwords for iTunes backups that have been forgotten due to a malfunctioning computer or a lost or stolen iPhone.
 
 ![softonic](https://images.wondershare.com/drfone/article/2022/12/iphone-backup-unlocker-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Why do Users like it? (Review)**
 
@@ -647,18 +647,19 @@ All of the software that was described is accessible for both Mac and Windows op
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-2024-ideal-avi-viewer-mobile-and-desktop-edition/"><u>[New] In 2024, Ideal AVI Viewer Mobile & Desktop Edition</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/apple-iphone-11-pro-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>Apple iPhone 11 Pro Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-11-pro-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-12-mini-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone 12 mini Without Passcode Now | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-a-csv-file-document-online-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign a .csv file document online</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-apple-iphone-6-drfone-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock Apple iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-iphone-14-plus-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>In 2024, How to Bypass iPhone 14 Plus Passcode Easily Video Inside | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-lava-yuva-3-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Lava Yuva 3?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-iphone-xs-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab iPhone XS Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/in-2024-turn-your-passion-into-profits-youtube-on-facebook-monetization-steps/"><u>In 2024, Turn Your Passion Into Profits YouTube on Facebook Monetization Steps</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/new-in-2024-essential-tips-for-aspiring-music-video-editors/"><u>New In 2024, Essential Tips for Aspiring Music Video Editors</u></a></li>
-<li><a href="https://games-able.techidaily.com/unblocking-facebook-games-from-googles-browser-shutdown/"><u>Unblocking Facebook Games From Google's Browser Shutdown</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/updated-7-free-apps-to-get-emojis-on-android-and-iphone/"><u>Updated 7 Free Apps to Get Emojis on Android and iPhone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-close-encounters-experiencing-roblox-at-greater-detail/"><u>[New] Close Encounters Experiencing Roblox At Greater Detail</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-behind-the-screen-scouting-the-hunt-for-pristine-paidless-tiktok-bgs/"><u>2024 Approved Behind-the-Screen Scouting The Hunt for Pristine, Paidless TikTok BGs</u></a></li>
+<li><a href="https://fox-making.techidaily.com/1728461358243-excel/"><u>迅雷不及抬頭！學會在Excel中迅速恢復功能的六大技妙</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-fixing-your-overwatch-cannot-connect-error-message/"><u>Expert Tips for Fixing Your Overwatch ‘Cannot Connect’ Error Message</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-12-pro-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot iPhone 12 Pro Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-12-mini-passcode-without-computer-drfone-by-drfone-ios/"><u>How to Unlock iPhone 12 mini Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-your-iphone-11-pro-max-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>How to Unlock Your iPhone 11 Pro Max Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-oneplus-open-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from OnePlus Open to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-iphone-12-pro-max-passcode-without-a-computer-drfone-by-drfone-ios/"><u>In 2024, Unlocking iPhone 12 Pro Max Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-whatsapps-icloud-sync-problem-effective-tips-for-reliable-cloud-backup/"><u>Overcome WhatsApp's iCloud Sync Problem: Effective Tips for Reliable Cloud Backup</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/recovering-vanished-pics-with-ios-175-explained-by-apple-next-steps-for-users-zdnet/"><u>Recovering Vanished Pics with iOS 17.5 Explained by Apple - Next Steps for Users | ZDNet</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/resolve-your-iphone-6-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your iPhone 6 Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/revolutionary-budget-friendly-risc-v-laptop-from-china-for-professionals/"><u>Revolutionary Budget-Friendly RISC-V Laptop From China for Professionals</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-10-pro-photoshop-tricks-for-newcomers/"><u>Top 10 Pro Photoshop Tricks for Newcomers</u></a></li>
 </ul></div>
 

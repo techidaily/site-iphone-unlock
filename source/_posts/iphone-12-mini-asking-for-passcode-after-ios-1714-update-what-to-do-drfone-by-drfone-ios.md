@@ -1,7 +1,7 @@
 ---
 title: iPhone 12 mini Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone
-date: 2024-12-05T18:06:27.333Z
-updated: 2024-12-12T18:29:37.754Z
+date: 2024-12-15T18:30:41.931Z
+updated: 2024-12-20T17:20:25.223Z
 tags: 
   - unlock
   - remove screen lock
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/ef75e54c89ead83bf0af102804bf50f616e622b6f
 If you’ve recently updated your iOS iPhone and iPad to the iOS 17/14 operating system, you may notice a bit of a bug where the Apple iPhone 12 mini displays the passcode lock, even if you haven’t got a security code in place.
 
 This obviously means you won’t be able to access your phone, and in many cases, you’re going to want to get back into your phone as quickly as possible. However, this may be easier said than done. Fortunately, today we’re going to go through multiple solutions to help you get your device working as it should!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. Don’t try passcodes blindly
 
@@ -48,17 +52,9 @@ When it does, close iTunes if it automatically opens and clicks the Screen Unloc
 
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2.** Click the Unlock iOS Screen option.
 
 ![android ios unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3.** You will now need to put your device in DFU mode, also known as Recovery Mode. Fortunately, this is easy thanks to the on-screen instructions where you will hold down the volume down and power button for a few seconds.
 
@@ -101,7 +97,7 @@ Here’s how to do it. (Note, the process will differ slightly depending on whic
 ![drfone home](https://images.wondershare.com/drfone/itunes-recovery-mode.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 2.** Now connect your Apple iPhone 12 mini to your computer with iTunes and wait for iTunes to open. Make sure you’re running the latest version of iTunes before connecting up your device. Also, make sure you’re using the official USB cable for the most stability.
@@ -130,10 +126,6 @@ Leave the Apple iPhone 12 mini device to erase, and once completed, you’ll be 
 
 And there you go, the five key ways you need to know when it comes to removing an unwanted lock screen from your iOS device after an iOS 17/14 update. We highly recommend the Dr.Fone - Screen Unlock (iOS) since the software makes the whole process incredibly easy, especially when managing any problems you may have on your iOS device!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Reset iTunes Backup Password Of Apple iPhone 12 mini: Prevention & Solution
 
 When you back up the data from your Apple iPhone 12 mini, iPad, or iPod touch, you will have a copy of the information stored on those devices. It's free to use iTunes, iCloud, or both to back up your device.
@@ -143,6 +135,10 @@ If you have forgotten the password to your backup, you may reset your Apple iPho
 To get started, please follow the instructions that are listed below.
 
 ![itunes](https://images.wondershare.com/drfone/article/2022/12/reset-iphone-backup-password-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: iPhone Backup Encryption Specifications
 
@@ -160,6 +156,10 @@ Connecting your device to a computer and using the iTunes program will allow you
 
 To improve the safety of your Apple iPhone 12 mini backup, you should first change the password for your iTunes backup. This will guarantee that no one else can see your backup file and that only you can access it. No one else will have chance to get it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Basic Ways for Password Security
 
 To reset your password, go to the **Preferences** menu in iTunes, and click on the **Reset Password** button. You will be prompted to enter your old password and a new one. Please choose a strong password that cannot be easily guessed.
@@ -174,10 +174,6 @@ Our step-by-step guide will show you how to reset iPhone backup password in minu
 
 Follow on to learn how to reset your Apple iPhone 12 mini backup password now!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. "Reset All Settings" in "Settings."
 
 Get into **Settings** on your iOS device, then choose **General**, and **Reset.**
@@ -187,10 +183,6 @@ Get into **Settings** on your iOS device, then choose **General**, and **Reset.*
 Now, go to **Reset All Settings** and confirm by entering the security passcode. Your phone will reset to the default setting. Get rid of the password for the last backup without deleting any other apps or data.
 
 ![reset all settings](https://images.wondershare.com/drfone/article/2022/12/reset-iphone-backup-password-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. "Back Up Now" in "iCloud."
 
@@ -204,6 +196,10 @@ After successfully signing in with your Apple ID, choose **Backup**.
 
 ![restore from icloud](https://images.wondershare.com/drfone/article/2022/12/reset-iphone-backup-password-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Find it back in the macOS keychain
 
 Launch Keychain Access by going to **Application,** then **Utilities,** and choose **Keychain Access** once your Mac has booted up.
@@ -213,6 +209,10 @@ Check for a backup by entering it into the search box and looking for it there.
 Double-click **Show Password**, and choose it from the drop-down menu. The password for your Apple iPhone 12 mini backup will be shown, and you can reset iTunes backup password now!
 
 ![macos keychain](https://images.wondershare.com/drfone/article/2022/12/reset-iphone-backup-password-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus Tips: Best App to Remove iTunes Backup Password
 
@@ -234,6 +234,10 @@ With Dr.Fone - Screen Unlock, you can easily follow the steps to remove iTunes b
 
 ![screen unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Connect your iOS device to the PC via a USB cable. You will see the image if Dr.Fone can detect this connection.
 
 Click **"Remove Now"**
@@ -244,10 +248,6 @@ Click **"Remove Now"**
 
 ![connected](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4:** Dr.Fone will verify and remove your iTunes backup password when the progress bar reaches 100%
 
 ![checking](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-4.png)
@@ -257,14 +257,10 @@ Click **"Remove Now"**
 ![removed](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-5.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: Tips to Keep Your Apple iPhone 12 mini Backup Password
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 1\. Use birthday as password
 
@@ -279,6 +275,10 @@ There is a wide selection of third-party software on the market that may assist 
 These applications cannot only safeguard your data but also add additional levels of protection, making it impossible for anybody else, even if they know the password, to access the data.
 
 KeepSafe and Norton Zone are just examples of the many different programs available. Not only will your Apple iPhone 12 mini backup password be safe and secure with these programs, but other crucial information stored on your phone will also be protected.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Write it down on a note
 
@@ -353,10 +353,6 @@ This might surprise you, but there is a loophole in Siri that can be exploited t
 
 ![ask siri the time](https://images.wondershare.com/drfone/article/2017/10/15075515937104.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3\. This will make Siri display the present time with a clock icon adjoining to it. Just tap on the clock.
 
 4\. This will let you access the World clock feature on your device. From here, you can view the clock interface. Tap on the “+” icon to add another clock.
@@ -368,6 +364,10 @@ This might surprise you, but there is a loophole in Siri that can be exploited t
 6\. Tap on the text to get various options related to it. Go with the “Select all” option to proceed.
 
 ![select all text](https://images.wondershare.com/drfone/article/2017/10/15075516553396.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7\. This will again provide various options like cut, copy, define, etc. Tap on the “Share” button.
 
@@ -419,18 +419,18 @@ You can follow either of these solutions to learn how to unlock iPhone 5 passcod
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/updated-audio-archive-collect-and-examine-music-files-for-2024/"><u>[Updated] Audio Archive Collect & Examine Music Files for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/2024-approved-avoid-facebooks-invasion-keeping-feeds-free-of-ads/"><u>2024 Approved Avoid Facebook's Invasion Keeping Feeds Free of Ads</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/did-your-apple-iphone-7-plus-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your Apple iPhone 7 Plus Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-samsung-galaxy-s24-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change Samsung Galaxy S24 Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-11-pro-drfone-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/how-to-overcome-compatibility-issues-with-xbox-controllers-in-widows-operating-systems/"><u>How to Overcome Compatibility Issues with Xbox Controllers in Widows Operating Systems</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-15-pro-drfone-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-15-with-or-without-password-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone 15 With or Without Password | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-14-pro-max-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-stolen-iphone-7-in-different-conditionsin-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Stolen iPhone 7 In Different Conditionsin | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/say-goodbye-to-voicemail-glitches-on-your-iphone-discover-these-9-fixing-techniques/"><u>Say Goodbye to Voicemail Glitches on Your iPhone - Discover These 9 Fixing Techniques!</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/the-ultimate-guide-to-motorola-edge-2023-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to Motorola Edge 2023 Pattern Lock Screen Everything You Need to Know</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unlock-the-power-of-emojis-iphone-users-complete-manual/"><u>Unlock the Power of Emojis: IPhone User's Complete Manual</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-showcase-a-dialogue-in-one-instagram-post/"><u>[New] 2024 Approved Showcase a Dialogue in One Instagram Post</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-relapse-prevention/"><u>[New] Relapse Prevention</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-androids-prime-video-calls-top-10-cost-free-options/"><u>[Updated] In 2024, Android's Prime Video Calls Top 10 Cost-Free Options</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-creating-a-lasting-impression-the-ultimate-youtube-live-thumbnail-guide/"><u>[Updated] In 2024, Creating a Lasting Impression The Ultimate YouTube Live Thumbnail Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-13-with-7-methods-drfone-by-drfone-ios/"><u>How To Change Country on App Store for iPhone 13 With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-apple-iphone-6s-plus-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-x-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone X Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-14-plus-without-itunes-drfone-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 14 Plus Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-6-plus-properly-drfone-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 6 Plus Properly | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-12-prevention-and-solution-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone 12 Prevention & Solution</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/streamlining-lecture-recordings-on-imac-for-2024/"><u>Streamlining Lecture Recordings on iMac for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unveiling-the-signs-of-phony-buddy-bids-online/"><u>Unveiling the Signs of Phony Buddy Bids Online</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-make-them-laugh-best-video-dubbing-apps-for-comedy-and-entertainment/"><u>Updated Make Them Laugh Best Video Dubbing Apps for Comedy and Entertainment</u></a></li>
 </ul></div>
 

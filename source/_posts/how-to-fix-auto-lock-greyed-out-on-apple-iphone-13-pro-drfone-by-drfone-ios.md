@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on Apple iPhone 13 Pro | Dr.fone
-date: 2024-07-15T06:53:37.627Z
-updated: 2024-07-16T06:53:37.627Z
+date: 2024-12-17T16:53:15.249Z
+updated: 2024-12-20T18:14:21.733Z
 tags: 
   - unlock
   - remove screen lock
@@ -20,9 +20,6 @@ Auto-lock on iOS devices serves multiple purposes - it conserves battery life, s
 
 Read on if you've encountered a similar problem on your iOS device. In this guide, we'll explore the possible reasons and offer steps to fix **Auto-Lock greyed out on iPhone** and iPad devices. If force restarts or settings resets haven't worked for you, we've got alternative solutions. Let's get started.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![auto lock greyed out on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-01.jpg)
 
 ## Part 1: Why Is Auto-Lock Greyed Out on iOS Device?
@@ -35,20 +32,29 @@ When you activate Low Power Mode on your iOS device, you might notice the screen
 
 ![low power mode on iphone enabled](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Screen Time Restrictions
 
 [<u>Screen Time restrictions</u>](https://drfone.wondershare.com/unlock/how-to-turn-off-screen-time-without-passcode.html) can impact Auto-Lock. For instance, if your downtime schedule blocks all apps, the screen locks itself, even if the Auto-Lock timer hasn't run out.
 
 ![screen time settings on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 MDM Profile Restrictions
 
 If the Auto-Lock is greyed out on your iPad or iPhone and you use it for work or school, a Mobile Device Management (MDM) profile might be the reason. This profile restricts settings, including Auto-Lock. To fix this, contact your IT administrator and ask if they can [<u>adjust the MDM profile settings</u>](https://drfone.wondershare.com/unlock/mdm-bypass-free.html).
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![setup remote management on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Alright, you know the possible reasons why the Auto-Lock option is not working on your iOS device. Still, you might be wondering how to fix the Auto-Lock greyed-out issue. Below are several ways to get your iPad or iPhone Auto-Lock working normally again.
 
@@ -137,6 +143,10 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 ![start to bypass mdm](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5:** If prompted, go to your device's **Settings** > **Apple ID** > **iCloud** and turn off the **Find My** feature. Next, click **OK** to initiate the MDM bypass.
 
 ![dr.fone guide turn off find my](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-4.png)
@@ -186,8 +196,6 @@ For an easy solution, use Dr.Fone Screen Unlock to bypass MDM restrictions, givi
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
-
-
 ## Disabled Apple iPhone 13 Pro: How to Unlock a Disabled Apple iPhone 13 Pro?
 
 [![drfone](https://drfone.wondershare.com/daisy-raine.jpg)](https://drfone.wondershare.com/author/daisy-raine/)
@@ -201,8 +209,6 @@ Because of using face masks, [Face ID](https://drfone.wondershare.com/unlock/ho
 We know and understand that the word troubleshooting can remind you of long telephone calls with support or making appointments and driving down to specialists and spending obscene amounts of money to get solutions. You do not want that. How about a way you could [unlock your Apple iPhone 13 Pro](https://drfone.wondershare.com/unlock/how-to-unlock-an-iphone-13.html) in a simple, 1-click way instead?
 
 [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) is a unique tool designed to help you avoid all hassles and get back on track quickly. It comprises modules designed to help you with all the issues that you might encounter during smartphone use. Naturally, there is something to help you when your Apple iPhone 13 Pro is disabled. You don't need to use anything else, no other software or special cable or support. All you need is this one software you can download on your computer (both macOS and Windows supported) and you're good to go.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -271,6 +277,10 @@ Step 2: Go to Find My, select your Apple iPhone 13 Pro.
 
 ![icloud find my iphone](https://images.wondershare.com/drfone/article/2021/11/unlock-disabled-iphone-13-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Click Erase iPhone and confirm.
 
 This will start the wipe process on your Apple iPhone 13 Pro remotely and your Apple iPhone 13 Pro will be reset to factory settings. You can now proceed to setup your Apple iPhone 13 Pro once again.
@@ -330,7 +340,6 @@ You may get stuck with any emergency if you do not know how to unlock your Apple
 
 Normally, you don't believe what you see and start to try entering the passcode to unlock your Apple iPhone 13 Pro. However, if you entered an incorrect passcode 10 times, you will receive a messag "[iPhone is disabled, connect to iTunes](https://drfone.wondershare.com/unlock/unlock-disabled-iphone-without-itunes.html)". In this case, the only way to unlock your disabled iPhone is to restore it. And that is a situation none of us would like to be in right? Hence, in this article, today, we will elaborate ways on **how to unlock iPhone without passcode** or restore it.
 
-
 ## Part 1: Unlocking Your Apple iPhone 13 Pro: What Are the 4 Main Causes of Failure?
 
 Unlocking your Apple iPhone 13 Pro can be a frustrating experience, especially when you just want to access the Apple iPhone 13 Pro device. Unfortunately, there are several common reasons why an iPhone may not unlock.
@@ -346,9 +355,6 @@ Learn about all the solutions to unlock iPhone quickly through the video below:
 
 <iframe allowfullscreen="allowfullscreen" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" frameborder="0" src="https://www.youtube.com/embed/RIbBkiqQmdM"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
 For more tutorial videos about how to unlock your Apple iPhone 13 Pro, you can explore more from [Wondershare Video Community](https://www.wondershare.com/explore/inspiration.html).
@@ -359,8 +365,6 @@ Keep reading to learn more feasible ways to unlock iPhone without passcode in de
 
 Dr.Fone - iPhone Unlocker is a powerful software that can help you open your iDevice without a passcode. It supports all iPhone models from iPhone 6 to iPhone 15, and all iPad models. Dr.Fone-Screen Unlock is easy to use and can be used to bypass the lock screen in just a few simple steps. It can also be used to reset the Apple iPhone 13 Pro device to its factory settings, allowing you to start fresh. In this section, we will learn about this important tool for iPhone lock screen removal. Thus, instead of thinking hard about **how to unlock iPhone without a passcode**, you can use [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) to do the needful.
 
-
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Remove iPhone Lock Screen without Hassle.
@@ -370,6 +374,10 @@ Remove iPhone Lock Screen without Hassle.
 - Free your sim out of any carrier worldwide.
 - Works for all models of iPhone, iPad, and iPod touch.
 - Fully compatible with the latest iOS.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3981454** people have downloaded it
 
@@ -385,15 +393,11 @@ To use Dr.Fone - Screen Unlock to unlock your Apple iPhone 13 Pro or iPad withou
 
 - **Step 3.** Follow the instructions to put your Apple iPhone 13 Pro into Recovery mode. When your Apple iPhone 13 Pro is in Recovery mode, the software will begin downloading firmware.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![go to recovery mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 - **Step 4.** When the process is complete, click "Unlock Now", and Dr.Fone will start unlocking. After a while, your device will be unlocked, and you can access your device without a passcode.
 
 ![lock screen opened](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
-
 
 _Unlock your Apple iPhone 13 Pro/iPad without a passcode now!_
 
@@ -429,6 +433,10 @@ Now you should unlock iPhone without passcode without computer or iTunes!
 This method may be a better choice for unlocking your Apple iPhone 13 Pro than using the TikTok method. It is more secure and reliable, but it works on iOS 15.2 or devices with the latest version. This method can unlock iPhone without computer.
 
 ![click erase iphone](https://images.wondershare.com/drfone/article/2023/01/how-to-unlock-iphone-without-passcode-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 1:** Type a wrong passcode on the Lock Screen.
 - **Step 2:** When the message appears, click "Erase iPhone" and click on it.
@@ -488,6 +496,10 @@ Before you start, please ensure you have a computer (Mac or PC). If you're using
 
 ![find the button](https://images.wondershare.com/drfone/article/2022/04/unlock-iphone-without-passcode-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Connect your Apple iPhone 13 Pro to the computer where the Finder or iTunes is enabled > Click on iTunes and restore your Apple iPhone 13 Pro.
 
 ![click restore](https://images.wondershare.com/drfone/article/2022/04/unlock-iphone-without-passcode-1.jpg)
@@ -523,9 +535,6 @@ Let us go through the steps below to learn about how to unlock iPhone without pa
 
 - **Step 2:** The World clock appears with the list of tunes you have to select for the alarm clock.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![open world clock](https://images.wondershare.com/drfone/article/2017/10/15090666366366.jpg)
 
 - **Step 3:** From that option, you will see the tab "buy more tunes" which straight away informs you to reach the iTunes store.
@@ -540,8 +549,11 @@ You will see that you can now access your Apple iPhone 13 Pro without the passco
 
 _**Tips:** This is only used for iOS 10.3.2 and 10.3.3. If you have updated your iOS system, we recommend you try the previous methods. To make it easier, just use [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)._
 
-
 ## FAQs about iPhone Unlock Issues
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. How to unlock iPhone without the Home button?
 
@@ -562,10 +574,13 @@ Once you have backed up your device, you can then restore it using the backup in
 
 If you have an older version of iOS (version 9 or earlier), then there is a bug that allows you to unlock your device using the camera. To do this, simply open the Camera app and make sure it's in selfie mode. Then, hold the Home button until you hear a clicking sound. This will unlock your device without requiring a passcode.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The Bottom Line
 
 [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is a well-known featured software to unlock iPhone without passcode and works instantly after download. We have proven results, and all the methods listed above are user-friendly to the extent that no knowledge of technology is required to unlock the Apple iPhone 13 Pro without Siri. We advise you to use Dr.Fone as it will work on your Apple iPhone 13 Pro without any damage and give the desired result. However, you may choose any of the above iOS unlocking methods as you see fit.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -579,9 +594,18 @@ If you have an older version of iOS (version 9 or earlier), then there is a bug 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://common-error.techidaily.com/disabling-touchpad-on-windows-10-whenever-a-mouse-is-connected-a-simple-guide/"><u>Disabling Touchpad on Windows 10 Whenever a Mouse Is Connected – A Simple Guide</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-the-latest-scansnap-s1300i-software-free-fast-and-easy/"><u>Download the Latest ScanSnap S1300i Software: Free, Fast, and Easy!</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/elevate-your-teams-productivity-with-slack-plus-filmora-harmony/"><u>Elevate Your Team's Productivity with Slack + Filmora Harmony</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-12-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 12 After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-channel-mastery-leverage-customizable-description-templates-for-more-followers/"><u>In 2024, Channel Mastery Leverage Customizable Description Templates for More Followers</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-unlock-your-iphone-6-learn-all-4-methods-drfone-by-drfone-ios/"><u>In 2024, How Do You Unlock your iPhone 6? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-12-pro-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 12 Pro Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-masters-of-illusion-top-vr-producers/"><u>In 2024, Masters of Illusion Top VR Producers</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-se-2020-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-14-pro-max-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-update-for-corsair-k70-access-software-and-drivers-here/"><u>Latest Update for Corsair K70 - Access Software & Drivers Here!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Complete Guide on Unlocking iPhone 13 mini with a Broken Screen? | Dr.fone
-date: 2024-07-15T06:48:22.355Z
-updated: 2024-07-16T06:48:22.355Z
+date: 2024-12-17T16:12:53.048Z
+updated: 2024-12-20T16:29:16.359Z
 tags: 
   - unlock
   - remove screen lock
@@ -50,6 +50,10 @@ Also, if your Apple iPhone 13 mini screen is broken, you can use this feature to
 **Step 5.** Click on 'Erase iPhone'. Click on 'Erase' again after the confirmation text.
 
 ![erase your iphone](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 6.** Enter the password to proceed.
 
@@ -116,10 +120,13 @@ You need to ask Siri, "Siri, what time is it?" or "Siri, what time is it in the 
 
 Besides, it works for iPhones with iOS 8.0 to 10.1. These bugs are fixed in the later versions of the Apple iPhone 13 mini and won't assist you with fooling Siri into unlocking your Apple iPhone 13 mini.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bonus Tips: Easy Broken iPhone Unlock Tool
 
 ### Dr.Fone-Screen Unlock
-
 
 The quickest way to **unlock iPhone with broken screen** is to use an unlocking tool. However, there are tons of tools available in the market, but it is our responsibility to suggest you the best way.
 
@@ -139,11 +146,19 @@ Removing the lock screen requires you to boot your Apple iPhone 13 mini in Recov
 
 ![enter recovery mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3. Confirm your Phone Model**
 
 Dr.Fone will now show you the phone Model and OS version. You can choose the right information from the dropdown menu if the one on your screen isn't right. Then, at that point, download and install the required firmware for your Apple iPhone 13 mini.
 
 ![select phone model](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4. Unlock the Screen Now**
 
@@ -152,7 +167,6 @@ After the firmware is downloaded effectively, click Unlock Now.
 ![unlock now](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
 In almost no time, the software will unlock your Apple iPhone 13 mini effectively. However, note that this unlocking will likewise wipe your user data.
-
 
 ### The Bottom Line
 
@@ -165,6 +179,10 @@ Your Apple ID is your gateway to a world of apps and services, making it an esse
 This guide will walk you through creating a new account for Apple devices in an easy-to-understand manner. From setting up your email address to securing your account, this article covered you every step of the way. Embark on this journey and learn **how to create a new Apple ID account** effortlessly.
 
 ![create a free apple id](https://images.wondershare.com/drfone/article/2023/10/create-new-apple-id-account-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Why Create a New Apple ID?
 
@@ -183,8 +201,9 @@ Here's a breakdown of the reasons why you should **create a new Apple ID for you
 ![create a free apple id account](https://images.wondershare.com/drfone/article/2023/10/create-new-apple-id-account-02.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### B. Scenarios Where a New ID Is Needed
 
 Below are the common scenarios where a new Apple ID might be needed:
@@ -217,9 +236,6 @@ These are the steps for registering a new Apple ID:
 
 - **Step 3:** Create a strong password that combines letters, numbers, and symbols. This password is essential for the security of your account, so make it unique and hard to guess. Confirm your password by entering it again in the designated field.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### B. Verifying Your Identity
 
 The next step is verifying your identity. Check out the steps below:
@@ -258,9 +274,6 @@ This step ensures that your new Apple ID takes center stage, granting you full c
 
 ![drfone unlock ios screen](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Features of Dr.Fone - Screen Unlock (iOS)
 
 This versatile tool offers the following key features in the context of Apple ID issues:
@@ -278,11 +291,14 @@ Check out the steps on how to remove an Apple ID account using Dr.Fone below:
 
 ![drfone v13 homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-
 - **Step 2:** If you want to proceed with deleting your Apple ID, you'll need to go to the next window and select the **Remove AppleID** option from the menu.
 - **Step 3:** When you hook up your iOS device to a computer, the next screen will report on its connectivity. Select the **Unlock Now** button to proceed.
 
 ![remove apple id unlock now](https://images.wondershare.com/drfone/guide/remove-apple-id-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4:** Before the Apple ID can be unlocked, the next step is for the platform to ask a series of questions. Verify that a screen lock is active on your iOS device. However, please lock your iOS device before proceeding with the **Yes** option.
 
@@ -351,6 +367,10 @@ Select the Encrypt Local Backup option in the Backups section directly from eith
 
 ![encryption](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** Create a Password
 
 When prompted in the window, create a password for the account. Make it powerful yet that is simple for you to remember. You might also save it somewhere secure to help you recall it later.
@@ -360,8 +380,9 @@ After establishing the password, all your previous backups will immediately unde
 ## Part 2: 5 Fixes When We Forgot iPhone Backup Password
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. Try all passwords you used on your Apple iPhone 13 mini
 
 The typical method that each individual attempts for the first time is to input all of the available passcodes. Even if it is the most straightforward technique, there is still a possibility that you miss one of them. Therefore, think about all of the passwords you may input, which are listed below.
@@ -375,6 +396,10 @@ The typical method that each individual attempts for the first time is to input 
 - Password for the email account
 - Passcode for the administrator
 - Passcode for the iPhone
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. "Reset All Settings" via "Settings"
 
@@ -428,9 +453,6 @@ With Dr.Fone - Screen Unlock, it's easy to follow all the steps to get rid of th
 
 **Step 2:** In the Screen Unlock interface, tap **Remove iTunes BackUp Encryption** in the bottom right corner to move forward.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![screen unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
 **Step 3:** When you get to this page, use a USB cable to connect your iOS device to the PC. If Dr.Fone can find this connection, you will see the picture below.
@@ -450,7 +472,6 @@ Before you click **Remove Now**, please carefully read the following three notes
 **Step 5:** The encryption on the iTunes backup has been removed successfully! Now you can easily back up, restore, move, or wipe your device.
 
 ![removed](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-5.png)
-
 
 ## Part 3: 3 Tricks to Help You Remember the Passwords
 
@@ -480,9 +501,6 @@ As a last piece of advice, please safely save your newly created passwords. Rath
 
 However, no matter how secure your gadget is, password leakage may happen, sending you to unpleasant situations that you can't even conceive. It's best to use Dr.Fone - Screen Unlock as soon as you encounter any problem!
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -495,9 +513,20 @@ However, no matter how secure your gadget is, password leakage may happen, sendi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/updated-conquer-iphone-photography-by-perfecting-motion-capture/"><u>[Updated] Conquer iPhone Photography by Perfecting Motion Capture</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-essential-strategies-for-high-quality-youtube-recording-for-2024/"><u>[Updated] Essential Strategies for High-Quality YouTube Recording for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-pilot-to-perfection-complete-review-of-dji-phantom-4/"><u>2024 Approved Pilot to Perfection Complete Review of DJI Phantom 4</u></a></li>
+<li><a href="https://fox-tls.techidaily.com/banishing-your-pcs-blue-screen-of-death-expert-fixes-and-advice-from-yl-software/"><u>Banishing Your PC's Blue Screen of Death: Expert Fixes and Advice From YL Software</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-13-pro-max-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/furbo-takes-the-cake-an-expert-breakdown-of-the-best-overall-dog-camera-on-the-market/"><u>Furbo Takes the Cake – An Expert Breakdown of The Best Overall Dog Camera on the Market</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-13-pro-drfone-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-iphone-6s-plus-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>How to Bypass iPhone 6s Plus Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-11-pro-drfone-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-poco-x5-pro-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Poco X5 Pro Without Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-12-with-or-without-password-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone 12 With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-the-best-8-vpn-hardware-devices-reviewed-on-vivo-v30-drfone-by-drfone-virtual-android/"><u>In 2024, The Best 8 VPN Hardware Devices Reviewed On Vivo V30 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722964855318-latest-and-fastest-nvidia-drivers-now-available-for-windows-10-users/"><u>Latest & Fastest NVIDIA Drivers Now Available for Windows 10 Users</u></a></li>
+</ul></div>
 

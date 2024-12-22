@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Turn Off Find My Apple iPhone 13 mini when Phone is Broken? | Dr.fone
-date: 2024-07-15T06:49:51.258Z
-updated: 2024-07-16T06:49:51.258Z
+date: 2024-12-15T18:59:37.023Z
+updated: 2024-12-20T18:22:59.358Z
 tags: 
   - unlock
   - remove screen lock
@@ -31,8 +31,6 @@ The best part about this application is that it is free of cost. It usually come
 ## Part 2: Efficient Way of Turning Off Find My iPhone Within Second- Dr. Fone
 
 [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is an excellent data recovery and management software created by Wondershare. However, limiting it to just recovery and management of data will not be just as it offers much more than just that. Transferring files, repairing the operating system, changing the GPS location, and fixing the activation lock are its amazing services.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -87,6 +85,10 @@ As your activation lock is removed, go to the settings and remove your Apple ID.
 
 ![activation lock removed](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to Turn Off Find My iPhone on Broken iPhone Using iCloud?
 
 iCloud is the most secure storage drive introduced by Apple. It keeps your gallery, your reminders, contacts, and your messages up to date. Moreover, it also organizes and stores your files while keeping them private and secure. iCloud strongly integrates your Apple iPhone 13 mini with other iOS devices so you can share your data, documents, and location with other iCloud users.
@@ -100,6 +102,10 @@ Here we have explained to you step by step how to turn off Find My iPhone on bro
 **Step 2:** Click on the "Find My iPhone" icon at the end of the page. The app will start locating your device, but as your Apple iPhone 13 mini is damaged, it might not find anything.
 
 ![select the option of find my iphone](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Click on the "All Devices" option from the top. Select your Apple iPhone 13 mini, which you want to remove by clicking on "Remove from account."
 
@@ -175,6 +181,10 @@ Below are the common scenarios where a new Apple ID might be needed:
 
 **Creating a new Apple ID for free** is a straightforward process. Let's break it down into simple steps:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### A. Registering a New Apple ID
 
 These are the steps for registering a new Apple ID:
@@ -182,6 +192,10 @@ These are the steps for registering a new Apple ID:
 - **Step 1:** Open your web browser and visit the [<u>Apple ID account management page</u>](http://appleid.apple.com/). Click the **Create Your Apple ID** button to begin.
 
 ![apple id account management page](https://images.wondershare.com/drfone/article/2023/10/create-new-apple-id-account-03.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** On the registration page, you'll be asked to provide your **First name** and **Last name**. Make sure to use the name associated with your new Apple ID. Next, you'll need to enter your preferred email address. This one will be your new Apple ID.
 
@@ -201,6 +215,10 @@ The next step is verifying your identity. Check out the steps below:
 
 ![create your apple id step 2](https://images.wondershare.com/drfone/article/2023/10/create-new-apple-id-account-05.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5:** Apple may sometimes ask you to complete a **CAPTCHA** or verify your identity to prevent automated account creation.
 
 ### C. Setting Up Security Questions
@@ -209,6 +227,10 @@ The next process will be setting up security questions for your account:
 
 - **Step 6:** Apple asks you to choose and answer security questions. These questions provide an additional layer of protection for your account. Select questions that you can easily remember and that others can't guess.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### D. Finalizing the Process
 
 To finalize the creation process, refer to the steps given below:
@@ -216,6 +238,10 @@ To finalize the creation process, refer to the steps given below:
 - **Step 7:** Read through Apple's Terms and Conditions and Privacy Policy. Once you've understood them, tick the box to confirm that you've read and agree to the iCloud and Apple Media Services Terms and Conditions. Then click **Agree** to proceed. Remember that it's essential to be familiar with Apple's policies to ensure a secure and smooth experience.
 
 ![create your apple id step 3](https://images.wondershare.com/drfone/article/2023/10/create-new-apple-id-account-06.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 8:** After completing these steps, Apple will send a confirmation email to the address you provided. Go to your email and open the verification link to confirm your new Apple ID.
 
@@ -246,14 +272,14 @@ Check out the steps on how to remove an Apple ID account using Dr.Fone below:
 
 ![drfone v13 homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-
 - **Step 2:** If you want to proceed with deleting your Apple ID, you'll need to go to the next window and select the **Remove AppleID** option from the menu.
 - **Step 3:** When you hook up your iOS device to a computer, the next screen will report on its connectivity. Select the **Unlock Now** button to proceed.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remove apple id unlock now](https://images.wondershare.com/drfone/guide/remove-apple-id-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4:** Before the Apple ID can be unlocked, the next step is for the platform to ask a series of questions. Verify that a screen lock is active on your iOS device. However, please lock your iOS device before proceeding with the **Yes** option.
 
@@ -275,6 +301,10 @@ Check out the steps on how to remove an Apple ID account using Dr.Fone below:
 - **Step 9:** The platform checks the downloaded firmware and displays its details on the following screen. To proceed with unlocking your Apple ID, click the **Unlock Now** button. To proceed, you will be prompted to input a code into a confirmation window. Enter the code and then click the **Unlock** button.
 
 ![firmware complete](https://images.wondershare.com/drfone/guide/remove-apple-id-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 10:** The following screen shows the unlocking status of your Apple ID. Don't let the Apple iPhone 13 mini device lose its connection under any circumstances. The screen prompts the process of completing the Apple ID once the ID has been unlocked. If the Apple ID has been unlocked, click **Done** to proceed. If that fails, click the **Try Again** button and give it another shot.
 
@@ -320,11 +350,6 @@ As you can see, the Find my iPhone service was majorly introduced to discover th
 
 Attention: All your data will be erased while you are unlocking with this tool.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
@@ -354,6 +379,10 @@ This might surprise you, but there is a loophole in Siri that can be exploited t
 
 ![add world clock](https://images.wondershare.com/drfone/article/2017/10/15075516291472.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5\. The interface will provide a search bar from where you can look for a city. Just write anything to provide a textual entry.
 
 6\. Tap on the text to get various options related to it. Go with the “Select all” option to proceed.
@@ -362,16 +391,10 @@ This might surprise you, but there is a loophole in Siri that can be exploited t
 
 7\. This will again provide various options like cut, copy, define, etc. Tap on the “Share” button.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![share the text](https://images.wondershare.com/drfone/article/2017/10/15075516738944.jpg)
 
 8\. From here, you can get various options to share this text. Out of all the provided options, tap on the Message icon.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![message the text](https://images.wondershare.com/drfone/article/2017/10/15075516929923.jpg)
 
 9\. This will open a new interface from where you can draft a new message. On the “To” field, you can type any text and tap on the return button on your keyboard to continue.
@@ -382,9 +405,6 @@ This might surprise you, but there is a loophole in Siri that can be exploited t
 
 11\. As you would tap it, it will launch a new interface. Tap on the “Create new Contact” to proceed.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![create new contact](https://images.wondershare.com/drfone/article/2017/10/15075517613601.jpg)
 
 12\. This will launch a new interface to add a contact. You can just tap on the “Add Photo” option.
@@ -405,9 +425,6 @@ By following these simple steps, you can learn how to unlock iPhone 5 passcode w
 
 You can follow either of these solutions to learn how to unlock iPhone 5 passcode without computer. Since iCloud will erase your iOS device, you can take advantage of Siri’s vulnerability. This will let you unlock your device without losing your data. Go ahead and give these solutions a try and let us know about your experience in the comments below.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -420,7 +437,24 @@ You can follow either of these solutions to learn how to unlock iPhone 5 passcod
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-subtle-sonic-reduction-in-the-world-of-audio-editing/"><u>[New] 2024 Approved Subtle Sonic Reduction in the World of Audio Editing</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-behind-the-numbers-earnings-in-podcasting-for-2024/"><u>[New] Behind the Numbers Earnings in Podcasting for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-building-an-audience-with-exceptional-fb-reel-content/"><u>[Updated] 2024 Approved Building an Audience with Exceptional FB Reel Content</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-navigating-through-free2xs-camera-capturing-features/"><u>[Updated] 2024 Approved Navigating Through Free2X's Camera Capturing Features</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-top-screen-recording-software-compared-bandicam-vs-camtasia/"><u>[Updated] In 2024, Top Screen Recording Software Compared Bandicam Vs Camtasia</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-recording-youtube-videos-effortlessly-the-free-way-to-screencasts-for-2024/"><u>[Updated] Recording YouTube Videos Effortlessly - The Free Way to Screencasts for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/best-methods-for-shifting-images-from-your-iphone-to-computer-without-using-itunes/"><u>Best Methods for Shifting Images From Your iPhone to Computer Without Using iTunes</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-15-plus-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone 15 Plus Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-apple-iphone-11-pro-max-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your Apple iPhone 11 Pro Max When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-iphone-6s-passcode-not-working-drfone-by-drfone-ios/"><u>In 2024, How to Fix iPhone 6s Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-pro-max-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6-plus-without-passcode-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6 Plus Without Passcode?</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-mastering-slow-motion-top-10-video-editing-tools-for-professionals/"><u>In 2024, Mastering Slow Motion Top 10 Video Editing Tools for Professionals</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-iphone-xr-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>In 2024, Unlocking iPhone XR Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/is-your-iphone-6-plus-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your iPhone 6 Plus in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-12-pro-max-properly-drfone-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone 12 Pro Max Properly | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-6s-plus-properly-drfone-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone 6s Plus Properly | Dr.fone</u></a></li>
+</ul></div>
 
