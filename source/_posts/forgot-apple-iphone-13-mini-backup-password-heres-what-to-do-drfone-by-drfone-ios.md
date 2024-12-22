@@ -1,7 +1,7 @@
 ---
 title: Forgot Apple iPhone 13 mini Backup Password? Heres What to Do | Dr.fone
-date: 2024-07-15T06:47:12.123Z
-updated: 2024-07-16T06:47:12.123Z
+date: 2024-12-17T00:58:21.950Z
+updated: 2024-12-22T01:06:10.043Z
 tags: 
   - unlock
   - remove screen lock
@@ -50,6 +50,10 @@ Select the Encrypt Local Backup option in the Backups section directly from eith
 
 ![encryption](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** Create a Password
 
 When prompted in the window, create a password for the account. Make it powerful yet that is simple for you to remember. You might also save it somewhere secure to help you recall it later.
@@ -57,6 +61,10 @@ When prompted in the window, create a password for the account. Make it powerful
 After establishing the password, all your previous backups will immediately undergo an automated overwrite and encryption. Make it a priority to ensure that the encryption procedure is finished effectively.
 
 ## Part 2: 5 Fixes When We Forgot iPhone Backup Password
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Try all passwords you used on your Apple iPhone 13 mini
 
@@ -88,7 +96,15 @@ Use a USB cable to link your Apple iPhone 13 mini to your PC. Look at the small 
 
 ![backup](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Proceed to the **Summary Page** and make your selection there for **The Computer.** After selecting **Encrypt Local Backup**, you must create a new password. After you have pressed the **Backup Now** option, wait for iTunes to create a new password for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Find your password in the macOS keychain
 
@@ -110,9 +126,6 @@ Navigate to the **Apps & Data menu** and choose the **Restore from iCloud Backup
 
 After successfully signing in with your Apple ID, choose **Backup**.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![restore from icloud](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-7.jpg)
 
 During the time that the system is being restored, it is essential that the Wi-Fi connection remains active.
@@ -147,7 +160,6 @@ Before you click **Remove Now**, please carefully read the following three notes
 
 ![removed](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-5.png)
 
-
 ## Part 3: 3 Tricks to Help You Remember the Passwords
 
 If you have an iPhone, you know it can be tricky to keep track of all your passwords. From your email password to your banking login, there are a lot of different codes to remember.
@@ -176,17 +188,11 @@ As a last piece of advice, please safely save your newly created passwords. Rath
 
 However, no matter how secure your gadget is, password leakage may happen, sending you to unpleasant situations that you can't even conceive. It's best to use Dr.Fone - Screen Unlock as soon as you encounter any problem!
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Can You Unlock Apple iPhone 13 mini After Forgetting the Passcode?
 
 If you **forget the passcode on your Apple iPhone 13 mini**, you won't have the option to access its information and use it flawlessly. What's more disturbing is that if you keep entering the wrong ones, your Apple iPhone 13 mini will be locked. It would help if you opened it, be it a 4-digit passcode, 6-digit passcode, Fingerprint, or Face ID.
 
 If you **forgot passcode on iPhone**, the main thing you can do with your iDevice is to make an Emergency call. You should erase your Apple iPhone 13 mini if you don't remember your screen unlock code. But don't worry; we have many solutions available here. Keep reading to learn about the best tool, i.e., Dr.Fone, for screen unlock.
-
 
 ## Part 1: Can I Unlock My iPhone When I Forgot Passcode?
 
@@ -229,6 +235,10 @@ Hang tight for the process to wrap up. Then, a short time later, go to your Appl
 
 ![itunes unlock](https://images.wondershare.com/drfone/article/2022/11/forgot-passcode-on-iphone-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. "Erase iPhone" Option
 
 However long the locked iPhone has a functioning WiFi connection, you can now delete the Apple iPhone 13 mini device from the lock screen. This method only works if it is running iOS 15.2 or above.
@@ -257,12 +267,15 @@ To erase the lock screen passcode with Siri on iOS 8 to iOS 10.1:
 
 ![use siri](https://images.wondershare.com/drfone/article/2022/11/forgot-passcode-on-iphone-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 As you might be aware, this way is helpful because of iOS bugs. This method is also viewed as a method for hacking the iPhone. In later iOS versions, Apple fixed these bugs. In this manner, it works on iPhones running iOS 8.0 to 10.1.
 
 ### 5\. Dr.Fone-Screen Unlock
 
 The Apple iPhone 13 mini unlock software Dr.Fone-Screen Unlock will help to open the password without iTunes. It is well-versed in unlocking screen locks from various iOS devices, including the iPhone, iPad, and iPod contact. With it introduced on your PC, you can eliminate your Apple iPhone 13 mini lock screen effectively. It can remove the 4-digit password, 6-digit password, Fingerprint, or Face ID.
-
 
 Therefore, Dr.Fone is a decent option if you like to sidestep the passcode on your Apple iPhone 13 mini without Siri or iTunes. To fix more issues, such as bypassing the enactment lock without the past proprietor, Dr.Fone-Screen Unlock will be a decent option for you. The following steps illustrate how you can unlock your lock screen passcode:
 
@@ -286,9 +299,6 @@ Before sidestepping the Apple iPhone 13 mini lock screen, we want to boot it in 
 
 After putting the Apple iPhone 13 mini device in DFU mode, Dr.Fone will show the Apple iPhone 13 mini device information, for example, the Apple iPhone 13 mini device Model and OS Variant. You can choose the correct data from the dropdown menu if the information is incorrect. Then, at that point, click Download to download the firmware for your device.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![select phone model](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 **Step 4. Unlock the Apple iPhone 13 mini screen lock**
@@ -299,7 +309,6 @@ After the firmware is downloaded effectively, click Unlock Now to begin unlockin
 
 Simply shortly, your Apple iPhone 13 mini will be unlocked effectively. Note that this unlocking process will wipe the user data on your Apple iPhone 13 mini. However, it is practical to erase this issue from your device.
 
-
 ## Part 3: How Can I Turn Off/On My Passcode?
 
 - Open your Settings application and look down until you track down the choice for the password menu. On iPhones with a home button, this will be named "Fingerprint and Password." On new ones, it is "Face ID and Password." Click this choice.
@@ -307,6 +316,10 @@ Simply shortly, your Apple iPhone 13 mini will be unlocked effectively. Note tha
 - Look down until you track the "Turn Passcode Off" choice and tap it.
 
 ![go to settings](https://images.wondershare.com/drfone/article/2022/11/forgot-passcode-on-iphone-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Click again to agree with your decision to turn off your passcode.
 
@@ -375,6 +388,10 @@ In this method, you will be erasing the iPhone, meaning all your data on the App
 
 - You must have previously enabled Find My iPhone on your locked device to use this method.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Using iTunes on Your Computer
 
 Restoring your Apple iPhone 13 mini with iTunes is another method to unlock your device when you have forgotten the passcode. This method involves using iTunes on a computer to erase your Apple iPhone 13 mini and install the latest iOS version.
@@ -384,9 +401,6 @@ For it, ensure you have the latest version of iTunes installed on your computer.
 - **Step 1.** Launch iTunes on your computer and connect your Apple iPhone 13 mini to your computer using a USB cable. Now first press and release the "Volume Up" button. Then repeat the same process with the "Volume Down" button.
 - **Step 2.** Finally, press and hold the "Side" button until your Apple iPhone 13 mini transitions to Recovery Mode. Now iTunes will detect your Apple iPhone 13 mini in Recovery Mode. It will display a pop-up message asking whether you want to restore or update your device.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enable the recovery mode](https://images.wondershare.com/drfone/article/2023/06/unlock-iphone-14-6.jpg)
 
 - **Step 3.** Here, choose the "Restore" option. It will erase all data on your device and install the latest iOS version. Once it is complete, you will see the initial setup screen on your Apple iPhone 13 mini.
@@ -405,8 +419,6 @@ For it, ensure you have the latest version of iTunes installed on your computer.
 ### Method 3: Using the Screen Unlock Feature of Wondershare Dr.Fone
 
 You will come across many methods when looking for how to unlock iPhone 14. However, no way is simpler or safer than using [Wondershare Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). It can remove all screen locks from iPhone, iPad, and iPad Touch. These types include 4-digit passcode, 6-digit passcode, Touch ID, and Face IDs.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -431,9 +443,6 @@ Launch Wondershare Dr.Fone on your computer and select "Screen Unlock" from the 
 
 ![unlock ios screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 - **Step 2. Enable Recovery Mode on Your Apple iPhone 13 mini**
@@ -473,6 +482,10 @@ Using all the methods mentioned in this article will result in data loss. It is 
 
 If you find the manual backing up hectic, Wondershare Dr.Fone permits you to create an automatic incremental backup on your computer. These backups are done wirelessly at your specified time when both devices are connected to the same network.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Understand Terms and Conditions
 
 Familiarize yourself with the terms and conditions associated with the unlocking methods you plan to use. This includes any potential data loss, warranty implications, or risks involved. Be informed before proceeding. All unlocking methods, such as using iCloud's Find My iPhone or restoring with iTunes, involve erasing your Apple iPhone 13 mini's data.
@@ -499,6 +512,9 @@ After careful evaluation, we recommend Wondershare Dr.Fone as the best choice to
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -512,9 +528,24 @@ After careful evaluation, we recommend Wondershare Dr.Fone as the best choice to
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-best-screen-recorders-for-google-meet-you-should-try-free-and-paid/"><u>[New] Best Screen Recorders for Google Meet You Should Try [Free and Paid]</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-unraveling-the-process-of-uploading-360-footage-to-youtube/"><u>[New] Unraveling the Process of Uploading 360° Footage to YouTube</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-personalized-content-sharing-on-vimeo-basic-plus-and-pro-explained/"><u>2024 Approved Personalized Content Sharing on Vimeo Basic, Plus & Pro Explained</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-infinix-smart-8-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Infinix Smart 8 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/best-windows-single-board-gadgets/"><u>Best Windows Single-Board Gadgets</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/did-your-iphone-14-pro-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your iPhone 14 Pro Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-infinix-note-30-5g-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Infinix Note 30 5G</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-14-pro-drfone-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-13-mini-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 13 mini to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-plus-apples-new-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 Plus, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6s-plus-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6s Plus Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-in-pixels-we-trust-a-guide-to-photomontages/"><u>In 2024, In Pixels We Trust A Guide to Photomontages</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-apple-iphone-15-pro-max-without-passcode-easily-drfone-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 15 Pro Max Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-spark-10c-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Spark 10C Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/troubleshooting-your-beachbody-workout-dvd-solutions-for-common-playback-issues/"><u>Troubleshooting Your Beachbody Workout DVD: Solutions for Common Playback Issues</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-6-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock Apple iPhone 6 Without Passcode Easily | Dr.fone</u></a></li>
+</ul></div>
 

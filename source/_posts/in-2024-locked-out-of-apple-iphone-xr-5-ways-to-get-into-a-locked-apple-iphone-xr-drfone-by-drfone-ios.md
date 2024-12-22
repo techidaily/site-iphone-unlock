@@ -1,7 +1,7 @@
 ---
 title: In 2024, Locked Out of Apple iPhone XR? 5 Ways to get into a Locked Apple iPhone XR | Dr.fone
-date: 2024-12-18T16:56:27.331Z
-updated: 2024-12-20T16:23:06.263Z
+date: 2024-12-15T00:49:32.080Z
+updated: 2024-12-21T20:00:06.980Z
 tags: 
   - unlock
   - remove screen lock
@@ -24,10 +24,6 @@ If you are locked out of Apple iPhone XR, you should only use a reliable and sec
 
 Attention: All your data all be erased after you get into your locked Apple iPhone XR.Please make sure if you have backed up all your data.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Dr.Fone - Screen Unlock
 
 Get Into Locked Apple iPhone XR In 5 Minutes!
@@ -46,6 +42,10 @@ You can watch the video below about how to unlock your Apple iPhone XR without P
 **Step 1.** Download Dr.Fone - Screen Unlock, install it on the computer, and launch it whenever you need to unlock your phone. Choose the option of "Screen Unlock" from the main screen.
 
 ![get into locked Apple iPhone XR with drfone for ios](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2.** Connect your device with a computer. Afterward, choose the “Unlock iOS Screen”  to get started.
 
@@ -70,6 +70,14 @@ You can watch the video below about how to unlock your Apple iPhone XR without P
 **Step 7.** Let the application resolve the issue on your phone. Once it is done, you will be notified that your lock screen is removed.
 
 ![got into locked Apple iPhone XR successfully](https://images.wondershare.com/drfone/drfone/ios-unlock-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to get into a locked Apple iPhone XR with iTunes?
 
@@ -97,13 +105,13 @@ Apple’s official Find My Apple iPhone XR is a smart and hassle-free way to loc
 
 ![icloud all devices](https://images.wondershare.com/drfone/article/2017/07/14994494968655.jpg "icloud all devices")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2.** This will provide various tasks that you can perform on the iOS device. Click on the “Erase Apple iPhone XR” button to reset the Apple iPhone XR device.
 
 ![erase Apple iPhone XR](https://images.wondershare.com/drfone/article/2017/07/14994495147747.jpg "erase Apple iPhone XR")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: How to get into a locked Apple iPhone XR with Siri?
 
@@ -128,6 +136,10 @@ If you don’t want to erase your device’s data while resolving this issue, yo
 **Step 5.** Out of all the options to share this text, select the Message app.
 
 ![share on message](https://images.wondershare.com/drfone/article/2017/07/14994492171595.jpg "share on message")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 6.** A new interface will be opened from where you can draft a new message. Type anything in the “To” field and tap "return" from a keyboard.
 
@@ -186,6 +198,10 @@ MDM Profile Restrictions
 If the Auto-Lock is greyed out on your iPad or iPhone and you use it for work or school, a Mobile Device Management (MDM) profile might be the reason. This profile restricts settings, including Auto-Lock. To fix this, contact your IT administrator and ask if they can [<u>adjust the MDM profile settings</u>](https://drfone.wondershare.com/unlock/mdm-bypass-free.html).
 
 ![setup remote management on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Alright, you know the possible reasons why the Auto-Lock option is not working on your iOS device. Still, you might be wondering how to fix the Auto-Lock greyed-out issue. Below are several ways to get your iPad or iPhone Auto-Lock working normally again.
 
@@ -260,19 +276,11 @@ Have you ever bought a used iPad or Apple iPhone XR to find the Auto-Lock option
 
 ![dr.fone toolbox home interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
 - **Step 2:** Within the **Screen Unlock** tool window, select **Unlock MDM iPhone**.
 
 ![dr.fone screen unlock features](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 3:** Select **Bypass MDM**, then click **Get Start** to proceed.
 
@@ -282,13 +290,13 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 ![start to bypass mdm](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 5:** If prompted, go to your device's **Settings** > **Apple ID** > **iCloud** and turn off the **Find My** feature. Next, click **OK** to initiate the MDM bypass.
 
 ![dr.fone guide turn off find my](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 6:** The software will display the progress of the bypass. Wait for it to complete.
 
@@ -327,6 +335,10 @@ Here's **how to change Auto-Lock on iPhone** devices:
 
 ![change auto-lock on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-18.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 There you have it. This guide has equipped you with the knowledge and solutions to fix the **Auto-Lock greyed out** on your Apple iPhone XR or iPad devices. From identifying the reasons like Low Power Mode and MDM configurations to implementing actionable fixes, you can now change your screen timeout. So, turn off those restrictions, remove MDM profiles, and head back to Settings.
@@ -335,6 +347,10 @@ For an easy solution, use Dr.Fone Screen Unlock to bypass MDM restrictions, givi
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Guide on How To Change Your Apple ID Email Address On Apple iPhone XR
 
 Your Apple ID email is the key to your digital world with Apple devices. It's the address Apple recognizes you by, allowing you to access your apps, music, and more. But sometimes, life brings changes, and your Apple ID email may need an update.
@@ -342,10 +358,6 @@ Your Apple ID email is the key to your digital world with Apple devices. It's th
 This guide will take you through the simple process of **changing your Apple ID email** address, ensuring it's easy to understand every step. Explore why you might want to make this change, shedding light on common scenarios where this adjustment can enhance your Apple experience. So dive in and explore!
 
 ![change your apple id](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-email-01.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part I: Why Change Your Apple ID Email?
 
@@ -405,10 +417,6 @@ For those who prefer the convenience of mobile devices:
 
 ![change apple id on iphone 3](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-email-08.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 4:** Apple will send a verification code to the new email. Enter it, and your Apple ID email on your mobile device is updated.
 
 #### Method 3: For Browser Users
@@ -426,6 +434,10 @@ If you prefer the simplicity of a web browser:
 - **Step 3:** Click **Edit** next to your email address in the **Account** section.
 - **Step 4:** Input your new email address and click **Continue**.
 - **Step 5:** A verification code will be sent to your new email. Enter it to confirm your email change.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### B. Updating Your Apple ID
 
@@ -472,17 +484,9 @@ Outlined below is the step-by-step guide on how to use Dr.Fone – Screen Unlock
 
 ![drfone unlock ios screen recovery mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 4:** After successfully entering your device into **Recovery Mode**, the platform automatically recognizes the **Device Model** and shows it in the appropriate section. Modify the model and select the **System Version** to meet your needs if necessary. After that, select **Start** to begin unlocking your device's screen.
 
 ![drfone unlock ios screen device model](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 5:** The next screen shows the progress of your [<u>iOS firmware download</u>](https://drfone.wondershare.com/ios-upgrade/how-to-upgrade-with-firmware-files.html). If at any point you decide you'd rather call it quits, hit the **Stop** button. If the iOS firmware takes a long time to download on your platform, you can copy the download link by clicking the **Copy** option.
 
@@ -507,10 +511,6 @@ By using Dr.Fone - Screen Unlock (iOS), you can regain access to your iOS device
 
 [<u>How to Fix Email Disappeared from iPhone?</u>](https://drfone.wondershare.com/iphone-problems/email-disappeared-from-iphone.html)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 This guide easily explored the process of **changing your Apple ID email address**. It started by understanding why this change might be necessary and provided straightforward methods for Mac, mobile, and browser users to accomplish it seamlessly.
@@ -531,16 +531,18 @@ But what if you're locked out of your iOS device? Don't fret; Dr.Fone - Screen U
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/eroing-in-on-your-ideal-youtube-subset/"><u>[New] Zeroing In on Your Ideal YouTube Subset</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-unleash-your-creativity-with-youtubes-green-screens/"><u>[Updated] In 2024, Unleash Your Creativity with YouTube's Green Screens</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-iphone-15-without-itunes-drfone-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked iPhone 15 Without iTunes | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/doubting-the-faithfulness-of-zerogpt-and-similar-devices/"><u>Doubting the Faithfulness of ZeroGPT and Similar Devices</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/free-installation-files-for-hp-laserjet-p1006-printer-driver-compatible-with-all-versions/"><u>Free Installation Files for HP LaserJet P1006 Printer Driver – Compatible with All Versions</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-14-pro-max-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone 14 Pro Max After Forgetting my PIN Code? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-11-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone 11? Learn All 4 Methods | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-i-screen-mirroring-apple-iphone-13-to-tvlaptop-drfone-by-drfone-ios/"><u>In 2024, How Can I Screen Mirroring Apple iPhone 13 to TV/Laptop? | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-xiaomi-redmi-12-5g-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Xiaomi Redmi 12 5G? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-iphone-12-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>In 2024, Unlocking iPhone 12 Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/live-streaming-pro-manycam-virtual-webcam-and-broadcasting-tool/"><u>Live Streaming Pro: ManyCam Virtual Webcam and Broadcasting Tool</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-maximizing-impact-with-youtube-micro-videos/"><u>[New] In 2024, Maximizing Impact with YouTube Micro Videos</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-quick-tips-eradicate-online-ads-from-your-feed/"><u>[New] In 2024, Quick Tips Eradicate Online Ads From Your Feed</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-professional-screenshot-and-recorder-win10-edition/"><u>[New] Professional Screenshot & Recorder, Win10 Edition</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/our-first-steps-for-youtube-earning-8-methods-for-2024/"><u>[New] Your First Steps for YouTube Earning - 8 Methods for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-enhancing-engagement-a-guide-to-popular-tiktok-unboxers/"><u>[Updated] 2024 Approved Enhancing Engagement A Guide to Popular TikTok Unboxers</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-iphone-8-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-perfectly-blend-music-with-your-video-posts-on-insta/"><u>How To Perfectly Blend Music With Your Video Posts on Insta</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-apple-iphone-7-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to Apple iPhone 7 Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-apple-iphone-14-pro-max-drfone-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-7-drfone-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-perfecting-your-purses-expertise-in-haul-videography/"><u>In 2024, Perfecting Your Purses Expertise in Haul Videography</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/unlocking-access-to-your-start-menu-on-windows-10-made-easy/"><u>Unlocking Access to Your Start Menu on Windows 10 Made Easy</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/utanformaliga-guiden-till-vidkombination-pa-windows-11-bastens-sammansattning-7-ganger/"><u>Utanförmåliga Guiden Till Vidkombination På Windows 11 - Bästens Sammansättning 7-Gånger</u></a></li>
 </ul></div>
 

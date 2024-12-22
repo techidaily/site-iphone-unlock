@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Remove Flashlight From iPhone SE (2020) Lock Screen | Dr.fone
-date: 2024-12-04T17:01:59.082Z
-updated: 2024-12-06T16:39:42.642Z
+date: 2024-12-19T22:23:36.793Z
+updated: 2024-12-22T01:37:32.674Z
 tags: 
   - unlock
   - remove screen lock
@@ -23,7 +23,7 @@ While you can't remove it, figuring out **how to remove flashlight from iPhone l
 ![iphone lock screen](https://images.wondershare.com/drfone/article/2024/01/remove-flashlight-from-lock-screen-01.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How To Remove Flashlight From iPhone Lock Screens?
@@ -80,7 +80,7 @@ Although the flashlight icon remains on the lock screen, you won't accidentally 
 ![setup iphone back tap to none](https://images.wondershare.com/drfone/article/2024/01/remove-flashlight-from-lock-screen-05.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How To Turn Off the Flashlight on iPhone?
@@ -96,6 +96,10 @@ You can't remove the flashlight icon from the lock screen, but you can still tur
 
 ![turn off flashlight from control center](https://images.wondershare.com/drfone/article/2024/01/remove-flashlight-from-lock-screen-06.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 This method is fast and convenient, especially if you've kept the flashlight icon in the Control Center. Plus, it works regardless of how the flashlight was activated, even if it was an accidental tap on the lock screen.
 
 Method No. 2: Use Siri To Turn Off Flashlight
@@ -109,6 +113,10 @@ To go hands-free and avoid accidental taps, you can use Siri to turn off the fla
 ![use siri to turn off flashlight](https://images.wondershare.com/drfone/article/2024/01/remove-flashlight-from-lock-screen-07.jpg)
 
 Remember, even with Siri, ensure your Apple iPhone SE (2020)'s microphone isn't covered or blocked for successful voice recognition.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus Part: Easily Unlock Your Apple iPhone SE (2020) Without a Password
 
@@ -149,13 +157,13 @@ Forgotten passcodes and iCloud Activation Lock can leave you feeling shut out. T
 
 ![dr.fone downloading ios firmware](https://images.wondershare.com/drfone/guide/unlock-ios-screen-5.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 7:** Once the process is complete, Dr.Fone will notify you. Your Apple iPhone SE (2020) should be unlocked and ready for you to set it up again with your preferred settings and Apple ID.
 
 ![dr.fone removed ios lock screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -185,10 +193,6 @@ iPhone's Restricted Mode is a comprehensive set of features to enhance user cont
 - **Parental controls.**Targeting family use, Restricted Mode incorporates robust parental controls. Parents can manage and monitor screen time for a balanced, age-appropriate digital experience for their children.
 
 ![front view child using iphone](https://images.wondershare.com/drfone/article/2024/01/disable-restricted-mode-on-iphone-02.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2. Why Can't I Remove Restricted Mode?
 
@@ -220,13 +224,13 @@ Enabling Restricted Mode on your Apple iPhone SE (2020) is prudent, especially f
 
 - **Step 2**: The device will prompt you to set a passcode. Choose a secure 4-digit code required to make changes or deactivate the Restricted Mode. You can customize various settings, such as app usage, web content, and privacy settings. Tailor these restrictions according to your preferences and the intended user.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4. 3 Ways to Turning Off Restricted Mode on iPhone
 
 If you want to know **how to turn off Restricted Mode on your Apple iPhone SE (2020)**, here are three efficient methods to do so. Whether on a specific iOS version or facing a forgotten passcode, these provide solutions for every scenario.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Turn Off Restricted Mode on iOS 12 and Above
 
@@ -300,6 +304,10 @@ YouTube's Restricted Mode operates on both the browser and device levels. Once a
 **Different from Age-Restricting Videos**
 
 It's important to note that Restricted Mode differs from age-restricting videos. While age restriction applies to specific videos, Restricted Mode filters content across the entire platform, providing a broader safety net.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How To Turn Restricted Mode On or Off on YouTube
 
@@ -377,6 +385,10 @@ If you are worried about losing data such as purchases and contacts, don't worry
 
 ![apple id sign in and security](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-on-ipad-04.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** From the **Apple ID** pop-up window, enter your new Apple ID in the **Change your Apple ID** text field.
 
 ![enter a new apple id interface](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-on-ipad-05.jpg)
@@ -442,10 +454,6 @@ Dr.Fone can bypass the Find My/Find My iPhone feature to remove your Apple ID fr
 
 ![dr.fone toolbox homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 3:** Select **Remove AppleID** from the available **Screen Unlock** tools.
 
 ![dr.fone screen unlock tools](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
@@ -454,29 +462,21 @@ Dr.Fone can bypass the Find My/Find My iPhone feature to remove your Apple ID fr
 
 ![dr.fone unlocks connected device](https://images.wondershare.com/drfone/guide/remove-apple-id-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 5:** Click **Yes** to confirm your device has a screen lock. Otherwise, it won't work.
 
 ![confirm screen unlock setup](https://images.wondershare.com/drfone/guide/remove-apple-id-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 6:** Enable the Two-Factor Authentication on your iPad so you can unlock your Apple ID. Then, click **Yes** to proceed.
 
 ![confirm two-factor authentication enabled](https://images.wondershare.com/drfone/guide/remove-apple-id-4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 7:** Follow the on-screen instructions to put your iPad in [<u>Recovery Mode</u>](https://drfone.wondershare.com/recovery-mode/iphone-stuck-in-recovery-mode.html).
 
 ![put device in recovery mode](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 8:** The next screen will demonstrate the **Device Model** information. Select an option from the **System Version** dropdown list and click **Start**.
 
@@ -485,10 +485,6 @@ Dr.Fone can bypass the Find My/Find My iPhone feature to remove your Apple ID fr
 - **Step 9:** The [<u>iOS firmware</u>](https://drfone.wondershare.com/ios-upgrade/how-to-upgrade-with-firmware-files.html) will start downloading, and you can see the progress on the next screen. If you're experiencing slow download speeds, click **Copy** to get the link and download it.
 
 ![firmware download in progress](https://images.wondershare.com/drfone/guide/unlock-ios-screen-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 10:** Review the **Device Model** and **System Version**, then click **Unlock Now** to proceed.
 
@@ -528,6 +524,10 @@ It's best practice for each family member to have their own Apple ID. Sharing on
 
 If not already enabled, turn on 2FA for an extra layer of security. It's simple and highly effective.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 **Changing your Apple ID on your iPad** or other iOS devices is a simple process that can help you protect your privacy and information. With the tips above, you can ensure your iOS data is safe and secure during the switch.
@@ -548,19 +548,22 @@ And if you need to remove your Apple ID without a password, Dr.Fone is a good op
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harmonizing-hues-in-online-beauty-videos/"><u>[Updated] 2024 Approved Harmonizing Hues in Online Beauty Videos</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-crafting-a-memorable-look-back-experience-on-fb-for-2024/"><u>[Updated] Crafting a Memorable Look Back Experience on FB for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/av1-vs-vp9-a-detailed-comparison-for-2024/"><u>AV1 Vs. VP9 A Detailed Comparison for 2024</u></a></li>
-<li><a href="https://fox-that.techidaily.com/bypassing-apples-refusal-of-payment-cards-a-guide-to-6-alternative-fixes/"><u>Bypassing Apple's Refusal of Payment Cards: A Guide to 6 Alternative Fixes</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/can-you-unlock-apple-iphone-14-pro-max-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>Can You Unlock Apple iPhone 14 Pro Max After Forgetting the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-13-pro-with-7-methods-drfone-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone 13 Pro With 7 Methods | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-xr-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone XR | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-iphone-15-pro-max-5-ways-to-get-into-a-locked-iphone-15-pro-max-drfone-by-drfone-ios/"><u>In 2024, Locked Out of iPhone 15 Pro Max? 5 Ways to get into a Locked iPhone 15 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/introduction-to-cinematic-graphics-techniques-for-2024/"><u>Introduction to Cinematic Graphics Techniques for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-xs-max-properly-drfone-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone XS Max Properly | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/smart-wearables-face-off-is-it-time-to-switch-from-an-apple-watch-series-eight-to-a-google-pixel-watch/"><u>Smart Wearables Face-Off: Is It Time to Switch From an Apple Watch Series Eight to a Google Pixel Watch?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/teslas-robotaxi-update-anticipated-cost-and-launch-details-revealed/"><u>Tesla's Robotaxi Update: Anticipated Cost & Launch Details Revealed</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-guide-to-earning-through-youtubing-enabling-monetization-on-mobile-devices-for-2024/"><u>The Ultimate Guide to Earning Through YouTubing Enabling Monetization on Mobile Devices for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/obile-access-to-all-you-love-best-download-tools-for-android-and-ios/"><u>[New] Mobile Access to All You Love Best Download Tools for Android and iOS</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-20-funny-tiktok-jokes-and-riddles-to-make-you-laugh-out/"><u>2024 Approved 20 Funny TikTok Jokes and Riddles to Make You Laugh Out</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-6-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone 6 without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-free-after-effects-title-templates/"><u>Best Free After Effects Title Templates</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-apple-iphone-6-plus-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For Apple iPhone 6 Plus Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/crash-no-more-patching-up-destiny-2s-beyond-light-expansion-for-a-smooth-experience-on-pc/"><u>Crash No More: Patching Up Destiny 2’S Beyond Light Expansion for a Smooth Experience on PC</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-apple-iphone-6s-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>How to Bypass Apple iPhone 6s Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-15-drfone-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-13-pro-max-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-xr-without-a-home-button-drfone-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone XR Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xs-max-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XS Max With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-9-zte-nubia-z60-ultra-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>In 2024, Top 9 ZTE Nubia Z60 Ultra Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/invest-in-stunning-gameplay-with-top-ultrawide-monitors/"><u>Invest in Stunning Gameplay with Top Ultrawide Monitors</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-stability-issues-how-to-prevent-stardew-valley-from-crashing/"><u>Overcoming Stability Issues - How to Prevent Stardew Valley From Crashing</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/secrets-of-success-converting-ipv-video-files-with-flair-for-2024/"><u>Secrets of Success Converting IPV Video Files with Flair for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/tips-for-emptying-your-youtubes-watch-later-queue-for-2024/"><u>Tips for Emptying Your YouTube's Watch Later Queue for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-8-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock Apple iPhone 8 Without Passcode Easily | Dr.fone</u></a></li>
 </ul></div>
 

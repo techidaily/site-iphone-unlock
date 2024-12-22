@@ -1,7 +1,7 @@
 ---
 title: Unlock Your Disabled iPhone 12 mini Without iTunes in 5 Ways | Dr.fone
-date: 2024-12-18T17:05:52.038Z
-updated: 2024-12-20T19:03:26.665Z
+date: 2024-12-17T23:50:02.453Z
+updated: 2024-12-22T00:17:49.082Z
 tags: 
   - unlock
   - remove screen lock
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/f6caddae96019a4142339a6d719f3ef49075dd557
 
 If you have forgotten the passcode of your Apple iPhone 12 mini or if your device has been disabled, then you have landed in the right place. There are multiple ways **how to unlock a disabled iPhone without iTunes**, and it is also workable for iPad disabled fix without iTunes. [Forgetting the passcode of your Apple iPhone 12 mini](https://drfone.wondershare.com/reset-iphone/how-to-reset-iphone-password.html) can sometimes incur tedious tasks. Though, one can easily fix a disabled iPhone or iPad without relying on iTunes. In this post, we will provide 5 solutions for a disabled iPhone fix without iTunes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: What Makes Your Apple iPhone 12 mini Disabled?
 
 Your iPhone can become disabled if you enter the wrong passcode too many times. This is a security measure designed to protect your device from unauthorized access. If this happens, your Apple iPhone 12 mini will display the message "iPhone is disabled." Sometimes, it may take up to an hour before you can try entering your passcode again.
@@ -28,10 +32,6 @@ There are several reasons why your Apple iPhone 12 mini may become disabled, inc
 2. **Software malfunction:** If your Apple iPhone 12 mini's software malfunctions, it may become disabled and require a restore.
 3. **Jailbreaking:** If you have jailbroken your Apple iPhone 12 mini and installed unauthorized software, it may cause your Apple iPhone 12 mini to become disabled.
 4. **Hardware issues:** If there are any hardware issues with your Apple iPhone 12 mini, it may cause it to become disabled.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: Why Not Use iTunes to Unlock Disabled iPhone?
 
@@ -136,10 +136,6 @@ Here's how to unlock your Apple iPhone 12 mini using Find My App:
 
 ![find my app](https://images.wondershare.com/drfone/article/2023/02/unlock-disabled-iphone-without-itunes-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 1.** Open the Find My App on your Apple iPhone 12 mini.
 - **Step 2.** Tap "Devices" from the bottom menu.
 - **Step 3.** Tap your Apple iPhone 12 mini from the list of devices.
@@ -165,6 +161,10 @@ Here's how to unlock your Apple iPhone 12 mini via Finder:
 
 ![finder](https://images.wondershare.com/drfone/article/2023/02/unlock-disabled-iphone-without-itunes-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 1.** Connect your Apple iPhone 12 mini to your Mac using a cable.
 - **Step 2.** Open the Finder app.
 - **Step 3.** Put your Disabled Apple iPhone 12 mini into recovery mode
@@ -180,10 +180,6 @@ Here's how to unlock your Apple iPhone 12 mini via Finder:
 **Cons**
 
 - Requires a Lightning cable and access to a Mac computer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 7: How to Unlock Disabled iPhone Without iTunes Using Siri?
 
@@ -205,13 +201,13 @@ Additionally, it was originally speculated as a loophole in iOS. Therefore, you 
 
 ![choose a city](https://images.wondershare.com/drfone/article/2017/07/14993657214728.jpg "choose a city")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4**. Afterward, you can find there various options like cut, copy, define, etc. Tap on the “**Share**” option.
 
 ![share content](https://images.wondershare.com/drfone/article/2017/07/14993657343482.jpg "share content")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5**. This will open another window, listing various options related to sharing. Tap on the Message icon to continue.
 
@@ -292,6 +288,10 @@ Moreover, there are more than a few simple methods for doing such. Also, you don
 
 Dr.Fone-Screen Unlock by Wondershare is an expert tool to remove such issues. It is a safe method for everyone new to the technical world. The process is basic, assuming you follow the step-by-step guide below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: 3 Methods to Unlock Disabled iPhone without a computer?
 
 ### 1\. "Erase iPhone" Option
@@ -342,6 +342,14 @@ To open iPhone through iCloud:
 
 ![use find my iphone](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-passcode-without-computer-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. Use Siri (Only for iOS 8.0 to 10.1)
 
 There is an issue with Siri that you can use **how to unlock iPhone passcode without computer**. This arrangement probably won't work consistently, yet it deserves checking out. The bug works on any phone running on iOS 8 up to iOS 10.1
@@ -359,6 +367,10 @@ There is an issue with Siri that you can use **how to unlock iPhone passcode wit
 
 - Click the "Select/Pick Photo" button to choose a photograph from your library. When the library opens, you can see the collections. Do not click anywhere. Wait for a couple of moments, and afterward, tap on the Home button. You will then access the Home screen. That's **how to unlock disabled iPhones without computer.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bonus Tips: Easy App to Unlock Your Apple iPhone 12 mini
 
 ### Dr.Fone-Screen Unlock
@@ -373,10 +385,6 @@ Run the Dr.Fone on your system and select the "Screen Unlock" option from the ma
 
 ![select screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Use a connector to connect your Apple iPhone 12 mini to the PC. After this, click the "Unlock iOS Screen" option on the program.
 
 ![unlock ios screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
@@ -386,6 +394,10 @@ Use a connector to connect your Apple iPhone 12 mini to the PC. After this, clic
 Before the Apple iPhone 12 mini lock screen removal, we need to boot the phone in Recovery or DFU. If you have to do so, follow the steps given in the image below:
 
 ![enter recovery mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 We suggest you open the recovery mode to remove the iOS screen lock. However, if you can't figure out how to do so, go for the DFU mode.
 
@@ -427,10 +439,6 @@ If you notice unusual login attempts or receive notifications from Apple about n
 
 ![apple id sign in request](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-password-02.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Unexpected Purchases**
 
 Unexplained app or content purchases on your account may indicate unauthorized access. Review your purchase history regularly.
@@ -448,10 +456,6 @@ Friends and family receiving strange emails from your Apple ID should raise susp
 To protect your account from unauthorized access, Apple may lock or disable your account if your password or other account information is entered incorrectly several times.
 
 ![apple id locked](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-password-03.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Now that you're aware of these signs, it's crucial to know **how to change your Apple ID password** to fortify your account's security. Don't worry; the next section will guide you through the process step by step.
 
@@ -484,6 +488,10 @@ If you're looking for a quick and easy way to update your password on your Apple
 
 ![change apple id password on iphone](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-password-04.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Verify your identity with your current password or device passcode. Then input a new password and re-enter it to confirm.
 - **Step 4:** Tap **Change Password** or **Change**.
 
@@ -506,6 +514,10 @@ Web browsers are available on a wider range of devices than iOS devices. If you 
 - **Step 2:** Click **Password** below the **Sign-In and Security section**.
 
 ![change apple id password on web](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-password-06.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Authenticate with the current Apple ID password, then enter a new password.
 - **Step 4:** Once confirmed, select **Change Password**.
@@ -547,10 +559,6 @@ If you prefer to use your desktop:
 - **Step 2:** Click **Sign in with your Apple ID** and click **Forgot password**.
 
 ![apple id sign in on mac](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-password-09.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 3:** Follow the on-screen instructions to reset your password or recover your account.
 
@@ -611,10 +619,6 @@ Dr.Fone is easy to use and intuitive, even for users with no technical experienc
 
 ![dr.fone select remove apple id](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 4:** For the question, "**Have you set up a screen lock on your Phone**?" click **Yes**. Then, on the next screen, click **Yes** again to verify you enabled the two-factor authentication.
 
 ![dr.fone confirm screen lock set up](https://images.wondershare.com/drfone/guide/remove-apple-id-3.png)
@@ -622,10 +626,6 @@ Dr.Fone is easy to use and intuitive, even for users with no technical experienc
 - **Step 5:** Follow the in-app instructions to put your iOS device into Recovery Mode.
 
 ![dr.fone in-app instructions for recovery mode](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 6:** Select an option from the **System Version** dropdown list for the **Device Model**, then click **Start**.
 
@@ -663,18 +663,16 @@ Creating a strong Apple ID password is simple: mix letters and numbers, make it 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/updated-how-to-write-compelling-podcast-narratives-and-examples-at-no-cost/"><u>[Updated] How to Write Compelling Podcast Narratives & Examples at No Cost</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-razers-hd-webcam-thorough-review-guide/"><u>[Updated] Razer's HD Webcam Thorough Review Guide</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-13-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 13 in Lost Mode | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/discover-the-best-5-pinterest-scheduling-solutions-for-efficient-content-planning/"><u>Discover the Best 5 Pinterest Scheduling Solutions for Efficient Content Planning</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-7-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone 7 After Forgetting my PIN Code? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-14-pro-max-drfone-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://common-error.techidaily.com/how-to-troubleshoot-a-display-driver-that-stopped-then-came-back-online/"><u>How to Troubleshoot a Display Driver That Stopped Then Came Back Online</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-iphone-6s-plus-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From iPhone 6s Plus? Complete Guide | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-your-oneplus-11-5gs-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>In 2024, Unlock Your OnePlus 11 5Gs Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-iphone-x-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>In 2024, Unlocking iPhone X Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/in-depth-solutions-for-overcoming-the-failed-service-startup-error-with-battleye-technology/"><u>In-Depth Solutions for Overcoming the 'Failed Service Startup' Error with BattlEye Technology</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/new-from-glitch-to-glory-how-to-reset-final-cut-pro-x-for-error-free-video-editing/"><u>New From Glitch to Glory How to Reset Final Cut Pro X for Error-Free Video Editing</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-xs-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-pinnacle-performances-in-figure-skate-22/"><u>[New] In 2024, Pinnacle Performances in Figure Skate '22</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-network-growth-strategy-share-twitch-live-links-on-fb/"><u>[New] Network Growth Strategy Share Twitch Live Links on FB</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-epic-escapades-10-roguelite-games-reviewed/"><u>[Updated] 2024 Approved Epic Escapades #10 Roguelite Games Reviewed</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-propel-promotions-with-select-words-and-phrases/"><u>[Updated] 2024 Approved Propel Promotions with Select Words and Phrases</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-6-without-itunes-drfone-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 6 Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-13-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone 13 in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-websites-and-software-to-add-frames-to-photos-for-2024/"><u>Best Websites and Software to Add Frames to Photos for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/hitching-a-ride-on-stream-success-obs-plus-zoom-for-2024/"><u>Hitching a Ride on Stream Success OBS + Zoom for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-15-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone 15 Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-se-2020-drfone-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/taming-your-pcs-heartbeat-high-cpu-usage-cut-with-resource-monitor/"><u>Taming Your PC's Heartbeat: High CPU Usage Cut with Resource Monitor</u></a></li>
 </ul></div>
 

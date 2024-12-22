@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Remove and Reset Face ID on Apple iPhone 8 Plus | Dr.fone
-date: 2024-10-02T23:14:23.378Z
-updated: 2024-10-08T23:16:47.938Z
+date: 2024-12-15T16:50:46.745Z
+updated: 2024-12-21T23:03:52.346Z
 tags: 
   - unlock
   - remove screen lock
@@ -29,6 +29,10 @@ If the new Apple iPhone 8 Plus is your first-ever iPhone, or if you have neither
 Face ID is an authentication system that came with iPhone X for the first time, and then the Apple iPhone 8 Plus 13, the Apple iPhone 8 Plus 14, and now the Apple iPhone 8 Plus 15. Like Touch ID that uses your fingerprints, Face ID uses your face metrics to authenticate you for everything, the way Touch ID does.
 
 Face ID is not a new and advanced version of Touch ID, but a completely different authentication system that utilizes a different component what Apple calls a TrueDepth camera to scan your face metrics. Face ID is not available on phones with Touch ID (iPhone SE 2022 today) and Touch ID is not available on iPhones that come with Face ID as their authentication mechanism.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part II: What Can You Do with Face ID?
 
@@ -98,6 +102,10 @@ Step 3: Toggle Attention Aware Features On.
 
 That‘s it. Now, when you get a call and your Apple iPhone 8 Plus 13 is ringing loud, looking at your Apple iPhone 8 Plus 13/12/11 will cause it to lower the volume. When an alarm goes off, you can lower the volume by simply looking at your Apple iPhone 8 Plus. Additionally, your Apple iPhone 8 Plus screen will not dim or switch off for the duration you are looking at it. This means you can now read those books on Kindle without constantly tapping the screen for it to stay awake.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### II.IV Filling Passwords in Safari Automatically Using Face ID
 
 Face ID also allows users to fill passwords in Safari automatically for a faster and more convenient login experience on your Apple iPhone 8 Plus with Face ID.
@@ -107,13 +115,6 @@ Step 1: Go to Settings > Face ID and Passcode and toggle Password Autofill On.
 Step 2: Now, when you use Safari to open a website that requires a login, tapping the username field or password field will bring up the keyboard, and on top of that keyboard there will be your credentials for the website if you have saved them in iCloud Passwords. Tap the credentials.
 
 Step 3: Look at your Apple iPhone 8 Plus to authenticate yourself with Face ID and Safari will autofill the credentials for you.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### II.V Animojis and Memojis
 
@@ -131,6 +132,10 @@ Step 2: Tap the Memoji button (a character in a yellow frame) and swipe to selec
 
 ![recording a memoji](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Tap the Record button and you now have 30 seconds to do what you want with your face and the character will reproduce it on screen for you.
 
 Step 4: When done, the Record button changes to Send:
@@ -138,6 +143,10 @@ Step 4: When done, the Record button changes to Send:
 ![sending a memoji](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-9.jpg)
 
 Tap Send to send your first Memoji/ Animoji.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part III: How to Remove Face ID on Apple iPhone 8 Plus
 
@@ -154,13 +163,6 @@ Step 1: Go to Settings > Face ID and Passcode.
 Step 2: Scroll and tap the option "Reset Face ID" to remove Face ID on your Apple iPhone 8 Plus 13/12/11.
 
 ![wa stickers](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-11.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part IV: How to Set Up Face ID on Your Apple iPhone 8 Plus
 
@@ -185,6 +187,10 @@ In case you are getting the following error:
 There are a few things you can try to resolve this, you can try to update your Apple iPhone 8 Plus 13/12/11 to the latest iOS. At this point, you may even try running a beta version to see if that helps. If you are running a beta version, you may downgrade back to the release version to see if that resolves the error. Betas can both make and break things.
 
 If this does not resolve it, you need to take the Apple iPhone 8 Plus device to the nearest service center. The TrueDepth camera system has components that might have been damaged or might not be working properly, for whatever reason, and the service personnel is equipped to resolve this issue for you at the earliest.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part V: The Bottom Line
 
@@ -234,6 +240,10 @@ You can watch the video below about how to unlock your Apple iPhone 8 Plus witho
 
 ![connect Apple iPhone 8 Plus to pc to get into locked Apple iPhone 8 Plus](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3.** Then on the next screen, this tool will prompt you to enter the DFU mode to continue.
 
 ![get into locked Apple iPhone 8 Plus by activating dfu mode](https://images.wondershare.com/drfone/drfone/ios-unlock-2.jpg)
@@ -241,13 +251,6 @@ You can watch the video below about how to unlock your Apple iPhone 8 Plus witho
 **Step 4.** Provide the essential details about your phone in the next window and Download the firmware update.
 
 ![download firmware to get into locked Apple iPhone 8 Plus](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 5.** Wait a moment until the download process is done, and then click on the “Unlock Now” button to activate the process.
 
@@ -257,22 +260,16 @@ You can watch the video below about how to unlock your Apple iPhone 8 Plus witho
 
 ![confirmation code to get into locked Apple iPhone 8 Plus](https://images.wondershare.com/drfone/drfone/ios-unlock-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 7.** Let the application resolve the issue on your phone. Once it is done, you will be notified that your lock screen is removed.
 
 ![got into locked Apple iPhone 8 Plus successfully](https://images.wondershare.com/drfone/drfone/ios-unlock-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to get into a locked Apple iPhone 8 Plus with iTunes?
@@ -292,20 +289,6 @@ This is another popular way to resolve the locked out of the Apple iPhone 8 Plus
 **Step 3.** Click on the “Restore” button. This would reset your device.
 
 ![restore Apple iPhone 8 Plus](https://images.wondershare.com/drfone/article/2017/07/14994495527134.jpg "restore Apple iPhone 8 Plus")
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 3: How to get into a locked Apple iPhone 8 Plus via Find My Apple iPhone 8 Plus?
 
@@ -354,6 +337,10 @@ If you don’t want to erase your device’s data while resolving this issue, yo
 **Step 8.** This will open another interface to add a new contact. From here, tap on the “Create new contact” option.
 
 ![create new contact](https://images.wondershare.com/drfone/article/2017/07/14994492596641.jpg "create new contact")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 9.** Instead of adding a contact, tap on the photo icon and select the “Choose Photo” option.
 
@@ -416,6 +403,10 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 ![add your glasses for face id](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After carefully following the steps mentioned above, you are ready to **unlock your Face ID with a mask**. Remember that Face ID will scan and focus mainly on your eyes and forehead. However, it cannot work in the scenarios if you have completely concealed your look by wearing hats or accessories that can hide your face.
 
 ## Part 2: How to Unlock iPhone Face ID Using Apple Watch
@@ -433,13 +424,6 @@ To enable the feature of unlocking the Apple iPhone 8 Plus with an Apple Watch, 
 **Step** **1:** Head to the " Settings " app and choose "Face ID & Passcode." Give your passcode for authenticity and proceed further.
 
 ![open iphone passcode settings](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-5.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step** **2:** Now, on the displayed menu, scroll down to the bottom, where you will see the toggle of "Unlock with Apple Watch." Tap on that toggle to enable this feature.
 
@@ -484,17 +468,22 @@ We all can relate that unlocking an iPhone on Face ID while wearing a face mask 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/xplore-9-simple-and-economical-editing-solutions-for-your-projects/"><u>[New] Explore 9 Simple & Economical Editing Solutions for Your Projects</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-methods-for-subtle-audio-softening-with-lumafusion/"><u>[Updated] 2024 Approved Methods for Subtle Audio Softening with Lumafusion</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-se-2022-and-ipad-securely-drfone-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone SE (2022) and iPad Securely | Dr.fone</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/beyond-limits-a-critical-look-at-panasonics-hx-a1-actionrecorder/"><u>Beyond Limits - A Critical Look at Panasonic’s HX-A1 ActionRecorder</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-13-mini-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-music-files-from-nokia-c300-by-fonelab-android-recover-music/"><u>How To Restore Missing Music Files from Nokia C300</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-7-plus-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock iPhone 7 Plus without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-honor-x9a-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Honor X9a to iPhone | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-iphone-se-2020-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone SE (2020) After Forgetting the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/in-2024-how-to-make-instagram-slow-motion-video/"><u>In 2024, How to Make Instagram Slow Motion Video</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/leading-mp4-companies-to-watch-for-2024/"><u>Leading MP4 Companies to Watch for 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/samsungs-dex-breakthrough-control-your-phone-on-windows-with-ease/"><u>Samsung’s DeX Breakthrough: Control Your Phone on Windows with Ease</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-essential-mobile-media-apps-for-high-quality-photographyvideography/"><u>[New] 2024 Approved Essential Mobile Media Apps for High-Quality Photography/Videography</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-how-to-multiply-engagement-on-your-instagram-story/"><u>[New] In 2024, How to Multiply Engagement on Your Instagram Story</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-achieve-higher-interactions-mastering-the-art-of-square-videos/"><u>[Updated] In 2024, Achieve Higher Interactions Mastering the Art of Square Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-the-step-by-step-guide-to-obs-streaming-success-for-2024/"><u>[Updated] The Step-by-Step Guide to OBS Streaming Success for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-14-plus-and-ipad-securely-drfone-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone 14 Plus and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/fix-and-fortify-the-ultimate-guide-to-resolving-iphone-app-crashes-top-10-fixes/"><u>Fix and Fortify: The Ultimate Guide to Resolving iPhone App Crashes (Top 10 Fixes)</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-12-pro-max-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 12 Pro Max Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-xr-drfone-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabled-iphone-se-how-to-unlock-a-disabled-iphone-se-drfone-by-drfone-ios/"><u>In 2024, Disabled iPhone SE How to Unlock a Disabled iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-se-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-12-pro-drfone-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-depth-look-at-the-onyx-boox-poke-5-is-it-worth-adding-to-your-reading-list/"><u>In-Depth Look at the Onyx Boox Poke 5 – Is It Worth Adding to Your Reading List?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-12-pro-max-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/pc-xbox-one-button-issues-resolved/"><u>PC Xbox One Button Issues Resolved</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshoot-and-enhance-your-skype-experience-in-windows-11/"><u>Troubleshoot and Enhance Your Skype Experience in Windows 11</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-solutions-for-overcoming-steam-virtual-reality-error-3ntry-308/"><u>Ultimate Solutions for Overcoming Steam Virtual Reality Error 3Ntry 308</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-13-pro-max-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 13 Pro Max i Do? Get Answers here | Dr.fone</u></a></li>
 </ul></div>
 

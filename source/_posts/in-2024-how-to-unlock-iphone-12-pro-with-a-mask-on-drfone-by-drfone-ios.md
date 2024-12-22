@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock iPhone 12 Pro with a Mask On | Dr.fone
-date: 2024-07-15T06:40:51.895Z
-updated: 2024-07-16T06:40:51.895Z
+date: 2024-12-18T19:06:29.674Z
+updated: 2024-12-21T16:42:15.348Z
 tags: 
   - unlock
   - remove screen lock
@@ -51,6 +51,10 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 ![enable face id with mask option](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step** **3:** Now, it's time to scan your face with your Apple iPhone 12 Pro to initiate the setup. Again, you don't have to wear a mask at this stage, as the Apple iPhone 12 Pro device's main focus while scanning would be the eyes. Also, if you wear glasses, you can proceed without taking them off.
 
 ![scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
@@ -79,18 +83,17 @@ To enable the feature of unlocking the Apple iPhone 12 Pro with an Apple Watch, 
 
 **Step** **2:** Now, on the displayed menu, scroll down to the bottom, where you will see the toggle of "Unlock with Apple Watch." Tap on that toggle to enable this feature.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enable apple watch unlock option](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After enabling this feature, you can unlock your Apple iPhone 12 Pro with a mask on through your Apple Watch. You need to grab your phone and hold it the same way you would in a normal Face ID scan. The phone will be unlocked, and you will feel a slight vibration on the wrist. Also, a notification will pop up on your watch, indicating that your Apple iPhone 12 Pro has been unlocked.
 
 ## Bonus Tips: Unlock iPhone Without Any Experience
 
 Are you stuck with your locked iPhone? Don't worry, as [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) can unlock any screen passcode, Face ID, Touch ID, and PINs. You don't need any technical experience to use this tool, as the user interface is pretty simple and understandable. Moreover, it works perfectly well on all iOS devices at the best possible speed.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -110,6 +113,10 @@ You can also unlock Apple ID and iCloud passwords without losing the data. Also,
 ## Conclusion
 
 We all can relate that unlocking an iPhone on Face ID while wearing a face mask in a pandemic era is annoying. That's why Apple introduced a new feature of unlocking the Apple iPhone 12 Pro Face ID with a mask on to help individuals who rely entirely on Face ID. Find out about enabling this feature to easily unlock your Apple iPhone 12 Pro Face ID while wearing a mask.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How To Change Country on App Store for Apple iPhone 12 Pro With 7 Methods
 
@@ -160,6 +167,10 @@ To change your Apple ID region via Mac/Windows, follow these steps:
 
 ![change country on mac](https://images.wondershare.com/drfone/article/2023/10/change-app-store-country-04.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 3: Changing Apple ID Region via Web
 
 The steps below are to change your Apple ID region via the web.
@@ -168,6 +179,10 @@ The steps below are to change your Apple ID region via the web.
 - **Step 2:** Under **Personal Information**, click the **Country/Region** button. Next, click the **Change country or region** and choose your preferred country.
 
 ![change country on web](https://images.wondershare.com/drfone/article/2023/10/change-app-store-country-05.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: Leaving a Family-Sharing Group
 
@@ -186,6 +201,10 @@ If you have any subscriptions, you must cancel them before **changing your App S
 - **Step 2:** Tap **Subscriptions** > **Cancel** **Subscription.** Once you cancel all of your subscriptions, you can change your App Store country.
 
 ![cancel all subscriptions on iphone](https://images.wondershare.com/drfone/article/2023/10/change-app-store-country-07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 6: Using a VPN
 
@@ -209,11 +228,11 @@ Sometimes, changing your App Store country can lead to issues. It can lock you o
 
 Dr.Fone - Screen Unlock (iOS) helps you regain access to your Apple ID and fix any login-related problems. It ensures that you can continue enjoying your App Store without any hindrance. It's a safe and reliable software tool that is used by millions of people to unlock their devices. It is also easy to use, even if you are not tech-savvy.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone main window](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Features
 
@@ -222,6 +241,10 @@ Dr.Fone - Screen Unlock (iOS) is a powerful tool that can help you to:
 - **Unlock iOS Device Without Passcode.**Regain [<u>access to your locked iPhone or iPad without needing the passcode</u>](https://drfone.wondershare.com/unlock/how-to-sign-out-of-apple-id-without-password.html).
 - **Remove All Lock Screen Types.**Versatile unlock support for 4-digit/6-digit passcodes, Touch ID, and Face ID lock screens.
 - **Unlock Apple ID Without Password.**Effortlessly unlock your Apple ID without requiring the password, simplifying access.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How To Unlock Your Apple iPhone 12 Pro in Seconds
 
@@ -242,20 +265,13 @@ Dr.Fone's Screen Unlock tool offers a streamlined solution to get you back into 
 
 When **changing the App Store country on your Apple iPhone 12 Pro**, it's important to consider Apple ID access issues. You never know when you will get locked out or suddenly forget your password. Wondershare Dr.Fone - Screen Unlock (iOS) offers a reliable solution during these instances. The tool ensures uninterrupted access to your App Store and Apple ID account, making it a valuable resource for managing your digital experience seamlessly.
 
-
-
 ## 3 Ways to Erase Apple iPhone 12 Pro When It's Locked Within Seconds
 
 Over the last few years, Apple has made remarkable progress with its flagship iPhone series. There are plenty of ways for users to back up, erase, and restore their data. It doesn’t matter if you are moving from one device to another or would like to reset your phone. You should know how to erase iPhone when locked. Too many times, after getting locked out of their device, users find it hard to wipe locked iPhone. If you are also going through the same dilemma, then don’t worry. Read on and learn how to wipe a locked iPhone in this extensive guide.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1: Erase locked iPhone with Dr.Fone - Screen Unlock (iOS)
 
 One of the best ways to wipe locked iPhone is by using [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) tool. It is an extremely secure and reliable application. It is already compatible with every leading version of iOS and runs on almost all major iOS devices. Available for both Windows and Mac, the tool can be used to remove activation lock and Apple ID. The tool also provides an easy-to-use interface that can help you reset [the activation lock](https://drfone.wondershare.com/icloud/bypass-icloud-activation.html) on your device.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -276,6 +292,10 @@ Start by downloading Dr.Fone - Screen Unlock (iOS) from its official website. In
 
 ![erase iphone when locked-Dr.Fone toolkit](https://images.wondershare.com/drfone/guide/drfone-home.png "Dr.Fone toolkit")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2. Click Start button.**
 
 Wait for a while as the application will automatically recognize your phone. Click on the “Start” button to commence the process.
@@ -287,6 +307,10 @@ Wait for a while as the application will automatically recognize your phone. Cli
 Follow the on-screen instructions to put your phone into the DFU (Device Firmware Update) mode. It can be done by pressing the Home and Power button simultaneously for 10 seconds. Afterward, it would help if you released the Power button while pressing the Home button for another 5 seconds.
 
 ![erase iphone when locked-boot in DFU mode](https://images.wondershare.com/drfone/drfone/ios-unlock-2.jpg "boot in DFU mode")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4. Download firmware package.**
 
@@ -308,9 +332,6 @@ Once it is done, the application will automatically start resolving the issue on
 
 After completing the operation successfully, the interface will provide the following message.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![erase iphone when locked-repair system complete](https://images.wondershare.com/drfone/drfone/ios-unlock-7.jpg "repair system complete")
 
 You can check if you can unlock your phone or not. If you still have an issue, then click on the “Try Again” button. Else, you can safely remove your phone and use it without any constraint. By following this method, you would learn how to wipe a locked iPhone with Dr.Fone - Screen Unlock (iOS).
@@ -345,9 +366,6 @@ If you haven’t already taken a backup of your phone, then you might find it ha
 
 2\. Under the “All Devices” section, you can choose the Apple iPhone 12 Pro you wish to reset.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![erase iphone when locked-all devices](https://images.wondershare.com/drfone/article/2017/07/14993649689013.jpg "all devices")
 
 3\. After selecting your device, you will be presented with various options. Select the “Erase iPhone” feature to reset your device.
@@ -357,7 +375,6 @@ If you haven’t already taken a backup of your phone, then you might find it ha
 Confirm your choice and wipe locked iPhone remotely using the Find My iPhone feature on iCloud.
 
 After following this informative guide, you would learn how to wipe a locked iPhone without any trouble. Go ahead and pick your preferred option to wipe locked iPhone. We recommend using Dr.Fone - Screen Unlock (iOS) to resolve this issue securely. Though, if you wish to do it remotely, then you can also give Find My iPhone a try as well. If you are familiar with any other reliable method, please let us know how to erase iPhone when locked in the comments below.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -371,9 +388,23 @@ After following this informative guide, you would learn how to wipe a locked iPh
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-invisible-edits-ensuring-confidentiality-in-media/"><u>[Updated] 2024 Approved Invisible Edits Ensuring Confidentiality in Media</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-time-warp-techniques-harnessing-classic-80s-visual-flair-in-videos/"><u>2024 Approved Time Warp Techniques Harnessing Classic 80S Visual Flair in Videos</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabled-iphone-xs-max-how-to-unlock-a-disabled-iphone-xs-max-drfone-by-drfone-ios/"><u>Disabled iPhone XS Max How to Unlock a Disabled iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/tial-youtube-equipment-for-starting-your-channel-what-do-you-really-need/"><u>Essential YouTube Equipment For Starting Your Channel - What Do You Really Need?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-13-mini-drfone-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-iphone-6s-plusipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled iPhone 6s Plus/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-7-plus-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone 7 Plus Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabling-iphone-7-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>In 2024, Disabling iPhone 7 Parental Restrictions With/Without Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-apple-iphone-8-plus-drfone-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-trouble-with-iphone-12-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>In 2024, Trouble with iPhone 12 Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Vivo X100? | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/is-there-a-cause-for-concern-with-openais-management-of-chatgpt/"><u>Is There a Cause for Concern with OpenAI's Management of ChatGPT?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-the-market-5-crucial-considerations-for-buying-a-new-console/"><u>Navigating the Market: 5 Crucial Considerations for Buying a New Console</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/techniques-for-transforming-facespace-lives-into-tv-content-for-2024/"><u>Techniques for Transforming Facespace Lives Into TV Content for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-honor-play-8t-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Honor Play 8T for Streaming | Dr.fone</u></a></li>
+</ul></div>
 

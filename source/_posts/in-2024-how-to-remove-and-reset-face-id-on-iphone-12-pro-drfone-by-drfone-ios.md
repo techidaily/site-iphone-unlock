@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Remove and Reset Face ID on iPhone 12 Pro | Dr.fone
-date: 2024-10-07T20:17:04.999Z
-updated: 2024-10-08T17:40:13.828Z
+date: 2024-12-17T16:46:02.666Z
+updated: 2024-12-21T19:09:14.977Z
 tags: 
   - unlock
   - remove screen lock
@@ -44,23 +44,9 @@ Step 2: Look at the iPhone.
 
 ![unlocking iphone 13 with face id](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 When the lock symbol changes to the unlocked position, you can swipe up to unlock your Apple iPhone 12 Pro using Face ID and get to the Home Screen.
 
 Note that Face ID will not work in landscape mode on an iPhone.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### II.II Making Purchases Using Face ID on Your Apple iPhone 12 Pro
 
@@ -182,6 +168,10 @@ In case you are getting the following error:
 
 ![face id error](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-12.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 There are a few things you can try to resolve this, you can try to update your Apple iPhone 12 Pro 13/12/11 to the latest iOS. At this point, you may even try running a beta version to see if that helps. If you are running a beta version, you may downgrade back to the release version to see if that resolves the error. Betas can both make and break things.
 
 If this does not resolve it, you need to take the Apple iPhone 12 Pro device to the nearest service center. The TrueDepth camera system has components that might have been damaged or might not be working properly, for whatever reason, and the service personnel is equipped to resolve this issue for you at the earliest.
@@ -241,6 +231,10 @@ Configuring the Outlook mail app to fetch emails too frequently causes the issue
 
 The smooth functioning of the Mail app may be disrupted by problems and malfunctions present in the iOS software. Compatibility issues could emerge if your device is not operating on the latest iOS version.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2. \[Fixes\] Solve iPhone/iPad Keeps Asking for Outlook Password
 
 Now that we have explored why the **iPad keeps asking for an Outlook password**, it is time for practical solutions. These 13 fixes discussed below are designed to address the root causes comprehensively:
@@ -264,13 +258,6 @@ Sometimes, the email service provider may force users to change their passwords 
 - **Step 1.** Open your preferred web browser and go to the Outlook login page. Sign in to your Outlook account, locate, and click on your profile picture in the upper-right corner. There, click "My Profile," and on the next screen, tap "Change Password" near the upper right corner.
 
 ![access my profile outlook web](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 - **Step 2.** Upon reaching the verification page, provide your password and tap the "Sign In" button. Afterward, you will be asked for other verification methods. Upon verifying, the "Change your password" window will appear. Here, you will need to enter your "Current password," "New password," and re-enter it to proceed. Then, hit the "Save" button, and your password will be changed.
 
@@ -296,6 +283,10 @@ A strategic approach to resolving authentication issues involves using the Mail 
 
 ![toggle on off mail switch](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5. Delete and Re-Insert Outlook Account
 
 Deleting and re-inserting your Outlook account on your Apple iPhone 12 Pro can provide a fresh start to the email integration. Follow these steps if the persistent **iPhone keeps asking for an Outlook password:**
@@ -307,13 +298,6 @@ Deleting and re-inserting your Outlook account on your Apple iPhone 12 Pro can p
 - **Step 2.** Once you have deleted the account, return to the "Accounts" tab. Select "Outlook.com" after tapping on "Add Account." Now, follow the on-screen instructions to re-enter your account details.
 
 ![add outlook account](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-10.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6. Re-Check Sync Settings
 
@@ -334,6 +318,10 @@ Is the Outlook app generally showing a lot of glitches on your Apple iPhone 12 P
 **Instructions:** On your Apple iPhone 12 Pro's home screen, navigate to the Outlook mail app. Long-press the Outlook app icon and choose "Remove App" from the pop-up menu. Then, tap "Delete App" and follow it by pressing "Delete" to uninstall the app. Afterward, access the App Store and download the Microsoft Outlook app again.
 
 ![remove outlook app from device](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8. Update iOS From Settings
 
@@ -415,6 +403,10 @@ The **iPhone keeps asking for an Outlook password**, which isn't the only passwo
 
 It can remove lock screens on your Apple iPhone 12 Pro, iPad, and iPod. You can say goodbye to the hassle of dealing with [<u>iCloud activation locks</u>](https://drfone.wondershare.com/icloud/unlock-icloud-activation.html). Moreover, it helps remove your Apple ID if you have [<u>forgotten your Apple ID password</u>](https://drfone.wondershare.com/reset-iphone/reset-iphone-without-apple-id.html). Dr.Fone allows you to bypass them effortlessly without requiring a password.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Prime Features of Wondershare Dr.Fone
 
 1. It can circumvent Mobile Device Management and screen time restrictions without data loss.
@@ -424,10 +416,7 @@ It can remove lock screens on your Apple iPhone 12 Pro, iPad, and iPod. You can 
 <iframe width="100%" height="450" src="https://www.youtube.com/embed/TQnsFr9oUHA" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Steps To Unlock Your Apple iPhone 12 Pro via Wondershare Dr.Fone
@@ -440,6 +429,10 @@ Once you've launched Dr.Fone on your computer, go to Toolbox. Here, tap "Screen 
 
 ![select unlock ios screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Step 2: Initiating iPhone Recovery Mode and Device Identification
 
 Subsequently, you need to place your Apple iPhone 12 Pro into Recovery Mode. Adhere to the on-screen instructions corresponding to the model of your iDevice. Afterward, the tool will automatically detect the "Device Model." If necessary, adjust the model and choose the "System Version." Once these steps are completed, click "Start" to initiate the unlocking process.
@@ -451,6 +444,10 @@ Subsequently, you need to place your Apple iPhone 12 Pro into Recovery Mode. Adh
 Monitor the iOS firmware download progress on the screen. After successful download and verification, proceed by selecting "Unlock Now." A confirmation window will appear, prompting you to input the necessary code. Enter the code and tap Unlock to proceed to the outcome. Upon unlocking the iDevice, click the “Done” button to finalize the process.
 
 ![enter code to unlock device](https://images.wondershare.com/drfone/guide/unlock-ios-screen-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -484,6 +481,10 @@ If you find this warning annoying or your Apple iPhone 12 Pro not charging when 
 After completing all the steps, your Apple iPhone 12 Pro can connect USB accessories anytime, anywhere. However, it is very common to forget to unlock the passcode. Next, we will recommend four solutions to help you use USB accessories without a passcode.
 
 ![usb-restricted-mode](https://images.wondershare.com/drfone/unlock-new/unlock-usb/usb-restricted-mode.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Unlock Apple iPhone 12 Pro to Use USB Accessories without Passcode via Dr.Fone?
 
@@ -546,14 +547,11 @@ There is currently no way to unlock an iPhone without erasing all data. Luckily,
 
 ![itunes-restore](https://images.wondershare.com/drfone/unlock-new/unlock-usb/itunes-restore.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Wait for a while and you could unlock the screen to use USB accessories. However, in step one, you may need to enter your passcode to get stuck during the process. Therefore, this method is not the most efficient.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 6: How to Unlock Apple iPhone 12 Pro to Use USB Accessories without Passcode via Recovery Mode?
 
@@ -597,25 +595,11 @@ It is related to the capacity of the charger. If a low-capacity charger is used,
 
 If it doesn’t work, please contact customer service of Apple.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Conclusion
 
 It is very common to use USB accessories to connect iPhone and computer. Sometimes, we may forget the password, or cannot unlock the screen due to system failure. There are many ways to unlock Apple iPhone 12 Pro to use the accessories in the article. Finally, we recommend everyone to use Dr.Fone - Screen Unlock, a helpful and convenient tool.
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
-  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -631,24 +615,15 @@ It is very common to use USB accessories to connect iPhone and computer. Sometim
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-mastering-the-art-of-laptop-video-capturing/"><u>[New] 2024 Approved Mastering the Art of Laptop Video Capturing</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-capture-the-crown-of-highlights-iosandroid-covers/"><u>[New] In 2024, Capture the Crown of Highlights IOS/Android Covers</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-mastering-pip-mode-with-youtube-on-your-iphone-device/"><u>[New] Mastering PIP Mode with YouTube on Your iPhone Device</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-decoding-the-secret-of-instagrams-video-cap/"><u>[Updated] 2024 Approved Decoding the Secret of Instagram's Video Cap</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-leading-psp-ios-game-simulators-our-2023s-choices/"><u>2024 Approved Leading PSP iOS Game Simulators - Our 2023'S Choices</u></a></li>
-<li><a href="https://facebook.techidaily.com/fostering-friendship-safe-social-media-etiquette/"><u>Fostering Friendship: Safe Social Media Etiquette</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-apple-iphone-14-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on Apple iPhone 14 | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-apple-iphone-6-plus-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on Apple iPhone 6 Plus With or Without Password | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-get-started-with-pokemon-unite-gaming-on-desktop-pcs/"><u>How to Get Started with Pokémon Unite Gaming on Desktop PCs</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-15-pro-max-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone 15 Pro Max when Phone is Broken? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-11-pro-drfone-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone 11 Pro? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-iphone-14-plus-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 14 Plus After Forgetting the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-foremost-virtual-environments-providers/"><u>In 2024, Foremost Virtual Environments Providers</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-full-guide-to-unlock-iphone-x-with-itunes-drfone-by-drfone-ios/"><u>In 2024, Full Guide to Unlock iPhone X with iTunes | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-15-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone 15 Lock Screen with Notifications? | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-lava-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Lava</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-14-plus-prevention-and-solution-drfone-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone 14 Plus Prevention & Solution | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-iphone-14-plus-5-ways-to-get-into-a-locked-iphone-14-plus-drfone-by-drfone-ios/"><u>Locked Out of iPhone 14 Plus? 5 Ways to get into a Locked iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/media-streamlining-is-a-podcast-or-youtube-better-for-you/"><u>Media Streamlining Is a Podcast or YouTube Better for You?</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-step-by-step-ppt-and-vo-integration-tutorial/"><u>[Updated] In 2024, Step-by-Step PPT & VO Integration Tutorial</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagram-video-limits-explained-in-detail/"><u>[Updated] Instagram Video Limits Explained in Detail</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-15-pro-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone 15 Pro Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-iphone-11-pro-max-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-15-plus-with-7-methods-drfone-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone 15 Plus With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-iphone-12-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From iPhone 12? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-vivo-s18-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Vivo S18 Pro without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://os-tips.techidaily.com/step-by-step-guide-customizing-your-iphone-lock-screen-with-text/"><u>Step-by-Step Guide: Customizing Your iPhone Lock Screen with Text</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/taming-high-cpu-use-through-windows-pause-signals/"><u>Taming High CPU Use Through Windows Pause Signals</u></a></li>
 </ul></div>
 

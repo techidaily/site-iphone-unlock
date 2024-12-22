@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock iPhone XS Max with a Mask On | Dr.fone
-date: 2024-12-06T18:52:59.972Z
-updated: 2024-12-12T18:21:38.168Z
+date: 2024-12-18T20:33:13.280Z
+updated: 2024-12-22T02:34:09.460Z
 tags: 
   - unlock
   - remove screen lock
@@ -56,7 +56,7 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 ![scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4:** After scanning your face twice, select "Add Glasses" by tapping on it. You can use your Face ID while wearing your regular glasses. Make sure that you scan your face with every pair of glasses daily.
@@ -100,6 +100,10 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 - Works for all models of iPhone, iPad and iPod touch.
 - Fully compatible with the latest iOS 11,12,13.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3981454** people have downloaded it
 
 <iframe width="100%" height="450" type="text/html" src="https://www.youtube.com/embed/qxEIOKjeNZE" frameborder="0"></iframe>
@@ -109,10 +113,6 @@ You can also unlock Apple ID and iCloud passwords without losing the data. Also,
 ## Conclusion
 
 We all can relate that unlocking an iPhone on Face ID while wearing a face mask in a pandemic era is annoying. That's why Apple introduced a new feature of unlocking the Apple iPhone XS Max Face ID with a mask on to help individuals who rely entirely on Face ID. Find out about enabling this feature to easily unlock your Apple iPhone XS Max Face ID while wearing a mask.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How To Remove Flashlight From Apple iPhone XS Max Lock Screen
 
@@ -229,13 +229,13 @@ Forgotten passcodes and iCloud Activation Lock can leave you feeling shut out. T
 
 ![start to remove ios screen lock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 4:** Get your Apple iPhone XS Max and a USB cable. Connect the phone to your computer and wait for Dr.Fone to recognize it. Next, put your Apple iPhone XS Max into Recovery Mode using specific button combinations for your model.
 
 ![on screen instructions for recovery mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 5:** Check your **Device Model**, select the **System Version** you need from the dropdown list, then click **Start**.
 
@@ -245,12 +245,16 @@ Forgotten passcodes and iCloud Activation Lock can leave you feeling shut out. T
 
 ![dr.fone downloading ios firmware](https://images.wondershare.com/drfone/guide/unlock-ios-screen-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 7:** Once the process is complete, Dr.Fone will notify you. Your Apple iPhone XS Max should be unlocked and ready for you to set it up again with your preferred settings and Apple ID.
 
 ![dr.fone removed ios lock screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -268,10 +272,6 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 [![drfone](https://drfone.wondershare.com/daisy-raine.jpg)](https://drfone.wondershare.com/author/daisy-raine/)
 
 Did you go wrong when you set the Face ID the first time? Or are you tired to put off the mask to use Face ID to unlock your Apple iPhone XS Max? And now, you want to disable the Face ID. Whatever your reasons are, read this article to learn **how to remove Face ID** on your Apple iPhone XS Max X, iPhone XS, iPhone XR or iPhone 11, iPhone 12, iPhone 13, iPhone 14, anmd iPhone 15.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part I: What is Face ID?
 
@@ -297,9 +297,17 @@ Step 2: Look at the iPhone.
 
 ![unlocking iphone 13 with face id](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 When the lock symbol changes to the unlocked position, you can swipe up to unlock your Apple iPhone XS Max using Face ID and get to the Home Screen.
 
 Note that Face ID will not work in landscape mode on an iPhone.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### II.II Making Purchases Using Face ID on Your Apple iPhone XS Max
 
@@ -315,6 +323,10 @@ Step 2: On any of these stores, when you tap on the option to buy some content, 
 
 ![make purchases with face id](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The instructions are simple: press the side button twice to authenticate yourself using your Face ID and make the purchase.
 
 When done, a satisfying ting and a checkmark will confirm the action.
@@ -326,7 +338,7 @@ Step 1: If Apple Pay is supported by banking institutions in your country, you c
 ![an apple aard in wallet app](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-5.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 2: When a card is added and ready to use, check that Apple Pay is enabled under Settings > Face ID and Passcode.
@@ -365,15 +377,15 @@ Step 2: Now, when you use Safari to open a website that requires a login, tappin
 
 Step 3: Look at your Apple iPhone XS Max to authenticate yourself with Face ID and Safari will autofill the credentials for you.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### II.V Animojis and Memojis
 
 Up until now, we saw how Face ID enables productivity features and how convenient it is to use it. Now, we come to the fun part - Animojis. Apple launched Face ID in 2017 on the Apple iPhone XS Max X with much fanfare and a huge part of that fanfare was Animojis. Over time, Apple brought new capabilities to the Apple iPhone XS Max and added Memojis alongside Animojis.
 
 ![animojis and memojis](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Animojis are animated emojis. These are made possible with advanced algorithms enabled by the TrueDepth camera in Face ID. Animated emojis or Animojis can mimic your facial expressions and you can use them in your message conversations in apps.
 
@@ -392,10 +404,6 @@ Step 4: When done, the Record button changes to Send:
 ![sending a memoji](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-9.jpg)
 
 Tap Send to send your first Memoji/ Animoji.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part III: How to Remove Face ID on Apple iPhone XS Max
 
@@ -437,10 +445,6 @@ There are a few things you can try to resolve this, you can try to update your A
 
 If this does not resolve it, you need to take the Apple iPhone XS Max device to the nearest service center. The TrueDepth camera system has components that might have been damaged or might not be working properly, for whatever reason, and the service personnel is equipped to resolve this issue for you at the earliest.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part V: The Bottom Line
 
 Face ID is more than a nifty authentication system in iPhones (and iPads) and brings some unique features that are not found in previous Touch ID enabled devices and enable the users to interact with people (Animojis and Memojis) and with the Apple iPhone XS Max (user authentication via facial metrics, Attention Aware features) in new ways. There are times when this does not work as expected, and you can reset and remove Face ID if you feel this is not your cup of tea. Apple iPhone XS Max can be used solely with passcodes if you want. If you find that your screen is locked and you can‘t unlock it, you can always find help in tools such as Dr.Fone - Screen Unlock (iOS). So go ahead, use the new Face ID on your Apple iPhone XS Max with confidence, and enjoy a more secure experience on your new iPhone than ever before.
@@ -453,10 +457,6 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 - Unlock screen passwords from all iPhone and iPad.
 - No tech knowledge required, everybody can handle it.
 - Supports iPhone 13/ iPhone XS (Max) / iPhone XR / iPhone X / 8 (Plus)/ iPhone 7(Plus)/ iPhone6s(Plus), iPhone SE and the latest iOS version fully!![New icon](https://images.wondershare.com/drfone/others/new_23.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4,395,217** people have downloaded it
 
@@ -474,20 +474,19 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-engaging-strategies-to-enlarge-your-instagram-base/"><u>[Updated] Engaging Strategies to Enlarge Your Instagram Base</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-mastering-youtube-standard-studio-or-beta-progress/"><u>[Updated] Mastering YouTube Standard Studio or Beta Progress</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-smartphones-with-superior-video-recording-features/"><u>[Updated] Smartphones with Superior Video Recording Features</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-dynamic-background-adaptation-in-microsoft-teams-beforeafter-calls/"><u>2024 Approved Dynamic Background Adaptation in Microsoft Teams Before/After Calls</u></a></li>
-<li><a href="https://ai-video-translation.techidaily.com/a-comprehensive-guide-for-free-video-translator-downloading/"><u>A Comprehensive Guide for Free Video Translator Downloading</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/declutter-your-tiktok-library-editing-tips-inside/"><u>Declutter Your TikTok Library - Editing Tips Inside</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-apple-iphone-7-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>How to Bypass Apple iPhone 7 Passcode Easily Video Inside | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-13-pro-max-without-itunes-drfone-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 13 Pro Max Without iTunes | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-disabled-apple-iphone-14ipad-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Disabled Apple iPhone 14/iPad Without Computer | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-mini-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 mini without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-xr-properly-drfone-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone XR Properly | Dr.fone</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/lava-yuva-2-pro-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Lava Yuva 2 Pro Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-x-properly-drfone-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone X Properly | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/locked-out-of-apple-iphone-15-plus-5-ways-to-get-into-a-locked-apple-iphone-15-plus-drfone-by-drfone-ios/"><u>Locked Out of Apple iPhone 15 Plus? 5 Ways to get into a Locked Apple iPhone 15 Plus | Dr.fone</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/the-influencers-roadmap-instagram-edition/"><u>The Influencer's Roadmap Instagram Edition</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-ultimate-storage-solution-for-sony-a7s-ii/"><u>[Updated] 2024 Approved Ultimate Storage Solution for Sony A7S II</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-elevate-your-income-with-proven-vimeo-advertising-strategies-for-2024/"><u>[Updated] Elevate Your Income with Proven Vimeo Advertising Strategies for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-instagram-qanda-beyond-basic-usage/"><u>2024 Approved Instagram Q&A Beyond Basic Usage</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-unlock-creativity-top-8-online-resources-for-beginners/"><u>2024 Approved Unlock Creativity Top 8 Online Resources for Beginners</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-erase-iphone-xr-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>3 Ways to Erase iPhone XR When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-apple-iphone-8-plus-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock Apple iPhone 8 Plus Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-iphone-6-plus-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock iPhone 6 Plus with iTunes | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/image-magic-top-10-frame-enhancement-tools-online/"><u>Image Magic Top 10 Frame-Enhancement Tools Online</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-ballot-bonanza-5-best-political-game-line-ups/"><u>In 2024, Ballot Bonanza 5 Best Political Game Line-Ups</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-se-2020-passcode-not-working-drfone-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone SE (2020) Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XS without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/sky-perspectives-in-stunning-hd-a-mi-drone-reality/"><u>Sky Perspectives in Stunning HD A Mi Drone Reality</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/the-complete-guide-to-the-gaomon-pd1560-drawing-pad-and-its-stylus-features-reviewed/"><u>The Complete Guide to the Gaomon PD1560 Drawing Pad and Its Stylus Features Reviewed</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-12-mini-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>Unlock iPhone 12 mini With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
 </ul></div>
 
