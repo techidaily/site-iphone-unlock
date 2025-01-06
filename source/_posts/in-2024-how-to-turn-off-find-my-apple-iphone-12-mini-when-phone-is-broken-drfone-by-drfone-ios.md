@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Turn Off Find My Apple iPhone 12 mini when Phone is Broken? | Dr.fone
-date: 2024-07-15T06:28:31.056Z
-updated: 2024-07-16T06:28:31.056Z
+date: 2024-12-30T01:12:11.688Z
+updated: 2025-01-05T22:23:48.113Z
 tags: 
   - unlock
   - remove screen lock
@@ -32,8 +32,6 @@ The best part about this application is that it is free of cost. It usually come
 
 [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is an excellent data recovery and management software created by Wondershare. However, limiting it to just recovery and management of data will not be just as it offers much more than just that. Transferring files, repairing the operating system, changing the GPS location, and fixing the activation lock are its amazing services.
 
-
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Turning Off Find My iPhone Within Second.
@@ -56,6 +54,10 @@ Launch Wondershare Dr.Fone on your computer and connect your Apple iPhone 12 min
 Open Wondershare Dr.Fone and select “Screen Unlock” among the other options on the home interface. Now another interface will appear displaying four options. Click on "Unlock Apple ID."
 
 ![select unlock apple id option](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3: Remove Active Lock**
 
@@ -107,9 +109,6 @@ Here we have explained to you step by step how to turn off Find My iPhone on bro
 
 **Step 4:** Once your device is removed from the account, a window will pop up asking you to delete the option of that device from your iCloud account. Now you may log in Find My iPhone with your iCloud account on another device.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![confirm removal](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-3.jpg)
 
 ## Part 4: Turn off Find My iPhone using Recovery Mode
@@ -138,13 +137,18 @@ Once your Apple iPhone 12 mini shows the Apple logo, it means the Recovery Mode 
 
 Now we’re done as we’ve provided you the best possible solutions to turn off Find My iPhone when your Apple iPhone 12 mini is broken. It is obvious that it is a quite complicated process, but you have to be patient and follow the steps correctly to disable Find My Apple iPhone 12 mini to avoid any inconvenience in the future. We hope this article answers all your queries regarding it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Unlock Apple iPhone 12 mini, Apple's New iPhone
 
 It has happened to all of us at some point in the other. The chances of it happening are notoriously higher when you just started using it. We are talking of passcodes on iPhones. Apple requires setting up a 6-digit passcode to use some features such as Face ID on your Apple iPhone 12 mini. So, you thought it was a great idea to set up your new Apple iPhone 12 mini with a new passcode, right? The only problem is that the 6 digits you thought are bulletproof and no one will be able to come up with them in relation to you, are not coming to you either. You forgot the newly set passcode, entered the incorrect passcode more times than the software was happy about, and the Apple iPhone 12 mini is locked now. What to do? Read on.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part I: Why Is Your Apple iPhone 12 mini Locked?
 
 There can be a few reasons why your Apple iPhone 12 mini is locked, the primary ones being that you bought a second-hand Apple iPhone 12 mini from someone who set it up with a passcode and decided it wasn't for them and was nonchalant enough to sell it to you without removing the passcode from the Apple iPhone 12 mini, or that you forgot the passcode to your new Apple iPhone 12 mini and entered it incorrectly a few times. In any case, help is at hand.
@@ -152,8 +156,6 @@ There can be a few reasons why your Apple iPhone 12 mini is locked, the primary 
 We understand how frustrating it can be when your newly purchased Apple iPhone 12 mini does not unlock because of a passcode entry issue, and all you want to do is get the screen unlocked. At Wondershare, we strive to create meaningful differences in the lives of the people that use our software and keeping that in mind, we have a solution for you to unlock your Apple iPhone 12 mini passcode screen using Dr.Fone - Screen Unlock (iOS).
 
 ### II.I Using Dr.Fone - Screen Unlock (iOS) to Unlock the Locked Apple iPhone 12 mini
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -175,6 +177,10 @@ Step 2: Connect your locked Apple iPhone 12 mini to the computer.
 Step 3: Launch Dr.Fone and select the Screen Unlock module.
 
 ![Apple iPhone 12 mini unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 4: Select Unlock iOS Screen.
 
@@ -204,11 +210,12 @@ Step 2: Under Find My (or Find My iPhone if you are using the iCloud website), s
 
 ![find my iphone](https://images.wondershare.com/drfone/article/2021/09/unlock-iphone-13-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 That's it. You will have wiped and unlocked your Apple iPhone 12 mini and it will start with factory settings. Note that this works only if the Apple iPhone 12 mini was connected to Find My in the first place. If not, then you always have Dr.Fone - Screen Unlock (iOS) to help you out.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### II.III Put The Apple iPhone 12 mini in Recovery Mode
 
 You can unlock your Apple iPhone 12 mini using Recovery Mode, yourself.
@@ -255,11 +262,13 @@ You might be wondering if you will get the highlight Cinematic Mode if you were 
 
 All Apple iPhone 12 mini models feature the same IP68 water resistance (that is a depth of 6 meters for up to 30 minutes) and feature MagSafe charging. No differences here, except that the Apple iPhone 12 mini mini is still capped at 12W charging with MagSafe, just like the Apple iPhone 12 mini 12 mini was.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part V: The Bottom Line
 
 A locked Apple iPhone 12 mini is never a pretty sight. Fortunately, there are a couple of things you can do to try and unlock your Apple iPhone 12 mini and remove the passcode from your Apple iPhone 12 mini. There is also Wondershare Dr.Fone - Screen Unlock (iOS) to unlock your Apple iPhone 12 mini for you when you need help removing the passcode from your Apple iPhone 12 mini and unlocking it.
-
-
 
 ## Complete Guide For Apple iPhone 12 mini Lock Screen
 
@@ -267,9 +276,6 @@ Like most iPhone users, you rely on your lock screen to keep your data safe and 
 
 We'll explain to you how to use the new features, protect your data, and more. So don't waste any time - read on for all the details!
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Have a Customized iOS 17 Lock Screen?
 
 Before we get started, you should know that there are three ways to have a customized lock screen in iOS 17. Let's get to know more about them.
@@ -294,9 +300,6 @@ If you want to manage notifications on the iOS 17 lock screen, there are two way
 
 At first, you can go to Settings > Notifications. Here, you can choose how many notifications you want to see on your lock screen and which apps can send you notifications.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![lock screen notification setting](https://images.wondershare.com/drfone/article/2022/11/ios-15-lock-screen-3.jpg)
 
 The Do Not Disturb feature is the second way to manage notifications. To do this, go to Settings > Do Not Disturb and enable the feature. You can also schedule when Do Not should turn on and off. This feature work like a charm if you want to silence all notifications at night.
@@ -333,6 +336,10 @@ That's how you bypass the lock screen without losing any data.
 
 ![emergency dial](https://images.wondershare.com/drfone/article/2022/11/ios-15-lock-screen-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Bypass passcode with iTunes restore
 
 If your Apple iPhone 12 mini needs to be backed up with iTunes sync feature, you can use this method to bypass the passcode.
@@ -342,6 +349,10 @@ To do this, connect your Apple iPhone 12 mini to a computer and open iTunes. The
 It will take some time, but you can use your Apple iPhone 12 mini without a passcode once it's done.
 
 ![recovery mode on itunes](https://images.wondershare.com/drfone/article/2022/11/ios-15-lock-screen-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Use Find My in iCloud
 
@@ -366,7 +377,6 @@ If all mentioned methods don't work for you, the ultimate solution is to use Won
 A third-party tool named Dr.Fone-Screen Unlock can help you in this regard. The wonderful part is that you don't have to learn any technical knowledge.
 
 First, download/install Dr.Fone-Screen Unlock on your computer or MacBook. You can get it from here:
-
 
 After downloading the tool, install launch it on your PC.
 
@@ -396,12 +406,15 @@ Depending on your internet connection, you may have to wait for a longer time. B
 
 ![ios 17 lock screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step #5: Unlock your Apple iPhone 12 mini**
 
 After the firmware is downloaded, you need to press the Unlock Now button, and Dr.Fone will start to unlock your Apple iPhone 12 mini without a passcode. Once it is done, you can get into your device without any restriction.
 
 ![ios 17 lock screen without passcode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
-
 
 ## FAQs
 
@@ -429,6 +442,10 @@ After that, release the Sleep/Wake button but keep holding the Home button until
 
 If the problem still bothers you, you can try using a third-party tool like Dr.Fone-Screen Unlock to reset the phone, eventually fixing the issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The Bottom Line
 
 So this is what we want to talk about the iOS 17 Lock Screen with you. We have tried to cover everything in this article, including the new features, lock screen bugs, and how to fix them.
@@ -438,7 +455,6 @@ All the fixes mentioned above are tested and proven to be working. So you can tr
 But if you are still facing problems with your lock screen, then the greatest thing you can do is to use a third-party tool like Dr.Fone-Screen Unlock. This tool is very easy to use and will unlock your device within minutes.
 
 So, if you are looking for a hassle-free solution to fix your lock screen issues, then this is the best one you should never miss.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -452,9 +468,26 @@ So, if you are looking for a hassle-free solution to fix your lock screen issues
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-navigating-quick-skips-learn-tiktoks-speed-control/"><u>[Updated] 2024 Approved Navigating Quick Skips Learn TikTok's Speed Control</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-blueprints-for-successful-docu-screenplays/"><u>[Updated] Blueprints for Successful Docu-Screenplays</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-crafting-and-channelizing-imovie-productions-on-youtube/"><u>[Updated] In 2024, Crafting and Channelizing iMovie Productions on YouTube</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-decoding-youtubes-thumbnail-impact-on-traffic/"><u>[Updated] In 2024, Decoding YouTube's Thumbnail Impact on Traffic</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/apex-equipment-prime-8k-cameras-unmatched/"><u>Apex Equipment Prime 8K Cameras Unmatched</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/apple-iphone-15-plus-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>Apple iPhone 15 Plus Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-apple-iphone-11-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your Apple iPhone 11 When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-from-apple-iphone-8-without-password-by-drfone-ios/"><u>How to Delete iCloud Account From Apple iPhone 8 without Password?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-14-plus-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix iPhone 14 Plus Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/how-to-integrate-seagate-backup-plus-cloud-with-windows-11/"><u>How to Integrate Seagate Backup Plus Cloud with Windows 11</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-oneplus-nord-n30-5g-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted OnePlus Nord N30 5G Contacts An Easy Method Explained.</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-12-drfone-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-iphone-12-pro-max-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 12 Pro Max After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-xs-drfone-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-did-your-iphone-xr-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>In 2024, Did Your iPhone XR Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-fast-fixes-for-capturing-games-on-devices/"><u>In 2024, Fast Fixes for Capturing Games on Devices</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-xr-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-8-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-naraka-bladesword-delays-and-improving-game-performance/"><u>Troubleshooting Naraka Bladesword Delays and Improving Game Performance</u></a></li>
+</ul></div>
 
