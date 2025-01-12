@@ -1,7 +1,7 @@
 ---
 title: How To Bypass the Required Apple Store Verification For iPhone 12 | Dr.fone
-date: 2024-07-15T06:21:35.249Z
-updated: 2024-07-16T06:21:35.249Z
+date: 2025-01-09T19:23:42.382Z
+updated: 2025-01-12T16:12:41.699Z
 tags: 
   - unlock
   - remove screen lock
@@ -58,6 +58,10 @@ Sometimes, unpaid subscriptions can trigger the verification prompt. Tap the App
 
 ![subscriptions page app store](https://images.wondershare.com/drfone/article/2024/01/bypass-appstore-verification-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Don’t Require Password for Purchases
 
 For less frequent purchases, you should change the settings so you don’t always have to enter your password. Go to Settings, then to **Screen Time**. Under **Content & Privacy Restrictions**, select **iTunes & App Store Purchases**. Here, you can change the settings to **Don’t Require** for purchases. However, be cautious with this method as it reduces security.
@@ -69,6 +73,10 @@ For less frequent purchases, you should change the settings so you don’t alway
 Sometimes, simply [<u>signing out of your Apple ID</u>](https://drfone.wondershare.com/unlock/how-to-sign-out-of-apple-id-without-password.html) and then signing back in can resolve the issue. Go to the **Settings** app, tap your name at the top, and scroll down to **Sign Out**. After signing out, restart your device and then sign back in. This can help refresh your account settings and clear up any minor glitches.
 
 Remember, these methods are about bypassing the verification process and ensuring your account is up-to-date and secure. Regularly checking your Apple ID settings and payment information can prevent many common issues with the App Store, including the frustrating ‘Verification Required’ prompt.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How To Bypass Verification Required Prompt Without Apple ID
 
@@ -84,10 +92,13 @@ Here’s a complete guide on bypassing **the verification required on the App St
 
 - **Step 1:** Install and open Wondershare Dr.Fone on your computer.
 
-
 - **Step 2:** Navigate to **Toolbox** and select **Screen Unlock** followed by **iOS**.
 
 ![dr.fone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** In the next window, choose **Remove Apple ID** to proceed.
 
@@ -96,6 +107,10 @@ Here’s a complete guide on bypassing **the verification required on the App St
 - **Step 4:** A connectivity status will appear on the screen with your iOS device connected to the computer. Click **Unlock Now** to start the process.
 
 ![device connected](https://images.wondershare.com/drfone/guide/remove-apple-id-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 5:** Confirm if your iOS device has a screen lock and two-factor authentication enabled. This is crucial for the process to continue smoothly.
 
@@ -112,6 +127,10 @@ Here’s a complete guide on bypassing **the verification required on the App St
 - **Step 8:** After firmware verification, click **Unlock Now**. You’ll be prompted to enter a code for confirmation. Once entered, the unlocking process will begin.
 
 ![remove apple id confirm](https://images.wondershare.com/drfone/guide/remove-apple-id-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 9:** You’ll receive a notification once the process is complete. You may try again if the process fails to succeed the first time.
 
@@ -180,9 +199,6 @@ Undoubtedly, device supervision is the most reliable method for organizations to
 
 Here, [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) stands tall to help out your ventures and provide executable techniques explaining **how to** **remove supervision from iPhone**. This tool allows you to [bypass the MDM lock](https://drfone.wondershare.com/unlock/jailbreak-remove-mdm.html) without data loss on your Apple iPhone 12 using easy steps. Consequently, you can also use other advanced functions, such as removing lock screens and unlocking Apple ID in different instances.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Features of Wondershare Dr.Fone To Consider
 
 1. Wondershare Dr.Fone lets you [bypass iCloud Activation Lock](https://drfone.wondershare.com/icloud/bypass-iphone-11-12-icloud-activation-lock.html) completely and set a new Apple ID on the Apple iPhone 12 device.
@@ -199,6 +215,9 @@ First, launch Wondershare Dr.Fone on the computer and connect it to your Apple i
 
 ![access toolbox to select screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2: Select iOS and Head To Unlock MDM**
 
@@ -218,9 +237,6 @@ A prompt will pop up stating that you need to turn off the Find My feature on yo
 
 ![mdm removed successfully](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-11.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3. Easy Removal of Device Supervision From Settings
 
 Looking for other conventional methods about **how to remove supervision from iPad** or iPhone? If you wish to perform such actions, you can access some options in your Apple iPhone 12 settings. However, to utilize this method, you should know the login information and password of the Apple iPhone 12 device. If you have them with you, follow the given steps to remove device supervision from iPhone settings:
@@ -233,6 +249,10 @@ Looking for other conventional methods about **how to remove supervision from iP
 
 ![remove mdm management from ios device](https://images.wondershare.com/drfone/article/2024/02/how-to-remove-device-supervision-from-ios-devices-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4. Using Apple Configurator 2 for Removing iPhone Supervision System
 
 [Apple Configurator](https://apps.apple.com/us/app/apple-configurator/id1037126344?mt=12) is a free tool for Mac users that provides a simple technique for removing iPhone supervision. To use this method, you must have a password for the Apple iPhone 12 device; otherwise, you will need to contact the organization to get the necessary permissions. Below are easy steps about **how to remove device supervision from iPad** and iPhone through your Mac:
@@ -240,6 +260,10 @@ Looking for other conventional methods about **how to remove supervision from iP
 **Instructions.** First, download and launch the Apple Configurator tool on your Mac. Connect the iDevice to the Mac using a compatible USB-C cable. Click on "Actions" from the top bar of the tool. In the drop-down list, choose the "Advanced" option and select "Erase All Content and Settings" to remove iPhone device supervision. Enter your device password to start using your Apple iPhone 12 normally.
 
 ![remove device supervision apple configurator](https://images.wondershare.com/drfone/article/2024/02/how-to-remove-device-supervision-from-ios-devices-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5. Directly Contact Administration for Removing Device Supervision
 
@@ -253,8 +277,6 @@ Removing device supervision is simple, but getting familiar with the safest meth
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
-
-
 ## 4 Ways to Unlock Apple iPhone 12 to Use USB Accessories Without Passcode
 
 _How do I unlock my Apple iPhone 12? I know you're supposed to connect it to the computer and put it in recovery mode but when I do, it says “unlock Apple iPhone 12 to use accessories.”_
@@ -263,9 +285,6 @@ _How do I unlock my Apple iPhone 12? I know you're supposed to connect it to the
 
 You may have had the experience of connecting your Apple iPhone 12 to a computer with USB accessories. Usually, "**Unlock Apple iPhone 12 to use accessories**" will appear on the screen. In most cases, enter the passcode to unlock the phone, and you can then proceed with data transfer and management. What to do if you forget your screen lock passcode? Here come the most effective methods for you!
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Why You Need to "Unlock Apple iPhone 12 to Use Accessories"?
 
 The command comes from Apple’s significant privacy safeguard **“USB Restricted Mode”**. It means after an hour of your iOS device is unlocked, the system cuts off the lightning port and limits it to charging only. Simply put, when your Apple iPhone 12 is locked for more than an hour, it needs to be unlocked to allow the connection of USB accessories. Sometimes, when you unlock your Apple iPhone 12 screen to use USB accessories, it can’t charge anymore.
@@ -323,7 +342,6 @@ There is no doubt that you may worry about losing all your data while bypassing 
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/M3tfU3GUTpk"></iframe>
 
-
 ## Part 4: How to Unlock Apple iPhone 12 to Use USB Accessories without Passcode via iCloud?
 
 With iCloud, you can quickly clean up your Apple iPhone 12, remove screen locks, and help unlock your device. But, you have to know that all your data will be erased. Make sure your Apple iPhone 12 has the "Find My iPhone" function enabled, otherwise your device will be offline.
@@ -332,11 +350,12 @@ With iCloud, you can quickly clean up your Apple iPhone 12, remove screen locks,
 
 ![find-my-iphone](https://images.wondershare.com/drfone/unlock-new/unlock-usb/find-my-iphone.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Click on “All Devices”, choose your Apple iPhone 12, and then “Erase iPhone”.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![icloud-erase-phone](https://images.wondershare.com/drfone/unlock-new/unlock-usb/icloud-erase-phone.jpg)
 
 Now, your Apple iPhone 12 will reboot without a passcode. Then, you can unlock Apple iPhone 12 to use accessories and bypass the passcode.
@@ -379,8 +398,9 @@ Now, you'll get an iPhone which is like being factory reset. And you could unloc
 ## Part 7: Hot FAQ about USB Accessories on iPhone
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Q1: What is the feature of USB Accessories on iPhone?
 
 From USB-A to the latest, USB-C. Also, most iPhones use a proprietary Lightning port.
@@ -403,7 +423,6 @@ It is very common to use USB accessories to connect iPhone and computer. Sometim
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -416,9 +435,23 @@ It is very common to use USB accessories to connect iPhone and computer. Sometim
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-the-fundamentals-of-using-ffpm-in-firefox/"><u>[New] 2024 Approved The Fundamentals of Using FFPM in Firefox</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-insights-into-instagrams-maxed-out-videos-for-2024/"><u>[New] Insights Into Instagram's Maxed-Out Videos for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-listening-history-keeper-iphone-2024/"><u>[New] Listening History Keeper - iPhone 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-with-tomtom-actioncam-new-year/"><u>[Updated] Exploring with TomTom ActionCam New Year</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-hacks-averted-restore-your-facebook-account-safely/"><u>[Updated] Hacks Averted! Restore Your Facebook Account Safely</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-effortless-offline-access-best-youtube-playlist-downloaders/"><u>[Updated] In 2024, Effortless Offline Access Best YouTube Playlist Downloaders</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-sustainable-growth-developing-a-long-term-personal-brand-on-youtube-for-2024/"><u>[Updated] Sustainable Growth Developing a Long-Term Personal Brand on YouTube for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/2024-approved-quick-glance-at-stars-contribution/"><u>2024 Approved Quick Glance at Star's Contribution</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-apple-iphone-6s-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>How to Bypass Apple iPhone 6s Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-13-pro-max-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-se-2022-without-itunes-drfone-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone SE (2022) Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-13-without-a-passcode-drfone-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone 13 Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-full-guide-to-unlock-iphone-6s-plus-with-itunes-drfone-by-drfone-ios/"><u>In 2024, Full Guide to Unlock iPhone 6s Plus with iTunes | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-12-pro-max-with-7-methods-drfone-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for iPhone 12 Pro Max With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-xr-without-a-home-button-drfone-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone XR Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/troubleshooting-steps-how-to-fix-your-pc-when-the-graphics-card-is-unrecognized-in-device-manager-expert-advice-from-yl-computing/"><u>Troubleshooting Steps: How to Fix Your PC When the Graphics Card Is Unrecognized in Device Manager - Expert Advice From YL Computing</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Resolve Your iPhone 12 Keeps Asking for Outlook Password | Dr.fone
-date: 2024-07-15T06:22:15.144Z
-updated: 2024-07-16T06:22:15.144Z
+date: 2025-01-11T17:00:54.257Z
+updated: 2025-01-12T18:12:21.588Z
 tags: 
   - unlock
   - remove screen lock
@@ -46,6 +46,10 @@ A corrupted email account profile on the Apple iPhone 12 can cause disruptions d
 
 Other mail applications installed on the Apple iPhone 12 can also cause an issue. They might interfere with the Outlook app's proper functioning. Identifying and temporarily disabling such apps can help diagnose and resolve the issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 6\. Excessive Email Fetching
 
 Configuring the Outlook mail app to fetch emails too frequently causes the issue. It can strain the connection with Outlook servers, leading to authentication challenges. That causes issues like the Apple iPhone 12 asking for a password.
@@ -70,6 +74,10 @@ If your Apple iPhone 12 continuously prompts you for the Outlook password, a sim
 
 ![reenter outlook password from mail settings](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2. Change the Password to Your Outlook Mail
 
 Sometimes, the email service provider may force users to change their passwords for security reasons. There is a chance that it is why your **iPhone asks for an Outlook password**. To modify your Outlook password from the desktop platform, adhere to the following steps:
@@ -82,9 +90,6 @@ Sometimes, the email service provider may force users to change their passwords 
 
 ![enter outlook password and save it](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3. Checking the Network Connection
 
 [<u>Network inconsistencies</u>](https://drfone.wondershare.com/reset-iphone/reset-network-settings-iphone.html) can often disrupt the authentication process. This can be the leading cause behind persistent password prompts. To ensure a stable connection, ensure that you are connected to a reliable and stable Wi-Fi network. You can also try toggling the Wi-Fi and mobile data switches on and off.
@@ -92,6 +97,10 @@ Sometimes, the email service provider may force users to change their passwords 
 Another way to confirm if network errors are the problem is to try enabling Airplane Mode. After a while, disable the Airplane Mode and check if the issue is resolved.
 
 ![check network iphone settings](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4. Using the Mail Toggle as a Remedy
 
@@ -104,6 +113,10 @@ A strategic approach to resolving authentication issues involves using the Mail 
 - **Step 2.** Here, you will find the toggle switch for "Mail." Now, turn off the email service and wait for a few moments. Toggle the switch back on to re-enable the email service.
 
 ![toggle on off mail switch](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5. Delete and Re-Insert Outlook Account
 
@@ -161,6 +174,10 @@ Certain privacy protection features on your Apple iPhone 12 may interfere with t
 
 ![manage privacy protection](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-16.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 11. Reset All Settings of the iPhone
 
 If the persistent password prompts remain unresolved, resetting all settings on your Apple iPhone 12 can be the solution. It acts as a comprehensive solution to potential configuration issues. This action does not erase your data but resets system settings to default. To reset all settings on your Apple iPhone 12, you can follow these steps:
@@ -184,6 +201,10 @@ In some cases, switching the account type to IMAP during the setup process can h
 - **Step 2.** Choose "Other" as the account type and select "Add Mail Account." Enter your Name, full Outlook email address, descriptive description, and unique password, and hit "Next.”
 
 ![add new imap mail account](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-20.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3.** Utilize the specified settings for the "Incoming Mail Server" and "Outgoing Mail Server" sections under the “IMAP” tab:
 
@@ -235,7 +256,6 @@ Once you've launched Dr.Fone on your computer, go to Toolbox. Here, tap "Screen 
 
 ![select unlock ios screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-2.png)
 
-
 - Step 2: Initiating iPhone Recovery Mode and Device Identification
 
 Subsequently, you need to place your Apple iPhone 12 into Recovery Mode. Adhere to the on-screen instructions corresponding to the model of your iDevice. Afterward, the tool will automatically detect the "Device Model." If necessary, adjust the model and choose the "System Version." Once these steps are completed, click "Start" to initiate the unlocking process.
@@ -246,10 +266,11 @@ Subsequently, you need to place your Apple iPhone 12 into Recovery Mode. Adhere 
 
 Monitor the iOS firmware download progress on the screen. After successful download and verification, proceed by selecting "Unlock Now." A confirmation window will appear, prompting you to input the necessary code. Enter the code and tap Unlock to proceed to the outcome. Upon unlocking the iDevice, click the “Done” button to finalize the process.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enter code to unlock device](https://images.wondershare.com/drfone/guide/unlock-ios-screen-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -277,9 +298,6 @@ The tool provides users with the convenience of checking if their device is blac
 2. doctorSIM can also help you check the [iCloud Activation Lock](https://drfone.wondershare.com/ios-16/how-to-bypass-icloud-activation-lock-screen-on-ios-16.html) Status and MI Account Activation Status.
 3. Along with the old devices, this service is also compatible with the latest models, such as the Apple iPhone 12 15 series,
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Pros
 
 - There is no need to download and install any software on the Apple iPhone 12 device.
@@ -328,18 +346,6 @@ Specializing in unlocking iPhones by IMEI, IMEIDoctor is a trusted service. It o
 
 CellUnlocker stands out as a reputable IMEI unlocking service, catering to many types of smartphones. Known for its reliability, the service facilitates unlocking for numerous carriers globally. This provides flexibility for users requiring international use of their devices. The user-friendly interface further enhances the overall experience.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![cellunlocker imei unlocking alternative](https://images.wondershare.com/drfone/article/2024/01/doctor-sim-unlock-reviews-6.jpg)
 
 ### 3\. IMEIUnlockSIM
@@ -353,6 +359,10 @@ IMEIUnlockSIM is a specialized service focusing on unlocking iPhones through IME
 This IMEI unlocking service is a comprehensive service renowned for its expansive database. It supports a large number of devices and carriers. The platform provides various unlocking services, such as network unlocking and iCloud unlocking. Serving a worldwide audience, iUnlockBase guarantees a seamless unlocking process.
 
 ![iunlockbase imei unlocking alternative](https://images.wondershare.com/drfone/article/2024/01/doctor-sim-unlock-reviews-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5. What To Do When iCloud Activation Lock Active?
 
@@ -378,12 +388,15 @@ Install and launch the most recent version of Wondershare Dr.Fone onto your comp
 
 ![proceed with icloud activation lock removal](https://images.wondershare.com/drfone/guide/bypass-activation-lock-2.png)
 
-
 - **Step 2. Device Identification and Unlock Initiation**
 
 Now, decide whether your device is GSM or CDMA, as it is an important aspect. Bypassing iCloud Activation Lock on a GSM device won't affect the Apple iPhone 12 device. However, running this process on a CDMA device will result in a loss of cellular activities. Click "Unlock Now" to proceed further, and if your device is CDMA type, you'll encounter a series of pointers. Go through them and click "Got It!" after agreeing with all the mentioned points.
 
 ![start to unlock device](https://images.wondershare.com/drfone/guide/bypass-activation-lock-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3. Jailbreaking and Activation Lock Bypass**
 
@@ -421,8 +434,6 @@ Throughout this **doctorSIM unlock service review**, we explored the different I
 
 _**Tips:** Are you searching for a powerful iPhone Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
-
-
 ## How To Remove Passcode From Apple iPhone 12? Complete Guide
 
 If you have an iPhone, you've likely set a passcode to protect your device. While this is a great security measure, you may need to remove the passcode. Whether you want to get rid of your code or plan to sell your phone, these instructions will show you how to remove your passcode from your Apple iPhone 12 in just a few steps.
@@ -439,9 +450,6 @@ Following are some of the most effective methods to remove the passcode from iPh
 
 This is the most common and easy method to remove the passcode from iPhone. You can follow these steps:
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remove passcode from iphone](https://images.wondershare.com/drfone/article/2022/11/how-to-remove-passcode-from-iphone-1.jpg)
 
 1. Go to "Settings" and scroll down to find "Touch ID & Passcode (or Face ID & Passcode)."
@@ -543,7 +551,6 @@ This was the complete process of using the Wondershare Dr.Fone-Screen Unlock fea
 
 Besides, all the methods discussed in this article work fine with most iPhones, but the ideal method is to remove the Apple iPhone 12 passcode using Dr.Fone-Screen Unlock (iOS). We have tested this method with various iPhones, and it worked perfectly fine. So, if you want a reliable and easy-to-use method, we recommend you use Dr.Fone-Screen Unlock (iOS) without hesitation.
 
-
 ## FAQs
 
 We know there might be lots of questions running through your mind about this process. So, we have tried responding to frequently asked questions about this process.
@@ -559,6 +566,10 @@ Please remember, if you have already created a backup of your device, it will ov
 No, you can't remove the passcode from your device via a hard restart. If you try to do it, it will erase all the data from your device, and there is no possibility of accessing it anymore. So, we recommend you not to try it.
 
 Instead, you can try the method in this article to remove the Passcode from your device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to change the passcode on my iPhone?
 
@@ -578,7 +589,6 @@ That's all about how you can remove the Passcode from your Apple iPhone 12. We h
 
 If you have any other questions or doubts about this process, feel free to ask us. We would be sincerely happy to help you out.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -591,9 +601,22 @@ If you have any other questions or doubts about this process, feel free to ask u
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-techniques.techidaily.com/new-expert-insights-for-smooth-operation-of-win11/"><u>[New] Expert Insights for Smooth Operation of Win11</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-essential-tutorial-on-using-instagram-filters-for-2024/"><u>[Updated] The Essential Tutorial on Using Instagram Filters for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/analyzing-if-elite-ai-services-merit-their-price-tags/"><u>Analyzing if Elite AI Services Merit Their Price Tags</u></a></li>
+<li><a href="https://article-helps.techidaily.com/crucial-windows-10-features-to-boost-productivity/"><u>Crucial Windows 10 Features to Boost Productivity</u></a></li>
+<li><a href="https://fox-access.techidaily.com/financial-motives-in-consumer-video-evaluations-for-2024/"><u>Financial Motives in Consumer Video Evaluations for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-samsung-galaxy-s21-fe-5g-2023-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Samsung Galaxy S21 FE 5G (2023) FRP Locks</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-x-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone X Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-oppo-f23-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Oppo F23 5G FRP</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-xr-and-ipad-securely-drfone-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone XR and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-7-plus-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 7 Plus Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-iphone-6s-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab iPhone 6s Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-11-pro-drfone-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-your-disabled-apple-iphone-13-pro-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>In 2024, Unlock Your Disabled Apple iPhone 13 Pro Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlocking-the-potential-of-av1-technology/"><u>In 2024, Unlocking the Potential of AV1 Technology</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-xs-max-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>iPhone XS Max Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+</ul></div>
 

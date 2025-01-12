@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 12 | Dr.fone
-date: 2024-07-15T06:23:34.857Z
-updated: 2024-07-16T06:23:34.857Z
+date: 2025-01-06T17:40:51.457Z
+updated: 2025-01-12T17:38:10.083Z
 tags: 
   - unlock
   - remove screen lock
@@ -82,9 +82,6 @@ Since an MDM configuration profile causes limitations, like the greyed-out ****A
 - **Step 2:** Select the configuration profile you need to delete.
 - **Step 3:** Tap **Remove Profile**, enter your device passcode, then tap **Remove**.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remove configuration profile on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-07.jpg)
 
 Fix No.4: Remove Network Settings Installed by MDM
@@ -130,6 +127,10 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 ![unlock mdm situation options](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** Please review the message carefully before initiating the MDM bypass process. Once you've read it, click **Start to Bypass** to proceed.
 
 ![start to bypass mdm](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-3.png)
@@ -142,9 +143,17 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 ![dr.fone bypassing mdm lock](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 7:** You'll see a confirmation message once the bypass is successful. Click **Done** to exit. Your device should now be free from MDM restrictions.
 
 ![successfully bypassed mdm on ios](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Fix No.6: Check and Adjust Auto-Lock Settings
 
@@ -189,7 +198,6 @@ You may get stuck with any emergency if you do not know how to unlock your Apple
 
 Normally, you don't believe what you see and start to try entering the passcode to unlock your Apple iPhone 12. However, if you entered an incorrect passcode 10 times, you will receive a messag "[iPhone is disabled, connect to iTunes](https://drfone.wondershare.com/unlock/unlock-disabled-iphone-without-itunes.html)". In this case, the only way to unlock your disabled iPhone is to restore it. And that is a situation none of us would like to be in right? Hence, in this article, today, we will elaborate ways on **how to unlock iPhone without passcode** or restore it.
 
-
 ## Part 1: Unlocking Your Apple iPhone 12: What Are the 4 Main Causes of Failure?
 
 Unlocking your Apple iPhone 12 can be a frustrating experience, especially when you just want to access the Apple iPhone 12 device. Unfortunately, there are several common reasons why an iPhone may not unlock.
@@ -215,8 +223,6 @@ Keep reading to learn more feasible ways to unlock iPhone without passcode in de
 
 Dr.Fone - iPhone Unlocker is a powerful software that can help you open your iDevice without a passcode. It supports all iPhone models from iPhone 6 to iPhone 15, and all iPad models. Dr.Fone-Screen Unlock is easy to use and can be used to bypass the lock screen in just a few simple steps. It can also be used to reset the Apple iPhone 12 device to its factory settings, allowing you to start fresh. In this section, we will learn about this important tool for iPhone lock screen removal. Thus, instead of thinking hard about **how to unlock iPhone without a passcode**, you can use [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) to do the needful.
 
-
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Remove iPhone Lock Screen without Hassle.
@@ -239,6 +245,10 @@ To use Dr.Fone - Screen Unlock to unlock your Apple iPhone 12 or iPad without a 
 
 ![unlock ios](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3.** Follow the instructions to put your Apple iPhone 12 into Recovery mode. When your Apple iPhone 12 is in Recovery mode, the software will begin downloading firmware.
 
 ![go to recovery mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
@@ -246,7 +256,6 @@ To use Dr.Fone - Screen Unlock to unlock your Apple iPhone 12 or iPad without a 
 - **Step 4.** When the process is complete, click "Unlock Now", and Dr.Fone will start unlocking. After a while, your device will be unlocked, and you can access your device without a passcode.
 
 ![lock screen opened](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
-
 
 _Unlock your Apple iPhone 12/iPad without a passcode now!_
 
@@ -289,6 +298,10 @@ This method may be a better choice for unlocking your Apple iPhone 12 than using
 - **Step 4:** Click "Erase" to confirm that you want to erase your Apple iPhone 12.
 - **Step 5:** Wait for the process to complete, and your Apple iPhone 12 will be unlocked.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5: Use the Voice Control to Unlock iPhone (iOS 13 or later)
 
 The use of Voice Control to **unlock iPhone without passcode** is a feature available in iOS 13 or later. Voice Control is a feature that lets you navigate your Apple iPhone 12 using just your voice. It allows you to unlock your Apple iPhone 12 without having to enter a passcode or use Touch ID.
@@ -309,6 +322,10 @@ When you’re finished, you can use your voice to unlock your Apple iPhone 12. T
 - **Step 2.** You will then see authenticate using Face ID, Touch ID, or your passcode.
 - **Step 3.** Once you've authenticated, your Apple iPhone 12 will be unlocked.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 6: How to Unlock iPhone Without a Passcord Using Find My iPhone?
 
 How to unlock iPhone without Siri and passcode using "Find My iPhone" is another method. It just takes several minutes to clean up your device. It securely removes your Apple iPhone 12 lock screen without tapping the passcode. If you want to restore your Apple iPhone 12 data, this is another great method to enable the features in all terms specifically.
@@ -318,6 +335,10 @@ You can perform the steps from your Apple iPhone 12 directly to turn on "Find My
 - **Step 1:** Use your computer or someone else's iOS device, visit icloud.com/find, and sign in with your Apple credentials.
 
 ![sign in to cloud](https://images.wondershare.com/drfone/article/2017/10/15090391142788.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** Then, you need to choose the option "All Devices". _If my iPhone_ is already enabled on your device, you will see your Apple iPhone 12 listed. Simply click on it and choose the option "Erase iPhone." Then all the data, including the passcode, will be removed from your Apple iPhone 12. Thus, this process unlocks the Apple iPhone 12 without Siri.
 
@@ -362,6 +383,10 @@ DFU mode (Device Firmware Update) is a special mode on an iPhone that allows you
 
 Remember that using DFU mode to bypass your Apple iPhone 12 passcode will erase all data from your device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 9: How to Unlock iPhone Without Passcode by Tricking Siri?
 
 In this part, we give you the solution to unlock your Apple iPhone 12 without a password using Siri. You can consider it a trick or a tip as you wouldn't be losing your Apple iPhone 12 data. It works to give 100% results in even the most tricky situations.
@@ -372,9 +397,6 @@ Let us go through the steps below to learn about how to unlock iPhone without pa
 
 - **Step 1:** To enable the Siri feature on your Apple iPhone 12 device, press and hold the home button. It will immediately activate Siri on your Apple iPhone 12 device. Once it gets activated, it is ready to respond to your voice. Now, ask Siri to open the clock to rectify how to unlock a disabled iPhone. Once it displays the clock on your iOS screen, just touch it to proceed.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![enable siri](https://images.wondershare.com/drfone/article/2017/10/15090666111442.jpg)
 
 - **Step 2:** The World clock appears with the list of tunes you have to select for the alarm clock.
@@ -383,9 +405,6 @@ Let us go through the steps below to learn about how to unlock iPhone without pa
 
 - **Step 3:** From that option, you will see the tab "buy more tunes" which straight away informs you to reach the iTunes store.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![click buy more tunes](https://images.wondershare.com/drfone/article/2017/10/15090666562470.jpg)
 
 - **Step 4:** Just click on the home button to go to the phone's main screen.
@@ -395,7 +414,6 @@ Let us go through the steps below to learn about how to unlock iPhone without pa
 You will see that you can now access your Apple iPhone 12 without the passcode as Siri helped unlock iPhone.
 
 _**Tips:** This is only used for iOS 10.3.2 and 10.3.3. If you have updated your iOS system, we recommend you try the previous methods. To make it easier, just use [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/)._
-
 
 ## FAQs about iPhone Unlock Issues
 
@@ -430,7 +448,6 @@ Entering the wrong password a few times will lock your Apple iPhone 12. What you
 
 Therefore, this guide explains **how to unlock iPhone passcode without computer.** In addition, this guide elaborates on the safest methods available in the market to help you secure your Apple iPhone 12. So, keep reading and find out about unlocking an iPhone without a computer.
 
-
 ## Part 1: Can I Unlock My iPhone Passcode without Computer?
 
 Yes, you can open the Apple iPhone 12 password without needing a PC.
@@ -441,9 +458,6 @@ Dr.Fone-Screen Unlock by Wondershare is an expert tool to remove such issues. It
 
 ## Part 2: 3 Methods to Unlock Disabled iPhone without a computer?
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. "Erase iPhone" Option
 
 You want to use this method when you fail to remember your Apple iPhone 12 PIN. It is the most straightforward method for opening your Apple iPhone 12, assuming you forgot your password.
@@ -499,9 +513,6 @@ There is an issue with Siri that you can use **how to unlock iPhone passcode wit
 - Initiate Siri on your iDevice. You should simply long press the Home button. Then, ask Siri what the time is, "Hello Siri, what time is it?"
 - Siri will then show you the time. There will be a clock symbol bordering it. Tap on the clock, and you can get to the World clock. Click on the "+" sign to add another watch.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add clock](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-passcode-without-computer-3.jpg)
 
 - You will get a bar where you have to enter a city. First, write anything to make sure you can write. Then, tap on the text and click "Select all" afterward.
@@ -510,12 +521,15 @@ There is an issue with Siri that you can use **how to unlock iPhone passcode wit
 
 ![create new contact](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-passcode-without-computer-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - Click the "Select/Pick Photo" button to choose a photograph from your library. When the library opens, you can see the collections. Do not click anywhere. Wait for a couple of moments, and afterward, tap on the Home button. You will then access the Home screen. That's **how to unlock disabled iPhones without computer.**
 
 ## Bonus Tips: Easy App to Unlock Your Apple iPhone 12
 
 ### Dr.Fone-Screen Unlock
-
 
 We, as a whole, realize that expert software is the quickest and simplest method for opening an iPhone. These devices are helpfully intended to make life simpler; thus, they do.
 
@@ -545,6 +559,10 @@ After going to the DFU mode, Dr.Fone will show the information about your Apple 
 
 ![select phone model](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4. Open the Lock**
 
 Click Unlock Now after downloading the firmware.
@@ -553,15 +571,11 @@ Click Unlock Now after downloading the firmware.
 
 After a short while, your Apple iPhone 12 will be opened effectively. However, this process will erase every bit of data off your phone. Honestly speaking, there is no answer for this issue without data loss.
 
-
 ### The Bottom Line
 
 It is the end of a detailed guide with the top strategies on **how to unlock disabled iPhones without computer**. You should get the right approach per your circumstance and follow the steps.
 
 If you don't know which strategy will turn out best for you, we suggest utilizing Dr.Fone-Screen Unlock. It has a close to 100% success rate and is not difficult to use for individuals without a tech foundation. So, install it on your system for a quicker result.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -575,9 +589,24 @@ If you don't know which strategy will turn out best for you, we suggest utilizin
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-youtubes-role-in-todays-dynamic-educational-landscape/"><u>[New] In 2024, YouTube's Role in Today's Dynamic Educational Landscape</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-decoding-dangerous-subscriber-scams-online/"><u>[Updated] 2024 Approved Decoding Dangerous Subscriber Scams Online</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-simplified-guide-efficient-screen-recording-for-dell-users/"><u>[Updated] 2024 Approved Simplified Guide Efficient Screen Recording for Dell Users</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-enhance-videos-with-music-inshots-simple-methods-for-2024/"><u>[Updated] Enhance Videos with Music InShot's Simple Methods for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-you-watch-mov-movies-on-samsung-galaxy-m54-5g-by-aiseesoft-video-converter-play-mov-on-android/"><u>Can you watch MOV movies on Samsung Galaxy M54 5G ?</u></a></li>
+<li><a href="https://discover-able.techidaily.com/exploring-the-main-objectives-the-significance-of-chinas-may-fourth-movement/"><u>Exploring the Main Objectives: The Significance of China's May Fourth Movement</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-6s-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-x-drfone-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-8-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock iPhone 8 Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-14-plus-without-itunes-drfone-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone 14 Plus Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-apple-iphone-x-in-lost-mode-drfone-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock Apple iPhone X in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-for-iphone-7-plus-lock-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 7 Plus Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/methods-to-prevent-windows-pc-from-booting-into-bios/"><u>Methods to Prevent Windows PC From Booting Into BIOS</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/iques-for-swiftly-cleaning-your-youtube-buffered-queue/"><u>Techniques for Swiftly Cleaning Your YouTube Buffered Queue</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/the-art-of-color-correction-a-final-cut-pro-guide/"><u>The Art of Color Correction A Final Cut Pro Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/trouble-with-iphone-6-plus-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with iPhone 6 Plus Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-14-plus-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock iPhone 14 Plus Without Passcode Easily | Dr.fone</u></a></li>
+</ul></div>
 

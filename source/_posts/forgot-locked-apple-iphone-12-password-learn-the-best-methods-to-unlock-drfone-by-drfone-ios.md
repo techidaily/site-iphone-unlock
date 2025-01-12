@@ -1,7 +1,7 @@
 ---
 title: Forgot Locked Apple iPhone 12 Password? Learn the Best Methods To Unlock | Dr.fone
-date: 2024-07-15T06:20:25.992Z
-updated: 2024-07-16T06:20:25.992Z
+date: 2025-01-11T16:27:57.100Z
+updated: 2025-01-12T18:50:36.000Z
 tags: 
   - unlock
   - remove screen lock
@@ -21,6 +21,10 @@ The note-taking apps are pivotal in organizing thoughts, reminders, and sensitiv
 This app offers a reliable and secure platform for storing personal and confidential information. Users can safeguard their notes by setting up separate passwords. Yet, it's not uncommon to encounter a situation where one **forgets a note password on an iPhone**. This can be frustrating, but don't worry, as this article will discuss **how to unlock a note on iPhone.**
 
 ![unlock forgotten notes password easily](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. Best Method To Unlock Forgotten Notes Password iPhone: Wondershare Dr.Fone
 
@@ -45,7 +49,6 @@ Dr.Fone is a robust tool tailored to aid users in unlocking their iOS devices. I
 Once Wondershare Dr.Fone is downloaded and installed on your computer, launch it. Then navigate to "Toolbox," access "Screen Unlock," and finally choose "iOS" as the Apple iPhone 12 device type. Now, select the “Unlock iOS Screen” button to begin the process.
 
 ![unlock ios screen with dr fone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
-
 
 - **Step 2. Enter Recovery Mode and Download Firmware**
 
@@ -76,8 +79,9 @@ If you've locked a note on your Apple iPhone 12 but forgot the password, there i
 ![enter new password for notes](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3. How To Unlock Notes on iPhone Using Touch ID/Face ID
 
 Even if you've forgotten the password to your Notes on iPhone, there's an alternative method available. You can unlock them by enabling Face ID or Touch ID for Notes. This feature allows users to access locked notes through biometric authentication. Here's **how to unlock a note on iPhone** using Touch ID/Face ID:
@@ -91,6 +95,14 @@ Even if you've forgotten the password to your Notes on iPhone, there's an altern
 - **Step 2.** If you want to save the content of the locked note without re-locking it, select all the content. Now, "Copy" the note's content and paste it on a new note to recover the data from a locked note.
 
 ![copy locked note content](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus Tip. Learn How To Lock Notes on iPhone Easily
 
@@ -108,8 +120,6 @@ Locking notes on your Apple iPhone 12 provides extra security for your sensitive
 
 In conclusion, this article addressed methods for **how to recover locked notes on iPhone**s. It explored options such as using Settings to remove note locks, leveraging Touch ID/Face ID for access, and introducing Wondershare Dr.Fone as a comprehensive solution. Dr.Fone offers a direct approach to unlocking devices when passwords are inaccessible.
 
-
-
 ## 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 12
 
 Your Apple ID is the cornerstone of your Apple device experience. It serves as the key to accessing a lot of functions. It plays an essential role, from App Store purchases to [iCloud storage](https://drfone.wondershare.com/icloud-storage-is-full.html) and device syncing. It ensures smooth functionality across Apple devices. Apart from its convenience, the Apple ID serves as an essential element for security.
@@ -117,6 +127,10 @@ Your Apple ID is the cornerstone of your Apple device experience. It serves as t
 Yet, despite its significance, issues can arise, disrupting the active status of your Apple ID. In this article, we'll discuss one common yet frustrating issue: **this Apple ID is not active**. The guide will provide 7 effective methods to restore the functionality of your Apple ID. Additionally, we'll highlight the most efficient approach to swiftly resolve this issue.
 
 ![apple id not active on device](https://images.wondershare.com/drfone/article/2024/01/how-to-resolve-apple-id-not-active-issue-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. Reasons Why Apple ID Is Not Active
 
@@ -134,9 +148,6 @@ Apple employs strict security measures to protect user accounts. Sometimes, an A
 
 Unsettled payments, expired credit cards, or billing-related problems can lead to an inactive Apple ID. Failure to update payment information or resolve outstanding dues may cause this issue.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Server or Network Problems
 
 At times, issues with Apple's servers or network connectivity problems on your end can contribute to an inactive Apple ID. This may prevent proper authentication and verification, resulting in the inactivity of the account.
@@ -167,12 +178,15 @@ Begin by opening Wondershare Dr.Fone on your computer. Then, navigate through "T
 
 ![proceed with remove apple id feature](https://images.wondershare.com/drfone/guide/remove-apple-id-2.png)
 
-
 - **Step 2. Verification of Device Locks and Two-Factor Authentication**
 
 Afterward, the platform will prompt you with inquiries before advancing. Firstly, confirm if a screen lock is set up on your iDevice. Ensure that it is active, and proceed by selecting “Yes.” Subsequently, verify if Two-Factor Authentication is activated on your iDevice. If not, activate it and click “Yes” to unlock the Apple ID.
 
 ![verify device lock](https://images.wondershare.com/drfone/guide/remove-apple-id-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3. Accessing Recovery Mode and Downloading iOS Firmware**
 
@@ -207,8 +221,9 @@ An inactive Apple ID issue might occasionally arise due to connectivity problems
 ![change wifi or mobile data](https://images.wondershare.com/drfone/article/2024/01/how-to-resolve-apple-id-not-active-issue-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Way 3. Try Resetting Your Apple ID Password
 
 Resetting your Apple ID password is a common solution for addressing problems linked to an inactive ID. This proves particularly effective when issues stem from entering incorrect login details.
@@ -244,6 +259,10 @@ Verifying the status of Apple's services, including iCloud, can help determine i
 **Instructions.** Using a web browser on your computer or smartphone, go to the [System Status](https://www.apple.com/support/systemstatus/) page provided by Apple. Check the status for services such as “Apple ID,” “iCloud Accounts & Sign In,” and other services. The fault lies at Apple's end if the indicators in front of these services are another color than green.
 
 ![visit apple system status page](https://images.wondershare.com/drfone/article/2024/01/how-to-resolve-apple-id-not-active-issue-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Way 5. Look Out for Apple Support
 
@@ -296,9 +315,6 @@ One of the standout advantages of an unlocked iPhone 15 is the freedom to choose
 
 Unlocked iPhones are a traveler's dream. With an unlocked device, you can insert a local SIM card when abroad. It lets you sidestep the exorbitant international roaming charges. This feature allows you to maintain connectivity without constraints. This makes it an ideal companion for international adventurers.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. No Contracts
 
 Locked smartphones often come with binding carrier contracts. These can extend for two years or more. With an unlocked iPhone 15, you can avoid lengthy contracts. It puts you in control of your financial commitments and enables you to change your plan as you see fit.
@@ -338,6 +354,10 @@ Determining whether your Apple iPhone 12 15 is unlocked is a crucial step. It is
 
 ![check iphone carrier lock status](https://images.wondershare.com/drfone/article/2023/08/unlocked-iphone-15-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5: The Best Websites To Buy Unlocked iPhone From the 15 Series
 
 When it comes to purchasing an unlocked iPhone 15 from the latest series, choosing the right platform is crucial. It will ensure a smooth and reliable buying experience. Here, we present a selection of reputable websites that offer unlocked iPhone 15 devices:
@@ -348,9 +368,6 @@ When it comes to purchasing an unlocked iPhone 15 from the latest series, choosi
 - [Swappa](https://swappa.com/buy/unlocked/iphones)
 - [Gazelle](https://buy.gazelle.com/collections/iphone-unlocked)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bonus Tip: Is There Any Way To Unlock a Locked iPhone? \[iOS 12.0 – iOS 14.8.1\]
 
 Unlocking a locked iPhone can be a pressing concern. It can especially be troubling if you have bought a second-hand device and it turns out to be carrier locked. In such situations, your best bet is to use a specialized tool like [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) for unlocking a locked iPhone.
@@ -373,6 +390,10 @@ You begin with installing and launching Wondershare Dr.Fone on your computer. Co
 
 ![proceed to screen unlock feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2: Jailbreak Your Locked iPhone**
 
 In the different options available, click on "Remove SIM Locked." Next, tap "Start" and wait for Wondershare Dr.Fone to recognize your Apple iPhone 12 15. You will now need to jailbreak your device, which you can do by following the on-screen instructions.
@@ -391,13 +412,11 @@ Now, forget all known networks from your device one by one. Afterward, disable W
 
 ![removing the sim lock](https://images.wondershare.com/drfone/guide/remove-iphone-sim-6.png)
 
-
 ## Conclusion
 
 To conclude, the decision to opt for an **iPhone 15 unlocked** series offers a realm of possibilities. The freedom to choose carriers and avoid international roaming charges are all compelling reasons for an unlocked device.
 
 When it comes to unlocking locked iPhones, a cautious and well-informed approach is essential. It is best to use a specialized tool like Wondershare Dr.Fone for unlocking carrier locks. With the help of Dr.Fone, you can safely remove the carrier lock within no time.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -411,9 +430,24 @@ When it comes to unlocking locked iPhones, a cautious and well-informed approach
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-elevating-your-channels-ranking-simple-strategies-unveiled-for-2024/"><u>[New] Elevating Your Channel's Ranking Simple Strategies Unveiled for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-perfecting-your-interview-role-a-comprehensive-guide/"><u>[New] In 2024, Perfecting Your Interview Role A Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-how-to-easily-create-captions-and-subtitles-for-facebook-videos/"><u>[Updated] In 2024, How to Easily Create Captions and Subtitles for Facebook Videos</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-innovating-visual-storytelling-exploring-the-world-of-smart-hdr-photography/"><u>[Updated] Innovating Visual Storytelling Exploring the World of Smart HDR Photography</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-preventing-unwanted-filming-in-quicktime/"><u>[Updated] Preventing Unwanted Filming in QuickTime</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/did-your-apple-iphone-12-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your Apple iPhone 12 Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-7-plus-drfone-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-guide-to-win11-editions-home-vs-professional-perks/"><u>Essential Guide to Win11 Editions: Home Vs. Professional Perks</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-15-plus-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 15 Plus With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-8-plus-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 8 Plus With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-iphone-13-mini-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My iPhone 13 mini when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-8-drfone-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-iphone-14-drfone-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-maximizing-video-memories-3-itunes-saving-methods/"><u>In 2024, Maximizing Video Memories 3 iTunes Saving Methods</u></a></li>
+<li><a href="https://win11.techidaily.com/simplified-steps-to-activate-windows-media-player/"><u>Simplified Steps to Activate Windows Media Player</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-your-disabled-iphone-12-pro-max-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>Unlock Your Disabled iPhone 12 Pro Max Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/why-linux-isnt-your-go-to-for-cloud-computing-and-how-a-dbos-stacks-up-experience-it-at-no-cost-zdnet/"><u>Why Linux Isn't Your Go-To for Cloud Computing and How a DBOS Stacks Up - Experience It at No Cost | ZDNet</u></a></li>
+</ul></div>
 
