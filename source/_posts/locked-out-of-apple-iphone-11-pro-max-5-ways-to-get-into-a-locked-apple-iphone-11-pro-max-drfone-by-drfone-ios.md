@@ -1,7 +1,7 @@
 ---
 title: Locked Out of Apple iPhone 11 Pro Max? 5 Ways to get into a Locked Apple iPhone 11 Pro Max | Dr.fone
-date: 2025-01-11T16:31:18.855Z
-updated: 2025-01-17T21:59:35.569Z
+date: 2025-01-18T17:07:14.784Z
+updated: 2025-01-24T16:12:04.487Z
 tags: 
   - unlock
   - remove screen lock
@@ -51,25 +51,13 @@ You can watch the video below about how to unlock your Apple iPhone 11 Pro Max w
 
 ![get into locked Apple iPhone 11 Pro Max by activating dfu mode](https://images.wondershare.com/drfone/drfone/ios-unlock-2.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4.** Provide the essential details about your phone in the next window and Download the firmware update.
 
 ![download firmware to get into locked Apple iPhone 11 Pro Max](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 5.** Wait a moment until the download process is done, and then click on the “Unlock Now” button to activate the process.
 
 ![start to get into locked Apple iPhone 11 Pro Max](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 6.** There will be a warning message showing up. Just confirm it by entering the on-screen code.
 
@@ -78,10 +66,6 @@ You can watch the video below about how to unlock your Apple iPhone 11 Pro Max w
 **Step 7.** Let the application resolve the issue on your phone. Once it is done, you will be notified that your lock screen is removed.
 
 ![got into locked Apple iPhone 11 Pro Max successfully](https://images.wondershare.com/drfone/drfone/ios-unlock-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to get into a locked Apple iPhone 11 Pro Max with iTunes?
 
@@ -101,6 +85,10 @@ This is another popular way to resolve the locked out of the Apple iPhone 11 Pro
 
 ![restore Apple iPhone 11 Pro Max](https://images.wondershare.com/drfone/article/2017/07/14994495527134.jpg "restore Apple iPhone 11 Pro Max")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to get into a locked Apple iPhone 11 Pro Max via Find My Apple iPhone 11 Pro Max?
 
 Apple’s official Find My Apple iPhone 11 Pro Max is a smart and hassle-free way to locate your lost Apple iPhone 11 Pro Max or reset it remotely. All you need to remmber is your Apple ID and password. To use this method, preconditions are: Find My Apple iPhone 11 Pro Max is enabled and internet network is available. Follow these instructions to reset your Apple iPhone 11 Pro Max:
@@ -112,6 +100,10 @@ Apple’s official Find My Apple iPhone 11 Pro Max is a smart and hassle-free wa
 **Step 2.** This will provide various tasks that you can perform on the iOS device. Click on the “Erase Apple iPhone 11 Pro Max” button to reset the Apple iPhone 11 Pro Max device.
 
 ![erase Apple iPhone 11 Pro Max](https://images.wondershare.com/drfone/article/2017/07/14994495147747.jpg "erase Apple iPhone 11 Pro Max")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: How to get into a locked Apple iPhone 11 Pro Max with Siri?
 
@@ -125,13 +117,13 @@ If you don’t want to erase your device’s data while resolving this issue, yo
 
 ![world clock](https://images.wondershare.com/drfone/article/2017/07/14994491682149.jpg "world clock")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3.** The interface will ask you to search for a location of your choice. Type anything on the search tab and select it to get various options. Tap on the “Select all” text.
 
 ![select all](https://images.wondershare.com/drfone/article/2017/07/14994491845337.jpg "select all")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 4.** A few added options will be displayed. Tap on “Share” to proceed.
 
@@ -144,6 +136,10 @@ If you don’t want to erase your device’s data while resolving this issue, yo
 **Step 6.** A new interface will be opened from where you can draft a new message. Type anything in the “To” field and tap "return" from a keyboard.
 
 ![send to](https://images.wondershare.com/drfone/article/2017/07/14994492327446.jpg "send to")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 7.** Then the text will be highlighted. Tap on the add icon.
 
@@ -166,7 +162,7 @@ If you don’t want to erase your device’s data while resolving this issue, yo
 ![iphone home](https://images.wondershare.com/drfone/article/2017/07/14994493369614.jpg "iphone home")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -182,7 +178,7 @@ Follow the steps outlined in the page's latter part to learn **how to turn off R
 ![turn off restricted mode iphone banner](https://images.wondershare.com/drfone/article/2024/01/disable-restricted-mode-on-iphone-01.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1. What Is the iPhone's Restricted Mode?
@@ -195,14 +191,6 @@ iPhone's Restricted Mode is a comprehensive set of features to enhance user cont
 - **Parental controls.**Targeting family use, Restricted Mode incorporates robust parental controls. Parents can manage and monitor screen time for a balanced, age-appropriate digital experience for their children.
 
 ![front view child using iphone](https://images.wondershare.com/drfone/article/2024/01/disable-restricted-mode-on-iphone-02.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2. Why Can't I Remove Restricted Mode?
 
@@ -256,7 +244,15 @@ For those using iOS 11 and below, the steps are a bit different:
 
 ![turning off restrictions mode ios 11](https://images.wondershare.com/drfone/article/2024/01/disable-restricted-mode-on-iphone-05.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Toggle off the switch next to **Restrictions**. The action turns off Restricted Mode on iOS 11 and below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Turn Off Restricted Mode Using Dr.Fone - Screen Unlock (iOS)
 
@@ -327,6 +323,10 @@ Follow the steps to learn **how to disable Restricted Mode on iPhone** when usin
 
 [<u>100% Working - Screen Time Passcode Not Working Solutions</u>](https://drfone.wondershare.com/unlock/screen-time-passcode-not-working.html)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Managing **how to disable Restricted Mode on iPhone** and YouTube ensures a safer digital environment. On iPhone, employ various methods like navigating settings or using Dr.Fone - Screen Unlock (iOS) for forgotten passcodes. On YouTube, easily toggle Restricted Mode in-app or on the browser for a more controlled viewing experience.
@@ -374,10 +374,6 @@ All you have to do is follow the steps given below.
 4. You will have to click on it, showing you a confirmation message to erase all your data on your Apple iPhone 11 Pro Max.
 5. Confirm it, and your Apple iPhone 11 Pro Max will be restored to the factory settings, and all your data will be removed.
 6. Once the process is completed, you can unlock your Apple iPhone 11 Pro Max X lock screen without any passcode.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method #3: Remove Passcode With Tapping Erase Phone (iOS 15.2 only)
 
@@ -437,6 +433,10 @@ Once the process is completed, you can unlock your Apple iPhone 11 Pro Max XR lo
 
 Following are 3 frequently asked questions that might come into your mind and their answers to help you understand everything.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How to remove the passcode on an iOS device?
 
 First, open the Settings menu and scroll down to the Touch ID & Passcode option. Here, you will need to enter your current passcode to disable it.
@@ -481,24 +481,19 @@ So, these are some most effective methods to follow and unlock the Apple iPhone 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-briefvideo-creator/"><u>[New] 2024 Approved BriefVideo Creator</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-ultimate-6-devices-for-flawless-film-translation/"><u>[New] Ultimate 6 Devices for Flawless Film Translation</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/updated-bite-sized-video-knowledge-now/"><u>[Updated] Bite-Sized Video Knowledge Now</u></a></li>
-<li><a href="https://win11.techidaily.com/avoiding-not-working-mishaps-on-your-devices-windows-apps/"><u>Avoiding 'Not Working' Mishaps on Your Device’s Windows Apps</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-iphone-8-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve iPhone 8 Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-iphone-8-plus-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For iPhone 8 Plus Lock Screen | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/er-common-youtube-short-setbacks/"><u>Conquer Common YouTube Short Setbacks</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/football-footage-fundamentals-without-finances/"><u>Football Footage Fundamentals Without Finances</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-12-mini-with-7-methods-drfone-by-drfone-ios/"><u>How To Change Country on App Store for iPhone 12 mini With 7 Methods | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-15-pro-max-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone 15 Pro Max Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/how-to-watch-hulu-outside-us-on-oppo-k11-5g-drfone-by-drfone-virtual-android/"><u>How to Watch Hulu Outside US On Oppo K11 5G | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-15-plus-drfone-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone 15 Plus | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-14-pro-drfone-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 15 with a Mask On | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
-<li><a href="https://win-top.techidaily.com/1726219920237-movaviwavogg/"><u>Movaviでの無料WAVからOggへのオンライン音声ファイル変換</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-7-plus-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>Unlock Apple iPhone 7 Plus With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/king-monetization-potential-the-modern-creators-manual-for-mobile/"><u>Unlocking Monetization Potential The Modern Creator’s Manual for Mobile</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-revolutionize-your-content-10-best-animated-text-creators/"><u>Updated In 2024, Revolutionize Your Content 10 Best Animated Text Creators</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-clear-vision-in-gaming-captures-overcoming-obs-black-screens/"><u>[New] In 2024, Clear Vision in Gaming Captures Overcoming OBS Black Screens</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-diy-guide-screen-capture-and-sound-from-youtube/"><u>[Updated] 2024 Approved DIY Guide Screen Capture & Sound From YouTube</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-motorola-razr-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Motorola Razr 40 | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/backwards-play-iphones-unique-reverse-feature-for-2024/"><u>Backwards Play IPhone's Unique Reverse Feature for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-14-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 14 Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-15-with-7-methods-drfone-by-drfone-ios/"><u>How To Change Country on App Store for iPhone 15 With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-harmonic-windows-tunes-hub/"><u>In 2024, Harmonic Windows Tunes Hub</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-apple-iphone-15-pro-max-drfone-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-iphone-15-pro-max-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix iPhone 15 Pro Max Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-iphone-14-plus-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>In 2024, Unlocking iPhone 14 Plus Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-variants-of-windows-movie-maker-a-comprehensive-list/"><u>In 2024, Variants of Windows Movie Maker A Comprehensive List</u></a></li>
+<li><a href="https://article-helps.techidaily.com/must-have-add-ons-for-your-gopro-adventure-for-2024/"><u>Must-Have Add-Ons for Your GoPro Adventure for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/y-film-maker-for-2024/"><u>Snappy Film Maker for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-8-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>Unlock iPhone 8 With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
 </ul></div>
 

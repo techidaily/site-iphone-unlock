@@ -1,7 +1,7 @@
 ---
 title: iPhone X Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone
-date: 2025-01-16T16:46:25.146Z
-updated: 2025-01-18T05:37:56.159Z
+date: 2025-01-22T16:28:39.842Z
+updated: 2025-01-24T18:32:19.873Z
 tags: 
   - unlock
   - remove screen lock
@@ -20,21 +20,17 @@ If you’ve recently updated your iOS iPhone and iPad to the iOS 17/14 operating
 
 This obviously means you won’t be able to access your phone, and in many cases, you’re going to want to get back into your phone as quickly as possible. However, this may be easier said than done. Fortunately, today we’re going to go through multiple solutions to help you get your device working as it should!
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1. Don’t try passcodes blindly
 
 One of the worst things you can do when faced with this situation is to enter passcodes blindly. Perhaps you’re trying random numbers and letters, or you’re trying passwords you’ve used in the past. If you get it wrong, you’re going to be locked out of your device for a long time.
 
 The more times you get your code wrong, the longer you’ll be locked out, so avoid doing this at all costs, so make sure you move straight onto these approaches to get your phone working as quickly as possible.
 
-## Part 2. 5 ways to unlock iPhone after iOS 17/14 Update
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## Part 2. 5 ways to unlock iPhone after iOS 17/14 Update
 
 ### 2.1 Try a default passcode in your family
 
@@ -42,15 +38,7 @@ While we said, you shouldn’t type in random numbers to try and guess the passw
 
 ![iphone random passcodes](https://images.wondershare.com/drfone/iphone-random-passcodes-.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 In reality, you get three attempts to put a passcode in before it locks you out, so try two passcodes that your family uses to see whether this will easily unlock your device. If you brought your device preowned and still have contact with the owner, they may have a passcode you can try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2.2 Unlock iPhone with an unlock tool
 
@@ -68,13 +56,13 @@ When it does, close iTunes if it automatically opens and clicks the Screen Unloc
 
 ![android ios unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3.** You will now need to put your device in DFU mode, also known as Recovery Mode. Fortunately, this is easy thanks to the on-screen instructions where you will hold down the volume down and power button for a few seconds.
 
 ![ios unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4.** Once Dr.Fone - Screen Unlock (iOS) has detected your device in DFU Mode. You’ll be able to select which device you’re using and what firmware you want to be repaired; in this case, iOS 17/14.
 
@@ -85,6 +73,14 @@ When it does, close iTunes if it automatically opens and clicks the Screen Unloc
 That’s how easy Dr.Fone - Screen Unlock (iOS) makes the entire unlock process!
 
 ![drfone advanced unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.3 Restore an old backup from iTunes
 
@@ -99,6 +95,14 @@ It’s only possible to do this if you’ve backed up your iOS device in the pas
 **Step 3.** Follow the onscreen instructions where you’ll choose which backup file you want to use before iTunes, then restores your device. When the software has completed the process, you’ll be able to disconnect your Apple iPhone X and use it without a lock screen!
 
 ![drfone home](https://images.wondershare.com/drfone/restore_itunes_backup.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.4 Restore in recovery mode
 
@@ -185,10 +189,6 @@ When activated, it takes you to the lock screen, prompting Face ID, Touch ID, or
 **Step 4.** Finally, tap "Done" to finalize the shortcut. Now, upon accessing the targeted app, the shortcut will activate in the background, causing your Apple iPhone X to be locked. You can then use the Face ID, Touch ID, or passcode to unlock it.
 
 ![press the done option](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-7.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: How to Lock Apps on iPhone Using Restrictions?
 
@@ -280,15 +280,15 @@ To do that, access "Safari" in "Settings" and move to"Content Blockers" to enabl
 
 ![select the app blocker feature](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4: Block Any App Using the App Blocker Feature**
 
 Establish the connection between your kids' iOS devices and your PC by pairing them with your phone. From there, effortlessly choose and block any unwanted apps on your kids' phones. Additionally, you have the option to block apps based on their App Store ratings for added control and security.
 
 ![block the required apps](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Lock apps onApple iPhone X & iPad using App Locker
 
@@ -334,10 +334,6 @@ Just like Applocker, BioProtect is another third-party tool that works only on j
 
 ![protected applications](https://images.wondershare.com/drfone/article/2017/09/15060137256044.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 7.** Simply turn on (or off) the feature of the app that you wish to lock.
 
 **Step 8.** You can also go to the “Touch ID” feature to further calibrate the app.
@@ -359,7 +355,7 @@ Furthermore, you can't manage any vital task if you have scheduled it. In such c
 All the solutions mentioned here are highly secure and work almost every time. So, if you are worried about the security of your device, we suggest you use Dr.Fone-Screen Unlock. It is the best tool in case of a **forgotten iPhone PIN.**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: 4 Simple Ways to Unlock iPhone without Pin
@@ -385,6 +381,10 @@ The steps below work if your Apple iPhone X or iPad runs iOS 15.2 or later and i
 - Pick Restore when you see the choice to Restore. Let the download finish if the download takes over 15 minutes and your device leaves the recovery mode screen. Then, at that point, turn off your Apple iPhone X and start once more.
 
 ![click restore](https://images.wondershare.com/drfone/article/2022/11/forgotten-iphone-pin-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Disconnect your Apple iPhone X, then, at that point, turn it on and set it up. That's all you need to do.
 
@@ -454,6 +454,10 @@ To unlock iPhone, you need to boot it in Recovery/DFU mode by following the guid
 
 ![enter recovery mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3. Confirm Your Apple iPhone X Model**
 
 After opening the recovery mode, you can see your Device Model and iOS version. You must select the correct data from the dropdown menu if the information is incorrect. After doing so, click download to download the suitable firmware package for your phone model.
@@ -475,10 +479,6 @@ Simply in almost no time, your Apple iPhone X will be unlocked effectively. Howe
 - Open your Settings app and peer down until you see the passcode menu. On iPhones with a home button, this will be named "Touch ID and Passcode." On new ones, it is "Face ID and Passcode."
 
 ![passcode menu](https://images.wondershare.com/drfone/article/2022/11/forgotten-iphone-pin-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - Enter your existing code or create a new one.
 - Toggle on the "Turn Passcode Off" option.
@@ -512,20 +512,19 @@ Due to one reason or another, you may have **forgotten iPhone PIN.** However, it
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-hear-now-or-never-the-solution-for-twitter-vids/"><u>[New] 2024 Approved Hear Now or Never The Solution for Twitter Vids</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-youtube-star-level-stabilization-tools-listed/"><u>[Updated] 2024 Approved YouTube Star-Level Stabilization Tools Listed</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-ultimate-guide-top-screen-capture-apps-analysis/"><u>[Updated] In 2024, Ultimate Guide Top Screen Capture Apps Analysis</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/adding-richness-youtube-videos-in-slideshows-for-2024/"><u>Adding Richness YouTube Videos in Slideshows for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/can-you-unlock-iphone-6-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>Can You Unlock iPhone 6 After Forgetting the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/disabled-iphone-8-how-to-unlock-a-disabled-iphone-8-drfone-by-drfone-ios/"><u>Disabled iPhone 8 How to Unlock a Disabled iPhone 8? | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/fixing-genshin-impact-understanding-and-resolving-error-4201/"><u>Fixing Genshin Impact: Understanding and Resolving Error 4201</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-14-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix iPhone 14 Unavailable Issue With Ease | Dr.fone</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-realme-v30t-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Realme V30T? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-stolen-iphone-6-plus-in-different-conditionsin-drfone-by-drfone-ios/"><u>How To Unlock Stolen iPhone 6 Plus In Different Conditionsin | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-xs-max-passcode-not-working-drfone-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone XS Max Passcode not Working? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2020-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE (2020) With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-xs-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone XS Prevention & Solution | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/the-ultimate-guide-to-restoring-windows-photo-viewer-on-win-11/"><u>The Ultimate Guide to Restoring Windows Photo Viewer on Win 11</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-take-your-editing-to-the-next-level-5-expert-final-cut-pro-tips/"><u>Updated Take Your Editing to the Next Level 5 Expert Final Cut Pro Tips</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-mastering-stardews-core-principles-and-secrets-with-special-emphasis-on-ginger-island/"><u>[New] Mastering Stardew's Core Principles and Secrets, With Special Emphasis on Ginger Island</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-best-podcast-apps-for-android/"><u>[Updated] Best Podcast Apps for Android</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-ideal-online-places-to-raise-audience-numbers/"><u>[Updated] Ideal Online Places to Raise Audience Numbers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-frozen-olympics-spectacular-2022-highlights/"><u>2024 Approved Frozen Olympics Spectacular 2022 Highlights</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-14-pro-max-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-13-pro-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-13-pro-and-ipad-securely-drfone-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 13 Pro and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-comprehensive-telegram-web-usage-tips-and-tricks/"><u>In 2024, Comprehensive Telegram Web Usage Tips & Tricks</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-iphone-11-drfone-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-iphone-12-pro-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 12 Pro When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-iphone-se-2020-drfone-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/phones-to-cameras-enhancing-your-live-stream-setup/"><u>Phones to Cameras Enhancing Your Live Stream Setup</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/forming-skincare-secrets-into-social-stardom-for-2024/"><u>Transforming Skincare Secrets Into Social Stardom for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-below-is-a-list-of-top-5-free-wmv-splitters-which-can-help-you-split-your-frames-without-damaging-the-quality-of-your-video/"><u>Updated Below Is a List of Top 5 Free WMV Splitters Which Can Help You Split Your Frames without Damaging the Quality of Your Video</u></a></li>
 </ul></div>
 

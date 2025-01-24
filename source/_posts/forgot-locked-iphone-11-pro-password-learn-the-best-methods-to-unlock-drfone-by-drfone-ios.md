@@ -1,7 +1,7 @@
 ---
 title: Forgot Locked iPhone 11 Pro Password? Learn the Best Methods To Unlock | Dr.fone
-date: 2024-07-15T06:11:30.645Z
-updated: 2024-07-16T06:11:30.645Z
+date: 2025-01-17T17:59:53.088Z
+updated: 2025-01-24T17:46:14.563Z
 tags: 
   - unlock
   - remove screen lock
@@ -46,6 +46,9 @@ Once Wondershare Dr.Fone is downloaded and installed on your computer, launch it
 
 ![unlock ios screen with dr fone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2. Enter Recovery Mode and Download Firmware**
 
@@ -75,6 +78,10 @@ If you've locked a note on your Apple iPhone 11 Pro but forgot the password, the
 
 ![enter new password for notes](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3. How To Unlock Notes on iPhone Using Touch ID/Face ID
 
 Even if you've forgotten the password to your Notes on iPhone, there's an alternative method available. You can unlock them by enabling Face ID or Touch ID for Notes. This feature allows users to access locked notes through biometric authentication. Here's **how to unlock a note on iPhone** using Touch ID/Face ID:
@@ -88,6 +95,10 @@ Even if you've forgotten the password to your Notes on iPhone, there's an altern
 - **Step 2.** If you want to save the content of the locked note without re-locking it, select all the content. Now, "Copy" the note's content and paste it on a new note to recover the data from a locked note.
 
 ![copy locked note content](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus Tip. Learn How To Lock Notes on iPhone Easily
 
@@ -105,6 +116,10 @@ Locking notes on your Apple iPhone 11 Pro provides extra security for your sensi
 
 In conclusion, this article addressed methods for **how to recover locked notes on iPhone**s. It explored options such as using Settings to remove note locks, leveraging Touch ID/Face ID for access, and introducing Wondershare Dr.Fone as a comprehensive solution. Dr.Fone offers a direct approach to unlocking devices when passwords are inaccessible.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Unlock Apple iPhone 11 Pro With an Apple Watch & What to Do if It Doesn't Work
 
 ![man wearing apple watch with Apple iPhone 11 Pro by him](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch.jpg)
@@ -118,7 +133,6 @@ With a quick little tap, you can have your Apple iPhone 11 Pro’s camera workin
 Moreover, you might be able to **use the Apple Watch to unlock your Apple iPhone 11 Pro**.
 
 Now, you cannot just **unlock any Apple iPhone 11 Pro with your Watch**. The devices must be paired, and you’ll need to follow a few steps to enable this option. Here’s how to unlock your phone using your Apple Watch like a pro.
-
 
 ## Part 1. Can I Use an Apple Watch To Unlock My Apple iPhone 11 Pro?
 
@@ -157,9 +171,6 @@ Additional requirements you’ll need to meet include:
 
 You’ll also need to wear items such as sunglasses, face coverings, ski masks, or others that prevent you from using your Apple iPhone 11 Pro Face ID.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3. How To Unlock Apple iPhone 11 Pro With an Apple Watch
 
 ![a cyclist wearing an apple watch](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-4.jpg)
@@ -183,6 +194,10 @@ You can turn on wrist detection on your watch by following these steps:
 
 ![apple watch wrist detection settings](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now that you’ve enabled the option to unlock your Apple iPhone 11 Pro using your Apple Watch, it’s time to simply start using the feature. To unlock your phone, you’ll need to:
 
 - Have your Apple Watch on your wrist, unlocked;
@@ -196,9 +211,6 @@ However, remember that the next time you want to use your Apple Watch to unlock 
 
 ## Part 4. What To Do if You Can’t Unlock Your Apple iPhone 11 Pro With a Watch
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![person wearing face mask unlocking their Apple iPhone 11 Pro](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-7.jpg)
 
 Generally speaking, unlocking your Apple iPhone 11 Pro with an Apple Watch should be a simple, seamless task. Unfortunately, though, that’s not always the case. A glitch or a bug could be preventing you from enjoying this feature, so take a look at a few things you could try to fix it.
@@ -237,6 +249,10 @@ When you tap on this, you’ll need to go through the process of setting your Fa
 
 Move your face to complete the circle, then tap on **Continue**. Repeat the face scan process the second time and select **Done**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4. Do a System Repair on Your Apple iPhone 11 Pro
 
 If your Apple Watch unlock is still misbehaving, you might need to do a full system repair. As a general rule of thumb, it’s best to use verified apps like Dr.Fone to prevent the problem from getting worse.
@@ -255,6 +271,10 @@ To perform a standard system repair with Dr.Fone, follow the next few steps:
 - **Step 5:** Select **iOS repair**;
 
 ![dr.fone ios repair](https://images.wondershare.com/drfone/guide/ios-system-repair-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 6:** Select **Standard Repair Mode**;
 - **Step 7:** Follow the on-screen instructions and select **Enter Recovery Mode**;
@@ -294,7 +314,9 @@ Using your Apple Watch to unlock your Apple iPhone 11 Pro is convenient when you
 
 Enabling this option is a straightforward process, and if there’s ever a glitch, there are several options you could try to repair it.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What Does Jailbreaking Apple iPhone 11 Pro i Do? Get Answers here
 
@@ -304,10 +326,11 @@ However, is jailbreaking an iPhone safe and legal? It's a complex answer and not
 
 To learn more, read on and explore the capabilities of a jailbroken iPhone in the following sections. This article will also touch on its impact on [<u>iCloud Activation Lock</u>](https://drfone.wondershare.com/icloud/bypass-iphone-11-12-icloud-activation-lock.html). Let's start with the benefits and risks of jailbreaking your Apple iPhone 11 Pro.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![iphone devices back view](https://images.wondershare.com/drfone/article/2024/01/what-does-jailbreaking-an-iphone-do-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What Does Jailbreaking an iPhone Do?
 
@@ -353,9 +376,6 @@ Jailbreaking is seen by Apple as a device modification. Doing so can void your d
 
 Jailbreaking may make your system unstable and cause performance problems. When you add unauthorized tweaks or apps, they can clash with iOS. This clash might result in [<u>crashes</u>](https://drfone.wondershare.com/iphone-problems/iphone-apps-crashing-on-ios-13.html), [<u>freezes</u>](https://drfone.wondershare.com/android-issue/fix-samsung-freeze.html), or a general drop in your Apple iPhone 11 Pro's performance.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone apps crashing message](https://images.wondershare.com/drfone/article/2024/01/what-does-jailbreaking-an-iphone-do-03.jpg)
 
 - **Difficulty in Updating**
@@ -402,7 +422,6 @@ Dr.Fone uses the responsible path of jailbreaking your iOS device, giving you ba
 
 - **Step 1:** Download Dr.Fone and set up the software on your computer.
 
-
 - **Step 2:** Open the program and select **Screen Unlock** from the available options on the **Toolbox** page.
 
 ![dr.fone toolbox homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
@@ -410,6 +429,10 @@ Dr.Fone uses the responsible path of jailbreaking your iOS device, giving you ba
 - **Step 3:** Choose **iOS** as your device type, then select **iCloud Activation Lock Removal** on the next window.
 
 ![dr.fone screen unlock tools](https://images.wondershare.com/drfone/guide/bypass-activation-lock-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4:** Click **Start** to initiate the bypass process.
 
@@ -440,9 +463,6 @@ If you're the rightful owner of the iPhone, the safest and most legitimate way t
 - **Step 1:** Go to appleid.apple.com, then sign in with your Apple ID and password.
 - **Step 2:** Select the Apple iPhone 11 Pro device you want to remove the Activation Lock from, then click **Remove from account**.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![remove device from icloud account](https://images.wondershare.com/drfone/article/2024/01/what-does-jailbreaking-an-iphone-do-12.jpg)
 
 - **Step 3:** Confirm that you want to remove the Apple iPhone 11 Pro device.
@@ -457,7 +477,6 @@ Jailbreaking your Apple iPhone 11 Pro weakens its iOS security, possibly exposin
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -470,9 +489,22 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-dynamic-delivery-dissection-episode-8-revision/"><u>[Updated] 2024 Approved Dynamic Delivery Dissection - Episode 8 Revision</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-new-normal-for-vr-industry-insights/"><u>[Updated] The New Normal for VR Industry Insights</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/effective-techniques-to-eliminate-discord-echo-issues-on-your-windows-computer/"><u>Effective Techniques to Eliminate Discord Echo Issues on Your Windows Computer</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/exploring-top-notch-equipment-with-toms-hardware-insights/"><u>Exploring Top-Notch Equipment with Tom's Hardware Insights</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/fix-apple-iphone-15-plus-stuck-on-data-transfer-verified-solution-drfone-by-drfone-transfer-from-ios/"><u>Fix Apple iPhone 15 Plus Stuck on Data Transfer Verified Solution! | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-13-pro-max-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone 13 Pro Max? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-iphone-se-2022-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your iPhone SE (2022) Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-8-plus-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone 8 Plus when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-x-drfone-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-14-pro-apples-new-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 14 Pro, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-disabled-iphone-14ipad-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Disabled iPhone 14/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-oppo-a78-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Oppo A78</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/seamless-video-transfer-from-youtube-to-instagram-for-2024/"><u>Seamless Video Transfer From YouTube to Instagram for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/trouble-with-apple-iphone-xs-max-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with Apple iPhone XS Max Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/unlocking-creativity-incorinasive-use-of-luts-in-video-editing/"><u>Unlocking Creativity Incorinasive Use of LUTs in Video Editing</u></a></li>
+</ul></div>
 

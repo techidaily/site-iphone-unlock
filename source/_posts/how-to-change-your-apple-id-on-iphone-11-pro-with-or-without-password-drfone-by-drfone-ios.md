@@ -1,7 +1,7 @@
 ---
 title: How To Change Your Apple ID on iPhone 11 Pro With or Without Password | Dr.fone
-date: 2024-07-15T06:11:21.324Z
-updated: 2024-07-16T06:11:21.324Z
+date: 2025-01-23T17:04:47.733Z
+updated: 2025-01-24T16:45:22.291Z
 tags: 
   - unlock
   - remove screen lock
@@ -87,10 +87,11 @@ If you're in China mainland or India, and you're using iOS 11 or later, you can 
 - **Step 2:** On your iPad, go to **Settings** > **\[your account name\]** > **Sign-in & Security**.
 - **Step 3:** Tap **Edit** next to **Email & Phone Numbers**.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![click edit on iphone](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-on-ipad-06.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4:** Go to the **Delete** icon next to your mobile number and follow the directions given.
 - **Step 5:** Enter the code sent to the mobile number you added as your new Apple ID to verify it.
@@ -120,9 +121,6 @@ If you've addressed these issues and still can't change your Apple ID, don't wor
 
 However, if you can't **change your Apple ID on your iPad** because you forgot or don't have access to the password, you can use a third-party tool such as Dr.Fone. This tool is easy to use and can help you unlock your iPad and remove the Apple ID in a few clicks.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: Using <u>Wondershare Dr.Fone</u>
 
 Dr.Fone Screen Unlock (iOS) tool is your go-to solution for unlocking iOS devices without a passcode. The best part? It is easy to use for users of all technical backgrounds. With Dr.Fone, you can unlock iOS screens protected by 4 to 6-digit passcodes, Face ID, Touch ID, and more.
@@ -135,10 +133,13 @@ Dr.Fone can bypass the Find My/Find My iPhone feature to remove your Apple ID fr
 
 - **Step 1:** Get [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) from their website and install it on your computer.
 
-
 - **Step 2:** From the app's **Toolbox** homepage, click **Screen Unlock**, and select **iOS**.
 
 ![dr.fone toolbox homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Select **Remove AppleID** from the available **Screen Unlock** tools.
 
@@ -150,9 +151,6 @@ Dr.Fone can bypass the Find My/Find My iPhone feature to remove your Apple ID fr
 
 - **Step 5:** Click **Yes** to confirm your device has a screen lock. Otherwise, it won't work.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![confirm screen unlock setup](https://images.wondershare.com/drfone/guide/remove-apple-id-3.png)
 
 - **Step 6:** Enable the Two-Factor Authentication on your iPad so you can unlock your Apple ID. Then, click **Yes** to proceed.
@@ -178,6 +176,10 @@ Dr.Fone can bypass the Find My/Find My iPhone feature to remove your Apple ID fr
 - **Step 11:** From the **Warning** dialogue box, enter the code shown in the text field, then click **Unlock**.
 
 ![dr.fone warning dialogue box](https://images.wondershare.com/drfone/guide/remove-apple-id-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 12:** Wait and refrain from using your device while it's connected to avoid a [<u>bricked device</u>](https://drfone.wondershare.com/iphone-problems/how-to-fix-bricked-iphone.html).
 
@@ -223,13 +225,18 @@ Yet, there come moments when users might accidentally lock their Apple Watch. It
 
 ![unlock a locked apple watch](https://images.wondershare.com/drfone/article/2024/01/apple-watch-how-to-unlock-guide-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1. Is It Possible To Unlock the Apple Watch Without a Passcode or Paired Phone?
 
 When it comes to a locked **Apple Watch, how to unlock** it becomes essential. Unlocking the Apple Watch might seem complicated, especially without a passcode or paired phone. However, rest assured, there are multiple methods available to regain access. These solutions offer diverse perspectives on resolving the issue. It ensures you're not reliant solely on the passcode or a connected phone to unlock your device.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2. How To Unlock Apple Watch With Passcode or Paired Phone?
 
 Do you have the passcode and your Apple Watch paired with an iPhone? It makes the **how do I unlock my Apple Watch** process swift and effortless.
@@ -284,6 +291,10 @@ If you forget your Apple Watch passcode without a paired device, a method to unl
 
 ![reset apple watch successfully](https://images.wondershare.com/drfone/article/2024/01/apple-watch-how-to-unlock-guide-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Way 3. Unlocking Apple Watch Activation Lock by Contacting Previous Owner
 
 Losing access to your Apple Watch goes beyond just forgetting the passcode; purchasing a used Apple Watch can also lead to being locked out. In this scenario, you can encounter an Activation Lock. Reaching out to the previous owner is a direct and often effective solution.
@@ -297,6 +308,10 @@ By contacting the previous owner, you can request them to remove the Apple iPhon
 - **Step 2.** Once there, choose your Apple Watch from the "All Devices" list. Opt for "Erase This Device" from the Apple iPhone 11 Pro device's pop-up menu. Finally, adhere to the on-screen instructions to finalize the process.
 
 ![erase your watch via icloud](https://images.wondershare.com/drfone/article/2024/01/apple-watch-how-to-unlock-guide-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus Tip. Unlock Your Locked iPhone With Wondershare Dr.Fone - Screen Unlock (iOS)
 
@@ -319,7 +334,6 @@ Dr.Fone, preferred by iOS users for its user-friendly interface and straightforw
 Upon installing Wondershare Dr.Fone on your computer, launch the program. Access the "Toolbox" and navigate to "Screen Unlock". Select "iOS" as the Apple iPhone 11 Pro device type and then choose "Unlock iOS Screen." Click "Start" to commence the unlocking process for your iOS device.
 
 ![proceed with unlock ios screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-2.png)
-
 
 - **Step 2. Entering Recovery Mode and Firmware Preparation**
 
@@ -369,6 +383,10 @@ If the Auto-Lock is greyed out on your iPad or iPhone and you use it for work or
 
 ![setup remote management on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-04.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Alright, you know the possible reasons why the Auto-Lock option is not working on your iOS device. Still, you might be wondering how to fix the Auto-Lock greyed-out issue. Below are several ways to get your iPad or iPhone Auto-Lock working normally again.
 
 Fix No.1: Disable Low Power Mode
@@ -381,6 +399,10 @@ Your **iPhone Auto-Lock greyed out** because Low Power Mode limits background ac
 
 ![iphone turn off low power mode](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-05.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Low Battery Mode can stretch your battery life further. But if you need your screen to stay on longer, like while reading an article or watching a video, you can turn it off. It lets you adjust the screen timeout in ****Settings**** so it stays awake for as long as you like.
 
 Fix No.2: Check Screen Time Restrictions
@@ -392,6 +414,10 @@ You've ruled out the Low Power Mode, but the **Auto-Lock greyed out on iPad** or
 - **Step 3:** Tap **Turn Off Screen Time**.
 
 ![turn off screen time on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-06.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Fix No.3: Remove MDM Configuration Profile
 
@@ -450,9 +476,6 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 - **Step 3:** Select **Bypass MDM**, then click **Get Start** to proceed.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unlock mdm situation options](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-2.png)
 
 - **Step 4:** Please review the message carefully before initiating the MDM bypass process. Once you've read it, click **Start to Bypass** to proceed.
@@ -508,9 +531,6 @@ For an easy solution, use Dr.Fone Screen Unlock to bypass MDM restrictions, givi
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -523,9 +543,20 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-a-tweet-to-snap-showcase-video-posting-techniques/"><u>[New] 2024 Approved A Tweet-to-Snap Showcase Video Posting Techniques</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-instantaneous-srt-to-txt-change-a-step-by-step-process/"><u>[New] Instantaneous SRT to TXT Change A Step-by-Step Process</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-boosting-your-video-income-on-youtube-essentials/"><u>[Updated] In 2024, Boosting Your Video Income on Youtube - Essentials</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/2024-approved-launch-a-seamless-live-experience-on-discord-with-these-steps/"><u>2024 Approved Launch a Seamless Live Experience on Discord with These Steps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/correcting-excessive-zoom-in-your-whatsapp-media-sharing/"><u>Correcting Excessive Zoom in Your WhatsApp Media Sharing</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-6s-plus-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone 6s Plus? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-iphone-x-passcode-not-working-drfone-by-drfone-ios/"><u>In 2024, How to Fix iPhone X Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-without-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-13-mini-properly-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone 13 mini Properly</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-13-pro-max-drfone-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/step-by-step-screenshot-procedures-for-hp-devices-for-2024/"><u>Step-by-Step Screenshot Procedures for HP Devices for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-small-vs-big-pc-debate-make-an-informed-decision-today/"><u>The Small Vs. Big PC Debate: Make an Informed Decision Today!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/transform-your-youtube-profile-incorinaste-gamers-templates-for-2024/"><u>Transform Your YouTube Profile Incorinaste Gamers' Templates for 2024</u></a></li>
+</ul></div>
 

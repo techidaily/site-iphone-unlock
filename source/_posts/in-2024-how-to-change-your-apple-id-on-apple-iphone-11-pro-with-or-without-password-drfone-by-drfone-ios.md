@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Change Your Apple ID on Apple iPhone 11 Pro With or Without Password | Dr.fone
-date: 2024-07-15T06:12:31.634Z
-updated: 2024-07-16T06:12:31.634Z
+date: 2025-01-20T17:49:29.283Z
+updated: 2025-01-24T16:25:32.371Z
 tags: 
   - unlock
   - remove screen lock
@@ -89,11 +89,19 @@ If you're in China mainland or India, and you're using iOS 11 or later, you can 
 
 ![click edit on iphone](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-on-ipad-06.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** Go to the **Delete** icon next to your mobile number and follow the directions given.
 - **Step 5:** Enter the code sent to the mobile number you added as your new Apple ID to verify it.
 - **Step 6:** Log into all Apple services using your new Apple ID.
 
 Even if you can't **change your Apple ID on your iPad** to a mobile phone number, you can still associate it with a phone number on your account page. It means you can [<u>use a different email address or mobile phone number to log in to your Apple ID</u>](https://drfone.wondershare.com/apple-account/how-to-remove-phone-number-from-apple-id.html). See the next sections for more information on the workarounds you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: What To Do if You Cannot Change Your Apple ID on iPad?
 
@@ -129,7 +137,6 @@ Dr.Fone can bypass the Find My/Find My iPhone feature to remove your Apple ID fr
 
 - **Step 1:** Get [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) from their website and install it on your computer.
 
-
 - **Step 2:** From the app's **Toolbox** homepage, click **Screen Unlock**, and select **iOS**.
 
 ![dr.fone toolbox homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
@@ -144,9 +151,6 @@ Dr.Fone can bypass the Find My/Find My iPhone feature to remove your Apple ID fr
 
 - **Step 5:** Click **Yes** to confirm your device has a screen lock. Otherwise, it won't work.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![confirm screen unlock setup](https://images.wondershare.com/drfone/guide/remove-apple-id-3.png)
 
 - **Step 6:** Enable the Two-Factor Authentication on your iPad so you can unlock your Apple ID. Then, click **Yes** to proceed.
@@ -209,8 +213,6 @@ If not already enabled, turn on 2FA for an extra layer of security. It's simple 
 
 And if you need to remove your Apple ID without a password, Dr.Fone is a good option. Dr.Fone is a powerful iOS toolkit that can help you with various phone solutions. It's easy to use and can help you solve mobile problems in just a few minutes.
 
-
-
 ## How to Unlock Apple iPhone 11 Pro Without Passcode?
 
 [![drfone](https://drfone.wondershare.com/images/james-davis.png)](https://drfone.wondershare.com/author/james-davis/)
@@ -225,16 +227,10 @@ So, let's get straight to the different methods to unlock the Apple iPhone 11 Pr
 
 Following are the four different methods to unlock Apple iPhone 11 Pro without a passcode:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Method #1: Unlock iPhone Screen Passcode With iTunes
 
 Unlocking an iPhone through iTunes is one of the most common ways. If you have forgotten your Apple iPhone 11 Pro passcode, you can use iTunes to erase your device and reset it to its factory settings. This will remove the passcode, but it will also delete all of your data. If your device has a backup, you can use iTunes to restore your data after erasing your device.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![using itunes to unlock iphone](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-x-xr-without-passcode-1.jpg)
 
 Follow the steps to do this.
@@ -249,6 +245,10 @@ Follow the steps to do this.
 If the above-given method is not helpful or you haven't used iTunes before, we have another solution. You can use the "Find My iPhone" feature to erase your device and unlock it. This is useful when you quickly want to unlock your Apple iPhone 11 Pro without a passcode.
 
 ![using find my iphone to unlock iphone](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-x-xr-without-passcode-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 All you have to do is follow the steps given below.
 
@@ -273,9 +273,6 @@ With this method, you can follow the steps below to remove the screen lock passc
 4. By clicking this option, you will be asked about your **Apple ID and Password** that you have used on this iPhone.
 5. So provide them, and you will be able to erase your Apple iPhone 11 Pro, and in the end, your Apple iPhone 11 Pro will be unlocked without needing a passcode or password.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method #4: Dr.Fone-Screen Unlock
 
 This is the most effective and easiest way to remove or break your Apple iPhone 11 Pro passcode. You can use this method if all the above methods don't work for you or you don't remember your Apple ID or Password.
@@ -285,7 +282,6 @@ Here are some easy steps that you should take.
 **Step #1: Download Dr.Fone Tool**
 
 First, you must go to your computer or MacBook and download the Dr.Fone tool. You can follow the [link to download](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) and install this tool for free.
-
 
 **Step #2: Connect Your Apple iPhone 11 Pro**
 
@@ -317,10 +313,13 @@ Once the process is completed, you can unlock your Apple iPhone 11 Pro XR lock s
 
 ![unlock iphone now](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
-
 ## FAQs
 
 Following are 3 frequently asked questions that might come into your mind and their answers to help you understand everything.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How to remove the passcode on an iOS device?
 
@@ -329,6 +328,10 @@ First, open the Settings menu and scroll down to the Touch ID & Passcode option.
 Once done, toggle the switch next to the Passcode option to the Off position. You can then enter your passcode once more to confirm that you wish to disable it.
 
 After doing this, your iOS device will no longer require a passcode to be accessed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Can local Apple support help me to unlock my Apple iPhone 11 Pro?
 
@@ -339,6 +342,10 @@ Here's how.
 Take your Apple iPhone 11 Pro to the nearest Apple Store or Apple Authorized Service Provider. Please contact them, and bring your proof of purchase and other relevant documentation.
 
 First, they will confirm that you are the actual owner of the Apple iPhone 11 Pro; after that, they will help you to unlock your Apple iPhone 11 Pro lock screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Why was my Apple iPhone 11 Pro locked?
 
@@ -371,9 +378,6 @@ iPhone's Restricted Mode is a comprehensive set of features to enhance user cont
 
 ![front view child using iphone](https://images.wondershare.com/drfone/article/2024/01/disable-restricted-mode-on-iphone-02.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2. Why Can't I Remove Restricted Mode?
 
 If you want to know **how to remove Restricted Mode on your Apple iPhone 11 Pro,** it's not as simple as you may have desired. Here are several reasons:
@@ -426,7 +430,15 @@ For those using iOS 11 and below, the steps are a bit different:
 
 ![turning off restrictions mode ios 11](https://images.wondershare.com/drfone/article/2024/01/disable-restricted-mode-on-iphone-05.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Toggle off the switch next to **Restrictions**. The action turns off Restricted Mode on iOS 11 and below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Turn Off Restricted Mode Using Dr.Fone - Screen Unlock (iOS)
 
@@ -434,6 +446,9 @@ There may be situations where removing Restricted Mode on your Apple iPhone 11 P
 
 ![dr.fone main window](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Key features**
 
@@ -459,6 +474,10 @@ Here's **how to disable Restricted Mode on iPhone without a password** using Dr.
 - **Step 3:** Follow the on-screen instructions. Afterward, Dr.Fone will initiate the unlocking process to remove the Restricted Mode passcode. Once removed, click the **Done** button to finish.
 
 ![unlocking finished window](https://images.wondershare.com/drfone/guide/unlock-ios-screen-time-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
@@ -504,7 +523,6 @@ Managing **how to disable Restricted Mode on iPhone** and YouTube ensures a safe
 
 Remember, Dr.Fone becomes a valuable ally when facing a passcode challenge. These versatile solutions grant you control over content accessibility and privacy, enhancing your digital experience. You can easily navigate and customize your device's restrictions by mastering these techniques.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -517,9 +535,22 @@ Remember, Dr.Fone becomes a valuable ally when facing a passcode challenge. Thes
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-2024-approved-perfecting-the-green-screen-essential-techniques/"><u>[New] 2024 Approved Perfecting the Green Screen Essential Techniques</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-customizing-facebook-memories-with-look-back-edits-for-2024/"><u>[New] Customizing Facebook Memories with Look Back Edits for 2024</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/erfolgreich-ext4ext3-partitionen-in-windows-wiederbeleben-schritt-fur-schritt-anleitungen-fur-benutzer/"><u>Erfolgreich EXT4/EXT3 Partitionen in Windows Wiederbeleben: Schritt-Für-Schritt Anleitungen Für Benutzer</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-iphone-6-plus-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your iPhone 6 Plus Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-elevate-your-edm-game-with-free-state-of-the-art-beat-detectors/"><u>In 2024, Elevate Your EDM Game with FREE, State-of-the-Art Beat Detectors</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-finest-list-of-cost-effective-video-conferencing-apps/"><u>In 2024, Finest List of Cost-Effective Video Conferencing Apps</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-6s-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-14-pro-max-passcode-not-working-drfone-by-drfone-ios/"><u>In 2024, How to Fix Apple iPhone 14 Pro Max Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-6-plus-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-x-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone X Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-11-pro-max-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>In 2024, iPhone 11 Pro Max Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Xiaomi Redmi Note 12R? | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-melody-and-motion-best-sync-videography-applications-of-the-decades-first-half/"><u>New In 2024, Melody and Motion Best-Sync Videography Applications of the Decades First Half</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-tutorial-exporting-microsoft-excel-worksheets-to-pdf-format/"><u>Step-by-Step Tutorial: Exporting Microsoft Excel Worksheets to PDF Format</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Turn Off Find My iPhone 11 Pro Max when Phone is Broken? | Dr.fone
-date: 2024-07-15T06:09:08.032Z
-updated: 2024-07-16T06:09:08.032Z
+date: 2025-01-19T17:30:02.984Z
+updated: 2025-01-24T17:13:47.578Z
 tags: 
   - unlock
   - remove screen lock
@@ -32,7 +32,9 @@ The best part about this application is that it is free of cost. It usually come
 
 [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is an excellent data recovery and management software created by Wondershare. However, limiting it to just recovery and management of data will not be just as it offers much more than just that. Transferring files, repairing the operating system, changing the GPS location, and fixing the activation lock are its amazing services.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -57,11 +59,19 @@ Open Wondershare Dr.Fone and select “Screen Unlock” among the other options 
 
 ![select unlock apple id option](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Remove Active Lock**
 
 After choosing the “Unlock Apple ID” option, an interface will be displayed that will show another two options, out of which you have to select “Remove Active Lock” to proceed further.
 
 ![tap on remove activation lock](https://images.wondershare.com/drfone/drfone/remove-activation-lock-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4: Jailbreak your Apple iPhone 11 Pro Max**
 
@@ -79,9 +89,6 @@ A warning will be displayed on the screen asking for confirmation to remove the 
 
 Click on “Start Unlock” to proceed. Once the process is started, you have to wait for a moment until the activation lock is successfully removed.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![start the unlock process](https://images.wondershare.com/drfone/drfone/remove-activation-lock-4.jpg)
 
 **Step 7: Turn off Find My iPhone**
@@ -130,9 +137,17 @@ Once your Apple iPhone 11 Pro Max shows the Apple logo, it means the Recovery Mo
 
 ![wait for apple logo to appear](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Now click on “Restore” so iTunes can download software on your Apple iPhone 11 Pro Max. Once the process is completed, you can set up your Apple iPhone 11 Pro Max as new. This means your previous data will be erased, and Find My iPhone will be disabled automatically.
 
 ![tap on restore option](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -152,11 +167,19 @@ So, let's get straight to the different methods to unlock the Apple iPhone 11 Pr
 
 Following are the four different methods to unlock Apple iPhone 11 Pro Max without a passcode:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method #1: Unlock iPhone Screen Passcode With iTunes
 
 Unlocking an iPhone through iTunes is one of the most common ways. If you have forgotten your Apple iPhone 11 Pro Max passcode, you can use iTunes to erase your device and reset it to its factory settings. This will remove the passcode, but it will also delete all of your data. If your device has a backup, you can use iTunes to restore your data after erasing your device.
 
 ![using itunes to unlock iphone](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-x-xr-without-passcode-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Follow the steps to do this.
 
@@ -169,9 +192,6 @@ Follow the steps to do this.
 
 If the above-given method is not helpful or you haven't used iTunes before, we have another solution. You can use the "Find My iPhone" feature to erase your device and unlock it. This is useful when you quickly want to unlock your Apple iPhone 11 Pro Max without a passcode.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![using find my iphone to unlock iphone](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-x-xr-without-passcode-2.jpg)
 
 All you have to do is follow the steps given below.
@@ -198,8 +218,9 @@ With this method, you can follow the steps below to remove the screen lock passc
 5. So provide them, and you will be able to erase your Apple iPhone 11 Pro Max, and in the end, your Apple iPhone 11 Pro Max will be unlocked without needing a passcode or password.
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method #4: Dr.Fone-Screen Unlock
 
 This is the most effective and easiest way to remove or break your Apple iPhone 11 Pro Max passcode. You can use this method if all the above methods don't work for you or you don't remember your Apple ID or Password.
@@ -209,7 +230,6 @@ Here are some easy steps that you should take.
 **Step #1: Download Dr.Fone Tool**
 
 First, you must go to your computer or MacBook and download the Dr.Fone tool. You can follow the [link to download](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) and install this tool for free.
-
 
 **Step #2: Connect Your Apple iPhone 11 Pro Max**
 
@@ -241,7 +261,6 @@ Once the process is completed, you can unlock your Apple iPhone 11 Pro Max XR lo
 
 ![unlock iphone now](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
-
 ## FAQs
 
 Following are 3 frequently asked questions that might come into your mind and their answers to help you understand everything.
@@ -254,9 +273,6 @@ Once done, toggle the switch next to the Passcode option to the Off position. Yo
 
 After doing this, your iOS device will no longer require a passcode to be accessed.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Can local Apple support help me to unlock my Apple iPhone 11 Pro Max?
 
 The answer is yes!
@@ -266,6 +282,10 @@ Here's how.
 Take your Apple iPhone 11 Pro Max to the nearest Apple Store or Apple Authorized Service Provider. Please contact them, and bring your proof of purchase and other relevant documentation.
 
 First, they will confirm that you are the actual owner of the Apple iPhone 11 Pro Max; after that, they will help you to unlock your Apple iPhone 11 Pro Max lock screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Why was my Apple iPhone 11 Pro Max locked?
 
@@ -279,8 +299,6 @@ Finally, if you have an Apple iPhone 11 Pro Max with Face ID, it's possible that
 
 So, these are some most effective methods to follow and unlock the Apple iPhone 11 Pro Max XR lock screen without a passcode. All the methods discussed are excellent and working, but the most convenient way is using the Wondershare Dr.Fone-Screen Unlock. It is a perfect tool that can be used to unlock different iPhone lock screens. Moreover, it is very safe and easy to use. So, we recommend you use this tool to unlock your Apple iPhone 11 Pro Max lock screen without a passcode.
 
-
-
 ## Complete Guide on Unlocking Apple iPhone 11 Pro Max with a Broken Screen?
 
 Is your Apple iPhone 11 Pro Max screen broken, and you're wondering **how to unlock iPhone with broken screen?** Then don't worry; this guide is all you need to **unlock iPhone with broken screen.**
@@ -289,9 +307,6 @@ Locking an iPhone with a passcode is a great way to prevent it from getting into
 
 In this detailed guide, we will elaborate on the best possible methods you can employ to **unlock iPhone with broken screen.** Moreover, we will introduce you to the best unlocking tools available for your situation. So stay with us till the end.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Use the Feature "Find My iPhone" to Unlock an iPhone with Broken Screen
 
 Find My is a famous component in Apple devices that allows you to find your lost devices through GPS. The option has been revitalized much from that point forward. Presently it can be utilized to erase your Apple iPhone 11 Pro Max from a distance. You can erase your information without a password) to save its data.
@@ -368,6 +383,10 @@ You need to ask Siri, "Siri, what time is it?" or "Siri, what time is it in the 
 
 ![add new clock](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3.** At the point when another clock is added, you will have the choice to share the new clock.
 
 **Step 4.** Click on the share button and Pick the Message choice.
@@ -389,7 +408,6 @@ Besides, it works for iPhones with iOS 8.0 to 10.1. These bugs are fixed in the 
 ## Bonus Tips: Easy Broken iPhone Unlock Tool
 
 ### Dr.Fone-Screen Unlock
-
 
 The quickest way to **unlock iPhone with broken screen** is to use an unlocking tool. However, there are tons of tools available in the market, but it is our responsibility to suggest you the best way.
 
@@ -423,11 +441,9 @@ After the firmware is downloaded effectively, click Unlock Now.
 
 In almost no time, the software will unlock your Apple iPhone 11 Pro Max effectively. However, note that this unlocking will likewise wipe your user data.
 
-
 ### The Bottom Line
 
 Having an iPhone with a broken screen can make your life hard. It keeps you from communicating and carrying out important tasks on the phone. But we can make this situation work your way. Therefore, we have furnished the above list to help you **unlock iPhone with broken screen.** Even if none of the methods work, Dr.Fone can still get our phone unlocked.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -441,9 +457,17 @@ Having an iPhone with a broken screen can make your life hard. It keeps you from
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-boosting-your-youtube-earnings-on-mobile-devices-a-comprehensive-guide/"><u>[Updated] 2024 Approved Boosting Your YouTube Earnings on Mobile Devices - A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-navigating-htc-vive-experience-without-nausea/"><u>2024 Approved Navigating HTC Vive Experience Without Nausea</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-swift-technique-coding-images-for-youtube-channel-thumbnails/"><u>2024 Approved Swift Technique Coding Images for YouTube Channel Thumbnails</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-xs-max-drfone-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-14-pro-max-without-itunes-drfone-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 14 Pro Max Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expert-video-lighting-advice-maximizing-visual-impact/"><u>In 2024, Expert Video Lighting Advice Maximizing Visual Impact</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-iphone-12-pro-max-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>In 2024, How to Bypass iPhone 12 Pro Max Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-disabled-iphone-seipad-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Disabled iPhone SE/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-tecno-camon-20-premier-5g-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Tecno Camon 20 Premier 5G FRP</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/language-lineage-deciphering-spanish-and-portuguese-roots/"><u>Language Lineage: Deciphering Spanish and Portuguese Roots</u></a></li>
+</ul></div>
 

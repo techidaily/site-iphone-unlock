@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on Apple iPhone 11 Pro | Dr.fone
-date: 2024-07-15T06:10:40.729Z
-updated: 2024-07-16T06:10:40.729Z
+date: 2025-01-23T17:23:32.688Z
+updated: 2025-01-24T16:59:04.033Z
 tags: 
   - unlock
   - remove screen lock
@@ -68,6 +68,10 @@ You've ruled out the Low Power Mode, but the **Auto-Lock greyed out on iPad** or
 
 ![turn off screen time on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-06.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Fix No.3: Remove MDM Configuration Profile
 
 A configuration profile is a file that contains settings and restrictions that can be applied to an iOS device. Organizations, schools, or IT administrators often use it to manage devices remotely and enforce specific configurations. Once installed, the settings within a profile override the Apple iPhone 11 Pro device's default settings. It can include restrictions related to security, network access, app usage, and more.
@@ -117,11 +121,19 @@ Have you ever bought a used iPad or Apple iPhone 11 Pro to find the Auto-Lock op
 
 ![dr.fone toolbox home interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
 - **Step 2:** Within the **Screen Unlock** tool window, select **Unlock MDM iPhone**.
 
 ![dr.fone screen unlock features](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Select **Bypass MDM**, then click **Get Start** to proceed.
 
@@ -172,9 +184,6 @@ Here's **how to change Auto-Lock on iPhone** devices:
 
 ![change auto-lock on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-18.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 There you have it. This guide has equipped you with the knowledge and solutions to fix the **Auto-Lock greyed out** on your Apple iPhone 11 Pro or iPad devices. From identifying the reasons like Low Power Mode and MDM configurations to implementing actionable fixes, you can now change your screen timeout. So, turn off those restrictions, remove MDM profiles, and head back to Settings.
@@ -182,8 +191,6 @@ There you have it. This guide has equipped you with the knowledge and solutions 
 For an easy solution, use Dr.Fone Screen Unlock to bypass MDM restrictions, giving you control over your device. Whether it's a work phone or a personal device under MDM, Dr.Fone can offer an efficient solution. With a few clicks, you'll have the Auto-Lock back on track, ensuring your iOS device works again just how you want it.
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
-
-
 
 ## How To Unlock Stolen Apple iPhone 11 Pro In Different Conditionsin
 
@@ -215,18 +222,25 @@ After installing Wondershare Dr.Fone, launch and navigate to the "Toolbox" secti
 
 ![proceed with screen unlock feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-
 - **Step 2. Start Unlocking iOS Screen Lock**
 
 From the available features, proceed with "Unlock iOS Screen" and click “Start” to initiate the unlocking process.
 
 ![choose unlock ios screen option](https://images.wondershare.com/drfone/guide/unlock-ios-screen-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3. Put iOS Into Recovery Mode and Specify Details**
 
 Moving on, you must put your iOS device into Recovery Mode. For this, follow the instructions on the screen based on your Apple iPhone 11 Pro model. Once it is in Recovery Mode successfully, you need to verify the Apple iPhone 11 Pro device details. Verify the “Device Model,” select the specific "System Version," and continue to device unlocking by clicking "Start."
 
 ![select device model and version](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4. Confirm the Unlocking Process and Successfully Execute**
 
@@ -288,6 +302,10 @@ While you can't remove it, figuring out **how to remove flashlight from iPhone l
 
 ![iphone lock screen](https://images.wondershare.com/drfone/article/2024/01/remove-flashlight-from-lock-screen-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How To Remove Flashlight From iPhone Lock Screens?
 
 You can't remove the shortcuts like the flashlight icon from an iPhone lock screen. These are built-in features, and Apple doesn't currently offer an option to disable them. However, there are some workarounds to make the flashlights less accessible and avoid turning them on accidentally. You can turn off Tap to Wake, Raise to Wake, remove the flashlight icon from the control center, and turn off the Back Tap shortcut.
@@ -305,9 +323,6 @@ Here is how to turn off the Tap to Wake feature:
 - **Step 1:** Go to **Settings** or **General** > **Accessibility** on your Apple iPhone 11 Pro device.
 - **Step 2:** Toggle off **Tap to Wake**.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![iphone turn off tap to wake](https://images.wondershare.com/drfone/article/2024/01/remove-flashlight-from-lock-screen-02.jpg)
 
 Quick Fix No. 2: Turn Off Raise To Wake
@@ -319,9 +334,6 @@ Here is **how to remove flashlights from iPhone lock screens** when not needed:
 - **Step 1:** Head to **Settings** > **Display & Brightness** on your iOS device.
 - **Step 2:** Toggle off the **Raise to Wake** option.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![iphone turn off raise to wake](https://images.wondershare.com/drfone/article/2024/01/remove-flashlight-from-lock-screen-03.jpg)
 
 Quick Fix No. 3: Remove the Flashlight From the Control Center
@@ -347,9 +359,6 @@ Although the flashlight icon remains on the lock screen, you won't accidentally 
 
 ![setup iphone back tap to none](https://images.wondershare.com/drfone/article/2024/01/remove-flashlight-from-lock-screen-05.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How To Turn Off the Flashlight on iPhone?
 
 Now, let's address turning off the flashlight on your Apple iPhone 11 Pro. Even if you've applied Part 1's solutions, knowing how to switch off the flashlight is crucial. In this section, you'll learn **how to turn the light off on iPhone** devices.
@@ -377,6 +386,10 @@ To go hands-free and avoid accidental taps, you can use Siri to turn off the fla
 
 Remember, even with Siri, ensure your Apple iPhone 11 Pro's microphone isn't covered or blocked for successful voice recognition.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bonus Part: Easily Unlock Your Apple iPhone 11 Pro Without a Password
 
 Removing the flashlight shortcut avoids accidentally activating the Apple iPhone 11 Pro flashlight. But what if you forget your lock screen passcode and need to access your Apple iPhone 11 Pro? That's where [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) Screen Unlock (iOS) comes in, offering a powerful toolkit for regaining access to your locked iOS device.
@@ -396,7 +409,6 @@ Forgotten passcodes and iCloud Activation Lock can leave you feeling shut out. T
 
 ![dr.fone homepage desktop interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-
 - **Step 2:** Select **iOS** as the Apple iPhone 11 Pro device type. Then, within the **Screen Unlock** window, select **Unlock iOS Screen** to begin the process.
 
 ![dr.fone screen unlock tools](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
@@ -409,20 +421,29 @@ Forgotten passcodes and iCloud Activation Lock can leave you feeling shut out. T
 
 ![on screen instructions for recovery mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5:** Check your **Device Model**, select the **System Version** you need from the dropdown list, then click **Start**.
 
 ![dr.fone select system version](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 - **Step 6:** Dr.Fone will download and install the latest iOS firmware on your device. Then, click **Unlock Now** once the firmware is ready. Follow the on-screen instructions to continue unlocking your device.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone downloading ios firmware](https://images.wondershare.com/drfone/guide/unlock-ios-screen-5.png)
 
 - **Step 7:** Once the process is complete, Dr.Fone will notify you. Your Apple iPhone 11 Pro should be unlocked and ready for you to set it up again with your preferred settings and Apple ID.
 
 ![dr.fone removed ios lock screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -433,7 +454,6 @@ Additionally, learn **how to turn off the flashlight** using straightforward met
 And if ever locked out with the flashlight on, consider Dr.Fone Screen Unlock. This powerful tool bypasses various screen locks, including passcodes, Face IDs, and Touch IDs. Dr.Fone remains a valuable safety net for unexpected moments while fixing your iOS device. Customize your Apple iPhone 11 Pro lock screen settings with these tips for a seamless experience.
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -447,9 +467,20 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-ultimate-audio-experience-budget-friendly-asmr-mics-reviewed/"><u>[New] 2024 Approved Ultimate Audio Experience Budget-Friendly ASMR Mics Reviewed</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-advanced-techniques-for-proximity-viewing-in-roblox/"><u>[New] Advanced Techniques for Proximity Viewing in Roblox</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-quintessential-stop-motion-films-a-top-15-list/"><u>[New] Quintessential Stop-Motion Films A Top 15 List</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-12-pro-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 12 Pro Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/addressing-video-card-malfunctions/"><u>Addressing Video Card Malfunctions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/epson-wf-2630-driver-updated-software-for-windows-users-78110/"><u>Epson WF 2630 Driver: Updated Software for Windows Users (7/8.1/10)</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-12-mini-lock-screen-drfone-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone 12 mini Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-12-mini-without-a-passcode-drfone-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 12 mini Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11 Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-pngjpeg-images-to-pdf-ipad-conversion-essentials/"><u>In 2024, PNG/JPEG Images to PDF - iPad Conversion Essentials</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/preparation-to-beat-giovani-in-pokemon-go-for-lava-yuva-3-drfone-by-drfone-virtual-android/"><u>Preparation to Beat Giovani in Pokemon Go For Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-14-pro-max-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock iPhone 14 Pro Max Without Passcode Easily | Dr.fone</u></a></li>
+</ul></div>
 

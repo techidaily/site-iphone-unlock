@@ -1,7 +1,7 @@
 ---
 title: Locked Out of iPhone XS Max? 5 Ways to get into a Locked iPhone XS Max | Dr.fone
-date: 2025-01-13T01:40:11.433Z
-updated: 2025-01-18T05:55:49.428Z
+date: 2025-01-22T17:37:05.722Z
+updated: 2025-01-24T17:03:29.020Z
 tags: 
   - unlock
   - remove screen lock
@@ -98,7 +98,7 @@ Apple’s official Find My Apple iPhone XS Max is a smart and hassle-free way to
 ![erase Apple iPhone XS Max](https://images.wondershare.com/drfone/article/2017/07/14994495147747.jpg "erase Apple iPhone XS Max")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: How to get into a locked Apple iPhone XS Max with Siri?
@@ -108,6 +108,10 @@ If you don’t want to erase your device’s data while resolving this issue, yo
 **Step 1.** To activate Siri, please long press your home button on the phone. Ask for the present time (by saying “Hey Siri, what time is it?”) and wait for its response. Now, tap on the clock icon.
 
 ![hey siri](https://images.wondershare.com/drfone/article/2017/07/14994491422339.jpg "hey siri")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2.** On the world clock interface, add another clock.
 
@@ -133,6 +137,10 @@ If you don’t want to erase your device’s data while resolving this issue, yo
 
 ![add contact](https://images.wondershare.com/drfone/article/2017/07/14994492469564.jpg "add contact")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 8.** This will open another interface to add a new contact. From here, tap on the “Create new contact” option.
 
 ![create new contact](https://images.wondershare.com/drfone/article/2017/07/14994492596641.jpg "create new contact")
@@ -141,16 +149,24 @@ If you don’t want to erase your device’s data while resolving this issue, yo
 
 ![choose photo](https://images.wondershare.com/drfone/article/2017/07/14994492748614.jpg "choose photo")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 10.** This will open the photo library on your phone. Visit an album or wait for a while.
 
 ![iphone photo library](https://images.wondershare.com/drfone/article/2017/07/14994493122244.jpg "iphone photo library")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 11.** Now, press the home button. If nothing goes wrong, then you will enter the Home screen on your phone.
 
 ![iphone home](https://images.wondershare.com/drfone/article/2017/07/14994493369614.jpg "iphone home")
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -204,19 +220,11 @@ Once user's devices are supervised, organizations can conveniently check setting
 
  |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2. Remove Device Supervision With Perfection Using Wondershare Dr.Fone - Screen Unlock
 
 Undoubtedly, device supervision is the most reliable method for organizations to monitor connected devices and analyze reports. If you have left a company where the administrator supervises your iOS device, your device needs to be unsupervised. For this process, you can bypass the MDM lock on your iOS device through a reliable tool.
 
 Here, [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) stands tall to help out your ventures and provide executable techniques explaining **how to** **remove supervision from iPhone**. This tool allows you to [bypass the MDM lock](https://drfone.wondershare.com/unlock/jailbreak-remove-mdm.html) without data loss on your Apple iPhone XS Max using easy steps. Consequently, you can also use other advanced functions, such as removing lock screens and unlocking Apple ID in different instances.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Features of Wondershare Dr.Fone To Consider
 
@@ -246,23 +254,11 @@ On the next screen, you will see two options, "Bypass MDM" and "Remove MDM." Sel
 
 ![choose to remove mdm](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-8.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 4. Disable Find My Feature and Complete the Process**
 
 A prompt will pop up stating that you need to turn off the Find My feature on your iOS device. For this, open your device “Settings” and choose the “iCloud” option. Lastly, disable the “Find My iPhone” feature and hit the “OK” button. Wait a few seconds to complete the process and click "Done" to conclude the MDM removal process.
 
 ![mdm removed successfully](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-11.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3. Easy Removal of Device Supervision From Settings
 
@@ -276,6 +272,10 @@ Looking for other conventional methods about **how to remove supervision from iP
 
 ![remove mdm management from ios device](https://images.wondershare.com/drfone/article/2024/02/how-to-remove-device-supervision-from-ios-devices-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4. Using Apple Configurator 2 for Removing iPhone Supervision System
 
 [Apple Configurator](https://apps.apple.com/us/app/apple-configurator/id1037126344?mt=12) is a free tool for Mac users that provides a simple technique for removing iPhone supervision. To use this method, you must have a password for the Apple iPhone XS Max device; otherwise, you will need to contact the organization to get the necessary permissions. Below are easy steps about **how to remove device supervision from iPad** and iPhone through your Mac:
@@ -283,6 +283,10 @@ Looking for other conventional methods about **how to remove supervision from iP
 **Instructions.** First, download and launch the Apple Configurator tool on your Mac. Connect the iDevice to the Mac using a compatible USB-C cable. Click on "Actions" from the top bar of the tool. In the drop-down list, choose the "Advanced" option and select "Erase All Content and Settings" to remove iPhone device supervision. Enter your device password to start using your Apple iPhone XS Max normally.
 
 ![remove device supervision apple configurator](https://images.wondershare.com/drfone/article/2024/02/how-to-remove-device-supervision-from-ios-devices-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5. Directly Contact Administration for Removing Device Supervision
 
@@ -309,10 +313,6 @@ Using a lock screen passcode to secure your iDevice is an excellent way. However
 If your screen displays "iPhone disabled," the most probable reason is an excess of wrong passcode attempts. However, this can sometimes occur without you understanding if the phone is in your pocket.
 
 It would help if you erased your Apple iPhone XS Max to eliminate the lock and passcode, then re-sync it with iTunes. Then, you can restore your phone from an iCloud or an iTunes backup, but if you have never used a backup on your phone, your phone will have nothing. This guide illustrates **how to unlock disabled iPhone with iTunes.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Unlock iPhone with iTunes
 
@@ -354,6 +354,10 @@ As the recovery Mode screen shows up on the iPhone, you will find your Apple iPh
 
 ![click restore](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-itunes-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4.** It then asks you to confirm whether you are sure you need to restore the Apple iPhone XS Max to its default factory state. It does so because your media and data will be all erased. Then, click on Restore and Update.
 
 **Step 5.** Then, "iPhone Software Update" may spring up. Click Next, and afterwards, click Agree. iTunes will begin downloading the software and restore your Apple iPhone XS Max when the download is finished.
@@ -380,10 +384,6 @@ Find My is a famous element in Apple devices that allows you to find your lost p
 
 ![enter apple id](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-itunes-3.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3.** After signing in effectively, click on Find My and enter your Apple ID and password. Click on Sign In.
 
 Pick your locked gadget under the "All Devices" area.
@@ -406,6 +406,10 @@ Pick your locked gadget under the "All Devices" area.
 
 **Step 10.** iPhone will show that it is locked to the owner. You have to sign in with your Apple ID again, enter the password, and tap on Next. You will currently be enabled to make your new passcode.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Dr.Fone-Screen Unlock
 
 If you are searching for an elective way to unlock your Apple iPhone XS Max with iTunes, you can pick Wondershare Dr.Fone-Screen Unlock.
@@ -427,10 +431,6 @@ Then use a USB connector to connect your iOS gadget to the PC. Then, click the "
 Before deleting the Apple iPhone XS Max screen, it is necessary to boot it in Recovery/DFU. You can follow the steps on your screen to do so. Moreover, the Recovery mode is the suggested way for your situation. However, you can use the DFU mode if this doesn't work.
 
 ![enter recovery mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3. Confirm Phone Model**
 
@@ -464,16 +464,20 @@ We hope you found out about **how to unlock iPhone with iTunes**. We likewise di
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-ideal-interactive-interface-for-podcasters/"><u>[New] Ideal Interactive Interface for Podcasters</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-silly-screens-top-youtube-humorists-worth-your-time-for-2024/"><u>[Updated] Silly Screens Top YouTube Humorists Worth Your Time for 2024</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-speech-capture-device-scrutiny-for-2024/"><u>[Updated] Speech Capture Device Scrutiny for 2024</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-which-action-camera-takes-the-crown-gopro-vs-yi-for-2024/"><u>[Updated] Which Action Camera Takes the Crown ? GoPro Vs. YI for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-best-free-meme-templates/"><u>2024 Approved Best Free Meme Templates</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-vivo-y78t-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Vivo Y78t Pattern Lock Screen</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-7-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone 7? Learn All 4 Methods | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-12-pro-drfone-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-14-pro-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Pro? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-pro-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 Pro without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/trouble-with-iphone-14-pro-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with iPhone 14 Pro Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-enhance-your-meetings-top-5-live-stream-recording-tools/"><u>[New] In 2024, Enhance Your Meetings Top 5 Live Stream Recording Tools</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-journey-back-in-time-with-these-top-5-gba-console-emulators-for-pcs-for-2024/"><u>[New] Journey Back in Time with These Top 5 GBA Console Emulators for PCs for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-cinematic-footage-showdown-gopro-and-sj7/"><u>[Updated] In 2024, Cinematic Footage Showdown GoPro & SJ7</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-elevate-presents-prime-online-retailers-for-personalized-wrapped-goodies/"><u>[Updated] In 2024, Elevate Presents Prime Online Retailers for Personalized Wrapped Goodies</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-pushing-the-boundaries-in-depth-review-of-benq-sw320s-4k-display/"><u>2024 Approved Pushing the Boundaries In-Depth Review of BenQ SW320's 4K Display</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-many-attempts-to-unlock-iphone-7-drfone-by-drfone-ios/"><u>How Many Attempts To Unlock iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-apple-iphone-6-plus-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your Apple iPhone 6 Plus Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-iphone-6-plus-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-11-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-engaging-eyes-most-favored-insta-filters/"><u>In 2024, Engaging Eyes Most Favored Insta Filters</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-apple-iphone-xr-drfone-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-without-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XS Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/lecture-audio-recording-techniques-for-mac-users-for-2024/"><u>Lecture Audio Recording Techniques for Mac Users for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-the-art-of-tv-shopping-a-comprehensive-home-entertainment-selection-process/"><u>Mastering the Art of TV Shopping: A Comprehensive Home Entertainment Selection Process</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-guide-fixing-wolcen-lords-of-mayhem-unavailable-issue/"><u>Troubleshooting Guide: Fixing 'Wolcen: Lords of Mayhem' Unavailable Issue</u></a></li>
 </ul></div>
 
