@@ -1,7 +1,7 @@
 ---
 title: Locked Out of iPhone 11 Pro Max? 5 Ways to get into a Locked iPhone 11 Pro Max | Dr.fone
-date: 2024-07-15T06:06:18.139Z
-updated: 2024-07-16T06:06:18.139Z
+date: 2025-01-26T01:26:15.315Z
+updated: 2025-02-01T03:41:08.851Z
 tags: 
   - unlock
   - remove screen lock
@@ -24,7 +24,9 @@ If you are locked out of Apple iPhone 11 Pro Max, you should only use a reliable
 
 Attention: All your data all be erased after you get into your locked Apple iPhone 11 Pro Max.Please make sure if you have backed up all your data.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock
 
@@ -93,10 +95,11 @@ Apple’s official Find My Apple iPhone 11 Pro Max is a smart and hassle-free wa
 
 **Step 1.** Log in to [iCloud’s website](https://www.icloud.com/) using your Apple ID and password. Visit the Find My Apple iPhone 11 Pro Max page and click on the “All Devices” option to view all the iOS devices linked to your Apple ID. Now, select the iOS device that is locked.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![icloud all devices](https://images.wondershare.com/drfone/article/2017/07/14994494968655.jpg "icloud all devices")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2.** This will provide various tasks that you can perform on the iOS device. Click on the “Erase Apple iPhone 11 Pro Max” button to reset the Apple iPhone 11 Pro Max device.
 
@@ -108,17 +111,15 @@ If you don’t want to erase your device’s data while resolving this issue, yo
 
 **Step 1.** To activate Siri, please long press your home button on the phone. Ask for the present time (by saying “Hey Siri, what time is it?”) and wait for its response. Now, tap on the clock icon.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![hey siri](https://images.wondershare.com/drfone/article/2017/07/14994491422339.jpg "hey siri")
 
 **Step 2.** On the world clock interface, add another clock.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![world clock](https://images.wondershare.com/drfone/article/2017/07/14994491682149.jpg "world clock")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3.** The interface will ask you to search for a location of your choice. Type anything on the search tab and select it to get various options. Tap on the “Select all” text.
 
@@ -143,6 +144,10 @@ If you don’t want to erase your device’s data while resolving this issue, yo
 **Step 8.** This will open another interface to add a new contact. From here, tap on the “Create new contact” option.
 
 ![create new contact](https://images.wondershare.com/drfone/article/2017/07/14994492596641.jpg "create new contact")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 9.** Instead of adding a contact, tap on the photo icon and select the “Choose Photo” option.
 
@@ -214,6 +219,10 @@ As the recovery Mode screen shows up on the iPhone, you will find your Apple iPh
 
 ![click restore](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-itunes-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4.** It then asks you to confirm whether you are sure you need to restore the Apple iPhone 11 Pro Max to its default factory state. It does so because your media and data will be all erased. Then, click on Restore and Update.
 
 **Step 5.** Then, "iPhone Software Update" may spring up. Click Next, and afterwards, click Agree. iTunes will begin downloading the software and restore your Apple iPhone 11 Pro Max when the download is finished.
@@ -240,6 +249,10 @@ Find My is a famous element in Apple devices that allows you to find your lost p
 
 ![enter apple id](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-itunes-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3.** After signing in effectively, click on Find My and enter your Apple ID and password. Click on Sign In.
 
 Pick your locked gadget under the "All Devices" area.
@@ -263,7 +276,6 @@ Pick your locked gadget under the "All Devices" area.
 **Step 10.** iPhone will show that it is locked to the owner. You have to sign in with your Apple ID again, enter the password, and tap on Next. You will currently be enabled to make your new passcode.
 
 ### 2\. Dr.Fone-Screen Unlock
-
 
 If you are searching for an elective way to unlock your Apple iPhone 11 Pro Max with iTunes, you can pick Wondershare Dr.Fone-Screen Unlock.
 
@@ -303,9 +315,17 @@ Doing so will unlock your Apple iPhone 11 Pro Max within no time. However, kindl
 
 We hope you found out about **how to unlock iPhone with iTunes**. We likewise discussed what to do when you need an alternate method to iTunes. We know that using iTunes can be somewhat complicated; hence, the other options can help you a ton. However, we strongly suggest Dr.Fone-Screen Unlock for a more refined unlocking process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Remove and Reset Face ID on Apple iPhone 11 Pro Max
 
 [![drfone](https://drfone.wondershare.com/daisy-raine.jpg)](https://drfone.wondershare.com/author/daisy-raine/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Did you go wrong when you set the Face ID the first time? Or are you tired to put off the mask to use Face ID to unlock your Apple iPhone 11 Pro Max? And now, you want to disable the Face ID. Whatever your reasons are, read this article to learn **how to remove Face ID** on your Apple iPhone 11 Pro Max X, iPhone XS, iPhone XR or iPhone 11, iPhone 12, iPhone 13, iPhone 14, anmd iPhone 15.
 
@@ -319,13 +339,14 @@ Face ID is an authentication system that came with iPhone X for the first time, 
 
 Face ID is not a new and advanced version of Touch ID, but a completely different authentication system that utilizes a different component what Apple calls a TrueDepth camera to scan your face metrics. Face ID is not available on phones with Touch ID (iPhone SE 2022 today) and Touch ID is not available on iPhones that come with Face ID as their authentication mechanism.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part II: What Can You Do with Face ID?
 
 Most of us know that we can unlock iPhone with our face via Face ID instead of a thumbprint or passcode. But actually, Face ID does more than just that. Let us learn more cool things you can do with Face ID, which helps you to make a decision if you still want to disable it. Here‘s what you can do on your Apple iPhone 11 Pro Max 13/12/11 with Face ID:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### II.I Unlock Your Apple iPhone 11 Pro Max
 
 As an authentication mechanism, Face ID enables you to [unlock your Apple iPhone 11 Pro Max 13](https://drfone.wondershare.com/unlock/how-to-unlock-an-iphone-13.html)/iPhone 12/iPhone 11 with a look. How to do that? Here are the steps:
@@ -374,6 +395,10 @@ Step 5: When paying at retail outlets, hold your Apple iPhone 11 Pro Max (top be
 
 Step 6: To pay using Apple Pay on websites, choose Apple Pay as the payment method, double press the Side Button, look at your Apple iPhone 11 Pro Max, and wait for the Done message and checkmark to finish the process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### II.III Lowering Ringer and Alarm Volume Automatically
 
 Face ID also enables what Apple calls Attention Aware features that are conveniences afforded to users who have a Face ID enabled iPhone.
@@ -390,9 +415,6 @@ Step 3: Toggle Attention Aware Features On.
 
 That‘s it. Now, when you get a call and your Apple iPhone 11 Pro Max 13 is ringing loud, looking at your Apple iPhone 11 Pro Max 13/12/11 will cause it to lower the volume. When an alarm goes off, you can lower the volume by simply looking at your Apple iPhone 11 Pro Max. Additionally, your Apple iPhone 11 Pro Max screen will not dim or switch off for the duration you are looking at it. This means you can now read those books on Kindle without constantly tapping the screen for it to stay awake.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### II.IV Filling Passwords in Safari Automatically Using Face ID
 
 Face ID also allows users to fill passwords in Safari automatically for a faster and more convenient login experience on your Apple iPhone 11 Pro Max with Face ID.
@@ -471,8 +493,6 @@ If this does not resolve it, you need to take the Apple iPhone 11 Pro Max device
 
 Face ID is more than a nifty authentication system in iPhones (and iPads) and brings some unique features that are not found in previous Touch ID enabled devices and enable the users to interact with people (Animojis and Memojis) and with the Apple iPhone 11 Pro Max (user authentication via facial metrics, Attention Aware features) in new ways. There are times when this does not work as expected, and you can reset and remove Face ID if you feel this is not your cup of tea. Apple iPhone 11 Pro Max can be used solely with passcodes if you want. If you find that your screen is locked and you can‘t unlock it, you can always find help in tools such as Dr.Fone - Screen Unlock (iOS). So go ahead, use the new Face ID on your Apple iPhone 11 Pro Max with confidence, and enjoy a more secure experience on your new iPhone than ever before.
 
-
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
@@ -483,9 +503,6 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 - Supports iPhone 13/ iPhone XS (Max) / iPhone XR / iPhone X / 8 (Plus)/ iPhone 7(Plus)/ iPhone6s(Plus), iPhone SE and the latest iOS version fully!![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 
 **4,395,217** people have downloaded it
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -499,9 +516,26 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-elevate-your-editing-skills-with-pro-color-techniques/"><u>[New] Elevate Your Editing Skills with Pro Color Techniques</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-how-to-preserve-your-gameplay-for-future-replays/"><u>[Updated] 2024 Approved How to Preserve Your Gameplay for Future Replays</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-troubleshooting-stop-sequential-frame-skips-in-live-streaming/"><u>[Updated] 2024 Approved Troubleshooting Stop Sequential Frame Skips in Live Streaming</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-perfect-blend-of-efficiency-and-artistry-in-apple-photography-apps/"><u>[Updated] The Perfect Blend of Efficiency and Artistry in Apple Photography Apps</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-a-complete-walkthrough-on-editing-your-videos-covers-on-fb/"><u>2024 Approved A Complete Walkthrough on Editing Your Videos' Covers on FB</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-pinnacle-pdf-transformations/"><u>2024 Approved Pinnacle PDF Transformations</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/movavi-rmvb-mp4/"><u>優化影片格式: 利用 Movavi 自由免費工具將 RMVB 改為 MP4 在網路上直接讀取</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/crafting-memes-for-maximum-shareability/"><u>Crafting Memes for Maximum Shareability</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/detailed-review-of-doctorsim-unlock-service-for-apple-iphone-8-drfone-by-drfone-ios/"><u>Detailed Review of doctorSIM Unlock Service For Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-12-pro-max-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 12 Pro Max Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-xr-drfone-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-6s-plus-without-itunes-drfone-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 6s Plus Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-14-pro-drfone-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-se-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-pro-max-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 Pro Max With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-6-drfone-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-infinix-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Infinix Device</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/resolve-your-apple-iphone-15-plus-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your Apple iPhone 15 Plus Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/unlocking-obs-studios-full-creative-potential-with-top-methods/"><u>Unlocking OBS Studio's Full Creative Potential with Top Methods</u></a></li>
+</ul></div>
 

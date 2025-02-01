@@ -1,7 +1,7 @@
 ---
 title: How to Unlock iPhone 11 without Passcode or Face ID | Dr.fone
-date: 2024-07-15T06:01:04.728Z
-updated: 2024-07-16T06:01:04.728Z
+date: 2025-01-30T18:23:48.694Z
+updated: 2025-01-31T16:27:50.389Z
 tags: 
   - unlock
   - remove screen lock
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/d24334e679d3e178a2e8d9f5b333fac2b20b9134a
 You can't access your Apple iPhone 11 because the Face ID isn't working, and you forgot your passcode? So you are considering **how to unlock iPhone without face ID or passcode**. If so, this article will walk you through how to do that.
 
 Firstly, one ought to realize that it is impossible to hack an iPhone passcode. Therefore, the primary way that attempts to unlock your device without a PIN or Face ID is to erase it. After reading this guide, you will figure out **how to unlock iPhone without passcode or face ID**. Keep reading to find out more and learn about the best tools in the business.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Best Ways to Unlock iPhone without a Passcode or Face ID
 
@@ -83,8 +87,9 @@ If your gadget isn't running macOS Catalina or later, you'll need to involve iTu
 When you've effectively connected and chosen your Apple iPhone 11 on a Mac or a PC, tap on the Restore button. And that's **how to unlock iPhone without passcode or face ID.**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. DNS Server
 
 The following steps explain **how to unlock iPhone without face ID or passcode** using a DNS server:
@@ -95,9 +100,6 @@ The following steps explain **how to unlock iPhone without face ID or passcode**
 
 **Step 3.** Disconnect your current network, go to "Network/connection Settings", and click Forget.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dns bypass](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-without-face-id-4.jpg)
 
 **Step 4.** Click the "I" and enter a DNS server IP address to bypass the lock. IP addresses of different regions are given below:
@@ -113,10 +115,13 @@ The following steps explain **how to unlock iPhone without face ID or passcode**
 
 ![activate iphone](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-without-face-id-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 6.** Click Next Page > Back to enter the lock bypass screen. These are all the required steps for **how to unlock iPhone without passcode or face ID 2022.**
 
 ### 4\. Dr.Fone-Screen Unlock
-
 
 This section will introduce you to our most important solution. Yes, you heard it right. If you need a hassle-free method to unlock your iDevice without a passcode or face ID, use Wondershare Dr.Fone Screen Unlock.
 
@@ -144,6 +149,10 @@ After the phone is in recovery/DFU mode, the program will show the locked device
 
 ![select phone model](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4. Remove the Screen Lock**
 
 After downloading the firmware effectively, click the "Unlock Now" button to let Dr.Fone unlock your Apple iPhone 11.
@@ -153,7 +162,6 @@ After downloading the firmware effectively, click the "Unlock Now" button to let
 Simply in no time, Dr.Fone will successfully unlock your device.
 
 **Note:** This unlocking process will erase everything off your Apple iPhone 11 and bring it to the factory default state. Indeed, no other method that doesn't allow data erasure at the moment.
-
 
 ## Part 2: How to Turn Off Passcode or Face ID on My Device?
 
@@ -170,6 +178,10 @@ First, tap on your Settings app to open it. That is the one on the home screen w
 On the Settings menu, tap on the Face ID and Passcode menu.
 
 ![passcode menu](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-without-face-id-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Enter your passcode
 
@@ -279,6 +291,10 @@ The program will display on-screen guidelines to help you put your device in Rec
 
 ![Put device in recovery mode](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 6:** Recognize the Apple iPhone 11 device Model and Select System Version
 
 Once your device is in Recovery Mode, you can see its details on the next screen. Then, select the System Version and Start to proceed. You can manually set the details if there are any differences in recognition.
@@ -293,9 +309,6 @@ The software will start downloading the corresponding iOS firmware. If the firmw
 
 Once you download the firmware, it will be verified by the software. Click Unlock Now until a prompt window appears. It will ask you to enter a code to continue. Enter the code and click Unlock to start the process.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Input the code to unlock the Apple ID](https://images.wondershare.com/drfone/guide/remove-apple-id-6.png)
 
 - **Step 9:** Monitor Apple ID Removal Progress
@@ -308,6 +321,10 @@ Keep your device connected and avoid any disconnections. Once the Apple ID is un
 
 ![Reset iCloud account setting](https://images.wondershare.com/drfone/article/2023/05/solve-iphone-asking-apple-id-password-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Method 5: Check App Store/iTunes Purchase**
 
 Verify and complete any pending app purchases or downloads from the App Store or iTunes. If there was an issue with a previous transaction, resolving it can stop the password prompts.
@@ -319,6 +336,10 @@ Verify and complete any pending app purchases or downloads from the App Store or
 Turning off iCloud Keychain and then turning it back on can help refresh the data and resolve any syncing issues. Go to Settings > \[Your Name\] > iCloud > Keychain > Toggle off and on.
 
 ![Disable your iCloud keychain](https://images.wondershare.com/drfone/article/2023/05/solve-iphone-asking-apple-id-password-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Method 7: Check Network Connectivity**
 
@@ -333,7 +354,6 @@ If none of the above methods work, contacting Apple Support can be a viable opti
 These are some of the methods that can help you stop your Apple iPhone 11 from randomly asking for your Apple ID password. Don't forget to always back up your data before changing your Apple iPhone 11 settings.
 
 If the issue persists, it's recommended to visit an authorized Apple service center.
-
 
 ## **Bonus Part: How To Get Your Apple ID Password Back if You Forget It**
 
@@ -390,11 +410,12 @@ The first step you need to connect your Apple iPhone 11  to your computer. Launc
 
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After that, select the option of "Unlock iOS Screen" to unlock your Apple iPhone 11 within seconds.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone android ios unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
 **Step 2: Boot iPhone in DFU Mode**
@@ -434,6 +455,10 @@ Here are the steps to recover Apple iPhone 11  via iTunes backup.
 
     ![feasible ways to unlock Apple iPhone 11 2](https://images.wondershare.com/drfone/article/2021/04/feasible-ways-to-unlock-iphone-7-and-7-plus-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. You shall be asked to enter your iTunes account information. Enter the previously used account to set up the Apple iPhone 11 and navigate through the instructions to register.
 5. Select a suitable backup that you wish to use for the restore.
 6. The last step is to click on "Restore." iTunes will restore your Apple iPhone 11's data and settings.
@@ -449,9 +474,6 @@ If you wish to change the passcode on Apple iPhone 11 , simply follow the steps 
 1. Go to the "Settings" panel of your Apple iPhone 11.
 2. Scroll down until you see the option “Touch ID & Passcode” and click on it.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
     ![feasible ways to unlock Apple iPhone 11 4](https://images.wondershare.com/drfone/article/2021/04/feasible-ways-to-unlock-iphone-7-and-7-plus-4.jpg)
 
 3. Type in your current passcode to proceed.
@@ -474,9 +496,6 @@ If you wish to change the passcode on Apple iPhone 11 , simply follow the steps 
 
 Now you know what to do the next time you forget your passcode. Using the simple methods and techniques mentioned above, you can easily restore your Apple iPhone 11 the passcode, or you can unlock your Apple iPhone 11 without knowing the passcode, avoiding much trouble. Hopefully, this could prove to be of service to you.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -489,9 +508,19 @@ Now you know what to do the next time you forget your passcode. Using the simple
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/updated-best-android-videography-6-must-try-music-videos-apps/"><u>[Updated] Best Android Videography 6 Must-Try Music Videos Apps</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-dive-into-high-definition-fb-streaming-in-1080p/"><u>2024 Approved Dive Into High Definition FB Streaming in 1080P</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabling-iphone-12-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>Disabling iPhone 12 Parental Restrictions With/Without Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-x-drfone-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-x-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone X | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/expert-tips-for-fixing-continuous-crashes-in-virtual-reality-experiences-on-desktop-computers/"><u>Expert Tips for Fixing Continuous Crashes in Virtual Reality Experiences on Desktop Computers</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-sony-xperia-10-v-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-13-mini-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone 13 mini Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-7-with-7-methods-drfone-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for iPhone 7 With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Vivo S18e? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-boot-problems-in-windows-10-expert-solutions-and-tricks/"><u>Overcoming Boot Problems in Windows 10: Expert Solutions and Tricks</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/unraveling-the-reasons-behind-blue-screen-memory-dump-errors-insights-from-yl-computing/"><u>Unraveling The Reasons Behind Blue Screen Memory Dump Errors - Insights From YL Computing</u></a></li>
+</ul></div>
 

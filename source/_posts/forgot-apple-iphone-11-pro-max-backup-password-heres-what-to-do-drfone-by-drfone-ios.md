@@ -1,7 +1,7 @@
 ---
 title: Forgot Apple iPhone 11 Pro Max Backup Password? Heres What to Do | Dr.fone
-date: 2024-07-15T06:05:20.529Z
-updated: 2024-07-16T06:05:20.529Z
+date: 2025-01-28T16:04:55.297Z
+updated: 2025-01-31T19:59:03.023Z
 tags: 
   - unlock
   - remove screen lock
@@ -21,6 +21,10 @@ Forgetting your Apple iPhone 11 Pro Max backup password can be a real pain. Not 
 There are still chances that you could forget your Apple iPhone 11 Pro Max backup password. Fortunately, you have a chance to recover your password. So, if you're having trouble remembering your Apple iPhone 11 Pro Max backup password, don't despair. There are still ways to get it back!
 
 ![forget backup password](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Overview of iPhone Backup Password
 
@@ -90,9 +94,6 @@ Use a USB cable to link your Apple iPhone 11 Pro Max to your PC. Look at the sma
 
 Proceed to the **Summary Page** and make your selection there for **The Computer.** After selecting **Encrypt Local Backup**, you must create a new password. After you have pressed the **Backup Now** option, wait for iTunes to create a new password for you.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Find your password in the macOS keychain
 
 **Step 1:** Launch Keychain Access by going to **Application** \> **Utilities** \> **Keychain Access** once your Mac has booted up.
@@ -117,6 +118,10 @@ After successfully signing in with your Apple ID, choose **Backup**.
 
 During the time that the system is being restored, it is essential that the Wi-Fi connection remains active.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Dr.Fone-Screen Unlock
 
 With Dr.Fone - Screen Unlock, it's easy to follow all the steps to get rid of the iTunes backup password.
@@ -137,9 +142,6 @@ Before you click **Remove Now**, please carefully read the following three notes
 - Don't open iTunes while doing this.
 - Your device will reboot
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![connected](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-3.png)
 
 **Step 4:** Dr.Fone can check your iTunes backup and delete it by itself. This encryption will be erased when the progress bar reaches 100%. This will take a short time to do.
@@ -149,7 +151,6 @@ Before you click **Remove Now**, please carefully read the following three notes
 **Step 5:** The encryption on the iTunes backup has been removed successfully! Now you can easily back up, restore, move, or wipe your device.
 
 ![removed](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-5.png)
-
 
 ## Part 3: 3 Tricks to Help You Remember the Passwords
 
@@ -161,10 +162,11 @@ Here are three tricks to help you keep track of your passwords so you don't have
 
 You can turn on **AutoFill** in the **Settings** app. This will allow your Apple iPhone 11 Pro Max to fill in passwords when you visit websites and apps automatically. All you need to do is ensure you've entered the correct username and password once, and your Apple iPhone 11 Pro Max will save the information, so you don't have to enter it again.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![autofill](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 2. Try iCloud Keychain to keep your passwords
 
@@ -241,6 +243,10 @@ Prior to **Total Wireless unlock**, it's essential to verify that it meets the s
 
 You are now armed with an inherent understanding of Total Wireless phones. We discussed the reasons for **unlocking a Total Wireless phone free** and its prerequisites. Below, the most common methods to unlock a Total Wireless phone are summarized. These will equip you completely to explore the most effective ways to unlock your device.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Way 1. Accessing All Important Carriers
 
 Unlocking a phone to access various carriers involves understanding the unique policies of each carrier. Below are the differing policies of prominent carriers:
@@ -276,6 +282,10 @@ As explained before, Total Wireless requires you to use your device for at least
 
 While the official Total Wireless device unlocking policy requires you to use the Apple iPhone 11 Pro Max device for at least a year, there are times when it might not be feasible. In such scenarios, you can pay an urgent fee to unlock the Apple iPhone 11 Pro Max device. Remember that even when paying an urgency fee, you need to have used the Apple iPhone 11 Pro Max device for at least 60 days.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Way 4. Unlock Your Total Wireless Phone Using SafeUnlocks
 
 SafeUnlocks stands as the premier choice for unlocking your phone. It is committed to delivering unparalleled services, including speed, safety, and affordability. The aim of the superior quality is a guaranteed phone unlocking experience. It boasts a 99.9% success rate and can unlock any phone's brand without a hassle. Additionally, we specialize in unlocking devices from numerous carriers worldwide. Here's **how to unlock Total Wireless phone** using SafeUnlocks:
@@ -308,9 +318,6 @@ This tool ensures a straightforward process without any learning curve. Experien
 
 After installing Wondershare Dr.Fone on your computer, begin by launching the program. Access the "Toolbox" section and find "Screen Unlock". Choose "iOS" as your device type and proceed by selecting "Unlock iOS Screen ." Initiate the unlocking process by clicking "Start."
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![start ios screen lock removal](https://images.wondershare.com/drfone/guide/unlock-ios-screen-2.png)
 
 _**Tips:** Are you searching for a powerful iPhone Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
@@ -331,11 +338,6 @@ Ensure that the downloaded iOS firmware is validated before proceeding. To start
 
 In this comprehensive guide, we navigated through **how to unlock Total Wireless phone**. It covered its definition, reasons for unlocking, and a checklist before initiating the process. We explored multiple unlocking methods, including carrier-specific policies and third-party services. Additionally, we discussed Wondershare Dr.Fone as the ultimate choice when users encounter device unlocking.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## Trouble with Apple iPhone 11 Pro Max Swipe-Up? Try These 11 Solutions
 
 ## Part 1: Why Is My iPhone Screen Not Swiping?
@@ -357,6 +359,10 @@ Physical damage, like heavy falls, can impact the phone's touch sensitivity. Mor
 ### 4\. Full Memory or Background Apps
 
 Insufficient memory or many background apps running simultaneously can overload the Apple iPhone 11 Pro Max device. This leads to performance issues, including unresponsive gestures.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5\. Water Exposure
 
@@ -413,7 +419,6 @@ Select the Apple iPhone 11 Pro Max device type from the available options and se
 After that, you'll reach a window showing different iOS firmware alternatives. Pick any as per your preferences and click "Download." Once the download is complete, click "Repair Now" and "Done" to end the repair process.
 
 ![initiate swipe up repair process](https://images.wondershare.com/drfone/guide/ios-system-repair-6.png)
-
 
 ### Fix 2. Force Restart iPhone
 
@@ -497,6 +502,10 @@ Touch Accommodations is an accessibility feature on iPhones. It is designed to m
 
 ![set tap assistance to initial location](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 10. Turn Off Reduce Motion
 
 Reduce Motion is an accessibility setting on iPhones designed to reduce animations and visual effects. It is particularly for users sensitive to motion effects. However, enabling this feature might affect certain gestures or animations on the Apple iPhone 11 Pro Max device. Thus potentially causing issues with the swipe-up function. Here's how to turn off Reduce Motion to fix the **iPhone 11 won’t swipe up to unlock**:
@@ -509,6 +518,10 @@ Reduce Motion is an accessibility setting on iPhones designed to reduce animatio
 
 ![turn off reduce motion switch](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-15.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 11. Reset iPhone All Settings
 
 Resetting all settings on your Apple iPhone 11 Pro Max can help resolve software-related issues. It can help remove conflicts that might be affecting the swipe-up gesture. Note that this action will reset all settings on your device, but it won't delete your data. Here's how to reset all settings to fix **iPhone swipe not working**:
@@ -516,6 +529,10 @@ Resetting all settings on your Apple iPhone 11 Pro Max can help resolve software
 **Step 1.** Go to your device's "General" settings and scroll down to tap the second last option, "Transfer or Reset iPhone." On the following screen, press "Reset" from the available two options.
 
 ![head to reset iphone options](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-16.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2.** Now, choose "Reset All Settings" from the pop-up options and confirm it by providing the passcode. Then, wait for a few moments as your Apple iPhone 11 Pro Max is restored to its original settings.
 
@@ -525,8 +542,6 @@ Resetting all settings on your Apple iPhone 11 Pro Max can help resolve software
 
 Encountering **swipe not working on iPhone** can sometimes lead to difficulties. This is especially the case in unlocking the Apple iPhone 11 Pro Max device or accessing essential functions. In such scenarios, using [Wondershare Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) provides a reliable solution. It bypasses the swipe-up need and regains access to your Apple iPhone 11 Pro Max without relying on the problematic gesture. This tool offers a solution to unlock iPhone/iPad devices without the passcode.
 
-
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Swiping Up.
@@ -535,6 +550,10 @@ Unlock iPhone/iPad Lock Screen Without Swiping Up.
 - Unlock screen passwords from all iPhones and iPads.
 - No tech knowledge is required, everybody can handle it.
 - Supports iPhone 15 / iPhone 14 / iPhone 13 / 12, iPhone 11, ... and the latest iOS version fully!![New icon](https://images.wondershare.com/drfone/others/new_23.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4,395,216** people have downloaded it
 
@@ -568,13 +587,11 @@ Once the iOS firmware has been successfully downloaded, it undergoes verificatio
 
 ![choose to unlock the iphone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
-
 ## Conclusion
 
 Having trouble with **swipe up not working on an iPhone** can be annoying. It stops you from using important stuff and moving around your phone quickly. This guide has lots of ways to fix it. We've covered simple things like restarting your Apple iPhone 11 Pro Max and cleaning the screen, as well as more complex stuff like changing settings and using unique options for accessibility. These fixes can help make the swipe-up gesture work again.
 
 We've also talked about a helpful tool called Wondershare Dr.Fone. It's made to fix problems with the lock screen, including issues with swiping on your Apple iPhone 11 Pro Max. Moreover, Dr.Fone - Screen Unlock lets you get into your Apple iPhone 11 Pro Max even when gestures aren't working properly.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -588,9 +605,18 @@ We've also talked about a helpful tool called Wondershare Dr.Fone. It's made to 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-livestream-elite-top-equipment-for-youtube-content-creators/"><u>[New] In 2024, Livestream Elite Top Equipment For YouTube Content Creators</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-audio-adventurers-guide-navigating-between-podcasts-and-youtube/"><u>2024 Approved Audio Adventurer’s Guide Navigating Between Podcasts & YouTube</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ing-perfect-youtube-music-sets/"><u>Crafting Perfect YouTube Music Sets</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/did-your-apple-iphone-13-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your Apple iPhone 13 Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-se-drfone-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-iphone-11-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock iPhone 11 After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-12-pro-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-ultimate-timeline-tools-at-no-cost/"><u>In 2024, Ultimate Timeline Tools at No Cost</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/integrating-google-calendar-into-chrome-os-complete-setup-for-efficient-time-management/"><u>Integrating Google Calendar Into Chrome OS: Complete Setup for Efficient Time Management</u></a></li>
+<li><a href="https://techtrends.techidaily.com/save-your-precious-moments-the-ultimate-guide-to-storing-iphone-photos-effectively-without-losing-space/"><u>Save Your Precious Moments: The Ultimate Guide to Storing iPhone Photos Effectively Without Losing Space</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/subscribe-transform-and-green-your-ctas/"><u>Subscribe, Transform, and Green Your CTAs</u></a></li>
+</ul></div>
 

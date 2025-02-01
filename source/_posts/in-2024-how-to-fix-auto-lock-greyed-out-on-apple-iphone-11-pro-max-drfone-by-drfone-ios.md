@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 11 Pro Max | Dr.fone
-date: 2024-07-15T06:08:00.118Z
-updated: 2024-07-16T06:08:00.118Z
+date: 2025-01-25T17:15:14.180Z
+updated: 2025-02-01T01:26:35.983Z
 tags: 
   - unlock
   - remove screen lock
@@ -43,6 +43,10 @@ MDM Profile Restrictions
 If the Auto-Lock is greyed out on your iPad or iPhone and you use it for work or school, a Mobile Device Management (MDM) profile might be the reason. This profile restricts settings, including Auto-Lock. To fix this, contact your IT administrator and ask if they can [<u>adjust the MDM profile settings</u>](https://drfone.wondershare.com/unlock/mdm-bypass-free.html).
 
 ![setup remote management on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Alright, you know the possible reasons why the Auto-Lock option is not working on your iOS device. Still, you might be wondering how to fix the Auto-Lock greyed-out issue. Below are several ways to get your iPad or iPhone Auto-Lock working normally again.
 
@@ -158,9 +162,6 @@ Here are the steps on **how to change Auto-Lock on iPad** devices:
 
 - **Step 3:** A list of time options will appear, ranging from **2 minutes** to **15 minutes**, as well as **Never**. Select the time you want your iPad to wait before automatically locking the screen after inactivity. If you want the screen to stay on indefinitely, choose **Never**.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change auto lock on ipad](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-17.jpg)
 
 **Step 4:** Once you've selected your preferred auto-lock duration, you can exit the **Settings** app. The change will be applied automatically.
@@ -192,6 +193,10 @@ If you have forgotten the password to your backup, you may reset your Apple iPho
 To get started, please follow the instructions that are listed below.
 
 ![itunes](https://images.wondershare.com/drfone/article/2022/12/reset-iphone-backup-password-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: iPhone Backup Encryption Specifications
 
@@ -265,16 +270,23 @@ So, whether your loved one has forgotten their screen lock code, had their phone
 
 The process is simple -download the software, connect your Apple iPhone 11 Pro Max to your computer, click a few buttons, and voila! Your device is unlocked with no data loss. And there's no need to jailbreak your device or enter any passwords - it's all done with just a few clicks.
 
-
 With Dr.Fone - Screen Unlock, you can easily follow the steps to remove iTunes backup password.
 
 **Step 1:** Install Dr.Fone, launch it and select the red button **"Screen Unlock."**
 
 ![drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Go to the Screen Unlock interface, tap on **"Remove iTunes BackUp Encryption"** on the bottom right to reset the encryption password iPhone.
 
 ![screen unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Connect your iOS device to the PC via a USB cable. You will see the image if Dr.Fone can detect this connection.
 
@@ -294,6 +306,9 @@ Click **"Remove Now"**
 
 ![removed](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Tips to Keep Your Apple iPhone 11 Pro Max Backup Password
 
@@ -335,6 +350,10 @@ The **Swipe Up Unlock** function has been a fundamental aspect of iPhone functio
 
 It streamlined various tasks without the need for excessive button pressing. Moreover, its simplicity and speed became vital in how individuals utilized their iPhones. Yet, as preferences evolve, not everyone finds the exclusive Swipe Up Unlock feature appealing. Hence, exploring alternative methods to unlock your Apple iPhone 11 Pro Max is advisable.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: Why Do You Need To Swipe Up to Unlock on iPhone?
 
 **Swipe up to unlock the iPhone** holds significant importance in its user interface and accessibility. This intuitive gesture serves as the primary means of gaining access to the Apple iPhone 11 Pro Max device. Here are several reasons why the Swipe Up to Unlock iPhone feature has been a cornerstone:
@@ -351,12 +370,13 @@ Beyond unlocking the iPhone, the swipe gesture also allowed for quick navigation
 
 Apple's design philosophy often revolves around clean, intuitive interfaces. The **swipe up to unlock** gesture aligns smoothly with this philosophy. It contributes to a visually appealing and user-friendly experience.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Security and Privacy
 
 The gesture served as a security measure, preventing accidental or unauthorized access to the iPhone. Moreover, users can confidently rely on this unlocking method to safeguard their personal data.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: 6 Common Ways To Unlock iPhone Without Swiping Up
 
@@ -368,23 +388,15 @@ With the debut of iOS 14, Apple unveiled an innovative feature called Back Tap. 
 
 **Step 1.** To start, access the “Settings” on your iOS device. Once there, scroll down until you locate the “Accessibility” option and tap on it. On the following screen, select “Touch” to access Touch settings under the "Physical and Motor" section.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![access touch in accessibility](https://images.wondershare.com/drfone/article/2023/12/unlock-phone-without-swiping-up-1.jpg)
 
 **Step 2.** On the following screen, scroll down to the bottom and press "Back Tap." Now, either choose "Double Tap" or "Triple Tap" and select "Lock Screen" from the options under the "System" section.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enable back tap to lock screen](https://images.wondershare.com/drfone/article/2023/12/unlock-phone-without-swiping-up-2.jpg)
 
 ### Method 2: Unlock iPhone Without Swiping Up Using iPhone Screen Unlocker: Dr.Fone - Screen Unlock
 
 If you've forgotten the passcode for your Apple iPhone 11 Pro Max and are unable to access it anymore, there is no need to panic. We have the perfect tool for you that can unlock any lock on your screen in a few moments. The tool we are talking about is [Wondershare Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/), an industry leader in smartphones. Dr.Fone, a pioneering tool for iOS lock screen removal, assists in unlocking various iPhone/iPad/iPod touch lock screens.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -426,7 +438,6 @@ After this step, enter Recovery Mode on your iDevice by following the specific o
 The screen will showcase the download progress of the iOS firmware on the platform. Once the iOS firmware download is completed, it undergoes verification. Proceed by selecting the "Unlock Now" button to initiate the unlocking process. A prompt window will appear, requesting confirmation for the process. Enter the necessary code and tap on "Unlock" to proceed. Upon successful unlocking of the iDevice, click "Done" to complete the process.
 
 ![lock screen removal process completed](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
-
 
 ### Method 3: Unlock the Apple iPhone 11 Pro Max Without Swiping Up via Touch ID/Face ID
 
@@ -473,6 +484,10 @@ Apple's advanced biometric authentication systems, Touch ID and Face ID, are als
 - iPhone XR
 - iPhone X
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 4: Unlock Your Apple iPhone 11 Pro Max Without Swiping Up via AutoUnlockX
 
 AutoUnlockX is a tweak designed for jailbroken iPhones. It enhances the Apple iPhone 11 Pro Max device's unlocking experience by automatically bypassing the lock screen. That is when certain conditions are met. Jailbreaking involves bypassing the software restrictions imposed by Apple. Here are the steps to **iPhone 11 unlock screen without swiping**:
@@ -499,6 +514,10 @@ Utilizing Voice Control to unlock your Apple iPhone 11 Pro Max offers a hands-fr
 
 ![toggle on voice control option](https://images.wondershare.com/drfone/article/2023/12/unlock-phone-without-swiping-up-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 6: Unlock iPhone Without Swiping Up with Switch Control
 
 Utilizing Switch Control is an excellent accessibility feature on iOS devices. It allows users to interact with their iPhones using adaptive switches or the Apple iPhone 11 Pro Max device's screen itself. Moreover, it can provide an alternative way to navigate the Apple iPhone 11 Pro Max and access the Home screen. You no longer have to rely solely on the conventional swipe gesture. Here is how you can set up switch control to **iPhone swipe to unlock**:
@@ -511,11 +530,12 @@ Utilizing Switch Control is an excellent accessibility feature on iOS devices. I
 
 ![remove existing recipes](https://images.wondershare.com/drfone/article/2023/12/unlock-phone-without-swiping-up-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3.** Set "Scanning Style" to "Single Switch Step Scanning" and adjust "Dwell Time" to the shortest duration. Then, turn off the remaining settings under Switch Control.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![reduce dwell time as needed](https://images.wondershare.com/drfone/article/2023/12/unlock-phone-without-swiping-up-10.jpg)
 
 **Step 4.** Save your switch, return to Accessibility Settings, and locate “Accessibility Shortcut.” Now, set triple-clicking the side button to activate “Switch Control.” On the home screen, triple-click the Side button, as previously set, to activate the switch on your Apple iPhone 11 Pro Max. Now, lock the Apple iPhone 11 Pro Max screen and then wake the Apple iPhone 11 Pro Max device without looking at it.
@@ -527,9 +547,6 @@ Utilizing Switch Control is an excellent accessibility feature on iOS devices. I
 To conclude, we have explored different ways to **unlock iPhones without swiping up** beyond just using the usual swipe-up method. We've talked about using your fingerprint or face to unlock, using voice commands or special controls. The swipe-up gesture on iPhones is great, but these other methods give you more options.
 
 While these methods are helpful, there's a software called Wondershare Dr.Fone that's particularly useful for iPhone issues. It does things like recovering data, fixing problems with your phone, and unlocking it when you can't get in. Dr.Fone has a feature called "Screen Unlock" that was specifically made to help with different ways of unlocking iPhones.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -543,9 +560,26 @@ While these methods are helpful, there's a software called Wondershare Dr.Fone t
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-the-leading-7-android-apps-to-cut-out-intrusive-ads/"><u>[New] 2024 Approved The Leading 7 Android Apps to Cut Out Intrusive Ads</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-enhancing-reach-sharing-on-vimeo-for-2024/"><u>[New] Enhancing Reach Sharing on Vimeo for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-ultimate-power-supplies-for-hero5-official-and-alternative-models/"><u>[Updated] In 2024, Ultimate Power Supplies for Hero5 Official & Alternative Models</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/can-you-unlock-iphone-11-pro-max-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>Can You Unlock iPhone 11 Pro Max After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-locked-iphone-xr-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>Forgot Locked iPhone XR Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-apple-iphone-13-mini-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your Apple iPhone 13 mini When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-apple-iphone-12-pro-max-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>How to Bypass Apple iPhone 12 Pro Max Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-14-pro-max-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 14 Pro Max Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210773542-9781649699060-how-to-meditate-handbook/"><u>How to Meditate Handbook | Free Book</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/how-to-uninstall-nvidia-drivers-on-windows-10/"><u>How to Uninstall Nvidia Drivers on Windows 10</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/identifying-creator-types-six-intriguing-youtube-categorization-tests-for-2024/"><u>Identifying Creator Types Six Intriguing YouTube Categorization Tests for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-7-without-a-passcode-drfone-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone 7 Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-fixes-how-to-recover-forgotten-icloud-password-from-your-iphone-11-pro-by-drfone-ios/"><u>In 2024, Easy Fixes How To Recover Forgotten iCloud Password From your iPhone 11 Pro</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-honor-x50iplus-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Honor X50i+ | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-15-pro-max-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/is-your-iphone-14-pro-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your iPhone 14 Pro in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mobile-users-guide-to-downloading-free-hd-video-converter-factory/"><u>Mobile User's Guide to Downloading Free HD Video Converter Factory</u></a></li>
+<li><a href="https://article-files.techidaily.com/quantum-megadesk-pure-4k-multi-touch/"><u>Quantum MegaDesk Pure 4K Multi-Touch</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-8-plus-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 8 Plus i Do? Get Answers here | Dr.fone</u></a></li>
+</ul></div>
 

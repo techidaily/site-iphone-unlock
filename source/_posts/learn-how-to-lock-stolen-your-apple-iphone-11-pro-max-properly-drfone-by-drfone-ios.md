@@ -1,7 +1,7 @@
 ---
 title: Learn How To Lock Stolen Your Apple iPhone 11 Pro Max Properly | Dr.fone
-date: 2024-07-15T06:05:32.006Z
-updated: 2024-07-16T06:05:32.006Z
+date: 2025-01-29T16:42:08.828Z
+updated: 2025-02-01T02:17:28.702Z
 tags: 
   - unlock
   - remove screen lock
@@ -50,6 +50,10 @@ Find My can be a source to track stolen iPhones, but certain scenarios are assoc
 
 ![open find my app](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** After logging in, select the lost device, and you can see its last recorded location on the map.
 
 ![consider last device location](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-4.jpg)
@@ -62,9 +66,6 @@ Lost Mode locks the Apple iPhone 11 Pro Max device and allows users to showcase 
 
 - **Step 1.** Within the Find My app, tap "Devices" from the bottom toolbar and select your lost device. Now, scroll down to "Mark As Lost" and tap "Activate."
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![proceed to activate lost mode](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-5.jpg)
 
 - **Step 2.** You will now be given a summary of the Lost Mode; tap "Continue" to proceed. On the following screen, add a phone number, tap "Next," and add a message that will be displayed on the lost device.
@@ -88,6 +89,10 @@ Lost Mode locks the Apple iPhone 11 Pro Max device and allows users to showcase 
 - **Step 3.** Now go on to add your phone number and tap "Next." Follow it by providing the message you want to display and click "Activate" to enable Lost Mode.
 
 ![activate lost mode from browser](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4. Can't Find Stolen Phone? Erase iPhone Completely
 
@@ -123,6 +128,10 @@ To qualify for theft or loss coverage, it is necessary for Find My to be enabled
 
 ![insurance in applecare](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-15.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### To Do List #3. Remove iPhone From Trusted Devices (2FA)
 
 After your Apple iPhone 11 Pro Max is stolen, it becomes essential to bolster the security of your online accounts. It is particularly essential for those safeguarded by Two-Factor Authentication (2FA), which needs to be removed:
@@ -136,6 +145,10 @@ After your Apple iPhone 11 Pro Max is stolen, it becomes essential to bolster th
 - **Step 2.** Simply select the misplaced device, and in the subsequent interface, press "Remove from Account" to eliminate it from the list of trusted devices.
 
 ![remove stolen device from account](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-17.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### From the Apple ID Website
 
@@ -151,23 +164,21 @@ After your Apple iPhone 11 Pro Max is stolen, it becomes essential to bolster th
 
 Users can proactively adopt specific measures to reduce the likelihood of such an occurrence. The following essential precautions are recommended while learning **how to block your Apple iPhone 11 Pro Max when stolen**:
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Precaution #1. Enable Find My on Device
 
 Activating Find My increases the likelihood of recovering your device. Take the following steps to enable the Find My feature on your Apple iPhone 11 Pro Max:
 
 - **Step 1.** On your iOS device, navigate to “Settings” and tap the Apple ID on the top. Now, scroll down and press "Find My" on the following screen.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![open find my settings](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-20.jpeg)
 
 - **Step 2.** Next, tap "Find My iPhone," on the ensuing window, toggle "Find My iPhone." This will enable the Find My service on your device.
 
 ![turn on find my service](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-21.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Precaution #2. Enable Separation Alerts on iPhone
 
@@ -188,6 +199,10 @@ Activating Two-Factor Authentication (2FA) enhances the security of your Apple i
 - **Step 1.** Access the Settings app on your iOS device and tap your name/Apple ID. Find and tap "Sign-In & Security" to proceed further.
 
 ![open security settings iphone](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-24.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2.** On the following screen, tap "Turn On Two-Factor Authentication." Follow it by tapping "Continue" afterward, and use the on-screen instructions to complete the process.
 
@@ -217,7 +232,6 @@ Once you have installed and launched Wondershare Dr.Fone, access the "Toolbox" t
 
 ![start ios screen unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-2.png)
 
-
 - Step 2. Entering Recovery Mode and Choosing System Version
 
 The next step requires you to put your device in Recovery Mode, for which you can follow the instructions given on-screen. After your device is in Recovery Mode, Dr.Fone will display its “Model.” Now choose the appropriate "System Version" and click "Start." Here, Dr.Fone will start downloading the required firmware. Once it is downloaded and verified, tap "Unlock Now."
@@ -235,8 +249,6 @@ To show your acknowledgment of the warning, enter the asked code, which is "0000
 Knowing **how to lock stolen iPhone**s is essential for safeguarding personal and sensitive data. Apple's Find My empowers users to remotely locate, lock, and erase their lost devices. If you have recovered your stolen device but it is locked, Wondershare Dr.Fone emerges as the top choice to unlock it within minutes.
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
-
-
 
 ## How to Unlock Your Apple iPhone 11 Pro Max Passcode: 4 Easy Methods (With or Without iTunes)
 
@@ -264,8 +276,6 @@ Too many times, users don’t get the desired results with iTunes. Therefore, we
 
 Tips: Backup all your data before unlocking the phone with Dr.Fone - Screen Unlock.
 
-
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
@@ -288,6 +298,10 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 3\. When the system detects your Apple iPhone 11 Pro Max, it displays a prompt to trust the computer. Don't accept it, and instead close it.
 
 ![Unlock iPhone Passcode with Dr.Fone - Screen Unlock  (iOS)-trust the computer](https://images.wondershare.com/drfone/drfone/unlock-iphone-win-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4\. Now you have to provide a few important information about your Apple iPhone 11 Pro Max on the next window.
 
@@ -324,6 +338,10 @@ If your Apple iPhone 11 Pro Max is already in sync with iCloud and you have enab
 3\. If you have linked several devices with your iCloud account, then simply click on the “All Devices” option and select your Apple iPhone 11 Pro Max.
 
 ![Unlock iPhone Passcode using iCloud-select your Apple iPhone 11 Pro Max](https://images.wondershare.com/drfone/article/2017/10/15081779999401.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4\. This will provide various options related to your Apple iPhone 11 Pro Max. Simply click on the “Erase iPhone” button and confirm your choice.
 
@@ -373,6 +391,10 @@ As you can see, in all the above-stated solutions, your Apple iPhone 11 Pro Max 
 
 ![Unlock iPhone Passcode-Create new contact](https://images.wondershare.com/drfone/article/2017/10/15081782605959.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 12\. This will again provide a new interface to add new content. Tap on the “Add Photo” option and select to choose an existing photo instead.
 
 ![Unlock iPhone Passcode-Add Photo](https://images.wondershare.com/drfone/article/2017/10/15081782816984.jpg)
@@ -395,13 +417,14 @@ Not just this, we will give you different methods so that you can select the mos
 
 So let's get started.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3 Useful Methods to Remove Passcode from iPhone
 
 Following are some of the most effective methods to remove the passcode from iPhones:
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Tape "Turn Passcode Off" in "Settings"
 
 This is the most common and easy method to remove the passcode from iPhone. You can follow these steps:
@@ -507,7 +530,6 @@ This was the complete process of using the Wondershare Dr.Fone-Screen Unlock fea
 
 Besides, all the methods discussed in this article work fine with most iPhones, but the ideal method is to remove the Apple iPhone 11 Pro Max passcode using Dr.Fone-Screen Unlock (iOS). We have tested this method with various iPhones, and it worked perfectly fine. So, if you want a reliable and easy-to-use method, we recommend you use Dr.Fone-Screen Unlock (iOS) without hesitation.
 
-
 ## FAQs
 
 We know there might be lots of questions running through your mind about this process. So, we have tried responding to frequently asked questions about this process.
@@ -532,9 +554,6 @@ After that, you can enter the new passcode that you want to set for your device.
 
 Besides, there is no way to change the passcode on your device. So, if you forget your passcode, you will have to factory reset your device to access it again.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ### How to remove the passcode if I forgot it?
 
 If you forgot the passcode of your device and you want to remove it, then you can follow the steps given in this article. We have explained the complete process of removing the passcode from your device if you forgot it.
@@ -544,7 +563,6 @@ If you forgot the passcode of your device and you want to remove it, then you ca
 That's all about how you can remove the Passcode from your Apple iPhone 11 Pro Max. We have explained the complete process of how you can do it. You can follow those steps and easily remove the Passcode from your device. But remember, by doing this, all the data on your device will be erased. So make sure you create a backup of your device before proceeding.
 
 If you have any other questions or doubts about this process, feel free to ask us. We would be sincerely happy to help you out.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -558,9 +576,22 @@ If you have any other questions or doubts about this process, feel free to ask u
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-2023-streamline-facebook-vids-to-smooth-mp3/"><u>[New] 2024 Approved 2023 Streamline Facebook Vids to Smooth MP3</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-cutting-edge-tips-for-making-masterpieces-with-snaps/"><u>[New] Cutting-Edge Tips for Making Masterpieces with Snaps</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-unintended-erasure-violated-video-removal-for-2024/"><u>[New] Unintended Erasure Violated Video Removal for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Oppo Reno 10 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-audio-amplification-for-online-photo-archiving/"><u>2024 Approved Audio Amplification for Online Photo Archiving</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-12-pro-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 12 Pro, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-14-plus-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Plus Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-iphone-6ipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled iPhone 6/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-15-plus-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone 15 Plus Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-6-i-do-get-answers-here-drfone-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone 6 i Do? Get Answers here | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-6-plus-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-oppo-k11-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Oppo K11 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/mastering-bulgarian-daily-quick-10-minute-routine/"><u>Mastering Bulgarian Daily: Quick 10-Minute Routine</u></a></li>
+<li><a href="https://win-able.techidaily.com/optimizing-performance-tips-to-reduce-cpu-demand-in-cyberpunk-2077/"><u>Optimizing Performance: Tips to Reduce CPU Demand in Cyberpunk 2077</u></a></li>
+<li><a href="https://win-blog.techidaily.com/quick-fixes-for-steam-delays-boosting-your-gaming-flow-instantly/"><u>Quick Fixes for Steam Delays – Boosting Your Gaming Flow Instantly</u></a></li>
+</ul></div>
 

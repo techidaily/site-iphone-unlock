@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Bypass the Required Apple Store Verification For iPhone 12 Pro Max | Dr.fone
-date: 2024-12-26T04:00:53.266Z
-updated: 2024-12-27T12:30:07.253Z
+date: 2025-01-27T19:31:07.841Z
+updated: 2025-01-31T20:22:50.932Z
 tags: 
   - unlock
   - remove screen lock
@@ -31,10 +31,6 @@ The primary reason Apple requires verification for App Store purchases is to ens
 What does this verification usually involve? It could be entering your Apple ID password or using Face ID or [<u>Touch ID</u>](https://drfone.wondershare.com/iphone-11/iphone-11-touch-id-not-working.html) if your device supports these features. These methods are designed to confirm your identity quickly and securely.
 
 ![verification required notification](https://images.wondershare.com/drfone/article/2024/01/bypass-appstore-verification-02.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Reasons Why the Verification Required Message Might Appear
 
@@ -74,10 +70,6 @@ Sometimes, simply [<u>signing out of your Apple ID</u>](https://drfone.wondersha
 
 Remember, these methods are about bypassing the verification process and ensuring your account is up-to-date and secure. Regularly checking your Apple ID settings and payment information can prevent many common issues with the App Store, including the frustrating ‘Verification Required’ prompt.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: How To Bypass Verification Required Prompt Without Apple ID
 
 If you need to learn **how to bypass the ‘Verification Required’ prompt in the App Store** but don’t have access to the Apple ID or password, there’s an alternative approach using third-party software. One such tool that can assist in this situation is [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) - Screen Unlock (iOS), which offers a feature specifically designed for this purpose.
@@ -96,13 +88,13 @@ Here’s a complete guide on bypassing **the verification required on the App St
 
 ![dr.fone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 3:** In the next window, choose **Remove Apple ID** to proceed.
 
 ![dr.fone screen unlock features](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4:** A connectivity status will appear on the screen with your iOS device connected to the computer. Click **Unlock Now** to start the process.
 
@@ -120,12 +112,16 @@ Here’s a complete guide on bypassing **the verification required on the App St
 
 ![dr.fone download process](https://images.wondershare.com/drfone/guide/unlock-ios-screen-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 8:** After firmware verification, click **Unlock Now**. You’ll be prompted to enter a code for confirmation. Once entered, the unlocking process will begin.
 
 ![remove apple id confirm](https://images.wondershare.com/drfone/guide/remove-apple-id-6.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 9:** You’ll receive a notification once the process is complete. You may try again if the process fails to succeed the first time.
@@ -221,10 +217,6 @@ There may be situations where removing Restricted Mode on your Apple iPhone 12 P
 
 ![dr.fone main window](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Key features**
 
 Packed with essential features, Dr.Fone ensures a seamless experience in removing Restricted Mode your device:
@@ -272,6 +264,10 @@ YouTube's Restricted Mode operates on both the browser and device levels. Once a
 
 It's important to note that Restricted Mode differs from age-restricting videos. While age restriction applies to specific videos, Restricted Mode filters content across the entire platform, providing a broader safety net.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How To Turn Restricted Mode On or Off on YouTube
 
 Follow the steps to learn **how to disable Restricted Mode on iPhone** when using YouTube.
@@ -279,10 +275,6 @@ Follow the steps to learn **how to disable Restricted Mode on iPhone** when usin
 - **Step 1**: Go to your profile picture on the YouTube app and tap on Settings. Next, toggle the switch next to **Restricted Mode** on or off.
 
 ![youtube restricted mode](https://images.wondershare.com/drfone/article/2024/01/disable-restricted-mode-on-iphone-10.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 2**: Go to the YouTube website if you're on a browser. Next, scroll down to the bottom of the page and click on **Restricted Mode**. Toggle the switch on or off.
 
@@ -297,6 +289,10 @@ Follow the steps to learn **how to disable Restricted Mode on iPhone** when usin
 Managing **how to disable Restricted Mode on iPhone** and YouTube ensures a safer digital environment. On iPhone, employ various methods like navigating settings or using Dr.Fone - Screen Unlock (iOS) for forgotten passcodes. On YouTube, easily toggle Restricted Mode in-app or on the browser for a more controlled viewing experience.
 
 Remember, Dr.Fone becomes a valuable ally when facing a passcode challenge. These versatile solutions grant you control over content accessibility and privacy, enhancing your digital experience. You can easily navigate and customize your device's restrictions by mastering these techniques.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## A Comprehensive Guide to Apple iPhone 12 Pro Max Blacklist Removal: Tips and Tools
 
@@ -313,7 +309,7 @@ You might have heard the term "blacklisted iPhone" before, but what does it mean
 ![iphone blacklisted](https://images.wondershare.com/drfone/article/2023/09/comprehensive-guide-iphone-blacklist-removal-02.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### What Is a Blacklisted iPhone?
@@ -337,10 +333,6 @@ Now, here's where things get tricky. When your Apple iPhone 12 Pro Max is blackl
 
 So, in a nutshell, a blacklisted iPhone is like a digital pariah, shunned from regular phone activities. But the good news is, you don't have to stay in timeout forever. In the next part, this guide will show you how to get your Apple iPhone 12 Pro Max back in action with some easy-to-follow **iPhone blacklist removal** steps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2. How To Remove and Unlock an iPhone Blacklist for Free
 
 Now that you know what it means for an Apple iPhone 12 Pro Max to be blacklisted and the troubles it can bring, let's talk about how to set your Apple iPhone 12 Pro Max free. The good news is there's a way to do this for free! Yes, you read that right. This section will walk you through the steps.
@@ -350,6 +342,10 @@ Now that you know what it means for an Apple iPhone 12 Pro Max to be blacklisted
 ### What Is iPhone Blacklisted Removal?
 
 Going through a **blacklist removal service for your Apple iPhone 12 Pro Max** is like giving your device a second chance. It's taking your Apple iPhone 12 Pro Max off the "naughty list" and making it work like it should again. And the best part? You can do it without spending a dime.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Guide to Free iPhone Blacklist Removal
 
@@ -367,6 +363,10 @@ If your carrier blacklisted the phone in error, you can request it be removed fr
 
 Both of these methods are free and can work like a charm. However, they might take some time and effort on your part. But if you're patient and persistent, you could end up with a fully functional iPhone again. Remember, staying polite and patient when dealing with the original owner or the carrier is critical.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Preventive Measures To Avoid Getting an iPhone Blacklisted
 
 Now that you've learned how to [rescue a blacklisted iPhone](https://drfone.wondershare.com/unlock/iphone-has-bad-esn-or-blacklisted-iemi.html) let's talk about how to keep it out of trouble in the first place. Prevention is always better than a cure, right? Here are some easy steps to make sure your Apple iPhone 12 Pro Max stays in the clear.
@@ -374,7 +374,7 @@ Now that you've learned how to [rescue a blacklisted iPhone](https://drfone.wond
 ![how to avoid iphone blacklist](https://images.wondershare.com/drfone/article/2023/09/comprehensive-guide-iphone-blacklist-removal-04.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Check the iPhone's History Before Buying
@@ -410,7 +410,7 @@ So, this article has talked a lot about **iPhone blacklist removal**, but what a
 ![drfone v13 home interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Key Features
@@ -468,19 +468,22 @@ Lastly, trust [Dr.Fone iPhone SIM Unlocker](https://drfone.wondershare.com/iphon
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-immediate-halt-of-auto-recording-on-qt/"><u>[New] 2024 Approved Immediate Halt of Auto-Recording on QT</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-supercharge-videos-download-premium-effs/"><u>[New] 2024 Approved Supercharge Videos - Download Premium Effs!</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-ultimate-periscope-user-manual/"><u>2024 Approved The Ultimate Periscope User Manual</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-11-pro-drfone-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/expert-tips-for-enhancing-ppts-with-auditory-content-for-2024/"><u>Expert Tips for Enhancing PPTs with Auditory Content for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/high-performance-windows-editing-tools-roundup-reviewed/"><u>High Performance Windows Editing Tools Roundup Reviewed</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-x-drfone-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone X | Dr.fone</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-heres-everything-you-should-know-about-pokemon-stops-in-detail-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Heres Everything You Should Know About Pokemon Stops in Detail On Apple iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-iphone-8-plus-drfone-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock iPhone 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-xs-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone XS? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-mini-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 12 mini Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE with a Mask On | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/the-insiders-view-advanced-strategies-for-successful-storytelling-in-social-media-for-2024/"><u>The Insider’s View Advanced Strategies for Successful Storytelling in Social Media for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/unveiling-the-hidden-price-of-free-phones-from-wireless-providers-what-you-need-to-know/"><u>Unveiling the Hidden Price of 'Free' Phones From Wireless Providers: What You Need to Know</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-guide-shutting-down-igtv/"><u>[New] In 2024, Guide Shutting Down IGTV</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-ultimate-7-private-film-access-tools/"><u>[New] In 2024, Ultimate 7 Private Film Access Tools</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-step-by-step-guide-to-ken-burns-effect-with-camtasia-9/"><u>[New] Step-by-Step Guide to Ken Burns Effect with Camtasia 9</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-guide-to-blurring-iphone-pics-at-zero-cost/"><u>[Updated] The Ultimate Guide to Blurring iPhone Pics at Zero Cost</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-15-pro-max-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 15 Pro Max Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/discover-the-next-wave-of-effective-facebook-ad-techniques-for-2024/"><u>Discover the Next Wave of Effective Facebook Ad Techniques for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/hide-identity-blurred-face-artistry-for-2024/"><u>Hide Identity Blurred Face Artistry for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-se-2022-drfone-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone SE (2022) | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-14-plus-without-a-passcode-drfone-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 14 Plus Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-11-pro-drfone-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-iphone-13-pro-max-without-passcode-now-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock iPhone 13 Pro Max Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-iphone-12-pro-drfone-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Xiaomi Redmi 12 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-7-drfone-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-xs-max-drfone-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/restoring-lost-contacts-uncovering-deleted-mobile-numbers-in-your-android-device/"><u>Restoring Lost Contacts: Uncovering Deleted Mobile Numbers in Your Android Device</u></a></li>
+<li><a href="https://extra-information.techidaily.com/visionary-innovators-leading-brands-in-8k-photography/"><u>Visionary Innovators Leading Brands in 8K Photography</u></a></li>
 </ul></div>
 

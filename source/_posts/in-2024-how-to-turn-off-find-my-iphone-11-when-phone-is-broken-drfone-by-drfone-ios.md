@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Turn Off Find My iPhone 11 when Phone is Broken? | Dr.fone
-date: 2024-12-22T09:48:34.682Z
-updated: 2024-12-27T07:52:35.802Z
+date: 2025-01-25T02:54:01.415Z
+updated: 2025-01-31T20:08:44.147Z
 tags: 
   - unlock
   - remove screen lock
@@ -32,6 +32,10 @@ The best part about this application is that it is free of cost. It usually come
 
 [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is an excellent data recovery and management software created by Wondershare. However, limiting it to just recovery and management of data will not be just as it offers much more than just that. Transferring files, repairing the operating system, changing the GPS location, and fixing the activation lock are its amazing services.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Dr.Fone - Screen Unlock (iOS)
 
 Turning Off Find My iPhone Within Second.
@@ -55,10 +59,6 @@ Open Wondershare Dr.Fone and select “Screen Unlock” among the other options 
 
 ![select unlock apple id option](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3: Remove Active Lock**
 
 After choosing the “Unlock Apple ID” option, an interface will be displayed that will show another two options, out of which you have to select “Remove Active Lock” to proceed further.
@@ -71,17 +71,29 @@ Jailbreak your Apple iPhone 11 by following the instructions given by the system
 
 ![jailbreak your device](https://images.wondershare.com/drfone/drfone/remove-activation-lock-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5: Confirmation Window**
 
 A warning will be displayed on the screen asking for confirmation to remove the active lock. Then again, another confirmation message will pop up confirming the model of your device.
 
 ![confirm the agreement](https://images.wondershare.com/drfone/drfone/remove-activation-lock-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 6: Unlock your Apple iPhone 11**
 
 Click on “Start Unlock” to proceed. Once the process is started, you have to wait for a moment until the activation lock is successfully removed.
 
 ![start the unlock process](https://images.wondershare.com/drfone/drfone/remove-activation-lock-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 7: Turn off Find My iPhone**
 
@@ -102,6 +114,10 @@ Here we have explained to you step by step how to turn off Find My iPhone on bro
 **Step 2:** Click on the "Find My iPhone" icon at the end of the page. The app will start locating your device, but as your Apple iPhone 11 is damaged, it might not find anything.
 
 ![select the option of find my iphone](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Click on the "All Devices" option from the top. Select your Apple iPhone 11, which you want to remove by clicking on "Remove from account."
 
@@ -133,10 +149,6 @@ Once your Apple iPhone 11 shows the Apple logo, it means the Recovery Mode is ac
 
 ![tap on restore option](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Conclusion
 
 Now we’re done as we’ve provided you the best possible solutions to turn off Find My iPhone when your Apple iPhone 11 is broken. It is obvious that it is a quite complicated process, but you have to be patient and follow the steps correctly to disable Find My Apple iPhone 11 to avoid any inconvenience in the future. We hope this article answers all your queries regarding it.
@@ -144,6 +156,10 @@ Now we’re done as we’ve provided you the best possible solutions to turn off
 ## How to Make the Most of Your Apple iPhone 11 Lock Screen with Notifications?
 
 The Apple iPhone 11 lock screen has certainly changed a lot over the last few updates of iOS. Not only it provides an added security to the Apple iPhone 11 device, but with iPhone lock screen notifications, we can also save our time and efforts. With the introduction of iOS 18, we can also see a change in iPhone lock screen with notifications as well. To help you make the most out of lock screen notifications iPhone, we have come up with this ultimate guide. Read on and know all sorts of things you can do with iPhone notification lock screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: How to use iPhone lock screen notifications?
 
@@ -161,13 +177,13 @@ Not just your messages, you can interact with other apps as well right from the 
 
 ![iphone lock screen with notifications-close app notification](https://images.wondershare.com/drfone/article/2017/09/15063938035288.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Though, if you want to know more, then just long press the notification. For instance, if you have got a notification for an email, then you can get various options just by long pressing it.
 
 ![iphone lock screen with notifications-long press app notification](https://images.wondershare.com/drfone/article/2017/09/15063938297428.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Search for anything**
 
@@ -176,7 +192,7 @@ Besides interacting with widgets and apps, you can also search for something on 
 ![iphone lock screen with notifications-earch for anything](https://images.wondershare.com/drfone/article/2017/09/15063938584150.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to turn off notifications on iPhone lock screen?
@@ -249,6 +265,10 @@ If your device is gone, you can use the Find My application on your other Apple 
 
 If your Apple iPhone 11 is in Lost Mode and you don't have the foggiest idea of how to restore it, relax. This guide will cover every one of the techniques that you can use for **iPhone Lost Mode unlock**.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: What Will Happen When iPhone Is in Lost Mode?
 
 The Apple iPhone 11 Lock feature permits remotely locking a lost Apple iPhone 11 to prevent people from using its data. If you set a password for a device before enabling the Lost Mode, you will need this password to unlock the Apple iPhone 11 once it has returned to its proprietor.
@@ -270,10 +290,6 @@ The Lost Mode menu will ask you to set one if it has no password. Password is ob
 The most straightforward method for unlocking the Apple iPhone 11 in Lost Mode is entering the password on the actual device. If your device was protected with a password before placing it in Lost Mode, enter it again.
 
 If your device had no password while placing it in Lost Mode and you've entered it into iCloud while placing your Apple iPhone 11 into Lost Mode, utilize this password. That will help you **unlock lost iPhone**, and you can start operating your Apple iPhone 11 again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Remove it from Find My in iCloud
 
@@ -297,7 +313,7 @@ The DNS bypass will send a fake "device isn't locked" message to iCloud through 
 ![dns bypass](https://images.wondershare.com/drfone/article/2022/10/iphone-lost-mode-unlock-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - Tap on "Configure DNS," and enter a DNS server as per your region from the list underneath:
@@ -342,10 +358,6 @@ The benefit of Apple iPhone Unlock is that they keep themselves updated with the
 - As per their site, Apple iPhone Unlock can work with every one of the Apple iPhone 11 devices going from iPhone 4 to iPhone 14 Pro Max.
 - Don't bother downloading anything to your PC or phone like others. Another iPhone lock screen expects you to download their tool or software to work.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Bonus Tips: How to Unlock Our iPhone Screen?
 
 ### Dr.Fone-Screen Unlock
@@ -360,10 +372,6 @@ Open the Dr.Fone software and tap the "Unlock iOS Screen."
 
 ![screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2. Boot iPhone in Recovery/DFU mode**
 
 Before bypassing the Apple iPhone 11 lock screen, we want to boot it in Recovery or DFU mode by adhering to the on-screen guidelines. The Recovery mode is suggested for the iOS lock screen. However, if you can't activate the Recovery mode, you can figure out how to activate the DFU mode from their official site.
@@ -376,19 +384,11 @@ After getting the phone in DFU mode, Dr.Fone will show the Apple iPhone 11 devic
 
 ![device information](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4. Unlock the Apple iPhone 11 Screen Lock**
 
 After downloading the required firmware effectively, click Unlock Now to remove the lock. However, note that this unlocking system will wipe the user data on your Apple iPhone 11. Truly, there is no answer for **iPhone Lost Mode unlock** without losing your data.
 
 ![unlocked successfully](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### The Bottom Line
 
@@ -410,18 +410,19 @@ Luckily, we’re here to provide a series of dependable and secure solutions tha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-numbers-in-focus-yearly-yt-trends-and-trivia-2017/"><u>[Updated] Numbers in Focus! Yearly YT Trends & Trivia (2017)</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-streamlining-video-production-green-screen-magic-unveiled/"><u>2024 Approved Streamlining Video Production Green Screen Magic Unveiled</u></a></li>
-<li><a href="https://android-frp.techidaily.com/about-nokia-g22-frp-bypass-by-drfone-android/"><u>About Nokia G22 FRP Bypass</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-iphone-8-plus-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock iPhone 8 Plus with iTunes | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-13-mini-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone 13 mini Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-13-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock iPhone 13, Apples New iPhone | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-plus-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 Plus with a Mask On | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-se-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-unlock-realme-11-5g-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>In 2024, Unlock Realme 11 5G Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/learn-how-to-lock-stolen-your-iphone-12-mini-properly-drfone-by-drfone-ios/"><u>Learn How To Lock Stolen Your iPhone 12 mini Properly | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/maximize-space-with-iphone-images-scaling-for-2024/"><u>Maximize Space with iPhone Images Scaling for 2024</u></a></li>
-<li><a href="https://techidaily.com/three-methods-to-recover-lost-data-on-zte-nubia-z60-ultra-by-fonelab-android-recover-data/"><u>Three methods to recover lost data on ZTE Nubia Z60 Ultra</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/whats-the-wordcharacter-threshold-for-gpt-3-responses/"><u>What's the Word/Character Threshold for GPT-3 Responses?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-integrating-social-spaces-tiktok-uploads-on-facebook/"><u>[New] 2024 Approved Integrating Social Spaces TikTok Uploads on Facebook</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-step-by-step-guide-live-broadcast-of-recorded-videos-on-fb/"><u>[New] 2024 Approved Step-by-Step Guide Live Broadcast of Recorded Videos on FB</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-achieve-professional-grade-aesthetics-top-10-insta-grid-makers-for-2024/"><u>[New] Achieve Professional-Grade Aesthetics Top 10 Insta Grid Makers for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2023s-scarcity-pioneering-vr-content-shortcomings-for-2024/"><u>[Updated] 2023’S Scarcity Pioneering VR Content Shortcomings for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-the-compre-writters-manual-for-great-documentary-storytelling/"><u>[Updated] The Compre Writter's Manual for Great Documentary Storytelling</u></a></li>
+<li><a href="https://driver-install.techidaily.com/download-and-install-updated-hp-officejet-8620-drivers-for-optimal-performance-in-windows/"><u>Download & Install Updated HP OfficeJet 8620 Drivers for Optimal Performance in Windows</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-11-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-se-with-a-mask-on-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone SE with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-iphone-se-and-ipad-securely-drfone-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on iPhone SE and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-iphone-14-pro-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix iPhone 14 Pro Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-iphone-6s-plus-5-ways-to-get-into-a-locked-iphone-6s-plus-drfone-by-drfone-ios/"><u>In 2024, Locked Out of iPhone 6s Plus? 5 Ways to get into a Locked iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-6-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 6</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/uncover-8-proven-services-for-effective-content-marketing-for-2024/"><u>Uncover 8 Proven Services for Effective Content Marketing for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/webcam-and-monitor-recording-how-to-combine-for-2024/"><u>Webcam & Monitor Recording How to Combine for 2024</u></a></li>
 </ul></div>
 

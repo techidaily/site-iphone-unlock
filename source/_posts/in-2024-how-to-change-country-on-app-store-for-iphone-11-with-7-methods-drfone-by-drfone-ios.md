@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Change Country on App Store for iPhone 11 With 7 Methods | Dr.fone
-date: 2024-07-15T06:03:18.230Z
-updated: 2024-07-16T06:03:18.230Z
+date: 2025-01-28T03:51:48.436Z
+updated: 2025-02-01T03:59:16.517Z
 tags: 
   - unlock
   - remove screen lock
@@ -54,6 +54,10 @@ It is the most common and straightforward way to change your App Store country. 
 
 ![change country on iphone settings](https://images.wondershare.com/drfone/article/2023/10/change-app-store-country-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Changing Apple ID Region via Mac/Windows
 
 To change your Apple ID region via Mac/Windows, follow these steps:
@@ -70,9 +74,6 @@ The steps below are to change your Apple ID region via the web.
 - **Step 1:** Open a web browser on your desktop or mobile device. Next, go to appleid.apple.com. Sign in with your Apple ID.
 - **Step 2:** Under **Personal Information**, click the **Country/Region** button. Next, click the **Change country or region** and choose your preferred country.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![change country on web](https://images.wondershare.com/drfone/article/2023/10/change-app-store-country-05.jpg)
 
 ### Method 4: Leaving a Family-Sharing Group
@@ -92,6 +93,10 @@ If you have any subscriptions, you must cancel them before **changing your App S
 - **Step 2:** Tap **Subscriptions** > **Cancel** **Subscription.** Once you cancel all of your subscriptions, you can change your App Store country.
 
 ![cancel all subscriptions on iphone](https://images.wondershare.com/drfone/article/2023/10/change-app-store-country-07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 6: Using a VPN
 
@@ -117,7 +122,6 @@ Dr.Fone - Screen Unlock (iOS) helps you regain access to your Apple ID and fix a
 
 ![dr.fone main window](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-
 ### Key Features
 
 Dr.Fone - Screen Unlock (iOS) is a powerful tool that can help you to:
@@ -125,6 +129,10 @@ Dr.Fone - Screen Unlock (iOS) is a powerful tool that can help you to:
 - **Unlock iOS Device Without Passcode.**Regain [<u>access to your locked iPhone or iPad without needing the passcode</u>](https://drfone.wondershare.com/unlock/how-to-sign-out-of-apple-id-without-password.html).
 - **Remove All Lock Screen Types.**Versatile unlock support for 4-digit/6-digit passcodes, Touch ID, and Face ID lock screens.
 - **Unlock Apple ID Without Password.**Effortlessly unlock your Apple ID without requiring the password, simplifying access.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### How To Unlock Your Apple iPhone 11 in Seconds
 
@@ -134,6 +142,10 @@ Dr.Fone's Screen Unlock tool offers a streamlined solution to get you back into 
 - **Step 2:** Connect your locked Apple iPhone 11 to your computer using a compatible USB cable. Afterward, click **Start** on the program. Follow the on-screen prompts on Dr.Fone. It will tell you to boot differently into DFU mode. Once your device [<u>enters DFU mode</u>](https://drfone.wondershare.com/dfu-mode/tools-for-iphone-to-enter-dfu-mode.html), Dr.Fone will present device details, including phone generation, iOS version, and more.
 
 ![connect your iphone to pc](https://images.wondershare.com/drfone/guide/screen-unlock-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Dr.Fone will download the necessary firmware for your device. Follow the on-screen instructions to finish the unlocking process. Once done, Dr.Fone will [<u>remove the activation lock from your device</u>](https://drfone.wondershare.com/icloud/unlock-icloud-activation.html).
 
@@ -153,9 +165,6 @@ Locking an iPhone with a passcode is a great way to prevent it from getting into
 
 In this detailed guide, we will elaborate on the best possible methods you can employ to **unlock iPhone with broken screen.** Moreover, we will introduce you to the best unlocking tools available for your situation. So stay with us till the end.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## Part 1: Use the Feature "Find My iPhone" to Unlock an iPhone with Broken Screen
 
 Find My is a famous component in Apple devices that allows you to find your lost devices through GPS. The option has been revitalized much from that point forward. Presently it can be utilized to erase your Apple iPhone 11 from a distance. You can erase your information without a password) to save its data.
@@ -176,6 +185,10 @@ Also, if your Apple iPhone 11 screen is broken, you can use this feature to unlo
 **Step 3.** After signing in effectively, click on Find My and enter your Apple ID and password. Click on Sign In.
 
 ![click find my iphone](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4.** Pick your locked phone under the "All Devices" segment.
 
@@ -232,6 +245,10 @@ You need to ask Siri, "Siri, what time is it?" or "Siri, what time is it in the 
 
 ![add new clock](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3.** At the point when another clock is added, you will have the choice to share the new clock.
 
 **Step 4.** Click on the share button and Pick the Message choice.
@@ -254,7 +271,6 @@ Besides, it works for iPhones with iOS 8.0 to 10.1. These bugs are fixed in the 
 
 ### Dr.Fone-Screen Unlock
 
-
 The quickest way to **unlock iPhone with broken screen** is to use an unlocking tool. However, there are tons of tools available in the market, but it is our responsibility to suggest you the best way.
 
 We strongly recommend you install the Wondershare Dr.Fone-Screen Unlock tool. It is a safe and easy-to-use tool with an excellent success rate. With years of service in the unlocking industry, the experts at Wondershare thrive to provide outstanding services to its customers.
@@ -266,6 +282,10 @@ Moreover, Dr.Fone will keep your data from being exposed to threats. It is a fas
 Click the "Screen Unlock" option from the main homepage and connect your iDevice to your computer. Then go for the "Unlock iOS Screen" option on the program.
 
 ![select screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2. Access the Recovery or DFU mode**
 
@@ -283,17 +303,14 @@ Dr.Fone will now show you the phone Model and OS version. You can choose the rig
 
 After the firmware is downloaded effectively, click Unlock Now.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unlock now](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In almost no time, the software will unlock your Apple iPhone 11 effectively. However, note that this unlocking will likewise wipe your user data.
 
-
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### The Bottom Line
 
 Having an iPhone with a broken screen can make your life hard. It keeps you from communicating and carrying out important tasks on the phone. But we can make this situation work your way. Therefore, we have furnished the above list to help you **unlock iPhone with broken screen.** Even if none of the methods work, Dr.Fone can still get our phone unlocked.
@@ -316,9 +333,6 @@ The more times you get your code wrong, the longer you’ll be locked out, so av
 
 While we said, you shouldn’t type in random numbers to try and guess the password, of course, if you have a standard family passcode that you use across all iOS devices, perhaps an admin password or just something you use for everything, it can be well worth a try.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone random passcodes](https://images.wondershare.com/drfone/iphone-random-passcodes-.jpg)
 
 In reality, you get three attempts to put a passcode in before it locks you out, so try two passcodes that your family uses to see whether this will easily unlock your device. If you brought your device preowned and still have contact with the owner, they may have a passcode you can try.
@@ -343,6 +357,10 @@ When it does, close iTunes if it automatically opens and clicks the Screen Unloc
 
 ![ios unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4.** Once Dr.Fone - Screen Unlock (iOS) has detected your device in DFU Mode. You’ll be able to select which device you’re using and what firmware you want to be repaired; in this case, iOS 17/14.
 
 ![ios unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
@@ -366,6 +384,10 @@ It’s only possible to do this if you’ve backed up your iOS device in the pas
 **Step 3.** Follow the onscreen instructions where you’ll choose which backup file you want to use before iTunes, then restores your device. When the software has completed the process, you’ll be able to disconnect your Apple iPhone 11 and use it without a lock screen!
 
 ![drfone home](https://images.wondershare.com/drfone/restore_itunes_backup.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2.4 Restore in recovery mode
 
@@ -405,9 +427,6 @@ Leave the Apple iPhone 11 device to erase, and once completed, you’ll be able 
 
 And there you go, the five key ways you need to know when it comes to removing an unwanted lock screen from your iOS device after an iOS 17/14 update. We highly recommend the Dr.Fone - Screen Unlock (iOS) since the software makes the whole process incredibly easy, especially when managing any problems you may have on your iOS device!
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -420,9 +439,23 @@ And there you go, the five key ways you need to know when it comes to removing a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/updated-adjusting-settings-for-audible-obs-broadcasts/"><u>[Updated] Adjusting Settings for Audible OBS Broadcasts</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-unrivaled-windows-video-calls-top-8-apps/"><u>[Updated] Unrivaled Windows Video Calls Top 8 Apps</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-navigating-the-ways-for-fee-free-pictorial-clips/"><u>2024 Approved Navigating the Ways for Fee-Free Pictorial Clips</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/bk-faces-backlash-twice-over-customer-disputes-the-surprising-drama-at-burger-king/"><u>BK Faces Backlash Twice Over Customer Disputes – The Surprising Drama at Burger King</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-13-pro-max-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 13 Pro Max with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/embracing-the-world-of-no-cost-text-animation/"><u>Embracing the World of No-Cost Text Animation</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-xr-drfone-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone XR? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-8-plus-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 8 Plus Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-11-pro-max-learn-all-4-methods-drfone-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone 11 Pro Max? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-quick-fixes-todays-rapidly-watched-videos/"><u>In 2024, Quick Fixes Today's Rapidly Watched Videos</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-iphone-15-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>In 2024, Unlock iPhone 15 With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/mastering-netflix-adjust-stream-pace-for-2024/"><u>Mastering Netflix Adjust Stream Pace for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/pioneering-video-editing-techniques-for-windows-10-aficionados-for-2024/"><u>Pioneering Video Editing Techniques for Windows 10 Aficionados for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/rectifying-fixed-or-frozen-menu-bar-on-windows-11-pc/"><u>Rectifying Fixed or Frozen Menu Bar on Windows 11 PC</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-6s-plus-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-6s-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 6s i Do? Get Answers here | Dr.fone</u></a></li>
+</ul></div>
 

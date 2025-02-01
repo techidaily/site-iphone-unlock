@@ -1,7 +1,7 @@
 ---
 title: In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone X | Dr.fone
-date: 2025-01-19T16:48:00.996Z
-updated: 2025-01-24T16:13:52.397Z
+date: 2025-01-30T22:04:00.519Z
+updated: 2025-01-31T23:48:31.922Z
 tags: 
   - unlock
   - remove screen lock
@@ -21,10 +21,6 @@ thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8
 First things first, the short answer is yes. It is entirely possible to unlock a disabled iPhone and use it again. But there is a catch-all data on the Apple iPhone X device that will be erased as the process wipes the Apple iPhone X clean. There is no other way around it.
 
 ![iphone is disabled](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-disabled-iphone-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part II: Unlock Disabled iPhone
 
@@ -50,25 +46,13 @@ This is a must-have set of tools designed for every smartphone owner, regardless
 
 ![recovery mode instructions in drfone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4:** Software version and device model are detected automatically when the Apple iPhone X device is in Recovery Mode. If the automatic detection is incorrect, set it correctly before proceeding. Click Start.
 
 ![automatic detection of device and software drfone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 5:** When Dr.Fone is ready to unlock disabled iPhone, click Unlock Now and wait until the notification of a successful unlock is shown.
 
 ![unlock disabled iphone with drfone screen unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### II.II: Unlock Disabled iPhone With iTunes/ macOS Finder
 
@@ -79,10 +63,6 @@ The above was a fast, intuitive, step-by-step way to get you through the unlock 
 **Step 2:** Press the volume up key on your Apple iPhone X and release. Then, press the volume down key and release. Lastly, press and hold the power key till you see Recovery Mode in Finder or iTunes.
 
 ![iphone recovery mode](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-disabled-iphone-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3:** Click Restore to unlock disabled iPhone.
 
@@ -116,10 +96,6 @@ Worry not, because Apple's Find My is your friend. You can use Find My on your o
 
 ![unlock disabled iphone with find my app](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-disabled-iphone-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2:** Select the disabled iPhone from the Apple iPhone X devices in the sidebar, click or tap the Apple iPhone X device on the map and click or tap Erase This Device.
 
 The disabled iPhone will be wiped and restored to factory defaults. The setup will need to be performed again.
@@ -143,6 +119,10 @@ Unlocking a disabled iPhone requires erasing the Apple iPhone X device. All data
 After unlocking the disabled iPhone, when you set it up again, if you previously had iCloud Backup enabled, you will get the option to restore data from the latest backup.
 
 ![icloud](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-disabled-iphone-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus Tip: Prevent iPhone From Getting Disabled In Future
 
@@ -182,6 +162,10 @@ The second way to have a customized lock screen is to use a Live Photo. To do th
 
 **Note:** You can only use Live Photos for your lock screen if your Apple iPhone X is unlocked.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. How to manage notifications
 
 If you want to manage notifications on the iOS 17 lock screen, there are two ways to do it.
@@ -197,6 +181,10 @@ The Do Not Disturb feature is the second way to manage notifications. To do this
 If you want to set the Auto-Lock time, go to Settings > Display & Brightness > Auto-Lock. Here, you can choose how long it should take for your Apple iPhone X to lock automatically.
 
 ![set auto lock on ios 17 lock screen](https://images.wondershare.com/drfone/article/2022/11/ios-15-lock-screen-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 By default, the Auto-Lock time is set to 30 seconds. But you can choose to lock it immediately, after 1 minute, 5 minutes, or never.
 
@@ -235,7 +223,7 @@ It will take some time, but you can use your Apple iPhone X without a passcode o
 ![recovery mode on itunes](https://images.wondershare.com/drfone/article/2022/11/ios-15-lock-screen-7.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Use Find My in iCloud
@@ -251,10 +239,6 @@ All the data will disappear on your Apple iPhone X, and you'll be able to access
 This process can also take some time, so be patient.
 
 ![find My Apple iPhone X feature](https://images.wondershare.com/drfone/article/2022/11/ios-15-lock-screen-8.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 4\. Dr.Fone-Screen Unlock
 
@@ -300,6 +284,10 @@ After the firmware is downloaded, you need to press the Unlock Now button, and D
 
 ![ios 17 lock screen without passcode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## FAQs
 
 ### Why iOS 17 Lock Screen is not working?
@@ -319,7 +307,7 @@ If none of these methods work, you can try using a third-party tool like Dr.Fone
 There are various ways to unlock a locked iPhone running on iOS 17. You can try the feature of Find My iPhone, or you can also use a third-party tool like Dr.Fone-Screen Unlock.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### How do you fix an unresponsive lock screen on iPhone running on iOS 17?
@@ -362,15 +350,15 @@ Next move that you need to perform is to opt for the correct mode, i.e. “Unloc
 
 ![opt for the correct mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3: Double-Check iPhone information**
 
 On the upcoming screen, you’ll be displayed the “Device Model” and most recent “System Version” which is compatible with your Apple iPhone X. Simply, hit the “Start” button here.
 
 ![iOS firmware version](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4: Perform Apple iPhone X passcode removal**
 
@@ -378,7 +366,15 @@ Once, the software downloads the firmware automatically, you can then proceed to
 
 ![passcode removal](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. Restore an iTunes backup for Apple iPhone X
 
@@ -422,6 +418,10 @@ Note: Since we’re going to unlock your Apple iPhone X using Find My iPhone ser
 
 ![erase iPhone](https://images.wondershare.com/drfone/article/2019/09/unlock-iphone-icloud.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5:** Lastly, wait for the process to complete and upon completion set up your device as usual.
 
 ## Part 5. How about Apple iPhone X restrictions passcode?
@@ -460,22 +460,18 @@ Now, in case you know the Apple iPhone X restrictions passcode and just wish to 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-the-videographers-playbook-for-sims-games/"><u>[New] 2024 Approved The Videographer's Playbook for Sims Games</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-speedy-file-assessment-on-windows-pcs-for-2024/"><u>[Updated] Speedy File Assessment on Windows PCs for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-15-plus-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone 15 Plus Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/get-the-latest-asus-pce-ac68-device-driver-software-here/"><u>Get the Latest ASUS PCE-AC68 Device Driver Software Here!</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/how-to-join-someones-live-on-tiktok-for-2024/"><u>How to Join Someone's Live on TikTok for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-se-2022-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone SE (2022) When Its Locked Within Seconds | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-xr-drfone-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone XR | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-apple-iphone-14-pro-max-5-ways-to-get-into-a-locked-apple-iphone-14-pro-max-drfone-by-drfone-ios/"><u>In 2024, Locked Out of Apple iPhone 14 Pro Max? 5 Ways to get into a Locked Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-apple-iphone-8-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone 8 Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-12-pro-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-se-2022-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone SE (2022) | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-the-secrets-to-steering-clear-of-vr-sickness/"><u>In 2024, The Secrets to Steering Clear of VR Sickness</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-ultimate-list-of-20-magic-words-for-marketing/"><u>In 2024, The Ultimate List of 20 Magic Words for Marketing</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-iphone-6-without-passcode-easily-drfone-by-drfone-ios/"><u>In 2024, Unlock iPhone 6 Without Passcode Easily | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Tecno Spark 10 Pro? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-tecno-spark-20c-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Tecno Spark 20C FRP Without Computer</u></a></li>
-<li><a href="https://win-answers.techidaily.com/troubleshoot-your-assassins-creed-mirage-launch-issues-with-these-expert-tips/"><u>Troubleshoot Your Assassin's Creed Mirage Launch Issues with These Expert Tips</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-discover-14-inspiring-text-based-motion-masterpieces-for-2024/"><u>[Updated] Discover 14 Inspiring Text-Based Motion Masterpieces for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-erase-iphone-se-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>3 Ways to Erase iPhone SE When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723209423436-how-to-fix-error-651-in-windows-easily/"><u>How to Fix Error 651 in Windows. Easily</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-migrate-android-data-from-vivo-t2-pro-5g-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Migrate Android Data From Vivo T2 Pro 5G to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-iphone-12-mini-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From iPhone 12 mini? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabled-apple-iphone-14-pro-max-how-to-unlock-a-disabled-apple-iphone-14-pro-max-drfone-by-drfone-ios/"><u>In 2024, Disabled Apple iPhone 14 Pro Max How to Unlock a Disabled Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-15-pro-max-drfone-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/investigating-the-mixed-feedback-on-boses-qc30-headphones/"><u>Investigating the Mixed Feedback on Bose's QC30 Headphones</u></a></li>
+<li><a href="https://games-able.techidaily.com/maintaining-childrens-security-in-social-chats/"><u>Maintaining Children’s Security in Social Chats</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-13-pro-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/trouble-with-apple-iphone-11-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with Apple iPhone 11 Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unveiling-of-amazons-next-gen-app-studio-and-cutting-edge-ai-protection-measures-at-the-aws-summit-as-covered-by-zdnet/"><u>Unveiling of Amazon's Next-Gen App Studio and Cutting-Edge AI Protection Measures at the AWS Summit, as Covered by ZDNet</u></a></li>
 </ul></div>
 

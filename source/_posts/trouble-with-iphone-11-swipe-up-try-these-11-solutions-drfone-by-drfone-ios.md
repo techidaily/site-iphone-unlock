@@ -1,7 +1,7 @@
 ---
 title: Trouble with iPhone 11 Swipe-Up? Try These 11 Solutions | Dr.fone
-date: 2024-07-15T06:01:18.808Z
-updated: 2024-07-16T06:01:18.808Z
+date: 2025-01-25T19:23:32.181Z
+updated: 2025-01-31T23:01:00.797Z
 tags: 
   - unlock
   - remove screen lock
@@ -32,6 +32,10 @@ Sometimes, the touch screen may need recalibration. This can cause the swipe-up 
 
 Physical damage, like heavy falls, can impact the phone's touch sensitivity. Moreover, it affects swipe gestures as a result.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Full Memory or Background Apps
 
 Insufficient memory or many background apps running simultaneously can overload the Apple iPhone 11 device. This leads to performance issues, including unresponsive gestures.
@@ -43,6 +47,10 @@ Sudden exposure to moisture or water damage can also cause the screen to malfunc
 ## Part 2: 11 Ways To Fix iPhone Swipe up Not Working
 
 Encountering an unresponsive swipe-up gesture on your Apple iPhone 11 can be exasperating. However, you no longer need to worry. There are numerous troubleshooting techniques available to address this problem. Explained below are the 11 effective ways to address the problem:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1. Fix iOS System Error Without Data Loss: Dr.Fone – System Repair (iOS)
 
@@ -90,11 +98,7 @@ Select the Apple iPhone 11 device type from the available options and select "iP
 
 After that, you'll reach a window showing different iOS firmware alternatives. Pick any as per your preferences and click "Download." Once the download is complete, click "Repair Now" and "Done" to end the repair process.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![initiate swipe up repair process](https://images.wondershare.com/drfone/guide/ios-system-repair-6.png)
-
 
 ### Fix 2. Force Restart iPhone
 
@@ -134,6 +138,10 @@ If your Apple iPhone 11 swipe-up gesture isn't working specifically on the lock 
 
 ![toggle control center switch](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6. Enable Control Center Within Apps
 
 Are you experiencing issues with accessing the Control Center via the swipe-up gesture while using certain apps? If yes, ensuring that Control Center access is enabled within apps is essential. It ensures that the swipe-up gesture from the bottom edge of the screen functions. Here's how to enable Control Center access within apps:
@@ -153,6 +161,10 @@ Running an outdated iOS version can sometimes lead to various software issues. T
 **Step 2.** If an update is available, press the "Update Now" button to commence the updating process. During the process, make sure to follow the prompts carefully to avoid issues.
 
 ![install new ios update](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8. Turn Off VoiceOver
 
@@ -177,6 +189,10 @@ Touch Accommodations is an accessibility feature on iPhones. It is designed to m
 **Step 2.** Now, first, enable the "Touch Accommodation" option from the top of the next screen. Then, scroll down and set the "Tap Assistance" option to “Use Initial Touch Location.”
 
 ![set tap assistance to initial location](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 10. Turn Off Reduce Motion
 
@@ -205,8 +221,6 @@ Resetting all settings on your Apple iPhone 11 can help resolve software-related
 ## Part 3: Unlock iPhone Without Swiping Up
 
 Encountering **swipe not working on iPhone** can sometimes lead to difficulties. This is especially the case in unlocking the Apple iPhone 11 device or accessing essential functions. In such scenarios, using [Wondershare Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) provides a reliable solution. It bypasses the swipe-up need and regains access to your Apple iPhone 11 without relying on the problematic gesture. This tool offers a solution to unlock iPhone/iPad devices without the passcode.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -249,7 +263,6 @@ Once the iOS firmware has been successfully downloaded, it undergoes verificatio
 
 ![choose to unlock the iphone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
-
 ## Conclusion
 
 Having trouble with **swipe up not working on an iPhone** can be annoying. It stops you from using important stuff and moving around your phone quickly. This guide has lots of ways to fix it. We've covered simple things like restarting your Apple iPhone 11 and cleaning the screen, as well as more complex stuff like changing settings and using unique options for accessibility. These fixes can help make the swipe-up gesture work again.
@@ -260,15 +273,17 @@ We've also talked about a helpful tool called Wondershare Dr.Fone. It's made to 
 
 [![drfone](https://drfone.wondershare.com/images/alice-mj.png)](https://drfone.wondershare.com/author/alice-mj/)
 
-_“How to unlock Apple iPhone 11 without passcode? I have forgotten the passcode of My Apple iPhone 11 and can’t seem to unlock it after consecutive efforts.”_
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
+_“How to unlock Apple iPhone 11 without passcode? I have forgotten the passcode of My Apple iPhone 11 and can’t seem to unlock it after consecutive efforts.”_
 
 If you have been [locked out of your Apple iPhone 11](https://drfone.wondershare.com/unlock/get-into-locked-iphone.html) due to different reasons, then you have come to the right place. Lately, many users have told us that their Apple iPhone 11 won’t unlock as they have forgotten the new passcode or bought someone else’s device. No matter the situation, you can learn how to unlock Apple iPhone 11 without a passcode or Face ID.
 
 As an expert, I tried and tested these methods to unlock iOS devices without using the pre-set passcode. So what are you waiting for? Read on and learn how to unlock iPhone X if you forgot its passcode.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wXbqfC7JTKc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
-
 
 ## Part 1: How to unlock Apple iPhone 11 with a professional tool?
 
@@ -277,8 +292,6 @@ One of the easiest solutions to bypass a locked iPhone is using a dedicated tool
 Note： This tool may erase all your data from your iOS devices after unlocking
 
 It is compatible with all the leading iOS devices, including the latest models like iPhone 15. Without any prior technical experience, you can use this tool and fix an Apple iPhone 11 that won’t unlock. Here are some main features of this unlocking tool.
-
-
 
 ### Dr.Fone - Screen Unlock
 
@@ -325,9 +338,6 @@ After proving the relevant information, click on the “Download” button and w
 
 Once the respective firmware update has been downloaded, you will be notified. To fix your Apple iPhone 11 won’t unlock, click on the “Unlock Now” button.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unlock iphone xs](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
 Sit back and wait for a while as the application will restart your device. There won’t be any lock on the Apple iPhone 11 device now, and you can access it without any trouble.
@@ -378,6 +388,10 @@ Another way to learn how to unlock Apple iPhone 11 without a passcode or Face ID
 
 ![unlock iphone xs without passcode in icloud](https://images.wondershare.com/drfone/article/2018/unlock-iphone-x-without-passcode-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If you get a prompt on your phone regarding the respective actions, agree to it and wait for a while as your phone would be restarted. Since this will erase all the existing data on your phone, you can later use a backup file to restore the lost content.
 
 ## Part 4: Does the tricking Siri method unlocks Apple iPhone 11?
@@ -404,6 +418,10 @@ In this way, if your device is stolen, you can track it immediately with the hel
 
 ![unlock iphone xs without passcode](https://images.wondershare.com/drfone/article/2018/unlock-iphone-x-without-passcode-6.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5.3 Enable two-factor authentication**
 
 Your iCloud account should be protected at any cost. By infiltrating your iCloud account, anyone can erase your phone remotely. It is recommended to enable the two-factor authentication on your account to strengthen its security. Go to your device’s Settings > Apple ID > Passcode & Security and enable the two-factor authentication feature.
@@ -419,8 +437,6 @@ Go to Settings > Face ID & Passcode and turn on the “Erase Data” option. Tho
 When you know how to unlock Apple iPhone 11 without the passcode, you can easily fulfill your requirements. Out of all the provided options, [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is recommended. This is because using the Dr.Fone toolkit is extremely easy. You won’t face any compatibility issues or need to have the technical experience to use this reliable tool. Try it for free and download it on your system to bypass a locked Apple iPhone 11 right away.
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
-
-
 
 ## Different Methods To Unlock Your Apple iPhone 11
 
@@ -466,9 +482,6 @@ In this method, you will be erasing the iPhone, meaning all your data on the App
 
 - **Step 2.** After signing in, click the "App Grid" icon on the top right corner and choose "Find My" from the options. On the Find iPhone page, you will see a list of devices associated with your iCloud account. Select your Apple iPhone 11 from the list.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![tap on the find my feature](https://images.wondershare.com/drfone/article/2023/06/unlock-iphone-14-4.jpg)
 
 - **Step 3.** Look for the "Erase iPhone" option from the Apple iPhone 11 device details and tap on it. This will start the erasure process on your Apple iPhone 11. Afterward, follow the on-screen instructions to erase your Apple iPhone 11. Once it is done, your device will be unlocked, and you will be able to set it up.
@@ -493,9 +506,6 @@ For it, ensure you have the latest version of iTunes installed on your computer.
 - **Step 1.** Launch iTunes on your computer and connect your Apple iPhone 11 to your computer using a USB cable. Now first press and release the "Volume Up" button. Then repeat the same process with the "Volume Down" button.
 - **Step 2.** Finally, press and hold the "Side" button until your Apple iPhone 11 transitions to Recovery Mode. Now iTunes will detect your Apple iPhone 11 in Recovery Mode. It will display a pop-up message asking whether you want to restore or update your device.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enable the recovery mode](https://images.wondershare.com/drfone/article/2023/06/unlock-iphone-14-6.jpg)
 
 - **Step 3.** Here, choose the "Restore" option. It will erase all data on your device and install the latest iOS version. Once it is complete, you will see the initial setup screen on your Apple iPhone 11.
@@ -514,8 +524,6 @@ For it, ensure you have the latest version of iTunes installed on your computer.
 ### Method 3: Using the Screen Unlock Feature of Wondershare Dr.Fone
 
 You will come across many methods when looking for how to unlock iPhone 14. However, no way is simpler or safer than using [Wondershare Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). It can remove all screen locks from iPhone, iPad, and iPad Touch. These types include 4-digit passcode, 6-digit passcode, Touch ID, and Face IDs.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -541,6 +549,10 @@ Launch Wondershare Dr.Fone on your computer and select "Screen Unlock" from the 
 ![unlock ios screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2. Enable Recovery Mode on Your Apple iPhone 11**
 
@@ -591,6 +603,10 @@ Following the instructions provided for each unlocking method is crucial to incr
 
 Avoid skipping or rushing through any steps, and carefully perform each action as instructed. Pay attention to details, such as button combinations, specific software settings, or prompts that may appear on your device or computer screen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Troubleshooting Common Issues
 
 Unlocking an iPhone may encounter certain obstacles or issues along the way. First, you need to ensure that your Apple iPhone 11 14 actually needs unlocking. For example, in the case of Face ID, you are required to enter the passcode after a particular time. In the case of a simple Face ID, you will need to enter a password every 48 hours if it hasn't been unlocked during this time.
@@ -603,11 +619,7 @@ To summarize, unlocking your Apple iPhone 11 can be daunting when you've forgott
 
 After careful evaluation, we recommend Wondershare Dr.Fone as the best choice to [unlock your Apple iPhone 11](https://drfone.wondershare.com/solutions/iphone-lock-screen-password-forgot.html). It provides comprehensive features to unlock your device efficiently. Moreover, it offers a local backup option, ensuring that your data is safeguarded.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -621,9 +633,23 @@ After careful evaluation, we recommend Wondershare Dr.Fone as the best choice to
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-pioneering-platform-potential-the-10-most-effective-igtv-strategies-for-brands/"><u>[New] 2024 Approved Pioneering Platform Potential The 10 Most Effective IGTV Strategies for Brands</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-dive-into-filmoras-certified-creative-program/"><u>[New] Dive Into Filmora’s Certified Creative Program</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-top-10-vr-apps-for-iphoneandroid/"><u>[Updated] Top 10 VR Apps for iPhone/Android</u></a></li>
+<li><a href="https://fox-access.techidaily.com/chromatic-excellence-program/"><u>Chromatic Excellence Program</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-iphone-12-pro-max-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve iPhone 12 Pro Max Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722967081513-get-the-latest-amd-vega-drivers-optimize-your-gameplay-with-simple-installation/"><u>Get the Latest AMD Vega Drivers - Optimize Your Gameplay with Simple Installation</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-your-apple-iphone-13-pro-max-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 13 Pro Max Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabled-apple-iphone-15-plus-how-to-unlock-a-disabled-apple-iphone-15-plus-drfone-by-drfone-ios/"><u>In 2024, Disabled Apple iPhone 15 Plus How to Unlock a Disabled Apple iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-iphone-11-pro-max-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix iPhone 11 Pro Max Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-8-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 8 Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-poco-m6-pro-4g-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos From Poco M6 Pro 4G to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-pro-max-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 15 Pro Max with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-use-phone-clone-to-migrate-your-vivo-g2-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Use Phone Clone to Migrate Your Vivo G2 Data? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-apple-iphone-14-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 14 With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/maximizing-gpt-freedom-for-pc-enthusiasts/"><u>Maximizing GPT Freedom for PC Enthusiasts</u></a></li>
+<li><a href="https://driver-download.techidaily.com/optimize-your-device-now-download-the-new-lenovo-t450-drivers-today/"><u>Optimize Your Device Now! Download the New Lenovo T450 Drivers Today</u></a></li>
+</ul></div>
 

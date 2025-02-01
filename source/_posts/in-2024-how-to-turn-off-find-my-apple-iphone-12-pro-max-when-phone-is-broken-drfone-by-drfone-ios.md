@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Turn Off Find My Apple iPhone 12 Pro Max when Phone is Broken? | Dr.fone
-date: 2024-12-23T01:56:22.147Z
-updated: 2024-12-27T02:05:45.541Z
+date: 2025-01-25T18:19:28.072Z
+updated: 2025-01-31T22:58:14.817Z
 tags: 
   - unlock
   - remove screen lock
@@ -55,6 +55,10 @@ Open Wondershare Dr.Fone and select “Screen Unlock” among the other options 
 
 ![select unlock apple id option](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Remove Active Lock**
 
 After choosing the “Unlock Apple ID” option, an interface will be displayed that will show another two options, out of which you have to select “Remove Active Lock” to proceed further.
@@ -62,7 +66,7 @@ After choosing the “Unlock Apple ID” option, an interface will be displayed 
 ![tap on remove activation lock](https://images.wondershare.com/drfone/drfone/remove-activation-lock-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4: Jailbreak your Apple iPhone 12 Pro Max**
@@ -77,6 +81,10 @@ A warning will be displayed on the screen asking for confirmation to remove the 
 
 ![confirm the agreement](https://images.wondershare.com/drfone/drfone/remove-activation-lock-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 6: Unlock your Apple iPhone 12 Pro Max**
 
 Click on “Start Unlock” to proceed. Once the process is started, you have to wait for a moment until the activation lock is successfully removed.
@@ -88,10 +96,6 @@ Click on “Start Unlock” to proceed. Once the process is started, you have to
 As your activation lock is removed, go to the settings and remove your Apple ID. Consequently, Find My iPhone will be disabled.
 
 ![activation lock removed](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: How to Turn Off Find My iPhone on Broken iPhone Using iCloud?
 
@@ -112,7 +116,7 @@ Here we have explained to you step by step how to turn off Find My iPhone on bro
 ![select your device](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 4:** Once your device is removed from the account, a window will pop up asking you to delete the option of that device from your iCloud account. Now you may log in Find My iPhone with your iCloud account on another device.
@@ -145,6 +149,10 @@ Once your Apple iPhone 12 Pro Max shows the Apple logo, it means the Recovery Mo
 
 Now we’re done as we’ve provided you the best possible solutions to turn off Find My iPhone when your Apple iPhone 12 Pro Max is broken. It is obvious that it is a quite complicated process, but you have to be patient and follow the steps correctly to disable Find My Apple iPhone 12 Pro Max to avoid any inconvenience in the future. We hope this article answers all your queries regarding it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Fix Apple iPhone 12 Pro Max Passcode not Working?
 
 Apple has always been one of the top successful companies. The reason for its success can be clearly seen through its efforts in pioneering top-notch products. It not only puts its efforts into ensuring the perfect working of the Apple iPhone 12 Pro Max device but also provides the user with essential security measures to protect the data of the Apple iPhone 12 Pro Max device from unauthorized access.
@@ -152,6 +160,10 @@ Apple has always been one of the top successful companies. The reason for its su
 This is the sole reason why Apple focuses so much on privacy through passcodes. But sometimes, these passcodes can be a hurdle in the working of the iPhone.
 
 If you're facing this issue, then you've come to the right place. This article shall cover your queries regarding fixing the Apple iPhone 12 Pro Max passcode that is not working and providing full-depth details for your ease.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Why iPhone is Saying Passcode is Wrong?
 
@@ -198,10 +210,6 @@ Before directly unlocking the Apple iPhone 12 Pro Max lock screen, you've to set
 
 ![set your iphone in dfu mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4: Download Firmware**
 
 Once your Apple iPhone 12 Pro Max is in DFU mode, another window will be displayed on the screen, asking for confirmation regarding the Apple iPhone 12 Pro Max device Model and System Version. Now click on the "Download" button placed at the bottom.
@@ -238,10 +246,6 @@ Once your device is synced with iTunes, a "Set Up" window will pop up on the scr
 
 ![restore iphone with itunes](https://images.wondershare.com/drfone/article/2021/06/iphone-passcode-not-working-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 5: Reset Passcode**
 
 Select your device and the appropriate backup for your device in iTunes. Once the process is completed, you can reset the passcode of your Apple iPhone 12 Pro Max in the settings.
@@ -271,7 +275,7 @@ Now click on the option of “Erase iPhone” to erase all your data and even yo
 ![erase iphone from icloud](https://images.wondershare.com/drfone/article/2021/06/iphone-passcode-not-working-4.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3.3 Using iPhone Recovery Mode
@@ -338,7 +342,7 @@ The first step you need to connect your Apple iPhone 12 Pro Max  to your compute
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 After that, select the option of "Unlock iOS Screen" to unlock your Apple iPhone 12 Pro Max within seconds.
@@ -368,7 +372,7 @@ When the firmware is downloaded successfully, all you have to do is click on the
 ![ios unlock 4](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part 2: Remove Passcode by Restoring Apple iPhone 12 Pro Max/Apple iPhone 12 Pro Max Plus**
@@ -383,7 +387,7 @@ Here are the steps to recover Apple iPhone 12 Pro Max  via iTunes backup.
     ![feasible ways to unlock Apple iPhone 12 Pro Max 1](https://images.wondershare.com/drfone/article/2021/04/feasible-ways-to-unlock-iphone-7-and-7-plus-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. From there, look for the “Restore Backup” option and click on it. A confirmation window will pop up. Confirm your action.
@@ -411,10 +415,6 @@ If you wish to change the passcode on Apple iPhone 12 Pro Max , simply follow th
 4. Here, click on the option "Change Passcode."
 
     ![feasible ways to unlock Apple iPhone 12 Pro Max 5](https://images.wondershare.com/drfone/article/2021/04/feasible-ways-to-unlock-iphone-7-and-7-plus-5.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Once again, enter your current password.
 6. Now, type in your new password. You can change the type of passcode by clicking on the "Passcode Options." The new passcode type can be a numeric code, alphanumeric code, a 4-digit, or a 6-digit code.
@@ -445,22 +445,19 @@ Now you know what to do the next time you forget your passcode. Using the simple
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-expertly-selected-8-filters-for-virtual-showcases/"><u>[New] In 2024, Expertly Selected 8 Filters for Virtual Showcases</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-in-2024-pinnacle-montage-apps-androidiphones-creative-powerhouses/"><u>[New] In 2024, Pinnacle Montage Apps Android/iPhone's Creative Powerhouses</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-take-it-upward-expert-techniques-for-phones/"><u>[New] Take It Upward Expert Techniques for Phones</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/4-ways-to-unlock-apple-iphone-15-pro-max-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>4 Ways to Unlock Apple iPhone 15 Pro Max to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-14-drfone-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 14 | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/apple-id-locked-for-security-reasons-from-apple-iphone-14-plus-find-the-best-solution-here-by-drfone-ios/"><u>Apple ID Locked for Security Reasons From Apple iPhone 14 Plus? Find the Best Solution Here</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/apple-iphone-13-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>Apple iPhone 13 Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-change-country-on-app-store-for-iphone-13-pro-max-with-7-methods-drfone-by-drfone-ios/"><u>How To Change Country on App Store for iPhone 13 Pro Max With 7 Methods | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-upgrade-iphone-12-pro-max-without-data-loss-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade iPhone 12 Pro Max without Data Loss? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-6s-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 6s Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-plus-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Plus without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2022-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE (2022) Passcode Screen? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-se-2022-i-do-get-answers-here-drfone-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone SE (2022) i Do? Get Answers here | Dr.fone</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/iphone-data-recovery-software-for-mac-recover-deleted-photos-videos-and-contacts/"><u>IPhone Data Recovery Software for Mac. Recover Deleted Photos, Videos, & Contacts</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/navigating-new-horizons-apples-conditional-green-light-for-app-sideloading-across-europe-explained/"><u>Navigating New Horizons: Apple's Conditional Green Light for App Sideloading Across Europe Explained</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/say-goodbye-to-stumbles-in-your-instagram-stream-for-2024/"><u>Say Goodbye to Stumbles in Your Instagram Stream for 2024</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/toms-tech-hub-the-ultimate-guide-to-computer-components/"><u>Tom's Tech Hub: The Ultimate Guide to Computer Components</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-captivating-content-the-basics-of-removing-background-from-videos/"><u>[Updated] 2024 Approved Captivating Content The Basics of Removing Background From Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-accelerate-your-file-changing-game-srt-to-txt-in-a-flash/"><u>2024 Approved Accelerate Your File Changing Game SRT to TXT in a Flash</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-the-power-of-artifice-intelligence-surpass-magazine-horoscopes-with-chatgpts-insights/"><u>Can the Power of Artifice Intelligence Surpass Magazine Horoscopes with ChatGPT's Insights?</u></a></li>
+<li><a href="https://common-error.techidaily.com/diy-solution-correcting-the-monitor-not-receiving-signal-problem-a-step-by-step-tutorial/"><u>DIY Solution: Correcting the 'Monitor Not Receiving Signal' Problem - A Step by Step Tutorial</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-14-pro-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/implementing-precise-timing-features-for-engaged-youtube-audiences-for-2024/"><u>Implementing Precise Timing Features for Engaged YouTube Audiences for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-15-pro-max-drfone-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-15-plus-drfone-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-trouble-with-apple-iphone-12-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>In 2024, Trouble with Apple iPhone 12 Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-iphone-11-pro-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>In 2024, Unlocking iPhone 11 Pro Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-connection-win-code-to-microsoft-accounts/"><u>Mastering the Connection: WIN CODE to MICROSOFT ACCOUNTS</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ltimate-blueprint-for-your-mobile-youtube-businesspersonal-platform/"><u>The Ultimate Blueprint for Your Mobile YouTube Business/Personal Platform</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1727786833038-top-rated-mac-maintenance-tools-of-2022-expert-picks-from-zdnet/"><u>Top-Rated Mac Maintenance Tools of 2022: Expert Picks From ZDNet</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1725286315158-2024/"><u>해상도를 향상시키는 방법: 2024년에서 딛아라!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on iPhone 11 | Dr.fone
-date: 2024-07-15T06:03:52.945Z
-updated: 2024-07-16T06:03:52.945Z
+date: 2025-01-26T04:21:41.855Z
+updated: 2025-02-01T02:10:27.871Z
 tags: 
   - unlock
   - remove screen lock
@@ -20,10 +20,11 @@ Auto-lock on iOS devices serves multiple purposes - it conserves battery life, s
 
 Read on if you've encountered a similar problem on your iOS device. In this guide, we'll explore the possible reasons and offer steps to fix **Auto-Lock greyed out on iPhone** and iPad devices. If force restarts or settings resets haven't worked for you, we've got alternative solutions. Let's get started.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![auto lock greyed out on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Why Is Auto-Lock Greyed Out on iOS Device?
 
@@ -57,10 +58,11 @@ Your **iPhone Auto-Lock greyed out** because Low Power Mode limits background ac
 - **Step 2:** Scroll down and tap **Battery**. It will show you your device's battery usage and available settings.
 - **Step 3:** Turn off the **Low Power Mode**. Now, the greyed-out Auto-Lock option in Settings should be available again.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone turn off low power mode](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-05.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Low Battery Mode can stretch your battery life further. But if you need your screen to stay on longer, like while reading an article or watching a video, you can turn it off. It lets you adjust the screen timeout in ****Settings**** so it stays awake for as long as you like.
 
@@ -102,9 +104,6 @@ If your IT team gives the green light, you might also be able to remove the netw
 - **Step 2:** Navigate to **General** > **Profile** or **VPN & Device Management** (or a similar section).
 - **Step 3:** Select the management and tap **Remove Management**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remove mdm profile on ipad](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-08.jpg)
 
 If the option is unavailable, only the person who used Apple Configurator 2 or handles your company's mobile device management platform can remove it.
@@ -125,6 +124,10 @@ Have you ever bought a used iPad or Apple iPhone 11 to find the Auto-Lock option
 - **Step 1:** Download and open Dr.Fone on your computer. Next, connect your Apple iPhone 11 or iPad to the computer using a USB cable and navigate to **Toolbox** > **Screen Unlock** > **iOS**.
 
 ![dr.fone toolbox home interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
@@ -151,6 +154,10 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 - **Step 7:** You'll see a confirmation message once the bypass is successful. Click **Done** to exit. Your device should now be free from MDM restrictions.
 
 ![successfully bypassed mdm on ios](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Fix No.6: Check and Adjust Auto-Lock Settings
 
@@ -195,9 +202,6 @@ Are you aware of the common mistakes people make when creating their Apple ID pa
 
 ![change apple id password on web](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-password-01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Is Your Apple ID Safe? Watch Out for These Signs
 
 Despite your best efforts, there's always a risk of password compromise. If this happens, a hacker could access all your personal information. They could steal your photos, videos, contacts, and financial data.
@@ -209,6 +213,10 @@ They could also use your account to make unauthorized purchases or spread malwar
 If you notice unusual login attempts or receive notifications from Apple about new sign-ins from unknown devices or locations, it's a red flag. Someone may be trying to open your Apple account.
 
 ![apple id sign in request](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-password-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Unexpected Purchases**
 
@@ -374,7 +382,6 @@ Dr.Fone is easy to use and intuitive, even for users with no technical experienc
 
 - **Step 1:** Download [<u>Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) from their official website and install it on your computer.
 
-
 - **Step 2:** From the **Toolbox** homepage, select **Screen Unlock** > **iOS**.
 
 ![dr.fone select screen unlock from toolbox](https://images.wondershare.com/drfone/guide/drfone-home.png)
@@ -382,6 +389,10 @@ Dr.Fone is easy to use and intuitive, even for users with no technical experienc
 - **Step 3:** Select **Remove AppleID** and click **Unlock Now** on the next screen.
 
 ![dr.fone select remove apple id](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4:** For the question, "**Have you set up a screen lock on your Phone**?" click **Yes**. Then, on the next screen, click **Yes** again to verify you enabled the two-factor authentication.
 
@@ -399,6 +410,10 @@ Dr.Fone is easy to use and intuitive, even for users with no technical experienc
 
 ![dr.fone firmware download complete](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 8:** Enter the code given in the **Warning** dialogue box and click **Unlock** to continue.
 
 ![dr.fone enter code confirmation](https://images.wondershare.com/drfone/guide/remove-apple-id-6.png)
@@ -409,12 +424,9 @@ Dr.Fone is easy to use and intuitive, even for users with no technical experienc
 
 - **Step 10:** Click **Done** once the process is successful or click **Try again** to repeat.
 
-
 ## Conclusion
 
 Creating a strong Apple ID password is simple: mix letters and numbers, make it lengthy, and keep it unique. Regularly **changing your Apple ID password** using the steps above is key to protecting your digital data. And if you ever find yourself locked out, consider the Dr.Fone Unlock Tool, a reliable mobile solution. Stay private and secure to enjoy your Apple experience with peace of mind.
-
-
 
 ## Is Your Apple iPhone 11 in Security Lockout? Proper Ways To Unlock
 
@@ -422,10 +434,11 @@ Apple has strict mechanisms to prevent unauthorized access and safeguard valid u
 
 To bring back your Apple iPhone 11 in a working state, this guide provides some authentic methods to fix **security lockout iPhone** errors. Moreover, you will also find an advanced tool here that helps to resolve the security lockout at a high success rate.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![unlock iphone in security lockout solutions](https://images.wondershare.com/drfone/article/2024/02/unlock-iphone-in-security-lockout-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. Understanding Security Lockout in iPhone: What It Is?
 
@@ -450,6 +463,10 @@ As you've gone through the entire issue of Security Lockout in iOS devices, you 
 
 You can find the latest support of iDevice and iOS versions across the tool, which makes it a versatile option. Consequently, you can bypass all types of screen locks from your Apple iPhone 11 or iPad without any inconvenience. This includes support in removing the carrier and iCloud activation locks.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Highlights of Dr.Fone
 
 1. You can remove Touch ID, Face ID, alphanumeric passcode, and Screen Time passcode at a high success rate within a few minutes.
@@ -465,7 +482,6 @@ Do you have a query about **how to get out of security lockout on your Apple iPh
 First, run Wondershare Dr.Fone on your computer and connect to your Apple iPhone 11 via cable. Open the "Toolbox" and select the “Screen Unlock” option.
 
 ![start screen unlock dr fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
 
 - **Step 2. Advance to Unlocking iOS Screen**
 
@@ -493,6 +509,10 @@ Getting your Apple iPhone 11 out of Security Lockout from the Apple iPhone 11 di
 - **Step 2.** On the next screen, enter your Apple ID password in the box to sign out your Apple ID from your Apple iPhone 11. This will automatically start processing iDevice reset, removing all contents and passcodes in the Apple iPhone 11 device.
 
 ![perform direct unlock security lockout](https://images.wondershare.com/drfone/article/2024/02/unlock-iphone-in-security-lockout-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What if I Have Recently Changed My iPhone's Passcode?
 
@@ -532,7 +552,6 @@ Security Lockout or “iPhone Unavailable” is a common issue that appears when
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -545,9 +564,26 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-the-art-of-crafting-superior-srt-documents/"><u>[New] The Art of Crafting Superior SRT Documents</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-understanding-the-difference-in-30-and-60-fps-videography/"><u>[Updated] 2024 Approved Understanding the Difference in 30 and 60 FPS Videography</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-3-strategies-for-tiktok-livestreaming-from-desktop-for-2024/"><u>[Updated] 3 Strategies for TikTok Livestreaming From Desktop for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-how-to-delete-youtube-comments-effortlessly/"><u>[Updated] In 2024, How to Delete YouTube Comments Effortlessly?</u></a></li>
+<li><a href="https://facebook.techidaily.com/a-comprerancial-approach-for-negating-distracting-fb-advertisements/"><u>A Comprerancial Approach for Negating Distracting FB Advertisements</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-apple-iphone-13-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabled-iphone-14-pro-how-to-unlock-a-disabled-iphone-14-pro-drfone-by-drfone-ios/"><u>Disabled iPhone 14 Pro How to Unlock a Disabled iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabling-iphone-7-plus-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>Disabling iPhone 7 Plus Parental Restrictions With/Without Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-15-pro-max-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone 15 Pro Max After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-samsung-galaxy-m14-4gmirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Samsung Galaxy M14 4GMirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-15-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-13-pro-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 13 Pro Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-apple-iphone-7-plus-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking Apple iPhone 7 Plus with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-creating-dynamic-photo-effects-in-illustrator/"><u>In 2024, Creating Dynamic Photo Effects in Illustrator</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-pro-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-courtesy-towards-voice-assistants-such-as-chatgpt-amazons-alexa-and-apples-siri-necessary/"><u>Is Courtesy Towards Voice Assistants Such as ChatGPT, Amazon's Alexa, and Apple's Siri Necessary?</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/passionate-whispers-savoring-italian-pick-up-lines/"><u>Passionate Whispers: Savoring Italian Pick-Up Lines</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ultimate-guide-to-corsair-mouse-setup-and-download-essentials/"><u>Ultimate Guide to Corsair Mouse Setup and Download Essentials</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-apple-iphone-7-plus-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock Apple iPhone 7 Plus Without Passcode Easily | Dr.fone</u></a></li>
+</ul></div>
 

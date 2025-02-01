@@ -1,7 +1,7 @@
 ---
 title: In 2024, Locked Out of Apple iPhone XS? 5 Ways to get into a Locked Apple iPhone XS | Dr.fone
-date: 2025-01-23T18:38:53.215Z
-updated: 2025-01-24T16:40:00.197Z
+date: 2025-01-30T04:09:00.303Z
+updated: 2025-01-31T16:28:30.759Z
 tags: 
   - unlock
   - remove screen lock
@@ -63,6 +63,10 @@ You can watch the video below about how to unlock your Apple iPhone XS without P
 
 ![confirmation code to get into locked Apple iPhone XS](https://images.wondershare.com/drfone/drfone/ios-unlock-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 7.** Let the application resolve the issue on your phone. Once it is done, you will be notified that your lock screen is removed.
 
 ![got into locked Apple iPhone XS successfully](https://images.wondershare.com/drfone/drfone/ios-unlock-7.jpg)
@@ -84,14 +88,6 @@ This is another popular way to resolve the locked out of the Apple iPhone XS pro
 **Step 3.** Click on the “Restore” button. This would reset your device.
 
 ![restore Apple iPhone XS](https://images.wondershare.com/drfone/article/2017/07/14994495527134.jpg "restore Apple iPhone XS")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: How to get into a locked Apple iPhone XS via Find My Apple iPhone XS?
 
@@ -133,13 +129,13 @@ If you don’t want to erase your device’s data while resolving this issue, yo
 
 ![send to](https://images.wondershare.com/drfone/article/2017/07/14994492327446.jpg "send to")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 7.** Then the text will be highlighted. Tap on the add icon.
 
 ![add contact](https://images.wondershare.com/drfone/article/2017/07/14994492469564.jpg "add contact")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 8.** This will open another interface to add a new contact. From here, tap on the “Create new contact” option.
 
@@ -180,6 +176,10 @@ There are several reasons why your Apple iPhone XS may become disabled, includin
 
 ![unlock disabled iphone without itunes](https://images.wondershare.com/drfone/article/2023/11/how-to-unlock-disabled-iphone-without-itunes.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 iTunes has lost popularity due to its heavy and confusing features, along with frequent crashes. You may be seeking alternatives to unlock disabled iPhones opt for more straightforward methods that don't involve iTunes.
 
 Here are 5 alternative ways that will guide **how to unlock disabled iPhone without iTunes**.
@@ -189,10 +189,6 @@ Here are 5 alternative ways that will guide **how to unlock disabled iPhone with
 If you don’t want to cause any damage to your iOS firmware while resolving the Apple iPhone XS disabling issue, the tool [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is what you need. It is a part of the Dr.Fone toolkit and provides an extremely secure and fast solution to unlock a disabled iPhone. Among the industry, it is always the first to support the latest iOS versions.
 
 Not just to get the Apple iPhone XS disabled unlock without iTunes, it can also be used to resolve plenty of other issues like malware attacks, [iPhone stuck in the recovery loop](https://drfone.wondershare.com/recovery-mode/exit-iphone-recovery-mode-loop.html), the [blue screen of death](https://drfone.wondershare.com/iphone-problems/ways-to-fix-iphone-blue-screen-of-death.html), and more. Furthermore, it has an easy-to-use interface and yields reliable results, making it an essential iOS tool.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -218,10 +214,6 @@ To unlock your Disabled Apple iPhone XS or iPad without iTunes or iCloud, launch
 Before bypassing the Apple iPhone XS lock screen, you need to boot it into Recovery or DFU mode by following the on-screen instructions. The recommended mode is Recovery mode, but if you cannot activate this mode, you can follow the link to learn how to activate DFU mode.
 
 ![boot into dfu mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3: Confirm Your iOS Device Information**
 
@@ -252,10 +244,6 @@ Once the firmware has been downloaded successfully, click "Unlock Now" to start 
 
 - The program needs a subscription to unlock full functions.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4: How to Unlock the Disabled iPhone Via Find My iCloud?
 
 Most people believe that they can resolve the Apple iPhone XS disabled issue only by taking the assistance of iTunes. While you can always [restore your Apple iPhone XS with iTunes](https://drfone.wondershare.com/restore-iphone/solutions-to-iphone-wont-restore.html), it is not the only available solution.
@@ -267,6 +255,10 @@ You can learn **how to unlock a disabled iPhone without iTunes** by implementing
 - **Step 1.** Firstly, visit ["**Find My iPhone**"](https://www.icloud.com/find) from a web browser and log in to your iCloud account by providing your Apple ID and password. Tap on the “Devices” option. It will display a list of all the Apple iPhone XS devices that are linked to your Apple ID. Select the iOS device that has been disabled.
 
 ![iphone disabled fix without itunes](https://images.wondershare.com/drfone/article/2023/02/unlock-disabled-iphone-without-itunes-2.jpg "all devices")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2.** From here, you can locate the Apple iPhone XS device, play a sound on it, lock it, or erase it. To fix a disabled iPhone or iPad without iTunes, you have to erase your device. Click on the "Erase iPhone" option and confirm your selection.
 
@@ -291,6 +283,10 @@ Here's how to unlock your Apple iPhone XS using Find My App:
 
 ![find my app](https://images.wondershare.com/drfone/article/2023/02/unlock-disabled-iphone-without-itunes-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 1.** Open the Find My App on your Apple iPhone XS.
 - **Step 2.** Tap "Devices" from the bottom menu.
 - **Step 3.** Tap your Apple iPhone XS from the list of devices.
@@ -308,10 +304,6 @@ Here's how to unlock your Apple iPhone XS using Find My App:
 - Requires an active internet connection and access to another Apple device.
 - All data is lost.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 6: How to Try Finder to Unlock a Disabled iPhone on Mac?
 
 If you have a Mac computer, you can use Finder to unlock your Disabled Apple iPhone XS. Finder is the default file manager for Mac OS X.
@@ -319,6 +311,10 @@ If you have a Mac computer, you can use Finder to unlock your Disabled Apple iPh
 Here's how to unlock your Apple iPhone XS via Finder:
 
 ![finder](https://images.wondershare.com/drfone/article/2023/02/unlock-disabled-iphone-without-itunes-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 1.** Connect your Apple iPhone XS to your Mac using a cable.
 - **Step 2.** Open the Finder app.
@@ -356,10 +352,6 @@ Additionally, it was originally speculated as a loophole in iOS. Therefore, you 
 
 ![choose a city](https://images.wondershare.com/drfone/article/2017/07/14993657214728.jpg "choose a city")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4**. Afterward, you can find there various options like cut, copy, define, etc. Tap on the “**Share**” option.
 
 ![share content](https://images.wondershare.com/drfone/article/2017/07/14993657343482.jpg "share content")
@@ -376,6 +368,10 @@ Additionally, it was originally speculated as a loophole in iOS. Therefore, you 
 
 ![highlight text](https://images.wondershare.com/drfone/article/2017/07/14993657891892.jpg "highlight text")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 8**. It will open a new window. From here, tap on the “**Create New Contact**” button.
 
 ![create new contact](https://images.wondershare.com/drfone/article/2017/07/14993658058445.jpg "create new contact")
@@ -387,6 +383,10 @@ Additionally, it was originally speculated as a loophole in iOS. Therefore, you 
 **Step 10**. This will open the Photo Library. From here, you can visit any album.
 
 ![iphone photo library](https://images.wondershare.com/drfone/article/2017/07/14993658527934.jpg "iphone photo library")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 11**. Instead of selecting a picture, just exit the interface by pressing the Home button. This will open the iPhone’s home screen.
 
@@ -408,6 +408,10 @@ _**Tips:** Since it is considered a loophole in iOS, it is not an efficient way 
 ### 1\. How to Avoid a Disabled iPhone?
 
 To avoid having your Apple iPhone XS disabled, it is recommended to turn off your passcode, use Touch ID or Face ID, or make sure to remember your passcode. If you enter the wrong passcode repeatedly, your device will become disabled.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. How to Unlock a Disabled iPhone without Data Loss?
 
@@ -447,6 +451,10 @@ Apple’s activation server saves your Apple ID, and in case the phone is turned
 
 For this, if the Apple iPhone XS device is asking for an activation lock, the user cannot bypass the Apple iPhone XS  activation lock. The only way to get rid of that is to break the link between the Apple device and the prior owner, but that requires Apple ID.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Part 2. Bypass iPhone Lock Screen Apple iPhone XS  without Passcode \[No iTunes\]**
 
 The major difference between the lock screen and activation lock is that the lock screen can be bypassed without the password but, the user can never bypass the activation lock as it marks the security boundary of Apple.
@@ -481,10 +489,6 @@ The user is now supposed to make the connection between iPhone and the system an
 Once the system has detected the phone, the user is advised to activate the DFU mode by turning off the phone and connecting it to the computer.
 
 ![ios unlock 2 2](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 4: Information for Confirmation**
 
@@ -552,10 +556,6 @@ iPhone users can even restore their phones to factory settings without losing an
 
 Users can now retrieve all the data that has been backed up on iTunes.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Conclusion
 
 The article has covered a sufficient portion of knowledge for the user regarding how they can bypass iPhone lock screen Apple iPhone XS . The difference between the common confusion of lock screen and activation screen and also a few tips and tricks have been discussed.
@@ -574,16 +574,15 @@ The article has covered a sufficient portion of knowledge for the user regarding
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-helps.techidaily.com/new-high-definition-flight-testing-xiaomi-mi-drone-probe-for-2024/"><u>[New] High-Definition Flight Testing - Xiaomi Mi Drone Probe for 2024</u></a></li>
-<li><a href="https://youtube-data.techidaily.com/he-ultimate-guide-to-converting-youtube-to-avi-videos-for-2024/"><u>[New] The Ultimate Guide to Converting YouTube to AVI Videos for 2024</u></a></li>
-<li><a href="https://extra-information.techidaily.com/updated-captivating-your-audience-writing-podcast-intros/"><u>[Updated] Captivating Your Audience Writing Podcast Intros</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-most-popular-oculus-rift-experiences-for-gamers/"><u>2024 Approved Most Popular Oculus Rift Experiences for Gamers</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/greatest-childrens-movies-available-on-netflix-right-now/"><u>Greatest Children’s Movies Available on Netflix Right Now</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone 6s Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-iphone-12-pro-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>In 2024, How to Bypass iPhone 12 Pro Passcode Easily Video Inside | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-mini-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 12 mini Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-12-pro-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-premium.techidaily.com/is-your-mobile-device-infected-with-malware-discover-how-malwarefox-can-help/"><u>Is Your Mobile Device Infected with Malware? Discover How MalwareFox Can Help!</u></a></li>
-<li><a href="https://games-able.techidaily.com/unwanted-wattage-excessive-gpu-power/"><u>Unwanted Wattage: Excessive GPU Power</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-exclusive-auditory-selections-for-filmmaking/"><u>[New] Exclusive Auditory Selections for Filmmaking</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-11-innovative-steps-toward-perfect-post-production-colorwork/"><u>[Updated] In 2024, 11 Innovative Steps Toward Perfect Post-Production Colorwork</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-mirror-movies-a-guide-to-flipping-your-youtube-video-upside-down/"><u>2024 Approved Mirror Movies A Guide to Flipping Your YouTube Video Upside Down</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-se-and-ipad-securely-drfone-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone SE and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/complete-teardown-application-recovery-tutorial-no-more-crashes/"><u>Complete Teardown Application Recovery Tutorial – No More Crashes!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-8-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 8 Without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-best-10-tools-for-stunning-insta-grid-designs/"><u>In 2024, Best 10 Tools for Stunning Insta Grid Designs</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-for-iphone-15-pro-max-lock-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 15 Pro Max Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-12-pro-drfone-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xr-apples-new-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XR, Apples New iPhone | Dr.fone</u></a></li>
 </ul></div>
 

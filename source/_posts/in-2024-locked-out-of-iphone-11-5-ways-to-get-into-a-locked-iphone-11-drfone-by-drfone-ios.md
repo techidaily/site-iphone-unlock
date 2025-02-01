@@ -1,7 +1,7 @@
 ---
 title: In 2024, Locked Out of iPhone 11? 5 Ways to get into a Locked iPhone 11 | Dr.fone
-date: 2024-07-15T06:03:30.129Z
-updated: 2024-07-16T06:03:30.129Z
+date: 2025-01-25T18:33:47.518Z
+updated: 2025-01-31T22:56:23.620Z
 tags: 
   - unlock
   - remove screen lock
@@ -24,8 +24,6 @@ If you are locked out of Apple iPhone 11, you should only use a reliable and sec
 
 Attention: All your data all be erased after you get into your locked Apple iPhone 11.Please make sure if you have backed up all your data.
 
-
-
 ### Dr.Fone - Screen Unlock
 
 Get Into Locked Apple iPhone 11 In 5 Minutes!
@@ -34,6 +32,10 @@ Get Into Locked Apple iPhone 11 In 5 Minutes!
 - Unlock the iDevice effectively whether it is disabled or nobody knows its passcode.
 - Works properly whether if you're using Apple iPhone 11, iPad, and iPod touch.
 - Fully compatible with the latest iOS.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4,395,216** people have downloaded it
 
@@ -81,17 +83,15 @@ This is another popular way to resolve the locked out of the Apple iPhone 11 pro
 - For Apple iPhone 11 7 and 7 Plus, iPod Touch (7th generation): Press and hold the 'Top' ('Side') and 'Volume Down' buttons simultaneously. Keep holding until it enters the Recovery mode.
 - For iPad with Hom buttons and Apple iPhone 11 6s and former Apple iPhone 11: Press and hold the 'Home' and 'Side' ('Top') buttons at the same time. Keep holding both buttons until the iTunes symbol would appear on the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![boot in recovery mode](https://images.wondershare.com/drfone/article/2017/07/14994495356542.jpg "boot in recovery mode")
 
 **Step 3.** Click on the “Restore” button. This would reset your device.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![restore Apple iPhone 11](https://images.wondershare.com/drfone/article/2017/07/14994495527134.jpg "restore Apple iPhone 11")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to get into a locked Apple iPhone 11 via Find My Apple iPhone 11?
 
@@ -131,16 +131,10 @@ If you don’t want to erase your device’s data while resolving this issue, yo
 
 **Step 6.** A new interface will be opened from where you can draft a new message. Type anything in the “To” field and tap "return" from a keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![send to](https://images.wondershare.com/drfone/article/2017/07/14994492327446.jpg "send to")
 
 **Step 7.** Then the text will be highlighted. Tap on the add icon.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add contact](https://images.wondershare.com/drfone/article/2017/07/14994492469564.jpg "add contact")
 
 **Step 8.** This will open another interface to add a new contact. From here, tap on the “Create new contact” option.
@@ -163,8 +157,6 @@ If you don’t want to erase your device’s data while resolving this issue, yo
 
 We hope that after learning how to get in a locked Apple iPhone 11 in different ways, you would be able to resolve the issue on your iOS device. Choose the way you prefer and fix the locked out of the Apple iPhone 11 problem. We recommend using Dr.Fone - Screen Unlock to get an easy fix to your issue without much trouble.
 
-
-
 ## What Does Jailbreaking Apple iPhone 11 i Do? Get Answers here
 
 Jailbreaking grants you root access to your smartphone, opening a range of features and functionalities. But **what does jailbreaking an iPhone do**? Jailbreaking your Apple iPhone 11 removes the restrictions imposed by Apple on its operating system, iOS. It offers more customization options and access to extra apps.
@@ -174,6 +166,10 @@ However, is jailbreaking an iPhone safe and legal? It's a complex answer and not
 To learn more, read on and explore the capabilities of a jailbroken iPhone in the following sections. This article will also touch on its impact on [<u>iCloud Activation Lock</u>](https://drfone.wondershare.com/icloud/bypass-iphone-11-12-icloud-activation-lock.html). Let's start with the benefits and risks of jailbreaking your Apple iPhone 11.
 
 ![iphone devices back view](https://images.wondershare.com/drfone/article/2024/01/what-does-jailbreaking-an-iphone-do-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What Does Jailbreaking an iPhone Do?
 
@@ -265,7 +261,6 @@ Dr.Fone uses the responsible path of jailbreaking your iOS device, giving you ba
 
 - **Step 1:** Download Dr.Fone and set up the software on your computer.
 
-
 - **Step 2:** Open the program and select **Screen Unlock** from the available options on the **Toolbox** page.
 
 ![dr.fone toolbox homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
@@ -295,6 +290,10 @@ Dr.Fone uses the responsible path of jailbreaking your iOS device, giving you ba
 - **Step 8:** Allow the software to complete the bypass process. Once done, your Apple iPhone 11 will be successfully unlocked from the iCloud Activation Lock without a password.
 
 ![dr.fone bypass icloud activation lock](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Other Way To Remove iCloud Activation Lock Without Jailbreak
 
@@ -375,6 +374,10 @@ If you are worried about losing data such as purchases and contacts, don't worry
 
 ![enter a new apple id interface](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-on-ipad-05.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** Select **Change Apple ID** to proceed.
 - **Step 5:** Check your email to get a verification code sent by Apple to ensure that only you can change it to a third-party email address. Enter the code to complete the update.
 
@@ -432,10 +435,13 @@ Dr.Fone can bypass the Find My/Find My iPhone feature to remove your Apple ID fr
 
 - **Step 1:** Get [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) from their website and install it on your computer.
 
-
 - **Step 2:** From the app's **Toolbox** homepage, click **Screen Unlock**, and select **iOS**.
 
 ![dr.fone toolbox homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Select **Remove AppleID** from the available **Screen Unlock** tools.
 
@@ -444,6 +450,10 @@ Dr.Fone can bypass the Find My/Find My iPhone feature to remove your Apple ID fr
 - **Step 4:** Connect your iPad or other iOS device to your computer, then click **Unlock Now** to continue.
 
 ![dr.fone unlocks connected device](https://images.wondershare.com/drfone/guide/remove-apple-id-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 5:** Click **Yes** to confirm your device has a screen lock. Otherwise, it won't work.
 
@@ -457,6 +467,10 @@ Dr.Fone can bypass the Find My/Find My iPhone feature to remove your Apple ID fr
 
 ![put device in recovery mode](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 8:** The next screen will demonstrate the **Device Model** information. Select an option from the **System Version** dropdown list and click **Start**.
 
 ![select the system version required](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
@@ -469,16 +483,21 @@ Dr.Fone can bypass the Find My/Find My iPhone feature to remove your Apple ID fr
 
 ![dr.fone firmware downloaded](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 11:** From the **Warning** dialogue box, enter the code shown in the text field, then click **Unlock**.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone warning dialogue box](https://images.wondershare.com/drfone/guide/remove-apple-id-6.png)
 
 - **Step 12:** Wait and refrain from using your device while it's connected to avoid a [<u>bricked device</u>](https://drfone.wondershare.com/iphone-problems/how-to-fix-bricked-iphone.html).
 
 ![unlocking apple id in progress](https://images.wondershare.com/drfone/guide/remove-apple-id-7.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 13:** Once finished, click **Done**, then check your iPad. If your Apple ID is not unlocked, you may need to click **Try again** to restart.
 
@@ -512,7 +531,6 @@ If not already enabled, turn on 2FA for an extra layer of security. It's simple 
 
 And if you need to remove your Apple ID without a password, Dr.Fone is a good option. Dr.Fone is a powerful iOS toolkit that can help you with various phone solutions. It's easy to use and can help you solve mobile problems in just a few minutes.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -525,9 +543,16 @@ And if you need to remove your Apple ID without a password, Dr.Fone is a good op
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-the-essential-handbook-for-instagram-reels/"><u>[New] The Essential Handbook for Instagram Reels</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-twitch-time-rewind-hacks-unveiled/"><u>[New] Twitch Time Rewind Hacks Unveiled</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210768056-9781646998708-curso-de-cartomancia-como-leer-las-cartas-para-predecir-el-futuro/"><u>Curso de Cartomancia - Cómo leer las cartas para predecir el futuro | Free Book</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719580797196-europes-vibrant-verbal-tapestry-celebrate-it-today/"><u>Europe's Vibrant Verbal Tapestry – Celebrate It Today!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-apple-iphone-15-pro-max-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on Apple iPhone 15 Pro Max With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-6-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 6 With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-se-2022-without-passcode-now-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone SE (2022) Without Passcode Now | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-amd-radeon-rx-6800-experience-on-windows-fresh-drivers-for-win11-10-8-and-7/"><u>Seamless AMD Radeon RX 6800 Experience on Windows - Fresh Drivers for Win11, 10, 8 and 7!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-7-plus-passcode-without-a-computer-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone 7 Plus Passcode without a Computer | Dr.fone</u></a></li>
+</ul></div>
 

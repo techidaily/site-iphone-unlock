@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock iPhone 11 Without Passcode? | Dr.fone
-date: 2024-07-15T06:04:04.883Z
-updated: 2024-07-16T06:04:04.883Z
+date: 2025-01-30T01:39:04.949Z
+updated: 2025-01-31T22:09:56.020Z
 tags: 
   - unlock
   - remove screen lock
@@ -41,14 +41,15 @@ With a few simple steps, you can unlock your Apple iPhone 11  using Dr.Fone. Fir
 
 The first step you need to connect your Apple iPhone 11  to your computer. Launch Dr.Fone and among all the tools visible on the screen, click on "Screen Unlock.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 After that, select the option of "Unlock iOS Screen" to unlock your Apple iPhone 11 within seconds.
 
 ![drfone android ios unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2: Boot iPhone in DFU Mode**
 
@@ -70,23 +71,8 @@ Once you have selected the model, click on the “Start” or “Download” but
 
 When the firmware is downloaded successfully, all you have to do is click on the "Unlock Now" button to unlock your Apple iPhone 11 . It is important to note that it will result in complete erasure of your phone data, but there isn't any other way of doing it at the moment.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ios unlock 4](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Part 2: Remove Passcode by Restoring Apple iPhone 11/Apple iPhone 11 Plus**
 
 If your Apple iPhone 11 has been accidentally locked or disabled, there is an effective method to restore it. You can erase your Apple iPhone 11  data and restore it from iTunes if you have previously backed up with it. Backing up data regularly is an advisable way to avoid the trouble of losing it forever.
@@ -109,8 +95,9 @@ Here are the steps to recover Apple iPhone 11  via iTunes backup.
     ![feasible ways to unlock Apple iPhone 11 3](https://images.wondershare.com/drfone/article/2021/04/feasible-ways-to-unlock-iphone-7-and-7-plus-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Part 3: How to Change Passcode on Apple iPhone 11?**
 
 If you wish to know how to change the passcodes on Apple iPhone 11, you are at the right place. Changing the passcode on one’s device is a rather mundane task and is not at all as laborious a task as it may seem. Various types of passcodes are available to be configured in your device, as suited by a user’s personal preference.
@@ -131,6 +118,10 @@ If you wish to change the passcode on Apple iPhone 11 , simply follow the steps 
 6. Now, type in your new password. You can change the type of passcode by clicking on the "Passcode Options." The new passcode type can be a numeric code, alphanumeric code, a 4-digit, or a 6-digit code.
 
     ![feasible ways to unlock Apple iPhone 11 6](https://images.wondershare.com/drfone/article/2021/04/feasible-ways-to-unlock-iphone-7-and-7-plus-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 7. Select a specific passcode type, enter your new password and click on "Next."
 
@@ -184,9 +175,6 @@ All you have to do is follow the steps given below.
 5. Confirm it, and your Apple iPhone 11 will be restored to the factory settings, and all your data will be removed.
 6. Once the process is completed, you can unlock your Apple iPhone 11 X lock screen without any passcode.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method #3: Remove Passcode With Tapping Erase Phone (iOS 15.2 only)
 
 If both above-given methods don't work for you, or you don't have access to a computer or MacBook to use those methods, there is a 3rd method for you. But it only works on iPhones with iOS 15.2 versions.
@@ -211,7 +199,6 @@ Here are some easy steps that you should take.
 
 First, you must go to your computer or MacBook and download the Dr.Fone tool. You can follow the [link to download](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) and install this tool for free.
 
-
 **Step #2: Connect Your Apple iPhone 11**
 
 After installing Dr.Fone on your computer, you will need to launch the Software and connect your Apple iPhone 11 using the original iPhone's cable.
@@ -226,6 +213,10 @@ Once your Apple iPhone 11 is successfully connected, you must take it to recover
 
 ![connect iphone to screen unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step #4: Download Firmware**
 
 When your Apple iPhone 11 enters into recovery mode, you will see a Start button on Dr.Fone. So, you will have to select the correct iPhone and software model and click the Start button.
@@ -234,6 +225,10 @@ It will download the iOS firmware for your Apple iPhone 11.
 
 ![downloading iphone firmware](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step #5: Unlock iPhone X or XR Lock Screen**
 
 Once the downloading is completed, you will need to click on **Unlock Now** button, and the process to unlock your Apple iPhone 11 X lock screen will begin.
@@ -241,7 +236,6 @@ Once the downloading is completed, you will need to click on **Unlock Now** butt
 Once the process is completed, you can unlock your Apple iPhone 11 XR lock screen without the passcode.
 
 ![unlock iphone now](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
-
 
 ## FAQs
 
@@ -284,6 +278,14 @@ Forgetting your Apple iPhone 11 backup password can be a real pain. Not only doe
 There are still chances that you could forget your Apple iPhone 11 backup password. Fortunately, you have a chance to recover your password. So, if you're having trouble remembering your Apple iPhone 11 backup password, don't despair. There are still ways to get it back!
 
 ![forget backup password](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Overview of iPhone Backup Password
 
@@ -341,6 +343,10 @@ To begin, go to the **Settings** app on your iOS device, then choose **General**
 
 ![reset](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You may now go to **Reset All Settings** and confirm by entering the security passcode when prompted. Then, your phone will automatically go through the process of resetting and returning to its default settings.
 
 You can also get rid of the password for the last backup without deleting any other apps or data.
@@ -350,6 +356,10 @@ You can also get rid of the password for the last backup without deleting any ot
 Use a USB cable to link your Apple iPhone 11 to your PC. Look at the small iOS icon in the figure below. Just click on it.
 
 ![backup](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Proceed to the **Summary Page** and make your selection there for **The Computer.** After selecting **Encrypt Local Backup**, you must create a new password. After you have pressed the **Backup Now** option, wait for iTunes to create a new password for you.
 
@@ -362,6 +372,10 @@ Proceed to the **Summary Page** and make your selection there for **The Computer
 **Step 3:** Double-click the **Show Password** option, and then choose it from the drop-down menu. After that, type in the password for the keychain. At long last, the password for your Apple iPhone 11 backup will be shown.
 
 ![keychain](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Select "Back Up Now" via iCloud to remove password
 
@@ -407,7 +421,6 @@ Before you click **Remove Now**, please carefully read the following three notes
 
 ![removed](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-5.png)
 
-
 ## Part 3: 3 Tricks to Help You Remember the Passwords
 
 If you have an iPhone, you know it can be tricky to keep track of all your passwords. From your email password to your banking login, there are a lot of different codes to remember.
@@ -436,9 +449,6 @@ As a last piece of advice, please safely save your newly created passwords. Rath
 
 However, no matter how secure your gadget is, password leakage may happen, sending you to unpleasant situations that you can't even conceive. It's best to use Dr.Fone - Screen Unlock as soon as you encounter any problem!
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -451,9 +461,24 @@ However, no matter how secure your gadget is, password leakage may happen, sendi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/irst-foray-into-fashionable-mac-made-videos-for-youtube-for-2024/"><u>[New] First Foray Into Fashionable Mac-Made Videos for YouTube for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-recording-iphone-7-display-a-comprehensive-guide/"><u>[New] Recording iPhone 7 Display A Comprehensive Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-simplified-guide-uploading-urls-to-instagram-media-for-2024/"><u>[New] Simplified Guide Uploading URLs to Instagram Media for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-obs-supreme-vs-streamlabs-empire-for-2024/"><u>[Updated] OBS Supreme vs Streamlabs Empire for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-hp-laserjet-printer-software-for-free-on-windows-7/"><u>Download HP LaserJet Printer Software for Free on Windows 7</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/effortlessly-streamline-your-minecraft-adventures-the-top-3-techniques-for-recording-on-macos/"><u>Effortlessly Streamline Your Minecraft Adventures: The Top 3 Techniques for Recording on macOS</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/enhance-your-play-by-play-with-amds-appvce-gamers-tool-for-unmatched-recording-and-streaming-quality/"><u>Enhance Your Play-by-Play with AMD's AppVce: Gamers' Tool for Unmatched Recording & Streaming Quality</u></a></li>
+<li><a href="https://common-error.techidaily.com/essential-fixes-for-your-windows-10-a-guide-to-sfc-and-dism-tools/"><u>Essential Fixes for Your Windows 10: A Guide to SFC and DISM Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/get-your-logitech-rx250-up-and-running-on-windows-7810-latest-drivers-available-for-download/"><u>Get Your Logitech RX250 Up and Running on Windows 7/8/10 – Latest Drivers Available for Download</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-apple-iphone-15-plus-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your Apple iPhone 15 Plus Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-xr-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone XR Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-apple-iphone-15-in-lost-mode-drfone-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock Apple iPhone 15 in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-xr-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone XR Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xs-max-apples-new-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XS Max, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-trouble-with-apple-iphone-xs-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>In 2024, Trouble with Apple iPhone XS Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-apple-iphone-11-pro-max-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 11 Pro Max Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-12-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone 12 Prevention & Solution | Dr.fone</u></a></li>
+</ul></div>
 

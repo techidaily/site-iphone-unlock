@@ -1,7 +1,7 @@
 ---
 title: In 2024, Forgot Locked iPhone 8 Password? Learn the Best Methods To Unlock | Dr.fone
-date: 2024-12-24T22:29:58.870Z
-updated: 2024-12-27T05:42:40.673Z
+date: 2025-01-31T05:00:34.146Z
+updated: 2025-01-31T18:28:28.097Z
 tags: 
   - unlock
   - remove screen lock
@@ -75,7 +75,7 @@ If you've locked a note on your Apple iPhone 8 but forgot the password, there is
 ![enter new password for notes](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3. How To Unlock Notes on iPhone Using Touch ID/Face ID
@@ -117,7 +117,7 @@ Yet, worry not, for reliable methods exist to address this problem efficiently. 
 ![fix iphone unavailable](https://images.wondershare.com/drfone/article/2024/01/how-to-fix-iphone-unavailable-issue-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1. iPhone is Unavailable: Explaining the Basics
@@ -179,7 +179,7 @@ When encountering the Apple iPhone 8 Unavailable issue, a method to regain acces
 ![erase device via icloud website](https://images.wondershare.com/drfone/article/2024/01/how-to-fix-iphone-unavailable-issue-6.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4. How To Unlock iPhone Unavailable Using Erase iPhone Feature
@@ -227,21 +227,25 @@ Consider utilizing iTunes as a solution for the "iPhone Unavailable" issue. It i
 
 ![restore iphone via itunes](https://images.wondershare.com/drfone/article/2024/01/how-to-fix-iphone-unavailable-issue-13.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 In conclusion, several helpful methods exist for **how to unlock unavailable iPhone**. Various techniques offer solutions, including iTunes, Find My, and other device removal methods. Dr.Fone distinguishes itself as the most effective choice. This is due to its user-friendly interface and capability to bypass the lock, making it the optimal solution.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Unlock Apple iPhone 8 With an Apple Watch & What to Do if It Doesn't Work
 
 ![man wearing apple watch with Apple iPhone 8 by him](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 There are plenty of reasons why Apple devices are in such high demand. The quality of the products is unquestionable – few can argue the superior quality of the Apple iPhone 8’s camera, for instance. Almost all devices are long-lasting. They have a great resale value. They offer cutting-edge features.
 
@@ -267,13 +271,13 @@ What could work is your Apple Watch.
 
 Depending on the Apple Watch version you own and your Apple iPhone 8 model, you could use your watch to unlock your phone in any circumstances. It’s easy, secure, and convenient, above all else.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2. Requirements for Unlocking Apple iPhone 8 With Apple Watch
 
 ![unlock requirements](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Unfortunately, not every Apple iPhone 8 can be unlocked with your Apple Watch, and not every Apple Watch can unlock your Apple iPhone 8. Both devices must meet some requirements before you can adjust your settings to enable this option.
 
@@ -328,19 +332,15 @@ Your Apple Watch will send an alert when you’ve used it to unlock your Apple i
 
 However, remember that the next time you want to use your Apple Watch to unlock your Apple iPhone 8, you’ll first need to type in your passcode.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4. What To Do if You Can’t Unlock Your Apple iPhone 8 With a Watch
 
 ![person wearing face mask unlocking their Apple iPhone 8](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-7.jpg)
 
-Generally speaking, unlocking your Apple iPhone 8 with an Apple Watch should be a simple, seamless task. Unfortunately, though, that’s not always the case. A glitch or a bug could be preventing you from enjoying this feature, so take a look at a few things you could try to fix it.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Generally speaking, unlocking your Apple iPhone 8 with an Apple Watch should be a simple, seamless task. Unfortunately, though, that’s not always the case. A glitch or a bug could be preventing you from enjoying this feature, so take a look at a few things you could try to fix it.
 
 ### 1. Check All Settings & Reconfigure
 
@@ -363,10 +363,6 @@ Your Apple iPhone 8 and your Apple Watch need to have both WiFi and Bluetooth tu
 Remember, you only need WiFi and Bluetooth on but don’t need to be connected to a WiFi network.
 
 If the problem persists, you could also restart your devices and try again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3. Reset Your Face ID
 
@@ -420,7 +416,7 @@ If the problem wasn’t due to a system glitch, you should try resetting your Ap
 Resetting your network settings will clear out data from your internet, local network, and devices, including WiFi passwords, some Bluetooth connections, and more. However, your paired devices, such as the Apple Watch, shouldn’t be removed.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 6. Reset Your Watch and Pair It Again
@@ -434,6 +430,10 @@ It’s all quite simple:
 - **Step 3:** Press and hold the power button to turn the Apple iPhone 8 device back on.
 
 To perform a hard reset, simultaneously press and hold the power button and digital crown.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -455,24 +455,18 @@ Enabling this option is a straightforward process, and if there’s ever a glitc
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-audio-adventurers-guide-navigating-between-podcasts-and-youtube/"><u>[New] Audio Adventurer’s Guide Navigating Between Podcasts & YouTube</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-unravel-the-best-ps2-emulation-on-ios-devices/"><u>[New] In 2024, Unravel the Best PS2 Emulation on iOS Devices</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-best-8-websites-where-you-can-download-free-3d-text-psdfiles-for-2024/"><u>[Updated] Best 8 Websites Where You Can Download Free 3D Text PSDFiles for 2024</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-steps-for-efficiently-storing-whatsapp-audio-transcripts/"><u>[Updated] In 2024, Steps for Efficiently Storing WhatsApp Audio Transcripts</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-erase-iphone-15-plus-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>3 Ways to Erase iPhone 15 Plus When Its Locked Within Seconds | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-8-plus-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone 8 Plus in Lost Mode | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/apple-iphone-14-plus-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>Apple iPhone 14 Plus Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-best-tools-for-real-time-video-broadcasting/"><u>In 2024, Best Tools for Real-Time Video Broadcasting</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-apple-iphone-14-plus-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your Apple iPhone 14 Plus When You Forget the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-iphone-6-plus-when-phone-is-broken-drfone-by-drfone-ios/"><u>In 2024, How to Turn Off Find My iPhone 6 Plus when Phone is Broken? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-is-your-iphone-6s-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Is Your iPhone 6s in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-resolve-your-apple-iphone-14-plus-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>In 2024, Resolve Your Apple iPhone 14 Plus Keeps Asking for Outlook Password | Dr.fone</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-top-6-appsservices-to-trace-any-motorola-g24-power-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, Top 6 Apps/Services to Trace Any Motorola G24 Power Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-apple-iphone-8-plus-without-passcode-easily-drfone-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 8 Plus Without Passcode Easily | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-iphone-8-plus-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>In 2024, Unlock iPhone 8 Plus With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-is-ipogo-not-working-on-itel-a05s-fixed-drfone-by-drfone-virtual-android/"><u>In 2024, Why is iPogo not working On Itel A05s? Fixed | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/screen-blank-gpu-missing-2020/"><u>Screen Blank: GPU Missing [2020]</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/silencing-the-roar-tips-for-repairing-your-noisy-pc-cooling-fan/"><u>Silencing the Roar: Tips for Repairing Your Noisy PC Cooling Fan</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-premium-byb-e430s-features-an-insightful-review-of-its-ergonomic-led-light/"><u>Unveiling the Premium BYB E430's Features – An Insightful Review of Its Ergonomic LED Light</u></a></li>
+<li><a href="https://driver-error.techidaily.com/bsod-equalized-irql-in-win11-os/"><u>[BSOD]: Equalized Irql in Win11 OS</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-the-ultimate-strategy-for-creating-viral-hashtags-on-facebook/"><u>[New] In 2024, The Ultimate Strategy for Creating Viral Hashtags on Facebook</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-transforming-viewing-habits-with-fb-live-on-roku/"><u>[New] In 2024, Transforming Viewing Habits with FB Live on Roku</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-whispering-through-screens-a-private-story-journey/"><u>[Updated] 2024 Approved Whispering Through Screens A Private Story Journey</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/1-tutoriel-complet-guide-depannage-facile-pour-restaurer-les-fichiers-accidentellement-supprimes-sous-windows-sans-cout/"><u>1. [Tutoriel Complet] : Guide Dépannage Facile Pour Restaurer Les Fichiers Accidentellement Supprimés Sous Windows Sans Coût</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-iphone-15-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone 15 with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-iphone-se-2020-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone SE (2020) with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-iphone-xr-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-13-pro-max-drfone-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-master-money-with-periscope-a-newcomers-manual/"><u>In 2024, Master Money with Periscope A Newcomer's Manual</u></a></li>
+<li><a href="https://extra-information.techidaily.com/professional-cine-tools-discover-the-top-15-luts-for-action-cams/"><u>Professional Cine Tools Discover the Top 15 LUTs for Action Cams</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-players-handbook-mastering-roller-champions-crossplay-on-pc/"><u>Ultimate Player's Handbook: Mastering Roller Champions Crossplay on PC</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-transforming-video-into-melody-cutting-edge-audio-retrieval-in-multimedia-for-2024/"><u>Updated Transforming Video Into Melody Cutting-Edge Audio Retrieval in Multimedia for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Complete Guide on Unlocking iPhone 11 with a Broken Screen? | Dr.fone
-date: 2024-07-15T06:01:03.548Z
-updated: 2024-07-16T06:01:03.548Z
+date: 2025-01-28T18:02:28.632Z
+updated: 2025-01-31T21:59:43.499Z
 tags: 
   - unlock
   - remove screen lock
@@ -47,6 +47,10 @@ Also, if your Apple iPhone 11 screen is broken, you can use this feature to unlo
 
 ![all devices](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5.** Click on 'Erase iPhone'. Click on 'Erase' again after the confirmation text.
 
 ![erase your iphone](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-3.jpg)
@@ -84,6 +88,10 @@ You can erase your Apple iPhone 11 and its password once you synchronize it with
 - Select your Apple iPhone 11 in iTunes and pick the latest backup.
 - You'll then see the "Set Up" screen after that. Here, tape on the "Restore from iTunes Backup" choice.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to Unlock iPhone with Siri If its Screen is broken
 
 Siri is a voice assistant on Apple devices. Like other devices have Alexa and Google Assistant, iPhone has Siri. It empowers you to use the Apple iPhone 11 through voice commands. You can converse with Siri to unlock your Apple iPhone 11 password.
@@ -96,9 +104,6 @@ You need to ask Siri, "Siri, what time is it?" or "Siri, what time is it in the 
 
 **Step 2.** Presently, tap on the world clock symbol. Now, tap on the + sign in the upper right corner to add the clock feature to the home screen.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add new clock](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-5.jpg)
 
 **Step 3.** At the point when another clock is added, you will have the choice to share the new clock.
@@ -111,6 +116,10 @@ You need to ask Siri, "Siri, what time is it?" or "Siri, what time is it in the 
 
 ![create new contact](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 7.** Add the photo from the photo library. Tap on "Add Photo," and it will open the library for you. Tap on Select Photo, and Siri will unlock the Apple iPhone 11 device and let you pick a photo.
 
 **Step 8.** When the photo library is open, tap on the home button or return button to get back to the unlock screen to get to the Settings symbol.
@@ -122,7 +131,6 @@ Besides, it works for iPhones with iOS 8.0 to 10.1. These bugs are fixed in the 
 ## Bonus Tips: Easy Broken iPhone Unlock Tool
 
 ### Dr.Fone-Screen Unlock
-
 
 The quickest way to **unlock iPhone with broken screen** is to use an unlocking tool. However, there are tons of tools available in the market, but it is our responsibility to suggest you the best way.
 
@@ -156,7 +164,6 @@ After the firmware is downloaded effectively, click Unlock Now.
 
 In almost no time, the software will unlock your Apple iPhone 11 effectively. However, note that this unlocking will likewise wipe your user data.
 
-
 ### The Bottom Line
 
 Having an iPhone with a broken screen can make your life hard. It keeps you from communicating and carrying out important tasks on the phone. But we can make this situation work your way. Therefore, we have furnished the above list to help you **unlock iPhone with broken screen.** Even if none of the methods work, Dr.Fone can still get our phone unlocked.
@@ -168,6 +175,10 @@ Apple ID is a crucial part of the Apple ecosystem that enables users to access a
 However, sometimes iPhone users may encounter an annoying issue where their **iPhone randomly asks for an Apple ID password** without any apparent reason. This problem can be frustrating and disruptive! It can interrupt your workflow and prevent you from using your phone normally.
 
 Fortunately, we have comprehensive solutions to help you resolve this persistent issue once and for all. Let's dive in and return your device to its happy, non-nagging self!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Part 1: Common Causes for Random Apple ID Verification Pop Up**
 
@@ -237,6 +248,10 @@ Link up your iOS device to the computer using a USB cable. The software will dis
 
 ![Connect the Apple iPhone 11 device to your computer](https://images.wondershare.com/drfone/guide/remove-apple-id-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** Confirm Screen Lock and Two-Factor Authentication
 
 The software will ask if your device has a screen lock. Confirm whether you have a screen lock enabled on your device by clicking Yes. Then, it will also confirm if your device has Two-Factor Authentication enabled.
@@ -267,14 +282,6 @@ Once you download the firmware, it will be verified by the software. Click Unloc
 
 Keep your device connected and avoid any disconnections. Once the Apple ID is unlocked, the software will prompt the completion. Click Done to conclude the process. If the Apple ID is not unlocked, you can click Try Again.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Apple ID has been unlocked](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
 **Method 4: Reset iCloud Account Settings**Resetting your iCloud account settings can help clear any inconsistencies or conflicts that may be triggering the password prompts. Open Settings, and navigate to General > Transfer or Reset Phone > Reset.
@@ -306,7 +313,6 @@ If none of the above methods work, contacting Apple Support can be a viable opti
 These are some of the methods that can help you stop your Apple iPhone 11 from randomly asking for your Apple ID password. Don't forget to always back up your data before changing your Apple iPhone 11 settings.
 
 If the issue persists, it's recommended to visit an authorized Apple service center.
-
 
 ## **Bonus Part: How To Get Your Apple ID Password Back if You Forget It**
 
@@ -378,13 +384,18 @@ Sometimes, unpaid subscriptions can trigger the verification prompt. Tap the App
 
 ![subscriptions page app store](https://images.wondershare.com/drfone/article/2024/01/bypass-appstore-verification-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Don’t Require Password for Purchases
 
 For less frequent purchases, you should change the settings so you don’t always have to enter your password. Go to Settings, then to **Screen Time**. Under **Content & Privacy Restrictions**, select **iTunes & App Store Purchases**. Here, you can change the settings to **Don’t Require** for purchases. However, be cautious with this method as it reduces security.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![screen time app store purchases](https://images.wondershare.com/drfone/article/2024/01/bypass-appstore-verification-04.jpg)
 
 ### Sign Out of Apple ID and Re-Sign In
@@ -392,6 +403,10 @@ For less frequent purchases, you should change the settings so you don’t alway
 Sometimes, simply [<u>signing out of your Apple ID</u>](https://drfone.wondershare.com/unlock/how-to-sign-out-of-apple-id-without-password.html) and then signing back in can resolve the issue. Go to the **Settings** app, tap your name at the top, and scroll down to **Sign Out**. After signing out, restart your device and then sign back in. This can help refresh your account settings and clear up any minor glitches.
 
 Remember, these methods are about bypassing the verification process and ensuring your account is up-to-date and secure. Regularly checking your Apple ID settings and payment information can prevent many common issues with the App Store, including the frustrating ‘Verification Required’ prompt.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How To Bypass Verification Required Prompt Without Apple ID
 
@@ -407,12 +422,8 @@ Here’s a complete guide on bypassing **the verification required on the App St
 
 - **Step 1:** Install and open Wondershare Dr.Fone on your computer.
 
-
 - **Step 2:** Navigate to **Toolbox** and select **Screen Unlock** followed by **iOS**.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone home](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 - **Step 3:** In the next window, choose **Remove Apple ID** to proceed.
@@ -425,14 +436,15 @@ Here’s a complete guide on bypassing **the verification required on the App St
 
 - **Step 5:** Confirm if your iOS device has a screen lock and two-factor authentication enabled. This is crucial for the process to continue smoothly.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![screen lock verify](https://images.wondershare.com/drfone/guide/remove-apple-id-3.png)
 
 - **Step 6:** Follow the on-screen instructions to put your iOS device in Recovery Mode. If necessary, you can also opt for [<u>DFU Mode</u>](https://drfone.wondershare.com/dfu-mode/tools-for-iphone-to-enter-dfu-mode.html) by following the provided instructions. Once in Recovery Mode, the tool will recognize your device model. You’ll need to select the correct system version to proceed.
 
 ![recovery mode instructions](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 7:** The tool will download the appropriate iOS firmware for your device. After the download, it will verify the firmware.
 
@@ -446,6 +458,10 @@ Here’s a complete guide on bypassing **the verification required on the App St
 
 ![dr.fone complete screen unlock](https://images.wondershare.com/drfone/guide/remove-apple-id-8.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note:** After Apple ID removal, you must re-enter a new Apple ID to access the App Store. Take note of the password now if you forgot your previous one.
 
 ## Conclusion
@@ -455,9 +471,6 @@ In this article, you’ve learned **how to remove ‘Verification Required’ in
 While it’s an effective solution, always consider it a secondary option to safeguard your data. Additionally, Dr.Fone can be a handy tool for various other phone-related challenges, making it a useful resource for tackling different tech problems.
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -471,9 +484,24 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-photobooth-frustration-unfreezing-video-playback/"><u>[New] 2024 Approved Photobooth Frustration Unfreezing Video Playback</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-essential-apps-for-professional-video-editing-on-androidpc/"><u>[New] In 2024, Essential Apps for Professional Video Editing on Android/PC</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-2023-revised-insights-on-samsungs-ubd-k850u/"><u>2024 Approved 2023 Revised Insights on Samsung's UBD-K850U</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/analyzing-instagrams-per-video-timeframe-for-2024/"><u>Analyzing Instagram's Per-Video Timeframe for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-13-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone 13 Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/dont-have-the-budget-improve-older-pc-on-win10/"><u>Don’t Have the Budget? Improve Older PC on Win10</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/hero5-mastery-a-comprehensive-guide-to-photo-and-video-excellence-for-2024/"><u>Hero5 Mastery A Comprehensive Guide to Photo and Video Excellence for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-6-with-a-mask-on-drfone-by-drfone-ios/"><u>How to Unlock iPhone 6 with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-factory-reset-ipad-or-iphone-7-plus-without-icloud-password-or-apple-id-by-drfone-ios/"><u>In 2024, How to Factory Reset iPad or iPhone 7 Plus without iCloud Password or Apple ID?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-plus-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 Plus With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-pro-max-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 15 Pro Max Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-your-apple-iphone-14-pro-max-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Your Apple iPhone 14 Pro Max Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-14-plus-properly-drfone-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone 14 Plus Properly | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-resolve-your-apple-iphone-15-pro-max-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>In 2024, Resolve Your Apple iPhone 15 Pro Max Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-iphone-14-pro-max-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>In 2024, Unlock iPhone 14 Pro Max With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/leading-17-inch-laptop-reviews-and-picks-for-the-year-2024/"><u>Leading 17-Inch Laptop Reviews and Picks for the Year 2024</u></a></li>
+<li><a href="https://windows11.techidaily.com/peering-inside-windows-11-understanding-its-registry-essence/"><u>Peering Inside Windows 11: Understanding Its Registry Essence</u></a></li>
+</ul></div>
 

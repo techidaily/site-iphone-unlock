@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Find My iPhone 11 Pro Max when Phone is Broken? | Dr.fone
-date: 2024-07-15T06:06:24.634Z
-updated: 2024-07-16T06:06:24.634Z
+date: 2025-01-30T04:49:44.236Z
+updated: 2025-02-01T00:01:35.391Z
 tags: 
   - unlock
   - remove screen lock
@@ -32,11 +32,6 @@ The best part about this application is that it is free of cost. It usually come
 
 [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is an excellent data recovery and management software created by Wondershare. However, limiting it to just recovery and management of data will not be just as it offers much more than just that. Transferring files, repairing the operating system, changing the GPS location, and fixing the activation lock are its amazing services.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ### Dr.Fone - Screen Unlock (iOS)
 
 Turning Off Find My iPhone Within Second.
@@ -60,17 +55,29 @@ Open Wondershare Dr.Fone and select “Screen Unlock” among the other options 
 
 ![select unlock apple id option](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Remove Active Lock**
 
 After choosing the “Unlock Apple ID” option, an interface will be displayed that will show another two options, out of which you have to select “Remove Active Lock” to proceed further.
 
 ![tap on remove activation lock](https://images.wondershare.com/drfone/drfone/remove-activation-lock-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4: Jailbreak your Apple iPhone 11 Pro Max**
 
 Jailbreak your Apple iPhone 11 Pro Max by following the instructions given by the system. Once you complete them, click on "Finish Jailbreak."
 
 ![jailbreak your device](https://images.wondershare.com/drfone/drfone/remove-activation-lock-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5: Confirmation Window**
 
@@ -83,6 +90,10 @@ A warning will be displayed on the screen asking for confirmation to remove the 
 Click on “Start Unlock” to proceed. Once the process is started, you have to wait for a moment until the activation lock is successfully removed.
 
 ![start the unlock process](https://images.wondershare.com/drfone/drfone/remove-activation-lock-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 7: Turn off Find My iPhone**
 
@@ -104,15 +115,16 @@ Here we have explained to you step by step how to turn off Find My iPhone on bro
 
 ![select the option of find my iphone](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Click on the "All Devices" option from the top. Select your Apple iPhone 11 Pro Max, which you want to remove by clicking on "Remove from account."
 
 ![select your device](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-2.jpg)
 
 **Step 4:** Once your device is removed from the account, a window will pop up asking you to delete the option of that device from your iCloud account. Now you may log in Find My iPhone with your iCloud account on another device.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![confirm removal](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-3.jpg)
 
 ## Part 4: Turn off Find My iPhone using Recovery Mode
@@ -140,8 +152,6 @@ Once your Apple iPhone 11 Pro Max shows the Apple logo, it means the Recovery Mo
 ### Conclusion
 
 Now we’re done as we’ve provided you the best possible solutions to turn off Find My iPhone when your Apple iPhone 11 Pro Max is broken. It is obvious that it is a quite complicated process, but you have to be patient and follow the steps correctly to disable Find My Apple iPhone 11 Pro Max to avoid any inconvenience in the future. We hope this article answers all your queries regarding it.
-
-
 
 ## Complete Guide on Unlocking Apple iPhone 11 Pro Max with a Broken Screen?
 
@@ -171,6 +181,10 @@ Also, if your Apple iPhone 11 Pro Max screen is broken, you can use this feature
 **Step 3.** After signing in effectively, click on Find My and enter your Apple ID and password. Click on Sign In.
 
 ![click find my iphone](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4.** Pick your locked phone under the "All Devices" segment.
 
@@ -227,6 +241,10 @@ You need to ask Siri, "Siri, what time is it?" or "Siri, what time is it in the 
 
 ![add new clock](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3.** At the point when another clock is added, you will have the choice to share the new clock.
 
 **Step 4.** Click on the share button and Pick the Message choice.
@@ -249,7 +267,6 @@ Besides, it works for iPhones with iOS 8.0 to 10.1. These bugs are fixed in the 
 
 ### Dr.Fone-Screen Unlock
 
-
 The quickest way to **unlock iPhone with broken screen** is to use an unlocking tool. However, there are tons of tools available in the market, but it is our responsibility to suggest you the best way.
 
 We strongly recommend you install the Wondershare Dr.Fone-Screen Unlock tool. It is a safe and easy-to-use tool with an excellent success rate. With years of service in the unlocking industry, the experts at Wondershare thrive to provide outstanding services to its customers.
@@ -268,6 +285,10 @@ Removing the lock screen requires you to boot your Apple iPhone 11 Pro Max in Re
 
 ![enter recovery mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3. Confirm your Phone Model**
 
 Dr.Fone will now show you the phone Model and OS version. You can choose the right information from the dropdown menu if the one on your screen isn't right. Then, at that point, download and install the required firmware for your Apple iPhone 11 Pro Max.
@@ -281,7 +302,6 @@ After the firmware is downloaded effectively, click Unlock Now.
 ![unlock now](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
 In almost no time, the software will unlock your Apple iPhone 11 Pro Max effectively. However, note that this unlocking will likewise wipe your user data.
-
 
 ### The Bottom Line
 
@@ -311,9 +331,6 @@ Face ID is an advanced biometric authentication system on Apple iPhone 11 Pro Ma
 
 You also need to move your head in a circular motion. Face ID captures and analyzes various facial features. These include the unique patterns of your eyes, nose, and mouth. You can set up two types of Face IDs on iPhone 14 and iPhone 14 Pro. These include one with a mask and one without a mask.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![set up face id](https://images.wondershare.com/drfone/article/2023/06/unlock-iphone-14-2.jpg)
 
 ## Part 2: Methods To Unlock Your Apple iPhone 11 Pro Max
@@ -362,9 +379,6 @@ For it, ensure you have the latest version of iTunes installed on your computer.
 
 - **Step 3.** Here, choose the "Restore" option. It will erase all data on your device and install the latest iOS version. Once it is complete, you will see the initial setup screen on your Apple iPhone 11 Pro Max.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![press the restore button](https://images.wondershare.com/drfone/article/2023/06/unlock-iphone-14-7.jpg)
 
 #### Pros
@@ -379,8 +393,6 @@ For it, ensure you have the latest version of iTunes installed on your computer.
 ### Method 3: Using the Screen Unlock Feature of Wondershare Dr.Fone
 
 You will come across many methods when looking for how to unlock iPhone 14. However, no way is simpler or safer than using [Wondershare Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). It can remove all screen locks from iPhone, iPad, and iPad Touch. These types include 4-digit passcode, 6-digit passcode, Touch ID, and Face IDs.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -430,9 +442,17 @@ If the detected details are correct, click on "Start" to initiate the firmware d
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Tips for Successful Apple iPhone 11 Pro Max Unlocking
 
 Unlocking your Apple iPhone 11 Pro Max can be a delicate process. To increase your chances of success and avoid potential pitfalls, consider the following tips:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Check Device Eligibility
 
@@ -450,9 +470,6 @@ Familiarize yourself with the terms and conditions associated with the unlocking
 
 Understand the potential data loss implications and ensure you have a recent backup to restore your data if needed. Moreover, you also need to ensure that you have the legal right to unlock the iPhone. Unlocking methods should only be used on devices you own or have explicit permission to unlock.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Follow Instructions Carefully
 
 Following the instructions provided for each unlocking method is crucial to increase your chances of successful unlocking. Read the instructions thoroughly before starting the unlocking process. Familiarize yourself with each step and ensure you understand them. Take note of any prerequisites, such as having the latest version of iTunes installed, enabling Find My iPhone, or establishing a stable internet connection.
@@ -473,7 +490,6 @@ After careful evaluation, we recommend Wondershare Dr.Fone as the best choice to
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -486,9 +502,22 @@ After careful evaluation, we recommend Wondershare Dr.Fone as the best choice to
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-a-concise-guide-to-starting-an-inclusive-chat-room-in-skype-accessible-on-different-operating-systems/"><u>[New] 2024 Approved A Concise Guide to Starting an Inclusive Chat Room in Skype, Accessible on Different Operating Systems</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-10plus-sites-accessible-free-visuals-for-everyone/"><u>[Updated] 2024 Approved 10+ Sites Accessible, Free Visuals for Everyone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-step-by-step-guide-downloading-and-installing-obs-for-macos/"><u>[Updated] 2024 Approved Step-by-Step Guide Downloading & Installing OBS for macOS</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-key-to-profit-youtube-shorts-insights/"><u>2024 Approved The Key to Profit YouTube Shorts Insights</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-bloodborne-overview-delving-into-the-shadows/"><u>Comprehensive Bloodborne Overview: Delving Into the Shadows</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/elite-selection-of-cable-modems-maximize-speed-and-reliability/"><u>Elite Selection of Cable Modems : Maximize Speed and Reliability</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-erase-apple-iphone-13-pro-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Erase Apple iPhone 13 Pro When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabled-iphone-6-plus-how-to-unlock-a-disabled-iphone-6-plus-drfone-by-drfone-ios/"><u>In 2024, Disabled iPhone 6 Plus How to Unlock a Disabled iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-country-on-app-store-for-iphone-6s-plus-with-7-methods-drfone-by-drfone-ios/"><u>In 2024, How To Change Country on App Store for iPhone 6s Plus With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-motorola-moto-e13-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Motorola Moto E13 Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-iphone-7-plus-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found iPhone 7 Plus? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-leading-9-free-logo-design-software-for-youtube-channels/"><u>In 2024, Leading 9 Free Logo Design Software for YouTube Channels</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-iphone-xs-5-ways-to-get-into-a-locked-iphone-xs-drfone-by-drfone-ios/"><u>In 2024, Locked Out of iPhone XS? 5 Ways to get into a Locked iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/navigating-through-choice-of-size-in-small-battery-powered-trackers-a-review-on-the-most-compact-options-available-today/"><u>Navigating Through Choice of Size in Small Battery-Powered Trackers - A Review on the Most Compact Options Available Today</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/passfab-apple-iphone-x-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab Apple iPhone X Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Guide to Overcoming XDK Errors in Modern Warfare 2
-date: 2025-01-21T18:11:32.328Z
-updated: 2025-01-24T16:15:17.292Z
+date: 2025-01-31T00:49:59.390Z
+updated: 2025-02-01T03:12:28.593Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/9a7e28e8568427a787263a138246015aa54bad807
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/mw-6068-featured.jpg)
 
  Many gamers are complaining about the constant crashes that shows a**Dev Error 6068** . If you happen to be one of them, don’t worry. Here are some working fixes you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -42,7 +46,7 @@ Here’s how:
 3. From the left menu, select**Game Settings** . Check the box next to**Additional command line arguments** . In the input area, type**\-d3d11** (mind the dash). Then click**Done** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/mw-d3d11-2.jpg)
@@ -50,10 +54,6 @@ Here’s how:
 Now you can launch Warzone and test the stability.
 
 If this fix doesn’t help, you can try the next one below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -69,10 +69,6 @@ If this fix doesn’t help, you can try the next one below.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and see if Warzone crashes again.
@@ -80,7 +76,7 @@ If this fix doesn’t help, you can try the next one below.
  If updating your graphics driver doesn’t solve your problem, you can take a look at the next fix below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
@@ -95,15 +91,15 @@ And here’s a quick guide:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To ensure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  After installing all system updates, restart your computer and test the gameplay in Warzone.
 
  If this method doesn’t give you luck, simply continue to the next one below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Stop overclocking
 
@@ -134,6 +130,10 @@ And here’re some solid brands we recommend:
 
  Or you can check out the fix below to use virtual memory as a temporary workaround.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Increase your virtual memory
 
  Virtual memory serves as additional RAM when your system is out of memory. This is often useful when you’re running a big and resource-hungry application.**Increasing your computer’s virtual memory** can at some point mitigate the crash.
@@ -144,12 +144,12 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/search-advanced-system-settings.jpg)
 2. Under the **Performance**  section, click **Settings…** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/system-advanced-performance-virtual-memory.jpg)
 3. In the pop-up window, navigate to the **Advanced**  tab. Under the **Virtual memory** section, click **Change…** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-advanced.jpg)
 4. Uncheck the box next to**Automatically manage paging file size for all drives** . Then select **Customize size** .  
@@ -158,7 +158,7 @@ Here’s how:
 5. Enter **Initial size** and **Maximum size** according to the physical memory of your computer. Microsoft recommends that virtual memory should be 1.5 to 3 times the size of physical memory. In my case, the physical memory (actual RAM) of my computer is 8 GB, so the **Initial size** for me here is **8 x 1024 x 1.5 = 12288 MB** , and the **Maximum size** should be **8 x 1024 x 3 = 24576 MB** . Once you’ve entered your size of virtual memory, click **Set** , then click **OK**  to save the changes.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-set-02.jpg)
@@ -185,22 +185,24 @@ Now launch Warzone and check if the problem persists.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-the-10-igtv-channels-shaping-content-trends/"><u>[New] In 2024, The 10 IGTV Channels Shaping Content Trends</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-chorus-and-content-music-magic-on-social-media-stories/"><u>[Updated] 2024 Approved Chorus & Content Music Magic on Social Media Stories</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-delving-into-how-t-series-earnings-work-on-youtube/"><u>[Updated] 2024 Approved Delving Into How T-Series Earnings Work on Youtube</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-15-pro-max-drfone-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-6-drfone-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 6 | Dr.fone</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/embellish-slides-with-sonic-elements-for-2024/"><u>Embellish Slides with Sonic Elements for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-12-pro-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/fine-tune-your-cinematography-mastering-kinemaster-zoom-features-for-2024/"><u>Fine-Tune Your Cinematography Mastering Kinemaster Zoom Features for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-many-attempts-to-unlock-apple-iphone-xs-max-drfone-by-drfone-ios/"><u>How Many Attempts To Unlock Apple iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://article-posts.techidaily.com/in-2024-a-comprehensive-guide-to-bringing-vividness-to-your-videos-sdr-hdr-conversion/"><u>In 2024, A Comprehensive Guide to Bringing Vividness to Your Videos SDR-HDR Conversion</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-se-2020-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone SE (2020) After Forgetting the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-apple-iphone-8-plus-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone 8 Plus Backup Password? Heres What to Do | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-8-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone 8 Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-7-plus-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 7 Plus with a Mask On | Dr.fone</u></a></li>
-<li><a href="https://article-tips.techidaily.com/in-2024-igniting-laughter-a-path-to-meme-fame/"><u>In 2024, Igniting Laughter A Path to Meme Fame</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-instructions-how-to-implement-tracert-commands-for-troubleshooting-on-windows-pcs/"><u>Step-by-Step Instructions: How to Implement Tracert Commands for Troubleshooting on Windows PCs</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-ultimate-guide-for-crafting-engaging-shareable-youtube-shorts-for-2024/"><u>The Ultimate Guide for Crafting Engaging, Shareable YouTube Shorts for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-crafting-your-perfect-youtube-playlists-a-step-by-step-guide/"><u>[New] 2024 Approved Crafting Your Perfect YouTube Playlists A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-enhancing-virtual-meeting-clarity-with-zoom-focus/"><u>[New] 2024 Approved Enhancing Virtual Meeting Clarity with Zoom Focus</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-a-deeper-dive-into-documenting-gaming-sessions-on-the-ps3/"><u>[Updated] 2024 Approved A Deeper Dive Into Documenting Gaming Sessions on the PS3</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-ineffectiveness-to-influence-with-smm-mastery/"><u>[Updated] From Ineffectiveness to Influence with SMM Mastery</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-unveiling-the-secrets-of-instagrams-musical-emoji-usage/"><u>2024 Approved Unveiling the Secrets of Instagram's Musical Emoji Usage</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discover-advanced-computer-components-with-toms-gear-hub/"><u>Discover Advanced Computer Components with Tom's Gear Hub</u></a></li>
+<li><a href="https://win-answers.techidaily.com/fix-implemented-no-more-crashes-in-naraka-bladebreakers-gameplay-session/"><u>Fix Implemented: No More Crashes in Naraka: Bladebreakers Gameplay Session</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-11-pro-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-fixes-to-solve-iphone-15-pro-max-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve iPhone 15 Pro Max Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-iphone-xs-drfone-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabling-iphone-8-plus-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>In 2024, Disabling iPhone 8 Plus Parental Restrictions With/Without Password | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exquisite-visual-enhancement-implementing-filters-on-videos-pc-and-mobile/"><u>In 2024, Exquisite Visual Enhancement Implementing Filters on Videos (PC & Mobile)</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-locked-apple-iphone-6-plus-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Forgot Locked Apple iPhone 6 Plus Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-8-drfone-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-pro-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Pro? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-se-2020-without-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone SE (2020) Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-iphone-11-pro-max-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solution-guide-fix-stuck-or-unresponsive-characters-on-windows-11-keyboard/"><u>Solution Guide: Fix Stuck or Unresponsive Characters on Windows 11 Keyboard</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-chromebooks-stand-out-as-the-perfect-option-for-users-a-closer-look-by-zdnet-with-7-key-points/"><u>Why Chromebooks Stand Out as the Perfect Option for Users: A Closer Look by ZDNet with 7 Key Points</u></a></li>
 </ul></div>
 

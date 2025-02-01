@@ -1,7 +1,7 @@
 ---
 title: In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone 11 Without iTunes | Dr.fone
-date: 2024-07-15T06:02:05.039Z
-updated: 2024-07-16T06:02:05.039Z
+date: 2025-01-24T21:35:30.437Z
+updated: 2025-01-31T22:29:11.219Z
 tags: 
   - unlock
   - remove screen lock
@@ -28,7 +28,6 @@ Let's get started.
 
 If you search for a simple and effective way to factory reset your locked iPhone without iTunes, you should check out Dr.Fone-Screen Unlock. This professional iOS screen unlocks tool can help you erase all kinds of data from your Apple iPhone 11 and help you unlock your device within a few minutes.
 
-
 For this, you will need to follow the steps given below.
 
 **Step #1: Download and Install Dr.Fone-Screen Unlock on a Computer or Mac:**
@@ -40,6 +39,10 @@ First, download Dr.Fone-Screen Unlock on your computer or Mac. Once the software
 On the main interface of Dr.Fone, you need to select " Screen Unlock. " You may see many options, but you will have to choose Screen Unlock because it will allow you to remove the passcode from your locked iPhone.
 
 ![factory reset without itunes](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step #3: Get your Apple iPhone 11 in Recovery Mode and Make it connected to the Computer:**
 
@@ -65,11 +68,19 @@ The process will take a few minutes if you have a strong internet connection bec
 
 ![factory reset disabled iphone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3 Simple Methods to Factory Reset Locked iPhone
 
 Besides the above-given method, other methods can also help you factory reset your locked iPhone without iTunes.
 
 These methods are as follows:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method #1: Factory reset via the Find My feature on your device
 
@@ -106,6 +117,10 @@ To do this, you need to follow these steps:
 **Step 4:** Enter your Apple ID password when prompted, and click on the " Erase " button to proceed.
 
 Your device will now be erased, and you can set it up as a new device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method #3: Enter the Recovery Mode of the Finder
 
@@ -145,6 +160,10 @@ To force your Apple iPhone 11 to factory reset with buttons, you need to follow 
 
 ![hard reset iphone 6 while locked](https://images.wondershare.com/drfone/article/2022/11/factory-reset-locked-iphone-without-itunes-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 1:** Press and hold the " Sleep/Wake " button and the " Home " button simultaneously for about 10 seconds.
 
 **Step 2:** After 10 seconds have passed, release the " Sleep/Wake " button but keep holding the " Home " button.
@@ -167,8 +186,6 @@ However, if you want to factory reset your Apple iPhone 11 because you have forg
 
 This app can help you factory reset your locked iPhone without iTunes in just a few minutes, and it is very easy to use. So, if you want to reset your device without any data loss, we recommend using this app.
 
-
-
 ## How to Unlock Apple iPhone 11 without Passcode or Face ID
 
 You can't access your Apple iPhone 11 because the Face ID isn't working, and you forgot your passcode? So you are considering **how to unlock iPhone without face ID or passcode**. If so, this article will walk you through how to do that.
@@ -185,15 +202,16 @@ Firstly, one ought to realize that it is impossible to hack an iPhone passcode. 
 
 ![erase using find my](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-without-face-id-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Via iTunes
 
 **Step 1. Go to Recovery Mode**
 
 Entering the recovery mode requires various steps, given your Apple iPhone 11 model or settings. Assuming you're uncertain which one you have, check the rear of your phone or the client manual you got in the first box.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enter recovery mode](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-without-face-id-2.jpg)
 
 **iPhone 8 and Above:**
@@ -226,9 +244,6 @@ After entering recovery mode, you'll have to continue on your Macintosh or PC. T
 - Go to the Finder window.
 - Your Apple iPhone 11 will appear on the left half of the Finder window under Locations. You can tap on it to choose it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![macos catalina requirements](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-without-face-id-3.jpg)
 
 **macOS Mojave or a Windows with iTunes**
@@ -268,10 +283,13 @@ The following steps explain **how to unlock iPhone without face ID or passcode**
 
 ![activate iphone](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-without-face-id-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 6.** Click Next Page > Back to enter the lock bypass screen. These are all the required steps for **how to unlock iPhone without passcode or face ID 2022.**
 
 ### 4\. Dr.Fone-Screen Unlock
-
 
 This section will introduce you to our most important solution. Yes, you heard it right. If you need a hassle-free method to unlock your iDevice without a passcode or face ID, use Wondershare Dr.Fone Screen Unlock.
 
@@ -291,9 +309,6 @@ Next, connect your locked phone to the system through a wired connection. Then g
 
 It is necessary to first boot your locked device in recovery or DFU mode. Follow the guidelines on your screen to do so. The Recovery mode is the suggested way for iOS screen locks. If you can't actuate this mode, go for the DFU mode boot.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enter recovery mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 **Step 3. Select your Apple iPhone 11 Model**
@@ -312,7 +327,6 @@ Simply in no time, Dr.Fone will successfully unlock your device.
 
 **Note:** This unlocking process will erase everything off your Apple iPhone 11 and bring it to the factory default state. Indeed, no other method that doesn't allow data erasure at the moment.
 
-
 ## Part 2: How to Turn Off Passcode or Face ID on My Device?
 
 Face ID can be a helpful method for unlocking your Apple iPhone 11 - by simply looking at your phone. However, a few clients might worry that it's not as secure as utilizing a PIN to open your phone. If that is the best case for you, you can follow this manual to disable Face ID and depend on a passcode.
@@ -327,10 +341,11 @@ First, tap on your Settings app to open it. That is the one on the home screen w
 
 On the Settings menu, tap on the Face ID and Passcode menu.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![passcode menu](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-without-face-id-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Enter your passcode
 
@@ -364,9 +379,11 @@ There can be a few reasons why your Apple iPhone 11 is locked, the primary ones 
 
 We understand how frustrating it can be when your newly purchased Apple iPhone 11 does not unlock because of a passcode entry issue, and all you want to do is get the screen unlocked. At Wondershare, we strive to create meaningful differences in the lives of the people that use our software and keeping that in mind, we have a solution for you to unlock your Apple iPhone 11 passcode screen using Dr.Fone - Screen Unlock (iOS).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### II.I Using Dr.Fone - Screen Unlock (iOS) to Unlock the Locked Apple iPhone 11
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -376,6 +393,10 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 - Unlock screen passwords from all iPhone and iPad.
 - No tech knowledge is required, everybody can handle it.
 - Supports iPhone XS (Max) / iPhone XR / iPhone X / 8 (Plus)/ iPhone 7(Plus)/ iPhone6s(Plus), iPhone SE and the latest iOS version fully!![New icon](https://images.wondershare.com/drfone/others/new_23.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4,395,217** people have downloaded it
 
@@ -415,9 +436,6 @@ Step 1: If you have any other Apple device that is logged in with the same Apple
 
 Step 2: Under Find My (or Find My iPhone if you are using the iCloud website), select your Apple iPhone 11 and click Erase iPhone and confirm.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![find my iphone](https://images.wondershare.com/drfone/article/2021/09/unlock-iphone-13-6.jpg)
 
 That's it. You will have wiped and unlocked your Apple iPhone 11 and it will start with factory settings. Note that this works only if the Apple iPhone 11 was connected to Find My in the first place. If not, then you always have Dr.Fone - Screen Unlock (iOS) to help you out.
@@ -472,7 +490,6 @@ All Apple iPhone 11 models feature the same IP68 water resistance (that is a dep
 
 A locked Apple iPhone 11 is never a pretty sight. Fortunately, there are a couple of things you can do to try and unlock your Apple iPhone 11 and remove the passcode from your Apple iPhone 11. There is also Wondershare Dr.Fone - Screen Unlock (iOS) to unlock your Apple iPhone 11 for you when you need help removing the passcode from your Apple iPhone 11 and unlocking it.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -485,9 +502,24 @@ A locked Apple iPhone 11 is never a pretty sight. Fortunately, there are a coupl
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-unlocking-screen-record-features-for-capturing-snaps-for-2024/"><u>[New] Unlocking Screen Record Features for Capturing Snaps for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-proven-steps-to-elevate-webinar-video-quality/"><u>[Updated] In 2024, Proven Steps to Elevate Webinar Video Quality</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-secrets-when-to-share-content-for-youtube-success/"><u>[Updated] Secrets When to Share Content for YouTube Success</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-elevate-views-and-subscribers-a-list-of-proven-youtube-techniques/"><u>2024 Approved Elevate Views and Subscribers A List of Proven YouTube Techniques</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-how-to-utilize-obs-studio-android-solutions/"><u>2024 Approved How to Utilize OBS Studio Android Solutions</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-15-pro-drfone-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-resolve-your-itunes-and-iphone-connection-issues-on-windows-10/"><u>How to Resolve Your iTunes and iPhone Connection Issues on Windows 10</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-11-pro-max-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 Pro Max Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-stolen-apple-iphone-8-in-different-conditionsin-drfone-by-drfone-ios/"><u>How To Unlock Stolen Apple iPhone 8 In Different Conditionsin | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-xs-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone XS Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-apple-iphone-xr-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From Apple iPhone XR? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-14-drfone-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-14-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-best-of-the-best-highlight-video-makers-for-desktop-mobile-and-more-for-2024/"><u>New Best of the Best Highlight Video Makers for Desktop, Mobile, and More for 2024</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/save-big-exclusive-deal-on-the-gigabyte-gs32q-premium-170hz-qhd-gaming-display-at-just-199/"><u>Save Big: Exclusive Deal on the Gigabyte GS32Q - Premium 170Hz QHD Gaming Display at Just $199</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-ultimate-guide-to-repairing-the-windows-11-startup-failure-in-pc-systems/"><u>The Ultimate Guide to Repairing the Windows 11 Startup Failure in PC Systems</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-15-passcode-without-a-computer-drfone-by-drfone-ios/"><u>Unlocking iPhone 15 Passcode without a Computer | Dr.fone</u></a></li>
+</ul></div>
 

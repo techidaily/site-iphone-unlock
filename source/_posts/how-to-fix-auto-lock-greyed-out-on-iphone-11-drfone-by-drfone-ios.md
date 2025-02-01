@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on iPhone 11 | Dr.fone
-date: 2024-07-15T06:01:09.409Z
-updated: 2024-07-16T06:01:09.409Z
+date: 2025-01-28T18:33:28.742Z
+updated: 2025-01-31T20:37:37.725Z
 tags: 
   - unlock
   - remove screen lock
@@ -30,9 +30,6 @@ Low Power Mode
 
 When you activate Low Power Mode on your iOS device, you might notice the screen automatically locking after 30 seconds of inactivity. This quick sleep setting, implemented to minimize power usage, explains why the Auto-Lock option appears greyed out and inaccessible.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![low power mode on iphone enabled](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-02.jpg)
 
 Screen Time Restrictions
@@ -101,6 +98,10 @@ If your IT team gives the green light, you might also be able to remove the netw
 
 ![remove mdm profile on ipad](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-08.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If the option is unavailable, only the person who used Apple Configurator 2 or handles your company's mobile device management platform can remove it.
 
 Fix No.5: Use Dr.Fone To Bypass MDM Lock Without Data Loss
@@ -138,6 +139,10 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 ![dr.fone guide turn off find my](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 6:** The software will display the progress of the bypass. Wait for it to complete.
 
 ![dr.fone bypassing mdm lock](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-5.png)
@@ -145,6 +150,10 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 - **Step 7:** You'll see a confirmation message once the bypass is successful. Click **Done** to exit. Your device should now be free from MDM restrictions.
 
 ![successfully bypassed mdm on ios](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Fix No.6: Check and Adjust Auto-Lock Settings
 
@@ -161,9 +170,6 @@ Here are the steps on **how to change Auto-Lock on iPad** devices:
 
 - **Step 3:** A list of time options will appear, ranging from **2 minutes** to **15 minutes**, as well as **Never**. Select the time you want your iPad to wait before automatically locking the screen after inactivity. If you want the screen to stay on indefinitely, choose **Never**.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change auto lock on ipad](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-17.jpg)
 
 **Step 4:** Once you've selected your preferred auto-lock duration, you can exit the **Settings** app. The change will be applied automatically.
@@ -186,6 +192,10 @@ For an easy solution, use Dr.Fone Screen Unlock to bypass MDM restrictions, givi
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Unlock Apple iPhone 11 With Forgotten Passcode: Different Methods You Can Try
 
 Have you forgotten the passcode iPhone 6? We know forgetting your Apple iPhone 11 passcode can be a frustrating experience, but luckily it is possible to unlock your device. Using different methods, we will show you how to unlock your Apple iPhone 11 6 with a forgotten passcode.
@@ -196,9 +206,6 @@ So let's get started.
 
 Your iPhone passcode can be reset in a variety of ways, depending on whether you have a backup. Below, we'll go over the three most common methods for resetting an iPhone passcode.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 1\. Use Find My iPhone
 
 If you've activated Find My iPhone, you can use it to reset your passcode. Resetting your passcode this way is probably the simplest method, as it doesn't require any technical knowledge or special tools.
@@ -218,6 +225,10 @@ Once your Apple iPhone 11 has been erased, it can be set up as a new device and 
 You can use Recovery mode to reset your device if you've synced your Apple iPhone 11 with iTunes. This method will erase all of the data on your Apple iPhone 11, so confirm you have a backup before proceeding.
 
 ![with itunes](https://images.wondershare.com/drfone/article/2022/11/forgot-passcode-iphone-6-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Just go with the steps below.
 
@@ -242,15 +253,14 @@ Just follow the instructions.
 
 While this method doesn't give you direct access to the home screen, it does allow you to bypass the lock screen and access some of your device's features.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bonus Tips: Easy Tool to Unlock iPhone 6 without Passcode
 
 If none of the above-mentioned methods works for you, or you don't want to use them, there is another method that will surely work for you. Dr.Fone - Screen Unlock is a powerful software that can unlock your Apple iPhone 11 without a passcode. The software is extremely easy to use and supports all iOS devices.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone Without Passcode
@@ -268,6 +278,10 @@ Unlock iPhone Without Passcode
 
 ![screen unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** To connect your Apple iPhone 11 to the computer, you require a USB cable.
 
 **Step 3:** Follow the instructions below to put your device in DFU or Recovery mode.
@@ -284,7 +298,6 @@ You need to wait as the process may take several minutes. So be patient and don'
 
 ![unlock iphone successfully](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-
 This is a very easy-to-use way to reset your Apple iPhone 11 passcode. So, if you're looking for a hassle-free solution, this is the one you should obtain.
 
 As we told you earlier, any method you follow will lose your data, as there is no way to unlock your Apple iPhone 11 6 without losing the data. So, how can you back up your Apple iPhone 11 to avoid forgetting the passcode? Let's find out.
@@ -292,7 +305,6 @@ As we told you earlier, any method you follow will lose your data, as there is n
 ## How Can I Back Up My Apple iPhone 11 to Avoid Forgetting Passcode Again?
 
 [Wondershare Dr.Fone](https://drfone.wondershare.com/iphone-backup-and-restore.html) is an excellent tool that can help you keep your Apple iPhone 11 data to avoid losing it. The software is extremely easy to use and supports all iOS devices.
-
 
 **Step #1: Launch Dr.Fone App on Your Computer**
 
@@ -366,7 +378,6 @@ After installing Wondershare Dr.Fone, launch and navigate to the "Toolbox" secti
 
 ![proceed with screen unlock feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-
 - **Step 2. Start Unlocking iOS Screen Lock**
 
 From the available features, proceed with "Unlock iOS Screen" and click “Start” to initiate the unlocking process.
@@ -385,6 +396,10 @@ As the respective iOS firmware downloads, wait a few minutes and press the "Unlo
 
 ![iphone unlocked successfully](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2. \[Old Ways\] Using Siri To Unlock Stolen iPhone
 
 It might come as a surprise to you that Siri can be used to unlock a lost iPhone. When you seek the answer to **how to unlock a lost iPhone** with Siri, you need to be aware of a very specific pointer. It is necessary to note that this method only works for devices operating between iOS 8 and 11.
@@ -400,8 +415,9 @@ This later turned out to be an anomaly in Siri that led users to unlock their iO
 ![access photos app to unlock](https://images.wondershare.com/drfone/article/2024/02/how-to-unlock-stolen-iphone-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3. \[All Data Lost\] Trying Recovery Mode for Unlocking Stolen iPhone
 
 Another lifesaver method to unlock stolen iPhones is by utilizing the Recovery Mode. For this purpose, users need to connect their iPhones to their PC using [iTunes](https://www.apple.com/itunes/). Its ability to facilitate data restoration makes it an effective method to unlock iOS devices. Rather than searching for “**I bought a lost iPhone how do I unlock it**,” simply follow the instructions below:
@@ -428,14 +444,15 @@ These services include [IMEIUnlockSIM](https://www.imeiunlocksim.com/unlock-phon
 
 ![unlock activation lock with service](https://images.wondershare.com/drfone/article/2024/02/how-to-unlock-stolen-iphone-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Getting a stolen iPhone back is surely the best thing, but facing a device unlock situation worsens things. However, to help you with **how to** **unlock a stolen iPhone**, we have discussed 4 effective methods. Wondershare Dr.Fone is the best among these options. This screen unlock tool facilitates users with various screen unlocking options using the simplest methods.
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -449,9 +466,18 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/updated-social-media-strategy-fb-video-angles/"><u>[Updated] Social Media Strategy – FB Video Angles</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-15-plus-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone 15 Plus without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/galactic-wipe-toolkit-standard-edition-for-effortless-file-and-folder-erasure-on-pcs/"><u>Galactic Wipe Toolkit: Standard Edition for Effortless File & Folder Erasure on PCs</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/galaxy-s24-ultra-vs-galaxy-s23-ultra-a-detailed-head-to-head-comparison/"><u>Galaxy S24 Ultra Vs. Galaxy S23 Ultra: A Detailed Head-to-Head Comparison</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-on-setting-up-and-syncing-your-samsung-universal-remote-with-different-brands-of-tvs/"><u>Guide on Setting Up and Syncing Your Samsung Universal Remote with Different Brands of TVs</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-iphone-7-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>How to Bypass iPhone 7 Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-12-mini-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone 12 mini when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-se-2022-in-lost-mode-drfone-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone SE (2022) in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/navigating-adobe-cloud-insights-and-best-non-adobe-choices/"><u>Navigating Adobe Cloud, Insights & Best Non-Adobe Choices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/premium-software-for-photo-to-video-projects-for-2024/"><u>Premium Software for Photo-to-Video Projects for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-your-disabled-apple-iphone-14-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone 14 Without iTunes in 5 Ways | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Make the Most of Your iPhone 11 Lock Screen with Notifications? | Dr.fone
-date: 2024-07-15T06:01:14.186Z
-updated: 2024-07-16T06:01:14.186Z
+date: 2025-01-27T03:16:14.505Z
+updated: 2025-02-01T00:40:52.870Z
 tags: 
   - unlock
   - remove screen lock
@@ -28,6 +28,10 @@ If you aren’t using this iPhone notification lock screen feature, then you are
 
 ![iphone lock screen with notifications-reply to messages from notification](https://images.wondershare.com/drfone/article/2017/09/15063937846890.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Interact with apps without unlocking your phone**
 
 Not just your messages, you can interact with other apps as well right from the lock screen notifications iPhone. After getting a list of notifications, you can simply tap on the “x” button to close them.
@@ -43,6 +47,10 @@ Though, if you want to know more, then just long press the notification. For ins
 Besides interacting with widgets and apps, you can also search for something on your device and that too without unlocking it. Simply tap on the search bar to make it work.
 
 ![iphone lock screen with notifications-earch for anything](https://images.wondershare.com/drfone/article/2017/09/15063938584150.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to turn off notifications on iPhone lock screen?
 
@@ -64,6 +72,10 @@ Sometimes, people can access our private information just by looking at our noti
 
 Besides that, there are a few other options as well that you can either enable or disable to customize your lock screen notifications iPhone.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to turn off notification view on iPhone lock screen?
 
 The notification view can be used to see previous notifications on the Apple iPhone 11 device without unlocking it. Needless to say, most of the users don’t like to include this iPhone notification lock screen feature. To turn off the notification view of iPhone lock screen notifications, follow these steps:
@@ -82,9 +94,6 @@ The notification view can be used to see previous notifications on the Apple iPh
 
 After turning the option off, you can exit from the Settings interface. In this way, your device won’t display the notification view.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: Changes on iPhone lock screen notifications on iOS 18
 
 With the new update of iOS 18, we can see a drastic change in the Apple iPhone 11 lock screen notifications as well. Since the Apple iPhone 11 lock screen with notifications have been integrated into one, it becomes quite easier for users to access it.
@@ -109,8 +118,6 @@ If you want to click pictures instantly, then simply swipe left the lock screen.
 
 We hope that after following this guide, you would be able to gain in-depth information regarding iPhone lock screen with notifications. Apart from all the basic things you can do on the lock screen, we have also provided easy ways to customize it. Furthermore, there are so many things that you can do with the iOS 18 iPhone lock screen notifications. While most of the users loved the feature, some are quite hesitant about its application. What is your take on this? Let us know about it in the comments.
 
-
-
 ## How to Unlock Apple iPhone 11, Apple's New iPhone
 
 It has happened to all of us at some point in the other. The chances of it happening are notoriously higher when you just started using it. We are talking of passcodes on iPhones. Apple requires setting up a 6-digit passcode to use some features such as Face ID on your Apple iPhone 11. So, you thought it was a great idea to set up your new Apple iPhone 11 with a new passcode, right? The only problem is that the 6 digits you thought are bulletproof and no one will be able to come up with them in relation to you, are not coming to you either. You forgot the newly set passcode, entered the incorrect passcode more times than the software was happy about, and the Apple iPhone 11 is locked now. What to do? Read on.
@@ -122,8 +129,6 @@ There can be a few reasons why your Apple iPhone 11 is locked, the primary ones 
 We understand how frustrating it can be when your newly purchased Apple iPhone 11 does not unlock because of a passcode entry issue, and all you want to do is get the screen unlocked. At Wondershare, we strive to create meaningful differences in the lives of the people that use our software and keeping that in mind, we have a solution for you to unlock your Apple iPhone 11 passcode screen using Dr.Fone - Screen Unlock (iOS).
 
 ### II.I Using Dr.Fone - Screen Unlock (iOS) to Unlock the Locked Apple iPhone 11
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -144,14 +149,15 @@ Step 2: Connect your locked Apple iPhone 11 to the computer.
 
 Step 3: Launch Dr.Fone and select the Screen Unlock module.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Apple iPhone 11 unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
 Step 4: Select Unlock iOS Screen.
 
 ![enter recovery mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 5: Follow the on-screen instructions to boot the Apple iPhone 11 in Recovery Mode. If for some reason you are unable to boot into Recovery Mode, there are instructions at the bottom to enter DFU mode.
 
@@ -187,9 +193,6 @@ Step 1: Connect your Apple iPhone 11 to the computer and open iTunes. If you are
 
 Step 2: Press the volume up button and let go. Press the volume down button and let go. Press the side button (power button) and keep holding it till Finder or iTunes detects the phone in Recovery Mode.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![press volume botton](https://images.wondershare.com/drfone/article/2021/09/unlock-iphone-13-7.jpg)
 
 Step 3: Select Restore to download and reinstall the latest iOS on your Apple iPhone 11 and unlock Apple iPhone 11.
@@ -234,6 +237,10 @@ A locked Apple iPhone 11 is never a pretty sight. Fortunately, there are a coupl
 
 ## Apple iPhone 11 Backup Password Never Set But Still Asking? Here's the Fix
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Why Do iTunes Ask Me for iPhone Backup Password?
 
 When you use iTunes to create a backup, the backup will probably have a password that iTunes automatically create. This is for privacy reasons. Hence, it might ask for an iTunes backup password never set by you!
@@ -246,6 +253,10 @@ Unfortunately, this capability may also become problematic if you inadvertently 
 
 But the good news is you have some possible fixes. So, let's talk about them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: 4 Possible Ways to Fix Asking for iPhone Backup Password
 
 Many iPhone users have problems with iTunes when they back up their devices.
@@ -254,9 +265,6 @@ One of the most common issues is that people are asked for their iPhone backup p
 
 There are a few possible ways to fix this problem. Try resetting your password or using a different computer to back up your device. You could also try using a third-party software tool like Dr.Fone - Screen Unlock.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Try all passwords you use on iPhone
 
 When iTunes prompts you for an iPhone backup password never set, what should your initial course of action be?
@@ -266,6 +274,10 @@ To get out of this predicament in the simplest way possible, try entering every 
 A significant possibility is that you encrypted the iTunes backup with the same password from the iCloud account.
 
 Therefore, before doing anything further, try all passwords to configure your iTunes account. For example, try entering 0000, 123456, name123, or 1111.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Find the password from Keychain on macOS
 
@@ -279,6 +291,10 @@ The likelihood of success with this approach is relatively low. However, it is s
 
 ![keychain](https://images.wondershare.com/drfone/article/2022/12/iphone-backup-password-never-set-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. "Reset All Settings"
 
 Resetting the password is another option at your disposal if you encounter the Apple iPhone 11 backup password never set problem. How you do this will be different depending on the version of iOS that you have installed.
@@ -289,10 +305,11 @@ Here are what you can do with your iOS smartphone if it has iOS 11 or a later ve
 
 **Step 2:** After locating the **General** menu, go to the **Reset** menu and then hit the **Reset All Settings** button. Please confirm your action by providing the password for your Apple iPhone 11.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![reset all settings](https://images.wondershare.com/drfone/article/2022/12/iphone-backup-password-never-set-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Once the reset has been completed, your previous password will be deleted.
 
@@ -344,13 +361,15 @@ Please read the following three notes carefully before clicking the **"Remove No
 
 ![removed](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The Bottom Line
 
 There are four ways to fix the problem if iTunes keeps asking for your Apple iPhone 11 backup password. The first method is to try all the passwords you use on your Apple iPhone 11. You can try finding the password from Keychain on macOS if this does not work. Another option is to "Reset All Settings" on your Apple iPhone 11.
 
 Lastly, Dr.Fone-Screen Unlock is a program that can help you bypass the passcode and get into your backups. So, what are you waiting for? It's time to avoid the problem of iTunes backup password never set.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -364,9 +383,20 @@ Lastly, Dr.Fone-Screen Unlock is a program that can help you bypass the passcode
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-boosting-engagement-and-followers-with-smart-tiktok-hash-usage/"><u>[New] Boosting Engagement & Followers with Smart TikTok Hash Usage</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-driving-engagement-the-art-of-building-a-buzz-for-2024/"><u>[New] Driving Engagement The Art of Building a Buzz for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-erase-apple-iphone-se-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>3 Ways to Erase Apple iPhone SE When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Vivo Y78+ | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-14-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone 14 to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-from-apple-iphone-8-plus-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock From Apple iPhone 8 Plus? How to Fix it?</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-vivo-s17e-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Vivo S17e Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-pro-max-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 11 Pro Max Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-tecno-spark-10-pro-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Tecno Spark 10 Pro with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-apple-iphone-6s-plus-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 6s Plus Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/initial-steps-towards-perfect-transitional-sound-levels/"><u>Initial Steps Towards Perfect Transitional Sound Levels</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/launching-an-engaging-fb-giving-event-for-2024/"><u>Launching an Engaging FB Giving Event for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/windows-11-compatibility-easy-steps-to-connect-your-printer-today/"><u>Windows 11 Compatibility: Easy Steps to Connect Your Printer Today!</u></a></li>
+</ul></div>
 

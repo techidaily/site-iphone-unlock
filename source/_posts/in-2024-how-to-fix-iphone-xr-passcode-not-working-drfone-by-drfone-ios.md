@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Fix iPhone XR Passcode not Working? | Dr.fone
-date: 2024-12-26T13:01:41.433Z
-updated: 2024-12-26T21:15:53.766Z
+date: 2025-01-27T01:02:06.692Z
+updated: 2025-02-01T04:43:48.005Z
 tags: 
   - unlock
   - remove screen lock
@@ -55,21 +55,25 @@ The first step is to connect your Apple iPhone XR to your computer via cable and
 
 ![download and open dr.fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Screen Unlock Tool**
 
 Select the "Screen Unlock" tool from the given tools on the home interface. Another interface will be displayed on the screen in which you've to select "Unlock iOS Screen."
 
 ![select unlock apple id option](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: DFU Mode**
 
 Before directly unlocking the Apple iPhone XR lock screen, you've to set it up in either Recovery mode or DFU mode. Mostly ‘Recovery Mode’ is recommended as it removes the passcode by default. However, if your device fails to activate it, you can opt for DFU mode.
 
 ![set your iphone in dfu mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 4: Download Firmware**
 
@@ -107,15 +111,15 @@ Once your device is synced with iTunes, a "Set Up" window will pop up on the scr
 
 ![restore iphone with itunes](https://images.wondershare.com/drfone/article/2021/06/iphone-passcode-not-working-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 5: Reset Passcode**
 
 Select your device and the appropriate backup for your device in iTunes. Once the process is completed, you can reset the passcode of your Apple iPhone XR in the settings.
 
 ![restore backup in itunes](https://images.wondershare.com/drfone/article/2021/06/iphone-passcode-not-working-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3.2 Apple iCloud Feature
 
@@ -138,10 +142,6 @@ Click on "Find My iPhone" and select "All devices," and a list of devices will c
 Now click on the option of “Erase iPhone” to erase all your data and even your passcode. You have the autonomy to set up your Apple iPhone XR from a previous backup or set it up as a new device.
 
 ![erase iphone from icloud](https://images.wondershare.com/drfone/article/2021/06/iphone-passcode-not-working-4.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3.3 Using iPhone Recovery Mode
 
@@ -170,10 +170,6 @@ When you’re given the option of Restore or Update, choose ‘Restore.' iTunes 
 **Step 4: Set Up your Apple iPhone XR**
 
 Once the process has reached completion, set up your Apple iPhone XR, if this process takes more than 15 minutes, it will leave the Recovery Mode automatically and repeat the steps again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -256,15 +252,15 @@ If you're in China mainland or India, and you're using iOS 11 or later, you can 
 
 ![click edit on iphone](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-on-ipad-06.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 4:** Go to the **Delete** icon next to your mobile number and follow the directions given.
 - **Step 5:** Enter the code sent to the mobile number you added as your new Apple ID to verify it.
 - **Step 6:** Log into all Apple services using your new Apple ID.
 
 Even if you can't **change your Apple ID on your iPad** to a mobile phone number, you can still associate it with a phone number on your account page. It means you can [<u>use a different email address or mobile phone number to log in to your Apple ID</u>](https://drfone.wondershare.com/apple-account/how-to-remove-phone-number-from-apple-id.html). See the next sections for more information on the workarounds you can try.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: What To Do if You Cannot Change Your Apple ID on iPad?
 
@@ -287,10 +283,6 @@ If your current Apple ID is an email address, you won't be able to change it to 
 If you've addressed these issues and still can't change your Apple ID, don't worry. Apple customer support is available to assist you with account-related challenges. Contact them for guidance and solutions tailored to your situation.
 
 However, if you can't **change your Apple ID on your iPad** because you forgot or don't have access to the password, you can use a third-party tool such as Dr.Fone. This tool is easy to use and can help you unlock your iPad and remove the Apple ID in a few clicks.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: Using <u>Wondershare Dr.Fone</u>
 
@@ -316,10 +308,6 @@ Dr.Fone can bypass the Find My/Find My iPhone feature to remove your Apple ID fr
 
 ![dr.fone unlocks connected device](https://images.wondershare.com/drfone/guide/remove-apple-id-2.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 5:** Click **Yes** to confirm your device has a screen lock. Otherwise, it won't work.
 
 ![confirm screen unlock setup](https://images.wondershare.com/drfone/guide/remove-apple-id-3.png)
@@ -332,6 +320,10 @@ Dr.Fone can bypass the Find My/Find My iPhone feature to remove your Apple ID fr
 
 ![put device in recovery mode](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 8:** The next screen will demonstrate the **Device Model** information. Select an option from the **System Version** dropdown list and click **Start**.
 
 ![select the system version required](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
@@ -340,9 +332,17 @@ Dr.Fone can bypass the Find My/Find My iPhone feature to remove your Apple ID fr
 
 ![firmware download in progress](https://images.wondershare.com/drfone/guide/unlock-ios-screen-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 10:** Review the **Device Model** and **System Version**, then click **Unlock Now** to proceed.
 
 ![dr.fone firmware downloaded](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 11:** From the **Warning** dialogue box, enter the code shown in the text field, then click **Unlock**.
 
@@ -399,7 +399,7 @@ If you aren’t using this iPhone notification lock screen feature, then you are
 ![iphone lock screen with notifications-reply to messages from notification](https://images.wondershare.com/drfone/article/2017/09/15063937846890.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Interact with apps without unlocking your phone**
@@ -412,19 +412,11 @@ Though, if you want to know more, then just long press the notification. For ins
 
 ![iphone lock screen with notifications-long press app notification](https://images.wondershare.com/drfone/article/2017/09/15063938297428.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Search for anything**
 
 Besides interacting with widgets and apps, you can also search for something on your device and that too without unlocking it. Simply tap on the search bar to make it work.
 
 ![iphone lock screen with notifications-earch for anything](https://images.wondershare.com/drfone/article/2017/09/15063938584150.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to turn off notifications on iPhone lock screen?
 
@@ -460,9 +452,17 @@ The notification view can be used to see previous notifications on the Apple iPh
 
 ![iphone lock screen with notifications-turn off notification view](https://images.wondershare.com/drfone/article/2017/09/15063940151031.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4\. From here, make sure that the option of “Notification View” is turned off.
 
 After turning the option off, you can exit from the Settings interface. In this way, your device won’t display the notification view.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Changes on iPhone lock screen notifications on iOS 18
 
@@ -502,18 +502,22 @@ We hope that after following this guide, you would be able to gain in-depth info
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-cashing-in-on-creativity-the-vimeo-income-playbook/"><u>[New] In 2024, Cashing in on Creativity The Vimeo Income Playbook</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-mastering-multimedia-slides-with-speech-recordings-powerpoint/"><u>[New] Mastering Multimedia Slides with Speech Recordings (PowerPoint)</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-harnessing-hdr-in-post-top-4-youtube-guides-with-complimentary-green-screen-effects-for-2024/"><u>[Updated] Harnessing HDR in Post Top 4 YouTube Guides with Complimentary Green Screen Effects for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-intellectual-property-guidelines-for-instahits-for-2024/"><u>[Updated] Intellectual Property Guidelines for InstaHits for 2024</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-ultimate-speaker-change-tech-for-internet-showbiz-pros-for-2024/"><u>[Updated] Ultimate Speaker Change Tech for Internet Showbiz Pros for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-for-free-how-to-convert-twitter-videos-to-gifs/"><u>2024 Approved For Free! How to Convert Twitter Videos to GIFS?</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/1723015698223-cant-get-your-blue-yeti-to-work-here-are-some-quick-fixes/"><u>Can't Get Your Blue Yeti to Work? Here Are Some Quick Fixes!</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/empower-your-iphone-with-chatgpt-and-siri-duo/"><u>Empower Your iPhone With ChatGPT & Siri Duo</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-14-pro-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone 14 Pro? Learn All 4 Methods | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-pro-max-apples-new-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 Pro Max, Apples New iPhone | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-is-your-apple-iphone-se-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Is Your Apple iPhone SE in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/knack-game-analysis-breaking-down-the-uniqueness-of-its-leading-character-in-an-all-too-familiar-genre/"><u>Knack Game Analysis: Breaking Down the Uniqueness of Its Leading Character in an All-Too-Familiar Genre</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-14-plus-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone 14 Plus Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-unlocking-video-potential-youtube-to-igtv/"><u>[Updated] 2024 Approved Unlocking Video Potential YouTube to IGTV</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-exploring-youtubes-ownership-vs-cc-freedom-for-2024/"><u>[Updated] Exploring YouTube's Ownership Vs. CC Freedom for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-pro-level-8-screen-snip-contenders/"><u>[Updated] In 2024, Pro-Level 8 Screen Snip Contenders</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-setting-up-a-digital-stage-for-real-time-viewers-for-2024/"><u>[Updated] Setting Up a Digital Stage for Real-Time Viewers for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-11-pro-and-ipad-securely-drfone-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone 11 Pro and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-apple-iphone-7-plus-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve Apple iPhone 7 Plus Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/discover-how-to-handle-water-detected-at-lightning-connector-on-iphones-a-guide-with-two-effective-approaches/"><u>Discover How to Handle 'Water Detected at Lightning Connector' On iPhones: A Guide with Two Effective Approaches</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-guide-to-installing-amd-radeon-hd-7700-graphics-card-driver-updates/"><u>Easy Guide to Installing AMD Radeon HD 7700 Graphics Card Driver Updates</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/elan-smbus-driver-the-ultimate-download-and-update-solution-for-your-windows-device/"><u>ELAN SMBus Driver - The Ultimate Download & Update Solution for Your Windows Device!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-8-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone 8 when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-passcode-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 6s Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-se-2020-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone SE (2020) to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-apple-iphone-13-pro-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>In 2024, How to Bypass Apple iPhone 13 Pro Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-apple-iphone-6-properly-drfone-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your Apple iPhone 6 Properly | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-your-disabled-apple-iphone-8-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>In 2024, Unlock Your Disabled Apple iPhone 8 Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210500805-9781644115527-lecciones-de-los-12-arcangeles/"><u>Lecciones de los 12 Arcángeles | Free Book</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-the-maze-of-music-rights-on-instagram-for-2024/"><u>Navigating the Maze of Music Rights on Instagram for 2024</u></a></li>
 </ul></div>
 

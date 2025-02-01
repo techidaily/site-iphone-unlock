@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Apple iPhone 11 With an Apple Watch & What to Do if It Doesnt Work | Dr.fone
-date: 2024-07-15T06:03:01.762Z
-updated: 2024-07-16T06:03:01.762Z
+date: 2025-01-29T02:05:08.603Z
+updated: 2025-01-31T20:58:44.107Z
 tags: 
   - unlock
   - remove screen lock
@@ -28,7 +28,6 @@ Moreover, you might be able to **use the Apple Watch to unlock your Apple iPhone
 
 Now, you cannot just **unlock any Apple iPhone 11 with your Watch**. The devices must be paired, and you’ll need to follow a few steps to enable this option. Here’s how to unlock your phone using your Apple Watch like a pro.
 
-
 ## Part 1. Can I Use an Apple Watch To Unlock My Apple iPhone 11?
 
 ![phone, earphones, and apple watch on a table](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-2.jpg)
@@ -42,6 +41,10 @@ The problem is that neither face ID nor traditional passcodes aren’t always th
 What could work is your Apple Watch.
 
 Depending on the Apple Watch version you own and your Apple iPhone 11 model, you could use your watch to unlock your phone in any circumstances. It’s easy, secure, and convenient, above all else.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. Requirements for Unlocking Apple iPhone 11 With Apple Watch
 
@@ -76,6 +79,10 @@ If you meet all the aforementioned criteria, setting up the feature to unlock yo
 
 ![iphone face id and passcode settings](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Type in your passcode;
 - **Step 3:** Find and enable **Unlock with Apple Watch**.
 
@@ -100,6 +107,10 @@ Your Apple Watch will send an alert when you’ve used it to unlock your Apple i
 
 However, remember that the next time you want to use your Apple Watch to unlock your Apple iPhone 11, you’ll first need to type in your passcode.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4. What To Do if You Can’t Unlock Your Apple iPhone 11 With a Watch
 
 ![person wearing face mask unlocking their Apple iPhone 11](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-7.jpg)
@@ -120,9 +131,6 @@ Make sure that you have:
 
 If all the settings are correct, try one of the following options.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2. Restart Your WiFi/Bluetooth Connection
 
 Your Apple iPhone 11 and your Apple Watch need to have both WiFi and Bluetooth turned on. If they’re turned on on both devices, try turning them off and back on again to restart the connection.
@@ -130,6 +138,10 @@ Your Apple iPhone 11 and your Apple Watch need to have both WiFi and Bluetooth t
 Remember, you only need WiFi and Bluetooth on but don’t need to be connected to a WiFi network.
 
 If the problem persists, you could also restart your devices and try again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3. Reset Your Face ID
 
@@ -143,9 +155,6 @@ When you tap on this, you’ll need to go through the process of setting your Fa
 
 Move your face to complete the circle, then tap on **Continue**. Repeat the face scan process the second time and select **Done**.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4. Do a System Repair on Your Apple iPhone 11
 
 If your Apple Watch unlock is still misbehaving, you might need to do a full system repair. As a general rule of thumb, it’s best to use verified apps like Dr.Fone to prevent the problem from getting worse.
@@ -176,6 +185,10 @@ To perform a standard system repair with Dr.Fone, follow the next few steps:
 
 If it was a system mistake preventing you from unlocking your Apple iPhone 11 with your Apple Watch, the option should be functioning well after the Dr.Fone iOS repair.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5. Reset Network Settings
 
 If the problem wasn’t due to a system glitch, you should try resetting your Apple iPhone 11’s network settings. The process is simple, just:
@@ -197,19 +210,15 @@ It’s all quite simple:
 
 To perform a hard reset, simultaneously press and hold the power button and digital crown.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Using your Apple Watch to unlock your Apple iPhone 11 is convenient when you cannot use the Face ID feature. It allows you to seamlessly unlock your phone when wearing sunglasses, goggles, face masks, or other face coverings that prevent the Face ID from working.
 
 Enabling this option is a straightforward process, and if there’s ever a glitch, there are several options you could try to repair it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Remove Device Supervision From your Apple iPhone 11
 
@@ -280,7 +289,6 @@ First, launch Wondershare Dr.Fone on the computer and connect it to your Apple i
 
 ![access toolbox to select screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-
 - **Step 2: Select iOS and Head To Unlock MDM**
 
 After that, choose “iOS” as the Apple iPhone 11 device type to open the related tool. Once the tool starts working, select the "Unlock MDM iPhone" option from the list.
@@ -307,9 +315,17 @@ Looking for other conventional methods about **how to remove supervision from iP
 
 ![navigate to vpn and device management](https://images.wondershare.com/drfone/article/2024/02/how-to-remove-device-supervision-from-ios-devices-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** Select the MDM profile you want to remove and tap on “Remove Management” to delete that profile from your iDevice. Then, you will be prompted to enter your login info or password and type your information to bypass supervision access.
 
 ![remove mdm management from ios device](https://images.wondershare.com/drfone/article/2024/02/how-to-remove-device-supervision-from-ios-devices-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4. Using Apple Configurator 2 for Removing iPhone Supervision System
 
@@ -370,9 +386,6 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 **Step** **3:** Now, it's time to scan your face with your Apple iPhone 11 to initiate the setup. Again, you don't have to wear a mask at this stage, as the Apple iPhone 11 device's main focus while scanning would be the eyes. Also, if you wear glasses, you can proceed without taking them off.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
 
 **Step 4:** After scanning your face twice, select "Add Glasses" by tapping on it. You can use your Face ID while wearing your regular glasses. Make sure that you scan your face with every pair of glasses daily.
@@ -404,13 +417,12 @@ To enable the feature of unlocking the Apple iPhone 11 with an Apple Watch, the 
 After enabling this feature, you can unlock your Apple iPhone 11 with a mask on through your Apple Watch. You need to grab your phone and hold it the same way you would in a normal Face ID scan. The phone will be unlocked, and you will feel a slight vibration on the wrist. Also, a notification will pop up on your watch, indicating that your Apple iPhone 11 has been unlocked.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Bonus Tips: Unlock iPhone Without Any Experience
 
 Are you stuck with your locked iPhone? Don't worry, as [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) can unlock any screen passcode, Face ID, Touch ID, and PINs. You don't need any technical experience to use this tool, as the user interface is pretty simple and understandable. Moreover, it works perfectly well on all iOS devices at the best possible speed.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -427,12 +439,13 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 
 You can also unlock Apple ID and iCloud passwords without losing the data. Also, while unlocking iPhone Screen Time Passcode through this platform, all of your data and information will be kept intact, and you can function your phone normally again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 We all can relate that unlocking an iPhone on Face ID while wearing a face mask in a pandemic era is annoying. That's why Apple introduced a new feature of unlocking the Apple iPhone 11 Face ID with a mask on to help individuals who rely entirely on Face ID. Find out about enabling this feature to easily unlock your Apple iPhone 11 Face ID while wearing a mask.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -446,9 +459,20 @@ We all can relate that unlocking an iPhone on Face ID while wearing a face mask 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-sync-audio-to-powerpoint-presentations-for-2024/"><u>[New] Sync Audio to PowerPoint Presentations for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-verifying-ad-revenue-on-yt-a-step-by-step-tutorial/"><u>2024 Approved Verifying Ad Revenue on YT A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-quick-guide-to-xiaomi-redmi-note-13-pro-5g-frp-bypass-instantly-by-drfone-android/"><u>A Quick Guide to Xiaomi Redmi Note 13 Pro 5G FRP Bypass Instantly</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210551537-9798985224825-chimera-conflict/"><u>Chimera Conflict | Free Book</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-13-pro-max-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-iphone-15-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your iPhone 15? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>How to Detect and Remove Spyware on Google Pixel 7a? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-essential-methods-for-device-capturing-applications/"><u>In 2024, Essential Methods for Device Capturing Applications</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-12-drfone-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 15 Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-12-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/simple-and-effective-video-compositor-for-quickly-blending-video-segments-together/"><u>Simple and Effective Video Compositor for Quickly Blending Video Segments Together</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-14-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock iPhone 14 Without Passcode Easily | Dr.fone</u></a></li>
+</ul></div>
 

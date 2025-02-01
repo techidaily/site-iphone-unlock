@@ -1,7 +1,7 @@
 ---
 title: Trouble with Apple iPhone X Swipe-Up? Try These 11 Solutions | Dr.fone
-date: 2025-01-18T17:49:25.902Z
-updated: 2025-01-24T16:51:19.876Z
+date: 2025-01-25T01:56:14.096Z
+updated: 2025-02-01T01:15:46.513Z
 tags: 
   - unlock
   - remove screen lock
@@ -20,13 +20,13 @@ thumbnail: https://thmb.techidaily.com/290af97afad1802ce323c8e9ce6f1c1f031089327
 
 The iPhone's swipe-up gesture serves as a fundamental navigation tool. It allows users to access various functions and features swiftly. Yet, when this functionality encounters issues, it can be perplexing and disruptive. That's why learning the reasons behind **I can’t swipe up on my iPhone** is essential. Summarized below are some of the common reasons behind frozen swipe-up issues:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Software Glitches
 
 Updates or software bugs can occasionally interfere with the swipe-up gesture. It leads to unresponsiveness or delays.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Touch Screen Calibration
 
@@ -142,10 +142,6 @@ Are you experiencing issues with accessing the Control Center via the swipe-up g
 
 ![enable access within apps option](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 7. Update to the Latest iOS Version
 
 Running an outdated iOS version can sometimes lead to various software issues. These include unresponsive gestures like the swipe-up function on your Apple iPhone X. Updating your device to the latest iOS version can often resolve such problems. Here's how to check for and update your Apple iPhone X to the latest iOS version:
@@ -169,10 +165,6 @@ VoiceOver is an accessibility feature on iPhones. It assists users with visual i
 **Step 2.** On the following screen, toggle off the "VoiceOver" switch if it is enabled. Afterward, check if the swipe-up gesture issue is resolved.
 
 ![turn off voice over option](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 9. Customize Touch Accommodations
 
@@ -210,6 +202,10 @@ Resetting all settings on your Apple iPhone X can help resolve software-related 
 
 ![choose to reset all settings](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-17.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Unlock iPhone Without Swiping Up
 
 Encountering **swipe not working on iPhone** can sometimes lead to difficulties. This is especially the case in unlocking the Apple iPhone X device or accessing essential functions. In such scenarios, using [Wondershare Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) provides a reliable solution. It bypasses the swipe-up need and regains access to your Apple iPhone X without relying on the problematic gesture. This tool offers a solution to unlock iPhone/iPad devices without the passcode.
@@ -222,10 +218,6 @@ Unlock iPhone/iPad Lock Screen Without Swiping Up.
 - Unlock screen passwords from all iPhones and iPads.
 - No tech knowledge is required, everybody can handle it.
 - Supports iPhone 15 / iPhone 14 / iPhone 13 / 12, iPhone 11, ... and the latest iOS version fully!![New icon](https://images.wondershare.com/drfone/others/new_23.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **4,395,216** people have downloaded it
 
@@ -273,10 +265,6 @@ Yet, worry not, for reliable methods exist to address this problem efficiently. 
 
 ![fix iphone unavailable](https://images.wondershare.com/drfone/article/2024/01/how-to-fix-iphone-unavailable-issue-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1. iPhone is Unavailable: Explaining the Basics
 
 The "iPhone Unavailable" issue is a distressing fix encountered by users. It occurs when their **iPhone becomes unavailable with a black screen** and inaccessible due to many incorrect passcode attempts. This problem arises as a security measure implemented by Apple. Its primary aim is to protect the data on the Apple iPhone X device and deter unauthorized access.
@@ -290,10 +278,6 @@ This acts as a shield against potential intruders trying to gain access by guess
 When faced with the "iPhone Unavailable" issue, the most common cause is forgetfulness. The other major cause is the accidental incorrect entries of the Apple iPhone X device's passcode. This predicament leaves users locked out of their iPhones and functionalities. [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) emerges as a leading solution to tackle this frustrating problem.
 
 It is designed to address various iOS-related issues, including unlocking disabled iPhones. Dr.Fone offers a user-friendly approach to regaining access to your device. The tool offers a smooth process that bypasses the locked screen, allowing users to regain entry into their iPhones. It can remove all screen locks like passcode, password, Touch ID, and Face ID.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Key Highlights of Wondershare Dr.Fone
 
@@ -351,6 +335,10 @@ One potential solution to resolve the Apple iPhone X Unavailable issue is the �
 
 ![erase start process via apple id](https://images.wondershare.com/drfone/article/2024/01/how-to-fix-iphone-unavailable-issue-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 5. How To Unlock iPhone Unavailable Using Other Device
 
 If another device uses the same Apple ID as your locked device, you can use it to unlock it. You can remotely erase the locked device using the Find My app on this trusted device. It's important to note that this action necessitates your Apple ID credentials.
@@ -385,7 +373,7 @@ Consider utilizing iTunes as a solution for the "iPhone Unavailable" issue. It i
 ![restore iphone via itunes](https://images.wondershare.com/drfone/article/2024/01/how-to-fix-iphone-unavailable-issue-13.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -447,6 +435,10 @@ When you exceed ten unsuccessful passcode entries, the Apple iPhone X device tak
 
 To turn this mode on or off, follow these steps:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### How To Enable Erase Data Mode
 
 Safeguard your personal information with these simple steps to remotely wipe your device in case of loss or theft.
@@ -463,6 +455,10 @@ Here are the steps to disable Erase Data Mode on your Apple iPhone X, ensuring c
 
 - **Step 1**: Follow the same steps to access the **Erase Data** toggle. Next, disable the toggle to turn off this feature.
 - **Step 2**: Confirm your choice, ensuring the "self-destruct" mode is deactivated to prevent accidental data loss.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. Top 5 Methods To Unlock an iPhone After Too Many Attempts
 
@@ -487,21 +483,21 @@ After **many failed passcode attempts on your Apple iPhone X**,Dr.Fone can help 
 
 ![dr.fone unlock ios screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 2:** Follow the on-screen instructions. Dr.Fone will automatically detect your Apple iPhone X model. If necessary, choose the **System Version** according to your preference. Next, click **Start** to start the iOS firmware download.
 
 ![ios system version download](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - **Step 3:** Wait for the iOS firmware to download successfully. Click on **Unlock** **Now** to initiate the unlocking process. Follow the on-screen instructions again and wait for Dr.Fone to unlock your device. If unsuccessful, click on the **Try** **again** option.
 
 ![successful firmware download](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Using iTunes To Unlock a Locked or Disabled iPhone
 
@@ -510,6 +506,10 @@ An alternative method to unlock your Apple iPhone X when locked or disabled invo
 - **Step 1**: Launch iTunes on your computer. Connect your locked iPhone using a cable and let iTunes identify the Apple iPhone X device. Next, navigate to the **Summary** section and select the **Restore iPhone** option.
 
 ![itunes main window](https://images.wondershare.com/drfone/article/2024/01/attempts-to-unlock-iphone-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** Allow iTunes to identify your device. Start the restoration of previous data by selecting **Restore Backup**. Your Apple iPhone X will be unlocked with all the associated data if you have backed up your information on iTunes. Otherwise, you will need to set it up as a new iPhone.
 
@@ -524,10 +524,6 @@ Activating Recovery mode is another useful method for accessing a locked phone. 
 
 - **Step 3:** iTunes will prompt you to either restore or update your Apple iPhone X. Choose the **Restore iPhone** option to reset your device to its factory settings. If the restoration process extends beyond 15 minutes and your Apple iPhone X exits recovery mode, you'll need to repeat the steps.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 4: Using iCloud To Unlock a Lock or Disabled iPhone
 
 After **many failed passcode attempts on your Apple iPhone X**，it got disabled, but iCloud offers a convenient solution. Your phone must have the Find My iPhone option enabled for the method to work. You should be aware of the Apple ID password associated with your iCloud account. Once these prerequisites are fulfilled, access the iCloud account from another device. Here's how.
@@ -541,6 +537,10 @@ After **many failed passcode attempts on your Apple iPhone X**，it got disabled
 ### Method 5: Contact Apple Support or Visit an Apple Store
 
 If all methods fail or you don't have access to Dr.Fone, consider contacting Apple Support. You can also try visiting an Apple Store. Apple experts will guide you through the appropriate steps based on your unique situation.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -564,17 +564,17 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-2024-approved-advanced-guide-to-online-image-sharpening/"><u>[New] 2024 Approved Advanced Guide to Online Image Sharpening</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/n-2024-the-methodical-path-to-discovering-hidden-youtube-footage/"><u>[New] In 2024, The Methodical Path to Discovering Hidden YouTube Footage</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-vintage-virtual-battles-our-best-of-classic-adventure-titles/"><u>[Updated] Vintage Virtual Battles Our Best of Classic Adventure Titles</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/did-your-apple-iphone-12-mini-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your Apple iPhone 12 mini Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/forgot-iphone-passcode-again-unlock-iphone-11-pro-max-without-passcode-now-drfone-by-drfone-ios/"><u>Forgot iPhone Passcode Again? Unlock iPhone 11 Pro Max Without Passcode Now | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/gratis-online-avi-naar-webm-converteertool-behalve-movavi/"><u>Gratis Online AVI Naar WEBM Converteertool - Behalve Movavi</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/historical-insights-at-your-fingertips-top-10-for-students/"><u>Historical Insights at Your Fingertips – Top 10 for Students</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-your-iphone-xr-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>How to Unlock Your iPhone XR Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-depth-analysis-cutzone-pro-review-unveiled-for-2024/"><u>In-Depth Analysis CutZone Pro Review Unveiled for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/passfab-iphone-7-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab iPhone 7 Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/remove-device-supervision-from-your-apple-iphone-6-plus-drfone-by-drfone-ios/"><u>Remove Device Supervision From your Apple iPhone 6 Plus | Dr.fone</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/sharing-the-top-remorse-moment-of-upgrading-to-ios-18-a-common-dilemma-discussed-on-zdnet/"><u>Sharing the Top Remorse Moment of Upgrading to iOS 18 – A Common Dilemma Discussed on ZDNet</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/sionary-beauticians-poised-success-for-2024/"><u>10 Visionary Beauticians Poised Success for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/2024-approved-youtube-mastery-in-marketing-the-top-5-must-knows-for-brands/"><u>2024 Approved YouTube Mastery in Marketing The Top 5 Must-Knows for Brands</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-apple-iphone-8-plus-drfone-by-drfone-ios/"><u>How To Change Your Apple ID Password On your Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-14-plus-drfone-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-iphone-xripad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled iPhone XR/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ideal-photo-and-video-shows-on-latest-iphone-models-xr-ios12/"><u>Ideal Photo & Video Shows on Latest iPhone Models (XR-iOS12)</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-11-pro-max-and-ipad-securely-drfone-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 11 Pro Max and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-x-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone X</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-pro-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Pro With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-revolutionize-your-video-editing-the-top-free-adobe-premiere-plugins/"><u>New 2024 Approved Revolutionize Your Video Editing The Top Free Adobe Premiere Plugins</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/top-reasons-why-zerogpt-and-similar-ai-detectors-may-not-be-reliable-case-studies/"><u>Top Reasons Why ZeroGPT & Similar AI Detectors May Not Be Reliable: Case Studies</u></a></li>
 </ul></div>
 

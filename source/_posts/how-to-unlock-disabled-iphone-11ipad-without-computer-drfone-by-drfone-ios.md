@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Disabled iPhone 11/iPad Without Computer | Dr.fone
-date: 2024-07-15T06:01:35.649Z
-updated: 2024-07-16T06:01:35.649Z
+date: 2025-01-31T02:56:41.956Z
+updated: 2025-02-01T01:08:49.914Z
 tags: 
   - unlock
   - remove screen lock
@@ -36,10 +36,11 @@ Though, before you proceed, you need to know the limitations of this method. Sin
 
 **Step 3.** From here, you can search for a city. Just type anything you want and tap again to get various options. Choose the “Select all” button to get more options.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![select all](https://images.wondershare.com/drfone/article/2017/07/14994464192933.jpg "select all")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4.** Select the feature of “Share.”
 
@@ -89,9 +90,6 @@ After implementing this solution, your iOS device will reset, and your data woul
 
 **Step 3.** Select the feature of the Erase device and confirm your choice. Wait for a while as your Apple iPhone 11 or iPad would be restored remotely.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![erase Apple iPhone 11](https://images.wondershare.com/drfone/article/2017/07/14994466099482.jpg "erase Apple iPhone 11")
 
 By following this method, you can learn how to unlock the iPad passcode without a computer remotely.
@@ -123,9 +121,6 @@ Select device information on Dr.Fone
 
 **Step 4.** Start to Unlock. The phone will be unlocked after that.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![download Apple iPhone 11 firmware](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
 ## Part 4: Tips to protect your Apple iPhone 11 from being unlocked by thieves
@@ -224,6 +219,10 @@ You can also get rid of the password for the last backup without deleting any ot
 
 ![reset all settings](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Use a USB cable to link your Apple iPhone 11 to your PC. Look at the small iOS icon in the figure below. Just click on it.
 
 ![backup](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-5.jpg)
@@ -250,9 +249,6 @@ Navigate to the **Apps & Data menu** and choose the **Restore from iCloud Backup
 
 After successfully signing in with your Apple ID, choose **Backup**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![restore from icloud](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-7.jpg)
 
 During the time that the system is being restored, it is essential that the Wi-Fi connection remains active.
@@ -264,6 +260,10 @@ With Dr.Fone - Screen Unlock, it's easy to follow all the steps to get rid of th
 **Step 1:** After installing Dr.Fone, open it and look for the red **Screen Unlock** button.
 
 ![drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** In the Screen Unlock interface, tap **Remove iTunes BackUp Encryption** in the bottom right corner to move forward.
 
@@ -279,6 +279,10 @@ Before you click **Remove Now**, please carefully read the following three notes
 
 ![connected](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** Dr.Fone can check your iTunes backup and delete it by itself. This encryption will be erased when the progress bar reaches 100%. This will take a short time to do.
 
 ![checking](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-4.png)
@@ -287,6 +291,9 @@ Before you click **Remove Now**, please carefully read the following three notes
 
 ![removed](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: 3 Tricks to Help You Remember the Passwords
 
@@ -310,17 +317,16 @@ If you're finding a simple way to keep all your passwords, try using the Notes a
 
 You can even add a description of the password, so you remember which account it's for.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The Bottom Line
 
 As a last piece of advice, please safely save your newly created passwords. Rather than writing them down in the iPhone's notepad, you should save the passwords in a secure location.
 
 However, no matter how secure your gadget is, password leakage may happen, sending you to unpleasant situations that you can't even conceive. It's best to use Dr.Fone - Screen Unlock as soon as you encounter any problem!
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Guide on How To Change Your Apple ID Email Address On Apple iPhone 11
 
 Your Apple ID email is the key to your digital world with Apple devices. It's the address Apple recognizes you by, allowing you to access your apps, music, and more. But sometimes, life brings changes, and your Apple ID email may need an update.
@@ -334,6 +340,10 @@ This guide will take you through the simple process of **changing your Apple ID 
 Your Apple ID email helps you access your apps, music, and more. But sometimes, you might need to change it for simple reasons. Let's look at why you might want to change your Apple ID email in easy-to-understand terms.
 
 ![why change your apple id email](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-email-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Your email address is part of your identity. Changing it to something that better suits you can make your Apple experience more personal.
 - If you think someone else knows your old email password, changing it can keep your Apple account safer. A fresh email means a new layer of security.
@@ -401,6 +411,10 @@ If you prefer the simplicity of a web browser:
 
 ![change apple id on browser 2](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-email-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Click **Edit** next to your email address in the **Account** section.
 - **Step 4:** Input your new email address and click **Continue**.
 - **Step 5:** A verification code will be sent to your new email. Enter it to confirm your email change.
@@ -424,7 +438,6 @@ What if you find yourself in a situation where you want to change your Apple ID 
 
 ![drfone v13 toolbox](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-
 ### Key Features of Dr.Fone - Screen Unlock (iOS)
 
 Check out the key features that Dr.Fone has to offer:
@@ -445,6 +458,10 @@ Outlined below is the step-by-step guide on how to use Dr.Fone – Screen Unlock
 
 ![drfone unlock ios screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Following that, place your iDevice in **Recovery Mode**. Follow the on-screen instructions to set your iDevice into mode based on your phone model.
 
 **Note:** If **Recovery Mode** does not work, try hitting the **Try DFU Mode** button at the bottom to access the instructions for [<u>putting the iDevice in DFU mode</u>](https://drfone.wondershare.com/dfu-mode/tools-for-iphone-to-enter-dfu-mode.html).
@@ -463,6 +480,10 @@ Outlined below is the step-by-step guide on how to use Dr.Fone – Screen Unlock
 
 ![drfone unlock screen ios unlock now](https://images.wondershare.com/drfone/guide/unlock-ios-screen-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 7:** You'll see the unlocking status of your iOS device on the following screen. Don't forget that keeping the gadget plugged in is necessary to avoid bricking it.
 - **Step 8:** Click the **Done** button once the iDevice has been unlocked. If you're still stuck with a locked iPhone, iPad, or iPod, select **Try Again** to retry the process.
 
@@ -478,13 +499,11 @@ By using Dr.Fone - Screen Unlock (iOS), you can regain access to your iOS device
 
 [<u>How to Fix Email Disappeared from iPhone?</u>](https://drfone.wondershare.com/iphone-problems/email-disappeared-from-iphone.html)
 
-
 ## Conclusion
 
 This guide easily explored the process of **changing your Apple ID email address**. It started by understanding why this change might be necessary and provided straightforward methods for Mac, mobile, and browser users to accomplish it seamlessly.
 
 But what if you're locked out of your iOS device? Don't fret; Dr.Fone - Screen Unlock (iOS) is a user-friendly tool that can help you regain access to your device. It ensures a smooth transition to your new email. Unlock new possibilities with Dr.Fone, a reliable companion in managing your iOS device. Explore its features and simplify your Apple journey today!
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -498,9 +517,24 @@ But what if you're locked out of your iOS device? Don't fret; Dr.Fone - Screen U
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-recorded-speech-retrieval-and-evaluation/"><u>[New] 2024 Approved Recorded Speech Retrieval & Evaluation</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-innovative-frame-tools-and-websites-image-editors/"><u>[New] In 2024, Innovative Frame Tools and Websites Image Editors</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-influencing-instagram-step-by-step-tutorial/"><u>[Updated] 2024 Approved Influencing Instagram Step-by-Step Tutorial</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-mastering-mobile-phones-diy-webcam-for-video-recording/"><u>[Updated] 2024 Approved Mastering Mobile Phones DIY Webcam for Video Recording</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-the-insiders-path-to-joining-others-tiktok-gigs/"><u>[Updated] The Insider's Path to Joining Others' TikTok Gigs</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-open-and-play-srt-on-different-platforms/"><u>2024 Approved Open and Play SRT on Different Platforms</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-tecno-spark-20c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-apple-iphone-12-drfone-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/audio-acquirers-almanac-save-and-scrutinize-songs-for-2024/"><u>Audio Acquirer's Almanac Save & Scrutinize Songs for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-iphone-14-pro-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve iPhone 14 Pro Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-xs-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone XS Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-14-pro-max-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 14 Pro Max to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-6s-plus-without-a-passcode-drfone-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 6s Plus Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-apple-iphone-15-pro-drfone-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-6-drfone-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-remove-device-supervision-from-your-apple-iphone-6-plus-drfone-by-drfone-ios/"><u>In 2024, Remove Device Supervision From your Apple iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/intense-dissection-unveiling-the-secrets-of-the-bublcam-camera-for-2024/"><u>Intense Dissection Unveiling the Secrets of the Bublcam Camera for 2024</u></a></li>
+</ul></div>
 

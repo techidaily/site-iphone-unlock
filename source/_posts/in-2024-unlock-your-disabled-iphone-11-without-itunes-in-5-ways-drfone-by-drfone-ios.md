@@ -1,7 +1,7 @@
 ---
 title: In 2024, Unlock Your Disabled iPhone 11 Without iTunes in 5 Ways | Dr.fone
-date: 2024-07-15T06:04:19.217Z
-updated: 2024-07-16T06:04:19.217Z
+date: 2025-01-30T01:39:58.254Z
+updated: 2025-01-31T22:06:04.850Z
 tags: 
   - unlock
   - remove screen lock
@@ -43,8 +43,6 @@ If you don’t want to cause any damage to your iOS firmware while resolving the
 
 Not just to get the Apple iPhone 11 disabled unlock without iTunes, it can also be used to resolve plenty of other issues like malware attacks, [iPhone stuck in the recovery loop](https://drfone.wondershare.com/recovery-mode/exit-iphone-recovery-mode-loop.html), the [blue screen of death](https://drfone.wondershare.com/iphone-problems/ways-to-fix-iphone-blue-screen-of-death.html), and more. Furthermore, it has an easy-to-use interface and yields reliable results, making it an essential iOS tool.
 
-
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Fix "iPhone is Disabled Connect to iTunes" Error In 5 Minutes
@@ -62,9 +60,6 @@ Fix "iPhone is Disabled Connect to iTunes" Error In 5 Minutes
 
 To unlock your Disabled Apple iPhone 11 or iPad without iTunes or iCloud, launch the Dr.Fone software on your computer. From the various tools available, select "Screen Unlock." Get your Apple iPhone 11 connected to the PC using a lightning cable, and then click on the "iOS" > "Unlock iOS Screen" option on the program.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 **Step 2: Boot Your iDevice in Recovery or DFU Mode**
@@ -78,6 +73,10 @@ Before bypassing the Apple iPhone 11 lock screen, you need to boot it into Recov
 After your device is in DFU mode, the software will display the Apple iPhone 11 device data, such as its Model and System Version. If the information displayed is not correct, you can put the correct information from the dropdown lists. Then click on "Download" to download the firmware for your device.
 
 ![confirm device data](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4: Unlock Your Screen Lock**
 
@@ -226,6 +225,10 @@ Additionally, it was originally speculated as a loophole in iOS. Therefore, you 
 
 ![iphone photo library](https://images.wondershare.com/drfone/article/2017/07/14993658527934.jpg "iphone photo library")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 11**. Instead of selecting a picture, just exit the interface by pressing the Home button. This will open the iPhone’s home screen.
 
 ![press home](https://images.wondershare.com/drfone/article/2017/07/14993658783034.jpg "press home")
@@ -261,6 +264,10 @@ Unlocking a disabled iPhone without iTunes is becoming a popular choice because 
 - [Can't Update/Restore iPhone Due to Error Code 1100](https://drfone.wondershare.com/iphone-problems/how-to-fix-itunes-unknown-error-1100.html)
 - [Can't Restore iPhone Because of iTunes Error 11](https://drfone.wondershare.com/iphone-problems/itunes-error-11.html)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Wrap it up
 
 After following these solutions, you can use your Apple iPhone 11 and surpass its passcode without any trouble. Now that you know **how to unlock a disabled iPhone without iTunes**, you can simply use your device as per your requirements. Go ahead and pick your preferred option to perform iPhone disabled fix without iTunes. Download [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) to resolve any unlocking issue related to your Apple iPhone 11 securely and reliably.
@@ -273,6 +280,10 @@ Firstly, one ought to realize that it is impossible to hack an iPhone passcode. 
 
 ## Part 1: Best Ways to Unlock iPhone without a Passcode or Face ID
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\. Unlock it via Find My
 
 - Go to the iCloud official site, and sign in to your iCloud account. The site will give you two or three choices when you log in. Click on "Find iPhone" to proceed.
@@ -280,6 +291,10 @@ Firstly, one ought to realize that it is impossible to hack an iPhone passcode. 
 - Click on "Erase iPhone", and afterwards affirm the decision. That's the simplest solution for **how to unlock iPhone without passcode or face ID.**
 
 ![erase using find my](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-without-face-id-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Via iTunes
 
@@ -333,6 +348,10 @@ If your gadget isn't running macOS Catalina or later, you'll need to involve iTu
 
 When you've effectively connected and chosen your Apple iPhone 11 on a Mac or a PC, tap on the Restore button. And that's **how to unlock iPhone without passcode or face ID.**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. DNS Server
 
 The following steps explain **how to unlock iPhone without face ID or passcode** using a DNS server:
@@ -343,9 +362,6 @@ The following steps explain **how to unlock iPhone without face ID or passcode**
 
 **Step 3.** Disconnect your current network, go to "Network/connection Settings", and click Forget.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dns bypass](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-without-face-id-4.jpg)
 
 **Step 4.** Click the "I" and enter a DNS server IP address to bypass the lock. IP addresses of different regions are given below:
@@ -365,7 +381,6 @@ The following steps explain **how to unlock iPhone without face ID or passcode**
 
 ### 4\. Dr.Fone-Screen Unlock
 
-
 This section will introduce you to our most important solution. Yes, you heard it right. If you need a hassle-free method to unlock your iDevice without a passcode or face ID, use Wondershare Dr.Fone Screen Unlock.
 
 Dr.Fone will not only remove the screen lock but also make sure to keep your identity safe. In addition, it is the easiest method and requires no prior knowledge. So if you are someone new to this technology, we suggest you follow the steps below:
@@ -384,9 +399,6 @@ Next, connect your locked phone to the system through a wired connection. Then g
 
 It is necessary to first boot your locked device in recovery or DFU mode. Follow the guidelines on your screen to do so. The Recovery mode is the suggested way for iOS screen locks. If you can't actuate this mode, go for the DFU mode boot.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enter recovery mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 **Step 3. Select your Apple iPhone 11 Model**
@@ -405,7 +417,6 @@ Simply in no time, Dr.Fone will successfully unlock your device.
 
 **Note:** This unlocking process will erase everything off your Apple iPhone 11 and bring it to the factory default state. Indeed, no other method that doesn't allow data erasure at the moment.
 
-
 ## Part 2: How to Turn Off Passcode or Face ID on My Device?
 
 Face ID can be a helpful method for unlocking your Apple iPhone 11 - by simply looking at your phone. However, a few clients might worry that it's not as secure as utilizing a PIN to open your phone. If that is the best case for you, you can follow this manual to disable Face ID and depend on a passcode.
@@ -422,9 +433,6 @@ On the Settings menu, tap on the Face ID and Passcode menu.
 
 ![passcode menu](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-without-face-id-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ### 3\. Enter your passcode
 
 At this stage, you'll be approached to enter your passcode, so do this to get to the Face ID and Passcode menu.
@@ -434,6 +442,10 @@ At this stage, you'll be approached to enter your passcode, so do this to get to
 You'll have the option to turn off the switch for Face ID across different activities, including the phone unlock.
 
 ![turn off passcode](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-without-face-id-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Can I bypass my iPhone Face ID with a picture?
 
@@ -460,8 +472,9 @@ First things first, the short answer is yes. It is entirely possible to unlock a
 Now, let us get to ways how to unlock disabled iPhone. How many ways are there? Well, you might get all sorts of information online, but there are only a handful of ways to unlock a disabled iPhone, which are listed here.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### II.I: Unlock Disabled iPhone With Wondershare Dr.Fone
 
 Of course, you want to unlock your disabled iPhone as quickly as possible, so we have put the best solution first - Wondershare Dr.Fone.
@@ -469,7 +482,6 @@ Of course, you want to unlock your disabled iPhone as quickly as possible, so we
 What is Dr.Fone? Dr.Fone is a suite of apps designed to help you with tasks on your smartphones and tablets. These tasks include erasing data, wiping the Apple iPhone 11 device, repairing the system, taking and restoring backups, unlocking the screen, transferring WhatsApp chats, and even going as fancy as spoofing device location to help with location-aware games or prank friends and family.
 
 This is a must-have set of tools designed for every smartphone owner, regardless of the operating system. It works on both Windows and macOS and supports both Android and iOS. Download [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) here.
-
 
 **Step 1:** Connect your device to the computer and select Screen Unlock in Dr.Fone.
 
@@ -491,6 +503,9 @@ This is a must-have set of tools designed for every smartphone owner, regardless
 
 ![unlock disabled iphone with drfone screen unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### II.II: Unlock Disabled iPhone With iTunes/ macOS Finder
 
@@ -540,6 +555,10 @@ The disabled iPhone will be wiped and restored to factory defaults. The setup wi
 
 Now, as we know, if Find My does not show the disabled iPhone for any reason, you will necessarily have to gain access to a computer. The other option is to visit an Apple Store and get them to do the needful.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part III: FAQs
 
 Here are helpful frequently asked questions for you.
@@ -572,9 +591,6 @@ It has been nearly a decade since iPhones came with biometric authentication and
 
 But, when we attempt incorrect passcodes too many times, the Apple iPhone 11 gets disabled. How to unlock disabled iPhone? The ways outlined in this guide will help you unlock your disabled iPhone.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -587,9 +603,16 @@ But, when we attempt incorrect passcodes too many times, the Apple iPhone 11 get
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-one-click-solution-convert-facebook-vids-into-mp3s/"><u>2024 Approved One-Click Solution Convert Facebook Vids Into MP3s</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-samsung-galaxy-a15-4g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Samsung Galaxy A15 4G Devices | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-flashlight-from-iphone-14-lock-screen-drfone-by-drfone-ios/"><u>How To Remove Flashlight From iPhone 14 Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-7-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Data from Apple iPhone 7 to ZTE Phones | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-6s-plus-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 6s Plus to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-can-life360-track-or-see-text-messages-what-can-you-do-with-life360-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Can Life360 Track Or See Text Messages? What Can You Do with Life360 On Xiaomi Redmi Note 12 Pro 4G? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-apple-iphone-se-2020-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From Apple iPhone SE (2020)? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-the-key-elements-in-achieving-proficient-interview-performance/"><u>In 2024, The Key Elements in Achieving Proficient Interview Performance</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/is-your-apple-iphone-xs-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your Apple iPhone XS in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+</ul></div>
 
