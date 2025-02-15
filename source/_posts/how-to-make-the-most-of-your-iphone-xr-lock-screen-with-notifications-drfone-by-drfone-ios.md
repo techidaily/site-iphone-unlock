@@ -1,7 +1,7 @@
 ---
 title: How to Make the Most of Your iPhone XR Lock Screen with Notifications? | Dr.fone
-date: 2024-07-15T05:56:03.247Z
-updated: 2024-07-16T05:56:03.247Z
+date: 2025-02-11T17:03:31.783Z
+updated: 2025-02-15T05:33:30.476Z
 tags: 
   - unlock
   - remove screen lock
@@ -32,9 +32,6 @@ If you aren’t using this iPhone notification lock screen feature, then you are
 
 Not just your messages, you can interact with other apps as well right from the lock screen notifications iPhone. After getting a list of notifications, you can simply tap on the “x” button to close them.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone lock screen with notifications-close app notification](https://images.wondershare.com/drfone/article/2017/09/15063938035288.jpg)
 
 Though, if you want to know more, then just long press the notification. For instance, if you have got a notification for an email, then you can get various options just by long pressing it.
@@ -45,9 +42,6 @@ Though, if you want to know more, then just long press the notification. For ins
 
 Besides interacting with widgets and apps, you can also search for something on your device and that too without unlocking it. Simply tap on the search bar to make it work.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![iphone lock screen with notifications-earch for anything](https://images.wondershare.com/drfone/article/2017/09/15063938584150.jpg)
 
 ## Part 2: How to turn off notifications on iPhone lock screen?
@@ -84,6 +78,10 @@ The notification view can be used to see previous notifications on the Apple iPh
 
 ![iphone lock screen with notifications-turn off notification view](https://images.wondershare.com/drfone/article/2017/09/15063940151031.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4\. From here, make sure that the option of “Notification View” is turned off.
 
 After turning the option off, you can exit from the Settings interface. In this way, your device won’t display the notification view.
@@ -112,7 +110,9 @@ If you want to click pictures instantly, then simply swipe left the lock screen.
 
 We hope that after following this guide, you would be able to gain in-depth information regarding iPhone lock screen with notifications. Apart from all the basic things you can do on the lock screen, we have also provided easy ways to customize it. Furthermore, there are so many things that you can do with the iOS 18 iPhone lock screen notifications. While most of the users loved the feature, some are quite hesitant about its application. What is your take on this? Let us know about it in the comments.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How Do You Remove Restricted Mode on Apple iPhone XR
 
@@ -175,7 +175,15 @@ For users on iOS 12 and above, turning off Restricted Mode is straightforward:
 
 ![turning off restrictions mode ios 12](https://images.wondershare.com/drfone/article/2024/01/disable-restricted-mode-on-iphone-04.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2**: Toggle off the switch next to **Content & Privacy Restrictions**. This action turns off Restricted Mode on your Apple iPhone XR.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Turn Off Restricted Mode on iOS 11 and Below
 
@@ -183,9 +191,6 @@ For those using iOS 11 and below, the steps are a bit different:
 
 - **Step 1:** Go to **Settings** > **General**. Scroll down to find the **Restrictions** option.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turning off restrictions mode ios 11](https://images.wondershare.com/drfone/article/2024/01/disable-restricted-mode-on-iphone-05.jpg)
 
 - **Step 2:** Toggle off the switch next to **Restrictions**. The action turns off Restricted Mode on iOS 11 and below.
@@ -194,11 +199,7 @@ For those using iOS 11 and below, the steps are a bit different:
 
 There may be situations where removing Restricted Mode on your Apple iPhone XR becomes challenging. If you can't unlock your Apple iPhone XR screen time, then you need a specialized tool like [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)<u>.</u> The platform's Unlock Screen Time Passcode feature can assist in its removal in quick and easy steps.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone main window](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
 
 **Key features**
 
@@ -217,9 +218,17 @@ Here's **how to disable Restricted Mode on iPhone without a password** using Dr.
 
 ![unlock screen time passcode option](https://images.wondershare.com/drfone/guide/unlock-ios-screen-time-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2:** Ensure your Apple iPhone XR is connected to the computer using a USB cable. Wait for Dr.Fone to detect your Apple iPhone XR automatically. Next, click the **Unlock Now** button.
 
 ![unlock now button](https://images.wondershare.com/drfone/guide/unlock-ios-screen-time-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Follow the on-screen instructions. Afterward, Dr.Fone will initiate the unlocking process to remove the Restricted Mode passcode. Once removed, click the **Done** button to finish.
 
@@ -255,6 +264,10 @@ Follow the steps to learn **how to disable Restricted Mode on iPhone** when usin
 
 ![youtube restricted mode](https://images.wondershare.com/drfone/article/2024/01/disable-restricted-mode-on-iphone-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2**: Go to the YouTube website if you're on a browser. Next, scroll down to the bottom of the page and click on **Restricted Mode**. Toggle the switch on or off.
 
 **You May Also Like:**
@@ -276,6 +289,10 @@ Whenever your Apple iPhone XR gets stolen, multiple concerns involve accessing t
 These cases most probably lead you to search for **how to unlock stolen iPhone**s. For this, we have outlined the best methods to unlock stolen iPhones in this detailed guide. From using built-in old methods to third-party tools, this article covers it all with easy-to-follow steps.
 
 ![unlocking stolen iphone with best methods](https://images.wondershare.com/drfone/article/2024/02/how-to-unlock-stolen-iphone-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. \[Easiest Way\] Unlock Easily With Wondershare Dr.Fone - Screen Unlock
 
@@ -299,7 +316,6 @@ After installing Wondershare Dr.Fone, launch and navigate to the "Toolbox" secti
 
 ![proceed with screen unlock feature](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-
 - **Step 2. Start Unlocking iOS Screen Lock**
 
 From the available features, proceed with "Unlock iOS Screen" and click “Start” to initiate the unlocking process.
@@ -318,9 +334,6 @@ As the respective iOS firmware downloads, wait a few minutes and press the "Unlo
 
 ![iphone unlocked successfully](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2. \[Old Ways\] Using Siri To Unlock Stolen iPhone
 
 It might come as a surprise to you that Siri can be used to unlock a lost iPhone. When you seek the answer to **how to unlock a lost iPhone** with Siri, you need to be aware of a very specific pointer. It is necessary to note that this method only works for devices operating between iOS 8 and 11.
@@ -334,6 +347,10 @@ This later turned out to be an anomaly in Siri that led users to unlock their iO
 - **Step 2.** In the sharing options, look for "Messages." As you access the next screen, type anything in the "To" section and continue to select it by navigating to the "Create a New Contact" option. When providing the contact details, tap the "Add Photo" button. Lead into the Photos app from there and swipe up the screen or press the "Home" button to access the home screen.
 
 ![access photos app to unlock](https://images.wondershare.com/drfone/article/2024/02/how-to-unlock-stolen-iphone-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. \[All Data Lost\] Trying Recovery Mode for Unlocking Stolen iPhone
 
@@ -351,6 +368,10 @@ Another lifesaver method to unlock stolen iPhones is by utilizing the Recovery M
 
 ![restore iphone via itunes](https://images.wondershare.com/drfone/article/2024/02/how-to-unlock-stolen-iphone-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4. Using Third-Party Unlocking Service To Unlock Stolen iPhone
 
 In certain scenarios, when an iPhone gets stolen, it might enable the “Activation Lock.” This usually occurs to prevent the unauthorized access and usage of the Apple iPhone XR device. When you face such a situation, third-party unlocking services can help you bypass the Activation Lock.
@@ -367,7 +388,6 @@ Getting a stolen iPhone back is surely the best thing, but facing a device unloc
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -380,9 +400,19 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-setting-up-your-vlog-fb-preferred-dimensions/"><u>[New] 2024 Approved Setting Up Your Vlog FB Preferred Dimensions</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/n-2024-swift-ways-to-reorder-youtube-watchlist-alphabetically/"><u>[New] In 2024, Swift Ways to Reorder YouTube Watchlist Alphabetically</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-funding-fantasies-or-fiscal-facts/"><u>[Updated] In 2024, Funding Fantasies or Fiscal Facts?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-14-pro-max-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your iPhone 14 Pro Max Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-3-ways-to-unlock-your-apple-iphone-6s-for-free-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Your Apple iPhone 6s for Free</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-infinix-smart-7-hd-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Infinix Smart 7 HD Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-for-iphone-xs-lock-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone XS Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-6-plus-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, iPhone 6 Plus Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-infinix-note-30-vip-racing-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Infinix Note 30 VIP Racing Edition | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/is-your-iphone-13-pro-max-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your iPhone 13 Pro Max in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/resolve-screen-gaps-during-play/"><u>Resolve Screen Gaps During Play</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-7-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 7 | Dr.fone</u></a></li>
+</ul></div>
 

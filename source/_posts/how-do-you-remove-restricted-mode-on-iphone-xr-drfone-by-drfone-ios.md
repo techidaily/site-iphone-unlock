@@ -1,7 +1,7 @@
 ---
 title: How Do You Remove Restricted Mode on iPhone XR | Dr.fone
-date: 2024-07-15T05:56:18.292Z
-updated: 2024-07-16T05:56:18.292Z
+date: 2025-02-08T04:16:31.515Z
+updated: 2025-02-14T21:17:21.668Z
 tags: 
   - unlock
   - remove screen lock
@@ -63,6 +63,10 @@ Enabling Restricted Mode on your Apple iPhone XR is prudent, especially for pare
 
 - **Step 2**: The device will prompt you to set a passcode. Choose a secure 4-digit code required to make changes or deactivate the Restricted Mode. You can customize various settings, such as app usage, web content, and privacy settings. Tailor these restrictions according to your preferences and the intended user.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4. 3 Ways to Turning Off Restricted Mode on iPhone
 
 If you want to know **how to turn off Restricted Mode on your Apple iPhone XR**, here are three efficient methods to do so. Whether on a specific iOS version or facing a forgotten passcode, these provide solutions for every scenario.
@@ -87,12 +91,15 @@ For those using iOS 11 and below, the steps are a bit different:
 
 - **Step 2:** Toggle off the switch next to **Restrictions**. The action turns off Restricted Mode on iOS 11 and below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 3: Turn Off Restricted Mode Using Dr.Fone - Screen Unlock (iOS)
 
 There may be situations where removing Restricted Mode on your Apple iPhone XR becomes challenging. If you can't unlock your Apple iPhone XR screen time, then you need a specialized tool like [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)<u>.</u> The platform's Unlock Screen Time Passcode feature can assist in its removal in quick and easy steps.
 
 ![dr.fone main window](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
 
 **Key features**
 
@@ -169,9 +176,6 @@ When it comes to security in smartphones, Apple stands at the forefront. The Act
 
 ![understanding ways to lock stolen iphone](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1. Major Threats To Consider When iPhone Is Stolen
 
 A lost iPhone can become susceptible to a myriad of threats. It could compromise your privacy, security, and personal data. Here are the reasons why learning **how to lock your Apple iPhone XR when lost** is essential:
@@ -201,6 +205,10 @@ Find My can be a source to track stolen iPhones, but certain scenarios are assoc
 - **Step 1.** Access the Find My app on a trusted device and open it. If you can't access one, use the iCloud website to access Find My service.
 
 ![open find my app](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2.** After logging in, select the lost device, and you can see its last recorded location on the map.
 
@@ -237,6 +245,10 @@ Lost Mode locks the Apple iPhone XR device and allows users to showcase a person
 - **Step 3.** Now go on to add your phone number and tap "Next." Follow it by providing the message you want to display and click "Activate" to enable Lost Mode.
 
 ![activate lost mode from browser](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-10.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4. Can't Find Stolen Phone? Erase iPhone Completely
 
@@ -300,9 +312,6 @@ After your Apple iPhone XR is stolen, it becomes essential to bolster the securi
 
 Users can proactively adopt specific measures to reduce the likelihood of such an occurrence. The following essential precautions are recommended while learning **how to block your Apple iPhone XR when stolen**:
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Precaution #1. Enable Find My on Device
 
 Activating Find My increases the likelihood of recovering your device. Take the following steps to enable the Find My feature on your Apple iPhone XR:
@@ -363,7 +372,6 @@ Once you have installed and launched Wondershare Dr.Fone, access the "Toolbox" t
 
 ![start ios screen unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-2.png)
 
-
 - Step 2. Entering Recovery Mode and Choosing System Version
 
 The next step requires you to put your device in Recovery Mode, for which you can follow the instructions given on-screen. After your device is in Recovery Mode, Dr.Fone will display its “Model.” Now choose the appropriate "System Version" and click "Start." Here, Dr.Fone will start downloading the required firmware. Once it is downloaded and verified, tap "Unlock Now."
@@ -404,6 +412,10 @@ Physical damage, like heavy falls, can impact the phone's touch sensitivity. Mor
 
 Insufficient memory or many background apps running simultaneously can overload the Apple iPhone XR device. This leads to performance issues, including unresponsive gestures.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5\. Water Exposure
 
 Sudden exposure to moisture or water damage can also cause the screen to malfunction. This can cause the screen to become unresponsive, leading to swipe-up issues.
@@ -418,9 +430,6 @@ Encountering an unresponsive swipe-up gesture on your Apple iPhone XR can be exa
 
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone - System Repair (iOS)
 
 Repair iOS System Errors Without data loss.
@@ -463,7 +472,6 @@ After that, you'll reach a window showing different iOS firmware alternatives. P
 
 ![initiate swipe up repair process](https://images.wondershare.com/drfone/guide/ios-system-repair-6.png)
 
-
 ### Fix 2. Force Restart iPhone
 
 Performing a force restart, also known as a hard reset, can troubleshoot minor software glitches. These can cause unresponsive swipe-up issues on your Apple iPhone XR. Here's a guide on how to perform a force restart on various iDevice models to fix the **iPhone won’t swipe up**:
@@ -482,6 +490,10 @@ Performing a force restart, also known as a hard reset, can troubleshoot minor s
 
 ![force restart iphone all models](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3. Remove the Cover or Case
 
 Sometimes, an unresponsive swipe-up gesture on your Apple iPhone XR could be due to interference caused by a protective cover or case. The cover might be too thick, improperly aligned, or interfering with the touch sensitivity of the screen. Gently remove the protective cover or case from your Apple iPhone XR. Inspect the screen for any dust, debris, or smudges while the cover is removed. Utilize a clean, soft cloth to wipe the screen.
@@ -490,9 +502,6 @@ Sometimes, an unresponsive swipe-up gesture on your Apple iPhone XR could be due
 
 An unresponsive swipe-up gesture on your Apple iPhone XR might be due to dirt, smudges, or interference caused by a screen protector. Power off your Apple iPhone XR to prevent accidental taps during the cleaning process. Carefully clean the screen by softly rubbing it with a fresh and dry microfiber cloth. In addition, ensure the cloth is soft and free from any debris that might scratch the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5. Activate Control Center Access on the Lock Screen
 
 If your Apple iPhone XR swipe-up gesture isn't working specifically on the lock screen to access the Control Center, it might be due to settings restricting its accessibility. Enabling Control Center access on the lock screen allows you to swipe up from the bottom edge. Follow these steps to ensure Control Center access is enabled on the lock screen and fix the **iPhone swipe up not working**:
@@ -500,6 +509,10 @@ If your Apple iPhone XR swipe-up gesture isn't working specifically on the lock 
 **Step 1.** On your iOS device, access the “Settings” app and launch it. Now scroll down to find and tap "Face ID & Passcode."
 
 ![access face id and passcode option](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2.** Head to the "Allow Access When Locked" section, toggle on the "Control Center" switch, then return to the lock screen to verify if the problem has been resolved.
 
@@ -537,9 +550,6 @@ VoiceOver is an accessibility feature on iPhones. It assists users with visual i
 
 ![turn off voice over option](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 9. Customize Touch Accommodations
 
 Touch Accommodations is an accessibility feature on iPhones. It is designed to modify touch sensitivity and enhance touchscreen interactions for users. Customizing these settings might resolve issues with unresponsive gestures like the swipe-up function. Here's how to customize Touch Accommodations to fix **the Apple iPhone XR 12 won't swipe up to unlock**:
@@ -580,8 +590,6 @@ Resetting all settings on your Apple iPhone XR can help resolve software-related
 
 Encountering **swipe not working on iPhone** can sometimes lead to difficulties. This is especially the case in unlocking the Apple iPhone XR device or accessing essential functions. In such scenarios, using [Wondershare Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) provides a reliable solution. It bypasses the swipe-up need and regains access to your Apple iPhone XR without relying on the problematic gesture. This tool offers a solution to unlock iPhone/iPad devices without the passcode.
 
-
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Swiping Up.
@@ -595,11 +603,19 @@ Unlock iPhone/iPad Lock Screen Without Swiping Up.
 
 It allows the removal of various lock screens present on iPhone, iPad, and iPod touch. Additionally, it provides the capability to bypass the iCloud activation lock. Users can also bypass MDM and screen time restrictions without experiencing any data loss.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Features of Wondershare Dr.Fone
 
 1. This software is compatible with the latest iOS 17 and iPadOS 17, including iPhone 15 models.
 2. The unlocking process involves a simple 3-step procedure.
 3. With it, you can remove Apple ID from your device without the password.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Steps To Unlock iPhone Without Swiping Up via Wondershare Dr.Fone
 
@@ -623,15 +639,15 @@ Once the iOS firmware has been successfully downloaded, it undergoes verificatio
 
 ![choose to unlock the iphone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
 Having trouble with **swipe up not working on an iPhone** can be annoying. It stops you from using important stuff and moving around your phone quickly. This guide has lots of ways to fix it. We've covered simple things like restarting your Apple iPhone XR and cleaning the screen, as well as more complex stuff like changing settings and using unique options for accessibility. These fixes can help make the swipe-up gesture work again.
 
 We've also talked about a helpful tool called Wondershare Dr.Fone. It's made to fix problems with the lock screen, including issues with swiping on your Apple iPhone XR. Moreover, Dr.Fone - Screen Unlock lets you get into your Apple iPhone XR even when gestures aren't working properly.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -645,9 +661,26 @@ We've also talked about a helpful tool called Wondershare Dr.Fone. It's made to 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/updated-complete-guide-to-aspect-ratios-about-youtube-videosshortsads/"><u>[Updated] Complete Guide to Aspect Ratios About YouTube Videos/Shorts/Ads</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-unveiling-5-best-non-samsung-camera-picks-for-gear-enthusiasts/"><u>[Updated] In 2024, Unveiling 5 Best Non-Samsung Camera Picks for Gear Enthusiasts</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-elevate-your-video-creation-check-out-the-top-12-flip-cam-gear/"><u>2024 Approved Elevate Your Video Creation - Check Out the Top 12 Flip Cam Gear</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/can-you-unlock-apple-iphone-8-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>Can You Unlock Apple iPhone 8 After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://discover-exceptional.techidaily.com/discover-the-ultimate-mix-12-unmissable-songs-with-bpm-supremes-productions-on-beatport-digi-dj/"><u>Discover the Ultimate Mix: 12 Unmissable Songs with BPM Supreme's Productions on Beatport | Digi DJ</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-apple-iphone-11-pro-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your Apple iPhone 11 Pro When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-iphone-se-2022ipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled iPhone SE (2022)/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-11-pro-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Vivo V27 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-7-plus-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 7 Plus Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-apple-iphone-12-drfone-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-honor-x50-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Honor X50 to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-90-lite-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Honor 90 Lite to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-14-plus-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Plus? | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/435895-9781775568537-lessons-in-raja-yoga/"><u>Lessons in Raja Yoga | Free Book</u></a></li>
+<li><a href="https://win-data.techidaily.com/meilleures-solutions-de-recuperation-des-donnees-pour-windows-alternatives-a-itop/"><u>Meilleures Solutions De Récupération Des Données Pour Windows: Alternatives À iTop</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/restore-missing-app-icon-on-xiaomi-redmi-a2plus-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Xiaomi Redmi A2+ Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-apple-iphone-6s-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-11-pro-max-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking iPhone 11 Pro Max Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+</ul></div>
 

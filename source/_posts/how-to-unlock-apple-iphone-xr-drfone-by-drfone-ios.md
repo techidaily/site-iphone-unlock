@@ -1,7 +1,7 @@
 ---
 title: How to Unlock Apple iPhone XR? | Dr.fone
-date: 2024-07-15T05:54:32.478Z
-updated: 2024-07-16T05:54:32.478Z
+date: 2025-02-11T03:57:11.509Z
+updated: 2025-02-14T16:34:07.398Z
 tags: 
   - unlock
   - remove screen lock
@@ -24,14 +24,11 @@ Today, all those computer and laptop qualities are being shifted into a small ph
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fn6H3w08kAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
-
 ## **Part 1. Unlock Apple iPhone XR without Passcode or Face ID**
 
 A problem commonly faced by all iPhone users is that they forget the password, and then they are stuck because they cannot use their phone anymore. This might seem impossible because iPhone users cannot use the phone without a passcode, but let us show you a magical application that makes this impossible.
 
 [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/), the well-known application among most iPhone users, can resolve the problem quickly. This is a very secure platform for iPhone users because it promises to safeguard user's personal information. The application is easy to use, that even a new person can use it without facing any trouble. Let us highlight its features;
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -58,9 +55,6 @@ After the application is launched, the Welcome Screen will appear with different
 
 In the second step, the user should connect their phone to the system and let Dr.Fone's application automatically detect it. Whenever you are ready to initiate the process, click on the button 'Unlock iOS Screen.'
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone android ios unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
 
 **Step 3: Recovery Mode Activation**
@@ -106,9 +100,6 @@ Let us show you how to unlock Apple iPhone XR without using a passcode;
 5. This option will bring you to a new window that will be asking for your confirmation on the decision to restore your device.
 6. As soon as that is done and iTunes has finished the process, your Apple iPhone XR 12 will be restored to default settings.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## **Part 3. Unlock Disabled iPhone 12 by Erasing iPhone in iCloud**
 
 IOS world is different from the Android world, and so, both have different and unique problems to deal with. For example, an android user can never imagine unlocking a disabled phone, but iPhone users surely know how to do it. It might be possible that someone doesn't know how they can erase the Apple iPhone XR from iCloud, so for such users, let's provide a step-by-step guideline;
@@ -178,12 +169,7 @@ Another known platform for iPhone users is iCloud, which allows users to unlock 
 
 The article aimed to provide users with maximum information and knowledge about unlock the Apple iPhone XR even if you don’t have the passcode. Several methods have been discussed alongside their pros and cons so that the user can select the best.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
-
-
 
 ## How To Open Your Apple iPhone XR Without a Home Button
 
@@ -204,6 +190,10 @@ If your device supports Touch ID, you can use your fingerprint to unlock it. Fol
 - **Step 1**: Head to **Settings** > **Touch ID & Passcode**. Next, tap **Add a Fingerprint**.
 
 ![user pressing iphone Home button](https://images.wondershare.com/drfone/article/2024/01/unlock-iphone-without-home-button-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2**: Follow the on-screen instructions to set up Touch ID.
 
@@ -231,6 +221,10 @@ The alternative solution for **how to open an iPhone without the Home button but
 
 ![assistivetouch menu selections](https://images.wondershare.com/drfone/article/2024/01/unlock-iphone-without-home-button-05.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3**: Tap **Customize** **Top Level Menu** under Assistive Touch and choose **Home**. The action will guide you to the Apple iPhone XR passcode screen. From here, you can input your passcode to unlock the Apple iPhone XR without using the Home button.
 
 ### Method 4: Unlock iPhone Without Home Button via Dedicated Tool
@@ -251,7 +245,6 @@ Dr.Fone - Screen Unlock (iOS) simplifies the process of unlocking your Apple iPh
 - **Step 1:** Visit the official Dr.Fone website and download software. Install the software on your computer and launch it. Next, click **Toolbox** > **Screen** **Unlock > iOS**. Connect your Apple iPhone XR using a USB cable and choose **Unlock iOS Screen**. Ensure the software recognizes your device.
 
 ![dr.fone unlock ios screen window](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
-
 
 - **Step 2:** Click **Start** and follow the on-screen instructions. Dr.Fone will automatically detect your device and provide the appropriate firmware package for download. Confirm and proceed.
 
@@ -276,6 +269,10 @@ With iOS 15.2, Apple introduced the Erase iPhone feature, aiding users in resett
 - **Step 2:** Tap the **Erase iPhone** button and input your Apple ID passcode to initiate the process. Once the Apple logo displays on your Apple iPhone XR screen, you can now access your device without the need for a passcode.
 
 **_**_Note_**__**_：_**_****Keep in mind that all previous content and data on the phone will be erased during this operation.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 6: Unlock iPhone via iTunes/Finder
 
@@ -319,6 +316,10 @@ This unconventional method involves using the charging cable to apply gentle pre
 
 If your Apple iPhone XR is still under warranty, visiting an Apple Store is advisable. Apple's warranty covers hardware issues, including malfunctioning Home buttons.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 A broken iPhone Home button need not spell disaster. Embrace the solutions discussed and try the best solution available. Enable AssistiveTouch, recalibrate the Home button, clean the area, or even visit an Apple Store if under warranty.
@@ -333,6 +334,10 @@ _How do I unlock my Apple iPhone XR? I know you're supposed to connect it to the
 
 ![unlock-iPhone-to-use-accessories](https://images.wondershare.com/drfone/unlock-new/unlock-usb/unlock-iPhone-to-use-accessories.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You may have had the experience of connecting your Apple iPhone XR to a computer with USB accessories. Usually, "**Unlock Apple iPhone XR to use accessories**" will appear on the screen. In most cases, enter the passcode to unlock the phone, and you can then proceed with data transfer and management. What to do if you forget your screen lock passcode? Here come the most effective methods for you!
 
 ## Part 1: Why You Need to "Unlock Apple iPhone XR to Use Accessories"?
@@ -341,9 +346,6 @@ The command comes from Apple’s significant privacy safeguard **“USB Restrict
 
 In 2017, a password cracking tool called GrayKey was launched, which can bypass any iPhone screen lock passcode. The FBI, the police, and some government agencies have all become GrayKey customers. To combat hackers including GrayKey and protect iOS users' data security, the USB Restricted Mode feature arrived with iOS 11.4.1 in July 2018 and be improved in iOS12.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2: How to Disable USB Restricted Mode?
 
 If you find this warning annoying or your Apple iPhone XR not charging when using USB accessories, disabling USB Restricted Mode is an optional solution. However, you have to remember the unlock passcode. All the steps will be presented to you next.
@@ -356,6 +358,10 @@ If you find this warning annoying or your Apple iPhone XR not charging when usin
 After completing all the steps, your Apple iPhone XR can connect USB accessories anytime, anywhere. However, it is very common to forget to unlock the passcode. Next, we will recommend four solutions to help you use USB accessories without a passcode.
 
 ![usb-restricted-mode](https://images.wondershare.com/drfone/unlock-new/unlock-usb/usb-restricted-mode.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Unlock Apple iPhone XR to Use USB Accessories without Passcode via Dr.Fone?
 
@@ -377,6 +383,10 @@ Now, here comes an amazing App with many benefits to solving the problem for you
 
 ![start to remove iphone lock screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3:** Follow the guides to boot your device in Recovery or DFU mode. The Recovery mode is recommended for iOS lock screen removal by default. If you fail to turn on recovery mode, you can turn to activate DFU mode. DFU means Device Firmware Upgrade, and the operation is more mandatory.
 
 ![boot device in dfu mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
@@ -389,16 +399,16 @@ After that, you could set up your Apple iPhone XR as a new one and unlock your s
 
 ![download iphone firmware](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 There is no doubt that you may worry about losing all your data while bypassing the Apple iPhone XR lock screen. But honestly, there is no tool on the market today that can preserve data to unlock an iPhone. Therefore, it is necessary to back up data in your daily life. [Dr.Fone-Phone Backup](https://drfone.wondershare.com/iphone-backup-and-restore.html) provides you with a full range of data backup solutions, you can click the link below to learn more.
 
 **This guide will teach you about how to unlock iphone using 5 feasible ways.**
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/M3tfU3GUTpk"></iframe>
 
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: How to Unlock Apple iPhone XR to Use USB Accessories without Passcode via iCloud?
 
 With iCloud, you can quickly clean up your Apple iPhone XR, remove screen locks, and help unlock your device. But, you have to know that all your data will be erased. Make sure your Apple iPhone XR has the "Find My iPhone" function enabled, otherwise your device will be offline.
@@ -411,7 +421,15 @@ With iCloud, you can quickly clean up your Apple iPhone XR, remove screen locks,
 
 ![icloud-erase-phone](https://images.wondershare.com/drfone/unlock-new/unlock-usb/icloud-erase-phone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now, your Apple iPhone XR will reboot without a passcode. Then, you can unlock Apple iPhone XR to use accessories and bypass the passcode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 5: How to Unlock Apple iPhone XR to Use USB Accessories without Passcode via iTunes?
 
@@ -472,7 +490,6 @@ It is very common to use USB accessories to connect iPhone and computer. Sometim
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -485,9 +502,20 @@ It is very common to use USB accessories to connect iPhone and computer. Sometim
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-iphone-7-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your iPhone 7 When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-xs-max-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix iPhone XS Max Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-iphone-15-pro-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your iPhone 15 Pro Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-broken-video-files-of-poco-m6-pro-4g-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair Broken video files of Poco M6 Pro 4G on Windows??</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-15-pro-max-with-a-mask-on-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Pro Max with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-6-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone 6 to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-tecno-pova-5-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Tecno Pova 5</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/leading-gloves-transforming-vr-playtime/"><u>Leading Gloves Transforming VR Playtime</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-your-apple-watch-unlock-the-power-of-the-double-tap-function-a-step-by-step-guide/"><u>Mastering Your Apple Watch: Unlock the Power of the Double Tap Function - A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-shield.techidaily.com/passaggio-da-windows-10-a-windows-nato-come-fare-un-corretto-backup-dei-tuoi-dati/"><u>Passaggio Da Windows 10 a Windows Nato, Come Fare Un Corretto Backup Dei Tuoi Dati!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/prime-free-enhancement-tool-for-pics-onlineapp-for-2024/"><u>Prime Free Enhancement Tool for Pics Online/App for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/smartphone-market-update-samsung-overcomes-apples-lead-while-rival-closes-the-gap-analyzed/"><u>Smartphone Market Update: Samsung Overcomes Apple's Lead While Rival Closes the Gap - Analyzed</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-guide-forcing-reboot-on-your-iphone-and-accessing-recovery-mode/"><u>Step-by-Step Guide: Forcing Reboot on Your iPhone & Accessing Recovery Mode</u></a></li>
+</ul></div>
 

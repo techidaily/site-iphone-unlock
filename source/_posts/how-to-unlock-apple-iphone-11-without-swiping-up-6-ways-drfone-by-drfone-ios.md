@@ -1,7 +1,7 @@
 ---
 title: How To Unlock Apple iPhone 11 Without Swiping Up? 6 Ways | Dr.fone
-date: 2024-07-15T06:00:13.237Z
-updated: 2024-07-16T06:00:13.237Z
+date: 2025-02-11T18:21:27.659Z
+updated: 2025-02-14T17:16:00.255Z
 tags: 
   - unlock
   - remove screen lock
@@ -42,16 +42,10 @@ Apple's design philosophy often revolves around clean, intuitive interfaces. The
 
 The gesture served as a security measure, preventing accidental or unauthorized access to the iPhone. Moreover, users can confidently rely on this unlocking method to safeguard their personal data.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: 6 Common Ways To Unlock iPhone Without Swiping Up
 
 For an extended period, the primary method to unlock an iPhone involved swiping up. Nonetheless, if you wish to explore alternative methods, it's entirely feasible. Various methods have emerged over time to **open the Apple iPhone 11 without swiping up**.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 1: Unlock iPhone without Swiping Up with Enable Back Tap
 
 With the debut of iOS 14, Apple unveiled an innovative feature called Back Tap. It provides users with a method to engage with their iPhones by tapping the Apple iPhone 11 device's rear surface. This innovative functionality can be configured to perform various actions. It includes **unlocking the phone without a swiping-up** gesture. Follow these steps to set up and use the Back Tap feature for unlocking your Apple iPhone 11:
@@ -67,8 +61,6 @@ With the debut of iOS 14, Apple unveiled an innovative feature called Back Tap. 
 ### Method 2: Unlock iPhone Without Swiping Up Using iPhone Screen Unlocker: Dr.Fone - Screen Unlock
 
 If you've forgotten the passcode for your Apple iPhone 11 and are unable to access it anymore, there is no need to panic. We have the perfect tool for you that can unlock any lock on your screen in a few moments. The tool we are talking about is [Wondershare Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/), an industry leader in smartphones. Dr.Fone, a pioneering tool for iOS lock screen removal, assists in unlocking various iPhone/iPad/iPod touch lock screens.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -110,7 +102,6 @@ After this step, enter Recovery Mode on your iDevice by following the specific o
 The screen will showcase the download progress of the iOS firmware on the platform. Once the iOS firmware download is completed, it undergoes verification. Proceed by selecting the "Unlock Now" button to initiate the unlocking process. A prompt window will appear, requesting confirmation for the process. Enter the necessary code and tap on "Unlock" to proceed. Upon successful unlocking of the iDevice, click "Done" to complete the process.
 
 ![lock screen removal process completed](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
-
 
 ### Method 3: Unlock the Apple iPhone 11 Without Swiping Up via Touch ID/Face ID
 
@@ -179,6 +170,10 @@ Utilizing Voice Control to unlock your Apple iPhone 11 offers a hands-free appro
 
 ![navigate to voice control feature](https://images.wondershare.com/drfone/article/2023/12/unlock-phone-without-swiping-up-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2.** To set up voice control, you need to ensure that the "Voice Control" option is toggled on. After activating Voice Control, use a voice command to unlock your device.
 
 ![toggle on voice control option](https://images.wondershare.com/drfone/article/2023/12/unlock-phone-without-swiping-up-7.jpg)
@@ -190,6 +185,10 @@ Utilizing Switch Control is an excellent accessibility feature on iOS devices. I
 **Step 1.** Access your Apple iPhone 11's Settings, then tap on "Accessibility." Now find and select "Switch Control," and within it, navigate to "Switches." Now, tap "Add New Switch" and choose "Camera."
 
 ![add a new switch](https://images.wondershare.com/drfone/article/2023/12/unlock-phone-without-swiping-up-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2.** Set Left Head Movement and Right Head Movement separately to “Home.” This action will lock the screen when tilting your head left or right. Now go back to "Recipes" in Switch Control, select "Edit," and delete all existing recipes.
 
@@ -213,15 +212,14 @@ While these methods are helpful, there's a software called Wondershare Dr.Fone t
 
 Over the last few years, Apple has made remarkable progress with its flagship iPhone series. There are plenty of ways for users to back up, erase, and restore their data. It doesn’t matter if you are moving from one device to another or would like to reset your phone. You should know how to erase iPhone when locked. Too many times, after getting locked out of their device, users find it hard to wipe locked iPhone. If you are also going through the same dilemma, then don’t worry. Read on and learn how to wipe a locked iPhone in this extensive guide.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Erase locked iPhone with Dr.Fone - Screen Unlock (iOS)
 
 One of the best ways to wipe locked iPhone is by using [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) tool. It is an extremely secure and reliable application. It is already compatible with every leading version of iOS and runs on almost all major iOS devices. Available for both Windows and Mac, the tool can be used to remove activation lock and Apple ID. The tool also provides an easy-to-use interface that can help you reset [the activation lock](https://drfone.wondershare.com/icloud/bypass-icloud-activation.html) on your device.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone - Screen Unlock (iOS)
 
 Erase the data of an iPhone even if it is locked
@@ -257,18 +255,6 @@ Follow the on-screen instructions to put your phone into the DFU (Device Firmwar
 
 After putting your device into the DFU mode, the application will automatically move to the next window. Here, you would be required to provide essential information related to your phone like device model, firmware update, and more. After filling in the correct information, click on the “Download” button.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![erase iphone when locked-select phone details](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png "select phone details")
 
 Sit back and relax as the application will download the essential firmware update for your phone.
@@ -303,13 +289,25 @@ If you are looking for an alternative way to learn how to erase iPhone when lock
 
 ![erase iphone when locked-connect to itunes](https://images.wondershare.com/drfone/article/2017/07/14993648903843.jpg "connect to itunes")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3\. If you don’t get the above pop-up on your screen, launch iTunes and visit its “Summary” section. From here, choose “Restore backup” under the Backup section.
 
 ![erase iphone when locked-restore backup](https://images.wondershare.com/drfone/article/2017/07/14993649149685.jpg "restore backup")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4\. agree to the pop-up message by clicking on the “Restore” button.
 
 ![erase iphone when locked-restore iphone](https://images.wondershare.com/drfone/article/2017/07/14993649291284.jpg "restore iphone")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Erase locked iPhone by Find My iPhone
 
@@ -325,11 +323,13 @@ If you haven’t already taken a backup of your phone, then you might find it ha
 
 ![erase iphone when locked-erase iphone](https://images.wondershare.com/drfone/article/2017/07/14993650012081.jpg "erase iphone")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Confirm your choice and wipe locked iPhone remotely using the Find My iPhone feature on iCloud.
 
 After following this informative guide, you would learn how to wipe a locked iPhone without any trouble. Go ahead and pick your preferred option to wipe locked iPhone. We recommend using Dr.Fone - Screen Unlock (iOS) to resolve this issue securely. Though, if you wish to do it remotely, then you can also give Find My iPhone a try as well. If you are familiar with any other reliable method, please let us know how to erase iPhone when locked in the comments below.
-
-
 
 ## iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 11
 
@@ -351,7 +351,6 @@ What is Dr.Fone? Dr.Fone is a suite of apps designed to help you with tasks on y
 
 This is a must-have set of tools designed for every smartphone owner, regardless of the operating system. It works on both Windows and macOS and supports both Android and iOS. Download [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) here.
 
-
 **Step 1:** Connect your device to the computer and select Screen Unlock in Dr.Fone.
 
 ![drfone app](https://images.wondershare.com/drfone/guide/drfone-home.png)
@@ -371,7 +370,6 @@ This is a must-have set of tools designed for every smartphone owner, regardless
 **Step 5:** When Dr.Fone is ready to unlock disabled iPhone, click Unlock Now and wait until the notification of a successful unlock is shown.
 
 ![unlock disabled iphone with drfone screen unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
-
 
 ### II.II: Unlock Disabled iPhone With iTunes/ macOS Finder
 
@@ -415,6 +413,10 @@ Worry not, because Apple's Find My is your friend. You can use Find My on your o
 
 ![unlock disabled iphone with find my app](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-disabled-iphone-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** Select the disabled iPhone from the Apple iPhone 11 devices in the sidebar, click or tap the Apple iPhone 11 device on the map and click or tap Erase This Device.
 
 The disabled iPhone will be wiped and restored to factory defaults. The setup will need to be performed again.
@@ -429,6 +431,10 @@ Here are helpful frequently asked questions for you.
 
 iPhone is disabled most commonly when an incorrect password is entered too many times.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### FAQ 2: Can I unlock disabled iPhone without data loss?
 
 Unlocking a disabled iPhone requires erasing the Apple iPhone 11 device. All data on the Apple iPhone 11 device will be deleted in the process. There is currently no way to unlock disabled iPhone without data loss.
@@ -440,8 +446,9 @@ After unlocking the disabled iPhone, when you set it up again, if you previously
 ![icloud](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-disabled-iphone-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Bonus Tip: Prevent iPhone From Getting Disabled In Future
 
 By now, you know that should the Apple iPhone 11 be disabled for any reason, unlocking the disabled iPhone is a process that will wipe the Apple iPhone 11 device clean. And that means you will have to spend time setting it up again, restoring data from backup, and getting it back to the order you had previously. How about a tip to help you prevent a disabled iPhone?
@@ -456,7 +463,6 @@ It has been nearly a decade since iPhones came with biometric authentication and
 
 But, when we attempt incorrect passcodes too many times, the Apple iPhone 11 gets disabled. How to unlock disabled iPhone? The ways outlined in this guide will help you unlock your disabled iPhone.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -469,9 +475,19 @@ But, when we attempt incorrect passcodes too many times, the Apple iPhone 11 get
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-dare-to-be-noteworthy-top-30-innovative-tiktok-usernames/"><u>[New] 2024 Approved Dare to Be Noteworthy Top 30 Innovative TikTok Usernames</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-best-offline-android-games-dive-into-the-fun-without-a-network/"><u>[Updated] Best Offline Android Games - Dive Into the Fun Without a Network</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/comprehensive-fixes-to-overcome-your-end-of-year-assessment-error-code-tfla0002/"><u>Comprehensive Fixes to Overcome Your End-Of-Year Assessment Error – Code: TFLA0002</u></a></li>
+<li><a href="https://extra-information.techidaily.com/crafting-a-compelling-narrative-a-key-to-more-viewers-and-subscribers/"><u>Crafting a Compelling Narrative A Key to More Viewers and Subscribers</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-locked-iphone-se-2020-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>Forgot Locked iPhone SE (2020) Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-13-pro-max-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 13 Pro Max With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 6s, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-12-pro-max-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>How to Unlock iPhone 12 Pro Max With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-plus-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 8 Plus without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-to-itel-p40plus-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Ultimate Guide to Itel P40+ Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-depth-look-at-vsco-photo-craftsmanship-for-2024/"><u>In-Depth Look at VSCO Photo Craftsmanship for 2024</u></a></li>
+<li><a href="https://facebook.techidaily.com/reinventing-your-social-circle-without-facebook-top-10-proposals-for-quitting/"><u>Reinventing Your Social Circle Without Facebook - Top 10 Proposals for Quitting</u></a></li>
+</ul></div>
 

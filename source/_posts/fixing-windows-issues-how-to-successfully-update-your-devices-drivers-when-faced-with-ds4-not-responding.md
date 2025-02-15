@@ -1,7 +1,7 @@
 ---
 title: "Fixing Windows Issues: How to Successfully Update Your Device's Drivers When Faced with 'DS4 Not Responding'"
-date: 2025-01-26T18:03:24.070Z
-updated: 2025-02-01T02:35:38.312Z
+date: 2025-02-12T01:10:10.526Z
+updated: 2025-02-14T19:07:01.863Z
 tags:
   - win11
   - win10
@@ -19,7 +19,7 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
  New World does have a support service, but they’re experiencing long wait times connecting to an associate for New World queries, but you’re not alone, there are fixes that we’ve gathered from gamers that may help you solve the issue.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Try these fixes
@@ -55,10 +55,6 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
 
  If the latest graphics driver doesn’t fix the problem, you can move to the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 2: Verify the integrity of game files
 
  New World is a large AAA title game that is easily freezing when there are missing or corrupted files. Therefore, verifying the integrity of your game files is a common fix for the freezing issue.
@@ -68,17 +64,17 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
 2. In the left pane, select **LOCAL FILES** . Then click **Verify integrity of game files** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-verify-4.jpg)
 3. Allow the checking to complete. Then you can start New World and see if it freezes again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 If the problem persists, take a look at the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Rollback NVIDIA driver
 
@@ -92,8 +88,16 @@ If the problem persists, take a look at the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a2700f19925.jpg)
 4. Click the **Driver** tab. Then click **Roll Back Driver** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a270830e0d8.png)
 5. Then you will get a pop-up window like below. Click the **Yes** button. Then the driver will be restored to the previously installed version.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6. Restart your PC for the change to take effect.
 
@@ -117,10 +121,6 @@ If this fix doesn’t bring luck, take a look at the next fix below.
 
 If it’s still not working, try the next fix.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 5: Lower your graphics settings
 
  The freezing issue usually relates to the graphics settings, some players indicate after they capped their FPS and lower graphics settings, the freezing issue was gone.  
@@ -130,16 +130,20 @@ If it’s still not working, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-change-graphics-1.jpg)
 2. In the left pane, select **Visuals** . Then set **Max FPS** 60 fps.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/cap.jpg)  
  In most cases, 60 fps is enough. But some gamer replies they’ve lower to 30 FPS.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3. Play New World to check.
 
  If changing graphics settings don’t give you luck, continue to the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Reset your system without losing data
 
@@ -150,10 +154,6 @@ If it’s still not working, try the next fix.
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
@@ -190,17 +190,20 @@ If you haven’t tried it, give it a go it might help.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-optimizing-web-video-for-crystal-clear-display/"><u>[New] Optimizing Web Video for Crystal Clear Display</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-streamline-broadcasts-the-ultimate-guide-for-obspluszoom/"><u>2024 Approved Streamline Broadcasts The Ultimate Guide for OBS+Zoom</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-13-mini-passcode-without-computer-drfone-by-drfone-ios/"><u>How to Unlock iPhone 13 mini Passcode without Computer? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-se-2020-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock iPhone SE (2020) without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://driver-install.techidaily.com/1722990964139-improve-your-naraka-bladepoint-experience-fix-stuttering-and-increase-fps-effectively/"><u>Improve Your Naraka: Bladepoint Experience - Fix Stuttering and Increase FPS Effectively</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/in-2024-aesthetic-assembly-android-and-ios-video-sets-for-insta/"><u>In 2024, Aesthetic Assembly Android & iOS Video Sets for Insta</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-8-plus-drfone-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-apple-iphone-13-pro-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your Apple iPhone 13 Pro When You Forget the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-motorola-moto-g34-5g-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Motorola Moto G34 5G Location on Viber | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-7-apples-new-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 7, Apples New iPhone | Dr.fone</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-the-best-ispoofer-alternative-to-try-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Best iSpoofer Alternative to Try On Vivo Y200e 5G | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/what-gamers-must-know-about-bandicam-for-2024/"><u>What Gamers Must Know About Bandicam for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-compiling-leading-short-form-video-editors-iosandroid-edition/"><u>[Updated] In 2024, Compiling Leading Short-Form Video Editors IOS/Android Edition</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlock-your-characters-potential-with-these-essential-sound-changing-techniques-in-free-fire/"><u>[Updated] Unlock Your Character's Potential with These Essential Sound Changing Techniques in Free Fire</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/compatible-and-fast-download-the-logitech-rx250-driver-for-windows-os-versions-7810/"><u>Compatible & Fast: Download the Logitech RX250 Driver for Windows OS Versions (7/8/10)</u></a></li>
+<li><a href="https://win-able.techidaily.com/dying-light-2-performance-optimization-tips-for-pc-players-dealing-with-fps-drops-and-gameplay-hiccups/"><u>Dying Light 2 Performance Optimization Tips for PC Players Dealing with FPS Drops & Gameplay Hiccups</u></a></li>
+<li><a href="https://article-posts.techidaily.com/high-performance-gpus-for-4k-vision/"><u>High-Performance GPUs for 4K Vision</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-country-on-app-store-for-apple-iphone-7-plus-with-7-methods-drfone-by-drfone-ios/"><u>How To Change Country on App Store for Apple iPhone 7 Plus With 7 Methods | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-se-2022-to-the-previous-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone SE (2022) to the Previous iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-11-pro-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-for-iphone-15-plus-lock-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 15 Plus Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-iphone-6s-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix iPhone 6s Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-apple-iphone-13-pro-max-when-phone-is-broken-drfone-by-drfone-ios/"><u>In 2024, How to Turn Off Find My Apple iPhone 13 Pro Max when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-the-ultimate-guide-to-flawless-remote-recording-experience/"><u>In 2024, The Ultimate Guide to Flawless Remote Recording Experience</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-6s-plus-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>iPhone 6s Plus Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/resolve-your-iphone-13-mini-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your iPhone 13 mini Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/revive-sluggish-excel-operations-in-a-windows-environment/"><u>Revive Sluggish Excel Operations in a Windows Environment</u></a></li>
 </ul></div>
 

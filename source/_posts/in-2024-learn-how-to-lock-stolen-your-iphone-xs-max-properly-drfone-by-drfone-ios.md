@@ -1,7 +1,7 @@
 ---
 title: In 2024, Learn How To Lock Stolen Your iPhone XS Max Properly | Dr.fone
-date: 2025-01-31T04:26:25.261Z
-updated: 2025-01-31T16:38:47.187Z
+date: 2025-02-11T03:23:11.809Z
+updated: 2025-02-15T04:12:29.994Z
 tags: 
   - unlock
   - remove screen lock
@@ -94,10 +94,6 @@ When efforts to locate a stolen iPhone fail, the need to protect sensitive data 
 
 ![erase device from find my](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 2.** Select "Continue" on the erased iPhone screen for the Find My app. Once you've added the number, press "Erase" in the top right corner and follow the on-screen instructions to finish the procedure.
 
 ![follow prompts to erase](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-12.jpg)
@@ -109,10 +105,6 @@ When efforts to locate a stolen iPhone fail, the need to protect sensitive data 
 ## Part 5. Other Things To Do iPhone Is Stolen
 
 There are additional measures you can take to enhance your overall security apart from understanding **how do I lock my stolen iPhone**. The following are some options you should utilize in case of device loss:
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### To Do List #1. Report to Police
 
@@ -128,6 +120,10 @@ To qualify for theft or loss coverage, it is necessary for Find My to be enabled
 
 ![insurance in applecare](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-15.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### To Do List #3. Remove iPhone From Trusted Devices (2FA)
 
 After your Apple iPhone XS Max is stolen, it becomes essential to bolster the security of your online accounts. It is particularly essential for those safeguarded by Two-Factor Authentication (2FA), which needs to be removed:
@@ -137,10 +133,6 @@ After your Apple iPhone XS Max is stolen, it becomes essential to bolster the se
 - **Step 1.** Access Settings on an iOS device logged in with the same Apple ID as the lost one. Here, tap on your name on the following screen and scroll down.
 
 ![open settings and apple id details](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-16.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 2.** Simply select the misplaced device, and in the subsequent interface, press "Remove from Account" to eliminate it from the list of trusted devices.
 
@@ -232,15 +224,15 @@ To show your acknowledgment of the warning, enter the asked code, which is "0000
 
 ![acknowledge and unlock device](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Knowing **how to lock stolen iPhone**s is essential for safeguarding personal and sensitive data. Apple's Find My empowers users to remotely locate, lock, and erase their lost devices. If you have recovered your stolen device but it is locked, Wondershare Dr.Fone emerges as the top choice to unlock it within minutes.
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## How Much Does It Cost for Unlocking iPhones? Get Answers
 
@@ -251,7 +243,7 @@ This well-researched guide will provide facts and cost details of different carr
 ![costing an iphone to unlock](https://images.wondershare.com/drfone/article/2024/02/how-much-will-it-cost-to-unlock-an-iphone-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1. How To Check Whether iPhone Is Locked or Not?
@@ -265,10 +257,6 @@ To check whether your Apple iPhone XS Max is carrier-locked or unlocked from set
 - **Step 1.** Firstly, open your Apple iPhone XS Max "Settings" and tap the "General" option. Move into the “About” section to locate the carrier lock option from the list.
 
 ![check carrier lock from settings](https://images.wondershare.com/drfone/article/2024/02/how-much-will-it-cost-to-unlock-an-iphone-2.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 2.** After that, choose the “Carrier Lock" option to see the restrictions. If your Apple iPhone XS Max is unlocked, it will not show any SIM restriction. If you see the “SIM Locked” restriction, your Apple iPhone XS Max is locked.
 
@@ -467,6 +455,10 @@ The tool starts downloading the iOS firmware and shows the download progress. Af
 
 ![remove locked screen successfully](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Steps To Remove Apple ID Using Wondershare Dr.Fone
 
 Removing iDevice Apple ID is a proven technique to get access to your device screen and use all functions. Here is a comprehensive step-by-step guide to making your device operational by unlocking your Apple ID.
@@ -541,10 +533,6 @@ Configuring the Outlook mail app to fetch emails too frequently causes the issue
 
 The smooth functioning of the Mail app may be disrupted by problems and malfunctions present in the iOS software. Compatibility issues could emerge if your device is not operating on the latest iOS version.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2. \[Fixes\] Solve iPhone/iPad Keeps Asking for Outlook Password
 
 Now that we have explored why the **iPad keeps asking for an Outlook password**, it is time for practical solutions. These 13 fixes discussed below are designed to address the root causes comprehensively:
@@ -560,6 +548,14 @@ If your Apple iPhone XS Max continuously prompts you for the Outlook password, a
 - **Step 2.** Encountering the error message "Account not authenticated" is what you will come across. Now, tap the "Re-enter Password" option to enter your correct Outlook password.
 
 ![reenter outlook password from mail settings](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2. Change the Password to Your Outlook Mail
 
@@ -589,10 +585,6 @@ A strategic approach to resolving authentication issues involves using the Mail 
 
 ![proceed with outlook account](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-7.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 2.** Here, you will find the toggle switch for "Mail." Now, turn off the email service and wait for a few moments. Toggle the switch back on to re-enable the email service.
 
 ![toggle on off mail switch](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-8.jpg)
@@ -608,10 +600,6 @@ Deleting and re-inserting your Outlook account on your Apple iPhone XS Max can p
 - **Step 2.** Once you have deleted the account, return to the "Accounts" tab. Select "Outlook.com" after tapping on "Add Account." Now, follow the on-screen instructions to re-enter your account details.
 
 ![add outlook account](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-10.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6. Re-Check Sync Settings
 
@@ -649,6 +637,10 @@ Exploring alternative mail applications may offer a viable workaround. This is e
 
 ![alternatives of outlook to consider](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-15.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 10. Try Disabling Privacy Protection
 
 Certain privacy protection features on your Apple iPhone XS Max may interfere with the integration of Outlook. To troubleshoot this, consider temporarily disabling privacy protection settings:
@@ -656,6 +648,10 @@ Certain privacy protection features on your Apple iPhone XS Max may interfere wi
 **Instructions.** On your Apple iPhone XS Max, access "Mail" settings through the Settings application. Now, scroll down to find and tap the "Privacy Protection" option in the "Messages" section. Next, you will come across the "Protect Mail Activity" switch. Here, toggle off the switch to check if it is resolved.
 
 ![manage privacy protection](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-16.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 11. Reset All Settings of the iPhone
 
@@ -669,6 +665,10 @@ If the persistent password prompts remain unresolved, resetting all settings on 
 
 ![reset all settings on iphone](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-18.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 12. Add an Account by Switching to IMAP
 
 In some cases, switching the account type to IMAP during the setup process can help resolve issues. For many users, it has worked to resolve issues related to Outlook password prompts. Follow these steps to add your Outlook account using the IMAP protocol:
@@ -676,6 +676,10 @@ In some cases, switching the account type to IMAP during the setup process can h
 - **Step 1.** Begin by accessing the "Settings" app on your Apple iPhone XS Max, then scroll down to locate and tap on "Mail." Within this section, choose "Accounts" to display the roster of email accounts, and proceed to tap on "Add Account."
 
 ![head to accounts in mail](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-19.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2.** Choose "Other" as the account type and select "Add Mail Account." Enter your Name, full Outlook email address, descriptive description, and unique password, and hit "Next.”
 
@@ -737,10 +741,6 @@ Subsequently, you need to place your Apple iPhone XS Max into Recovery Mode. Adh
 
 ![choose device model to start](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - Step 3: Finalizing iOS Device Unlock
 
 Monitor the iOS firmware download progress on the screen. After successful download and verification, proceed by selecting "Unlock Now." A confirmation window will appear, prompting you to input the necessary code. Enter the code and tap Unlock to proceed to the outcome. Upon unlocking the iDevice, click the “Done” button to finalize the process.
@@ -767,16 +767,15 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-amplify-your-footage-the-power-of-enhancer-22/"><u>[New] Amplify Your Footage The Power of Enhancer 2.2</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-artisans-crafting-marvel-fantasy-landscapes-for-2024/"><u>[New] Artisans Crafting Marvel Fantasy Landscapes for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-masterful-edits-highest-rated-video-tools-for-youtube/"><u>[Updated] Masterful Edits Highest Rated Video Tools For YouTube</u></a></li>
-<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-samsung-galaxy-s23-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Samsung Galaxy S23 | Dr.fone</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/elevate-your-pc-performance-with-a-new-gpu-installation-tutorial/"><u>Elevate Your PC Performance with a New GPU Installation Tutorial</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-samsung-galaxy-s24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Samsung Galaxy S24 | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-13-pro-max-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 Pro Max Without Passcode? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-15-without-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 15 Without Passcode? | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-a-step-by-step-approach-to-using-cg-central-luts-in-grading/"><u>In 2024, A Step-by-Step Approach to Using CG Central LUTs in Grading</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-pro-max-apples-new-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 Pro Max, Apples New iPhone | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-se-2022-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone SE (2022) Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-your-perfect-playlist-best-12-pc-games-to-enjoy-more-clicks/"><u>[New] In 2024, Your Perfect Playlist Best 12 PC Games to Enjoy More Clicks</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-voice-memos-inspectors-handbook-for-2024/"><u>[New] Voice Memos Inspector's Handbook for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/how-to-shoot-a-green-screen-video-for-2024/"><u>How to Shoot a Green Screen Video for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-x-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone X when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-15-plus-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 15 Plus After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-your-apple-iphone-6-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Your Apple iPhone 6 Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/is-your-apple-iphone-11-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your Apple iPhone 11 in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2526263-9780811745017-monsters-of-wisconsin/"><u>Monsters of Wisconsin | Free Book</u></a></li>
+<li><a href="https://os-tips.techidaily.com/never-lose-track-again-expert-tips-for-locating-your-parking-spot-via-google-map-assistance/"><u>Never Lose Track Again: Expert Tips for Locating Your Parking Spot via Google Map Assistance</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/premiere-pro-refinements-for-iphone-hd-video-clarity-and-contrast/"><u>Premiere Pro Refinements for iPhone HD Video Clarity and Contrast</u></a></li>
 </ul></div>
 

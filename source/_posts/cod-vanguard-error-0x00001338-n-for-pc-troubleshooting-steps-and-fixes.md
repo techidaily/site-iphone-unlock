@@ -1,7 +1,7 @@
 ---
 title: "CoD Vanguard Error 0X00001338 N for PC: Troubleshooting Steps and Fixes"
-date: 2025-01-27T02:52:27.837Z
-updated: 2025-01-31T16:16:07.582Z
+date: 2025-02-13T23:03:58.177Z
+updated: 2025-02-14T18:02:39.739Z
 tags:
   - win11
   - win10
@@ -29,10 +29,6 @@ Released in November,**Call of Duty: Vanguard** is one of the hottest game title
 6. **[Close background apps](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Make sure your system is up to date](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 1: Repair system files
 
  If the fixes above failed to solve the crashes, it might point to a corrupt or missing game file. Many Vanguard players find restoring system files helps them get rid of random crashes. There’re two ways to repair your system files:
@@ -54,6 +50,10 @@ Here’s how to use Fortect to run a Windows repair:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/fortectstartrepair.png)  
  To fix all the issues automatically, click **Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Check your computer to see if the game still crashes.
 
@@ -68,19 +68,19 @@ Here’s how to use Fortect to run a Windows repair:
 2. Click**Yes** when prompted to confirm.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 3. In the command prompt window, type**sfc /scannow** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/06/img_5b28aee247664.jpg)  
  It’ll take some time for the SFC to replace the corrupted system files with new ones if it detects any, so please be patient.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4. Restart your computer for the changes to take effect.
 5. Check your computer to see if the game still crashes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -97,19 +97,15 @@ Here’s how to use Fortect to run a Windows repair:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1650-super-de-update-all-1.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your PC for the changes to take effect.
 5. Launch CoD, then check to see if the game crashing problem has been resolved. If yes, then great! If the issue still persist, please try**Fix** 3, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 3:**Make sure your PC meets the specs for Vanguard**
 
@@ -141,6 +137,10 @@ To check the specs of your PC:
 
  If your PC specs have been up to the mark but Call of Duty: Vanguard still crashes, please move on to **Fix 4** , below to begin troubleshooting.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Scan & repair Vanguard game files
 
  Call of Duty: Vanguard may crash if certain game files are missing or corrupt. To see if this is the case, you should run a scan & repair to verify its integrity. If any files are missing or found damaged, the tool will repair them for you.
@@ -152,6 +152,10 @@ To check the specs of your PC:
 
 4. Launch Vanguard again and check to see if the crashing issue still occurs.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Disable overlays
 
  The overlay gives you access to features and apps without having to leave the game. However, some players report that the feature could interfere with their gameplay and even block game files.
@@ -159,10 +163,6 @@ To check the specs of your PC:
  If you have enabled the feature on GeForce Experience, Discord, Twitch, or other apps, it’s recommended that you turn them off altogether to see if it mitigates the game crashing problem.
 
 Cod Vanguard crashing still not resolved? Please try Fix 6, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Close background apps
 
@@ -187,12 +187,12 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/checkforupdates.png)
 2. Click **Check for updates** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cc.png)
 3. Wait a while for Windows to check and automatically install the updates for you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 4. Restart your computer.
 
@@ -217,24 +217,22 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-smooth-media-transfer-twitvideos-to-whatsapp-guide/"><u>[New] In 2024, Smooth Media Transfer TwitVideos to WhatsApp Guide</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-players-showcase-top-rated-oculus-devices/"><u>[New] The Ultimate Players Showcase Top-Rated Oculus Devices</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-fiendish-funny-factory/"><u>[Updated] Fiendish Funny Factory</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-the-game-plan-for-creating-a-hit-youtube-introduction-trailer/"><u>[Updated] In 2024, The Game Plan for Creating a Hit YouTube Introduction Trailer</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-craft-your-contents-voyage-from-camera-to-instagram-tv/"><u>2024 Approved Craft Your Content's Voyage From Camera to Instagram TV</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/boost-your-view-count-this-tutorials-top-hit-for-2024/"><u>Boost Your View Count This Tutorial's Top Hit for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/can-you-unlock-apple-iphone-15-pro-max-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>Can You Unlock Apple iPhone 15 Pro Max After Forgetting the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/gain-mastery-over-popular-language-korean-and-squid-game/"><u>Gain Mastery Over Popular Language: Korean & Squid Game</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-12-mini-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 12 mini | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-15-pro-max-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 15 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-ways-to-lock-apps-on-apple-iphone-11-pro-and-ipad-securely-drfone-by-drfone-ios/"><u>In 2024, 7 Ways to Lock Apps on Apple iPhone 11 Pro and iPad Securely | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-14-pro-without-a-passcode-drfone-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone 14 Pro Without a Passcode | Dr.fone</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/24-from-raw-to-masterpiece-the-premier-free-mobile-editors-for-android/"><u>In 2024, From Raw to Masterpiece The Premier Free Mobile Editors for Android</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-se-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone SE? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-pro-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 15 Pro? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-max-passcode-screen-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XS Max Passcode Screen? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-15-pro-drfone-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/unveiling-first-episode-footage-examination-for-2024/"><u>Unveiling First-Episode Footage Examination for 2024</u></a></li>
-<li><a href="https://fox-metric.techidaily.com/vuejs-and-laravel-integration-in-vue-now-by-creative-tim-and-updivision-comprehensive-free-full-stack-software-development-kit-featuring-jsonapi-support/"><u>Vue.js & Laravel Integration in Vue Now by Creative Tim and UPDIVISION: Comprehensive Free Full Stack Software Development Kit Featuring JsonApi Support</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-how-to-prevent-and-mend-streaming-hiccups-in-fb-livestran/"><u>[New] How to Prevent and Mend Streaming Hiccups in FB Livestran</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-comprehensive-guide-to-top-5-free-windows-screen-recorders/"><u>[Updated] 2024 Approved Comprehensive Guide to Top 5 Free Windows Screen Recorders</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-up-to-date-techniques-for-screenshotting-idevices/"><u>[Updated] 2024 Approved Up-to-Date Techniques for Screenshotting iDevices</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-aural-appeal-enhance-videos-with-windows-11s-sound-tools/"><u>2024 Approved Aural Appeal Enhance Videos with Windows 11'S Sound Tools</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/advanced-mp4-to-facebook-converter/"><u>Advanced MP4-to-Facebook Converter</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-iphone-x-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From iPhone X? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-5-most-effective-methods-to-unlock-iphone-15-pro-max-in-lost-mode-drfone-by-drfone-ios/"><u>In 2024, 5 Most Effective Methods to Unlock iPhone 15 Pro Max in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-13-mini-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 13 mini Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-did-your-apple-iphone-xr-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>In 2024, Did Your Apple iPhone XR Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-se-2020-drfone-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-15-without-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 15 Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 8 without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-apple-iphone-6-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone 6 Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-chatgpt-widget-tips-and-tricks-for-android-applications/"><u>Mastering the ChatGPT Widget: Tips & Tricks for Android Applications</u></a></li>
+<li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-vivo-s17e-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Vivo S17e | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-selection-of-free-dns-solutions-and-their-benefits/"><u>The Ultimate Selection of Free DNS Solutions and Their Benefits</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/win-gfx-bug-overcome-interface-functions-correctly/"><u>Win GFX Bug Overcome, Interface Functions Correctly</u></a></li>
 </ul></div>
 

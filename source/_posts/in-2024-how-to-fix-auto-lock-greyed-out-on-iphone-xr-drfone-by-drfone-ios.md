@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on iPhone XR | Dr.fone
-date: 2024-07-15T05:58:34.525Z
-updated: 2024-07-16T05:58:34.525Z
+date: 2025-02-08T23:24:29.070Z
+updated: 2025-02-15T05:33:13.145Z
 tags: 
   - unlock
   - remove screen lock
@@ -21,6 +21,10 @@ Auto-lock on iOS devices serves multiple purposes - it conserves battery life, s
 Read on if you've encountered a similar problem on your iOS device. In this guide, we'll explore the possible reasons and offer steps to fix **Auto-Lock greyed out on iPhone** and iPad devices. If force restarts or settings resets haven't worked for you, we've got alternative solutions. Let's get started.
 
 ![auto lock greyed out on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-01.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Why Is Auto-Lock Greyed Out on iOS Device?
 
@@ -82,10 +86,11 @@ Since an MDM configuration profile causes limitations, like the greyed-out ****A
 - **Step 2:** Select the configuration profile you need to delete.
 - **Step 3:** Tap **Remove Profile**, enter your device passcode, then tap **Remove**.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remove configuration profile on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Fix No.4: Remove Network Settings Installed by MDM
 
@@ -118,9 +123,6 @@ Have you ever bought a used iPad or Apple iPhone XR to find the Auto-Lock option
 
 - **Step 1:** Download and open Dr.Fone on your computer. Next, connect your Apple iPhone XR or iPad to the computer using a USB cable and navigate to **Toolbox** > **Screen Unlock** > **iOS**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![dr.fone toolbox home interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
@@ -186,26 +188,11 @@ For an easy solution, use Dr.Fone Screen Unlock to bypass MDM restrictions, givi
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
-
-
 ## 3 Ways to Unlock Apple iPhone XR without Passcode or Face ID
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![drfone](https://drfone.wondershare.com/images/alice-mj.png)](https://drfone.wondershare.com/author/alice-mj/)
 
 _“How to unlock Apple iPhone XR without passcode? I have forgotten the passcode of My Apple iPhone XR and can’t seem to unlock it after consecutive efforts.”_
-
 
 If you have been [locked out of your Apple iPhone XR](https://drfone.wondershare.com/unlock/get-into-locked-iphone.html) due to different reasons, then you have come to the right place. Lately, many users have told us that their Apple iPhone XR won’t unlock as they have forgotten the new passcode or bought someone else’s device. No matter the situation, you can learn how to unlock Apple iPhone XR without a passcode or Face ID.
 
@@ -213,10 +200,10 @@ As an expert, I tried and tested these methods to unlock iOS devices without usi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wXbqfC7JTKc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
-
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1: How to unlock Apple iPhone XR with a professional tool?
 
 One of the easiest solutions to bypass a locked iPhone is using a dedicated tool like [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). Developed by Wondershare, the tool provides a simple click-through process that can unlock iOS devices easily. It doesn’t matter if the Apple iPhone XR device is locked after consecutive wrong attempts or you have just forgotten your device's passcode tool can help you in different situations.
@@ -224,8 +211,6 @@ One of the easiest solutions to bypass a locked iPhone is using a dedicated tool
 Note： This tool may erase all your data from your iOS devices after unlocking
 
 It is compatible with all the leading iOS devices, including the latest models like iPhone 15. Without any prior technical experience, you can use this tool and fix an Apple iPhone XR that won’t unlock. Here are some main features of this unlocking tool.
-
-
 
 ### Dr.Fone - Screen Unlock
 
@@ -235,6 +220,10 @@ Remove iPhone Lock Screen without Hassle.
 - Save your Apple iPhone XR quickly from the disabled state.
 - Works for all models of iPhone, iPad, and iPod touch.
 - Fully compatible with the latest iOS version.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3981454** people have downloaded it
 
@@ -348,6 +337,10 @@ In this way, if your device is stolen, you can track it immediately with the hel
 
 ![unlock iphone xs without passcode](https://images.wondershare.com/drfone/article/2018/unlock-iphone-x-without-passcode-6.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5.3 Enable two-factor authentication**
 
 Your iCloud account should be protected at any cost. By infiltrating your iCloud account, anyone can erase your phone remotely. It is recommended to enable the two-factor authentication on your account to strengthen its security. Go to your device’s Settings > Apple ID > Passcode & Security and enable the two-factor authentication feature.
@@ -360,6 +353,10 @@ Go to Settings > Face ID & Passcode and turn on the “Erase Data” option. Tho
 
 ![unlock iphone xs without passcode](https://images.wondershare.com/drfone/article/2018/unlock-iphone-x-without-passcode-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 When you know how to unlock Apple iPhone XR without the passcode, you can easily fulfill your requirements. Out of all the provided options, [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is recommended. This is because using the Dr.Fone toolkit is extremely easy. You won’t face any compatibility issues or need to have the technical experience to use this reliable tool. Try it for free and download it on your system to bypass a locked Apple iPhone XR right away.
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
@@ -371,7 +368,6 @@ Apple has always been one of the top successful companies. The reason for its su
 This is the sole reason why Apple focuses so much on privacy through passcodes. But sometimes, these passcodes can be a hurdle in the working of the iPhone.
 
 If you're facing this issue, then you've come to the right place. This article shall cover your queries regarding fixing the Apple iPhone XR passcode that is not working and providing full-depth details for your ease.
-
 
 ## Part 1: Why iPhone is Saying Passcode is Wrong?
 
@@ -388,8 +384,6 @@ Everyone in the field of tech is familiar with Wondershare as it is the most inn
 When it comes to fixing your Apple iPhone XR passcode, which is not working, Wondershare Dr.Fone - [Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) does wonders.
 
 iTunes is another great way to bypass the activation screen without a SIM card. If you’re new to this, here's a small guide on how to use iTunes to bypass the activation screen.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -413,6 +407,10 @@ The first step is to connect your Apple iPhone XR to your computer via cable and
 Select the "Screen Unlock" tool from the given tools on the home interface. Another interface will be displayed on the screen in which you've to select "Unlock iOS Screen."
 
 ![select unlock apple id option](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3: DFU Mode**
 
@@ -476,9 +474,6 @@ First, open iCloud.com on another iOS and write your credentials to sign in your
 
 Click on "Find My iPhone" and select "All devices," and a list of devices will come up which are working under the same Apple ID. Select your Apple iPhone XR.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select iphone on icloud](https://images.wondershare.com/drfone/article/2021/06/iphone-passcode-not-working-3.jpg)
 
 **Step 3: Erase Data and Set up your Apple iPhone XR.**
@@ -486,6 +481,10 @@ Click on "Find My iPhone" and select "All devices," and a list of devices will c
 Now click on the option of “Erase iPhone” to erase all your data and even your passcode. You have the autonomy to set up your Apple iPhone XR from a previous backup or set it up as a new device.
 
 ![erase iphone from icloud](https://images.wondershare.com/drfone/article/2021/06/iphone-passcode-not-working-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3.3 Using iPhone Recovery Mode
 
@@ -511,16 +510,23 @@ When you’re given the option of Restore or Update, choose ‘Restore.' iTunes 
 
 ![restore iphone successfully from itunes](https://images.wondershare.com/drfone/article/2021/06/iphone-passcode-not-working-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4: Set Up your Apple iPhone XR**
 
 Once the process has reached completion, set up your Apple iPhone XR, if this process takes more than 15 minutes, it will leave the Recovery Mode automatically and repeat the steps again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Conclusion
 
 This article has provided you the reasons and best possible ways to fix the issue of the Apple iPhone XR passcode not working in detail. You must follow these steps immediately if you've locked your Apple iPhone XR to avoid further trouble and anxiety.
 
 We hope we have covered every bit of this article perfectly and you have successfully unlocked your Apple iPhone XR without any hassle.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -534,9 +540,20 @@ We hope we have covered every bit of this article perfectly and you have success
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-in-2024-funny-bone-flickers-the-top-20-tiktok-jokes-and-pranks/"><u>[New] In 2024, Funny Bone Flickers The Top 20 TikTok Jokes and Pranks</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-vida-edits-with-ease-a-user-centric-perspective-review-for-2024/"><u>[Updated] Vida Edits with Ease A User-Centric Perspective Review for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/best-places-to-enjoy-cost-free-sports-broadcasts-on-the-internet-2024-edition/"><u>Best Places to Enjoy Cost-Free Sports Broadcasts on the Internet - 2024 Edition</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-vivo-y100-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Vivo Y100</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-motorola-edge-40-pro-to-mac-drfone-by-drfone-android/"><u>How to Mirror Motorola Edge 40 Pro to Mac? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-6-plus-drfone-by-drfone-ios/"><u>How to Unlock iPhone 6 Plus? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabling-iphone-6-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>In 2024, Disabling iPhone 6 Parental Restrictions With/Without Password | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-infinix-hot-40-pro-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Infinix Hot 40 Pro</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-locked-iphone-13-mini-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Forgot Locked iPhone 13 mini Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-can-i-use-a-fake-gps-without-mock-location-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Use a Fake GPS Without Mock Location On Vivo Y100 5G? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-13-with-or-without-password-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone 13 With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6-plus-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 6 Plus Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-13-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 13 | Dr.fone</u></a></li>
+</ul></div>
 

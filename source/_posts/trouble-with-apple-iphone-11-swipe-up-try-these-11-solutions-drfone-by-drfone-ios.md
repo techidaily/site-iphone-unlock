@@ -1,7 +1,7 @@
 ---
 title: Trouble with Apple iPhone 11 Swipe-Up? Try These 11 Solutions | Dr.fone
-date: 2024-07-15T06:00:03.203Z
-updated: 2024-07-16T06:00:03.203Z
+date: 2025-02-10T19:13:02.585Z
+updated: 2025-02-15T05:09:55.089Z
 tags: 
   - unlock
   - remove screen lock
@@ -15,6 +15,10 @@ thumbnail: https://thmb.techidaily.com/4526e24333ba977c51600360964ccfdbc4ba0f9b4
 ---
 
 ## Trouble with Apple iPhone 11 Swipe-Up? Try These 11 Solutions
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: Why Is My iPhone Screen Not Swiping?
 
@@ -48,9 +52,6 @@ Encountering an unresponsive swipe-up gesture on your Apple iPhone 11 can be exa
 
 [Wondershare Dr.Fone - System Repair (iOS)](https://drfone.wondershare.com/ios-system-repair.html) is a reliable solution designed to resolve iOS system issues. It also includes unresponsive gestures like the swipe-up problem on iPhones. This tool specializes in repairing iOS system errors without causing data loss. It offers a comprehensive solution for resolving iOS system issues conveniently from home. With this tool, you can address over 150 iOS system problems.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone wondershare](https://drfone.wondershare.com/style/images/arrow_up.png)
 
 ### Dr.Fone - System Repair (iOS)
@@ -83,6 +84,10 @@ After successfully downloading Dr.Fone on your device, navigate towards the left
 
 ![repair system using dr.fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Opt for iOS Restoration and Enable Recovery Mode**
 
 Select the Apple iPhone 11 device type from the available options and select "iPhone." From the new window, select "iOS Repair," and following that, select "Standard Repair." Now, follow the instructions available and enable recovery mode for your iOS.
@@ -94,7 +99,6 @@ Select the Apple iPhone 11 device type from the available options and select "iP
 After that, you'll reach a window showing different iOS firmware alternatives. Pick any as per your preferences and click "Download." Once the download is complete, click "Repair Now" and "Done" to end the repair process.
 
 ![initiate swipe up repair process](https://images.wondershare.com/drfone/guide/ios-system-repair-6.png)
-
 
 ### Fix 2. Force Restart iPhone
 
@@ -166,6 +170,10 @@ VoiceOver is an accessibility feature on iPhones. It assists users with visual i
 
 ![turn off voice over option](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 9. Customize Touch Accommodations
 
 Touch Accommodations is an accessibility feature on iPhones. It is designed to modify touch sensitivity and enhance touchscreen interactions for users. Customizing these settings might resolve issues with unresponsive gestures like the swipe-up function. Here's how to customize Touch Accommodations to fix **the Apple iPhone 11 12 won't swipe up to unlock**:
@@ -190,6 +198,10 @@ Reduce Motion is an accessibility setting on iPhones designed to reduce animatio
 
 ![turn off reduce motion switch](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-15.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 11. Reset iPhone All Settings
 
 Resetting all settings on your Apple iPhone 11 can help resolve software-related issues. It can help remove conflicts that might be affecting the swipe-up gesture. Note that this action will reset all settings on your device, but it won't delete your data. Here's how to reset all settings to fix **iPhone swipe not working**:
@@ -202,11 +214,13 @@ Resetting all settings on your Apple iPhone 11 can help resolve software-related
 
 ![choose to reset all settings](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-17.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Unlock iPhone Without Swiping Up
 
 Encountering **swipe not working on iPhone** can sometimes lead to difficulties. This is especially the case in unlocking the Apple iPhone 11 device or accessing essential functions. In such scenarios, using [Wondershare Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) provides a reliable solution. It bypasses the swipe-up need and regains access to your Apple iPhone 11 without relying on the problematic gesture. This tool offers a solution to unlock iPhone/iPad devices without the passcode.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -249,23 +263,16 @@ Once the iOS firmware has been successfully downloaded, it undergoes verificatio
 
 ![choose to unlock the iphone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
-
 ## Conclusion
 
 Having trouble with **swipe up not working on an iPhone** can be annoying. It stops you from using important stuff and moving around your phone quickly. This guide has lots of ways to fix it. We've covered simple things like restarting your Apple iPhone 11 and cleaning the screen, as well as more complex stuff like changing settings and using unique options for accessibility. These fixes can help make the swipe-up gesture work again.
 
 We've also talked about a helpful tool called Wondershare Dr.Fone. It's made to fix problems with the lock screen, including issues with swiping on your Apple iPhone 11. Moreover, Dr.Fone - Screen Unlock lets you get into your Apple iPhone 11 even when gestures aren't working properly.
 
-
-
 ## How to Access Your Apple iPhone 11 When You Forget the Passcode?
 
 We all have secrets in our iPhone or some important financial or business data that we all wish to protect from unwanted access. For this, we set up a passcode. But what if Apple iPhone 11 passcode is forgotten by you? Well, you may now wonder how to perform Apple iPhone 11 passcode bypass, right? Worry no more! We’re right here to help you with the proven solutions for Apple iPhone 11 passcode reset without iTunes or with it too. Let’s explore.
 
-
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1. Unlock Apple iPhone 11 screen passcode in one click (unlock tool needed)
 
 The first and the ultimate measure for Apple iPhone 11 passcode removal in just a matter of a single click is [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). With the help of this mighty tool, performing Apple iPhone 11 passcode reset is even easier than any other alternative. Not only it can perform Apple iPhone 11 passcode bypass, you can also make use of this tool to bypass lock screen of an Android smartphone too. Isn’t it amazing? Moreover, this powerful tool works effortlessly with the latest iOS 13 version and even with the most recent iPhone models as well. Here is the step by step tutorial on Apple iPhone 11 passcode bypass.
@@ -294,9 +301,6 @@ On the upcoming screen, you’ll be displayed the “Device Model” and most re
 
 Once, the software downloads the firmware automatically, you can then proceed to Apple iPhone 11 passcode reset. Hit the “Unlock Now” button over the next screen and in a short while you’ll be notified that Apple iPhone 11 passcode removal is completed.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![passcode removal](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
@@ -367,6 +371,10 @@ Now, in case you know the Apple iPhone 11 restrictions passcode and just wish to
 
 ![set up a new passcode](https://images.wondershare.com/drfone/article/2019/09/reset-restrictions-passcode-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Reset iTunes Backup Password Of Apple iPhone 11: Prevention & Solution
 
 When you back up the data from your Apple iPhone 11, iPad, or iPod touch, you will have a copy of the information stored on those devices. It's free to use iTunes, iCloud, or both to back up your device.
@@ -391,7 +399,15 @@ Connecting your device to a computer and using the iTunes program will allow you
 
 ![password security](https://images.wondershare.com/drfone/article/2022/12/reset-iphone-backup-password-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 To improve the safety of your Apple iPhone 11 backup, you should first change the password for your iTunes backup. This will guarantee that no one else can see your backup file and that only you can access it. No one else will have chance to get it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Basic Ways for Password Security
 
@@ -407,18 +423,23 @@ Our step-by-step guide will show you how to reset iPhone backup password in minu
 
 Follow on to learn how to reset your Apple iPhone 11 backup password now!
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. "Reset All Settings" in "Settings."
 
 Get into **Settings** on your iOS device, then choose **General**, and **Reset.**
 
 ![reset](https://images.wondershare.com/drfone/article/2022/12/reset-iphone-backup-password-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now, go to **Reset All Settings** and confirm by entering the security passcode. Your phone will reset to the default setting. Get rid of the password for the last backup without deleting any other apps or data.
 
 ![reset all settings](https://images.wondershare.com/drfone/article/2022/12/reset-iphone-backup-password-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. "Back Up Now" in "iCloud."
 
@@ -452,7 +473,6 @@ So, whether your loved one has forgotten their screen lock code, had their phone
 
 The process is simple -download the software, connect your Apple iPhone 11 to your computer, click a few buttons, and voila! Your device is unlocked with no data loss. And there's no need to jailbreak your device or enter any passwords - it's all done with just a few clicks.
 
-
 With Dr.Fone - Screen Unlock, you can easily follow the steps to remove iTunes backup password.
 
 **Step 1:** Install Dr.Fone, launch it and select the red button **"Screen Unlock."**
@@ -475,15 +495,11 @@ Click **"Remove Now"**
 
 **Step 4:** Dr.Fone will verify and remove your iTunes backup password when the progress bar reaches 100%
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![checking](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-4.png)
 
 **Step 5:** iTunes backup encryption is removed successfully! You can now reset iTunes backup password without any trouble.
 
 ![removed](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-5.png)
-
 
 ## Part 4: Tips to Keep Your Apple iPhone 11 Backup Password
 
@@ -517,7 +533,6 @@ The process to reset iPhone's backup password is not as complicated as you think
 
 Dr.Fone - Screen Unlock is the easiest method to delete the password from your iTunes backup. This program makes regaining access to your phone and its contents as simple as tapping a screen. If you want to avoid going through this procedure again, be sure to implement the suggestions provided in Section 3.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -530,9 +545,18 @@ Dr.Fone - Screen Unlock is the easiest method to delete the password from your i
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-diy-delights-in-motion-personalized-animation-artistry/"><u>[New] 2024 Approved DIY Delights in Motion Personalized Animation Artistry</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-capture-memories-in-teams-snap-camera-guide/"><u>[Updated] In 2024, Capture Memories in Teams Snap Camera Guide</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-infuse-joy-and-creativity-in-every-snap-with-anime-filters/"><u>[Updated] In 2024, Infuse Joy and Creativity in Every Snap with Anime Filters</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-unearthing-user-generated-footage-on-facebook/"><u>[Updated] Unearthing User-Generated Footage on Facebook</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/18-breakthrough-metaverse-models-for-enhanced-perspective/"><u>18 Breakthrough Metaverse Models for Enhanced Perspective</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>3 Ways to Change Location on Facebook Marketplace for Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-erase-iphone-13-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>3 Ways to Erase iPhone 13 When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-13-pro-max-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone 13 Pro Max When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-locked-iphone-15-pro-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>In 2024, Forgot Locked iPhone 15 Pro Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mastering-digital-dimensions-online/"><u>In 2024, Mastering Digital Dimensions Online</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-6-passcode-without-a-computer-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone 6 Passcode without a Computer | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Complete Guide For iPhone XS Max Lock Screen | Dr.fone
-date: 2024-07-15T05:53:19.432Z
-updated: 2024-07-16T05:53:19.432Z
+date: 2025-02-14T05:45:01.215Z
+updated: 2025-02-15T04:51:06.743Z
 tags: 
   - unlock
   - remove screen lock
@@ -24,9 +24,6 @@ We'll explain to you how to use the new features, protect your data, and more. S
 
 Before we get started, you should know that there are three ways to have a customized lock screen in iOS 17. Let's get to know more about them.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ios 17 lock screen](https://images.wondershare.com/drfone/article/2022/11/ios-15-lock-screen-1.jpg)
 
 ### 1\. How to select your favorite wallpaper
@@ -49,11 +46,16 @@ At first, you can go to Settings > Notifications. Here, you can choose how many 
 
 ![lock screen notification setting](https://images.wondershare.com/drfone/article/2022/11/ios-15-lock-screen-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The Do Not Disturb feature is the second way to manage notifications. To do this, go to Settings > Do Not Disturb and enable the feature. You can also schedule when Do Not should turn on and off. This feature work like a charm if you want to silence all notifications at night.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. How to set Auto-Lock time
 
 If you want to set the Auto-Lock time, go to Settings > Display & Brightness > Auto-Lock. Here, you can choose how long it should take for your Apple iPhone XS Max to lock automatically.
@@ -62,6 +64,10 @@ If you want to set the Auto-Lock time, go to Settings > Display & Brightness > A
 
 By default, the Auto-Lock time is set to 30 seconds. But you can choose to lock it immediately, after 1 minute, 5 minutes, or never.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Turn Off/On Lock Screen in iOS 17?
 
 If you want to turn off the lock screen, go to Settings > Touch ID & Passcode (or Face ID & Passcode). Then, scroll down and disable the Unlock with Passcode (or Unlock with Face ID) option.
@@ -69,6 +75,10 @@ If you want to turn off the lock screen, go to Settings > Touch ID & Passcode (o
 Enable the Unlock with Passcode (or Unlock with Face ID) to turn ON the lock screen.
 
 ![ios 17 lock screen](https://images.wondershare.com/drfone/article/2022/11/ios-15-lock-screen-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 But if you have forgotten your passcode, don't worry. The next section will show you how to bypass the lock screen.
 
@@ -120,7 +130,6 @@ A third-party tool named Dr.Fone-Screen Unlock can help you in this regard. The 
 
 First, download/install Dr.Fone-Screen Unlock on your computer or MacBook. You can get it from here:
 
-
 After downloading the tool, install launch it on your PC.
 
 **Step #2: Launch the Application and Go for Screen Unlock**
@@ -155,12 +164,12 @@ After the firmware is downloaded, you need to press the Unlock Now button, and D
 
 ![ios 17 lock screen without passcode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## FAQs
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Why iOS 17 Lock Screen is not working?
 
 There could be many reasons for the malfunction of the Lock Screen in iOS 17. The most common reason is the installation of incompatible jailbreak tweaks. Therefore, it is recommended to remove all the jailbreak tweaks and check whether the problem persists.
@@ -185,6 +194,10 @@ After that, release the Sleep/Wake button but keep holding the Home button until
 
 If the problem still bothers you, you can try using a third-party tool like Dr.Fone-Screen Unlock to reset the phone, eventually fixing the issue.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The Bottom Line
 
 So this is what we want to talk about the iOS 17 Lock Screen with you. We have tried to cover everything in this article, including the new features, lock screen bugs, and how to fix them.
@@ -194,8 +207,6 @@ All the fixes mentioned above are tested and proven to be working. So you can tr
 But if you are still facing problems with your lock screen, then the greatest thing you can do is to use a third-party tool like Dr.Fone-Screen Unlock. This tool is very easy to use and will unlock your device within minutes.
 
 So, if you are looking for a hassle-free solution to fix your lock screen issues, then this is the best one you should never miss.
-
-
 
 ## Forgot Locked Apple iPhone XS Max Password? Learn the Best Methods To Unlock
 
@@ -229,12 +240,15 @@ Once Wondershare Dr.Fone is downloaded and installed on your computer, launch it
 
 ![unlock ios screen with dr fone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
 
-
 - **Step 2. Enter Recovery Mode and Download Firmware**
 
 The next step is to put your device into Recovery Mode after selecting “Start,” for which the instructions are given on the screen. Once your device is in Recovery Mode, Dr.Fone will detect it and show its model. Now select the "System Version” and tap "Start" to proceed. Dr.Fone will now start downloading the firmware, which it will later verify.
 
 ![define model and version](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3. Unlock the iOS Device and Complete the Process**
 
@@ -268,11 +282,12 @@ Even if you've forgotten the password to your Notes on iPhone, there's an altern
 
 ![unlock notes using face id](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** If you want to save the content of the locked note without re-locking it, select all the content. Now, "Copy" the note's content and paste it on a new note to recover the data from a locked note.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![copy locked note content](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-8.jpg)
 
 ## Bonus Tip. Learn How To Lock Notes on iPhone Easily
@@ -287,6 +302,10 @@ Locking notes on your Apple iPhone XS Max provides extra security for your sensi
 
 ![enter password to lock note](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 In conclusion, this article addressed methods for **how to recover locked notes on iPhone**s. It explored options such as using Settings to remove note locks, leveraging Touch ID/Face ID for access, and introducing Wondershare Dr.Fone as a comprehensive solution. Dr.Fone offers a direct approach to unlocking devices when passwords are inaccessible.
@@ -298,8 +317,6 @@ Over the last few years, Apple has made remarkable progress with its flagship iP
 ## Part 1: Erase locked iPhone with Dr.Fone - Screen Unlock (iOS)
 
 One of the best ways to wipe locked iPhone is by using [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) tool. It is an extremely secure and reliable application. It is already compatible with every leading version of iOS and runs on almost all major iOS devices. Available for both Windows and Mac, the tool can be used to remove activation lock and Apple ID. The tool also provides an easy-to-use interface that can help you reset [the activation lock](https://drfone.wondershare.com/icloud/bypass-icloud-activation.html) on your device.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -346,9 +363,6 @@ Sit back and relax as the application will download the essential firmware updat
 
 Once it is done, the application will automatically start resolving the issue on your phone. Make sure that you don’t disconnect your phone while Dr.Fone - Screen Unlock (iOS) will resolve the issue on your device.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![erase iphone when locked-repairing system](https://images.wondershare.com/drfone/drfone/ios-unlock-6.jpg "repairing system")
 
 **Step 7. Unlock completed.**
@@ -381,6 +395,10 @@ If you are looking for an alternative way to learn how to erase iPhone when lock
 
 ![erase iphone when locked-restore iphone](https://images.wondershare.com/drfone/article/2017/07/14993649291284.jpg "restore iphone")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Erase locked iPhone by Find My iPhone
 
 If you haven’t already taken a backup of your phone, then you might find it hard to recover it with iTunes. Another popular way to wipe locked iPhone is by using the Find My iPhone tool. This is mostly implemented in case of a stolen or lost device. One of the best features of Find My iPhone is that it can be used to reset your device remotely. With this, you can protect your personal data without much trouble. Implement these steps to learn how to erase iPhone when locked using Find My iPhone.
@@ -399,7 +417,6 @@ Confirm your choice and wipe locked iPhone remotely using the Find My iPhone fea
 
 After following this informative guide, you would learn how to wipe a locked iPhone without any trouble. Go ahead and pick your preferred option to wipe locked iPhone. We recommend using Dr.Fone - Screen Unlock (iOS) to resolve this issue securely. Though, if you wish to do it remotely, then you can also give Find My iPhone a try as well. If you are familiar with any other reliable method, please let us know how to erase iPhone when locked in the comments below.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -412,9 +429,23 @@ After following this informative guide, you would learn how to wipe a locked iPh
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-discovering-the-power-behind-youtube-statistics-interpretation/"><u>[Updated] 2024 Approved Discovering the Power Behind YouTube Statistics Interpretation</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-the-visual-archive-top-hd-video-recorders-unveiled/"><u>[Updated] 2024 Approved The Visual Archive Top HD Video Recorders Unveiled</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-engaging-audiences-youtube-shorts-vs-tiktok-trends/"><u>[Updated] Engaging Audiences Youtube Shorts Vs. TikTok Trends</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-captured-kinetics-mastering-the-art-of-twitvid-download/"><u>[Updated] In 2024, Captured Kinetics Mastering the Art of TwitVid Download</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-rapid-windows-review-a-step-by-step-approach/"><u>[Updated] In 2024, Rapid Windows Review A Step-by-Step Approach</u></a></li>
+<li><a href="https://discover-hacks.techidaily.com/1-diagnosing-your-hard-drives-health-a-comprehensive-guide-by-yl-computing/"><u>1. Diagnosing Your Hard Drive's Health: A Comprehensive Guide by YL Computing</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-6s-plus-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 6s Plus with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhancing-your-security-on-twitch-with-dual-authentication-step-by-step-instructions/"><u>Enhancing Your Security on Twitch with Dual-Authentication: Step-by-Step Instructions</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-13-pro-max-lock-screen-drfone-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone 13 Pro Max Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-x-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone X without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-11-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>How To Unlock iPhone 11 Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-13-pro-max-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone 13 Pro Max Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-comprehensive-overview-of-whatsapp-voice-calls/"><u>In 2024, Comprehensive Overview of WhatsApp Voice Calls</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-decoding-youtube-income-how-much-does-each-1000-viewer-earn/"><u>In 2024, Decoding YouTube Income How Much Does Each 1,000 Viewer Earn?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-apple-iphone-x-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone X Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-can-i-unlock-my-iphone-xs-max-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>In 2024, How Can I Unlock My iPhone XS Max After Forgetting my PIN Code? | Dr.fone</u></a></li>
+</ul></div>
 

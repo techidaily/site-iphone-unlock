@@ -1,7 +1,7 @@
 ---
 title: In 2024, 3 Ways to Erase iPhone XS Max When Its Locked Within Seconds | Dr.fone
-date: 2024-07-15T05:52:51.476Z
-updated: 2024-07-16T05:52:51.476Z
+date: 2025-02-13T18:32:02.024Z
+updated: 2025-02-14T16:45:24.321Z
 tags: 
   - unlock
   - remove screen lock
@@ -22,8 +22,6 @@ Over the last few years, Apple has made remarkable progress with its flagship iP
 
 One of the best ways to wipe locked iPhone is by using [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) tool. It is an extremely secure and reliable application. It is already compatible with every leading version of iOS and runs on almost all major iOS devices. Available for both Windows and Mac, the tool can be used to remove activation lock and Apple ID. The tool also provides an easy-to-use interface that can help you reset [the activation lock](https://drfone.wondershare.com/icloud/bypass-icloud-activation.html) on your device.
 
-
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Erase the data of an iPhone even if it is locked
@@ -41,9 +39,6 @@ To learn how to erase iPhone when locked, follow these steps:
 
 Start by downloading Dr.Fone - Screen Unlock (iOS) from its official website. Install it on your Windows or Mac and connect your Apple iPhone XS Max to the system whenever you wish to resolve an issue with it. After launching the application, click on the “Screen Unlock” option from the welcome screen.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![erase iphone when locked-Dr.Fone toolkit](https://images.wondershare.com/drfone/guide/drfone-home.png "Dr.Fone toolkit")
 
 **Step 2. Click Start button.**
@@ -51,6 +46,10 @@ Start by downloading Dr.Fone - Screen Unlock (iOS) from its official website. In
 Wait for a while as the application will automatically recognize your phone. Click on the “Start” button to commence the process.
 
 ![erase iphone when locked-connect iphone](https://images.wondershare.com/drfone/drfone/ios-unlock-1.jpg "connect iphone")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3. Put the phone into DFU mode.**
 
@@ -66,10 +65,11 @@ After putting your device into the DFU mode, the application will automatically 
 
 Sit back and relax as the application will download the essential firmware update for your phone.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![erase iphone when locked-download the firmware](https://images.wondershare.com/drfone/drfone/ios-unlock-5.jpg "download the firmware")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5. Start to unlock.**
 
@@ -139,7 +139,6 @@ Let's get started.
 
 If you search for a simple and effective way to factory reset your locked iPhone without iTunes, you should check out Dr.Fone-Screen Unlock. This professional iOS screen unlocks tool can help you erase all kinds of data from your Apple iPhone XS Max and help you unlock your device within a few minutes.
 
-
 For this, you will need to follow the steps given below.
 
 **Step #1: Download and Install Dr.Fone-Screen Unlock on a Computer or Mac:**
@@ -166,6 +165,10 @@ After your Apple iPhone XS Max is in recovery mode, you need to select the appro
 
 ![factory reset locked iphone without itunes](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step #5: Reset your Apple iPhone XS Max:**
 
 Once the firmware is downloaded, you can click on the "Unlock Now" button to begin resetting your device.
@@ -176,11 +179,19 @@ The process will take a few minutes if you have a strong internet connection bec
 
 ![factory reset disabled iphone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3 Simple Methods to Factory Reset Locked iPhone
 
 Besides the above-given method, other methods can also help you factory reset your locked iPhone without iTunes.
 
 These methods are as follows:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method #1: Factory reset via the Find My feature on your device
 
@@ -246,6 +257,10 @@ No. If you want a factory reset, all your data will be erased, so make a backup 
 
 But if you want your Apple iPhone XS Max set to return to the default without losing your data, you can do a "Reset All Settings." This will not touch your data but will return all the default settings.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3\. What is the Difference Between a Soft Reset and a Hard Reset?
 
 A soft reset is when you restart your device, and a hard reset is when you factory reset all the settings on your device and start fresh. A factory reset is a type of hard reset without losing the data.
@@ -269,6 +284,10 @@ Your device will now be reset, and you will have a phone like a new one.
 ### 5\. How can I get into a locked iPhone?
 
 If you have lost the passcode of your Apple iPhone XS Max, then you can use the Dr.Fone-Screen Unlock tool to factory reset your device. To do this, you need to proceed with the steps given above. They are easy to follow and will help you reset your device without risk.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The Bottom Line
 
@@ -348,6 +367,10 @@ If you have never tried to sync your device with iTunes or used the Find My iPho
 
 **Step 6:** Confirm your action and wait for the process to be completed. Once done, you can set up your device as new and use it without a passcode.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Use Siri (only iOS version 10)
 
 You can use this hack to unlock your Apple iPhone XS Max without a passcode. But it just functions on devices running iOS 10 or lower. So, if you are using a newer version of iOS, this method won't work for you.
@@ -367,15 +390,11 @@ Here's how you can use Siri to bypass the Passcode:
 But this method will not work on newer iPhones 11/12/13 and iPhone 14 because they run on the latest iOS.
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Dr.Fone-Screen Unlock
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone Without Passcode.
@@ -415,10 +434,10 @@ Once the process is completed, your Apple iPhone XS Max will be unlocked, and yo
 
 This is the easiest and most effective way to reset your Apple iPhone XS Max passcode. So, if you're looking for a hassle-free solution, this is the one you should choose.
 
-
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How Can I Turn On/Off the Passcode on My iPhone?
 
 If you want to turn the Passcode ON your Apple iPhone XS Max, then follow these steps:
@@ -443,9 +462,6 @@ As you see in the article, there are some ways to reset your Apple iPhone XS Max
 
 If you're not interested in using a third-party tool, you can try one of the methods mentioned above. But keep in mind that these methods may only work on some iPhones. So, if you need help deciding which way to use it, we recommend going with Dr.Fone-Screen Unlock.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -458,9 +474,22 @@ If you're not interested in using a third-party tool, you can try one of the met
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-orchestrate-your-pixels-with-offline-harmony-for-2024/"><u>[New] Orchestrate Your Pixels With Offline Harmony for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-step-into-new-realms-with-vr-technology/"><u>[New] Step Into New Realms with VR Technology</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-navigating-the-viral-terrain-with-smart-instagram-video-tactics/"><u>[Updated] 2024 Approved Navigating the Viral Terrain with Smart Instagram Video Tactics</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-unlocking-potential-master-dvd-burning-with-your-mac/"><u>2024 Approved Unlocking Potential Master DVD Burning with Your Mac</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-the-power-of-the-llium-giant-a-unique-dual-gpu-linux-beast/"><u>Exploring the Power of The Llium Giant: A Unique Dual-GPU Linux Beast</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-apple-iphone-se-2022-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on Apple iPhone SE (2022) With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-itel-s23-by-fonelab-android-recover-messages/"><u>How To Restore Missing Messages Files from Itel S23</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-11-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 11 Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-12-mini-without-itunes-drfone-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 12 mini Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-open-your-iphone-14-pro-max-without-a-home-button-drfone-by-drfone-ios/"><u>In 2024, How To Open Your iPhone 14 Pro Max Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-apple-iphone-8-plus-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From Apple iPhone 8 Plus? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-pro-without-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Pro Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-7-plus-properly-drfone-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone 7 Plus Properly | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/key-steps-in-manipulating-song-pace-in-spotify-app/"><u>Key Steps in Manipulating Song Pace in Spotify App</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211017429-9791028528423-le-theme-de-cristal-33-pierres-pour-optimiser-vos-potentiels/"><u>Le thème de cristal : 33 pierres pour optimiser vos potentiels | Free Book</u></a></li>
+</ul></div>
 

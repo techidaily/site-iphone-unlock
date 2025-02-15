@@ -1,7 +1,7 @@
 ---
 title: Complete Guide on Unlocking iPhone XR with a Broken Screen? | Dr.fone
-date: 2024-07-15T05:55:53.848Z
-updated: 2024-07-16T05:55:53.848Z
+date: 2025-02-09T06:11:01.782Z
+updated: 2025-02-14T19:47:39.667Z
 tags: 
   - unlock
   - remove screen lock
@@ -47,9 +47,17 @@ Also, if your Apple iPhone XR screen is broken, you can use this feature to unlo
 
 ![all devices](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5.** Click on 'Erase iPhone'. Click on 'Erase' again after the confirmation text.
 
 ![erase your iphone](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 6.** Enter the password to proceed.
 
@@ -98,6 +106,10 @@ You need to ask Siri, "Siri, what time is it?" or "Siri, what time is it in the 
 
 ![add new clock](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-broken-screen-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3.** At the point when another clock is added, you will have the choice to share the new clock.
 
 **Step 4.** Click on the share button and Pick the Message choice.
@@ -119,7 +131,6 @@ Besides, it works for iPhones with iOS 8.0 to 10.1. These bugs are fixed in the 
 ## Bonus Tips: Easy Broken iPhone Unlock Tool
 
 ### Dr.Fone-Screen Unlock
-
 
 The quickest way to **unlock iPhone with broken screen** is to use an unlocking tool. However, there are tons of tools available in the market, but it is our responsibility to suggest you the best way.
 
@@ -145,6 +156,10 @@ Dr.Fone will now show you the phone Model and OS version. You can choose the rig
 
 ![select phone model](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4. Unlock the Screen Now**
 
 After the firmware is downloaded effectively, click Unlock Now.
@@ -153,10 +168,13 @@ After the firmware is downloaded effectively, click Unlock Now.
 
 In almost no time, the software will unlock your Apple iPhone XR effectively. However, note that this unlocking will likewise wipe your user data.
 
-
 ### The Bottom Line
 
 Having an iPhone with a broken screen can make your life hard. It keeps you from communicating and carrying out important tasks on the phone. But we can make this situation work your way. Therefore, we have furnished the above list to help you **unlock iPhone with broken screen.** Even if none of the methods work, Dr.Fone can still get our phone unlocked.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3 Easy Ways to Factory Reset a Locked Apple iPhone XR Without iTunes
 
@@ -171,7 +189,6 @@ Let's get started.
 ## Easy App to Factory Reset Locked iPhone
 
 If you search for a simple and effective way to factory reset your locked iPhone without iTunes, you should check out Dr.Fone-Screen Unlock. This professional iOS screen unlocks tool can help you erase all kinds of data from your Apple iPhone XR and help you unlock your device within a few minutes.
-
 
 For this, you will need to follow the steps given below.
 
@@ -197,9 +214,6 @@ Once Dr. Fone detects your device, you will see the following screen.
 
 After your Apple iPhone XR is in recovery mode, you need to select the appropriate firmware for your device. Once you have selected the firmware, click on the " Download " button to start downloading it.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![factory reset locked iphone without itunes](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 **Step #5: Reset your Apple iPhone XR:**
@@ -237,8 +251,9 @@ To do this, you need to follow these steps:
 Now that your device has been erased, you can reset it as a new one.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method #2: Use the Find My feature via another device to remotely factory reset your device (your apple id, password, and Internet required)
 
 This is another method you can use if you have the " Find My iPhone " feature on your device. You can use this method to remotely factory reset your locked iPhone without iTunes by using another iOS device.
@@ -273,14 +288,15 @@ To do this, you need to follow these steps:
 
 Your device will now be erased, and it'll become a new device.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## FAQs
 
 ### 1\. Can a Factory Reset Bypass the Lock screen Passcode on iPhone?
 
 Yes. A factory reset will bypass the lock screen passcode on your Apple iPhone XR and allow you to access it without a passcode. However, all your data will disappear, so make sure you have a backup.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Can I Factory Reset my iPhone without Losing the Data?
 
@@ -320,13 +336,15 @@ However, if you want to factory reset your Apple iPhone XR because you have forg
 
 This app can help you factory reset your locked iPhone without iTunes in just a few minutes, and it is very easy to use. So, if you want to reset your device without any data loss, we recommend using this app.
 
-
-
 ## 4 Ways to Unlock Apple iPhone XR to Use USB Accessories Without Passcode
 
 _How do I unlock my Apple iPhone XR? I know you're supposed to connect it to the computer and put it in recovery mode but when I do, it says “unlock Apple iPhone XR to use accessories.”_
 
 ![unlock-iPhone-to-use-accessories](https://images.wondershare.com/drfone/unlock-new/unlock-usb/unlock-iPhone-to-use-accessories.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You may have had the experience of connecting your Apple iPhone XR to a computer with USB accessories. Usually, "**Unlock Apple iPhone XR to use accessories**" will appear on the screen. In most cases, enter the passcode to unlock the phone, and you can then proceed with data transfer and management. What to do if you forget your screen lock passcode? Here come the most effective methods for you!
 
@@ -367,10 +385,11 @@ Now, here comes an amazing App with many benefits to solving the problem for you
 
 **Step 2:** Connect your Apple iPhone XR to the computer with a lightning cable, and choose “Unlock iOS Screen".
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![start to remove iphone lock screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Follow the guides to boot your device in Recovery or DFU mode. The Recovery mode is recommended for iOS lock screen removal by default. If you fail to turn on recovery mode, you can turn to activate DFU mode. DFU means Device Firmware Upgrade, and the operation is more mandatory.
 
@@ -390,7 +409,6 @@ There is no doubt that you may worry about losing all your data while bypassing 
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/M3tfU3GUTpk"></iframe>
 
-
 ## Part 4: How to Unlock Apple iPhone XR to Use USB Accessories without Passcode via iCloud?
 
 With iCloud, you can quickly clean up your Apple iPhone XR, remove screen locks, and help unlock your device. But, you have to know that all your data will be erased. Make sure your Apple iPhone XR has the "Find My iPhone" function enabled, otherwise your device will be offline.
@@ -398,6 +416,10 @@ With iCloud, you can quickly clean up your Apple iPhone XR, remove screen locks,
 **Step 1:** Open your computer or another iOS device, and sign in with your Apple account.
 
 ![find-my-iphone](https://images.wondershare.com/drfone/unlock-new/unlock-usb/find-my-iphone.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** Click on “All Devices”, choose your Apple iPhone XR, and then “Erase iPhone”.
 
@@ -432,9 +454,6 @@ If you have forgotten your Apple ID or password and have not synced iCloud and i
 
 2\. Quickly press and hold the button while connecting your phone and computer until the recovery mode appears.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![recovery-mode](https://images.wondershare.com/drfone/unlock-new/unlock-usb/recovery-mode.png)
 
 **Step 4:** Find your tool in iTunes on the computer. Choose Restore and this process will take a few minutes.
@@ -467,7 +486,6 @@ It is very common to use USB accessories to connect iPhone and computer. Sometim
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -480,9 +498,17 @@ It is very common to use USB accessories to connect iPhone and computer. Sometim
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-powerpoint-presentations-merging-text-with-tuneable-tracks/"><u>[New] PowerPoint Presentations Merging Text with Tuneable Tracks</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-snappy-snippets-quick-and-quirky-memes-guide-for-2024/"><u>[Updated] Snappy Snippets Quick and Quirky Memes Guide for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-unveiling-the-secret-how-to-disable-youtube-snippet-playback-for-2024/"><u>[Updated] Unveiling the Secret How to Disable YouTube Snippet Playback for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-step-by-step-guide-to-android-movie-upturning/"><u>2024 Approved Step-by-Step Guide to Android Movie Upturning</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/charging-made-effortless-and-cool-discover-the-revolutionary-3-in-1-magsafe-charger-compatible-with-apple-devices-zdnet-review/"><u>Charging Made Effortless & Cool: Discover the Revolutionary 3-in-1 MagSafe Charger Compatible with Apple Devices | ZDNET Review</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-iphone-8-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My iPhone 8 when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-apple-iphone-11-drfone-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-15-plus-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone 15 Plus Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-your-disabled-iphone-13-mini-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>In 2024, Unlock Your Disabled iPhone 13 mini Without iTunes in 5 Ways | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/who-can-benefit-from-nvidias-ai-foundation-unraveling-its-use-cases-in-customizable-generative-ai-services/"><u>Who Can Benefit From NVIDIA's AI Foundation: Unraveling Its Use Cases in Customizable Generative AI Services</u></a></li>
+</ul></div>
 

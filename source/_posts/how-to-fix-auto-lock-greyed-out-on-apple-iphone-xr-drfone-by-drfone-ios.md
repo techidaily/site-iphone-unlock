@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on Apple iPhone XR | Dr.fone
-date: 2024-07-15T05:54:45.995Z
-updated: 2024-07-16T05:54:45.995Z
+date: 2025-02-08T22:43:13.014Z
+updated: 2025-02-14T17:39:22.711Z
 tags: 
   - unlock
   - remove screen lock
@@ -20,14 +20,8 @@ Auto-lock on iOS devices serves multiple purposes - it conserves battery life, s
 
 Read on if you've encountered a similar problem on your iOS device. In this guide, we'll explore the possible reasons and offer steps to fix **Auto-Lock greyed out on iPhone** and iPad devices. If force restarts or settings resets haven't worked for you, we've got alternative solutions. Let's get started.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![auto lock greyed out on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Why Is Auto-Lock Greyed Out on iOS Device?
 
 There are a few reasons why the Auto-Lock might be greyed out on your Apple iPhone XR or iPad device, preventing you from adjusting the duration. Here are the most common culprits:
@@ -137,15 +131,16 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 ![start to bypass mdm](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5:** If prompted, go to your device's **Settings** > **Apple ID** > **iCloud** and turn off the **Find My** feature. Next, click **OK** to initiate the MDM bypass.
 
 ![dr.fone guide turn off find my](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-4.png)
 
 - **Step 6:** The software will display the progress of the bypass. Wait for it to complete.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![dr.fone bypassing mdm lock](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-5.png)
 
 - **Step 7:** You'll see a confirmation message once the bypass is successful. Click **Done** to exit. Your device should now be free from MDM restrictions.
@@ -181,6 +176,10 @@ Here's **how to change Auto-Lock on iPhone** devices:
 
 ![change auto-lock on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-18.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 There you have it. This guide has equipped you with the knowledge and solutions to fix the **Auto-Lock greyed out** on your Apple iPhone XR or iPad devices. From identifying the reasons like Low Power Mode and MDM configurations to implementing actionable fixes, you can now change your screen timeout. So, turn off those restrictions, remove MDM profiles, and head back to Settings.
@@ -203,9 +202,6 @@ Unfortunately, this capability may also become problematic if you inadvertently 
 
 But the good news is you have some possible fixes. So, let's talk about them.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: 4 Possible Ways to Fix Asking for iPhone Backup Password
 
 Many iPhone users have problems with iTunes when they back up their devices.
@@ -213,6 +209,10 @@ Many iPhone users have problems with iTunes when they back up their devices.
 One of the most common issues is that people are asked for their iPhone backup password never set, but they need to know what it is. This can be frustrating because you can only back up your device if you have the password.
 
 There are a few possible ways to fix this problem. Try resetting your password or using a different computer to back up your device. You could also try using a third-party software tool like Dr.Fone - Screen Unlock.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Try all passwords you use on iPhone
 
@@ -235,6 +235,10 @@ The likelihood of success with this approach is relatively low. However, it is s
 3. On this page, choose Show Password to get the password for the Apple iPhone XR backup. However, you will first be prompted to provide the administrator password associated with your iCloud account to recover the password.
 
 ![keychain](https://images.wondershare.com/drfone/article/2022/12/iphone-backup-password-never-set-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. "Reset All Settings"
 
@@ -259,6 +263,10 @@ You will need to use an alternative strategy, which includes a factory reset if 
 **Step 2:** After you have opened the **Settings** app, go to the **General** menu, then to the **Reset** menu, and finally to the **Erase All Content and Settings** option.
 
 ![reset in settings](https://images.wondershare.com/drfone/article/2022/12/iphone-backup-password-never-set-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Confirm that you want to reset your Apple iPhone XR to factory settings, and wait until it is done.
 
@@ -298,14 +306,11 @@ Please read the following three notes carefully before clicking the **"Remove No
 
 ![removed](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-5.png)
 
-
 ### The Bottom Line
 
 There are four ways to fix the problem if iTunes keeps asking for your Apple iPhone XR backup password. The first method is to try all the passwords you use on your Apple iPhone XR. You can try finding the password from Keychain on macOS if this does not work. Another option is to "Reset All Settings" on your Apple iPhone XR.
 
 Lastly, Dr.Fone-Screen Unlock is a program that can help you bypass the passcode and get into your backups. So, what are you waiting for? It's time to avoid the problem of iTunes backup password never set.
-
-
 
 ## How to Unlock Apple iPhone XR with a Mask On
 
@@ -314,6 +319,10 @@ Are you tired of wearing a mask in this pandemic? Apple introduced a new feature
 Only iPhone 12 and the latest models can use Face ID with a mask on, which reflects that models like iPhone 11, iPhone X, and the older models cannot utilize this function. Moreover, an additional way to unlock iPhone is to use Apple Watch to unlock iPhone 11, X, or earlier models.
 
 Once you meet these requirements, you can easily unlock your Apple iPhone XR while wearing a mask and get further details by reading this article.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: How to Unlock iPhone Face ID with a Mask on
 
@@ -338,9 +347,6 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 **Step** **1:** Navigate to the app "Settings" from the home screen of your Apple iPhone XR. From the displayed menu, select "Face ID & Passcode." Enter your passcode to give verification.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![tap on face id and passcode](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-1.jpg)
 
 **Step 2:** Tap on the toggle switch of "Use Face ID with a Mask." Afterward, select "Use Face ID with a Mask" to begin with settings.
@@ -351,9 +357,17 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 ![scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** After scanning your face twice, select "Add Glasses" by tapping on it. You can use your Face ID while wearing your regular glasses. Make sure that you scan your face with every pair of glasses daily.
 
 ![add your glasses for face id](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 After carefully following the steps mentioned above, you are ready to **unlock your Face ID with a mask**. Remember that Face ID will scan and focus mainly on your eyes and forehead. However, it cannot work in the scenarios if you have completely concealed your look by wearing hats or accessories that can hide your face.
 
@@ -377,13 +391,19 @@ To enable the feature of unlocking the Apple iPhone XR with an Apple Watch, the 
 
 ![enable apple watch unlock option](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After enabling this feature, you can unlock your Apple iPhone XR with a mask on through your Apple Watch. You need to grab your phone and hold it the same way you would in a normal Face ID scan. The phone will be unlocked, and you will feel a slight vibration on the wrist. Also, a notification will pop up on your watch, indicating that your Apple iPhone XR has been unlocked.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus Tips: Unlock iPhone Without Any Experience
 
 Are you stuck with your locked iPhone? Don't worry, as [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) can unlock any screen passcode, Face ID, Touch ID, and PINs. You don't need any technical experience to use this tool, as the user interface is pretty simple and understandable. Moreover, it works perfectly well on all iOS devices at the best possible speed.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -404,7 +424,6 @@ You can also unlock Apple ID and iCloud passwords without losing the data. Also,
 
 We all can relate that unlocking an iPhone on Face ID while wearing a face mask in a pandemic era is annoying. That's why Apple introduced a new feature of unlocking the Apple iPhone XR Face ID with a mask on to help individuals who rely entirely on Face ID. Find out about enabling this feature to easily unlock your Apple iPhone XR Face ID while wearing a mask.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -417,9 +436,26 @@ We all can relate that unlocking an iPhone on Face ID while wearing a face mask 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/new-crafting-the-perfect-end-screen-youtube-template-guidebook/"><u>[New] Crafting the Perfect End Screen - YouTube Template Guidebook</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-a-comprehensive-tutorial-for-customizing-video-covers-on-social-media/"><u>[Updated] A Comprehensive Tutorial for Customizing Video Covers on Social Media</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-how-to-allocate-more-ram-to-minecraft-for-2024/"><u>[Updated] How to Allocate More Ram to Minecraft for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-uncomplicated-steps-to-record-instagrams-story-feed/"><u>[Updated] In 2024, Uncomplicated Steps to Record Instagram's Story Feed</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-unlock-iphone-11-pro-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>3 Ways to Unlock iPhone 11 Pro without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-xs-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone XS in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-iphone-15-pro-max-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 15 Pro Max Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/can-chatgpts-humor-beats-human-wit-unleashing-the-power-of-ai-in-making-us-giggle/"><u>Can ChatGPT's Humor Beats Human Wit? Unleashing the Power of AI in Making Us Giggle</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/diagnosing-and-overcoming-game-crash-issues-for-a-seamless-ffxiv-pc-experience/"><u>Diagnosing and Overcoming Game-Crash Issues for a Seamless FFXIV PC Experience</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabling-iphone-13-mini-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>Disabling iPhone 13 mini Parental Restrictions With/Without Password | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-when-your-touchpad-scroll-function-fails-a-complete-guide/"><u>Effective Fixes When Your Touchpad Scroll Function Fails – A Complete Guide</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-calculating-riches-a-look-at-mr-beasts-wallet/"><u>In 2024, Calculating Riches A Look at Mr. Beast's Wallet</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-discover-top-asmr-for-iosandroid-devices/"><u>In 2024, Discover Top ASMR for iOS/Android Devices</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-12-mini-with-or-without-password-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone 12 mini With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 11 Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-8-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>iPhone 8 Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/passfab-apple-iphone-12-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>PassFab Apple iPhone 12 Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-x-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone X | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/windowgrabber-3d-top-choice-for-2024/"><u>WindowGrabber 3D - Top Choice for 2024</u></a></li>
+</ul></div>
 

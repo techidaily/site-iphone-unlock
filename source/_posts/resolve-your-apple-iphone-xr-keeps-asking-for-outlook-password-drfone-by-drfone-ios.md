@@ -1,7 +1,7 @@
 ---
 title: Resolve Your Apple iPhone XR Keeps Asking for Outlook Password | Dr.fone
-date: 2024-07-15T05:54:44.830Z
-updated: 2024-07-16T05:54:44.830Z
+date: 2025-02-14T04:41:18.040Z
+updated: 2025-02-14T18:27:17.803Z
 tags: 
   - unlock
   - remove screen lock
@@ -50,9 +50,17 @@ Other mail applications installed on the Apple iPhone XR can also cause an issue
 
 Configuring the Outlook mail app to fetch emails too frequently causes the issue. It can strain the connection with Outlook servers, leading to authentication challenges. That causes issues like the Apple iPhone XR asking for a password.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 7\. iOS Software Glitches
 
 The smooth functioning of the Mail app may be disrupted by problems and malfunctions present in the iOS software. Compatibility issues could emerge if your device is not operating on the latest iOS version.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. \[Fixes\] Solve iPhone/iPad Keeps Asking for Outlook Password
 
@@ -64,9 +72,6 @@ If your Apple iPhone XR continuously prompts you for the Outlook password, a sim
 
 - **Step 1.** You begin by accessing your iDevice’s “Settings” app and scrolling down to tap the "Mail" option. Next, press "Accounts," and on the following screen, select the Outlook account.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![head to mail accounts in settings](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-2.jpg)
 
 - **Step 2.** Encountering the error message "Account not authenticated" is what you will come across. Now, tap the "Re-enter Password" option to enter your correct Outlook password.
@@ -113,6 +118,10 @@ Deleting and re-inserting your Outlook account on your Apple iPhone XR can provi
 
 ![delete outlook account from mail](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** Once you have deleted the account, return to the "Accounts" tab. Select "Outlook.com" after tapping on "Add Account." Now, follow the on-screen instructions to re-enter your account details.
 
 ![add outlook account](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-10.jpg)
@@ -136,6 +145,14 @@ Is the Outlook app generally showing a lot of glitches on your Apple iPhone XR? 
 **Instructions:** On your Apple iPhone XR's home screen, navigate to the Outlook mail app. Long-press the Outlook app icon and choose "Remove App" from the pop-up menu. Then, tap "Delete App" and follow it by pressing "Delete" to uninstall the app. Afterward, access the App Store and download the Microsoft Outlook app again.
 
 ![remove outlook app from device](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-13.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8. Update iOS From Settings
 
@@ -167,9 +184,6 @@ If the persistent password prompts remain unresolved, resetting all settings on 
 
 - **Step 1.** Navigate to the "General" tab in the "Settings" app on your Apple iPhone XR after you open it. Move down the screen, and at the bottom, choose "Transfer or Reset iPhone."
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![access transfer or reset option](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-17.jpg)
 
 - **Step 2.** On the following screen, tap "Reset" and select "Reset All Settings" from the available options. Enter your device passcode if prompted and confirm the action by selecting "Reset All Settings" again.
@@ -184,9 +198,17 @@ In some cases, switching the account type to IMAP during the setup process can h
 
 ![head to accounts in mail](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-19.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** Choose "Other" as the account type and select "Add Mail Account." Enter your Name, full Outlook email address, descriptive description, and unique password, and hit "Next.”
 
 ![add new imap mail account](https://images.wondershare.com/drfone/article/2024/01/iphone-keeps-asking-for-outlook-password-20.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3.** Utilize the specified settings for the "Incoming Mail Server" and "Outgoing Mail Server" sections under the “IMAP” tab:
 
@@ -238,14 +260,10 @@ Once you've launched Dr.Fone on your computer, go to Toolbox. Here, tap "Screen 
 
 ![select unlock ios screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-2.png)
 
-
 - Step 2: Initiating iPhone Recovery Mode and Device Identification
 
 Subsequently, you need to place your Apple iPhone XR into Recovery Mode. Adhere to the on-screen instructions corresponding to the model of your iDevice. Afterward, the tool will automatically detect the "Device Model." If necessary, adjust the model and choose the "System Version." Once these steps are completed, click "Start" to initiate the unlocking process.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![choose device model to start](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 - Step 3: Finalizing iOS Device Unlock
@@ -281,6 +299,10 @@ These methods will be easy to follow because of the detailed step-by-step guide.
 Many people need to realize that you can unlock your Apple iPhone XR in Recovery Mode. This built-in feature of the Apple iPhone XR allows you to turn your device to its factory settings.
 
 ![unlock found iphone in recovery mode with itunes](https://images.wondershare.com/drfone/article/2022/11/i-found-an-iphone-how-do-i-unlock-it-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 But there are two ways to unlock a found iPhone from recovery mode. The old iPhones, like iPhone 5 to iPhone 7 and 7 Plus, can be unlocked from recovery mode differently, and the newer iPhone models have different methods.
 
@@ -333,7 +355,6 @@ If the above method doesn't work or iTunes is not detecting that iPhone, you can
 
 If none of the above methods can be used for you, there is an ultimate method that will surely help you if you want to unlock a found iPhone.
 
-
 Here are the simple steps that can help you.
 
 1. First, connect your Apple iPhone XR to the computer with a lightning cable and launch Dr.Fone on your computer.
@@ -364,7 +385,6 @@ Here are the simple steps that can help you.
 
 So that's how you can easily unlock a found iPhone. This method has been tested, and it will surely work for you. So, if you have an iPhone that is locked or disabled, you can use this method to unlock it without any problem.
 
-
 ## What Can I Do to Contact Its Owner?
 
 Once the found iPhone is successfully unlocked, you can contact its owner in many ways.
@@ -391,9 +411,6 @@ To do this, go to the emergency call screen and tap on the Medical ID option. He
 
 This is a great way to contact the owner of a lost iPhone. You can use this method if you cannot find the owner's phone number in the lost mode or medical ID.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![contact the owner with the picloud share photo library](https://images.wondershare.com/drfone/article/2022/11/i-found-an-iphone-how-do-i-unlock-it-8.jpg)
 
 To do this, go to Settings -> iCloud -> Photos and turn on the iCloud Photo Library. Now, take some pictures with the found iPhone, and they will be automatically uploaded to iCloud.
@@ -410,8 +427,6 @@ All the methods mentioned above have a high success ratio, but the last ultimate
 
 Dr.Fone-Screen Unlock is one of the most effective ways can help you to unlock a found iPhone. This method has been tested, and it will surely work for you. So, if you have an iPhone that is locked or disabled, you can use this method to unlock it without any problem.
 
-
-
 ## How to Unlock Apple iPhone XR, Apple's New iPhone
 
 It has happened to all of us at some point in the other. The chances of it happening are notoriously higher when you just started using it. We are talking of passcodes on iPhones. Apple requires setting up a 6-digit passcode to use some features such as Face ID on your Apple iPhone XR. So, you thought it was a great idea to set up your new Apple iPhone XR with a new passcode, right? The only problem is that the 6 digits you thought are bulletproof and no one will be able to come up with them in relation to you, are not coming to you either. You forgot the newly set passcode, entered the incorrect passcode more times than the software was happy about, and the Apple iPhone XR is locked now. What to do? Read on.
@@ -422,12 +437,7 @@ There can be a few reasons why your Apple iPhone XR is locked, the primary ones 
 
 We understand how frustrating it can be when your newly purchased Apple iPhone XR does not unlock because of a passcode entry issue, and all you want to do is get the screen unlocked. At Wondershare, we strive to create meaningful differences in the lives of the people that use our software and keeping that in mind, we have a solution for you to unlock your Apple iPhone XR passcode screen using Dr.Fone - Screen Unlock (iOS).
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ### II.I Using Dr.Fone - Screen Unlock (iOS) to Unlock the Locked Apple iPhone XR
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -449,6 +459,10 @@ Step 2: Connect your locked Apple iPhone XR to the computer.
 Step 3: Launch Dr.Fone and select the Screen Unlock module.
 
 ![Apple iPhone XR unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 4: Select Unlock iOS Screen.
 
@@ -477,6 +491,10 @@ Step 1: If you have any other Apple device that is logged in with the same Apple
 Step 2: Under Find My (or Find My iPhone if you are using the iCloud website), select your Apple iPhone XR and click Erase iPhone and confirm.
 
 ![find my iphone](https://images.wondershare.com/drfone/article/2021/09/unlock-iphone-13-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 That's it. You will have wiped and unlocked your Apple iPhone XR and it will start with factory settings. Note that this works only if the Apple iPhone XR was connected to Find My in the first place. If not, then you always have Dr.Fone - Screen Unlock (iOS) to help you out.
 
@@ -530,7 +548,6 @@ All Apple iPhone XR models feature the same IP68 water resistance (that is a dep
 
 A locked Apple iPhone XR is never a pretty sight. Fortunately, there are a couple of things you can do to try and unlock your Apple iPhone XR and remove the passcode from your Apple iPhone XR. There is also Wondershare Dr.Fone - Screen Unlock (iOS) to unlock your Apple iPhone XR for you when you need help removing the passcode from your Apple iPhone XR and unlocking it.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -543,9 +560,24 @@ A locked Apple iPhone XR is never a pretty sight. Fortunately, there are a coupl
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-pinnacle-artist-studio-overview/"><u>[New] In 2024, Pinnacle Artist Studio Overview</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-navigating-youtubes-systems-after-video-upload/"><u>[Updated] 2024 Approved Navigating YouTube's Systems After Video Upload</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-crafting-perfect-lines-in-digital-imagery/"><u>[Updated] Crafting Perfect Lines in Digital Imagery</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-14-plus-without-itunes-drfone-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 14 Plus Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/androids-technique-for-retroactive-viewing/"><u>Android's Technique for Retroactive Viewing</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beat-the-rush-early-access-to-amazons-sale-on-apples-latest-m2-macbook-air-for-a-steal-at-800-tips-and-analysis-from-zdnet/"><u>Beat The Rush! Early Access to Amazon’s Sale on Apple's Latest M2 MacBook Air for a Steal at $800 - Tips & Analysis From ZDNet</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-15-pro-max-drfone-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-13-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>How To Unlock iPhone 13 Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-guide-on-how-to-change-your-apple-id-email-address-on-iphone-xr-drfone-by-drfone-ios/"><u>In 2024, Guide on How To Change Your Apple ID Email Address On iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-15-learn-all-4-methods-drfone-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone 15? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-6s-plus-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, iPhone 6s Plus Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-xiaomi-redmi-12-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Xiaomi Redmi 12 5G to Gmail | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-iphone-11-pro-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>In 2024, Unlock iPhone 11 Pro With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/is-your-apple-iphone-x-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your Apple iPhone X in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/resolve-code-39-problems-in-windows-a-comprehensive-solution-manual/"><u>Resolve Code 39 Problems in Windows: A Comprehensive Solution Manual</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-leading-power-inverters/"><u>Ultimate Guide: Leading Power Inverters</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-to-the-newest-version-of-canoscan-lide-120-scan-drivers/"><u>Update to the Newest Version of CanoScan LiDE 120 Scan Drivers</u></a></li>
+</ul></div>
 

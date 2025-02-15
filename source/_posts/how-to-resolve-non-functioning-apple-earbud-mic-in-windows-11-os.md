@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Non-Functioning Apple Earbud Mic in Windows 11 OS
-date: 2025-01-26T23:59:40.382Z
-updated: 2025-01-31T19:47:13.482Z
+date: 2025-02-09T20:10:46.510Z
+updated: 2025-02-15T05:46:14.737Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/ce2c767b4ea66790422350863194f4cca1e1e1f1b
 
  If your**Microphone stops working on Skype** , you would be very annoyed. But don’t worry, you won’t be stuck there. You can fix it with this guide. We’re going to walk you through how to troubleshoot the Skype Microphone not working problem step by step. Read on to find how…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes for ‘Skype Microphone not working’
 
 1. [Make sure your Microphone is set to On for Skype users (Windows 10 users)](https://www.drivereasy.com/knowledge/fix-skype-microphone-not-working-on-windows-solved/#M1)
@@ -29,7 +33,7 @@ thumbnail: https://thmb.techidaily.com/ce2c767b4ea66790422350863194f4cca1e1e1f1b
 ###
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 1: Make sure Microphone is set to On for Skype (Windows 10 users)
@@ -45,15 +49,7 @@ Follow these:
  If it’s Off, click it to switch to On.![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59968e77b3c45.png)
 4. Log in Skype and check to see if your Microphone works.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ###
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 2: Adjust the audio settings on Skype
 
@@ -63,10 +59,6 @@ Follow these:
 
  Click**Save** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59969244028ac.jpg)
 4. Check to see if your Microphone works.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ###
 
@@ -81,12 +73,16 @@ Follow these:
 3. In the **[Free Version](https://tools.techidaily.com/drivereasy/download/)**  , Driver Easy will show you the latest display driver you’ll need to install. And you can update the drivers one by one using the   **Update** button.  But if you upgrade to the **[PRO Version](https://tools.techidaily.com/drivereasy/download/)** , you can update all your drivers with one click — **Update All** . ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5992c06e8e725.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4. Restart your computer and run Skype to see if your Microphone works.
 
 ###
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Restart Windows audio service
 
@@ -94,6 +90,10 @@ Follow these:
 2. Type**services.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996978261d98.png)
 3. Right-click on the **Windows Audio** service. Click**Restart** .![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_5996976eeec58.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. Log in Skype and check to see if your Microphone works.
 
@@ -114,17 +114,16 @@ Follow these:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-unveiling-the-secrets-of-valheim-crop-cultivation/"><u>[New] Unveiling the Secrets of Valheim Crop Cultivation</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-the-ultimate-playlist-for-every-mood/"><u>[Updated] In 2024, The Ultimate Playlist for Every Mood</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/capturing-moments-dslr-setup-for-online-streaming-pcmac-for-2024/"><u>Capturing Moments DSLR Setup for Online Streaming (PC/Mac) for 2024</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-contacts-on-iphone-11-4-methods-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Restore Contacts on iPhone 11 (4 Methods) | Stellar</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-7-drfone-by-drfone-ios/"><u>In 2024, 7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-open-your-apple-iphone-13-mini-without-a-home-button-drfone-by-drfone-ios/"><u>In 2024, How To Open Your Apple iPhone 13 mini Without a Home Button | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-from-apple-iphone-15-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID From Apple iPhone 15 without Password?</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 11 Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-plus-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 7 Plus Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-learn-how-to-lock-stolen-your-iphone-15-pro-max-properly-drfone-by-drfone-ios/"><u>In 2024, Learn How To Lock Stolen Your iPhone 15 Pro Max Properly | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/precision-adjustments-correcting-iphone-video-washout-in-premiere-pro/"><u>Precision Adjustments Correcting iPhone Video Washout in Premiere Pro</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/quick-daily-bengali-lessons-online/"><u>Quick Daily Bengali Lessons (Online)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-framed-fantasies-expert-recommendations-on-software-and-sites/"><u>[New] Framed Fantasies Expert Recommendations on Software & Sites</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-flawlessly-merged-the-linkage-of-instagram-and-tiktok-for-2024/"><u>[Updated] Flawlessly Merged The Linkage of Instagram & TikTok for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-screensaviors-guide-global-and-regional-channels-led-by-you/"><u>[Updated] ScreenSaviors Guide Global and Regional Channels Led by You</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-tecno-spark-20-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-erase-iphone-se-2020-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>3 Ways to Erase iPhone SE (2020) When Its Locked Within Seconds | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-8-plus-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 8 Plus, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-stolen-apple-iphone-14-in-different-conditionsin-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Stolen Apple iPhone 14 In Different Conditionsin | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-locked-out-of-iphone-14-5-ways-to-get-into-a-locked-iphone-14-drfone-by-drfone-ios/"><u>In 2024, Locked Out of iPhone 14? 5 Ways to get into a Locked iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-xs-max-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone XS Max Prevention & Solution | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-photos-from-honor-magic5-ultimate-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Honor Magic5 Ultimate.</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/unlocking-drm-restrictions-on-ebooks-a-step-by-step-guide-for-pages-including-page-18/"><u>Unlocking DRM Restrictions on eBooks - A Step-by-Step Guide for Pages, Including Page 18</u></a></li>
 </ul></div>
 

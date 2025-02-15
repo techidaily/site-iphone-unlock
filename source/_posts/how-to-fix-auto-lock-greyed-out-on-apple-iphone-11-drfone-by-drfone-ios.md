@@ -1,7 +1,7 @@
 ---
 title: How To Fix Auto Lock Greyed Out on Apple iPhone 11 | Dr.fone
-date: 2024-07-15T05:59:54.842Z
-updated: 2024-07-16T05:59:54.842Z
+date: 2025-02-08T00:52:04.303Z
+updated: 2025-02-15T04:28:54.870Z
 tags: 
   - unlock
   - remove screen lock
@@ -42,9 +42,6 @@ MDM Profile Restrictions
 
 If the Auto-Lock is greyed out on your iPad or iPhone and you use it for work or school, a Mobile Device Management (MDM) profile might be the reason. This profile restricts settings, including Auto-Lock. To fix this, contact your IT administrator and ask if they can [<u>adjust the MDM profile settings</u>](https://drfone.wondershare.com/unlock/mdm-bypass-free.html).
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![setup remote management on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-04.jpg)
 
 Alright, you know the possible reasons why the Auto-Lock option is not working on your iOS device. Still, you might be wondering how to fix the Auto-Lock greyed-out issue. Below are several ways to get your iPad or iPhone Auto-Lock working normally again.
@@ -86,6 +83,10 @@ Since an MDM configuration profile causes limitations, like the greyed-out ****A
 - **Step 3:** Tap **Remove Profile**, enter your device passcode, then tap **Remove**.
 
 ![remove configuration profile on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-07.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Fix No.4: Remove Network Settings Installed by MDM
 
@@ -134,6 +135,10 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 ![start to bypass mdm](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5:** If prompted, go to your device's **Settings** > **Apple ID** > **iCloud** and turn off the **Find My** feature. Next, click **OK** to initiate the MDM bypass.
 
 ![dr.fone guide turn off find my](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-4.png)
@@ -141,6 +146,10 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 - **Step 6:** The software will display the progress of the bypass. Wait for it to complete.
 
 ![dr.fone bypassing mdm lock](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 7:** You'll see a confirmation message once the bypass is successful. Click **Done** to exit. Your device should now be free from MDM restrictions.
 
@@ -175,6 +184,10 @@ Here's **how to change Auto-Lock on iPhone** devices:
 
 ![change auto-lock on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-18.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 There you have it. This guide has equipped you with the knowledge and solutions to fix the **Auto-Lock greyed out** on your Apple iPhone 11 or iPad devices. From identifying the reasons like Low Power Mode and MDM configurations to implementing actionable fixes, you can now change your screen timeout. So, turn off those restrictions, remove MDM profiles, and head back to Settings.
@@ -183,7 +196,9 @@ For an easy solution, use Dr.Fone Screen Unlock to bypass MDM restrictions, givi
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## A Comprehensive Guide to Apple iPhone 11 Blacklist Removal: Tips and Tools
 
@@ -220,6 +235,10 @@ Now, here's where things get tricky. When your Apple iPhone 11 is blacklisted, i
 
 So, in a nutshell, a blacklisted iPhone is like a digital pariah, shunned from regular phone activities. But the good news is, you don't have to stay in timeout forever. In the next part, this guide will show you how to get your Apple iPhone 11 back in action with some easy-to-follow **iPhone blacklist removal** steps.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2. How To Remove and Unlock an iPhone Blacklist for Free
 
 Now that you know what it means for an Apple iPhone 11 to be blacklisted and the troubles it can bring, let's talk about how to set your Apple iPhone 11 free. The good news is there's a way to do this for free! Yes, you read that right. This section will walk you through the steps.
@@ -246,6 +265,10 @@ If your carrier blacklisted the phone in error, you can request it be removed fr
 
 Both of these methods are free and can work like a charm. However, they might take some time and effort on your part. But if you're patient and persistent, you could end up with a fully functional iPhone again. Remember, staying polite and patient when dealing with the original owner or the carrier is critical.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: Preventive Measures To Avoid Getting an iPhone Blacklisted
 
 Now that you've learned how to [rescue a blacklisted iPhone](https://drfone.wondershare.com/unlock/iphone-has-bad-esn-or-blacklisted-iemi.html) let's talk about how to keep it out of trouble in the first place. Prevention is always better than a cure, right? Here are some easy steps to make sure your Apple iPhone 11 stays in the clear.
@@ -260,6 +283,10 @@ Before you hand over your hard-earned money, check the iPhone's background. Make
 
 Just like you lock your front door, secure your Apple iPhone 11. Use a strong passcode, Face ID, or Touch ID to protect your phone from unauthorized access. This simple step can prevent it from being misused and reported as stolen.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Pay Your Bills on Time
 
 Your iPhone needs its "phone allowance" paid on time, too. Ensure you pay your monthly bills to your carrier. Unpaid invoices can lead to your Apple iPhone 11 getting blacklisted.
@@ -272,24 +299,17 @@ iCloud is like a protective bubble for your Apple iPhone 11's data. Don't share 
 
 If your Apple iPhone 11 ever goes missing, report it to your carrier and the police immediately. The step will help prevent someone else from using it and getting it blacklisted.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Beware of Scams
 
 Stay vigilant for scams and sketchy deals. If something sounds too good to be true, it probably is. Avoid buying iPhones from unreliable sources or individuals you don't trust.
 
 By following these simple preventive measures, you can keep your device clear and avoid the hassle of dealing with the whole **iPhone blacklist removal** process. Remember, a little caution goes a long way.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: The Blacklist Problem Resolved, but What To Do if I Have a Locked SIM?
 
 So, this article has talked a lot about **iPhone blacklist removal**, but what about your trusty SIM card? A little chip plays a significant role in keeping you connected. Sometimes, SIM cards encounter issues, too, and they need a helping hand. Enter [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) – Sim Unlock, your go-to solution for all SIM-related issues like SIMs not supported, [locked or invalid SIMs](https://drfone.wondershare.com/unlock/free-for-samsung-galaxy-sim-unlock.html), and SIMs without network service.
 
 ![drfone v13 home interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
 
 ### Key Features
 
@@ -326,6 +346,10 @@ Now, see how you can easily unlock your Apple iPhone 11's SIM by following the g
 
 ![drfone sim lock removed](https://images.wondershare.com/drfone/guide/remove-iphone-sim-7.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 In a world where staying connected is vital, understanding and fixing iPhone blacklist issues is crucial. You've learned that a blacklisted iPhone can mean no calls, texts, or internet – a frustrating experience. But fear not because you have **free iPhone blacklist removal** options at your disposal. And remember, prevention is the key. By checking an iPhone's history before purchase and keeping your device secure, you can avoid blacklist troubles altogether.
@@ -339,7 +363,6 @@ Apple has always been one of the top successful companies. The reason for its su
 This is the sole reason why Apple focuses so much on privacy through passcodes. But sometimes, these passcodes can be a hurdle in the working of the iPhone.
 
 If you're facing this issue, then you've come to the right place. This article shall cover your queries regarding fixing the Apple iPhone 11 passcode that is not working and providing full-depth details for your ease.
-
 
 ## Part 1: Why iPhone is Saying Passcode is Wrong?
 
@@ -356,8 +379,6 @@ Everyone in the field of tech is familiar with Wondershare as it is the most inn
 When it comes to fixing your Apple iPhone 11 passcode, which is not working, Wondershare Dr.Fone - [Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) does wonders.
 
 iTunes is another great way to bypass the activation screen without a SIM card. If you’re new to this, here's a small guide on how to use iTunes to bypass the activation screen.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -393,6 +414,10 @@ Before directly unlocking the Apple iPhone 11 lock screen, you've to set it up i
 Once your Apple iPhone 11 is in DFU mode, another window will be displayed on the screen, asking for confirmation regarding the Apple iPhone 11 device Model and System Version. Now click on the "Download" button placed at the bottom.
 
 ![download iphone firmware](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5: Unlock your Apple iPhone 11.**
 
@@ -452,9 +477,6 @@ Now click on the option of “Erase iPhone” to erase all your data and even yo
 
 ![erase iphone from icloud](https://images.wondershare.com/drfone/article/2021/06/iphone-passcode-not-working-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ### 3.3 Using iPhone Recovery Mode
 
 If you’ve never synced your Apple iPhone 11 with iTunes or set up “Find my iPhone” and you’re out of options, then iPhone Recovery Mode can come to the rescue. Recovery Mode allows your Apple iPhone 11 to connect with iTunes without restarting the system.
@@ -483,15 +505,11 @@ When you’re given the option of Restore or Update, choose ‘Restore.' iTunes 
 
 Once the process has reached completion, set up your Apple iPhone 11, if this process takes more than 15 minutes, it will leave the Recovery Mode automatically and repeat the steps again.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ### Conclusion
 
 This article has provided you the reasons and best possible ways to fix the issue of the Apple iPhone 11 passcode not working in detail. You must follow these steps immediately if you've locked your Apple iPhone 11 to avoid further trouble and anxiety.
 
 We hope we have covered every bit of this article perfectly and you have successfully unlocked your Apple iPhone 11 without any hassle.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -505,9 +523,24 @@ We hope we have covered every bit of this article perfectly and you have success
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-transform-the-way-you-view-web-content-using-ms-edges-split-screen-functionality/"><u>2024 Approved Transform the Way You View Web Content Using MS Edge's Split Screen Functionality</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-ultimate-action-cam-editing-picks/"><u>2024 Approved Ultimate Action Cam Editing Picks</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-12-without-itunes-drfone-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone 12 Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/family-entertainment-on-wheels-comprehensive-analysis-of-holy-stone-rc-race-cars/"><u>Family Entertainment on Wheels: Comprehensive Analysis of Holy Stone RC Race Cars</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/fast-and-simple-methods-for-downloading-your-favorite-youtube-clips-onto-a-flash-drive/"><u>Fast and Simple Methods for Downloading Your Favorite YouTube Clips Onto a Flash Drive</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-updated-microsoft-drivers-windows-1187-compatibility-guide/"><u>Get Updated Microsoft Drivers: Windows 11/8/7 Compatibility Guide</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-15-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-xs-maxipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone XS Max/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-12-mini-drfone-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-digital-chuckles-the-ultimate-10-meme-guidebook/"><u>In 2024, Digital Chuckles The Ultimate #10 Meme Guidebook</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabled-iphone-14-pro-max-how-to-unlock-a-disabled-iphone-14-pro-max-drfone-by-drfone-ios/"><u>In 2024, Disabled iPhone 14 Pro Max How to Unlock a Disabled iPhone 14 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-apple-iphone-12-pro-max-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone 12 Pro Max Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-7-plus-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-unique.techidaily.com/maximize-pc-network-speed-with-proven-strategies-from-yl-software-experts/"><u>Maximize PC Network Speed with Proven Strategies From YL Software Experts</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Xiaomi Redmi 12? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-iphone-12-pro-max-without-passcode-easily-drfone-by-drfone-ios/"><u>Unlock iPhone 12 Pro Max Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/unlock-your-ultimate-sing-along-experience-weekly-subscription-full-of-cinema-classics-and-series-favorites-pcdj/"><u>Unlock Your Ultimate Sing-Along Experience - Weekly Subscription Full of Cinema Classics & Series Favorites | PCDJ</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: In 2024, 4 Ways to Unlock Apple iPhone XR to Use USB Accessories Without Passcode | Dr.fone
-date: 2024-07-15T05:57:09.645Z
-updated: 2024-07-16T05:57:09.645Z
+date: 2025-02-09T23:30:04.713Z
+updated: 2025-02-15T01:18:01.017Z
 tags: 
   - unlock
   - remove screen lock
@@ -55,11 +55,19 @@ Now, here comes an amazing App with many benefits to solving the problem for you
 
 ![run the program to bypass iphone lock screen](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
 **Step 2:** Connect your Apple iPhone XR to the computer with a lightning cable, and choose “Unlock iOS Screen".
 
 ![start to remove iphone lock screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Follow the guides to boot your device in Recovery or DFU mode. The Recovery mode is recommended for iOS lock screen removal by default. If you fail to turn on recovery mode, you can turn to activate DFU mode. DFU means Device Firmware Upgrade, and the operation is more mandatory.
 
@@ -79,7 +87,6 @@ There is no doubt that you may worry about losing all your data while bypassing 
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/M3tfU3GUTpk"></iframe>
 
-
 ## Part 4: How to Unlock Apple iPhone XR to Use USB Accessories without Passcode via iCloud?
 
 With iCloud, you can quickly clean up your Apple iPhone XR, remove screen locks, and help unlock your device. But, you have to know that all your data will be erased. Make sure your Apple iPhone XR has the "Find My iPhone" function enabled, otherwise your device will be offline.
@@ -87,6 +94,10 @@ With iCloud, you can quickly clean up your Apple iPhone XR, remove screen locks,
 **Step 1:** Open your computer or another iOS device, and sign in with your Apple account.
 
 ![find-my-iphone](https://images.wondershare.com/drfone/unlock-new/unlock-usb/find-my-iphone.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** Click on “All Devices”, choose your Apple iPhone XR, and then “Erase iPhone”.
 
@@ -129,18 +140,12 @@ If you have forgotten your Apple ID or password and have not synced iCloud and i
 
 Now, you'll get an iPhone which is like being factory reset. And you could unlock the screen to use USB accessories when you forget the passcode.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## Part 7: Hot FAQ about USB Accessories on iPhone
 
 ### Q1: What is the feature of USB Accessories on iPhone?
 
 From USB-A to the latest, USB-C. Also, most iPhones use a proprietary Lightning port.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Q2: Why does My iPhone Think My Charger is a USB Accessory?
 
 It is related to the capacity of the charger. If a low-capacity charger is used, your device must regard it as a USB port because the USB port charges at a lower rate than a good wall charger. Another possibility is that the cable being used is flaky.
@@ -153,23 +158,15 @@ It is related to the capacity of the charger. If a low-capacity charger is used,
 
 If it doesn’t work, please contact customer service of Apple.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Conclusion
 
 It is very common to use USB accessories to connect iPhone and computer. Sometimes, we may forget the password, or cannot unlock the screen due to system failure. There are many ways to unlock Apple iPhone XR to use the accessories in the article. Finally, we recommend everyone to use Dr.Fone - Screen Unlock, a helpful and convenient tool.
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3 Ways to Erase Apple iPhone XR When It's Locked Within Seconds
 
@@ -178,8 +175,6 @@ Over the last few years, Apple has made remarkable progress with its flagship iP
 ## Part 1: Erase locked iPhone with Dr.Fone - Screen Unlock (iOS)
 
 One of the best ways to wipe locked iPhone is by using [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) tool. It is an extremely secure and reliable application. It is already compatible with every leading version of iOS and runs on almost all major iOS devices. Available for both Windows and Mac, the tool can be used to remove activation lock and Apple ID. The tool also provides an easy-to-use interface that can help you reset [the activation lock](https://drfone.wondershare.com/icloud/bypass-icloud-activation.html) on your device.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -256,10 +251,11 @@ If you are looking for an alternative way to learn how to erase iPhone when lock
 
 4\. agree to the pop-up message by clicking on the “Restore” button.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![erase iphone when locked-restore iphone](https://images.wondershare.com/drfone/article/2017/07/14993649291284.jpg "restore iphone")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Erase locked iPhone by Find My iPhone
 
@@ -279,13 +275,15 @@ Confirm your choice and wipe locked iPhone remotely using the Find My iPhone fea
 
 After following this informative guide, you would learn how to wipe a locked iPhone without any trouble. Go ahead and pick your preferred option to wipe locked iPhone. We recommend using Dr.Fone - Screen Unlock (iOS) to resolve this issue securely. Though, if you wish to do it remotely, then you can also give Find My iPhone a try as well. If you are familiar with any other reliable method, please let us know how to erase iPhone when locked in the comments below.
 
-
-
 ## Learn How To Lock Stolen Your Apple iPhone XR Properly
 
 When it comes to security in smartphones, Apple stands at the forefront. The Activation Lock is a robust barrier to preventing unauthorized access and device theft. Losing your Apple iPhone XR can be a disturbing event, as accidents are inevitable. Taking prompt action to stop unauthorized data access becomes important. This guide offers a step-by-step approach to **how to lock a stolen iPhone**.
 
 ![understanding ways to lock stolen iphone](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. Major Threats To Consider When iPhone Is Stolen
 
@@ -302,9 +300,6 @@ On learning about **how do I lock my stolen iPhone**, Apple's robust [<u>Find My
 
 ![using find my to locate iphone](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Key Scenarios Where Find My Works
 
 Find My can be a source to track stolen iPhones, but certain scenarios are associated with its operations. To know more about these scenarios, this section continues the discussion further below:
@@ -323,6 +318,10 @@ Find My can be a source to track stolen iPhones, but certain scenarios are assoc
 - **Step 2.** After logging in, select the lost device, and you can see its last recorded location on the map.
 
 ![consider last device location](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3. Using Lost Mode To Lock Stolen iPhone
 
@@ -356,6 +355,10 @@ Lost Mode locks the Apple iPhone XR device and allows users to showcase a person
 
 ![activate lost mode from browser](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4. Can't Find Stolen Phone? Erase iPhone Completely
 
 When efforts to locate a stolen iPhone fail, the need to protect sensitive data intensifies. As a result, the option to erase the Apple iPhone XR device becomes a crucial step instead of **how to lock the Apple iPhone XR when lost**. Here's how to protect against the potential misuse of your information by erasing your device via Find My:
@@ -367,6 +370,10 @@ When efforts to locate a stolen iPhone fail, the need to protect sensitive data 
 - **Step 2.** Select "Continue" on the erased iPhone screen for the Find My app. Once you've added the number, press "Erase" in the top right corner and follow the on-screen instructions to finish the procedure.
 
 ![follow prompts to erase](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3.** If using the iCloud website, tap "Erase This Device" and click "Next" on the upcoming prompt. You will be asked to enter the Apple ID password, after which you can use the on-screen guidelines to finish the process.
 
@@ -438,6 +445,10 @@ Enabling “Separation Alerts” assists in preventing the loss of your Apple iP
 
 ![look for device in find my](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-22.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** From the available options, tap "Notify When Left Behind," and on the following screen, toggle "Notify When Left Behind." You can also add locations on this screen by tapping "New Location," for which you don't want to receive a left-behind notice.
 
 ![notify on separation enabled](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-23.jpeg)
@@ -478,7 +489,6 @@ Once you have installed and launched Wondershare Dr.Fone, access the "Toolbox" t
 
 ![start ios screen unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-2.png)
 
-
 - Step 2. Entering Recovery Mode and Choosing System Version
 
 The next step requires you to put your device in Recovery Mode, for which you can follow the instructions given on-screen. After your device is in Recovery Mode, Dr.Fone will display its “Model.” Now choose the appropriate "System Version" and click "Start." Here, Dr.Fone will start downloading the required firmware. Once it is downloaded and verified, tap "Unlock Now."
@@ -497,7 +507,6 @@ Knowing **how to lock stolen iPhone**s is essential for safeguarding personal an
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -510,9 +519,21 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-essential-tools-for-effective-adobe-presentation-recordings-for-2024/"><u>[New] Essential Tools for Effective Adobe Presentation Recordings for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-newest-methods-for-ios-screenshots-and-playback/"><u>[New] In 2024, Newest Methods for iOS Screenshots & Playback</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-art-of-timestamped-media-on-the-gotube-platform/"><u>[Updated] The Art of Timestamped Media on the GoTube Platform</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-easy-ways-to-factory-reset-a-locked-apple-iphone-x-without-itunes-drfone-by-drfone-ios/"><u>3 Easy Ways to Factory Reset a Locked Apple iPhone X Without iTunes | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/beware-recent-research-highlights-data-breach-threats-when-using-external-hardware-repair-services-zdnet/"><u>Beware! Recent Research Highlights Data Breach Threats When Using External Hardware Repair Services | ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comprehensive-powerdirector-24-analysis-and-tutorial-for-2024/"><u>Comprehensive PowerDirector '24 Analysis and Tutorial for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/has-openai-already-lost-control-of-chatgpt/"><u>Has OpenAI Already Lost Control of ChatGPT?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-iphone-13-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My iPhone 13 After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-apple-iphone-11-pro-drfone-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-pro-max-apples-new-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 11 Pro Max, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-atandt-iphone-13-pro-with-3-methods-by-drfone-ios/"><u>In 2024, How to Unlock AT&T iPhone 13 Pro with 3 Methods</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-list-of-pokemon-go-joysticks-on-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, List of Pokémon Go Joysticks On Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-compatibility-problems-eliminating-fallout-3-hiccups-on-windows-11-operating-system/"><u>Overcoming Compatibility Problems: Eliminating Fallout 3 Hiccups on Windows 11 Operating System</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-12-drfone-by-drfone-ios/"><u>The Best Methods to Unlock the iPhone Locked to Owner for iPhone 12 | Dr.fone</u></a></li>
+</ul></div>
 

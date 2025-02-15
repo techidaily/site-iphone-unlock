@@ -1,7 +1,7 @@
 ---
 title: In 2024, 7 Ways to Lock Apps on iPhone XS Max and iPad Securely | Dr.fone
-date: 2024-07-15T05:52:40.661Z
-updated: 2024-07-16T05:52:40.661Z
+date: 2025-02-12T04:00:31.410Z
+updated: 2025-02-15T02:48:48.307Z
 tags: 
   - unlock
   - remove screen lock
@@ -39,6 +39,10 @@ Leveraging the advanced security capabilities of Face ID or Passcode on your App
 **Step 2.** After providing the passcode, select "Other Apps" and check the apps that have Face ID enabled. Remember, you're unable to manually include apps in the list. Only those apps that have sought access to the feature will appear here automatically.
 
 ![access face id and passcode option](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Lock Apps on iPhone Using Shortcuts?
 
@@ -82,8 +86,6 @@ By taking the assistance of Apple’s native Restrictions feature, you can app l
 
 It can be a trouble if you forget your Apple iPhone XS Max passcode since there are many restrictions on using iPhone. Also, if you are still unable to verify your Apple ID by using the above ways you may consider removing your Apple ID on your iOS devices. Here is an easy way to help you bypass Apple ID without a password and 100% working, which is to use Dr.Fone - Screen Unlock (iOS). It’s a professional iOS unlocker tool that can help you remove various locks on iPhones and iPads. With only a few steps, you can easily remove your Apple ID.
 
-
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Remove iPhone iPhone-locked screen without Hassle.
@@ -92,9 +94,6 @@ Remove iPhone iPhone-locked screen without Hassle.
 - Save your Apple iPhone XS Max quickly from the disabled state.
 - Free your sim out of any carrier worldwide.
 - Works for all models of iPhone, iPad, and iPod touch.
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - Fully compatible with the latest iOS.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 
 **4,008,670** people have downloaded it
@@ -122,6 +121,10 @@ Besides the Restrictions feature, you can also take the assistance of Guided Acc
 **Step 6.** To exit the Guided Access mode, tap the Home screen three times and provide the respective passcode.
 
 ![exit guided access](https://images.wondershare.com/drfone/article/2017/09/15060136247710.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 6: How to Lock Apps on iPhone with Touch ID?
 
@@ -175,6 +178,10 @@ However, if you have a jailbroken device and would like to app lock the iPhone, 
 
 ![iphone applocker](https://images.wondershare.com/drfone/article/2017/09/15060136509845.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3.** To access the feature, make sure that you have “**Enabled**” it (by turning it on).
 
 **Step 4.** This will let you set up a passcode to lock the apps and settings of your choice.
@@ -215,14 +222,13 @@ Just like Applocker, BioProtect is another third-party tool that works only on j
 
 ![authenticate using fingerprint](https://images.wondershare.com/drfone/article/2017/09/15060137676497.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Wrap it up
 
 By following these solutions, you would be able to learn how to lock apps on the Apple iPhone XS Max without much trouble. We have provided both, third-party as well as native solutions to app lock the Apple iPhone XS Max in a secure manner. You can go with your preferred option and provide an added layer of security on your device to keep it safe.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Easy Steps on How To Create a New Apple ID Account On Apple iPhone XS Max
 
@@ -276,9 +282,6 @@ These are the steps for registering a new Apple ID:
 
 **Tip:** Choose an email that's easy to remember and access.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![create your apple id step 1](https://images.wondershare.com/drfone/article/2023/10/create-new-apple-id-account-04.jpg)
 
 - **Step 3:** Create a strong password that combines letters, numbers, and symbols. This password is essential for the security of your account, so make it unique and hard to guess. Confirm your password by entering it again in the designated field.
@@ -300,6 +303,10 @@ The next step is verifying your identity. Check out the steps below:
 The next process will be setting up security questions for your account:
 
 - **Step 6:** Apple asks you to choose and answer security questions. These questions provide an additional layer of protection for your account. Select questions that you can easily remember and that others can't guess.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### D. Finalizing the Process
 
@@ -338,18 +345,18 @@ Check out the steps on how to remove an Apple ID account using Dr.Fone below:
 
 ![drfone v13 homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-
 - **Step 2:** If you want to proceed with deleting your Apple ID, you'll need to go to the next window and select the **Remove AppleID** option from the menu.
 - **Step 3:** When you hook up your iOS device to a computer, the next screen will report on its connectivity. Select the **Unlock Now** button to proceed.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remove apple id unlock now](https://images.wondershare.com/drfone/guide/remove-apple-id-2.png)
 
 - **Step 4:** Before the Apple ID can be unlocked, the next step is for the platform to ask a series of questions. Verify that a screen lock is active on your iOS device. However, please lock your iOS device before proceeding with the **Yes** option.
 
 ![set up screen lock](https://images.wondershare.com/drfone/guide/remove-apple-id-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 5:** Check if **Two-Factor Authentication** is set up on all your iOS devices. If not, switch it on before confirming your decision to unlock your Apple ID.
 
@@ -366,10 +373,11 @@ Check out the steps on how to remove an Apple ID account using Dr.Fone below:
 - **Step 8:** The appropriate iOS firmware begins downloading, showing its status on the following screen. Click the **Copy** button to copy the direct URL to [<u>download iOS firmware</u>](https://drfone.wondershare.com/ios-upgrade/how-to-upgrade-with-firmware-files.html) for systems with sluggish firmware download speeds.
 - **Step 9:** The platform checks the downloaded firmware and displays its details on the following screen. To proceed with unlocking your Apple ID, click the **Unlock Now** button. To proceed, you will be prompted to input a code into a confirmation window. Enter the code and then click the **Unlock** button.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![firmware complete](https://images.wondershare.com/drfone/guide/remove-apple-id-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 10:** The following screen shows the unlocking status of your Apple ID. Don't let the Apple iPhone XS Max device lose its connection under any circumstances. The screen prompts the process of completing the Apple ID once the ID has been unlocked. If the Apple ID has been unlocked, click **Done** to proceed. If that fails, click the **Try Again** button and give it another shot.
 
@@ -389,6 +397,10 @@ Read on if you've encountered a similar problem on your iOS device. In this guid
 
 ![auto lock greyed out on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Why Is Auto-Lock Greyed Out on iOS Device?
 
 There are a few reasons why the Auto-Lock might be greyed out on your Apple iPhone XS Max or iPad device, preventing you from adjusting the duration. Here are the most common culprits:
@@ -398,6 +410,10 @@ Low Power Mode
 When you activate Low Power Mode on your iOS device, you might notice the screen automatically locking after 30 seconds of inactivity. This quick sleep setting, implemented to minimize power usage, explains why the Auto-Lock option appears greyed out and inaccessible.
 
 ![low power mode on iphone enabled](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-02.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Screen Time Restrictions
 
@@ -498,6 +514,10 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 ![start to bypass mdm](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5:** If prompted, go to your device's **Settings** > **Apple ID** > **iCloud** and turn off the **Find My** feature. Next, click **OK** to initiate the MDM bypass.
 
 ![dr.fone guide turn off find my](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-4.png)
@@ -547,7 +567,6 @@ For an easy solution, use Dr.Fone Screen Unlock to bypass MDM restrictions, givi
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -560,9 +579,19 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-optimal-mp4-transporter-to-fb-hub/"><u>[New] 2024 Approved Optimal MP4 Transporter to FB Hub</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-the-ultimate-guide-to-avoiding-fees-in-fcp/"><u>2024 Approved The Ultimate Guide to Avoiding Fees in FCP</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-tinytake-screen-recorder-review/"><u>2024 Approved TinyTake Screen Recorder Review</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-infinix-zero-5g-2023-turbo-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Infinix Zero 5G 2023 Turbo Quickly | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-apple-iphone-11-pro-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot Apple iPhone 11 Pro Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/full-featured-winx-dvd-ripper-platinum-with-official-licensing-and-complimentary-upgrade/"><u>Full-Featured WinX DVD Ripper Platinum with Official Licensing and Complimentary Upgrade</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-iphone-13-pro-drfone-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-iphone-13-pro-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>In 2024, How to Make the Most of Your iPhone 13 Pro Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-max-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XS Max with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-14-pro-max-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone 14 Pro Max Prevention & Solution</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/step-by-step-tutorial-transferring-your-data-from-hdd-to-ssd-on-windows-10-and-11/"><u>Step-by-Step Tutorial: Transferring Your Data From HDD to SSD on Windows 10 & 11</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-14-pro-max-passcode-without-a-computer-drfone-by-drfone-ios/"><u>Unlocking iPhone 14 Pro Max Passcode without a Computer | Dr.fone</u></a></li>
+</ul></div>
 

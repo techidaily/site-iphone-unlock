@@ -1,7 +1,7 @@
 ---
 title: In 2024, Forgot Locked Apple iPhone XR Password? Learn the Best Methods To Unlock | Dr.fone
-date: 2024-07-15T05:56:53.861Z
-updated: 2024-07-16T05:56:53.861Z
+date: 2025-02-12T20:37:08.865Z
+updated: 2025-02-15T03:00:02.138Z
 tags: 
   - unlock
   - remove screen lock
@@ -45,7 +45,6 @@ Dr.Fone is a robust tool tailored to aid users in unlocking their iOS devices. I
 Once Wondershare Dr.Fone is downloaded and installed on your computer, launch it. Then navigate to "Toolbox," access "Screen Unlock," and finally choose "iOS" as the Apple iPhone XR device type. Now, select the “Unlock iOS Screen” button to begin the process.
 
 ![unlock ios screen with dr fone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
-
 
 - **Step 2. Enter Recovery Mode and Download Firmware**
 
@@ -101,9 +100,17 @@ Locking notes on your Apple iPhone XR provides extra security for your sensitive
 
 ![enter password to lock note](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 In conclusion, this article addressed methods for **how to recover locked notes on iPhone**s. It explored options such as using Settings to remove note locks, leveraging Touch ID/Face ID for access, and introducing Wondershare Dr.Fone as a comprehensive solution. Dr.Fone offers a direct approach to unlocking devices when passwords are inaccessible.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Unlock Apple iPhone XR, Apple's New iPhone
 
@@ -116,8 +123,6 @@ There can be a few reasons why your Apple iPhone XR is locked, the primary ones 
 We understand how frustrating it can be when your newly purchased Apple iPhone XR does not unlock because of a passcode entry issue, and all you want to do is get the screen unlocked. At Wondershare, we strive to create meaningful differences in the lives of the people that use our software and keeping that in mind, we have a solution for you to unlock your Apple iPhone XR passcode screen using Dr.Fone - Screen Unlock (iOS).
 
 ### II.I Using Dr.Fone - Screen Unlock (iOS) to Unlock the Locked Apple iPhone XR
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -142,9 +147,6 @@ Step 3: Launch Dr.Fone and select the Screen Unlock module.
 
 Step 4: Select Unlock iOS Screen.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![enter recovery mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
 Step 5: Follow the on-screen instructions to boot the Apple iPhone XR in Recovery Mode. If for some reason you are unable to boot into Recovery Mode, there are instructions at the bottom to enter DFU mode.
@@ -155,9 +157,6 @@ Step 6: Dr.Fone will tell you the phone model and the software installed on it. 
 
 Click Download to download the firmware file for your device.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![download firmware](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
 Step 7: Select the firmware package after the download completes. After the download completes, you can click Unlock Now to start unlocking the Apple iPhone XR.
@@ -174,6 +173,10 @@ Step 2: Under Find My (or Find My iPhone if you are using the iCloud website), s
 
 ![find my iphone](https://images.wondershare.com/drfone/article/2021/09/unlock-iphone-13-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 That's it. You will have wiped and unlocked your Apple iPhone XR and it will start with factory settings. Note that this works only if the Apple iPhone XR was connected to Find My in the first place. If not, then you always have Dr.Fone - Screen Unlock (iOS) to help you out.
 
 ### II.III Put The Apple iPhone XR in Recovery Mode
@@ -184,10 +187,11 @@ Step 1: Connect your Apple iPhone XR to the computer and open iTunes. If you are
 
 Step 2: Press the volume up button and let go. Press the volume down button and let go. Press the side button (power button) and keep holding it till Finder or iTunes detects the phone in Recovery Mode.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![press volume botton](https://images.wondershare.com/drfone/article/2021/09/unlock-iphone-13-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Select Restore to download and reinstall the latest iOS on your Apple iPhone XR and unlock Apple iPhone XR.
 
@@ -225,6 +229,10 @@ You might be wondering if you will get the highlight Cinematic Mode if you were 
 
 All Apple iPhone XR models feature the same IP68 water resistance (that is a depth of 6 meters for up to 30 minutes) and feature MagSafe charging. No differences here, except that the Apple iPhone XR mini is still capped at 12W charging with MagSafe, just like the Apple iPhone XR 12 mini was.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part V: The Bottom Line
 
 A locked Apple iPhone XR is never a pretty sight. Fortunately, there are a couple of things you can do to try and unlock your Apple iPhone XR and remove the passcode from your Apple iPhone XR. There is also Wondershare Dr.Fone - Screen Unlock (iOS) to unlock your Apple iPhone XR for you when you need help removing the passcode from your Apple iPhone XR and unlocking it.
@@ -232,6 +240,10 @@ A locked Apple iPhone XR is never a pretty sight. Fortunately, there are a coupl
 ## How to Make the Most of Your Apple iPhone XR Lock Screen with Notifications?
 
 The Apple iPhone XR lock screen has certainly changed a lot over the last few updates of iOS. Not only it provides an added security to the Apple iPhone XR device, but with iPhone lock screen notifications, we can also save our time and efforts. With the introduction of iOS 18, we can also see a change in iPhone lock screen with notifications as well. To help you make the most out of lock screen notifications iPhone, we have come up with this ultimate guide. Read on and know all sorts of things you can do with iPhone notification lock screen.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: How to use iPhone lock screen notifications?
 
@@ -257,10 +269,11 @@ Though, if you want to know more, then just long press the notification. For ins
 
 Besides interacting with widgets and apps, you can also search for something on your device and that too without unlocking it. Simply tap on the search bar to make it work.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![iphone lock screen with notifications-earch for anything](https://images.wondershare.com/drfone/article/2017/09/15063938584150.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to turn off notifications on iPhone lock screen?
 
@@ -272,6 +285,10 @@ Sometimes, people can access our private information just by looking at our noti
 
 ![iphone lock screen with notifications-turn off iphone lock screen notification](https://images.wondershare.com/drfone/article/2017/09/15063939102971.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3\. Simply tap on the app of your choice (Mail, Message, Photos, iTunes, etc).
 
 4\. From here, turn off the option of “Allow Notification” to completely turn off the notifications for the app.
@@ -279,6 +296,10 @@ Sometimes, people can access our private information just by looking at our noti
 5\. If you simply want to turn off notifications on lock screen, then switch off the option of “Show on Lock Screen”.
 
 ![iphone lock screen with notifications-turn off show on lock screen](https://images.wondershare.com/drfone/article/2017/09/15063939415632.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Besides that, there are a few other options as well that you can either enable or disable to customize your lock screen notifications iPhone.
 
@@ -300,6 +321,10 @@ The notification view can be used to see previous notifications on the Apple iPh
 
 After turning the option off, you can exit from the Settings interface. In this way, your device won’t display the notification view.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4: Changes on iPhone lock screen notifications on iOS 18
 
 With the new update of iOS 18, we can see a drastic change in the Apple iPhone XR lock screen notifications as well. Since the Apple iPhone XR lock screen with notifications have been integrated into one, it becomes quite easier for users to access it.
@@ -308,9 +333,6 @@ With the new update of iOS 18, we can see a drastic change in the Apple iPhone X
 
 Some people find it a little tricky to access the lock screen notifications iPhone after the iOS 18 update. Instead of sliding the screen from the top, you need to swipe it from the middle. By swiping it from the bottom, you might get its control center.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![iphone lock screen with notifications-access iphone notification on ios 18](https://images.wondershare.com/drfone/article/2017/09/15063940632171.jpg)
 
 Simply swipe up from the middle of the screen to get a list of all the notifications. Now, you can slide them to access the old notifications.
@@ -327,9 +349,6 @@ If you want to click pictures instantly, then simply swipe left the lock screen.
 
 We hope that after following this guide, you would be able to gain in-depth information regarding iPhone lock screen with notifications. Apart from all the basic things you can do on the lock screen, we have also provided easy ways to customize it. Furthermore, there are so many things that you can do with the iOS 18 iPhone lock screen notifications. While most of the users loved the feature, some are quite hesitant about its application. What is your take on this? Let us know about it in the comments.
 
-
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -342,9 +361,23 @@ We hope that after following this guide, you would be able to gain in-depth info
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-storage-space-used-daily-extended-video-size/"><u>[New] Storage Space Used Daily Extended Video Size</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-command-prompt-wizardry-opening-srt-in-winosx/"><u>[Updated] In 2024, Command Prompt Wizardry Opening SRT in Win/OSX</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-top-20-budget-friendly-screen-recorder-tools/"><u>[Updated] In 2024, Top 20 Budget-Friendly Screen Recorder Tools</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-top-video-editor-battle-is-inshot-reigning-supreme/"><u>[Updated] Top Video Editor Battle Is InShot Reigning Supreme?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-top-6-ios-apps-turn-youtube-videos-into-mp3-files/"><u>2024 Approved Top 6 iOS Apps Turn YouTube Videos Into MP3 Files</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-apple-iphone-12-mini-drfone-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-11-pro-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-xs-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone XS Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-8-without-a-passcode-drfone-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 8 Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XS Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-apple-iphone-15-plus-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone 15 Plus Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/reality-vs-virtuality-sustaining-vr-creativity-innovation/"><u>Reality Vs. Virtuality Sustaining VR Creativity Innovation</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/resolve-your-iphone-15-pro-max-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your iPhone 15 Pro Max Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-honor-90-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Honor 90 Pro | Dr.fone</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/the-best-10-tools-for-restoring-and-repairing-digital-pictures-across-all-platforms-windows-and-macos/"><u>The Best 10 Tools for Restoring and Repairing Digital Pictures Across All Platforms: Windows & macOS</u></a></li>
+</ul></div>
 

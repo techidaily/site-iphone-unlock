@@ -1,7 +1,7 @@
 ---
 title: Forgot Apple iPhone 11 Backup Password? Heres What to Do | Dr.fone
-date: 2024-07-15T05:59:56.022Z
-updated: 2024-07-16T05:59:56.022Z
+date: 2025-02-07T18:12:19.132Z
+updated: 2025-02-15T05:44:16.240Z
 tags: 
   - unlock
   - remove screen lock
@@ -98,9 +98,6 @@ Proceed to the **Summary Page** and make your selection there for **The Computer
 
 **Step 3:** Double-click the **Show Password** option, and then choose it from the drop-down menu. After that, type in the password for the keychain. At long last, the password for your Apple iPhone 11 backup will be shown.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![keychain](https://images.wondershare.com/drfone/article/2022/12/forgot-iphone-backup-password-6.jpg)
 
 ### 4\. Select "Back Up Now" via iCloud to remove password
@@ -125,9 +122,17 @@ With Dr.Fone - Screen Unlock, it's easy to follow all the steps to get rid of th
 
 ![drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2:** In the Screen Unlock interface, tap **Remove iTunes BackUp Encryption** in the bottom right corner to move forward.
 
 ![screen unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** When you get to this page, use a USB cable to connect your iOS device to the PC. If Dr.Fone can find this connection, you will see the picture below.
 
@@ -147,6 +152,9 @@ Before you click **Remove Now**, please carefully read the following three notes
 
 ![removed](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: 3 Tricks to Help You Remember the Passwords
 
@@ -169,6 +177,10 @@ iCloud Keychain is a great way to keep all your passwords in one place. Once you
 If you're finding a simple way to keep all your passwords, try using the Notes app. Create a new note and title it "Passwords." Then, add it to the note whenever you create a new password.
 
 You can even add a description of the password, so you remember which account it's for.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The Bottom Line
 
@@ -208,6 +220,10 @@ A significant possibility is that you encrypted the iTunes backup with the same 
 
 Therefore, before doing anything further, try all passwords to configure your iTunes account. For example, try entering 0000, 123456, name123, or 1111.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. Find the password from Keychain on macOS
 
 You may also attempt to find the password for the iTunes backup using the keychain approach if you are working on a Mac.
@@ -218,9 +234,6 @@ The likelihood of success with this approach is relatively low. However, it is s
 2. To open a new dialogue box, double-click the most recent backup file, and you will see one appear before you.
 3. On this page, choose Show Password to get the password for the Apple iPhone 11 backup. However, you will first be prompted to provide the administrator password associated with your iCloud account to recover the password.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![keychain](https://images.wondershare.com/drfone/article/2022/12/iphone-backup-password-never-set-3.jpg)
 
 ### 3\. "Reset All Settings"
@@ -257,11 +270,19 @@ You should be aware that resetting the Apple iPhone 11 device to factory setting
 
 On the other hand, it does make it possible for you to generate a fresh backup in iTunes that is not encrypted.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 4\. Dr.Fone-Screen Unlock
 
 **First step:** After installing Dr.Fone on your device, please run the program and look for the red button labeled **"Screen Unlock."**
 
 ![drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** While in the interface for **Screen Unlock**, navigate to the bottom right of the screen and tap on the feature labeled **"Remove iTunes BackUp Encryption."** This will allow you to proceed.
 
@@ -275,10 +296,11 @@ Please read the following three notes carefully before clicking the **"Remove No
 - During this procedure, you should not launch **"iTunes."**
 - During the process, your Apple iPhone 11 will restart.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![connected](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4:** If you have an iTunes backup, Dr.Fone may automatically verify it and delete it. This encryption will be removed once the percentage on the progress meter reaches the end. This procedure won't take a lot of time at all.
 
@@ -288,14 +310,11 @@ Please read the following three notes carefully before clicking the **"Remove No
 
 ![removed](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-5.png)
 
-
 ### The Bottom Line
 
 There are four ways to fix the problem if iTunes keeps asking for your Apple iPhone 11 backup password. The first method is to try all the passwords you use on your Apple iPhone 11. You can try finding the password from Keychain on macOS if this does not work. Another option is to "Reset All Settings" on your Apple iPhone 11.
 
 Lastly, Dr.Fone-Screen Unlock is a program that can help you bypass the passcode and get into your backups. So, what are you waiting for? It's time to avoid the problem of iTunes backup password never set.
-
-
 
 ## How To Remove Passcode From Apple iPhone 11? Complete Guide
 
@@ -313,10 +332,11 @@ Following are some of the most effective methods to remove the passcode from iPh
 
 This is the most common and easy method to remove the passcode from iPhone. You can follow these steps:
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![remove passcode from iphone](https://images.wondershare.com/drfone/article/2022/11/how-to-remove-passcode-from-iphone-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. Go to "Settings" and scroll down to find "Touch ID & Passcode (or Face ID & Passcode)."
 2. Click on "Turn Passcode Off"
@@ -360,6 +380,10 @@ But if you are facing bugs in your Apple iPhone 11 while erasing the passcode, y
 If you want a hassle-free solution to remove the passcode from your Apple iPhone 11, we recommend you use [Wondershare Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/). It is a widely used and trusted tool that can help remove any passcode from your device, including 4/6-digit passcodes, Face/Touch IDs, and even commercial codes.
 
 ![remove passcode](https://images.wondershare.com/drfone/article/2022/11/how-to-remove-passcode-from-iphone-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Here are some of its key features:
 
@@ -417,7 +441,6 @@ This was the complete process of using the Wondershare Dr.Fone-Screen Unlock fea
 
 Besides, all the methods discussed in this article work fine with most iPhones, but the ideal method is to remove the Apple iPhone 11 passcode using Dr.Fone-Screen Unlock (iOS). We have tested this method with various iPhones, and it worked perfectly fine. So, if you want a reliable and easy-to-use method, we recommend you use Dr.Fone-Screen Unlock (iOS) without hesitation.
 
-
 ## FAQs
 
 We know there might be lots of questions running through your mind about this process. So, we have tried responding to frequently asked questions about this process.
@@ -442,9 +465,6 @@ After that, you can enter the new passcode that you want to set for your device.
 
 Besides, there is no way to change the passcode on your device. So, if you forget your passcode, you will have to factory reset your device to access it again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### How to remove the passcode if I forgot it?
 
 If you forgot the passcode of your device and you want to remove it, then you can follow the steps given in this article. We have explained the complete process of removing the passcode from your device if you forgot it.
@@ -454,7 +474,6 @@ If you forgot the passcode of your device and you want to remove it, then you ca
 That's all about how you can remove the Passcode from your Apple iPhone 11. We have explained the complete process of how you can do it. You can follow those steps and easily remove the Passcode from your device. But remember, by doing this, all the data on your device will be erased. So make sure you create a backup of your device before proceeding.
 
 If you have any other questions or doubts about this process, feel free to ask us. We would be sincerely happy to help you out.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -468,9 +487,24 @@ If you have any other questions or doubts about this process, feel free to ask u
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-view-all-sharing-media-in-messenger-conversations/"><u>[New] In 2024, View All Sharing Media in Messenger Conversations</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-vivo-x-flip-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Vivo X Flip to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-for-iphone-xr-lock-screen-drfone-by-drfone-ios/"><u>Complete Guide For iPhone XR Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/did-your-apple-iphone-se-2022-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your Apple iPhone SE (2022) Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/guide-on-how-to-change-your-apple-id-email-address-on-iphone-xs-max-drfone-by-drfone-ios/"><u>Guide on How To Change Your Apple ID Email Address On iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-14-pro-max-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix iPhone 14 Pro Max Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-unblock-lunar-client-launch-failure-on-pc/"><u>How to Unblock Lunar Client Launch Failure on PC</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On OnePlus Ace 2 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-iphone-15-plus-with-or-without-password-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on iPhone 15 Plus With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-apple-iphone-11-pro-max-drfone-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on Apple iPhone 11 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-iphone-7-drfone-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-successfully-bypass-icloud-activation-lock-from-iphone-15-pro-by-drfone-ios/"><u>In 2024, How to Successfully Bypass iCloud Activation Lock from iPhone 15 Pro</u></a></li>
+<li><a href="https://some-tips.techidaily.com/navigating-notion-overcoming-frustrations-with-the-evernote-import-feature-a-step-by-step-guide/"><u>Navigating Notion: Overcoming Frustrations with the Evernote Import Feature - A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/performers-in-the-world-of-web-videos-for-2024/"><u>Peak Performers in the World of Web Videos for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-art-of-the-end-scene-tutorials-and-templates-for-youtube/"><u>The Art of the End Scene Tutorials & Templates for YouTube</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-15-pro-max-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking iPhone 15 Pro Max Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+</ul></div>
 

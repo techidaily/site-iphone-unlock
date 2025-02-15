@@ -1,7 +1,7 @@
 ---
 title: iPhone XR Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone
-date: 2024-07-15T05:55:36.377Z
-updated: 2024-07-16T05:55:36.377Z
+date: 2025-02-11T23:39:29.474Z
+updated: 2025-02-15T03:18:13.711Z
 tags: 
   - unlock
   - remove screen lock
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/6125c16091ce0e7f3e660bdf2f814f5a9cf410dde
 
 ## Apple iPhone XR Backup Password Never Set But Still Asking? Here's the Fix
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: Why Do iTunes Ask Me for iPhone Backup Password?
 
 When you use iTunes to create a backup, the backup will probably have a password that iTunes automatically create. This is for privacy reasons. Hence, it might ask for an iTunes backup password never set by you!
@@ -27,6 +31,10 @@ In most cases, this occurs when the Encrypt Backup option is activated. As an of
 Unfortunately, this capability may also become problematic if you inadvertently take a backup without being able to provide the password. For example, you may have to enter the password for your Apple iPhone XR backup unlocking never set by you.
 
 But the good news is you have some possible fixes. So, let's talk about them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: 4 Possible Ways to Fix Asking for iPhone Backup Password
 
@@ -92,14 +100,15 @@ You should be aware that resetting the Apple iPhone XR device to factory setting
 
 On the other hand, it does make it possible for you to generate a fresh backup in iTunes that is not encrypted.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Dr.Fone-Screen Unlock
 
 **First step:** After installing Dr.Fone on your device, please run the program and look for the red button labeled **"Screen Unlock."**
 
 ![drfone](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2:** While in the interface for **Screen Unlock**, navigate to the bottom right of the screen and tap on the feature labeled **"Remove iTunes BackUp Encryption."** This will allow you to proceed.
 
@@ -113,9 +122,6 @@ Please read the following three notes carefully before clicking the **"Remove No
 - During this procedure, you should not launch **"iTunes."**
 - During the process, your Apple iPhone XR will restart.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![connected](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-3.png)
 
 **Step 4:** If you have an iTunes backup, Dr.Fone may automatically verify it and delete it. This encryption will be removed once the percentage on the progress meter reaches the end. This procedure won't take a lot of time at all.
@@ -125,7 +131,6 @@ Please read the following three notes carefully before clicking the **"Remove No
 **Step 5:** The encryption of the iTunes backup has been successfully erased! Your backed-up data may be quickly restored, transferred, wiped clean, and backed up again. Hence, you can enter the password to unlock your Apple iPhone XR backup never set in the first place!
 
 ![removed](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-5.png)
-
 
 ### The Bottom Line
 
@@ -140,8 +145,6 @@ Over the last few years, Apple has made remarkable progress with its flagship iP
 ## Part 1: Erase locked iPhone with Dr.Fone - Screen Unlock (iOS)
 
 One of the best ways to wipe locked iPhone is by using [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) tool. It is an extremely secure and reliable application. It is already compatible with every leading version of iOS and runs on almost all major iOS devices. Available for both Windows and Mac, the tool can be used to remove activation lock and Apple ID. The tool also provides an easy-to-use interface that can help you reset [the activation lock](https://drfone.wondershare.com/icloud/bypass-icloud-activation.html) on your device.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -234,11 +237,13 @@ If you haven’t already taken a backup of your phone, then you might find it ha
 
 ![erase iphone when locked-erase iphone](https://images.wondershare.com/drfone/article/2017/07/14993650012081.jpg "erase iphone")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Confirm your choice and wipe locked iPhone remotely using the Find My iPhone feature on iCloud.
 
 After following this informative guide, you would learn how to wipe a locked iPhone without any trouble. Go ahead and pick your preferred option to wipe locked iPhone. We recommend using Dr.Fone - Screen Unlock (iOS) to resolve this issue securely. Though, if you wish to do it remotely, then you can also give Find My iPhone a try as well. If you are familiar with any other reliable method, please let us know how to erase iPhone when locked in the comments below.
-
-
 
 ## How to Unlock Disabled Apple iPhone XR/iPad Without Computer
 
@@ -246,9 +251,6 @@ Forgetting the Apple iPhone XR or iPad passcode could be the worst nightmare for
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T8CJ89bh90c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 1: How to unlock disabled Apple iPhone XR without computer using Siri?
 
 Accessing Siri is the first thing that comes to iOS users' minds whenever they [get locked out of their Apple iPhone XR](https://drfone.wondershare.com/unlock/get-into-locked-iphone.html). It might surprise you, but you can also take the assistance of Siri to unlock your phone. Most users prefer this technique, as it doesn’t require a computer and can unlock an iOS device without erasing its data.
@@ -265,14 +267,19 @@ Though, before you proceed, you need to know the limitations of this method. Sin
 
 **Step 3.** From here, you can search for a city. Just type anything you want and tap again to get various options. Choose the “Select all” button to get more options.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![select all](https://images.wondershare.com/drfone/article/2017/07/14994464192933.jpg "select all")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4.** Select the feature of “Share.”
 
 ![share](https://images.wondershare.com/drfone/article/2017/07/14994464322068.jpg "share")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5.** Tap on the message icon.
 
@@ -288,9 +295,6 @@ Though, before you proceed, you need to know the limitations of this method. Sin
 
 **Step 8.** A new interface would be launched to add a new contact. From here, tap on the “Create New Contact” button.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![create new contact](https://images.wondershare.com/drfone/article/2017/07/14994465192610.jpg "create new contact")
 
 **Step 9.** Instead of adding information regarding a new contact, tap on the photo icon, and choose the option of “Add Photo.”
@@ -305,7 +309,15 @@ Though, before you proceed, you need to know the limitations of this method. Sin
 
 ![iphone home](https://images.wondershare.com/drfone/article/2017/07/14994465721934.jpg "iphone home")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 By following this technique, you would also learn how to unlock the disabled Apple iPhone XR 4. Though, you need to ensure that the iOS device you are using would support this feature.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to unlock disabled Apple iPhone XR using Find My Apple iPhone XR?
 
@@ -346,6 +358,10 @@ Boot your Apple iPhone XR into DFU mode.
 
 ![boot device in dfu mode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Select device information on Dr.Fone
 
 ![download Apple iPhone XR firmware](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
@@ -376,10 +392,13 @@ One of the best ways to secure your iOS device is by adding secure passwords. To
 
 ![custom Alphanumeric code](https://images.wondershare.com/drfone/article/2017/07/14994466798156.jpg "custom Alphanumeric code")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 By implementing the above suggestions, you can easily make your iOS device more secure. Additionally, we have also listed two stepwise solutions that can unlock your iPad or Apple iPhone XR without taking the assistance of a computer. Now when you know how to unlock a disabled Apple iPhone XR without a computer, you can easily make the most out of your iOS device.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -393,9 +412,20 @@ By implementing the above suggestions, you can easily make your iOS device more 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-prime-gold-toned-text-interactive-3d-sites-reviewed/"><u>[New] Prime Gold-Toned Text Interactive 3D Sites Reviewed</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/riting-for-impact-a-compreenas-guide-to-youtube-video-storytelling/"><u>[New] Writing for Impact A Compreenas Guide to YouTube Video Storytelling</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/1-revive-lost-documents-effortless-file-retrieval-with-ifind-data-recovery-solutions/"><u>1. Revive Lost Documents: Effortless File Retrieval with iFinD Data Recovery Solutions</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-download-mp3-from-social-network-posts/"><u>2024 Approved Download Mp3 From Social Network Posts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-ioss-choice-of-top-ps2-game-simulation-software/"><u>2024 Approved IOS's Choice of Top PS2 Game Simulation Software</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/apples-most-accessible-ipad-yet-a-thorough-review-of-the-latest-8th-generation-model/"><u>Apple's Most Accessible iPad Yet? A Thorough Review of the Latest 8Th Generation Model</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-apple-iphone-11-pro-drfone-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-x-learn-all-4-methods-drfone-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone X? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-iphone-14-pro-max-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 14 Pro Max When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-poco-m6-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Poco M6 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-integrating-podcast-magic-a-step-by-step-for-iphone-users/"><u>In 2024, Integrating Podcast Magic A Step-by-Step for iPhone Users</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ming-success-seekers-deciphering-the-platform-winner-vimeo-vs-youtubeplusdailymotion-for-2024/"><u>Streaming Success Seekers Deciphering The Platform Winner - Vimeo vs YouTube+Dailymotion for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-13-pro-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone 13 Pro Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+</ul></div>
 

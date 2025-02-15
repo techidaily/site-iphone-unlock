@@ -1,7 +1,7 @@
 ---
 title: Forgot Locked iPhone 11 Password? Learn the Best Methods To Unlock | Dr.fone
-date: 2024-07-15T06:00:46.925Z
-updated: 2024-07-16T06:00:46.925Z
+date: 2025-02-13T17:48:36.908Z
+updated: 2025-02-14T21:05:11.423Z
 tags: 
   - unlock
   - remove screen lock
@@ -22,20 +22,25 @@ This app offers a reliable and secure platform for storing personal and confiden
 
 ![unlock forgotten notes password easily](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1. Best Method To Unlock Forgotten Notes Password iPhone: Wondershare Dr.Fone
 
 Apple allows users to create a separate password for notes or use their iPhone passcode. Many users choose the second option to avoid remembering a new password. Forgetting the Apple iPhone 11 device passcode poses a drawback, making your notes inaccessible. [Wondershare Dr.Fone](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/) stands out as one of the most straightforward solutions for addressing this scenario.
 
 It offers an absolute way to regain access to your notes and device if you **forgot locked Notes password**. However, it's essential to note that this method will remove all data from your Apple iPhone 11. That allows you to set your device as new and restore the old data using backups. Dr.Fone offers a comprehensive solution with the ability to bypass or remove most of the locks on iOS devices.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Focusing Features of Wondershare Dr.Fone
 
 1. For users who have [forgotten their Screen Time passcode](https://drfone.wondershare.com/unlock/how-to-turn-off-screen-time-without-passcode.html), Dr.Fone allows them to remove it without causing data loss.
 2. Fone has the ability to [remove Apple ID](https://drfone.wondershare.com/unlock/how-to-sign-out-of-apple-id-without-password.html) from your iOS device if you have forgotten its credentials.
 3. Buying a second-hand might involve iCloud Activation Lock, which Dr.Fone can bypass in minutes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Steps To Unlock Forgotten Notes Password iPhone via Wondershare Dr.Fone
 
@@ -48,7 +53,6 @@ Dr.Fone is a robust tool tailored to aid users in unlocking their iOS devices. I
 Once Wondershare Dr.Fone is downloaded and installed on your computer, launch it. Then navigate to "Toolbox," access "Screen Unlock," and finally choose "iOS" as the Apple iPhone 11 device type. Now, select the “Unlock iOS Screen” button to begin the process.
 
 ![unlock ios screen with dr fone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
-
 
 - **Step 2. Enter Recovery Mode and Download Firmware**
 
@@ -63,6 +67,10 @@ When the firmware is displayed after verification, press "Unlock Now." Upon trig
 ![enter confirmation code for unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-7.png)
 
 _**Tips:** Are you searching for a powerful iPhone Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2. How To Unlock Notes on iPhone Through Settings
 
@@ -98,9 +106,6 @@ Locking notes on your Apple iPhone 11 provides extra security for your sensitive
 
 - **Step 1.** Open the “Note” you want to lock and tap the “three dots” near the top right corner. From the appearing menu, press the "Lock" icon.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select note to lock](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-9.jpg)
 
 - **Step 2.** If it is the first time, you will be asked to set a new password or use the same one as the Apple iPhone 11 device. After your note is locked, hide its content by tapping the “open lock” icon at the top of the screen.
@@ -129,9 +134,6 @@ Though, before you proceed, you need to know the limitations of this method. Sin
 
 **Step 2.** Tap on the Add (plus) icon.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![world clock](https://images.wondershare.com/drfone/article/2017/07/14994463891817.jpg)
 
 **Step 3.** From here, you can search for a city. Just type anything you want and tap again to get various options. Choose the “Select all” button to get more options.
@@ -142,9 +144,17 @@ Though, before you proceed, you need to know the limitations of this method. Sin
 
 ![share](https://images.wondershare.com/drfone/article/2017/07/14994464322068.jpg "share")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5.** Tap on the message icon.
 
 ![share on message](https://images.wondershare.com/drfone/article/2017/07/14994464494089.jpg "share on message")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 6.** It will open another interface to draft a new message. Wait for a while and write something in the “To” field. Once you are done, tap on the return button on the keyboard.
 
@@ -157,6 +167,10 @@ Though, before you proceed, you need to know the limitations of this method. Sin
 **Step 8.** A new interface would be launched to add a new contact. From here, tap on the “Create New Contact” button.
 
 ![create new contact](https://images.wondershare.com/drfone/article/2017/07/14994465192610.jpg "create new contact")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 9.** Instead of adding information regarding a new contact, tap on the photo icon, and choose the option of “Add Photo.”
 
@@ -190,9 +204,6 @@ After implementing this solution, your iOS device will reset, and your data woul
 
 By following this method, you can learn how to unlock the iPad passcode without a computer remotely.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: Unlock disabled Apple iPhone 11/iPad using Dr.Fone - Screen Unlock?
 
 Dr.Fone can help you to remove the screen from the disabled Apple iPhone 11 or iPad. It can also unlock the Apple ID after you forgot the Apple ID email or password.
@@ -207,6 +218,10 @@ Dr.Fone can help you to remove the screen from the disabled Apple iPhone 11 or i
 **Step 2.** Open 'Screen Unlock'. Select 'Unlock iOS Screen.'
 
 ![start to remove Apple iPhone 11 lock screen](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3.** Follow the on-screen instruction.
 
@@ -248,7 +263,9 @@ One of the best ways to secure your iOS device is by adding secure passwords. To
 
 By implementing the above suggestions, you can easily make your iOS device more secure. Additionally, we have also listed two stepwise solutions that can unlock your iPad or Apple iPhone 11 without taking the assistance of a computer. Now when you know how to unlock a disabled Apple iPhone 11 without a computer, you can easily make the most out of your iOS device.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Turn Off Find My Apple iPhone 11 when Phone is Broken?
 
@@ -257,6 +274,10 @@ In today’s world, your phone is your most important asset. Especially when you
 Apple ensures the privacy and security of its customers. For that, it has introduced this excellent feature of Find My iPhone, which keeps track of the location of your device no matter in which part of the world you are. So, if you've lost your Apple iPhone 11 or it is stolen, this app is your savior.
 
 Downloading and enabling Find My iPhone can be really easy and cinch but turning it off can be an arduous task. But we have you covered through this article that shall tell you about this app in detail and guide you on how to turn off Find My iPhone even when your Apple iPhone 11 is broken.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: What is Find My iPhone?
 
@@ -267,8 +288,6 @@ The best part about this application is that it is free of cost. It usually come
 ## Part 2: Efficient Way of Turning Off Find My iPhone Within Second- Dr. Fone
 
 [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is an excellent data recovery and management software created by Wondershare. However, limiting it to just recovery and management of data will not be just as it offers much more than just that. Transferring files, repairing the operating system, changing the GPS location, and fixing the activation lock are its amazing services.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -317,13 +336,14 @@ Click on “Start Unlock” to proceed. Once the process is started, you have to
 
 ![start the unlock process](https://images.wondershare.com/drfone/drfone/remove-activation-lock-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 7: Turn off Find My iPhone**
 
 As your activation lock is removed, go to the settings and remove your Apple ID. Consequently, Find My iPhone will be disabled.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![activation lock removed](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
 
 ## Part 3: How to Turn Off Find My iPhone on Broken iPhone Using iCloud?
@@ -374,7 +394,6 @@ Once your Apple iPhone 11 shows the Apple logo, it means the Recovery Mode is ac
 
 Now we’re done as we’ve provided you the best possible solutions to turn off Find My iPhone when your Apple iPhone 11 is broken. It is obvious that it is a quite complicated process, but you have to be patient and follow the steps correctly to disable Find My Apple iPhone 11 to avoid any inconvenience in the future. We hope this article answers all your queries regarding it.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -387,9 +406,22 @@ Now we’re done as we’ve provided you the best possible solutions to turn off
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-fostering-self-assurance-against-virtual-hostility/"><u>[New] Fostering Self-Assurance Against Virtual Hostility</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-essential-guide-to-creating-stunning-timelapses-using-gopro-software/"><u>[Updated] 2024 Approved Essential Guide to Creating Stunning Timelapses Using GoPro Software</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-elite-list-of-best-online-sound-capturing-devices-2023/"><u>[Updated] In 2024, Elite List of Best Online Sound Capturing Devices 2023</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-master-your-mac-with-ease-an-ultimate-guide-to-utilizing-preview-app/"><u>2024 Approved Master Your Mac with Ease An Ultimate Guide to Utilizing Preview App</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-pixel-perfect-free-mobile-photography-booster/"><u>2024 Approved Pixel Perfect Free Mobile Photography Booster</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/airpods-mic-malfunctioning-on-windows-11-heres-what-you-need-to-do/"><u>AirPods Mic Malfunctioning on Windows 11? Here's What You Need to Do</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-6-plus-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-xs-max-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-apple-iphone-6s-plus-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your Apple iPhone 6s Plus When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-7-passcode-screen-drfone-by-drfone-ios/"><u>How to Unlock iPhone 7 Passcode Screen? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-6s-plus-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 6s Plus with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-7-plus-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, iPhone 7 Plus Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-revamped-interview-inquiries-to-spark-podcast-fans-curiosity/"><u>In 2024, Revamped Interview Inquiries to Spark Podcast Fans' Curiosity</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-iphone-xs-with-forgotten-passcode-different-methods-you-can-try-drfone-by-drfone-ios/"><u>In 2024, Unlock iPhone XS With Forgotten Passcode Different Methods You Can Try | Dr.fone</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/winx-dvd-ripper-comprehensive-guide-free-download-and-tutorials/"><u>WinX DVD Ripper: Comprehensive Guide - Free Download and Tutorials</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Locked Out of iPhone 11? 5 Ways to get into a Locked iPhone 11 | Dr.fone
-date: 2024-07-15T06:00:50.363Z
-updated: 2024-07-16T06:00:50.363Z
+date: 2025-02-10T05:36:01.375Z
+updated: 2025-02-15T06:10:33.290Z
 tags: 
   - unlock
   - remove screen lock
@@ -24,8 +24,6 @@ If you are locked out of Apple iPhone 11, you should only use a reliable and sec
 
 Attention: All your data all be erased after you get into your locked Apple iPhone 11.Please make sure if you have backed up all your data.
 
-
-
 ### Dr.Fone - Screen Unlock
 
 Get Into Locked Apple iPhone 11 In 5 Minutes!
@@ -45,6 +43,10 @@ You can watch the video below about how to unlock your Apple iPhone 11 without P
 
 ![get into locked Apple iPhone 11 with drfone for ios](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2.** Connect your device with a computer. Afterward, choose the “Unlock iOS Screen”  to get started.
 
 ![connect Apple iPhone 11 to pc to get into locked Apple iPhone 11](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
@@ -63,18 +65,12 @@ You can watch the video below about how to unlock your Apple iPhone 11 without P
 
 **Step 6.** There will be a warning message showing up. Just confirm it by entering the on-screen code.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![confirmation code to get into locked Apple iPhone 11](https://images.wondershare.com/drfone/drfone/ios-unlock-5.jpg)
 
 **Step 7.** Let the application resolve the issue on your phone. Once it is done, you will be notified that your lock screen is removed.
 
 ![got into locked Apple iPhone 11 successfully](https://images.wondershare.com/drfone/drfone/ios-unlock-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to get into a locked Apple iPhone 11 with iTunes?
 
 This is another popular way to resolve the locked out of the Apple iPhone 11 problem. It can get a little complicated to start with, but in the end, your data would be erased. On Mac with macOS Catalina, you need to open Finder. On Windows PC and Mac with other macOS, you can use iTunes. Implement the following steps to restore your Apple iPhone 11.
@@ -103,10 +99,11 @@ Apple’s official Find My Apple iPhone 11 is a smart and hassle-free way to loc
 
 **Step 2.** This will provide various tasks that you can perform on the iOS device. Click on the “Erase Apple iPhone 11” button to reset the Apple iPhone 11 device.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![erase Apple iPhone 11](https://images.wondershare.com/drfone/article/2017/07/14994495147747.jpg "erase Apple iPhone 11")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: How to get into a locked Apple iPhone 11 with Siri?
 
@@ -127,6 +124,10 @@ If you don’t want to erase your device’s data while resolving this issue, yo
 **Step 4.** A few added options will be displayed. Tap on “Share” to proceed.
 
 ![share text](https://images.wondershare.com/drfone/article/2017/07/14994491981436.jpg "share text")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5.** Out of all the options to share this text, select the Message app.
 
@@ -155,6 +156,10 @@ If you don’t want to erase your device’s data while resolving this issue, yo
 **Step 11.** Now, press the home button. If nothing goes wrong, then you will enter the Home screen on your phone.
 
 ![iphone home](https://images.wondershare.com/drfone/article/2017/07/14994493369614.jpg "iphone home")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -190,9 +195,6 @@ The steps below work if your Apple iPhone 11 or iPad runs iOS 15.2 or later and 
 - Select your Apple iPhone 11 in the Finder sidebar on Mac or iTunes on the PC.
 - Pick Restore when you see the choice to Restore. Let the download finish if the download takes over 15 minutes and your device leaves the recovery mode screen. Then, at that point, turn off your Apple iPhone 11 and start once more.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![click restore](https://images.wondershare.com/drfone/article/2022/11/forgotten-iphone-pin-2.jpg)
 
 - Disconnect your Apple iPhone 11, then, at that point, turn it on and set it up. That's all you need to do.
@@ -214,6 +216,10 @@ To unlock iPhone through iCloud:
 **Step 4.** Click the "Erase iPhone" button. Subsequently, set up the Apple iPhone 11 device and set another lock screen PIN. With iCloud, you can unlock your iDevice without even touching your device.
 
 ![icloud unlock](https://images.wondershare.com/drfone/article/2022/11/forgotten-iphone-pin-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Unlock it with iTunes
 
@@ -242,7 +248,6 @@ Keep waiting until the restoration completes. Then, a short time later, go to yo
 ![itunes unlock](https://images.wondershare.com/drfone/article/2022/11/forgotten-iphone-pin-4.jpg)
 
 ### 4\. Dr.Fone-Screen Unlock
-
 
 What to do if you **forgot iPhone PIN code**? As a reference, you have to erase your device to remove the lock. Aside from iTunes, you can use an outsider iPhone unlocker like Dr.Fone-Screen Unlock to unlock your device without a code.
 
@@ -278,7 +283,6 @@ After getting the required firmware, click the "Unlock Now" button to begin the 
 
 Simply in almost no time, your Apple iPhone 11 will be unlocked effectively. However, kindly note this unlocking system will likewise wipe all the files and settings on your device. Therefore, you must have a backup of your essential documents beforehand.
 
-
 ## Part 2: FAQs
 
 ### How can I change my PIN on my iPhone?
@@ -286,6 +290,10 @@ Simply in almost no time, your Apple iPhone 11 will be unlocked effectively. How
 - Open your Settings app and peer down until you see the passcode menu. On iPhones with a home button, this will be named "Touch ID and Passcode." On new ones, it is "Face ID and Passcode."
 
 ![passcode menu](https://images.wondershare.com/drfone/article/2022/11/forgotten-iphone-pin-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Enter your existing code or create a new one.
 - Toggle on the "Turn Passcode Off" option.
@@ -305,8 +313,6 @@ No, you cannot unlock a locked iDevice without losing your data. Apple has made 
 
 Due to one reason or another, you may have **forgotten iPhone PIN.** However, it is not that big a deal. In this article, we have proposed some of the best ways you can employ to erase this issue. However, we strongly recommend you use Dr.Fone for a quick solution.
 
-
-
 ## 7 Top Ways To Resolve Apple ID Not Active Issue For Apple iPhone 11
 
 Your Apple ID is the cornerstone of your Apple device experience. It serves as the key to accessing a lot of functions. It plays an essential role, from App Store purchases to [iCloud storage](https://drfone.wondershare.com/icloud-storage-is-full.html) and device syncing. It ensures smooth functionality across Apple devices. Apart from its convenience, the Apple ID serves as an essential element for security.
@@ -314,6 +320,10 @@ Your Apple ID is the cornerstone of your Apple device experience. It serves as t
 Yet, despite its significance, issues can arise, disrupting the active status of your Apple ID. In this article, we'll discuss one common yet frustrating issue: **this Apple ID is not active**. The guide will provide 7 effective methods to restore the functionality of your Apple ID. Additionally, we'll highlight the most efficient approach to swiftly resolve this issue.
 
 ![apple id not active on device](https://images.wondershare.com/drfone/article/2024/01/how-to-resolve-apple-id-not-active-issue-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1. Reasons Why Apple ID Is Not Active
 
@@ -326,6 +336,10 @@ An inactive Apple ID results from incorrect login information. Mistyped password
 ### 2\. Account Security Measures
 
 Apple employs strict security measures to protect user accounts. Sometimes, an Apple ID becomes inactive due to suspicious activities. This triggers security locks to safeguard sensitive information.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. Payment or Billing Issues
 
@@ -360,7 +374,6 @@ The user-friendly interface of Dr.Fone ensures that all types of users can remov
 Begin by opening Wondershare Dr.Fone on your computer. Then, navigate through "Toolbox," access "Screen Unlock," and select "iOS" as the Apple iPhone 11 device type. In the next window, locate and click the "Remove AppleID" option from the available choices. Ensure your iOS device is connected to the computer; proceed by clicking the "Unlock Now" button.
 
 ![proceed with remove apple id feature](https://images.wondershare.com/drfone/guide/remove-apple-id-2.png)
-
 
 - **Step 2. Verification of Device Locks and Two-Factor Authentication**
 
@@ -400,6 +413,10 @@ An inactive Apple ID issue might occasionally arise due to connectivity problems
 
 ![change wifi or mobile data](https://images.wondershare.com/drfone/article/2024/01/how-to-resolve-apple-id-not-active-issue-7.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Way 3. Try Resetting Your Apple ID Password
 
 Resetting your Apple ID password is a common solution for addressing problems linked to an inactive ID. This proves particularly effective when issues stem from entering incorrect login details.
@@ -411,6 +428,10 @@ Do you know your Apple ID and simply need to reset the password? You can easily 
 - **Step 1.** Initially, access the “Settings” on your device and select the "Apple ID" at the top. Press "Sign-In & Security" on the following screen to proceed further.
 
 ![access sign in and security options](https://images.wondershare.com/drfone/article/2024/01/how-to-resolve-apple-id-not-active-issue-8.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2.** Next, tap "Change Password" and provide your device passcode. You will need to type in a new password, verify it, and press "Change" from the top-right corner.
 
@@ -428,9 +449,6 @@ Are you unable to reset your Apple ID password directly from your device? If you
 
 ![enter phone and captcha characters](https://images.wondershare.com/drfone/article/2024/01/how-to-resolve-apple-id-not-active-issue-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Way 4. Check the iCloud Status Page
 
 Verifying the status of Apple's services, including iCloud, can help determine if there's an ongoing outage. The Apple Status page provides real-time information about Apple's service. It displays disruptions, maintenance, or outages that might impact a service's availability. Follow these steps to check the iCloud Status page:
@@ -451,7 +469,6 @@ When connecting with Apple Support, be ready to provide details about your issue
 
 In conclusion, an **Apple ID that is not active** can disrupt access to essential device services. Various troubleshooting methods offer solutions, including resetting passwords, checking network connections, and consulting Apple Support. Yet, Dr.Fone is a hassle-free and efficient option among the solutions provided.
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -464,9 +481,21 @@ In conclusion, an **Apple ID that is not active** can disrupt access to essentia
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-realtime-game-scorekeeper/"><u>[New] In 2024, RealTime Game Scorekeeper</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-iphone-multimedia-magic/"><u>[New] The Ultimate Guide to iPhone Multimedia Magic</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-making-youtube-videos-come-alive-your-ultimate-guide-to-animated-gifs/"><u>[Updated] In 2024, Making YouTube Videos Come Alive Your Ultimate Guide To Animated GIFs</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ai-showdown-why-microsoft-copilot-takes-the-lead-with-these-reason-1-4-over-chatgpt/"><u>AI Showdown: Why Microsoft Copilot Takes the Lead with These #Reason #1 - 4 Over ChatGPT</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/did-your-iphone-12-mini-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your iPhone 12 mini Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabling-apple-iphone-13-mini-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>Disabling Apple iPhone 13 mini Parental Restrictions With/Without Password | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/get-your-hands-on-the-latest-android-beta-update-even-if-you-dont-have-a-pixel-phone/"><u>Get Your Hands on the Latest Android #Beta Update Even If You Don't Have a Pixel Phone!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-turn-off-find-my-apple-iphone-15-when-phone-is-broken-drfone-by-drfone-ios/"><u>How to Turn Off Find My Apple iPhone 15 when Phone is Broken? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xr-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone XR Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-stolen-apple-iphone-11-pro-in-different-conditionsin-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Stolen Apple iPhone 11 Pro In Different Conditionsin | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-superior-plot-strategies-across-diverse-cinematic-fields/"><u>In 2024, Superior Plot Strategies Across Diverse Cinematic Fields</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210194187-9781087938752-peaceful-mind-3-books-in-1-chakras-for-beginners-buddhism-5-essential-mindful-habits-3-books-in-1/"><u>Peaceful Mind: 3 Books in 1: Chakras for Beginners, Buddhism, 5 Essential Mindful Habits: 3 Books in 1 | Free Book</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/smooth-snapshot-mastery-eliminate-shakes-for-2024/"><u>Smooth Snapshot Mastery - Eliminate Shakes for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlock-your-disabled-apple-iphone-xr-without-itunes-in-5-ways-drfone-by-drfone-ios/"><u>Unlock Your Disabled Apple iPhone XR Without iTunes in 5 Ways | Dr.fone</u></a></li>
+</ul></div>
 

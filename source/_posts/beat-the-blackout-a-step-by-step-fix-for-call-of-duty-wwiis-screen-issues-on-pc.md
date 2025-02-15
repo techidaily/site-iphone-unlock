@@ -1,7 +1,7 @@
 ---
 title: "Beat the Blackout! A Step-by-Step Fix for Call of Duty: WWII's Screen Issues on PC"
-date: 2025-01-27T21:12:17.291Z
-updated: 2025-02-01T02:43:33.647Z
+date: 2025-02-12T05:51:23.485Z
+updated: 2025-02-14T23:30:48.168Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/2ba5849aea90d4e5d7bbd18adc2a2c9c0f1eeac29
 
 **Don’t worry if Titanfall 2 keeps crashing on your PC** . Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other Titanfall 2 players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -35,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/2ba5849aea90d4e5d7bbd18adc2a2c9c0f1eeac29
 8. **[Reinstall Titanfall 2](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Check if your PC meets the system requirements for Titanfall 2
 
@@ -77,6 +77,10 @@ Below are the system requirements for Titanfall 2:
 
  If your PC fails to meet Titanfall 2 minimum system requirements, you may not be able to run the game properly on your PC. In such a case, you need to **upgrade your hardware first** . If you don’t know how to check the DirectX version on your PC, you can refer to the first step in the post: [ Download DirectX 12 for Windows 10 \[SOLVED\]](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your drivers
 
  Corrupted or outdated drivers usually lead to the Titanfall 2 crashing issue. To resolve this issue, you just need to update the drivers on your PC to the latest version.
@@ -95,6 +99,10 @@ Below are the system requirements for Titanfall 2:
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ### Fix 3: Perform a Windows update
@@ -105,17 +113,13 @@ Below are the system requirements for Titanfall 2:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/update1.jpg)
 2. Click**Check for updates** . Windows will start searching for available updates. If there are any, Windows will automatically download and install the updates.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Run Titanfall 2 again after Windows installed the latest updates. If there is no updates available, or if the game still keeps crashing after you installed the latest Windows updates, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 4: Install the latest Titanfall 2 patch
 
@@ -124,7 +128,7 @@ Below are the system requirements for Titanfall 2:
  If a patch is available, just download and install it to see if it can fix the crashing issue; if there’s no patches available, or if the issue persists after you installed the latest patch, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 5: Add Titanfall 2 as an exception to your third-party antivirus application
@@ -136,10 +140,6 @@ Below are the system requirements for Titanfall 2:
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
 
  Launch the game again to see if Titanfall 2 would keep crashing. If not, congratulations! You’ve fixed this issue; if this issue persists, don’t worry. Try the next fix, below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Fix 6: Repair Titanfall 2
 
@@ -166,12 +166,12 @@ Below are the system requirements for Titanfall 2:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
@@ -183,7 +183,7 @@ Below are the system requirements for Titanfall 2:
  Once you find out the problematic software that make the game keep crashing, you need to **uninstall** it to avoid game crashing issues in the future.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 8: Reinstall Titanfall 2
@@ -221,24 +221,24 @@ Below are the system requirements for Titanfall 2:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-top-10-best-offline-android-games-you-can-find/"><u>[New] In 2024, Top 10 Best Offline Android Games You Can Find</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-to-show-or-not-to-display-off-facebook-activities/"><u>[New] To Show or Not to Display Off-Facebook Activities</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-saving-window-views-on-pcs-from-winxp-to-11-for-2024/"><u>[Updated] Saving Window Views on PCs From WinXP to 11 for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-viral-video-to-visuals-converting-tweets-to-costless-cgi/"><u>2024 Approved Viral Video to Visuals Converting Tweets to Costless CGI</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-erase-iphone-12-mini-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>3 Ways to Erase iPhone 12 mini When Its Locked Within Seconds | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-apple-iphone-8-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock Apple iPhone 8 in Lost Mode | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-6s-and-ipad-securely-drfone-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 6s and iPad Securely | Dr.fone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/acid-pro-evaluation-finding-reliable-counterparts-for-2024/"><u>ACID Pro Evaluation Finding Reliable Counterparts for 2024</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/can-you-unlock-iphone-15-pro-max-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>Can You Unlock iPhone 15 Pro Max After Forgetting the Passcode? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-iphone-6s-plus-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your iPhone 6s Plus Without a Home Button | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-fixes-to-solve-apple-iphone-11-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>In 2024, Complete Fixes To Solve Apple iPhone 11 Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-15-plus-drfone-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On Apple iPhone 15 Plus | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-14-pro-max-with-or-without-password-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone 14 Pro Max With or Without Password | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-poco-c51-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Poco C51 Find My Friends No Location Found? | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Oppo Reno 9A | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6s-plus-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 6s Plus Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-top-free-dj-beats-downloads-site-for-2024/"><u>New Top Free DJ Beats Downloads Site for 2024</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/uss-preferred-foreign-language-study-pathways/"><u>U.S.'s Preferred Foreign Language Study Pathways</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/hed-vids-rediscovered-the-ultimate-guide-to-old-youtube-videos-for-2024/"><u>Vanished Vids Rediscovered The Ultimate Guide to Old YouTube Videos for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-circumnavigating-youtubes-block-list/"><u>[New] 2024 Approved Circumnavigating YouTube's Block List</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-enhancing-communication-top-4-techniques-for-fb-call-records/"><u>[Updated] 2024 Approved Enhancing Communication Top 4 Techniques for FB Call Records</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-youtube-aesthetics-advanced-video-hue-balancing/"><u>[Updated] 2024 Approved YouTube Aesthetics Advanced Video Hue Balancing</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-essentials-for-launching-an-engaging-webcam-stream/"><u>[Updated] Essentials for Launching an Engaging Webcam Stream</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-top-8-cost-effective-multi-platform-virtual-communication-software/"><u>[Updated] In 2024, Top 8 Cost-Effective, Multi-Platform Virtual Communication Software</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-6s-plus-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone 6s Plus? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-iphone-15-pro-max-drfone-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-14-drfone-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exploring-the-boundaries-64128gb-for-vids/"><u>In 2024, Exploring the Boundaries 64/128GB for Vids</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-iphone-x-passcode-not-working-drfone-by-drfone-ios/"><u>In 2024, How to Fix iPhone X Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-passcode-from-apple-iphone-13-complete-guide-drfone-by-drfone-ios/"><u>In 2024, How To Remove Passcode From Apple iPhone 13? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-without-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Without Passcode? | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-pro-level-insights-for-perfectly-crafted-snaps/"><u>In 2024, Pro-Level Insights for Perfectly Crafted Snaps</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-12-pro-drfone-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-iphone-13-pro-max-drfone-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-oppo-reno-9a-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Oppo Reno 9A Phones</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-apple-iphone-14-plus-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 14 Plus Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/reviving-retro-tech-how-raspberry-pi-and-3d-printing-reimagines-the-iconic-trs-80/"><u>Reviving Retro Tech: How Raspberry Pi & 3D Printing Reimagines the Iconic TRS-80</u></a></li>
+<li><a href="https://win-bits.techidaily.com/top-rated-no-cost-reflective-data-replication-tools-for-microsoft-windows-versions-xpvista71011/"><u>Top Rated No-Cost Reflective Data Replication Tools for Microsoft Windows Versions (XP/Vista/7/10/11)</u></a></li>
 </ul></div>
 

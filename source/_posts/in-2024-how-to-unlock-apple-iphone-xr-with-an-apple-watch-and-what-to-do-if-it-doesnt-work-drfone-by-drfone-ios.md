@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Apple iPhone XR With an Apple Watch & What to Do if It Doesnt Work | Dr.fone
-date: 2024-07-15T05:57:50.142Z
-updated: 2024-07-16T05:57:50.142Z
+date: 2025-02-09T21:16:53.767Z
+updated: 2025-02-14T16:29:53.711Z
 tags: 
   - unlock
   - remove screen lock
@@ -28,10 +28,13 @@ Moreover, you might be able to **use the Apple Watch to unlock your Apple iPhone
 
 Now, you cannot just **unlock any Apple iPhone XR with your Watch**. The devices must be paired, and you’ll need to follow a few steps to enable this option. Here’s how to unlock your phone using your Apple Watch like a pro.
 
-
 ## Part 1. Can I Use an Apple Watch To Unlock My Apple iPhone XR?
 
 ![phone, earphones, and apple watch on a table](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The Apple iPhone XR face ID is one of the simplest, most practical ways to unlock your phone. While you’ll need a passcode just as another security layer, you won’t have to worry about someone else breaking in if they know it, going through your messages, or collecting your private information.
 
@@ -74,9 +77,6 @@ If you meet all the aforementioned criteria, setting up the feature to unlock yo
 
 - **Step 1:** Go to **Settings > Face ID & Passcode**on your Apple iPhone XR;
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone face id and passcode settings](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-5.jpg)
 
 - **Step 2:** Type in your passcode;
@@ -90,10 +90,11 @@ You can turn on wrist detection on your watch by following these steps:
 - **Step 5:** Tap on the **Passcode**;
 - **Step 6:** Toggle **Wrist Detection**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![apple watch wrist detection settings](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now that you’ve enabled the option to unlock your Apple iPhone XR using your Apple Watch, it’s time to simply start using the feature. To unlock your phone, you’ll need to:
 
@@ -105,6 +106,10 @@ Now that you’ve enabled the option to unlock your Apple iPhone XR using your A
 Your Apple Watch will send an alert when you’ve used it to unlock your Apple iPhone XR. If you accidentally unlock your phone, simply tap on the **Lock Apple iPhone XR** on the screen of your watch to lock it.
 
 However, remember that the next time you want to use your Apple Watch to unlock your Apple iPhone XR, you’ll first need to type in your passcode.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4. What To Do if You Can’t Unlock Your Apple iPhone XR With a Watch
 
@@ -146,9 +151,6 @@ When you tap on this, you’ll need to go through the process of setting your Fa
 
 Move your face to complete the circle, then tap on **Continue**. Repeat the face scan process the second time and select **Done**.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4. Do a System Repair on Your Apple iPhone XR
 
 If your Apple Watch unlock is still misbehaving, you might need to do a full system repair. As a general rule of thumb, it’s best to use verified apps like Dr.Fone to prevent the problem from getting worse.
@@ -187,6 +189,10 @@ If the problem wasn’t due to a system glitch, you should try resetting your Ap
 - **Step 2:** Type in your passcode.
 
 Resetting your network settings will clear out data from your internet, local network, and devices, including WiFi passwords, some Bluetooth connections, and more. However, your paired devices, such as the Apple Watch, shouldn’t be removed.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 6. Reset Your Watch and Pair It Again
 
@@ -241,6 +247,10 @@ Below are the common scenarios where a new Apple ID might be needed:
 - **Starting Fresh.**Sometimes, you might want a fresh start with your Apple experience, and creating a new Apple ID provides a clean slate.
 
 **Creating a new Apple ID** isn't just about getting a new email; it's about tailoring your Apple experience to your needs, whether for personalization, privacy, or organization. Now that you know why it's essential, let's explore how to create it in the next section.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Step-by-Step Guide: How To Create a New Apple ID Account
 
@@ -298,9 +308,6 @@ You can embark on an enhanced Apple experience after successfully **creating you
 
 This step ensures that your new Apple ID takes center stage, granting you full control over your device and its associated services. But if you encounter difficulties when removing the previous Apple ID from your device, Dr.Fone - Screen Unlock (iOS) is a reliable and user-friendly solution.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone unlock ios screen](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
 ### Key Features of Dr.Fone - Screen Unlock (iOS)
@@ -312,6 +319,10 @@ This versatile tool offers the following key features in the context of Apple ID
 - **Multiple Unlock Modes.**Fone offers various unlock modes to cater to different scenarios, including removing the previous Apple ID. This flexibility ensures that you have the right solution for your specific situation.
 - **Data Security.**Fone - Screen Unlock (iOS) prioritizes data security, ensuring that your personal information and content remain intact during the Apple ID removal process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Step-by-Step Guide on Using Dr.Fone Screen Unlock (iOS)
 
 Check out the steps on how to remove an Apple ID account using Dr.Fone below:
@@ -319,7 +330,6 @@ Check out the steps on how to remove an Apple ID account using Dr.Fone below:
 - **Step 1:** Launch Wondershare Dr.Fone on your PC to use the **Screen Unlock** function and then navigate to **Toolbox**. Click the **Screen Unlock** section, then choose **iOS**.
 
 ![drfone v13 homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
-
 
 - **Step 2:** If you want to proceed with deleting your Apple ID, you'll need to go to the next window and select the **Remove AppleID** option from the menu.
 - **Step 3:** When you hook up your iOS device to a computer, the next screen will report on its connectivity. Select the **Unlock Now** button to proceed.
@@ -338,6 +348,10 @@ Check out the steps on how to remove an Apple ID account using Dr.Fone below:
 
 ![try dfu mode](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 7:** Once **Recovery Mode** has been activated, the Apple iPhone XR device's information will be shown on the subsequent screen. Once the **Device Model** has been identified, all that remains is to choose the appropriate **System Version** and click **Start**. However, if there are disagreements in recognition, pick the details by hand and move forward.
 
 ![choose device model](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
@@ -346,6 +360,10 @@ Check out the steps on how to remove an Apple ID account using Dr.Fone below:
 - **Step 9:** The platform checks the downloaded firmware and displays its details on the following screen. To proceed with unlocking your Apple ID, click the **Unlock Now** button. To proceed, you will be prompted to input a code into a confirmation window. Enter the code and then click the **Unlock** button.
 
 ![firmware complete](https://images.wondershare.com/drfone/guide/remove-apple-id-6.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 10:** The following screen shows the unlocking status of your Apple ID. Don't let the Apple iPhone XR device lose its connection under any circumstances. The screen prompts the process of completing the Apple ID once the ID has been unlocked. If the Apple ID has been unlocked, click **Done** to proceed. If that fails, click the **Try Again** button and give it another shot.
 
@@ -361,9 +379,6 @@ Should you encounter any challenges while managing your Apple ID, such as removi
 
 Wondershare Dr.Fone
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Reset iPhone without Apple ID
 
 - Simple, click-through, process.
@@ -402,6 +417,10 @@ Unlocked iPhones are a traveler's dream. With an unlocked device, you can insert
 ### 3\. No Contracts
 
 Locked smartphones often come with binding carrier contracts. These can extend for two years or more. With an unlocked iPhone 15, you can avoid lengthy contracts. It puts you in control of your financial commitments and enables you to change your plan as you see fit.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Resale Value
 
@@ -488,15 +507,15 @@ Now, forget all known networks from your device one by one. Afterward, disable W
 
 ![removing the sim lock](https://images.wondershare.com/drfone/guide/remove-iphone-sim-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
 To conclude, the decision to opt for an **iPhone 15 unlocked** series offers a realm of possibilities. The freedom to choose carriers and avoid international roaming charges are all compelling reasons for an unlocked device.
 
 When it comes to unlocking locked iPhones, a cautious and well-informed approach is essential. It is best to use a specialized tool like Wondershare Dr.Fone for unlocking carrier locks. With the help of Dr.Fone, you can safely remove the carrier lock within no time.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -510,9 +529,18 @@ When it comes to unlocking locked iPhones, a cautious and well-informed approach
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-maximizing-memory-retention-through-mac-based-audio-recordings/"><u>[New] In 2024, Maximizing Memory Retention Through Mac-Based Audio Recordings</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-prime-8-film-grabs-from-fb-2023-edition-for-2024/"><u>[New] Prime 8 Film Grabs From FB 2023 Edition for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/uick-tunes-explore-video-music-characters/"><u>[New] Quick Tunes Explore Video Music Characters</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-6s-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>How To Unlock Apple iPhone 6s Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-apple-iphone-12-pro-drfone-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xs-max-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XS Max without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-oppo-find-n3-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Oppo Find N3? Fixed | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/professional-tips-ensuring-correct-date-on-pictures/"><u>Professional Tips Ensuring Correct Date on Pictures</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-13-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone 13 Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/unlocking-apple-iphone-se-2020-passcode-without-a-computer-drfone-by-drfone-ios/"><u>Unlocking Apple iPhone SE (2020) Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/virtual-venue-vetting-picking-obs-or-twitch-for-2024/"><u>Virtual Venue Vetting Picking OBS or Twitch for 2024</u></a></li>
+</ul></div>
 

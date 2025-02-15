@@ -1,7 +1,7 @@
 ---
 title: In 2024, How To Fix Auto Lock Greyed Out on iPhone XS Max | Dr.fone
-date: 2024-07-15T05:53:21.840Z
-updated: 2024-07-16T05:53:21.840Z
+date: 2025-02-08T23:56:49.671Z
+updated: 2025-02-14T17:39:49.397Z
 tags: 
   - unlock
   - remove screen lock
@@ -96,9 +96,6 @@ If your IT team gives the green light, you might also be able to remove the netw
 - **Step 2:** Navigate to **General** > **Profile** or **VPN & Device Management** (or a similar section).
 - **Step 3:** Select the management and tap **Remove Management**.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![remove mdm profile on ipad](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-08.jpg)
 
 If the option is unavailable, only the person who used Apple Configurator 2 or handles your company's mobile device management platform can remove it.
@@ -142,6 +139,10 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 ![dr.fone bypassing mdm lock](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 7:** You'll see a confirmation message once the bypass is successful. Click **Done** to exit. Your device should now be free from MDM restrictions.
 
 ![successfully bypassed mdm on ios](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-6.png)
@@ -161,9 +162,6 @@ Here are the steps on **how to change Auto-Lock on iPad** devices:
 
 - **Step 3:** A list of time options will appear, ranging from **2 minutes** to **15 minutes**, as well as **Never**. Select the time you want your iPad to wait before automatically locking the screen after inactivity. If you want the screen to stay on indefinitely, choose **Never**.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change auto lock on ipad](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-17.jpg)
 
 **Step 4:** Once you've selected your preferred auto-lock duration, you can exit the **Settings** app. The change will be applied automatically.
@@ -375,11 +373,19 @@ Even Wondershare Dr.Fone helps to remove all types of lock screens on iPhone, iP
 | **1 Year License** | $39.95/Year | $39.95/Year |
 | **Perpetual License** | $49.95/Lifetime | $49.95/Lifetime |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Highlights of Wondershare Dr.Fone
 
 1. Wondershare Dr.Fone software offers a diverse range of compatibility with all iOS devices up to iPhone 15 and iOS 17.
 2. Users can try different methods to [bypass the iCloud Activation Lock](https://drfone.wondershare.com/icloud/bypass-iphone-11-12-icloud-activation-lock.html) and [remove MDM restrictions](https://drfone.wondershare.com/unlock/mdm-bypass-free.html) without compromising iOS device’s integrity.
 3. This tool helps unlock your Apple iPhone XS Max and remove SIM-locked issues when you travel abroad or replace your SIM card.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Steps To Unlock iOS Screen Lock Using Wondershare Dr.Fone
 
@@ -391,6 +397,9 @@ Start with connecting the Apple iPhone XS Max to the computer and select the "Sc
 
 ![access drfone screen unlock function](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2. Proceed and Put Your Apple iPhone XS Max in Recovery Mode**
 
@@ -425,6 +434,10 @@ Before moving further, you have to confirm that your iDevice has a screen lock a
 After that, you will be prompted to put your iDevice in Recovery Mode by following on-screen instructions according to your Apple iPhone XS Max model. On the next window, you can see your "Device Model" recognized and then choose the "System Version" and hit the "Start" button.
 
 ![start recovery mode on Apple iPhone XS Max](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4. Download iOS Firmware and Unlock Apple ID**
 
@@ -474,6 +487,10 @@ Find My can be a source to track stolen iPhones, but certain scenarios are assoc
 
 ![open find my app](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 2.** After logging in, select the lost device, and you can see its last recorded location on the map.
 
 ![consider last device location](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-4.jpg)
@@ -510,9 +527,6 @@ Lost Mode locks the Apple iPhone XS Max device and allows users to showcase a pe
 
 ![activate lost mode from browser](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-10.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4. Can't Find Stolen Phone? Erase iPhone Completely
 
 When efforts to locate a stolen iPhone fail, the need to protect sensitive data intensifies. As a result, the option to erase the Apple iPhone XS Max device becomes a crucial step instead of **how to lock the Apple iPhone XS Max when lost**. Here's how to protect against the potential misuse of your information by erasing your device via Find My:
@@ -561,13 +575,14 @@ After your Apple iPhone XS Max is stolen, it becomes essential to bolster the se
 
 ![remove stolen device from account](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-17.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### From the Apple ID Website
 
 - **Step 1.** If you cannot reach a secure device, visit the <http://appleid.apple.com> website and sign in with the identical Apple ID.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![log into apple id account](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-18.jpg)
 
 - **Step 2.** Once logged in, click "Devices" from the left side and select the lost device. To remove this device as a trusted device, click "Remove from Account."
@@ -577,6 +592,10 @@ After your Apple iPhone XS Max is stolen, it becomes essential to bolster the se
 ## Part 6. Precautions To Take for Avoiding Losing iPhone
 
 Users can proactively adopt specific measures to reduce the likelihood of such an occurrence. The following essential precautions are recommended while learning **how to block your Apple iPhone XS Max when stolen**:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Precaution #1. Enable Find My on Device
 
@@ -614,11 +633,19 @@ Activating Two-Factor Authentication (2FA) enhances the security of your Apple i
 
 ![turn on two factor authentication](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-25.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bonus Tip. Find Stolen iPhone Back but Locked? Unlock With Wondershare Dr.Fone
 
 Recovering your stolen iPhone successfully can be a joyous event. Yet, the frustration of discovering your device locked due to a forgotten password can be disheartening. [<u>Wondershare Dr.Fone - Screen Unlock (iOS)</u>](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) offers a solution to regain access to your device. This robust tool is crafted to help users unlock various iOS screen lock scenarios.
 
 It provides a hassle-free solution for those locked out of their devices. This powerful tool effortlessly removes various lock screens on iPhones and iPads. It can [<u>bypass the iCloud activation lock without the need for a password</u>](https://drfone.wondershare.com/icloud/unlock-icloud-activation.html).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Features of Wondershare Dr.Fone
 
@@ -638,7 +665,6 @@ Once you have installed and launched Wondershare Dr.Fone, access the "Toolbox" t
 
 ![start ios screen unlock](https://images.wondershare.com/drfone/guide/unlock-ios-screen-2.png)
 
-
 - Step 2. Entering Recovery Mode and Choosing System Version
 
 The next step requires you to put your device in Recovery Mode, for which you can follow the instructions given on-screen. After your device is in Recovery Mode, Dr.Fone will display its “Model.” Now choose the appropriate "System Version" and click "Start." Here, Dr.Fone will start downloading the required firmware. Once it is downloaded and verified, tap "Unlock Now."
@@ -651,17 +677,11 @@ To show your acknowledgment of the warning, enter the asked code, which is "0000
 
 ![acknowledge and unlock device](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 Knowing **how to lock stolen iPhone**s is essential for safeguarding personal and sensitive data. Apple's Find My empowers users to remotely locate, lock, and erase their lost devices. If you have recovered your stolen device but it is locked, Wondershare Dr.Fone emerges as the top choice to unlock it within minutes.
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -675,9 +695,19 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://techno-recovery.techidaily.com/diy-fixes-for-problematic-power-on-self-test-post-sequences/"><u>DIY Fixes for Problematic Power-On Self Test (POST) Sequences</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/django-admin-made-easy-with-bootstrap-nanoadmin-inspired-by-material-design-and-created-by-creative-tim/"><u>Django Admin Made Easy with Bootstrap nanoAdmin, Inspired by Material Design and Created by Creative Tim</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-locked-apple-iphone-x-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>Forgot Locked Apple iPhone X Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-se-2022-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone SE (2022) without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-a05s-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-6-plus-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone 6 Plus Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-best-ways-to-bypass-icloud-activation-lock-from-iphone-8-plusipadipod-by-drfone-ios/"><u>In 2024, Best Ways to Bypass iCloud Activation Lock from iPhone 8 Plus/iPad/iPod</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-from-iphone-12-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud from iPhone 12 Safe and Legal</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-13-mini-apples-new-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 13 mini, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-iphone-se-2022-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>In 2024, Unlocking iPhone SE (2022) Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/pure-portrayals-on-platforms-your-guide-to-authentic-snapshots-for-2024/"><u>Pure Portrayals on Platforms Your Guide to Authentic Snapshots for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/upgrading-to-iphone-16-pro-a-comprehensive-comparison-with-the-iphone-14-pro-on-zdnet/"><u>Upgrading to iPhone 16 Pro? A Comprehensive Comparison with the iPhone 14 Pro on ZDNet</u></a></li>
+</ul></div>
 

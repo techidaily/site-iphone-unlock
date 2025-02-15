@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Remove and Reset Face ID on iPhone XR | Dr.fone
-date: 2024-07-15T05:58:19.106Z
-updated: 2024-07-16T05:58:19.106Z
+date: 2025-02-07T16:16:34.302Z
+updated: 2025-02-15T00:56:13.587Z
 tags: 
   - unlock
   - remove screen lock
@@ -60,9 +60,6 @@ Step 1: Check if Face ID is enabled for purchases in these stores by going to Se
 
 Step 2: On any of these stores, when you tap on the option to buy some content, a payment confirmation popup will be displayed along with instructions to authenticate yourself using Face ID.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![make purchases with face id](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-4.jpg)
 
 The instructions are simple: press the side button twice to authenticate yourself using your Face ID and make the purchase.
@@ -135,9 +132,6 @@ Step 4: When done, the Record button changes to Send:
 
 Tap Send to send your first Memoji/ Animoji.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part III: How to Remove Face ID on Apple iPhone XR
 
 For all the hardware and software that make for a great experience for nearly all users around the world, Face ID can have its fair share of issues. Sometimes, your face might not get recognized, sometimes it might not work altogether.
@@ -152,9 +146,6 @@ Step 1: Go to Settings > Face ID and Passcode.
 
 Step 2: Scroll and tap the option "Reset Face ID" to remove Face ID on your Apple iPhone XR 13/12/11.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![wa stickers](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-11.jpg)
 
 ## Part IV: How to Set Up Face ID on Your Apple iPhone XR
@@ -169,6 +160,10 @@ Step 3: Hold your Apple iPhone XR in the portrait orientation at about an arm‘
 
 ![setting up face id](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4: Adjust to have your face inside the shown circle and then slowly rotate your head in a smooth motion to complete the circle. This step will be done one more time.
 
 Step 5: When done, tap Done.
@@ -181,14 +176,13 @@ There are a few things you can try to resolve this, you can try to update your A
 
 If this does not resolve it, you need to take the Apple iPhone XR device to the nearest service center. The TrueDepth camera system has components that might have been damaged or might not be working properly, for whatever reason, and the service personnel is equipped to resolve this issue for you at the earliest.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part V: The Bottom Line
 
 Face ID is more than a nifty authentication system in iPhones (and iPads) and brings some unique features that are not found in previous Touch ID enabled devices and enable the users to interact with people (Animojis and Memojis) and with the Apple iPhone XR (user authentication via facial metrics, Attention Aware features) in new ways. There are times when this does not work as expected, and you can reset and remove Face ID if you feel this is not your cup of tea. Apple iPhone XR can be used solely with passcodes if you want. If you find that your screen is locked and you can‘t unlock it, you can always find help in tools such as Dr.Fone - Screen Unlock (iOS). So go ahead, use the new Face ID on your Apple iPhone XR with confidence, and enjoy a more secure experience on your new iPhone than ever before.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -199,7 +193,15 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 - No tech knowledge required, everybody can handle it.
 - Supports iPhone 13/ iPhone XS (Max) / iPhone XR / iPhone X / 8 (Plus)/ iPhone 7(Plus)/ iPhone6s(Plus), iPhone SE and the latest iOS version fully!![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4,395,217** people have downloaded it
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How To Fix Auto Lock Greyed Out on Apple iPhone XR
 
@@ -230,6 +232,10 @@ MDM Profile Restrictions
 If the Auto-Lock is greyed out on your iPad or iPhone and you use it for work or school, a Mobile Device Management (MDM) profile might be the reason. This profile restricts settings, including Auto-Lock. To fix this, contact your IT administrator and ask if they can [<u>adjust the MDM profile settings</u>](https://drfone.wondershare.com/unlock/mdm-bypass-free.html).
 
 ![setup remote management on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Alright, you know the possible reasons why the Auto-Lock option is not working on your iOS device. Still, you might be wondering how to fix the Auto-Lock greyed-out issue. Below are several ways to get your iPad or iPhone Auto-Lock working normally again.
 
@@ -304,6 +310,10 @@ Have you ever bought a used iPad or Apple iPhone XR to find the Auto-Lock option
 
 ![dr.fone toolbox home interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
 - **Step 2:** Within the **Screen Unlock** tool window, select **Unlock MDM iPhone**.
@@ -317,6 +327,10 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 - **Step 4:** Please review the message carefully before initiating the MDM bypass process. Once you've read it, click **Start to Bypass** to proceed.
 
 ![start to bypass mdm](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-3.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 5:** If prompted, go to your device's **Settings** > **Apple ID** > **iCloud** and turn off the **Find My** feature. Next, click **OK** to initiate the MDM bypass.
 
@@ -359,6 +373,10 @@ Here's **how to change Auto-Lock on iPhone** devices:
 
 ![change auto-lock on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-18.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 There you have it. This guide has equipped you with the knowledge and solutions to fix the **Auto-Lock greyed out** on your Apple iPhone XR or iPad devices. From identifying the reasons like Low Power Mode and MDM configurations to implementing actionable fixes, you can now change your screen timeout. So, turn off those restrictions, remove MDM profiles, and head back to Settings.
@@ -366,8 +384,6 @@ There you have it. This guide has equipped you with the knowledge and solutions 
 For an easy solution, use Dr.Fone Screen Unlock to bypass MDM restrictions, giving you control over your device. Whether it's a work phone or a personal device under MDM, Dr.Fone can offer an efficient solution. With a few clicks, you'll have the Auto-Lock back on track, ensuring your iOS device works again just how you want it.
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
-
-
 
 ## Disabling Apple iPhone XR Parental Restrictions With/Without Password
 
@@ -431,6 +447,10 @@ Accessing Screen Time settings allows you to manage and disable parental control
 
 ![reset all settings for device](https://images.wondershare.com/drfone/article/2024/01/how-to-disable-parental-controls-on-iphone-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3. \[Without Password\] How Do You Disable Parental Controls on iPhone?
 
 Disabling parental controls on an iPhone is still possible, even without the password. Below, we explore two methods that can be used to bypass parental controls without requiring a password.
@@ -457,7 +477,6 @@ To initiate the procedure, open Wondershare Dr.Fone on your computer. Navigate t
 
 ![choose to unlock screen time passcode](https://images.wondershare.com/drfone/guide/unlock-ios-screen-time-1.png)
 
-
 - **Step 2. Start Unlocking by Disabling Find My Feature**
 
 Upon connecting the Apple iPhone XR device, the platform will detect the iDevice and showcase its status on the screen. Afterward, you are required to proceed by clicking on the "Unlock Now" button. However, it is necessary to deactivate the Find My service as indicated in the prompt. Navigate to your Apple iPhone XR's Settings and select the Apple ID at the top of the settings menu. Access the “Find My” settings and toggle off the “Find My iPhone” feature.
@@ -470,9 +489,6 @@ Upon completion, confirm by clicking “OK” on the computer screen. The progre
 
 ![iphone screen unlocked successfully](https://images.wondershare.com/drfone/guide/unlock-ios-screen-time-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Way 2. Restore iPhone From iTunes
 
 Restoring an iPhone using iTunes is an alternative method for removing parental controls. iTunes is a multimedia management software that is developed by Apple. It provides various functions, including media playback and data synchronization. The most important function is the Apple iPhone XR device backup and restoration. Restoring your Apple iPhone XR via iTunes results in the complete erasure of all data and settings. Here is **how to disable restrictions on iPhones without password:**
@@ -485,12 +501,15 @@ Restoring an iPhone using iTunes is an alternative method for removing parental 
 
 ![restore iphone via itunes](https://images.wondershare.com/drfone/article/2024/01/how-to-disable-parental-controls-on-iphone-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 In summary, this article explored **how to disable restrictions on iPhones without a password** and with a password. Accessing settings with a passcode simplifies the process. Wondershare Dr.Fone stands out as the optimal solution for those seeking **how to delete parental controls without password**. When passcode access is limited, Dr.Fone – Screen Unlock (iOS) offers the most efficient solution.
 
 _**Tips:** Are you searching for a powerful iPhone Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -504,9 +523,18 @@ _**Tips:** Are you searching for a powerful iPhone Unlock tool? No worries as [D
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-the-fundamentals-crafting-your-podcasts-rss-feed/"><u>[New] 2024 Approved The Fundamentals Crafting Your Podcast's RSS Feed</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-leading-edge-cards-for-sharp-4k-gaming/"><u>[Updated] Leading Edge Cards for Sharp 4K Gaming</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-iphone-15-plus-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock iPhone 15 Plus with iTunes | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/guide-to-stabilizing-gameplay-avoiding-r-type-final-ebrashing-glitches-on-windows-and-mac-os/"><u>Guide to Stabilizing Gameplay: Avoiding R-Type Final Ebrashing Glitches on Windows and Mac OS</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-disabled-apple-iphone-8ipad-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Disabled Apple iPhone 8/iPad Without Computer | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-12-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 12 With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-poco-x6-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Poco X6 Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-quick-tips-speeding-up-video-playback-on-snapchat-for-novices/"><u>In 2024, Quick Tips Speeding Up Video Playback on Snapchat for Novices</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-apple-iphone-14-without-passcode-easily-drfone-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 14 Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-new-era-utilizing-soundmojis-in-chats/"><u>Navigating New Era: Utilizing Soundmojis in Chats</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/resolve-your-iphone-xr-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your iPhone XR Keeps Asking for Outlook Password | Dr.fone</u></a></li>
+</ul></div>
 

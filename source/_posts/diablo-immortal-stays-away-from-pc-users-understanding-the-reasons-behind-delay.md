@@ -1,7 +1,7 @@
 ---
 title: Diablo Immortal Stays Away From PC Users – Understanding the Reasons Behind Delay
-date: 2025-01-27T18:51:30.807Z
-updated: 2025-02-01T00:31:52.809Z
+date: 2025-02-13T05:56:55.700Z
+updated: 2025-02-15T00:35:25.821Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/6ab11e94b8a02777808e732d5f2080be3cb5bc04d
 
 **The Division 2 keeps crashing?** Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -34,6 +30,10 @@ thumbnail: https://thmb.techidaily.com/6ab11e94b8a02777808e732d5f2080be3cb5bc04d
 7. **[Lower in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Check if your system meets the specifications required for The Division 2
 
@@ -82,7 +82,7 @@ thumbnail: https://thmb.techidaily.com/6ab11e94b8a02777808e732d5f2080be3cb5bc04d
  If your PC fails to meet the minimum system requirements for The Division 2, you may need to upgrade your PC hardware.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 2: Install the latest game patch
@@ -92,7 +92,7 @@ thumbnail: https://thmb.techidaily.com/6ab11e94b8a02777808e732d5f2080be3cb5bc04d
  If it this issue persists after you install the latest game patch, or if there was no new game patch available, move on to Fix 3, below.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
@@ -128,7 +128,7 @@ thumbnail: https://thmb.techidaily.com/6ab11e94b8a02777808e732d5f2080be3cb5bc04d
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-129.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Select**Verify files** .
@@ -144,10 +144,6 @@ thumbnail: https://thmb.techidaily.com/6ab11e94b8a02777808e732d5f2080be3cb5bc04d
  2) Click**the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### Epic Game Launcher
 
@@ -177,21 +173,17 @@ thumbnail: https://thmb.techidaily.com/6ab11e94b8a02777808e732d5f2080be3cb5bc04d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-124.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  2) Go to**the Compatibility tab** and click**Change high DPI settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-126.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3)**Check the box** next to**Override high DPI scaling behavior** and select**Scaling performed by: Application** . Then click**OK** to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-127.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4)**Tick the box** next to**Disable fullscreen optimizations** and click**OK** .
 
@@ -202,7 +194,7 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
  Run The Division 2 to see if the this fix works. If not, try the next fix to modify your page file.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 6: Modify the paging file size
@@ -237,10 +229,6 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
  Launch The Division 2 to see if this issue gets fixed or not. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 7: Lower in-game graphics settings
 
  You can also try lowing in-game graphics settings to see if you can resolve the game crash issue. Here is how to do it:
@@ -248,6 +236,10 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
  1) Click**the cog icon** to open the game settings. Then go to**Graphics** –**Shadow Quality** and set it to**Low** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-154-1024x744.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Set**Spot Shadows** to**Low** .
 
@@ -261,17 +253,21 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-157-1024x756.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Set**Reflection Quality** to**Low** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-158-1024x758.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  6) Set**Vegetation Quality** to**Medium** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-159-1024x759.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7)**Turn off Local Reflection Quality** .
 
@@ -284,6 +280,10 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
  9) Set the value of**Object Detail** to**50** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-162-1024x759.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  10) Set**Terrain Quality** to**Medium** . Then save all the changes.
 
@@ -312,18 +312,14 @@ Make sure you have disabled Steam Overlay and Ubisoft Overlay.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-hovers.techidaily.com/new-essential-skills-for-successful-interviews/"><u>[New] Essential Skills for Successful Interviews</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-the-true-value-proposition-of-subscribing-to-youtube-premium/"><u>2024 Approved The True Value Proposition of Subscribing to YouTube Premium</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/accurate-scanning-techniques-a-step-by-step-guide-by-yl-computing/"><u>Accurate Scanning Techniques: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-apple-iphone-14-plus-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your Apple iPhone 14 Plus Without a Home Button | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-11-when-its-locked-within-seconds-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone 11 When Its Locked Within Seconds | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-for-iphone-14-plus-lock-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide For iPhone 14 Plus Lock Screen | Dr.fone</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-mastering-the-art-of-tweeting-video-uploads-on-instagram/"><u>In 2024, Mastering the Art of Tweeting Video Uploads on Instagram</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-apple-iphone-13-mini-without-passcode-easily-drfone-by-drfone-ios/"><u>In 2024, Unlock Apple iPhone 13 mini Without Passcode Easily | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-iphone-6-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>In 2024, Unlocking iPhone 6 Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/in-depth-review-of-moto-g-power-unmatched-performance-and-extended-battery-life/"><u>In-Depth Review of Moto G Power: Unmatched Performance and Extended Battery Life</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-top-rated-chroma-key-apps-for-mobile-free-downloads-for-android-and-ios/"><u>New 2024 Approved Top-Rated Chroma Key Apps for Mobile Free Downloads for Android & iOS</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/the-ultimate-pcsmartphone-session-recorder/"><u>The Ultimate PC/Smartphone Session Recorder</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-7-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking iPhone 7 Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-storage-solutions-ps5s-top-10-external-units/"><u>[New] 2024 Approved Storage Solutions PS5's Top 10 External Units</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-transition-from-mobile-screen-to-big-tv-with-fb-videos-for-2024/"><u>[New] Transition From Mobile Screen to Big TV with FB Videos for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-tweeting-to-whatsapp-direct-video-distribution/"><u>[New] Tweeting to WhatsApp Direct Video Distribution</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-14-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 14 Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-access-your-apple-iphone-12-pro-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>How to Access Your Apple iPhone 12 Pro When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-full-guide-to-unlock-iphone-12-pro-with-itunes-drfone-by-drfone-ios/"><u>In 2024, Full Guide to Unlock iPhone 12 Pro with iTunes | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-what-does-jailbreaking-apple-iphone-13-i-do-get-answers-here-drfone-by-drfone-ios/"><u>In 2024, What Does Jailbreaking Apple iPhone 13 i Do? Get Answers here | Dr.fone</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-mastering-titles-in-fcpx-essential-skills-for-video-editors-for-2024/"><u>Updated Mastering Titles in FCPX Essential Skills for Video Editors for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-unlock-your-creativity-top-10-animation-tools-for-beginners-and-experts/"><u>Updated Unlock Your Creativity Top 10 Animation Tools for Beginners and Experts</u></a></li>
 </ul></div>
 

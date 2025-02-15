@@ -1,7 +1,7 @@
 ---
 title: Unlocking iPhone 8 Passcode without a Computer | Dr.fone
-date: 2025-01-27T20:29:07.769Z
-updated: 2025-02-01T02:18:59.250Z
+date: 2025-02-14T05:59:09.382Z
+updated: 2025-02-14T16:09:02.887Z
 tags: 
   - unlock
   - remove screen lock
@@ -44,7 +44,7 @@ Since iOS 15.2, Apple presented an "Erase iPhone" choice from the Security Locko
 ![erase iphone](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-passcode-without-computer-1.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - Enter your Apple account credentials to sign out of your Apple ID on the phone.
@@ -58,6 +58,10 @@ Since iOS 15.2, Apple presented an "Erase iPhone" choice from the Security Locko
 - Tap your Apple iPhone 8 in the Finder sidebar on Macintosh or iTunes on the PC.
 - Pick Restore when you see the decision to Restore. Let the download finish, and your phone leaves the recovery mode screen. Yet again, then switch off your Apple iPhone 8 and begin.
 - Disconnect your iDevice, then turn it on and set it up. That is all you must do.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. Use Find My
 
@@ -85,7 +89,7 @@ To open iPhone through iCloud:
 ![use find my iphone](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-passcode-without-computer-2.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\. Use Siri (Only for iOS 8.0 to 10.1)
@@ -98,7 +102,7 @@ There is an issue with Siri that you can use **how to unlock iPhone passcode wit
 ![add clock](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-passcode-without-computer-3.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 - You will get a bar where you have to enter a city. First, write anything to make sure you can write. Then, tap on the text and click "Select all" afterward.
@@ -106,6 +110,10 @@ There is an issue with Siri that you can use **how to unlock iPhone passcode wit
 - The text will become green. Yet again, now that your text is chosen, click on "+" to add a symbol. When you tap it, another window will open. Click on "Create new contact" to proceed. You will now see a window where you can add another contact. Tap on "Add Photo" to move.
 
 ![create new contact](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-passcode-without-computer-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - Click the "Select/Pick Photo" button to choose a photograph from your library. When the library opens, you can see the collections. Do not click anywhere. Wait for a couple of moments, and afterward, tap on the Home button. You will then access the Home screen. That's **how to unlock disabled iPhones without computer.**
 
@@ -122,6 +130,10 @@ Dr.Fone-Screen Unlock is a special tool that eliminates iPhone screen lock in mi
 Run the Dr.Fone on your system and select the "Screen Unlock" option from the main menu.
 
 ![select screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Use a connector to connect your Apple iPhone 8 to the PC. After this, click the "Unlock iOS Screen" option on the program.
 
@@ -221,13 +233,13 @@ Here are the steps to recover Apple iPhone 8  via iTunes backup.
 
     ![feasible ways to unlock Apple iPhone 8 1](https://images.wondershare.com/drfone/article/2021/04/feasible-ways-to-unlock-iphone-7-and-7-plus-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. From there, look for the “Restore Backup” option and click on it. A confirmation window will pop up. Confirm your action.
 
     ![feasible ways to unlock Apple iPhone 8 2](https://images.wondershare.com/drfone/article/2021/04/feasible-ways-to-unlock-iphone-7-and-7-plus-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4. You shall be asked to enter your iTunes account information. Enter the previously used account to set up the Apple iPhone 8 and navigate through the instructions to register.
 5. Select a suitable backup that you wish to use for the restore.
@@ -246,14 +258,14 @@ If you wish to change the passcode on Apple iPhone 8 , simply follow the steps g
 
     ![feasible ways to unlock Apple iPhone 8 4](https://images.wondershare.com/drfone/article/2021/04/feasible-ways-to-unlock-iphone-7-and-7-plus-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 3. Type in your current passcode to proceed.
 4. Here, click on the option "Change Passcode."
 
     ![feasible ways to unlock Apple iPhone 8 5](https://images.wondershare.com/drfone/article/2021/04/feasible-ways-to-unlock-iphone-7-and-7-plus-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5. Once again, enter your current password.
 6. Now, type in your new password. You can change the type of passcode by clicking on the "Passcode Options." The new passcode type can be a numeric code, alphanumeric code, a 4-digit, or a 6-digit code.
@@ -277,10 +289,6 @@ _How do I unlock my Apple iPhone 8? I know you're supposed to connect it to the 
 ![unlock-iPhone-to-use-accessories](https://images.wondershare.com/drfone/unlock-new/unlock-usb/unlock-iPhone-to-use-accessories.png)
 
 You may have had the experience of connecting your Apple iPhone 8 to a computer with USB accessories. Usually, "**Unlock Apple iPhone 8 to use accessories**" will appear on the screen. In most cases, enter the passcode to unlock the phone, and you can then proceed with data transfer and management. What to do if you forget your screen lock passcode? Here come the most effective methods for you!
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: Why You Need to "Unlock Apple iPhone 8 to Use Accessories"?
 
@@ -315,19 +323,11 @@ Now, here comes an amazing App with many benefits to solving the problem for you
 
 ![run the program to bypass iphone lock screen](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Safe download](https://mobiletrans.wondershare.com/images/security.svg) safe & secure
 
 **Step 2:** Connect your Apple iPhone 8 to the computer with a lightning cable, and choose “Unlock iOS Screen".
 
 ![start to remove iphone lock screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3:** Follow the guides to boot your device in Recovery or DFU mode. The Recovery mode is recommended for iOS lock screen removal by default. If you fail to turn on recovery mode, you can turn to activate DFU mode. DFU means Device Firmware Upgrade, and the operation is more mandatory.
 
@@ -370,10 +370,6 @@ There is currently no way to unlock an iPhone without erasing all data. Luckily,
 
 ![itunes-restore](https://images.wondershare.com/drfone/unlock-new/unlock-usb/itunes-restore.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Wait for a while and you could unlock the screen to use USB accessories. However, in step one, you may need to enter your passcode to get stuck during the process. Therefore, this method is not the most efficient.
 
 ## Part 6: How to Unlock Apple iPhone 8 to Use USB Accessories without Passcode via Recovery Mode?
@@ -400,7 +396,15 @@ If you have forgotten your Apple ID or password and have not synced iCloud and i
 
 Now, you'll get an iPhone which is like being factory reset. And you could unlock the screen to use USB accessories when you forget the passcode.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 7: Hot FAQ about USB Accessories on iPhone
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Q1: What is the feature of USB Accessories on iPhone?
 
@@ -424,10 +428,6 @@ It is very common to use USB accessories to connect iPhone and computer. Sometim
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -442,19 +442,19 @@ It is very common to use USB accessories to connect iPhone and computer. Sometim
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-enhancing-team-collaboration-with-regular-video-chats/"><u>[Updated] In 2024, Enhancing Team Collaboration with Regular Video Chats</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/4-ways-to-unlock-apple-iphone-se-2022-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>4 Ways to Unlock Apple iPhone SE (2022) to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/how-to-pick-an-iphone-that-boosts-your-gaming-experience/"><u>How to Pick an iPhone that Boosts Your Gaming Experience</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-troubleshoot-and-repair-disconnected-media-on-windows-systems/"><u>How To: Troubleshoot and Repair Disconnected Media on Windows Systems</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-12-mini-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 12 mini to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabling-iphone-11-pro-max-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>In 2024, Disabling iPhone 11 Pro Max Parental Restrictions With/Without Password | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-iphone-passcode-again-unlock-apple-iphone-8-without-passcode-now-drfone-by-drfone-ios/"><u>In 2024, Forgot iPhone Passcode Again? Unlock Apple iPhone 8 Without Passcode Now | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Vivo T2x 5G | Dr.fone</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-navigating-through-ez-grabbers-features/"><u>In 2024, Navigating Through EZ Grabber's Features</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-online-video-hubs-picking-between-vimeo-youtube-and-dailymotion/"><u>In 2024, Online Video Hubs Picking Between Vimeo, YouTube & Dailymotion</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-iphone-15-pro-max-passcode-without-a-computer-drfone-by-drfone-ios/"><u>In 2024, Unlocking iPhone 15 Pro Max Passcode without a Computer | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/is-your-garmin-obsolete-with-the-new-workout-sync-feature-on-apple-watch-tech-insights/"><u>Is Your Garmin Obsolete with the New Workout Sync Feature on Apple Watch? | Tech Insights</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/resolve-unknown-error-in-itunes-easily-with-these-5-effective-solutions/"><u>Resolve 'Unknown Error' In iTunes Easily with These 5 Effective Solutions</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/solving-the-dilemma-unplugged-ps5-controllers-and-how-to-recharge-them/"><u>Solving the Dilemma: Unplugged PS5 Controllers and How to Recharge Them</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-discover-8-essential-sites-for-pristine-green-screen-images-for-2024/"><u>[Updated] Discover 8 Essential Sites for Pristine Green Screen Images for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-masterfulaiimageeditor-the-best-of-both-worlds/"><u>[Updated] In 2024, MasterfulAiImageEditor The Best of Both Worlds</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-step-by-step-guide-quick-vlog-content-ideas/"><u>[Updated] Step-by-Step Guide Quick Vlog Content Ideas</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/8-safe-and-effective-methods-to-unlock-your-apple-iphone-11-pro-max-without-a-passcode-drfone-by-drfone-ios/"><u>8 Safe and Effective Methods to Unlock Your Apple iPhone 11 Pro Max Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/elite-4k-laptops-for-gamers-1-ranked-list/"><u>Elite 4K Laptops for Gamers – #1 Ranked List</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-apple-iphone-6-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock Apple iPhone 6 with iTunes | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-iphone-7-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your iPhone 7? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-8-drfone-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone 8? | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-freememogen-your-guide-to-free-memes/"><u>In 2024, FreeMemoGen Your Guide to FREE Memes</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-vivo-x-fold-2-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Vivo X Fold 2 For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-mini-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 mini Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-navigating-the-world-of-gopro-and-time-lapse-shooting/"><u>In 2024, Navigating the World of GoPro and Time-Lapse Shooting</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/quick-steps-for-adding-speech-to-text-in-powerpoint-slides-for-2024/"><u>Quick Steps for Adding Speech-to-Text in PowerPoint Slides for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/trouble-with-iphone-xr-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with iPhone XR Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
 </ul></div>
 

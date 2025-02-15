@@ -1,7 +1,7 @@
 ---
 title: Easy Steps on How To Create a New Apple ID Account On iPhone 11 | Dr.fone
-date: 2024-07-15T06:00:53.954Z
-updated: 2024-07-16T06:00:53.954Z
+date: 2025-02-13T03:19:24.170Z
+updated: 2025-02-15T00:42:17.813Z
 tags: 
   - unlock
   - remove screen lock
@@ -80,6 +80,10 @@ The next step is verifying your identity. Check out the steps below:
 
 ![create your apple id step 2](https://images.wondershare.com/drfone/article/2023/10/create-new-apple-id-account-05.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 5:** Apple may sometimes ask you to complete a **CAPTCHA** or verify your identity to prevent automated account creation.
 
 ### C. Setting Up Security Questions
@@ -106,9 +110,6 @@ You can embark on an enhanced Apple experience after successfully **creating you
 
 This step ensures that your new Apple ID takes center stage, granting you full control over your device and its associated services. But if you encounter difficulties when removing the previous Apple ID from your device, Dr.Fone - Screen Unlock (iOS) is a reliable and user-friendly solution.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![drfone unlock ios screen](https://images.wondershare.com/drfone/guide/remove-apple-id-1.png)
 
 ### Key Features of Dr.Fone - Screen Unlock (iOS)
@@ -120,9 +121,6 @@ This versatile tool offers the following key features in the context of Apple ID
 - **Multiple Unlock Modes.**Fone offers various unlock modes to cater to different scenarios, including removing the previous Apple ID. This flexibility ensures that you have the right solution for your specific situation.
 - **Data Security.**Fone - Screen Unlock (iOS) prioritizes data security, ensuring that your personal information and content remain intact during the Apple ID removal process.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Step-by-Step Guide on Using Dr.Fone Screen Unlock (iOS)
 
 Check out the steps on how to remove an Apple ID account using Dr.Fone below:
@@ -131,6 +129,9 @@ Check out the steps on how to remove an Apple ID account using Dr.Fone below:
 
 ![drfone v13 homepage](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** If you want to proceed with deleting your Apple ID, you'll need to go to the next window and select the **Remove AppleID** option from the menu.
 - **Step 3:** When you hook up your iOS device to a computer, the next screen will report on its connectivity. Select the **Unlock Now** button to proceed.
@@ -148,6 +149,10 @@ Check out the steps on how to remove an Apple ID account using Dr.Fone below:
 - **Step 6:** After you have confirmed these settings, you will be taken to a screen with on-screen instructions for entering **Recovery Mode** on your iDevice. If the steps for your specific iOS device don't work, try tapping **Try DFU Mode** in the app's bottom left corner. To continue with the unlocking process, this will [<u>launch the DFU Mode</u>](https://drfone.wondershare.com/dfu-mode/tools-for-iphone-to-enter-dfu-mode.html) instructions.
 
 ![try dfu mode](https://images.wondershare.com/drfone/guide/remove-apple-id-5.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 7:** Once **Recovery Mode** has been activated, the Apple iPhone 11 device's information will be shown on the subsequent screen. Once the **Device Model** has been identified, all that remains is to choose the appropriate **System Version** and click **Start**. However, if there are disagreements in recognition, pick the details by hand and move forward.
 
@@ -182,6 +187,10 @@ Apple allows users to create a separate password for notes or use their iPhone p
 
 It offers an absolute way to regain access to your notes and device if you **forgot locked Notes password**. However, it's essential to note that this method will remove all data from your Apple iPhone 11. That allows you to set your device as new and restore the old data using backups. Dr.Fone offers a comprehensive solution with the ability to bypass or remove most of the locks on iOS devices.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Focusing Features of Wondershare Dr.Fone
 
 1. For users who have [forgotten their Screen Time passcode](https://drfone.wondershare.com/unlock/how-to-turn-off-screen-time-without-passcode.html), Dr.Fone allows them to remove it without causing data loss.
@@ -199,7 +208,6 @@ Dr.Fone is a robust tool tailored to aid users in unlocking their iOS devices. I
 Once Wondershare Dr.Fone is downloaded and installed on your computer, launch it. Then navigate to "Toolbox," access "Screen Unlock," and finally choose "iOS" as the Apple iPhone 11 device type. Now, select the “Unlock iOS Screen” button to begin the process.
 
 ![unlock ios screen with dr fone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
-
 
 - **Step 2. Enter Recovery Mode and Download Firmware**
 
@@ -255,11 +263,13 @@ Locking notes on your Apple iPhone 11 provides extra security for your sensitive
 
 ![enter password to lock note](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 In conclusion, this article addressed methods for **how to recover locked notes on iPhone**s. It explored options such as using Settings to remove note locks, leveraging Touch ID/Face ID for access, and introducing Wondershare Dr.Fone as a comprehensive solution. Dr.Fone offers a direct approach to unlocking devices when passwords are inaccessible.
-
-
 
 ## How to Unlock Disabled Apple iPhone 11/iPad Without Computer
 
@@ -275,22 +285,15 @@ Though, before you proceed, you need to know the limitations of this method. Sin
 
 **Step 1.** Activate Siri on your iOS device by holding the Home button. Ask for the present time by giving a command like “Hey Siri, what time is it?” to proceed. Siri will let you know the current time by displaying a clock. Tap on it.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![hey siri](https://images.wondershare.com/drfone/article/2017/07/14994463688829.jpg "hey siri")
 
 **Step 2.** Tap on the Add (plus) icon.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![world clock](https://images.wondershare.com/drfone/article/2017/07/14994463891817.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3.** From here, you can search for a city. Just type anything you want and tap again to get various options. Choose the “Select all” button to get more options.
 
@@ -312,6 +315,10 @@ Though, before you proceed, you need to know the limitations of this method. Sin
 
 ![add contact](https://images.wondershare.com/drfone/article/2017/07/14994464865459.jpg "add contact")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 8.** A new interface would be launched to add a new contact. From here, tap on the “Create New Contact” button.
 
 ![create new contact](https://images.wondershare.com/drfone/article/2017/07/14994465192610.jpg "create new contact")
@@ -322,14 +329,15 @@ Though, before you proceed, you need to know the limitations of this method. Sin
 
 **Step 10.** This will open your device’s gallery. You can browse your photo library from here.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![iphone photo library](https://images.wondershare.com/drfone/article/2017/07/14994465537722.jpg "iphone photo library")
 
 **Step 11.** After a while, press the Home button. If everything goes right, you will enter the Home screen of your iOS device after unlocking it.
 
 ![iphone home](https://images.wondershare.com/drfone/article/2017/07/14994465721934.jpg "iphone home")
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 By following this technique, you would also learn how to unlock the disabled Apple iPhone 11 4. Though, you need to ensure that the iOS device you are using would support this feature.
 
@@ -396,16 +404,23 @@ There are times when users forget to enable the Find My Apple iPhone 11 feature 
 
 ![find my Apple iPhone 11](https://images.wondershare.com/drfone/article/2017/07/14994466577687.jpg "find my Apple iPhone 11")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3\. Set a strong alphanumeric password
 
 One of the best ways to secure your iOS device is by adding secure passwords. To do this, visit your device’s Settings > Touch ID & Passcode > Change Passcode and select the option of “Custom Alphanumeric Code.” Provide a strong alphanumeric passcode to boost the security of your device.
 
 ![custom Alphanumeric code](https://images.wondershare.com/drfone/article/2017/07/14994466798156.jpg "custom Alphanumeric code")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 By implementing the above suggestions, you can easily make your iOS device more secure. Additionally, we have also listed two stepwise solutions that can unlock your iPad or Apple iPhone 11 without taking the assistance of a computer. Now when you know how to unlock a disabled Apple iPhone 11 without a computer, you can easily make the most out of your iOS device.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -419,9 +434,20 @@ By implementing the above suggestions, you can easily make your iOS device more 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-cutting-edge-design-top-5-3d-intro-makers/"><u>[New] Cutting-Edge Design Top 5 3D Intro Makers</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-leading-3d-modeling-applications-for-animators-for-2024/"><u>[New] Leading 3D Modeling Applications for Animators for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-synchronize-your-iphones-cinematic-moments/"><u>[Updated] In 2024, Synchronize Your iPhone's Cinematic Moments</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-the-framework-for-exceptional-ppt-video-documentation/"><u>[Updated] In 2024, The Framework for Exceptional PPT Video Documentation</u></a></li>
+<li><a href="https://win-updates.techidaily.com/effective-strategies-for-wallet-security-management-by-yl-computing-an-expert-guide/"><u>Effective Strategies for Wallet Security Management by YL Computing: An Expert Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/exploring-axes-checkmarks-on-twitter-linus-tech-tips-insights-trojan-viruses-breakdown-and-common-chatgpt-pitfalls/"><u>Exploring Axes Checkmarks on Twitter - Linus Tech Tips Insights, Trojan Viruses Breakdown, and Common ChatGPT Pitfalls</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-honor-90-gt-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Honor 90 GT | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-a-found-iphone-14-plus-drfone-by-drfone-ios/"><u>How To Unlock A Found iPhone 14 Plus? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-make-the-most-of-your-apple-iphone-14-pro-max-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>In 2024, How to Make the Most of Your Apple iPhone 14 Pro Max Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-6-apples-new-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 6, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-apple-iphone-8-plus-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-speedy-silencing-eradicating-static-and-white-noise-from-audio-tracks/"><u>New 2024 Approved Speedy Silencing Eradicating Static and White Noise From Audio Tracks</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-15-pro-max-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone 15 Pro Max Prevention & Solution | Dr.fone</u></a></li>
+</ul></div>
 

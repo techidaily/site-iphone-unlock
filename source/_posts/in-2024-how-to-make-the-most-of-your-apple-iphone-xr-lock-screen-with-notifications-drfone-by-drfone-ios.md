@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Make the Most of Your Apple iPhone XR Lock Screen with Notifications? | Dr.fone
-date: 2024-07-15T05:57:18.294Z
-updated: 2024-07-16T05:57:18.294Z
+date: 2025-02-08T19:39:41.633Z
+updated: 2025-02-15T04:59:51.224Z
 tags: 
   - unlock
   - remove screen lock
@@ -72,14 +72,19 @@ The notification view can be used to see previous notifications on the Apple iPh
 
 ![iphone lock screen with notifications-touch id and passcode](https://images.wondershare.com/drfone/article/2017/09/15063939796855.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2\. You would be needed to provide the passcode or your fingerprint in order to access these settings.
 
 3\. This will provide a list of features related to your passcode. Go to the section of “Allow Access When Locked”.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![iphone lock screen with notifications-turn off notification view](https://images.wondershare.com/drfone/article/2017/09/15063940151031.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4\. From here, make sure that the option of “Notification View” is turned off.
 
@@ -93,9 +98,6 @@ With the new update of iOS 18, we can see a drastic change in the Apple iPhone X
 
 Some people find it a little tricky to access the lock screen notifications iPhone after the iOS 18 update. Instead of sliding the screen from the top, you need to swipe it from the middle. By swiping it from the bottom, you might get its control center.
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![iphone lock screen with notifications-access iphone notification on ios 18](https://images.wondershare.com/drfone/article/2017/09/15063940632171.jpg)
 
 Simply swipe up from the middle of the screen to get a list of all the notifications. Now, you can slide them to access the old notifications.
@@ -130,8 +132,6 @@ The best part about this application is that it is free of cost. It usually come
 
 [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is an excellent data recovery and management software created by Wondershare. However, limiting it to just recovery and management of data will not be just as it offers much more than just that. Transferring files, repairing the operating system, changing the GPS location, and fixing the activation lock are its amazing services.
 
-
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Turning Off Find My iPhone Within Second.
@@ -155,6 +155,10 @@ Open Wondershare Dr.Fone and select “Screen Unlock” among the other options 
 
 ![select unlock apple id option](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Remove Active Lock**
 
 After choosing the “Unlock Apple ID” option, an interface will be displayed that will show another two options, out of which you have to select “Remove Active Lock” to proceed further.
@@ -165,10 +169,11 @@ After choosing the “Unlock Apple ID” option, an interface will be displayed 
 
 Jailbreak your Apple iPhone XR by following the instructions given by the system. Once you complete them, click on "Finish Jailbreak."
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![jailbreak your device](https://images.wondershare.com/drfone/drfone/remove-activation-lock-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5: Confirmation Window**
 
@@ -189,8 +194,9 @@ As your activation lock is removed, go to the settings and remove your Apple ID.
 ![activation lock removed](https://images.wondershare.com/drfone/guide/bypass-activation-lock-9.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: How to Turn Off Find My iPhone on Broken iPhone Using iCloud?
 
 iCloud is the most secure storage drive introduced by Apple. It keeps your gallery, your reminders, contacts, and your messages up to date. Moreover, it also organizes and stores your files while keeping them private and secure. iCloud strongly integrates your Apple iPhone XR with other iOS devices so you can share your data, documents, and location with other iCloud users.
@@ -208,6 +214,10 @@ Here we have explained to you step by step how to turn off Find My iPhone on bro
 **Step 3:** Click on the "All Devices" option from the top. Select your Apple iPhone XR, which you want to remove by clicking on "Remove from account."
 
 ![select your device](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4:** Once your device is removed from the account, a window will pop up asking you to delete the option of that device from your iCloud account. Now you may log in Find My iPhone with your iCloud account on another device.
 
@@ -235,11 +245,13 @@ Once your Apple iPhone XR shows the Apple logo, it means the Recovery Mode is ac
 
 ![tap on restore option](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Conclusion
 
 Now we’re done as we’ve provided you the best possible solutions to turn off Find My iPhone when your Apple iPhone XR is broken. It is obvious that it is a quite complicated process, but you have to be patient and follow the steps correctly to disable Find My Apple iPhone XR to avoid any inconvenience in the future. We hope this article answers all your queries regarding it.
-
-
 
 ## How to Unlock Apple iPhone XR with a Mask On
 
@@ -250,8 +262,9 @@ Only iPhone 12 and the latest models can use Face ID with a mask on, which refle
 Once you meet these requirements, you can easily unlock your Apple iPhone XR while wearing a mask and get further details by reading this article.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1: How to Unlock iPhone Face ID with a Mask on
 
 Are you excited to unlock your Apple iPhone XR while wearing a face mask? This section will give you detailed steps to unlock your Apple iPhone XR with a mask on, but before proceeding, make sure that you have updated your phone's model to iPhone 12 or iPhone 13. This iOS 15.4 version feature is only available on:
@@ -307,6 +320,10 @@ To enable the feature of unlocking the Apple iPhone XR with an Apple Watch, the 
 
 ![open iphone passcode settings](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step** **2:** Now, on the displayed menu, scroll down to the bottom, where you will see the toggle of "Unlock with Apple Watch." Tap on that toggle to enable this feature.
 
 ![enable apple watch unlock option](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-6.jpg)
@@ -316,8 +333,6 @@ After enabling this feature, you can unlock your Apple iPhone XR with a mask on 
 ## Bonus Tips: Unlock iPhone Without Any Experience
 
 Are you stuck with your locked iPhone? Don't worry, as [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) can unlock any screen passcode, Face ID, Touch ID, and PINs. You don't need any technical experience to use this tool, as the user interface is pretty simple and understandable. Moreover, it works perfectly well on all iOS devices at the best possible speed.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -334,10 +349,13 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 
 You can also unlock Apple ID and iCloud passwords without losing the data. Also, while unlocking iPhone Screen Time Passcode through this platform, all of your data and information will be kept intact, and you can function your phone normally again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 We all can relate that unlocking an iPhone on Face ID while wearing a face mask in a pandemic era is annoying. That's why Apple introduced a new feature of unlocking the Apple iPhone XR Face ID with a mask on to help individuals who rely entirely on Face ID. Find out about enabling this feature to easily unlock your Apple iPhone XR Face ID while wearing a mask.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -351,9 +369,18 @@ We all can relate that unlocking an iPhone on Face ID while wearing a face mask 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-depth-look-at-12-techniques-for-storing-web-based-songs-for-2024/"><u>[New] In-Depth Look at 12 Techniques for Storing Web-Based Songs for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/he-roadmap-to-establishing-your-unique-flair-for-2024/"><u>[New] The Roadmap to Establishing Your Unique Flair for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-innovative-acoustic-link-for-speakers/"><u>[Updated] Innovative Acoustic Link for Speakers</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-6-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 6 in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-gpt-35-to-gpt-4-spotlight-on-the-five-pivotal-evolutionary-steps-in-generative-pre-trained-transformer-technology/"><u>From GPT-3.5 to GPT-4: Spotlight on the Five Pivotal Evolutionary Steps in Generative Pre-Trained Transformer Technology</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-14-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix iPhone 14 Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-12-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-6s-plus-lock-screen-drfone-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone 6s Plus Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-motorola-moto-g24-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Motorola Moto G24 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-pro-max-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Pro Max Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/record-breaking-reddit-threads-ranked-1-10-for-2024/"><u>Record-Breaking Reddit Threads Ranked 1-10 for 2024</u></a></li>
+</ul></div>
 

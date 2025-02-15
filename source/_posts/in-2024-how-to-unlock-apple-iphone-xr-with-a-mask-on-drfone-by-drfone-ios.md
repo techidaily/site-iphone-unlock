@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock Apple iPhone XR with a Mask On | Dr.fone
-date: 2024-07-15T05:57:45.256Z
-updated: 2024-07-16T05:57:45.256Z
+date: 2025-02-12T18:40:19.925Z
+updated: 2025-02-14T21:05:01.812Z
 tags: 
   - unlock
   - remove screen lock
@@ -55,11 +55,12 @@ Once you have updated to iPhone 12 or iPhone 13 model, you will automatically re
 
 ![scan your face](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** After scanning your face twice, select "Add Glasses" by tapping on it. You can use your Face ID while wearing your regular glasses. Make sure that you scan your face with every pair of glasses daily.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![add your glasses for face id](https://images.wondershare.com/drfone/article/2022/03/unlock-iphone-with-mask-4.jpg)
 
 After carefully following the steps mentioned above, you are ready to **unlock your Face ID with a mask**. Remember that Face ID will scan and focus mainly on your eyes and forehead. However, it cannot work in the scenarios if you have completely concealed your look by wearing hats or accessories that can hide your face.
@@ -90,8 +91,6 @@ After enabling this feature, you can unlock your Apple iPhone XR with a mask on 
 
 Are you stuck with your locked iPhone? Don't worry, as [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) can unlock any screen passcode, Face ID, Touch ID, and PINs. You don't need any technical experience to use this tool, as the user interface is pretty simple and understandable. Moreover, it works perfectly well on all iOS devices at the best possible speed.
 
-
-
 ### Dr.Fone - Screen Unlock (iOS)
 
 Unlock iPhone/iPad Lock Screen Without Hassle.
@@ -107,9 +106,17 @@ Unlock iPhone/iPad Lock Screen Without Hassle.
 
 You can also unlock Apple ID and iCloud passwords without losing the data. Also, while unlocking iPhone Screen Time Passcode through this platform, all of your data and information will be kept intact, and you can function your phone normally again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 We all can relate that unlocking an iPhone on Face ID while wearing a face mask in a pandemic era is annoying. That's why Apple introduced a new feature of unlocking the Apple iPhone XR Face ID with a mask on to help individuals who rely entirely on Face ID. Find out about enabling this feature to easily unlock your Apple iPhone XR Face ID while wearing a mask.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4 Ways to Unlock Apple iPhone XR to Use USB Accessories Without Passcode
 
@@ -137,6 +144,10 @@ If you find this warning annoying or your Apple iPhone XR not charging when usin
 After completing all the steps, your Apple iPhone XR can connect USB accessories anytime, anywhere. However, it is very common to forget to unlock the passcode. Next, we will recommend four solutions to help you use USB accessories without a passcode.
 
 ![usb-restricted-mode](https://images.wondershare.com/drfone/unlock-new/unlock-usb/usb-restricted-mode.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Unlock Apple iPhone XR to Use USB Accessories without Passcode via Dr.Fone?
 
@@ -170,12 +181,15 @@ After that, you could set up your Apple iPhone XR as a new one and unlock your s
 
 ![download iphone firmware](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 There is no doubt that you may worry about losing all your data while bypassing the Apple iPhone XR lock screen. But honestly, there is no tool on the market today that can preserve data to unlock an iPhone. Therefore, it is necessary to back up data in your daily life. [Dr.Fone-Phone Backup](https://drfone.wondershare.com/iphone-backup-and-restore.html) provides you with a full range of data backup solutions, you can click the link below to learn more.
 
 **This guide will teach you about how to unlock iphone using 5 feasible ways.**
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/M3tfU3GUTpk"></iframe>
-
 
 ## Part 4: How to Unlock Apple iPhone XR to Use USB Accessories without Passcode via iCloud?
 
@@ -232,6 +246,10 @@ Now, you'll get an iPhone which is like being factory reset. And you could unloc
 
 From USB-A to the latest, USB-C. Also, most iPhones use a proprietary Lightning port.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Q2: Why does My iPhone Think My Charger is a USB Accessory?
 
 It is related to the capacity of the charger. If a low-capacity charger is used, your device must regard it as a USB port because the USB port charges at a lower rate than a good wall charger. Another possibility is that the cable being used is flaky.
@@ -250,8 +268,6 @@ It is very common to use USB accessories to connect iPhone and computer. Sometim
 
 ![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
-
-
 ## Is Your Apple iPhone XR in Security Lockout? Proper Ways To Unlock
 
 Apple has strict mechanisms to prevent unauthorized access and safeguard valid users' data. If you are facing a security lockout issue on your Apple device, it means you have entered the wrong passcode multiple times.
@@ -260,9 +276,17 @@ To bring back your Apple iPhone XR in a working state, this guide provides some 
 
 ![unlock iphone in security lockout solutions](https://images.wondershare.com/drfone/article/2024/02/unlock-iphone-in-security-lockout-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1. Understanding Security Lockout in iPhone: What It Is?
 
 Security lockout error appears when you try entering a wrong passcode several times. That is when you have no chance left to enter the passcode, so you should be aware of the number of attempts.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Events to Security Lockout
 
@@ -297,11 +321,11 @@ Do you have a query about **how to get out of security lockout on your Apple iPh
 
 First, run Wondershare Dr.Fone on your computer and connect to your Apple iPhone XR via cable. Open the "Toolbox" and select the “Screen Unlock” option.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![start screen unlock dr fone](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2. Advance to Unlocking iOS Screen**
 
@@ -319,9 +343,6 @@ Your "Device Model" will be recognized automatically in Wondershare Dr.Fone. Sel
 
 Type the code in the confirmation box in the next prompt window and hit the "Unlock" option. After confirmation, a bar shows the Apple iPhone XR device unlocking progress on the next screen. Once the Apple iPhone XR is unlocked successfully, click the “Done” button to terminate the process.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![verify and unlock ios device](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
 ## Part 3. How To Get iPhone out of Security Lockout From iPhone Directly?
@@ -332,6 +353,10 @@ Getting your Apple iPhone XR out of Security Lockout from the Apple iPhone XR di
 - **Step 2.** On the next screen, enter your Apple ID password in the box to sign out your Apple ID from your Apple iPhone XR. This will automatically start processing iDevice reset, removing all contents and passcodes in the Apple iPhone XR device.
 
 ![perform direct unlock security lockout](https://images.wondershare.com/drfone/article/2024/02/unlock-iphone-in-security-lockout-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### What if I Have Recently Changed My iPhone's Passcode?
 
@@ -353,9 +378,6 @@ If you have recently changed the iDevice password, you can use your old passcode
 
 ![restore iphone from itunes](https://images.wondershare.com/drfone/article/2024/02/unlock-iphone-in-security-lockout-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5: How To Get iPhone out of Security Lockout Using iCloud?
 
 iCloud service is another handy method for people having queries about **how to get an iPhone out of the security lockout**. You should know this method removes your device data to access the phone screen again. Also, it requires the Find My option enabled on your Apple iPhone XR, and you need to know your Apple ID and password to proceed. After having these details, follow the given steps below:
@@ -366,9 +388,6 @@ iCloud service is another handy method for people having queries about **how to 
 
 - **Step 2.** On the next screen, choose the Apple iPhone XR you want to get out of the security lockout. Then, confirm the process by clicking the "Erase This Device" option.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![erase iphone device from icloud](https://images.wondershare.com/drfone/article/2024/02/unlock-iphone-in-security-lockout-10.jpg)
 
 ## Conclusion
@@ -376,7 +395,6 @@ iCloud service is another handy method for people having queries about **how to 
 Security Lockout or “iPhone Unavailable” is a common issue that appears when you enter an incorrect passcode up to 10 times. Our detailed guide provided authentic ways to fix the **security lockout iPhone** using simple steps. Here, Wondershare Dr.Fone is the most recommended method because it helps recover your Apple iPhone XR easily within a few steps.
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -390,9 +408,26 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-discovering-whos-watching-your-videos-for-2024/"><u>[New] Discovering Who's Watching Your Videos for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unveiling-the-best-free-video-player-vlc-versus-mpc/"><u>[New] Unveiling the Best Free Video Player VLC versus MPC</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabling-apple-iphone-7-plus-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>Disabling Apple iPhone 7 Plus Parental Restrictions With/Without Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-unlock-your-apple-iphone-7-learn-all-4-methods-drfone-by-drfone-ios/"><u>How Do You Unlock your Apple iPhone 7? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-the-required-apple-store-verification-for-apple-iphone-12-pro-drfone-by-drfone-ios/"><u>How To Bypass the Required Apple Store Verification For Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-asus-rog-phone-7-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-14-pro-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-stolen-apple-iphone-11-in-different-conditionsin-drfone-by-drfone-ios/"><u>How To Unlock Stolen Apple iPhone 11 In Different Conditionsin | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-11-pro-max-with-a-broken-screen-drfone-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 11 Pro Max with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-iphone-12-mini-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your iPhone 12 mini When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-pro-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 Pro without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/melodic-melding-understanding-sound-transition/"><u>Melodic Melding Understanding Sound Transition</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/navigating-color-grading-using-luts-to-refine-your-work-in-ae-for-2024/"><u>Navigating Color Grading Using LUTs to Refine Your Work in AE for 2024</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/oppo-reno-8t-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Oppo Reno 8T Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/optimal-viewing-angles-for-fb-videos-for-2024/"><u>Optimal Viewing Angles for FB Videos for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/swiftly-sync-your-visual-content-across-ios-devices/"><u>Swiftly Sync Your Visual Content Across iOS Devices</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/top-3-ipad-voice-recorder/"><u>Top 3 iPad Voice Recorder</u></a></li>
+<li><a href="https://article-posts.techidaily.com/transform-your-zoom-presentations-with-stunning-visuals/"><u>Transform Your Zoom Presentations with Stunning Visuals</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/trouble-with-iphone-14-pro-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>Trouble with iPhone 14 Pro Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
+</ul></div>
 

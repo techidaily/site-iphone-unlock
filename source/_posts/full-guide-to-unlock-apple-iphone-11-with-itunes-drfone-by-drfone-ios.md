@@ -1,7 +1,7 @@
 ---
 title: Full Guide to Unlock Apple iPhone 11 with iTunes | Dr.fone
-date: 2024-07-15T05:59:47.414Z
-updated: 2024-07-16T05:59:47.414Z
+date: 2025-02-07T18:28:44.240Z
+updated: 2025-02-14T23:29:25.764Z
 tags: 
   - unlock
   - remove screen lock
@@ -27,6 +27,10 @@ Using a lock screen passcode to secure your iDevice is an excellent way. However
 If your screen displays "iPhone disabled," the most probable reason is an excess of wrong passcode attempts. However, this can sometimes occur without you understanding if the phone is in your pocket.
 
 It would help if you erased your Apple iPhone 11 to eliminate the lock and passcode, then re-sync it with iTunes. Then, you can restore your phone from an iCloud or an iTunes backup, but if you have never used a backup on your phone, your phone will have nothing. This guide illustrates **how to unlock disabled iPhone with iTunes.**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Unlock iPhone with iTunes
 
@@ -68,6 +72,10 @@ As the recovery Mode screen shows up on the iPhone, you will find your Apple iPh
 
 ![click restore](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-itunes-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4.** It then asks you to confirm whether you are sure you need to restore the Apple iPhone 11 to its default factory state. It does so because your media and data will be all erased. Then, click on Restore and Update.
 
 **Step 5.** Then, "iPhone Software Update" may spring up. Click Next, and afterwards, click Agree. iTunes will begin downloading the software and restore your Apple iPhone 11 when the download is finished.
@@ -77,6 +85,10 @@ When the "iPhone software update" is downloaded, iTunes will show that it will e
 The above bar will show "Extracting software… ". It implies iOS 15.4.1 iTunes is planning to restore the software on this iPhone.
 
 ![extracting software](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-with-itunes-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 6.** Your Apple iPhone 11 will show the restore progress bar with the white apple logo. The length of the process relies upon how much data is on your cell phone. Generally, it takes 20 to 120 minutes. When done, your Apple iPhone 11 will restart naturally. Furthermore, after your Apple iPhone 11 restarts, you can reset your Apple iPhone 11. For example, you can make a new passcode.
 
@@ -118,7 +130,6 @@ Pick your locked gadget under the "All Devices" area.
 
 ### 2\. Dr.Fone-Screen Unlock
 
-
 If you are searching for an elective way to unlock your Apple iPhone 11 with iTunes, you can pick Wondershare Dr.Fone-Screen Unlock.
 
 This software is an ideal iTunes elective that doesn't need a passcode to unlock the iPhone. Whatever the situation, Dr.Fone can determine the issue in no time. It can eliminate Face ID, Touch ID, or a 4 to 6-digit passcode in no time. Moreover, it works with almost any iOS version at the moment. Here's the alternate way to **iTunes unlock phone:**
@@ -151,15 +162,16 @@ After downloading the firmware, tap Unlock Now to begin the unlocking process.
 
 ![unlock now](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Doing so will unlock your Apple iPhone 11 within no time. However, kindly note this unlocking process will likewise wipe your Apple iPhone 11's user data. Indeed, each solution removes your data. Therefore, you must be careful enough to back up your files before doing this process.
 
 ### The Bottom Line
 
 We hope you found out about **how to unlock iPhone with iTunes**. We likewise discussed what to do when you need an alternate method to iTunes. We know that using iTunes can be somewhat complicated; hence, the other options can help you a ton. However, we strongly suggest Dr.Fone-Screen Unlock for a more refined unlocking process.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3 Ways to Erase Apple iPhone 11 When It's Locked Within Seconds
 
 Over the last few years, Apple has made remarkable progress with its flagship iPhone series. There are plenty of ways for users to back up, erase, and restore their data. It doesn’t matter if you are moving from one device to another or would like to reset your phone. You should know how to erase iPhone when locked. Too many times, after getting locked out of their device, users find it hard to wipe locked iPhone. If you are also going through the same dilemma, then don’t worry. Read on and learn how to wipe a locked iPhone in this extensive guide.
@@ -168,11 +180,6 @@ Over the last few years, Apple has made remarkable progress with its flagship iP
 
 One of the best ways to wipe locked iPhone is by using [Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) tool. It is an extremely secure and reliable application. It is already compatible with every leading version of iOS and runs on almost all major iOS devices. Available for both Windows and Mac, the tool can be used to remove activation lock and Apple ID. The tool also provides an easy-to-use interface that can help you reset [the activation lock](https://drfone.wondershare.com/icloud/bypass-icloud-activation.html) on your device.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone - Screen Unlock (iOS)
 
 Erase the data of an iPhone even if it is locked
@@ -264,22 +271,24 @@ If you haven’t already taken a backup of your phone, then you might find it ha
 
 ![erase iphone when locked-erase iphone](https://images.wondershare.com/drfone/article/2017/07/14993650012081.jpg "erase iphone")
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Confirm your choice and wipe locked iPhone remotely using the Find My iPhone feature on iCloud.
 
 After following this informative guide, you would learn how to wipe a locked iPhone without any trouble. Go ahead and pick your preferred option to wipe locked iPhone. We recommend using Dr.Fone - Screen Unlock (iOS) to resolve this issue securely. Though, if you wish to do it remotely, then you can also give Find My iPhone a try as well. If you are familiar with any other reliable method, please let us know how to erase iPhone when locked in the comments below.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Forgot Locked Apple iPhone 11 Password? Learn the Best Methods To Unlock
 
 The note-taking apps are pivotal in organizing thoughts, reminders, and sensitive data. Notably, Apple's Notes app stands out for smooth blending into the Apple ecosystem while boasting a user-friendly interface. It is recognized for its effortless integration and robust security.
 
 This app offers a reliable and secure platform for storing personal and confidential information. Users can safeguard their notes by setting up separate passwords. Yet, it's not uncommon to encounter a situation where one **forgets a note password on an iPhone**. This can be frustrating, but don't worry, as this article will discuss **how to unlock a note on iPhone.**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![unlock forgotten notes password easily](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-1.jpg)
 
 ## Part 1. Best Method To Unlock Forgotten Notes Password iPhone: Wondershare Dr.Fone
@@ -306,14 +315,10 @@ Once Wondershare Dr.Fone is downloaded and installed on your computer, launch it
 
 ![unlock ios screen with dr fone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
 
-
 - **Step 2. Enter Recovery Mode and Download Firmware**
 
 The next step is to put your device into Recovery Mode after selecting “Start,” for which the instructions are given on the screen. Once your device is in Recovery Mode, Dr.Fone will detect it and show its model. Now select the "System Version” and tap "Start" to proceed. Dr.Fone will now start downloading the firmware, which it will later verify.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![define model and version](https://images.wondershare.com/drfone/guide/unlock-ios-screen-4.png)
 
 - **Step 3. Unlock the iOS Device and Complete the Process**
@@ -338,6 +343,14 @@ If you've locked a note on your Apple iPhone 11 but forgot the password, there i
 
 ![enter new password for notes](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3. How To Unlock Notes on iPhone Using Touch ID/Face ID
 
 Even if you've forgotten the password to your Notes on iPhone, there's an alternative method available. You can unlock them by enabling Face ID or Touch ID for Notes. This feature allows users to access locked notes through biometric authentication. Here's **how to unlock a note on iPhone** using Touch ID/Face ID:
@@ -352,6 +365,10 @@ Even if you've forgotten the password to your Notes on iPhone, there's an altern
 
 ![copy locked note content](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Bonus Tip. Learn How To Lock Notes on iPhone Easily
 
 Locking notes on your Apple iPhone 11 provides extra security for your sensitive information. Regularly reviewing and updating your password settings can enhance the security of your locked notes. Here's a simple and effective method to lock notes on your Apple iPhone 11:
@@ -364,12 +381,13 @@ Locking notes on your Apple iPhone 11 provides extra security for your sensitive
 
 ![enter password to lock note](https://images.wondershare.com/drfone/article/2024/01/unlock-forgot-notes-password-10.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 In conclusion, this article addressed methods for **how to recover locked notes on iPhone**s. It explored options such as using Settings to remove note locks, leveraging Touch ID/Face ID for access, and introducing Wondershare Dr.Fone as a comprehensive solution. Dr.Fone offers a direct approach to unlocking devices when passwords are inaccessible.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -383,9 +401,23 @@ In conclusion, this article addressed methods for **how to recover locked notes 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-unmatched-pixels-the-exclusive-advantages-of-hp-envy-27/"><u>[New] In 2024, Unmatched Pixels The Exclusive Advantages of HP Envy 27</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-quash-unwanted-youtube-suggested-videos/"><u>[Updated] Quash Unwanted YouTube Suggested Videos</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-online-converter-change-flv-files-into-m4v-format-with-ease/"><u>Free Online Converter: Change FLV Files Into M4V Format with Ease</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/full-guide-to-unlock-apple-iphone-15-pro-with-itunes-drfone-by-drfone-ios/"><u>Full Guide to Unlock Apple iPhone 15 Pro with iTunes | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-15-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone 15? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-apple-iphone-7-plus-drfone-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-auto-lock-greyed-out-on-iphone-12-drfone-by-drfone-ios/"><u>In 2024, How To Fix Auto Lock Greyed Out on iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-iphone-14-pro-passcode-not-working-drfone-by-drfone-ios/"><u>In 2024, How to Fix iPhone 14 Pro Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-pro-max-without-swiping-up-6-ways-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 11 Pro Max Without Swiping Up? 6 Ways | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-se-2020-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-mastering-youtube-video-capture-techniques/"><u>In 2024, Mastering YouTube Video Capture Techniques</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Xiaomi Civi 3 Disney 100th Anniversary Edition? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/mastery-guide-to-flawless-srt-file-construction/"><u>Mastery Guide to Flawless SRT File Construction</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-tecno-spark-20-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Tecno Spark 20 | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/step-by-step-guide-moving-your-entire-music-collection-from-ipod-to-windows-or-mac/"><u>Step-by-Step Guide: Moving Your Entire Music Collection From iPod to Windows or Mac</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ultimate-guide-connecting-your-samsung-soundbar-with-a-subwoofer/"><u>Ultimate Guide: Connecting Your Samsung Soundbar with a Subwoofer</u></a></li>
+</ul></div>
 

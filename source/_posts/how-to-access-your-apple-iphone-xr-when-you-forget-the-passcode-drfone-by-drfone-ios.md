@@ -1,7 +1,7 @@
 ---
 title: How to Access Your Apple iPhone XR When You Forget the Passcode? | Dr.fone
-date: 2024-07-15T05:54:42.555Z
-updated: 2024-07-16T05:54:42.555Z
+date: 2025-02-08T17:04:18.756Z
+updated: 2025-02-15T04:11:34.965Z
 tags: 
   - unlock
   - remove screen lock
@@ -17,7 +17,6 @@ thumbnail: https://thmb.techidaily.com/d208efb0315dc3e80b4d5a8f4b751d30ee62ca28d
 ## How to Access Your Apple iPhone XR When You Forget the Passcode?
 
 We all have secrets in our iPhone or some important financial or business data that we all wish to protect from unwanted access. For this, we set up a passcode. But what if Apple iPhone XR passcode is forgotten by you? Well, you may now wonder how to perform Apple iPhone XR passcode bypass, right? Worry no more! We’re right here to help you with the proven solutions for Apple iPhone XR passcode reset without iTunes or with it too. Let’s explore.
-
 
 ## Part 1. Unlock Apple iPhone XR screen passcode in one click (unlock tool needed)
 
@@ -69,9 +68,6 @@ If somehow, the above solution fails and you’re just not able to get Apple iPh
 - Next, connect your Apple iPhone XR and your computer firmly with the help of an authentic cable. Please make sure to press and hold the “Side” button meanwhile.
 - Ensure not to let go the Side button till the recovery mode screen appears over your Apple iPhone XR.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![recovery mode](https://images.wondershare.com/drfone/article/2019/09/iphone11-recovery-mode.jpg)
 
 - Once the Apple iPhone XR device is booted in recovery mode, iTunes will throw a pop up message that “iTunes has detected an iPhone in recovery mode”. Simply, hit the “OK” button over the message and then push the “Restore iPhone” button followed by confirming your actions.
@@ -96,11 +92,12 @@ Note: Since we’re going to unlock your Apple iPhone XR using Find My iPhone se
 
 ![erase iPhone](https://images.wondershare.com/drfone/article/2019/09/unlock-iphone-icloud.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 5:** Lastly, wait for the process to complete and upon completion set up your device as usual.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 5. How about Apple iPhone XR restrictions passcode?
 
 Apple iPhone XR restrictions is a vital setting that is used to lock down a set of functions of the iPhone. These iPhone restrictions are also known as Parental Controls. That implies one can make use of these settings to block or hide songs that have explicit lyrics/content or barring YouTube from running, etc.
@@ -131,6 +128,10 @@ This guide will take you through the simple process of **changing your Apple ID 
 
 ![change your apple id](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-email-01.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part I: Why Change Your Apple ID Email?
 
 Your Apple ID email helps you access your apps, music, and more. But sometimes, you might need to change it for simple reasons. Let's look at why you might want to change your Apple ID email in easy-to-understand terms.
@@ -149,6 +150,10 @@ These are the simple reasons why you might want to change your Apple ID email. I
 ## Part II: Step-by-Step Guide: How to Change Apple ID Email
 
 Before you jump into **changing your Apple ID email address**, there's an essential step to take. Just like you'd secure your valuables before embarking on a journey, [<u>backing up your device </u>](https://drfone.wondershare.com/iphone-backup/upgrade-your-iphone-without-losing-your-data.html) before going through the email change process is vital. This step ensures that none of your precious data is lost during the transition.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### A. How To Change Your Apple Email Address on Various Devices
 
@@ -216,6 +221,10 @@ Now that you've successfully changed your Apple ID email, it's crucial to ensure
 
 ![update apple id settings](https://images.wondershare.com/drfone/article/2023/10/how-to-change-apple-id-email-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Tap **Continue,** then wait for a few moments. Your Apple ID will then get updated.
 
 By following these steps, you'll ensure that all your Apple devices are synced with your updated email address, providing a seamless and consistent Apple experience across all your gadgets. Now, with your new Apple ID email, you're ready to explore the Apple ecosystem with renewed convenience and security.
@@ -226,6 +235,9 @@ What if you find yourself in a situation where you want to change your Apple ID 
 
 ![drfone v13 toolbox](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Features of Dr.Fone - Screen Unlock (iOS)
 
@@ -246,6 +258,10 @@ Outlined below is the step-by-step guide on how to use Dr.Fone – Screen Unlock
 **Note:** Ensure your device's battery levels are enough before proceeding.
 
 ![drfone unlock ios screen](https://images.wondershare.com/drfone/guide/unlock-ios-screen-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 3:** Following that, place your iDevice in **Recovery Mode**. Follow the on-screen instructions to set your iDevice into mode based on your phone model.
 
@@ -280,14 +296,11 @@ By using Dr.Fone - Screen Unlock (iOS), you can regain access to your iOS device
 
 [<u>How to Fix Email Disappeared from iPhone?</u>](https://drfone.wondershare.com/iphone-problems/email-disappeared-from-iphone.html)
 
-
 ## Conclusion
 
 This guide easily explored the process of **changing your Apple ID email address**. It started by understanding why this change might be necessary and provided straightforward methods for Mac, mobile, and browser users to accomplish it seamlessly.
 
 But what if you're locked out of your iOS device? Don't fret; Dr.Fone - Screen Unlock (iOS) is a user-friendly tool that can help you regain access to your device. It ensures a smooth transition to your new email. Unlock new possibilities with Dr.Fone, a reliable companion in managing your iOS device. Explore its features and simplify your Apple journey today!
-
-
 
 ## 7 Ways to Lock Apps on Apple iPhone XR and iPad Securely
 
@@ -304,6 +317,10 @@ Utilizing Screen Time on your Apple iPhone XR offers a versatile way to manage a
 **Step 2.** Select the apps or categories of the apps, tap "Next," and choose the "Time Limit" for the selected apps. After deciding the time limit, press "Add" from the top right corner to add an app limitation.
 
 ![tap on add limit option](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Lock Apps on iPhone with Face ID & Passcode?
 
@@ -353,11 +370,13 @@ By taking the assistance of Apple’s native Restrictions feature, you can app l
 
 **Step 4.** If you want, then you can also switch this feature off for any app using the same method.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Bonus Tip: How to Unlock iPhone withoutScreen Locks (PIN/pattern/fingerprints/face)
 
 It can be a trouble if you forget your Apple iPhone XR passcode since there are many restrictions on using iPhone. Also, if you are still unable to verify your Apple ID by using the above ways you may consider removing your Apple ID on your iOS devices. Here is an easy way to help you bypass Apple ID without a password and 100% working, which is to use Dr.Fone - Screen Unlock (iOS). It’s a professional iOS unlocker tool that can help you remove various locks on iPhones and iPads. With only a few steps, you can easily remove your Apple ID.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -367,9 +386,6 @@ Remove iPhone iPhone-locked screen without Hassle.
 - Save your Apple iPhone XR quickly from the disabled state.
 - Free your sim out of any carrier worldwide.
 - Works for all models of iPhone, iPad, and iPod touch.
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - Fully compatible with the latest iOS.![New icon](https://images.wondershare.com/drfone/others/new_23.png)
 
 **4,008,670** people have downloaded it
@@ -397,6 +413,10 @@ Besides the Restrictions feature, you can also take the assistance of Guided Acc
 **Step 6.** To exit the Guided Access mode, tap the Home screen three times and provide the respective passcode.
 
 ![exit guided access](https://images.wondershare.com/drfone/article/2017/09/15060136247710.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 6: How to Lock Apps on iPhone with Touch ID?
 
@@ -436,9 +456,6 @@ To do that, access "Safari" in "Settings" and move to"Content Blockers" to enabl
 
 Establish the connection between your kids' iOS devices and your PC by pairing them with your phone. From there, effortlessly choose and block any unwanted apps on your kids' phones. Additionally, you have the option to block apps based on their App Store ratings for added control and security.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![block the required apps](https://images.wondershare.com/drfone/article/2023/12/lock-apps-on-iphone-12.jpg)
 
 ### 2\. Lock apps onApple iPhone XR & iPad using App Locker
@@ -485,21 +502,21 @@ Just like Applocker, BioProtect is another third-party tool that works only on j
 
 ![protected applications](https://images.wondershare.com/drfone/article/2017/09/15060137256044.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 7.** Simply turn on (or off) the feature of the app that you wish to lock.
 
 **Step 8.** You can also go to the “Touch ID” feature to further calibrate the app.
 
 **Step 9.** After setting the lock, you would be asked to authenticate using your fingerprint to access the protected app.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![authenticate using fingerprint](https://images.wondershare.com/drfone/article/2017/09/15060137676497.jpg)
 
 ### Wrap it up
 
 By following these solutions, you would be able to learn how to lock apps on the Apple iPhone XR without much trouble. We have provided both, third-party as well as native solutions to app lock the Apple iPhone XR in a secure manner. You can go with your preferred option and provide an added layer of security on your device to keep it safe.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -513,9 +530,18 @@ By following these solutions, you would be able to learn how to lock apps on the
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-instant-messaging-guide-start-a-skype-group-talk-for-2024/"><u>[New] Instant Messaging Guide Start a Skype Group Talk for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-10-simple-steps-to-superior-pixlr-edits/"><u>[Updated] 10 Simple Steps to Superior Pixlr Edits</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-cutting-edge-techniques-mastering-youtube-subtitlecc-additions/"><u>[Updated] 2024 Approved Cutting-Edge Techniques Mastering YouTube Subtitle/CC Additions</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-instagram-edge-enhancement-3-essential-methods/"><u>[Updated] In 2024, Instagram Edge Enhancement - 3 Essential Methods</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-mastering-unlimited-data-keep-essential-lists/"><u>2024 Approved Mastering Unlimited Data Keep Essential Lists</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-apple-iphone-12-pro-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot Apple iPhone 12 Pro Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-apple-iphone-6s-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to Apple iPhone 6s Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-apple-iphone-xs-max-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Apple iPhone XS Max Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-14-plus-drfone-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-webster.techidaily.com/losung-fur-den-fehler-usb-stick-nicht-erkannt-durch-windows-10-medienherstellungstool/"><u>Lösung Für Den Fehler 'USB-Stick Nicht Erkannt' Durch Windows 10 Medienherstellungstool</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/remove-device-supervision-from-your-iphone-se-2022-drfone-by-drfone-ios/"><u>Remove Device Supervision From your iPhone SE (2022) | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Device Error Cleared - Back to Normal Operation
-date: 2025-01-30T23:00:07.724Z
-updated: 2025-01-31T20:01:39.819Z
+date: 2025-02-08T17:34:54.313Z
+updated: 2025-02-15T03:15:35.301Z
 tags:
   - win11
   - win10
@@ -26,6 +26,10 @@ If you encounter**This device is disabled. (Code 22)**in Device Manager, here ar
 3. [**Uninstall your device driver**](https://cowinaudio.pxf.io/pyx40e)
 4. **[Reset the BIOS settings](https://bluettius.sjv.io/dkpnv2)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Enable your device driver
 
 Code 22 occurs usually because your device is manually disabled. Then manually enabling it should solve the problem. Here’s how to do so：
@@ -37,17 +41,21 @@ Code 22 occurs usually because your device is manually disabled. Then manually e
 3. Expand the category that your device belongs to, right-click your device and select**Enable device** .  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98e536637bc.jpg)
 If the problem persists, try the next fix.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your device driver
 
@@ -72,10 +80,6 @@ Uninstalling your device driver is another solution you can try to fix **This de
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Fix 4: Reset the BIOS settings
 
 If the above steps don’t work for you, to fix driver error code 22, you can try removing the CMOS battery to reset BIOS to its default settings, which sounds like an ultimate fix. It requires some skills. You can follow the instructions below:
@@ -88,22 +92,18 @@ If the above steps don’t work for you, to fix driver error code 22, you can tr
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c88244255.jpg)  
  Example – CMOS battery on a desktop PC  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On laptops, finding the battery housing may be not as easy. Some models have a small pop-out tray on the chassis to enable easy removal. Some may be covered with something as protection (see an example below).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c4a50b434.jpg)  
  Example – CMOS battery on a laptop
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5. Remember which direction the battery is installed. Usually the engraved side, the positive side, is face up. Then, remove the CMOS battery from the main board (most can simply be popped out).![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c58fd6ffe.jpg)
 6. Wait for about one or two minutes for the CMOS to reset itself to its defaults.
 
 7. Place the battery back in the housing, seal your computer’s case, and start your computer. Your BIOS should have reset itself, re-enabling your graphics device in the process.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b98c68d02c94.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ---
 
@@ -126,18 +126,20 @@ Please do reply if you got your problem fixed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-leveraging-zoom-in-email-chats-a-guide-to-gmail-users/"><u>[New] Leveraging Zoom in Email Chats – A Guide to Gmail Users</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/2024-approved-achieving-professional-editing-without-the-price-tag/"><u>2024 Approved Achieving Professional Editing Without the Price Tag</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-navigating-android-video-calls-effortlessly/"><u>2024 Approved Navigating Android Video Calls Effortlessly</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-optimize-your-online-presence-incorporating-video-filters-in-zoom/"><u>2024 Approved Optimize Your Online Presence Incorporating Video Filters in Zoom</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/a-comprehensive-guide-to-iphone-14-plus-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>A Comprehensive Guide to iPhone 14 Plus Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/android-settings-tweak-how-to-turn-off-amber-and-other-government-warnings/"><u>Android Settings Tweak: How to Turn Off AMBER and Other Government Warnings</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/disabled-apple-iphone-11-how-to-unlock-a-disabled-apple-iphone-11-drfone-by-drfone-ios/"><u>Disabled Apple iPhone 11 How to Unlock a Disabled Apple iPhone 11? | Dr.fone</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-amass-1000-supporters-for-your-channel/"><u>In 2024, Amass 1,000 Supporters for Your Channel</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-iphone-15-plus-drfone-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your iPhone 15 Plus | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-15-plus-with-or-without-password-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone 15 Plus With or Without Password | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-thinking-about-changing-your-netflix-region-without-a-vpn-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, Thinking About Changing Your Netflix Region Without a VPN On Apple iPhone SE (2022)? | Dr.fone</u></a></li>
-<li><a href="https://app-tips.techidaily.com/the-emergence-of-immediate-innovation-a-disparate-spread-across-industries/"><u>The Emergence of Immediate Innovation - A Disparate Spread Across Industries.</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-twitch-downtime-is-there-a-widespread-glitch-affecting-everyone/"><u>Understanding Twitch Downtime: Is There a Widespread Glitch Affecting Everyone?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-learn-to-fine-tune-youtube-videos-for-efficient-consumption/"><u>[New] In 2024, Learn to Fine-Tune YouTube Videos for Efficient Consumption</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-effective-approaches-to-downloading-hectic-tiktok-archives/"><u>[Updated] 2024 Approved Effective Approaches to Downloading Hectic TikTok Archives</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-exploring-vimeo-digital-content-hub-for-2024/"><u>[Updated] Exploring Vimeo Digital Content Hub for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-on-iphone-12-pro-with-or-without-password-drfone-by-drfone-ios/"><u>How To Change Your Apple ID on iPhone 12 Pro With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-flashlight-from-apple-iphone-11-pro-lock-screen-drfone-by-drfone-ios/"><u>How To Remove Flashlight From Apple iPhone 11 Pro Lock Screen | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-pro-to-other-iphone-12-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 Pro to other iPhone 12 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>In 2024, Can I use iTools gpx file to catch the rare Pokemon On Motorola Moto E13 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-apple-iphone-7-plus-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your Apple iPhone 7 Plus When You Forget the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-iphone-se-2022-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix iPhone SE (2022) Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-15-pro-without-passcode-4-easy-methods-drfone-by-drfone-ios/"><u>In 2024, How To Unlock iPhone 15 Pro Without Passcode? 4 Easy Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlock-iphone-se-2020-without-passcode-easily-drfone-by-drfone-ios/"><u>In 2024, Unlock iPhone SE (2020) Without Passcode Easily | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-why-are-videos-invisible-on-sony-a6400/"><u>In 2024, Why Are Videos Invisible on Sony A6400?</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/revolutionizing-ai-throughout-best-5-prompt-geners/"><u>Revolutionizing AI Throughout: Best 5 Prompt Geners</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-breathe-new-life-into-your-mac-a-guide-to-freeing-up-space-and-improving-fcpx-performance-for-2024/"><u>Updated Breathe New Life Into Your Mac A Guide to Freeing Up Space and Improving FCPX Performance for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/vividplay-app-consumer-feedback/"><u>VividPlay App Consumer Feedback</u></a></li>
 </ul></div>
 

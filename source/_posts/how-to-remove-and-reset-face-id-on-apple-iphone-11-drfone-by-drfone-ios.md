@@ -1,7 +1,7 @@
 ---
 title: How to Remove and Reset Face ID on Apple iPhone 11 | Dr.fone
-date: 2024-07-15T05:59:39.274Z
-updated: 2024-07-16T05:59:39.274Z
+date: 2025-02-09T00:42:52.446Z
+updated: 2025-02-15T03:13:07.567Z
 tags: 
   - unlock
   - remove screen lock
@@ -58,6 +58,10 @@ Step 1: Check if Face ID is enabled for purchases in these stores by going to Se
 
 ![check face id settings](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: On any of these stores, when you tap on the option to buy some content, a payment confirmation popup will be displayed along with instructions to authenticate yourself using Face ID.
 
 ![make purchases with face id](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-4.jpg)
@@ -82,13 +86,14 @@ Step 5: When paying at retail outlets, hold your Apple iPhone 11 (top being clos
 
 Step 6: To pay using Apple Pay on websites, choose Apple Pay as the payment method, double press the Side Button, look at your Apple iPhone 11, and wait for the Done message and checkmark to finish the process.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### II.III Lowering Ringer and Alarm Volume Automatically
 
 Face ID also enables what Apple calls Attention Aware features that are conveniences afforded to users who have a Face ID enabled iPhone.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![attention aware features](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-6.jpg)
 
 Setting up and using Attention Aware features is easy:
@@ -127,11 +132,19 @@ Step 2: Tap the Memoji button (a character in a yellow frame) and swipe to selec
 
 ![recording a memoji](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Tap the Record button and you now have 30 seconds to do what you want with your face and the character will reproduce it on screen for you.
 
 Step 4: When done, the Record button changes to Send:
 
 ![sending a memoji](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-9.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Tap Send to send your first Memoji/ Animoji.
 
@@ -150,6 +163,10 @@ Step 1: Go to Settings > Face ID and Passcode.
 Step 2: Scroll and tap the option "Reset Face ID" to remove Face ID on your Apple iPhone 11 13/12/11.
 
 ![wa stickers](https://images.wondershare.com/drfone/article/2021/09/remove-face-id-on-iphone-13-11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part IV: How to Set Up Face ID on Your Apple iPhone 11
 
@@ -179,7 +196,9 @@ If this does not resolve it, you need to take the Apple iPhone 11 device to the 
 
 Face ID is more than a nifty authentication system in iPhones (and iPads) and brings some unique features that are not found in previous Touch ID enabled devices and enable the users to interact with people (Animojis and Memojis) and with the Apple iPhone 11 (user authentication via facial metrics, Attention Aware features) in new ways. There are times when this does not work as expected, and you can reset and remove Face ID if you feel this is not your cup of tea. Apple iPhone 11 can be used solely with passcodes if you want. If you find that your screen is locked and you can‘t unlock it, you can always find help in tools such as Dr.Fone - Screen Unlock (iOS). So go ahead, use the new Face ID on your Apple iPhone 11 with confidence, and enjoy a more secure experience on your new iPhone than ever before.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -205,7 +224,6 @@ With a quick little tap, you can have your Apple iPhone 11’s camera working as
 Moreover, you might be able to **use the Apple Watch to unlock your Apple iPhone 11**.
 
 Now, you cannot just **unlock any Apple iPhone 11 with your Watch**. The devices must be paired, and you’ll need to follow a few steps to enable this option. Here’s how to unlock your phone using your Apple Watch like a pro.
-
 
 ## Part 1. Can I Use an Apple Watch To Unlock My Apple iPhone 11?
 
@@ -306,6 +324,10 @@ Remember, you only need WiFi and Bluetooth on but don’t need to be connected t
 
 If the problem persists, you could also restart your devices and try again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 3. Reset Your Face ID
 
 In some instances, it’s the Face ID feature that’s causing trouble, so you might want to try and reset it. It’s much easier than it may sound, you just need to follow the next few steps:
@@ -369,13 +391,15 @@ It’s all quite simple:
 
 To perform a hard reset, simultaneously press and hold the power button and digital crown.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 Using your Apple Watch to unlock your Apple iPhone 11 is convenient when you cannot use the Face ID feature. It allows you to seamlessly unlock your phone when wearing sunglasses, goggles, face masks, or other face coverings that prevent the Face ID from working.
 
 Enabling this option is a straightforward process, and if there’s ever a glitch, there are several options you could try to repair it.
-
-
 
 ## Apple iPhone 11 Backup Password Never Set But Still Asking? Here's the Fix
 
@@ -419,23 +443,8 @@ The likelihood of success with this approach is relatively low. However, it is s
 2. To open a new dialogue box, double-click the most recent backup file, and you will see one appear before you.
 3. On this page, choose Show Password to get the password for the Apple iPhone 11 backup. However, you will first be prompted to provide the administrator password associated with your iCloud account to recover the password.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![keychain](https://images.wondershare.com/drfone/article/2022/12/iphone-backup-password-never-set-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. "Reset All Settings"
 
 Resetting the password is another option at your disposal if you encounter the Apple iPhone 11 backup password never set problem. How you do this will be different depending on the version of iOS that you have installed.
@@ -447,6 +456,10 @@ Here are what you can do with your iOS smartphone if it has iOS 11 or a later ve
 **Step 2:** After locating the **General** menu, go to the **Reset** menu and then hit the **Reset All Settings** button. Please confirm your action by providing the password for your Apple iPhone 11.
 
 ![reset all settings](https://images.wondershare.com/drfone/article/2022/12/iphone-backup-password-never-set-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3:** Once the reset has been completed, your previous password will be deleted.
 
@@ -478,9 +491,6 @@ On the other hand, it does make it possible for you to generate a fresh backup i
 
 **Step 2:** While in the interface for **Screen Unlock**, navigate to the bottom right of the screen and tap on the feature labeled **"Remove iTunes BackUp Encryption."** This will allow you to proceed.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![screen unlock](https://images.wondershare.com/drfone/guide/android-screen-unlock-2.png)
 
 **Step 3:** When brought to this screen, please use a USB cord to connect your iOS device to your personal computer. If Dr.Fone can identify this relationship, the following picture will appear for you to see.
@@ -495,22 +505,21 @@ Please read the following three notes carefully before clicking the **"Remove No
 
 **Step 4:** If you have an iTunes backup, Dr.Fone may automatically verify it and delete it. This encryption will be removed once the percentage on the progress meter reaches the end. This procedure won't take a lot of time at all.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![checking](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-4.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 5:** The encryption of the iTunes backup has been successfully erased! Your backed-up data may be quickly restored, transferred, wiped clean, and backed up again. Hence, you can enter the password to unlock your Apple iPhone 11 backup never set in the first place!
 
 ![removed](https://images.wondershare.com/drfone/guide/remove-itunes-backup-encryption-5.png)
-
 
 ### The Bottom Line
 
 There are four ways to fix the problem if iTunes keeps asking for your Apple iPhone 11 backup password. The first method is to try all the passwords you use on your Apple iPhone 11. You can try finding the password from Keychain on macOS if this does not work. Another option is to "Reset All Settings" on your Apple iPhone 11.
 
 Lastly, Dr.Fone-Screen Unlock is a program that can help you bypass the passcode and get into your backups. So, what are you waiting for? It's time to avoid the problem of iTunes backup password never set.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -524,9 +533,22 @@ Lastly, Dr.Fone-Screen Unlock is a program that can help you bypass the passcode
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-design-humor-in-pixels-adobe-edition-for-2024/"><u>[New] Design Humor in Pixels Adobe Edition for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-teamwork-made-simple-the-ultimate-guide-to-8-schedulers/"><u>[New] In 2024, Teamwork Made Simple The Ultimate Guide to 8 Schedulers</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-instagram-video-limits-explained-in-detail-for-2024/"><u>[New] Instagram Video Limits Explained in Detail for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-navigating-the-world-of-phone-based-video-recording/"><u>[New] Navigating the World of Phone-Based Video Recording</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/essential-tips-precise-video-trimming-on-vimeo-5-methods-for-2024/"><u>Essential Tips Precise Video Trimming on Vimeo [5 Methods] for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-xs-max-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone XS Max Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-xs-max-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone XS Max, Apples New iPhone | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-bypass-iphone-x-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>In 2024, How to Bypass iPhone X Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-on-apple-iphone-13-pro-with-or-without-password-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID on Apple iPhone 13 Pro With or Without Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-xs-max-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, iPhone XS Max Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-the-ultimate-guide-to-stock-photo-memes-and-realities/"><u>In 2024, The Ultimate Guide to Stock Photo Memes & Realities</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/remove-device-supervision-from-your-iphone-12-mini-drfone-by-drfone-ios/"><u>Remove Device Supervision From your iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/step-by-step-solutions-for-reducing-lag-in-street-fighter-6-for-pc-gamers/"><u>Step-by-Step Solutions for Reducing Lag in Street Fighter 6 for PC Gamers</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-xr-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/troubleshooting-hevc-video-playback-problems-in-pc-systems-across-various-windows-versions/"><u>Troubleshooting HEVC Video Playback Problems in PC Systems Across Various Windows Versions</u></a></li>
+</ul></div>
 

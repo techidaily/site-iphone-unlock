@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Find My Apple iPhone 11 when Phone is Broken? | Dr.fone
-date: 2024-07-15T05:59:41.579Z
-updated: 2024-07-16T05:59:41.579Z
+date: 2025-02-07T19:18:16.530Z
+updated: 2025-02-14T21:16:32.818Z
 tags: 
   - unlock
   - remove screen lock
@@ -22,6 +22,10 @@ Apple ensures the privacy and security of its customers. For that, it has introd
 
 Downloading and enabling Find My iPhone can be really easy and cinch but turning it off can be an arduous task. But we have you covered through this article that shall tell you about this app in detail and guide you on how to turn off Find My iPhone even when your Apple iPhone 11 is broken.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: What is Find My iPhone?
 
 Find My iPhone is an application forged by Apple that keeps track of your Apple iPhone 11's location protects your data. Once you enable this application, it requires your iCloud password to unlock your phone to keep your Apple iPhone 11 safe from the wrong hands. This application comes in handy when you accidentally lose or misplace your phone.
@@ -31,8 +35,6 @@ The best part about this application is that it is free of cost. It usually come
 ## Part 2: Efficient Way of Turning Off Find My iPhone Within Second- Dr. Fone
 
 [Dr.Fone - Screen Unlock](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) is an excellent data recovery and management software created by Wondershare. However, limiting it to just recovery and management of data will not be just as it offers much more than just that. Transferring files, repairing the operating system, changing the GPS location, and fixing the activation lock are its amazing services.
-
-
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -75,11 +77,19 @@ A warning will be displayed on the screen asking for confirmation to remove the 
 
 ![confirm the agreement](https://images.wondershare.com/drfone/drfone/remove-activation-lock-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 6: Unlock your Apple iPhone 11**
 
 Click on “Start Unlock” to proceed. Once the process is started, you have to wait for a moment until the activation lock is successfully removed.
 
 ![start the unlock process](https://images.wondershare.com/drfone/drfone/remove-activation-lock-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 7: Turn off Find My iPhone**
 
@@ -104,6 +114,10 @@ Here we have explained to you step by step how to turn off Find My iPhone on bro
 **Step 3:** Click on the "All Devices" option from the top. Select your Apple iPhone 11, which you want to remove by clicking on "Remove from account."
 
 ![select your device](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 4:** Once your device is removed from the account, a window will pop up asking you to delete the option of that device from your iCloud account. Now you may log in Find My iPhone with your iCloud account on another device.
 
@@ -130,6 +144,10 @@ Once your Apple iPhone 11 shows the Apple logo, it means the Recovery Mode is ac
 **Step 3:** Now click on “Restore” so iTunes can download software on your Apple iPhone 11. Once the process is completed, you can set up your Apple iPhone 11 as new. This means your previous data will be erased, and Find My iPhone will be disabled automatically.
 
 ![tap on restore option](https://images.wondershare.com/drfone/article/2021/06/turn-off-find-my-iphone-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -182,9 +200,6 @@ The Control Center on iPhones is a quick-access panel. You can access it by swip
 - **Step 3:** Tap the red minus (**\-**) sign next to the **Flashlight** icon.
 - **Step 4:** Tap **Remove** to confirm deleting the **Flashlight** icon from the **Control Center**.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remove flashlight from iphone control center](https://images.wondershare.com/drfone/article/2024/01/remove-flashlight-from-lock-screen-04.jpg)
 
 Quick Fix No. 4: Turn Off Back Tap Shortcut
@@ -198,6 +213,10 @@ Although the flashlight icon remains on the lock screen, you won't accidentally 
 - **Step 3:** Choose **None** instead of the currently assigned action, which might be ****Flashlight****.
 
 ![setup iphone back tap to none](https://images.wondershare.com/drfone/article/2024/01/remove-flashlight-from-lock-screen-05.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How To Turn Off the Flashlight on iPhone?
 
@@ -245,6 +264,9 @@ Forgotten passcodes and iCloud Activation Lock can leave you feeling shut out. T
 
 ![dr.fone homepage desktop interface](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 2:** Select **iOS** as the Apple iPhone 11 device type. Then, within the **Screen Unlock** window, select **Unlock iOS Screen** to begin the process.
 
@@ -280,17 +302,12 @@ And if ever locked out with the flashlight on, consider Dr.Fone Screen Unlock. T
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
 
-
-
 ## How To Fix Auto Lock Greyed Out on Apple iPhone 11
 
 Auto-lock on iOS devices serves multiple purposes - it conserves battery life, secures your data, and more. But have you encountered the **Auto-Lock greyed-out** dilemma, fixed at 30 seconds? When this setting becomes inaccessible, it limits your control over screen timeout.
 
 Read on if you've encountered a similar problem on your iOS device. In this guide, we'll explore the possible reasons and offer steps to fix **Auto-Lock greyed out on iPhone** and iPad devices. If force restarts or settings resets haven't worked for you, we've got alternative solutions. Let's get started.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![auto lock greyed out on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-01.jpg)
 
 ## Part 1: Why Is Auto-Lock Greyed Out on iOS Device?
@@ -394,9 +411,17 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 ![dr.fone screen unlock features](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 - **Step 3:** Select **Bypass MDM**, then click **Get Start** to proceed.
 
 ![unlock mdm situation options](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 - **Step 4:** Please review the message carefully before initiating the MDM bypass process. Once you've read it, click **Start to Bypass** to proceed.
 
@@ -408,16 +433,10 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 - **Step 6:** The software will display the progress of the bypass. Wait for it to complete.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![dr.fone bypassing mdm lock](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-5.png)
 
 - **Step 7:** You'll see a confirmation message once the bypass is successful. Click **Done** to exit. Your device should now be free from MDM restrictions.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![successfully bypassed mdm on ios](https://images.wondershare.com/drfone/guide/unlock-ios-mdm-6.png)
 
 Fix No.6: Check and Adjust Auto-Lock Settings
@@ -437,6 +456,10 @@ Here are the steps on **how to change Auto-Lock on iPad** devices:
 
 ![change auto lock on ipad](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-17.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** Once you've selected your preferred auto-lock duration, you can exit the **Settings** app. The change will be applied automatically.
 
 1. **Setup Auto-Lock on iPhone**
@@ -447,9 +470,6 @@ Here's **how to change Auto-Lock on iPhone** devices:
 - **Step 2:** Tap on **Display & Brightness**, scroll down, and tap **Auto-Lock**.
 - **Step 3:** Choose the desired time interval for your Apple iPhone 11 to automatically lock. The available options typically range from **30 seconds** to **5 minutes**. You may also have the option to select **Never** if you prefer to have the screen stay on indefinitely until you manually lock it.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change auto-lock on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-18.jpg)
 
 ## Conclusion
@@ -459,7 +479,6 @@ There you have it. This guide has equipped you with the knowledge and solutions 
 For an easy solution, use Dr.Fone Screen Unlock to bypass MDM restrictions, giving you control over your device. Whether it's a work phone or a personal device under MDM, Dr.Fone can offer an efficient solution. With a few clicks, you'll have the Auto-Lock back on track, ensuring your iOS device works again just how you want it.
 
 _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [Dr.Fone](https://tools.techidaily.com/wondershare-dr-fone-unlock-android-screen/) is here to help you. Download it and start a seamless unlock experience!_
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -473,9 +492,22 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-explaining-watermarks-securing-online-media/"><u>[Updated] 2024 Approved Explaining Watermarks Securing Online Media</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-humor-hubs-the-most-enjoyable-ringtone-downloads/"><u>[Updated] Humor Hubs The Most Enjoyable Ringtone Downloads</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/complete-guide-resetting-your-samsung-soundbar-easy-steps/"><u>Complete Guide: Resetting Your Samsung Soundbar - Easy Steps</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/did-your-iphone-12-pro-max-passcode-change-itself-unlock-it-now-drfone-by-drfone-ios/"><u>Did Your iPhone 12 Pro Max Passcode Change Itself? Unlock It Now | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/dramatic-lighting-in-hdr-portraits-techniques-and-tips/"><u>Dramatic Lighting in HDR Portraits Techniques and Tips</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-redmi-k70-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Redmi K70</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-past-paris-olympic-metrics-can-guide-sustainable-energy-practices-for-upcoming-global-sporting-contests/"><u>How Past Paris Olympic Metrics Can Guide Sustainable Energy Practices for Upcoming Global Sporting Contests</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-change-itel-a60s-lock-screen-password-by-drfone-android/"><u>How To Change Itel A60s Lock Screen Password?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-4-ways-to-unlock-apple-iphone-13-pro-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock Apple iPhone 13 Pro to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-xs-without-a-passcode-drfone-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone XS Without a Passcode | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-13-pro-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 13 Pro Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-se-i-do-get-answers-here-drfone-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone SE i Do? Get Answers here | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/is-your-apple-iphone-13-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your Apple iPhone 13 in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/top-6-high-performance-action-camcorders-superior-substitutes-for-the-gopro/"><u>Top 6 High-Performance Action Camcorders: Superior Substitutes for the GoPro</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/transformative-power-ais-effect-on-media-making/"><u>Transformative Power: AI’s Effect on Media Making</u></a></li>
+</ul></div>
 

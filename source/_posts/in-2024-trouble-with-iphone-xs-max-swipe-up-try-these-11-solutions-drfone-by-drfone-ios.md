@@ -1,7 +1,7 @@
 ---
 title: In 2024, Trouble with iPhone XS Max Swipe-Up? Try These 11 Solutions | Dr.fone
-date: 2024-07-15T05:53:31.610Z
-updated: 2024-07-16T05:53:31.610Z
+date: 2025-02-12T21:32:31.463Z
+updated: 2025-02-15T03:28:19.035Z
 tags: 
   - unlock
   - remove screen lock
@@ -31,6 +31,10 @@ Sometimes, the touch screen may need recalibration. This can cause the swipe-up 
 ### 3\. Physical Damage
 
 Physical damage, like heavy falls, can impact the phone's touch sensitivity. Moreover, it affects swipe gestures as a result.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 4\. Full Memory or Background Apps
 
@@ -84,9 +88,6 @@ After successfully downloading Dr.Fone on your device, navigate towards the left
 
 Select the Apple iPhone XS Max device type from the available options and select "iPhone." From the new window, select "iOS Repair," and following that, select "Standard Repair." Now, follow the instructions available and enable recovery mode for your iOS.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![choose to repair ios](https://images.wondershare.com/drfone/guide/ios-system-repair-1.png)
 
 **Step 3: Select iOS Firmware to Initiate the Repair Process**
@@ -94,7 +95,6 @@ Select the Apple iPhone XS Max device type from the available options and select
 After that, you'll reach a window showing different iOS firmware alternatives. Pick any as per your preferences and click "Download." Once the download is complete, click "Repair Now" and "Done" to end the repair process.
 
 ![initiate swipe up repair process](https://images.wondershare.com/drfone/guide/ios-system-repair-6.png)
-
 
 ### Fix 2. Force Restart iPhone
 
@@ -134,6 +134,10 @@ If your Apple iPhone XS Max swipe-up gesture isn't working specifically on the l
 
 ![toggle control center switch](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6. Enable Control Center Within Apps
 
 Are you experiencing issues with accessing the Control Center via the swipe-up gesture while using certain apps? If yes, ensuring that Control Center access is enabled within apps is essential. It ensures that the swipe-up gesture from the bottom edge of the screen functions. Here's how to enable Control Center access within apps:
@@ -141,6 +145,10 @@ Are you experiencing issues with accessing the Control Center via the swipe-up g
 **Instructions:** Navigate to Settings on your Apple iPhone XS Max and access "Control Center." On the following screen, activate the toggle next to "Access Within Apps." It will allow you to access the Control Center when using apps.
 
 ![enable access within apps option](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7. Update to the Latest iOS Version
 
@@ -166,6 +174,10 @@ VoiceOver is an accessibility feature on iPhones. It assists users with visual i
 
 ![turn off voice over option](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 9. Customize Touch Accommodations
 
 Touch Accommodations is an accessibility feature on iPhones. It is designed to modify touch sensitivity and enhance touchscreen interactions for users. Customizing these settings might resolve issues with unresponsive gestures like the swipe-up function. Here's how to customize Touch Accommodations to fix **the Apple iPhone XS Max 12 won't swipe up to unlock**:
@@ -178,9 +190,6 @@ Touch Accommodations is an accessibility feature on iPhones. It is designed to m
 
 ![set tap assistance to initial location](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-13.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 10. Turn Off Reduce Motion
 
 Reduce Motion is an accessibility setting on iPhones designed to reduce animations and visual effects. It is particularly for users sensitive to motion effects. However, enabling this feature might affect certain gestures or animations on the Apple iPhone XS Max device. Thus potentially causing issues with the swipe-up function. Here's how to turn off Reduce Motion to fix the **iPhone 11 won’t swipe up to unlock**:
@@ -193,9 +202,6 @@ Reduce Motion is an accessibility setting on iPhones designed to reduce animatio
 
 ![turn off reduce motion switch](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-15.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 11. Reset iPhone All Settings
 
 Resetting all settings on your Apple iPhone XS Max can help resolve software-related issues. It can help remove conflicts that might be affecting the swipe-up gesture. Note that this action will reset all settings on your device, but it won't delete your data. Here's how to reset all settings to fix **iPhone swipe not working**:
@@ -203,6 +209,10 @@ Resetting all settings on your Apple iPhone XS Max can help resolve software-rel
 **Step 1.** Go to your device's "General" settings and scroll down to tap the second last option, "Transfer or Reset iPhone." On the following screen, press "Reset" from the available two options.
 
 ![head to reset iphone options](https://images.wondershare.com/drfone/article/2023/12/iphone-swipe-up-not-working-16.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2.** Now, choose "Reset All Settings" from the pop-up options and confirm it by providing the passcode. Then, wait for a few moments as your Apple iPhone XS Max is restored to its original settings.
 
@@ -212,7 +222,9 @@ Resetting all settings on your Apple iPhone XS Max can help resolve software-rel
 
 Encountering **swipe not working on iPhone** can sometimes lead to difficulties. This is especially the case in unlocking the Apple iPhone XS Max device or accessing essential functions. In such scenarios, using [Wondershare Dr.Fone - Screen Unlock (iOS)](https://tools.techidaily.com/wondershare/drfone/iphone-unlock/) provides a reliable solution. It bypasses the swipe-up need and regains access to your Apple iPhone XS Max without relying on the problematic gesture. This tool offers a solution to unlock iPhone/iPad devices without the passcode.
 
-
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Dr.Fone - Screen Unlock (iOS)
 
@@ -232,6 +244,10 @@ It allows the removal of various lock screens present on iPhone, iPad, and iPod 
 1. This software is compatible with the latest iOS 17 and iPadOS 17, including iPhone 15 models.
 2. The unlocking process involves a simple 3-step procedure.
 3. With it, you can remove Apple ID from your device without the password.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Steps To Unlock iPhone Without Swiping Up via Wondershare Dr.Fone
 
@@ -255,14 +271,11 @@ Once the iOS firmware has been successfully downloaded, it undergoes verificatio
 
 ![choose to unlock the iphone](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
-
 ## Conclusion
 
 Having trouble with **swipe up not working on an iPhone** can be annoying. It stops you from using important stuff and moving around your phone quickly. This guide has lots of ways to fix it. We've covered simple things like restarting your Apple iPhone XS Max and cleaning the screen, as well as more complex stuff like changing settings and using unique options for accessibility. These fixes can help make the swipe-up gesture work again.
 
 We've also talked about a helpful tool called Wondershare Dr.Fone. It's made to fix problems with the lock screen, including issues with swiping on your Apple iPhone XS Max. Moreover, Dr.Fone - Screen Unlock lets you get into your Apple iPhone XS Max even when gestures aren't working properly.
-
-
 
 ## The Best Methods to Unlock the 'iPhone Locked to Owner' for Apple iPhone XS Max
 
@@ -326,10 +339,11 @@ To make this procedure work, the owner will need to use the Find My Device featu
 
 - ****Step 2:**** On the following screen, select your Apple iPhone XS Max from "All Devices." Now choose "Erase iPhone" from the available options to erase the Apple iPhone XS Max device and remove the Activation Lock.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![tap on erase iphone](https://images.wondershare.com/drfone/article/2023/06/iphone-locked-to-owner-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Use the DNS Method To Unlock the Apple iPhone XS Max Locked to Owner
 
@@ -395,6 +409,9 @@ After thoroughly considering the ramifications, tap "Unlock Now" to proceed. Now
 
 ![click on unlock now](https://images.wondershare.com/drfone/guide/bypass-activation-lock-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -499,7 +516,6 @@ The following steps explain **how to unlock iPhone without face ID or passcode**
 
 ### 4\. Dr.Fone-Screen Unlock
 
-
 This section will introduce you to our most important solution. Yes, you heard it right. If you need a hassle-free method to unlock your iDevice without a passcode or face ID, use Wondershare Dr.Fone Screen Unlock.
 
 Dr.Fone will not only remove the screen lock but also make sure to keep your identity safe. In addition, it is the easiest method and requires no prior knowledge. So if you are someone new to this technology, we suggest you follow the steps below:
@@ -536,7 +552,6 @@ Simply in no time, Dr.Fone will successfully unlock your device.
 
 **Note:** This unlocking process will erase everything off your Apple iPhone XS Max and bring it to the factory default state. Indeed, no other method that doesn't allow data erasure at the moment.
 
-
 ## Part 2: How to Turn Off Passcode or Face ID on My Device?
 
 Face ID can be a helpful method for unlocking your Apple iPhone XS Max - by simply looking at your phone. However, a few clients might worry that it's not as secure as utilizing a PIN to open your phone. If that is the best case for you, you can follow this manual to disable Face ID and depend on a passcode.
@@ -564,17 +579,9 @@ You'll have the option to turn off the switch for Face ID across different activ
 ![turn off passcode](https://images.wondershare.com/drfone/article/2022/11/how-to-unlock-iphone-without-face-id-7.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: Can I bypass my iPhone Face ID with a picture?
 
 As indicated by Apple, the short and obvious answer is no.
@@ -586,7 +593,6 @@ It doesn't work by snapping a picture of your face, but by taking a contour of y
 ### The Bottom Line
 
 That's all about our take on **how to unlock iPhone without passcode or face ID 2022.** We have worked hard to make sure you get the right solutions in hand. However, we strongly suggest Dr.Fone if you still face issues with our solutions. Even if the above methods fail, Dr.Fone will ensure you unlock your phone.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -600,9 +606,23 @@ That's all about our take on **how to unlock iPhone without passcode or face ID 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-can-you-make-outstanding-youtube-outro/"><u>[New] 2024 Approved How Can You Make Outstanding YouTube Outro?</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-full-disclosure-ricoh-theta-s-inside-and-out-for-2024/"><u>[New] Full Disclosure Ricoh Theta S Inside & Out for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-how-to-stream-on-discord-step-by-step-guide-for-2024/"><u>[New] How to Stream on Discord [Step-by-Step Guide] for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/nnovating-your-videos-first-impression-on-youtube/"><u>[New] Innovating Your Video's First Impression on YouTube</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-streamline-access-6-leading-free-and-on-demand-youtube-short-downloader-tools/"><u>[Updated] 2024 Approved Streamline Access 6 Leading Free & On-Demand YouTube Short Downloader Tools</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/apple-iphone-11-pro-max-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>Apple iPhone 11 Pro Max Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-fixes-to-solve-iphone-11-pro-randomly-asking-for-apple-id-password-drfone-by-drfone-ios/"><u>Complete Fixes To Solve iPhone 11 Pro Randomly Asking for Apple ID Password | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-12-pro-max-drfone-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-apps-from-infinix-zero-5g-2023-turbo-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Apps from Infinix Zero 5G 2023 Turbo to Another | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-change-your-sim-pin-code-on-your-realme-narzo-n53-phone-by-drfone-android/"><u>In 2024, How To Change Your SIM PIN Code on Your Realme Narzo N53 Phone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-11-with-a-mask-on-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 11 with a Mask On | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-what-does-jailbreaking-iphone-se-2020-i-do-get-answers-here-drfone-by-drfone-ios/"><u>In 2024, What Does Jailbreaking iPhone SE (2020) i Do? Get Answers here | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/integrating-facebook-portals-into-your-home-network/"><u>Integrating Facebook Portals Into Your Home Network</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/learn-how-to-lock-stolen-your-apple-iphone-se-2022-properly-drfone-by-drfone-ios/"><u>Learn How To Lock Stolen Your Apple iPhone SE (2022) Properly | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitters-top-10-viral-tiktoks-uncovered-for-2024/"><u>Twitter's Top 10 Viral TikToks Uncovered for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-12-mini-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone 12 mini i Do? Get Answers here | Dr.fone</u></a></li>
+</ul></div>
 
