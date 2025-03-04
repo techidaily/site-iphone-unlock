@@ -1,7 +1,7 @@
 ---
 title: In 2024, Locked Out of Apple iPhone XS? 5 Ways to get into a Locked Apple iPhone XS | Dr.fone
-date: 2025-02-08T00:45:52.117Z
-updated: 2025-02-15T00:44:42.122Z
+date: 2025-03-01T05:59:58.286Z
+updated: 2025-03-03T22:55:48.568Z
 tags: 
   - unlock
   - remove screen lock
@@ -63,10 +63,6 @@ You can watch the video below about how to unlock your Apple iPhone XS without P
 
 ![confirmation code to get into locked Apple iPhone XS](https://images.wondershare.com/drfone/drfone/ios-unlock-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 7.** Let the application resolve the issue on your phone. Once it is done, you will be notified that your lock screen is removed.
 
 ![got into locked Apple iPhone XS successfully](https://images.wondershare.com/drfone/drfone/ios-unlock-7.jpg)
@@ -96,10 +92,6 @@ Apple’s official Find My Apple iPhone XS is a smart and hassle-free way to loc
 **Step 1.** Log in to [iCloud’s website](https://www.icloud.com/) using your Apple ID and password. Visit the Find My Apple iPhone XS page and click on the “All Devices” option to view all the iOS devices linked to your Apple ID. Now, select the iOS device that is locked.
 
 ![icloud all devices](https://images.wondershare.com/drfone/article/2017/07/14994494968655.jpg "icloud all devices")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 2.** This will provide various tasks that you can perform on the iOS device. Click on the “Erase Apple iPhone XS” button to reset the Apple iPhone XS device.
 
@@ -205,10 +197,6 @@ To unlock your Disabled Apple iPhone XS or iPad without iTunes or iCloud, launch
 
 ![screen unlock](https://images.wondershare.com/drfone/guide/drfone-home.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2: Boot Your iDevice in Recovery or DFU Mode**
 
 Before bypassing the Apple iPhone XS lock screen, you need to boot it into Recovery or DFU mode by following the on-screen instructions. The recommended mode is Recovery mode, but if you cannot activate this mode, you can follow the link to learn how to activate DFU mode.
@@ -260,10 +248,6 @@ You can learn **how to unlock a disabled iPhone without iTunes** by implementing
 
 ![erase iphone](https://images.wondershare.com/drfone/article/2023/02/unlock-disabled-iphone-without-itunes-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Wait for a while as the "Find My iPhone" feature will remotely erase your iOS device. Needless to say, it will also disable its lock.
 
 **Pros**
@@ -307,10 +291,6 @@ If you have a Mac computer, you can use Finder to unlock your Disabled Apple iPh
 Here's how to unlock your Apple iPhone XS via Finder:
 
 ![finder](https://images.wondershare.com/drfone/article/2023/02/unlock-disabled-iphone-without-itunes-3.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 1.** Connect your Apple iPhone XS to your Mac using a cable.
 - **Step 2.** Open the Finder app.
@@ -376,10 +356,6 @@ Additionally, it was originally speculated as a loophole in iOS. Therefore, you 
 
 ![iphone photo library](https://images.wondershare.com/drfone/article/2017/07/14993658527934.jpg "iphone photo library")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 11**. Instead of selecting a picture, just exit the interface by pressing the Home button. This will open the iPhone’s home screen.
 
 ![press home](https://images.wondershare.com/drfone/article/2017/07/14993658783034.jpg "press home")
@@ -414,10 +390,6 @@ Unlocking a disabled iPhone without iTunes is becoming a popular choice because 
 - [iPhone Stuck on Connect to iTunes](https://drfone.wondershare.com/itunes/iphone-stuck-on-connect-to-itunes.html)
 - [Can't Update/Restore iPhone Due to Error Code 1100](https://drfone.wondershare.com/iphone-problems/how-to-fix-itunes-unknown-error-1100.html)
 - [Can't Restore iPhone Because of iTunes Error 11](https://drfone.wondershare.com/iphone-problems/itunes-error-11.html)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Wrap it up
 
@@ -478,10 +450,6 @@ Once the system has detected the phone, the user is advised to activate the DFU 
 
 ![ios unlock 2 2](https://images.wondershare.com/drfone/guide/unlock-ios-screen-3.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 4: Information for Confirmation**
 
 The next window will ask for some basic information regarding the iOS device and version.
@@ -506,10 +474,6 @@ Provide the system with an on-screen confirmation code to continue the process. 
 
 ![drfone advanced unlock 7](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Part 3. Erase iPhone from iCloud \[Apple ID & Password\]**
 
 People keep on switching between Android and iOS. Not everyone sticks to one thing, and so do passionate mobile users do. But suppose someone is changing their phone and they want to delete the Apple iPhone XS from iCloud, both the Apple ID and its password; what should be done in such a scenario?
@@ -519,10 +483,6 @@ The user can easily bypass the lock screen on their iPhone from iCloud only if t
 1. User is firstly supposed to log in to iCloud.com on their computer or any other device in use by using the Apple ID and password.
 
     ![ways to bypass Apple iPhone XS  lock screen-1](https://images.wondershare.com/drfone/article/2021/04/ways-to-bypass-ios-14-lock-screen-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
     In case the user has enabled the two-factor authentication on iPhone, then they should hit 'Trust' and enter the six-digit verification code sent to their iPhones on the iCloud web.
 
@@ -574,18 +534,22 @@ The article has covered a sufficient portion of knowledge for the user regarding
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/1717952355173-new-in-2024-twitch-vs-youtube-an-in-depth-comparative-analysis/"><u>[New] In 2024, Twitch Vs. YouTube An In-Depth Comparative Analysis</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/2024-approved-elevate-your-media-projects-the-cutting-edge-montage-tools-of-today/"><u>2024 Approved Elevate Your Media Projects The Cutting-Edge Montage Tools of Today</u></a></li>
-<li><a href="https://driver-error.techidaily.com/fixing-intel-mcpu-driver-problems/"><u>Fixing Intel MCPU Driver Problems</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-overcome-geforce-experience-must-close-due-to-an-error-issues-effectively/"><u>How to Overcome 'GeForce Experience Must Close Due To An Error' Issues Effectively</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-13-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-13-passcode-without-computer-drfone-by-drfone-ios/"><u>How to Unlock iPhone 13 Passcode without Computer? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-15-pro-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock iPhone 15 Pro without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-best-solutions-for-asus-network-unlock-by-drfone-android/"><u>In 2024, Best Solutions for Asus Network Unlock</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-many-attempts-to-unlock-apple-iphone-6s-plus-drfone-by-drfone-ios/"><u>In 2024, How Many Attempts To Unlock Apple iPhone 6s Plus | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-trouble-with-apple-iphone-13-pro-max-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>In 2024, Trouble with Apple iPhone 13 Pro Max Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-ways-to-recover-deleted-files-from-vivo-v29e-by-fonelab-android-recover-data/"><u>Possible ways to recover deleted files from Vivo V29e</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/professional-weightlifter-themes-for-your-screen-premium-backgrounds-and-images-by-yl-computing/"><u>Professional Weightlifter Themes for Your Screen - Premium Backgrounds & Images by YL Computing</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolving-oxygen-a-real-time-space-colony-simulator-stability-problems/"><u>Resolving 'Oxygen: A Real-Time Space Colony Simulator' Stability Problems</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-to-embrace-or-not-the-itop-screen-recorder-dilemran/"><u>[Updated] 2024 Approved To Embrace or Not The ITop Screen Recorder Dilemran</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-best-route-generator-apps-you-should-try-on-vivo-s18-pro-drfone-by-drfone-virtual-android/"><u>5 Best Route Generator Apps You Should Try On Vivo S18 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-where.techidaily.com/comment-proteger-vos-donnees-en-installant-une-sauvegarde-intime-et-automatique-sur-votre-pc-avec-sandisk-les-2-solutions-preferees/"><u>Comment Protéger Vos Données en Installant Une Sauvegarde Intime Et Automatique Sur Votre PC Avec SanDisk : Les 2 Solutions Préférées</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ng-and-compositing-for-youtube-videos-using-premiere-pro/"><u>Cutting and Compositing for YouTube Videos Using Premiere Pro</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/different-methods-to-unlock-your-iphone-14-drfone-by-drfone-ios/"><u>Different Methods To Unlock Your iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/hacer-que-tus-dvds-de-regiones-especificas-funcionen-en-cualquier-lugar-con-un-hackeo-sencillo-para-windows-11-8-o-t7/"><u>Hacer Que Tus DVDs De Regiones Específicas Funcionen en Cualquier Lugar Con Un Hackeo Sencillo Para Windows 11, 8 O T7</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-can-i-unlock-my-iphone-12-after-forgetting-my-pin-code-drfone-by-drfone-ios/"><u>How Can I Unlock My iPhone 12 After Forgetting my PIN Code? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-do-you-remove-restricted-mode-on-iphone-x-drfone-by-drfone-ios/"><u>How Do You Remove Restricted Mode on iPhone X | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-open-your-iphone-7-plus-without-a-home-button-drfone-by-drfone-ios/"><u>How To Open Your iPhone 7 Plus Without a Home Button | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-your-apple-iphone-13-passcode-4-easy-methods-with-or-without-itunes-drfone-by-drfone-ios/"><u>How to Unlock Your Apple iPhone 13 Passcode 4 Easy Methods (With or Without iTunes) | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-a-comprehensive-guide-to-apple-iphone-11-blacklist-removal-tips-and-tools-drfone-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to Apple iPhone 11 Blacklist Removal Tips and Tools | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-apple-iphone-xs-max-drfone-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-stolen-apple-iphone-12-pro-in-different-conditionsin-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Stolen Apple iPhone 12 Pro In Different Conditionsin | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-samsung-galaxy-f34-5g-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Samsung Galaxy F34 5G</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/most-asked-questions-about-pokemon-go-battle-league-rewards-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>Most Asked Questions about Pokemon Go Battle League Rewards On Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-opengl32dll-error-a-step-by-step-guide/"><u>Resolving OpenGL32.dll Error: A Step-by-Step Guide</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-convert-mts-for-xiaomi-14-pro-by-aiseesoft-video-converter-play-mts-on-android/"><u>The way to convert MTS for Xiaomi 14 Pro</u></a></li>
 </ul></div>
 

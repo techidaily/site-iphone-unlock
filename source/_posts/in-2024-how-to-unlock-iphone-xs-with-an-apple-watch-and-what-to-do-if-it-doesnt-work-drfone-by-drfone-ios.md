@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Unlock iPhone XS With an Apple Watch & What to Do if It Doesnt Work | Dr.fone
-date: 2025-02-09T02:31:10.377Z
-updated: 2025-02-15T03:49:00.390Z
+date: 2025-02-26T00:24:32.544Z
+updated: 2025-03-04T05:50:04.090Z
 tags: 
   - unlock
   - remove screen lock
@@ -42,10 +42,6 @@ What could work is your Apple Watch.
 
 Depending on the Apple Watch version you own and your Apple iPhone XS model, you could use your watch to unlock your phone in any circumstances. It’s easy, secure, and convenient, above all else.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2. Requirements for Unlocking Apple iPhone XS With Apple Watch
 
 ![unlock requirements](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-3.jpg)
@@ -79,10 +75,6 @@ If you meet all the aforementioned criteria, setting up the feature to unlock yo
 
 ![iphone face id and passcode settings](https://images.wondershare.com/drfone/article/2023/05/unlock-iphone-with-watch-5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 2:** Type in your passcode;
 - **Step 3:** Find and enable **Unlock with Apple Watch**.
 
@@ -106,10 +98,6 @@ Now that you’ve enabled the option to unlock your Apple iPhone XS using your A
 Your Apple Watch will send an alert when you’ve used it to unlock your Apple iPhone XS. If you accidentally unlock your phone, simply tap on the **Lock Apple iPhone XS** on the screen of your watch to lock it.
 
 However, remember that the next time you want to use your Apple Watch to unlock your Apple iPhone XS, you’ll first need to type in your passcode.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4. What To Do if You Can’t Unlock Your Apple iPhone XS With a Watch
 
@@ -138,10 +126,6 @@ Your Apple iPhone XS and your Apple Watch need to have both WiFi and Bluetooth t
 Remember, you only need WiFi and Bluetooth on but don’t need to be connected to a WiFi network.
 
 If the problem persists, you could also restart your devices and try again.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 3. Reset Your Face ID
 
@@ -248,10 +232,6 @@ Though, before you proceed, you need to know the limitations of this method. Sin
 
 ![send to](https://images.wondershare.com/drfone/article/2017/07/14994464718727.jpg "send to")
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 7.** This will highlight your text in green. Now, tap on the add icon located nearby.
 
 ![add contact](https://images.wondershare.com/drfone/article/2017/07/14994464865459.jpg "add contact")
@@ -267,10 +247,6 @@ Though, before you proceed, you need to know the limitations of this method. Sin
 **Step 10.** This will open your device’s gallery. You can browse your photo library from here.
 
 ![iphone photo library](https://images.wondershare.com/drfone/article/2017/07/14994465537722.jpg "iphone photo library")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 11.** After a while, press the Home button. If everything goes right, you will enter the Home screen of your iOS device after unlocking it.
 
@@ -289,10 +265,6 @@ After implementing this solution, your iOS device will reset, and your data woul
 **Step 2.** Visit the Find My Apple iPhone XS service. Under the “All Devices” category, you can view all the iOS devices linked to your Apple ID. Select the Apple iPhone XS device you want to reset.
 
 ![icloud all devices](https://images.wondershare.com/drfone/article/2017/07/14994465948766.jpg "icloud all devices")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 3.** Select the feature of the Erase device and confirm your choice. Wait for a while as your Apple iPhone XS or iPad would be restored remotely.
 
@@ -416,10 +388,6 @@ If you want a hassle-free solution to remove the passcode from your Apple iPhone
 
 ![remove passcode](https://images.wondershare.com/drfone/article/2022/11/how-to-remove-passcode-from-iphone-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Here are some of its key features:
 
 - It can remove all passcodes from your device, including 4/6-digit codes, Touch/Face ID, etc.
@@ -500,17 +468,9 @@ After that, you can enter the new passcode that you want to set for your device.
 
 Besides, there is no way to change the passcode on your device. So, if you forget your passcode, you will have to factory reset your device to access it again.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### How to remove the passcode if I forgot it?
 
 If you forgot the passcode of your device and you want to remove it, then you can follow the steps given in this article. We have explained the complete process of removing the passcode from your device if you forgot it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### The Bottom Line
 
@@ -532,21 +492,24 @@ If you have any other questions or doubts about this process, feel free to ask u
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/new-navigating-the-insider-features-of-zoom-software-for-windows-11-for-2024/"><u>[New] Navigating the Insider Features of Zoom Software for Windows 11 for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-tips-for-three-engaging-video-descriptions-on-ig/"><u>[New] Tips for Three Engaging Video Descriptions on IG</u></a></li>
-<li><a href="https://discover-cheats.techidaily.com/elegant-hd-minimalist-themes-for-desktops-and-mobile-devices-curated-by-yl-software-solutions/"><u>Elegant HD Minimalist Themes for Desktops and Mobile Devices - Curated by YL Software Solutions</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-14-pro-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 14 Pro | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-file-document-with-digital-signature-service-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a .pdf file document with digital signature service</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-13-mini-drfone-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On iPhone 13 mini | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-apple-iphone-12-mini-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone 12 mini Backup Password? Heres What to Do | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6s-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6s without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-samsung-galaxy-s21-fe-5g-2023-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Samsung Galaxy S21 FE 5G (2023) Without PUK Codes</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-prime-cutting-edge-cameras-for-sports-and-adventure/"><u>In 2024, Prime Cutting-Edge Cameras for Sports & Adventure</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-the-best-methods-to-unlock-the-iphone-locked-to-owner-for-apple-iphone-xr-drfone-by-drfone-ios/"><u>In 2024, The Best Methods to Unlock the iPhone Locked to Owner for Apple iPhone XR | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/resolve-your-iphone-13-pro-max-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your iPhone 13 Pro Max Keeps Asking for Outlook Password | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-samsung-galaxy-f34-5g-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Samsung Galaxy F34 5G</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/tips-for-enabling-grid-on-google-meet/"><u>Tips for Enabling Grid on Google Meet</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-honor-x7b-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Honor X7b Phone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/what-does-jailbreaking-apple-iphone-xr-i-do-get-answers-here-drfone-by-drfone-ios/"><u>What Does Jailbreaking Apple iPhone XR i Do? Get Answers here | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-best-movie-trailers/"><u>[New] In 2024, Best Movie Trailers</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-complete-guide-to-proficient-periscope-operation/"><u>[New] In 2024, Complete Guide to Proficient Periscope Operation</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-the-ultimate-list-of-20-magic-words-for-marketing/"><u>[New] The Ultimate List of 20 Magic Words for Marketing</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-sprint-through-your-vimeo-media/"><u>[Updated] 2024 Approved Sprint Through Your Vimeo Media</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-transforming-smartphones-into-portable-cameras/"><u>[Updated] 2024 Approved Transforming Smartphones Into Portable Cameras</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-mastering-youtube-link-building-strategies-for-2024/"><u>[Updated] Mastering YouTube Link-Building Strategies for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-streamline-your-workflow-with-these-5-obs-editing-hacks-for-2024/"><u>[Updated] Streamline Your Workflow with These 5 OBS Editing Hacks for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-new-visionary-record-critique-and-counterfeit-replacements/"><u>2024 Approved New Visionary Record Critique & Counterfeit Replacements</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/7-top-ways-to-resolve-apple-id-not-active-issue-for-iphone-13-pro-max-drfone-by-drfone-ios/"><u>7 Top Ways To Resolve Apple ID Not Active Issue For iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/7-ways-to-lock-apps-on-iphone-13-pro-and-ipad-securely-drfone-by-drfone-ios/"><u>7 Ways to Lock Apps on iPhone 13 Pro and iPad Securely | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/a-stepwise-approach-to-film-color-grading-with-look-up-tables-luts-from-cg-central/"><u>A Stepwise Approach to Film Color Grading with Look-Up Tables (Luts) From CG Central</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Vivo S18e | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-se-2020-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone SE (2020) With an Apple Watch & What to Do if It Doesnt Work | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-different-methods-to-unlock-your-apple-iphone-13-drfone-by-drfone-ios/"><u>In 2024, Different Methods To Unlock Your Apple iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-12-learn-all-4-methods-drfone-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone 12? Learn All 4 Methods | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-apple-iphone-13-mini-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix Apple iPhone 13 mini Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-8-plus-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-6s-backup-password-never-set-but-still-asking-heres-the-fix-drfone-by-drfone-ios/"><u>iPhone 6s Backup Password Never Set But Still Asking? Heres the Fix | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-14-prevention-and-solution-drfone-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone 14 Prevention & Solution | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Learn How To Lock Stolen Your iPhone XS Properly | Dr.fone
-date: 2025-02-13T21:33:57.738Z
-updated: 2025-02-14T16:59:52.111Z
+date: 2025-02-26T13:56:12.089Z
+updated: 2025-03-03T16:07:12.781Z
 tags: 
   - unlock
   - remove screen lock
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/4824b5bc1ec47ceadb929bb6b68e8c9454196f2de
 When it comes to security in smartphones, Apple stands at the forefront. The Activation Lock is a robust barrier to preventing unauthorized access and device theft. Losing your Apple iPhone XS can be a disturbing event, as accidents are inevitable. Taking prompt action to stop unauthorized data access becomes important. This guide offers a step-by-step approach to **how to lock a stolen iPhone**.
 
 ![understanding ways to lock stolen iphone](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-1.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1. Major Threats To Consider When iPhone Is Stolen
 
@@ -58,10 +54,6 @@ Find My can be a source to track stolen iPhones, but certain scenarios are assoc
 
 ![consider last device location](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-4.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3. Using Lost Mode To Lock Stolen iPhone
 
 Lost Mode locks the Apple iPhone XS device and allows users to showcase a personalized message on the screen. This can help greatly in the safe return of the smartphone. The following are the simple steps you need to follow to learn **how to block stolen iPhone** with Lost Mode:
@@ -94,10 +86,6 @@ Lost Mode locks the Apple iPhone XS device and allows users to showcase a person
 
 ![activate lost mode from browser](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-10.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4. Can't Find Stolen Phone? Erase iPhone Completely
 
 When efforts to locate a stolen iPhone fail, the need to protect sensitive data intensifies. As a result, the option to erase the Apple iPhone XS device becomes a crucial step instead of **how to lock the Apple iPhone XS when lost**. Here's how to protect against the potential misuse of your information by erasing your device via Find My:
@@ -105,10 +93,6 @@ When efforts to locate a stolen iPhone fail, the need to protect sensitive data 
 - **Step 1.** After accessing Find My service, choose the lost device from the list and click "Erase This Device."
 
 ![erase device from find my](https://images.wondershare.com/drfone/article/2024/01/lock-stolen-iphone-properly-with-best-methods-11.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 - **Step 2.** Select "Continue" on the erased iPhone screen for the Find My app. Once you've added the number, press "Erase" in the top right corner and follow the on-screen instructions to finish the procedure.
 
@@ -317,10 +301,6 @@ Dr.Fone - Screen Unlock (iOS) simplifies the process of unlocking your Apple iPh
 
 ![dr.fone unlock now window](https://images.wondershare.com/drfone/guide/unlock-ios-screen-6.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 4:** The software will remove the lock screen from your Apple iPhone XS. Click **Try again** if your Apple iPhone XS is still locked. Otherwise, click the **Done** button. After successful unlocking, set up your Apple iPhone XS as new. You can now **unlock your Apple iPhone XS without the Home button**.
 
 ![dr.fone successful unlock window](https://images.wondershare.com/drfone/guide/unlock-ios-screen-9.png)
@@ -333,17 +313,9 @@ With iOS 15.2, Apple introduced the Erase iPhone feature, aiding users in resett
 
 ![erase iphone process](https://images.wondershare.com/drfone/article/2024/01/unlock-iphone-without-home-button-11.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 - **Step 2:** Tap the **Erase iPhone** button and input your Apple ID passcode to initiate the process. Once the Apple logo displays on your Apple iPhone XS screen, you can now access your device without the need for a passcode.
 
 **_**_Note_**__**_：_**_****Keep in mind that all previous content and data on the phone will be erased during this operation.**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Method 6: Unlock iPhone via iTunes/Finder
 
@@ -366,10 +338,6 @@ If none of the methods work or Dr.Fone is unavailable to you for some reason, th
 When faced with a broken iPhone Home button, several quick fixes and solutions can sometimes help. Here are some effective measures before considering professional assistance:
 
 ![broken iphone home button](https://images.wondershare.com/drfone/article/2024/01/unlock-iphone-without-home-button-14.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Recalibrate the Home Button**
 
@@ -406,10 +374,6 @@ Auto-lock on iOS devices serves multiple purposes - it conserves battery life, s
 Read on if you've encountered a similar problem on your iOS device. In this guide, we'll explore the possible reasons and offer steps to fix **Auto-Lock greyed out on iPhone** and iPad devices. If force restarts or settings resets haven't worked for you, we've got alternative solutions. Let's get started.
 
 ![auto lock greyed out on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-01.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: Why Is Auto-Lock Greyed Out on iOS Device?
 
@@ -561,10 +525,6 @@ Here's **how to change Auto-Lock on iPhone** devices:
 
 ![change auto-lock on iphone](https://images.wondershare.com/drfone/article/2024/01/auto-lock-greyed-out-18.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 There you have it. This guide has equipped you with the knowledge and solutions to fix the **Auto-Lock greyed out** on your Apple iPhone XS or iPad devices. From identifying the reasons like Low Power Mode and MDM configurations to implementing actionable fixes, you can now change your screen timeout. So, turn off those restrictions, remove MDM profiles, and head back to Settings.
@@ -587,24 +547,20 @@ _**Tips:** Are you searching for a powerful Screen Unlock tool? No worries as [D
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-a-step-by-step-expedition-to-youtubes-unseen-layers/"><u>[New] 2024 Approved A Step-by-Step Expedition to YouTube's Unseen Layers</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-top-20-tiktok-hip-hop-tracks-every-gen-z-likes/"><u>[New] In 2024, Top 20 TikTok Hip-Hop Tracks Every Gen Z Likes</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-action-perfected-in-depth-on-the-t5-camera/"><u>[Updated] 2024 Approved Action Perfected In-Depth on the T5 Camera</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-in-2024-best-choices-in-game-livestream-technology/"><u>[Updated] In 2024, Best Choices in Game Livestream Technology</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-tailored-content-personalizing-facebook-ad-videos-effectively/"><u>[Updated] In 2024, Tailored Content Personalizing Facebook Ad Videos Effectively</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-tecno-pova-5-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Tecno Pova 5 Pro</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/discover-the-future-of-airflow-thermaltakes-new-120mm-and-140mm-flippable-coolers-with-superior-magnetic-force-and-a-minimalist-aesthetic-no-rgb/"><u>Discover the Future of Airflow: Thermaltake's New 120Mm & 140Mm Flippable Coolers with Superior Magnetic Force and a Minimalist Aesthetic (No RGB)</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-xs-max-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/forgot-apple-iphone-13-pro-max-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot Apple iPhone 13 Pro Max Backup Password? Heres What to Do | Dr.fone</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-nokia-c110-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Nokia C110 in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-unlock-apple-iphone-8-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock Apple iPhone 8 without Passcode or Face ID | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-iphone-14-pro-max-drfone-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-iphone-7-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix iPhone 7 Unavailable Issue With Ease | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-disabled-iphone-13-miniipad-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Disabled iPhone 13 mini/iPad Without Computer | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xr-without-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XR Without Passcode? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-reset-itunes-backup-password-of-apple-iphone-14-pro-prevention-and-solution-drfone-by-drfone-ios/"><u>In 2024, Reset iTunes Backup Password Of Apple iPhone 14 Pro Prevention & Solution | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-apple-iphone-13-pro-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>In 2024, Unlocking Apple iPhone 13 Pro Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/unlock-pure-sound-performance-how-to-switch-off-audio-improvement-features-on-windows-10/"><u>Unlock Pure Sound Performance - How to Switch Off Audio Improvement Features on Windows 10</u></a></li>
-<li><a href="https://ai-video.techidaily.com/updated-in-2024-translate-any-hindi-video-into-english-with-ai/"><u>Updated In 2024, Translate Any Hindi Video Into English With AI</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-unseen-fb-video-tactics-unlock-all-sharing-options/"><u>[New] 2024 Approved Unseen FB Video Tactics Unlock All Sharing Options</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-expert-take-on-camstudios-recorder-efficacy/"><u>[New] Expert Take on CamStudio's Recorder Efficacy</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-14-pro-max-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone 14 Pro Max without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/accessing-the-latest-deal-free-vmware-virtualization-software-for-personal-users-a-step-by-step-guide-by-zdnet/"><u>Accessing the Latest Deal: Free VMware Virtualization Software for Personal Users - A Step-by-Step Guide by ZDNet</u></a></li>
+<li><a href="https://howto.techidaily.com/bricked-your-nubia-z50s-pro-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Nubia Z50S Pro? Heres A Full Solution | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-make-the-most-of-your-iphone-12-mini-lock-screen-with-notifications-drfone-by-drfone-ios/"><u>How to Make the Most of Your iPhone 12 mini Lock Screen with Notifications? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-xr-passcode-without-computer-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone XR Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabled-apple-iphone-xs-how-to-unlock-a-disabled-apple-iphone-xs-drfone-by-drfone-ios/"><u>In 2024, Disabled Apple iPhone XS How to Unlock a Disabled Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-disabled-iphone-15-plus-how-to-unlock-a-disabled-iphone-15-plus-drfone-by-drfone-ios/"><u>In 2024, Disabled iPhone 15 Plus How to Unlock a Disabled iPhone 15 Plus? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-apple-iphone-8-drfone-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/multimedia-caption-compiler-for-2024/"><u>Multimedia Caption Compiler for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/preserve-your-iphone-memories-how-to-remove-only-icloud-photos-without-losing-local-copies/"><u>Preserve Your iPhone Memories: How to Remove Only iCloud Photos without Losing Local Copies</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/quick-fixes-how-to-shorten-youtube-videos-easily/"><u>Quick Fixes How to Shorten YouTube Videos Easily</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/redesign-windows-11-for-an-echo-of-the-90s/"><u>Redesign Windows 11 for an Echo of the 90S</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-resolving-windows-107-speaker-distortion-and-crackle-problems/"><u>Troubleshooting Guide: Resolving Windows 10/7 Speaker Distortion and Crackle Problems</u></a></li>
 </ul></div>
 
